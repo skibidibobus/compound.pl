@@ -1,0 +1,1905 @@
+<!DOCTYPE html>
+<html lang="pl" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>compound.pl — Rynki, Gospodarka, Technologia, Świat i Kursy</title>
+  <link rel="icon" href="/assets/brand/logo-mark.svg" type="image/svg+xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            base: '#0B0D12',
+            card: '#12151C',
+            cardHover: '#161A23',
+            line: 'rgba(255,255,255,0.06)',
+            ink: '#EDEDE9',
+            muted: '#8B92A1',
+            faint: '#5C6372',
+            accent: '#E8A33D',
+            up: '#34D399',
+            down: '#FB7185',
+            sky: '#7DD3FC',
+            violet: '#C4B5FD',
+          },
+          fontFamily: {
+            sans: ['Inter', '-apple-system', 'sans-serif'],
+            mono: ['"Geist Mono"', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    body { background: #0B0D12; color: #EDEDE9; font-family: 'Inter', sans-serif; -webkit-font-smoothing: antialiased; }
+    .no-scrollbar { scrollbar-width: none; }
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .card { background: #12151C; border: 1px solid rgba(255,255,255,0.06); border-radius: 20px; transition: background .2s, border-color .2s, transform .2s; }
+    .card:hover { background: #161A23; border-color: rgba(255,255,255,0.12); transform: translateY(-1px); }
+    .card-static { background: #12151C; border: 1px solid rgba(255,255,255,0.06); border-radius: 20px; }
+    .fade-in { animation: fade .3s ease both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+    input[type="range"] { accent-color: #E8A33D; cursor: pointer; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col selection:bg-accent selection:text-black">
+
+  <!-- ===== Pasek notowań rynkowych (FX, Surowce, Krypto, GPW, Indeksy) ===== -->
+  <div class="sticky top-0 z-40 bg-base/85 backdrop-blur-xl border-b border-line">
+    <div class="max-w-6xl mx-auto px-5 py-2.5 flex items-center gap-3">
+      <div class="flex items-center gap-1 shrink-0">
+        <button onclick="setTickerGroup('all')" id="tgrp-all" class="px-2.5 py-1 rounded-full text-[11px] font-medium bg-white/10 text-ink transition">Wszystkie</button>
+        <button onclick="setTickerGroup('gpw')" id="tgrp-gpw" class="hidden sm:inline-block px-2.5 py-1 rounded-full text-[11px] text-muted hover:text-ink transition">GPW</button>
+        <button onclick="setTickerGroup('fx')" id="tgrp-fx" class="hidden sm:inline-block px-2.5 py-1 rounded-full text-[11px] text-muted hover:text-ink transition">Waluty</button>
+        <button onclick="setTickerGroup('crypto')" id="tgrp-crypto" class="hidden md:inline-block px-2.5 py-1 rounded-full text-[11px] text-muted hover:text-ink transition">Krypto & Surowce</button>
+      </div>
+
+      <span class="h-3.5 w-px bg-white/10 shrink-0"></span>
+
+      <div id="ticker-container" class="no-scrollbar flex items-center gap-2 overflow-x-auto whitespace-nowrap flex-1">
+        <span class="text-faint text-xs">Wczytywanie notowań…</span>
+      </div>
+
+      <button onclick="switchTab('kursy')" class="hidden lg:flex items-center gap-1.5 text-[11px] text-accent hover:underline shrink-0 font-medium">
+        Tabele kursów →
+      </button>
+    </div>
+  </div>
+
+  <!-- ===== Pasek Pilnego Komunikatu Redakcyjnego (Breaking News z Panelu Admina) ===== -->
+  <div id="breaking-banner" class="hidden bg-accent/15 border-b border-accent/30">
+    <div class="max-w-6xl mx-auto px-5 py-2.5 flex items-center justify-between gap-3 text-xs sm:text-sm">
+      <div class="flex items-center gap-2.5 min-w-0">
+        <span id="breaking-label" class="px-2.5 py-0.5 rounded-full bg-accent text-black text-[11px] font-bold uppercase tracking-wider shrink-0">PILNE</span>
+        <span id="breaking-text" class="text-ink font-medium truncate"></span>
+      </div>
+      <a id="breaking-link" href="#" target="_blank" rel="noopener" class="hidden text-xs font-semibold text-accent hover:underline shrink-0">Szczegóły →</a>
+    </div>
+  </div>
+
+  <!-- ===== Nagłówek ===== -->
+  <header class="max-w-6xl mx-auto w-full px-5 pt-9 pb-6">
+    <div class="flex items-center justify-between gap-4">
+      <!-- Logo compound.pl -->
+      <a href="/" class="flex items-center gap-3 group">
+        <span class="w-10 h-10 rounded-xl bg-accent flex items-center justify-center shadow-[0_8px_24px_-8px_rgba(232,163,61,0.5)]">
+          <svg viewBox="0 0 32 32" class="w-6 h-6"><path d="M6 24 C14 23 19 18 26 7" stroke="#0B0D12" stroke-width="3.2" fill="none" stroke-linecap="round"/></svg>
+        </span>
+        <div class="flex items-baseline gap-0.5">
+          <span class="text-2xl font-semibold tracking-tight">compound</span>
+          <span class="text-sm font-mono font-semibold text-accent">.pl</span>
+        </div>
+      </a>
+
+      <!-- Prawa strona nagłówka: Briefing 60s + Indeks Nastroju Rynku + Smart Auto-Refresh + Akcje -->
+      <div class="flex items-center gap-2.5">
+        <!-- Przycisk: 60-Sekundowy Briefing Dnia (Executive Summary + Generator X/Telegram) -->
+        <button onclick="openBriefingModal()" title="Szybki przegląd 5 najważniejszych wydarzeń dnia i kursów w 60 sekund"
+          class="h-10 px-4 rounded-full bg-accent/15 border border-accent/40 hover:bg-accent/25 text-xs font-semibold text-accent flex items-center gap-2 transition">
+          <span>⚡</span>
+          <span>Briefing 60s</span>
+        </button>
+
+        <!-- Indeks Nastroju Rynkowego (Market Pulse) -->
+        <div id="market-pulse-box" onclick="switchTab('kursy')" title="Indeks nastroju wyliczany z szerokiego rynku i wydźwięku depesz"
+          class="hidden lg:flex items-center gap-3 h-10 px-4 rounded-full bg-card border border-line cursor-pointer hover:bg-cardHover transition">
+          <span class="text-xs text-muted">Puls Rynku:</span>
+          <div class="w-16 h-1.5 rounded-full bg-white/10 overflow-hidden">
+            <div id="pulse-bar" class="h-full bg-up transition-all duration-500" style="width: 62%"></div>
+          </div>
+          <span id="pulse-label" class="text-xs font-mono font-medium text-up">62 · Optymizm</span>
+        </div>
+
+        <!-- Przycisk Odśwież + Inteligentny licznik 10 min (aktywny tylko gdy użytkownik jest na stronie) -->
+        <button id="refresh-btn" onclick="triggerRefresh(false)" title="Automatyczne odświeżanie co 10 min tylko podczas obecności na stronie (ochrona limitów API)"
+          class="h-10 px-4 rounded-full bg-card border border-line hover:bg-cardHover text-sm text-ink flex items-center gap-2 transition active:scale-95">
+          <svg id="refresh-icon" class="w-4 h-4 text-accent" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.6m14.8 2A8 8 0 004.6 9m0 0H9m11 11v-5h-.6m0 0a8 8 0 01-15.4-2m15.4 2H15"/>
+          </svg>
+          <span id="refresh-text" class="hidden sm:inline">Odśwież</span>
+          <span id="auto-refresh-badge" class="hidden sm:inline-block text-[11px] font-mono text-faint border-l border-line pl-2">10:00</span>
+        </button>
+
+        <button onclick="toggleModal(true)" title="Informacje prawne, KNF i źródła"
+          class="w-10 h-10 rounded-full bg-card border border-line hover:bg-cardHover text-muted hover:text-ink flex items-center justify-center transition">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path stroke-linecap="round" d="M12 11v5M12 8h.01"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Powitanie i opis aktywnej sekcji -->
+    <div class="mt-8 flex flex-col md:flex-row md:items-end justify-between gap-4">
+      <div>
+        <p id="current-date" class="text-sm text-muted"></p>
+        <h1 id="greeting" class="mt-1 text-3xl sm:text-4xl font-semibold tracking-tight">Dzień dobry.</h1>
+      </div>
+      <p id="category-subtitle" class="text-sm text-muted max-w-md"></p>
+    </div>
+
+    <!-- Nawigacja działów (Kursy na samym końcu!) + Szukajka -->
+    <div class="mt-7 flex flex-col xl:flex-row xl:items-center justify-between gap-4">
+      <nav class="no-scrollbar flex items-center gap-1 p-1 rounded-full bg-card border border-line overflow-x-auto self-start max-w-full">
+        <button onclick="switchTab('rynki')"    id="tab-btn-rynki"    class="tab-btn shrink-0"></button>
+        <button onclick="switchTab('makro')"    id="tab-btn-makro"    class="tab-btn shrink-0"></button>
+        <button onclick="switchTab('tech')"     id="tab-btn-tech"     class="tab-btn shrink-0"></button>
+        <button onclick="switchTab('swiat')"    id="tab-btn-swiat"    class="tab-btn shrink-0"></button>
+        <button onclick="switchTab('sport')"    id="tab-btn-sport"    class="tab-btn shrink-0"></button>
+        <button onclick="switchTab('analizy')"  id="tab-btn-analizy"  class="tab-btn shrink-0"></button>
+        <button onclick="switchTab('zapisane')" id="tab-btn-zapisane" class="tab-btn shrink-0"></button>
+        <button onclick="switchTab('kursy')"    id="tab-btn-kursy"    class="tab-btn shrink-0"></button>
+      </nav>
+
+      <div id="news-toolbar" class="flex items-center gap-2.5 w-full xl:w-auto">
+        <button id="impact-filter-btn" onclick="toggleHighImpact()"
+          class="h-10 px-3.5 rounded-full bg-card border border-line text-xs text-muted hover:text-ink flex items-center gap-1.5 shrink-0 transition">
+          <span class="text-accent">⚡</span>
+          <span>Kluczowe</span>
+        </button>
+
+        <div class="relative flex-1 sm:w-56">
+          <svg class="w-4 h-4 absolute left-4 top-1/2 -translate-y-1/2 text-faint" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path stroke-linecap="round" d="M20 20l-3.5-3.5"/></svg>
+          <input id="search-input" oninput="handleSearch(this.value)" type="text" placeholder="Szukaj spółki, tematu…"
+            class="w-full h-10 pl-10 pr-4 rounded-full bg-card border border-line text-sm text-ink placeholder-faint focus:outline-none focus:border-accent/50 transition">
+        </div>
+      </div>
+    </div>
+
+    <!-- Szybki Filtr Portfela ("Moje Aktywa") — unikalny wyróżnik dla inwestorów -->
+    <div id="portfolio-filter-bar" class="mt-3.5 flex items-center gap-1.5 overflow-x-auto no-scrollbar text-xs">
+      <span class="text-[11px] text-faint mr-1 shrink-0">Filtruj pod swój portfel:</span>
+      <button onclick="setAssetFilter('')" id="af-all" class="px-3 py-1 rounded-full bg-white/10 text-ink font-medium shrink-0 transition">Wszystkie</button>
+      <button onclick="setAssetFilter('gpw')" id="af-gpw" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">📈 GPW & Banki</button>
+      <button onclick="setAssetFilter('fx')" id="af-fx" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">💵 Waluty & Stopy</button>
+      <button onclick="setAssetFilter('surowce')" id="af-surowce" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">🪙 Złoto, Ropa & Krypto</button>
+      <button onclick="setAssetFilter('ai')" id="af-ai" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">🤖 AI & Big Tech</button>
+      <button onclick="switchTab('analizy')" class="ml-auto px-3.5 py-1 rounded-full bg-accent/15 border border-accent/40 text-accent hover:bg-accent/25 font-semibold shrink-0 transition flex items-center gap-1.5">
+        <span>📊 Analizy Spółek (Na Longa) →</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ===== GŁÓWNA ZAWARTOŚĆ ===== -->
+  <main class="max-w-6xl mx-auto w-full px-5 pb-20 flex-1">
+    <!-- Widok wiadomości (Siatka kart ze zdjęciami i źródłami) -->
+    <div id="grid" class="grid grid-cols-1 md:grid-cols-2 gap-5"></div>
+
+    <!-- ===== Widok zakładki ANALIZY LONG-TERM (Spółki warte uwagi na długi termin + Przykładowe koszyki) ===== -->
+    <section id="analizy-view" class="hidden space-y-10 fade-in">
+
+      <!-- Nota edukacyjna i regulacyjna (KNF / MAR Compliance — brak rekomendacji i brak zachęcania do inwestowania) -->
+      <div class="rounded-3xl bg-accent/[0.07] border border-accent/30 p-5 sm:p-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+        <div class="space-y-1.5">
+          <div class="flex flex-wrap items-center gap-2">
+            <span class="px-2.5 py-0.5 rounded-full bg-accent text-black text-[11px] font-bold uppercase tracking-wider">Kompendium Fundamentalne · Horyzont 3–10 lat</span>
+            <span class="text-xs font-mono text-muted">Zgodność KNF / Rozporządzenie MAR</span>
+          </div>
+          <h2 class="text-base sm:text-lg font-semibold text-ink">Obiektywne analizy modeli biznesowych największych spółek (GPW & Wall Street)</h2>
+          <p class="text-xs text-muted leading-relaxed max-w-4xl">
+            Poniższe zestawienie ma charakter <span class="text-ink font-medium">wyłącznie edukacyjny, analityczny i poznawczy (nie zachęca do inwestowania ani nie stanowi rekomendacji zakupowych)</span>. Pokazujemy na twardych danych finansowych, dlaczego wybrane największe firmy (m.in. <span class="text-ink">XTB, Dino Polska, Kruk, Grupa Kęty, Budimex, PKO BP, PZU, CD Projekt, KGHM, Orlen, NVIDIA, Microsoft</span>) skupiają uwagę analityków długoterminowych, jakie posiadają przewagi konkurencyjne (tzw. fosę ekonomiczną) oraz z jakimi realnymi ryzykami musi liczyć się każdy obserwator rynku.
+          </p>
+        </div>
+        <button onclick="switchTab('kursy')" class="px-4 py-2.5 rounded-full bg-card border border-line hover:border-accent/50 text-xs font-semibold text-accent shrink-0 transition">
+          Symulator IKE / Procent Składany →
+        </button>
+      </div>
+
+      <!-- CZĘŚĆ 1: Przykładowe koszyki i strategie długoterminowe ("W co i dlaczego zwraca się dziś uwagę na lata") -->
+      <div class="space-y-4">
+        <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2">
+          <div>
+            <span class="text-[11px] font-mono uppercase tracking-wider text-accent">Przykłady alokacji długoterminowej · Studium przypadków</span>
+            <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mt-0.5">Przykładowe kierunki na dziś i dlaczego (Horyzont 5–10 lat)</h2>
+          </div>
+          <p class="text-xs text-muted">Trzy modelowe koszyki obrazujące dobór liderów rynkowych pod kątem fundamentów i dywidend.</p>
+        </div>
+
+        <div id="model-portfolios-grid" class="grid grid-cols-1 lg:grid-cols-3 gap-5"></div>
+      </div>
+
+      <!-- CZĘŚĆ 2: Szczegółowe analizy fundamentalne 12 największych spółek ("Na Longa") -->
+      <div class="space-y-5 pt-4 border-t border-line">
+        <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
+          <div>
+            <span class="text-[11px] font-mono uppercase tracking-wider text-up">Analiza Fundamentalna 360° · Fosa Ekonomiczna & Ryzyka</span>
+            <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mt-0.5">Spółki warte uwagi na długi termin — dlaczego i skąd wynika ich siła?</h2>
+          </div>
+
+          <!-- Filtry grup spółek -->
+          <div class="flex flex-wrap items-center gap-1.5">
+            <button onclick="setAnalysisGroup('all')" id="agrp-all" class="px-3.5 py-1.5 rounded-full text-xs font-semibold bg-accent text-black transition">Wszystkie (12)</button>
+            <button onclick="setAnalysisGroup('gpw_growth')" id="agrp-gpw_growth" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">🚀 Wzrost & Skalowanie GPW (XTB, Dino, Kruk, CDR)</button>
+            <button onclick="setAnalysisGroup('gpw_dividend')" id="agrp-gpw_dividend" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">💰 Dywidendy & Filar GPW (PKO, PZU, Kęty, Budimex, KGHM, Orlen)</button>
+            <button onclick="setAnalysisGroup('global_moat')" id="agrp-global_moat" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">🌎 Globalne Monopole (NVIDIA, Microsoft)</button>
+          </div>
+        </div>
+
+        <!-- Siatka 12 kart analiz spółek -->
+        <div id="analizy-companies-grid" class="grid grid-cols-1 md:grid-cols-2 gap-6"></div>
+      </div>
+
+    </section>
+
+    <!-- Widok zakładki KURSY (Najpierw Tabele Kursowe, na samym dole Kalkulatory!) -->
+    <section id="kursy-view" class="hidden space-y-8 fade-in">
+
+      <!-- 1. TABELA WALUT NBP (TABELA A) NA GÓRZE -->
+      <div class="card-static overflow-hidden">
+        <div class="p-6 border-b border-line flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+          <div>
+            <h2 class="text-lg font-semibold tracking-tight">Kursy średnie walut NBP (Tabela A)</h2>
+            <p class="text-xs text-muted mt-0.5">Oficjalne notowania Narodowego Banku Polskiego wraz ze zmianą względem poprzedniej sesji.</p>
+          </div>
+          <span id="fx-table-meta" class="text-xs font-mono text-accent bg-accent/10 px-3 py-1 rounded-full self-start sm:self-auto">Źródło: api.nbp.pl</span>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr class="border-b border-line text-[11px] font-mono uppercase text-faint">
+                <th class="py-3.5 px-6">Para / Kod</th>
+                <th class="py-3.5 px-4">Nazwa waluty</th>
+                <th class="py-3.5 px-4 text-right">Poprzedni kurs</th>
+                <th class="py-3.5 px-4 text-right">Kurs aktualny (PLN)</th>
+                <th class="py-3.5 px-6 text-right">Zmiana 24h</th>
+              </tr>
+            </thead>
+            <tbody id="table-fx-body" class="divide-y divide-white/[0.04] text-sm"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- 2. TABELE GPW & INDEKSY ORAZ SUROWCE & KRYPTO -->
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <div class="card-static overflow-hidden">
+          <div class="p-6 border-b border-line flex items-center justify-between">
+            <div>
+              <h2 class="text-lg font-semibold tracking-tight">Giełda GPW & Indeksy</h2>
+              <p class="text-xs text-muted mt-0.5">Główne indeksy i spółki warszawskiego parkietu.</p>
+            </div>
+            <span class="text-xs font-mono text-up bg-up/10 px-3 py-1 rounded-full">GPW / USA</span>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full text-left border-collapse">
+              <thead>
+                <tr class="border-b border-line text-[11px] font-mono uppercase text-faint">
+                  <th class="py-3.5 px-6">Instrument</th>
+                  <th class="py-3.5 px-4 text-right">Kurs</th>
+                  <th class="py-3.5 px-6 text-right">Zmiana</th>
+                </tr>
+              </thead>
+              <tbody id="table-gpw-body" class="divide-y divide-white/[0.04] text-sm"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="card-static overflow-hidden">
+          <div class="p-6 border-b border-line flex items-center justify-between">
+            <div>
+              <h2 class="text-lg font-semibold tracking-tight">Surowce & Kryptowaluty</h2>
+              <p class="text-xs text-muted mt-0.5">Złoto NBP, ropa Brent oraz główne aktywa cyfrowe.</p>
+            </div>
+            <span class="text-xs font-mono text-sky bg-sky/10 px-3 py-1 rounded-full">24/7 Live</span>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full text-left border-collapse">
+              <thead>
+                <tr class="border-b border-line text-[11px] font-mono uppercase text-faint">
+                  <th class="py-3.5 px-6">Aktywo</th>
+                  <th class="py-3.5 px-4 text-right">Notowanie</th>
+                  <th class="py-3.5 px-6 text-right">Zmiana 24h</th>
+                </tr>
+              </thead>
+              <tbody id="table-crypto-body" class="divide-y divide-white/[0.04] text-sm"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3. KALKULATORY NA SAMYM DOLE ZAKŁADKI KURSY -->
+      <div class="pt-4 border-t border-line">
+        <div class="mb-5">
+          <h2 class="text-xl font-semibold tracking-tight">Narzędzia i kalkulatory inwestora</h2>
+          <p class="text-xs text-muted mt-1">Przeliczaj waluty po kursach NBP oraz symuluj wzrost portfela dzięki procentowi składanemu.</p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+          <!-- Kalkulator Walutowy NBP (5 kolumn) -->
+          <div class="card-static p-6 lg:col-span-5 flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between text-xs mb-4">
+                <span class="px-2.5 py-1 rounded-full bg-accent/15 text-accent font-medium">Przelicznik NBP Live</span>
+                <button type="button" onclick="swapFxCurrencies()" class="px-3 py-1 rounded-full bg-white/[0.05] hover:bg-white/[0.1] text-ink font-mono text-xs transition">
+                  ⇄ Zamień waluty
+                </button>
+              </div>
+              <h3 class="text-lg font-semibold tracking-tight">Kalkulator walutowy</h3>
+              <p class="text-xs text-muted mt-1">Wpisz kwotę lub wybierz szybki nominał.</p>
+
+              <div class="mt-4 space-y-3.5">
+                <div>
+                  <div class="flex items-center justify-between mb-1.5">
+                    <label for="fx-amount" class="text-xs text-muted">Kwota do przeliczenia</label>
+                    <div class="flex gap-1">
+                      <button type="button" onclick="setFxAmount(100)" class="px-2 py-0.5 rounded bg-white/[0.05] hover:bg-white/[0.1] text-[11px] font-mono text-muted hover:text-ink">100</button>
+                      <button type="button" onclick="setFxAmount(1000)" class="px-2 py-0.5 rounded bg-white/[0.05] hover:bg-white/[0.1] text-[11px] font-mono text-muted hover:text-ink">1k</button>
+                      <button type="button" onclick="setFxAmount(5000)" class="px-2 py-0.5 rounded bg-white/[0.05] hover:bg-white/[0.1] text-[11px] font-mono text-muted hover:text-ink">5k</button>
+                      <button type="button" onclick="setFxAmount(10000)" class="px-2 py-0.5 rounded bg-white/[0.05] hover:bg-white/[0.1] text-[11px] font-mono text-muted hover:text-ink">10k</button>
+                    </div>
+                  </div>
+                  <input id="fx-amount" type="number" value="1000" min="0" step="any"
+                    oninput="calculateFx()" onchange="calculateFx()" onkeyup="calculateFx()"
+                    class="w-full h-11 px-4 rounded-2xl bg-base border border-line font-mono text-base text-ink focus:outline-none focus:border-accent">
+                </div>
+
+                <div class="grid grid-cols-2 gap-3">
+                  <div>
+                    <label for="fx-from" class="text-xs text-muted block mb-1.5">Z waluty</label>
+                    <select id="fx-from" onchange="calculateFx()"
+                      class="w-full h-11 px-3 rounded-2xl bg-base border border-line text-sm text-ink focus:outline-none focus:border-accent">
+                      <option value="PLN">PLN — Złoty</option>
+                      <option value="USD" selected>USD — Dolar USA</option>
+                      <option value="EUR">EUR — Euro</option>
+                      <option value="CHF">CHF — Frank szwajc.</option>
+                      <option value="GBP">GBP — Funt bryt.</option>
+                      <option value="CZK">CZK — Korona czeska</option>
+                      <option value="NOK">NOK — Korona norw.</option>
+                      <option value="SEK">SEK — Korona szwedz.</option>
+                      <option value="CAD">CAD — Dolar kanad.</option>
+                      <option value="AUD">AUD — Dolar austr.</option>
+                      <option value="DKK">DKK — Korona duńska</option>
+                      <option value="JPY">JPY — Jen japoński</option>
+                      <option value="HUF">HUF — Forint węg.</option>
+                    </select>
+                  </div>
+                  <div>
+                    <label for="fx-to" class="text-xs text-muted block mb-1.5">Na walutę</label>
+                    <select id="fx-to" onchange="calculateFx()"
+                      class="w-full h-11 px-3 rounded-2xl bg-base border border-line text-sm text-ink focus:outline-none focus:border-accent">
+                      <option value="PLN" selected>PLN — Złoty</option>
+                      <option value="USD">USD — Dolar USA</option>
+                      <option value="EUR">EUR — Euro</option>
+                      <option value="CHF">CHF — Frank szwajc.</option>
+                      <option value="GBP">GBP — Funt bryt.</option>
+                      <option value="CZK">CZK — Korona czeska</option>
+                      <option value="NOK">NOK — Korona norw.</option>
+                      <option value="SEK">SEK — Korona szwedz.</option>
+                      <option value="CAD">CAD — Dolar kanad.</option>
+                      <option value="AUD">AUD — Dolar austr.</option>
+                      <option value="DKK">DKK — Korona duńska</option>
+                      <option value="JPY">JPY — Jen japoński</option>
+                      <option value="HUF">HUF — Forint węg.</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="mt-6 pt-5 border-t border-line">
+              <div class="flex items-baseline justify-between">
+                <span class="text-xs text-muted">Wynik przeliczenia:</span>
+                <span id="fx-result" class="text-2xl font-mono font-semibold text-accent">3 952,60 PLN</span>
+              </div>
+              <p id="fx-unit-rate" class="text-[11px] font-mono text-faint text-right mt-1">1 USD = 3.9526 PLN</p>
+            </div>
+          </div>
+
+          <!-- Kalkulator Procentu Składanego i Oszczędności IKE vs Belka (7 kolumn) -->
+          <div class="card-static p-6 lg:col-span-7 flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between text-xs mb-4">
+                <span class="px-2.5 py-1 rounded-full bg-up/15 text-up font-medium">Symulator Kapitału</span>
+                <span class="text-faint font-mono">IKE (0%) vs Podatek Belki (19%)</span>
+              </div>
+              <h3 class="text-lg font-semibold tracking-tight">Kalkulator Procentu Składanego (Compound)</h3>
+              <p class="text-xs text-muted mt-1">Wpisz własne wartości lub przesuń suwaki, aby policzyć przyszły kapitał.</p>
+
+              <div class="mt-5 grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <!-- Kapitał początkowy -->
+                <div class="bg-base/60 p-3.5 rounded-2xl border border-line">
+                  <div class="flex items-center justify-between text-xs mb-2">
+                    <label for="cc-start-num" class="text-muted">Kapitał na start (zł)</label>
+                    <input id="cc-start-num" type="number" value="1000" min="0" max="1000000" step="100"
+                      oninput="syncCompound('start', this.value)"
+                      class="w-28 h-7 px-2 rounded-lg bg-card border border-line font-mono text-right text-ink text-xs focus:outline-none focus:border-accent">
+                  </div>
+                  <input id="cc-start" type="range" min="0" max="50000" step="500" value="1000"
+                    oninput="syncCompound('start', this.value)" class="w-full">
+                </div>
+
+                <!-- Miesięczna dopłata -->
+                <div class="bg-base/60 p-3.5 rounded-2xl border border-line">
+                  <div class="flex items-center justify-between text-xs mb-2">
+                    <label for="cc-monthly-num" class="text-muted">Miesięczna dopłata (zł)</label>
+                    <input id="cc-monthly-num" type="number" value="500" min="0" max="100000" step="50"
+                      oninput="syncCompound('monthly', this.value)"
+                      class="w-28 h-7 px-2 rounded-lg bg-card border border-line font-mono text-right text-ink text-xs focus:outline-none focus:border-accent">
+                  </div>
+                  <input id="cc-monthly" type="range" min="0" max="5000" step="50" value="500"
+                    oninput="syncCompound('monthly', this.value)" class="w-full">
+                </div>
+
+                <!-- Roczna stopa zwrotu -->
+                <div class="bg-base/60 p-3.5 rounded-2xl border border-line">
+                  <div class="flex items-center justify-between text-xs mb-2">
+                    <label for="cc-rate-num" class="text-muted">Średni zwrot rocznie (%)</label>
+                    <input id="cc-rate-num" type="number" value="9" min="1" max="40" step="0.5"
+                      oninput="syncCompound('rate', this.value)"
+                      class="w-24 h-7 px-2 rounded-lg bg-card border border-line font-mono text-right text-accent text-xs focus:outline-none focus:border-accent">
+                  </div>
+                  <input id="cc-rate" type="range" min="1" max="20" step="0.5" value="9"
+                    oninput="syncCompound('rate', this.value)" class="w-full">
+                </div>
+
+                <!-- Horyzont czasu -->
+                <div class="bg-base/60 p-3.5 rounded-2xl border border-line">
+                  <div class="flex items-center justify-between text-xs mb-2">
+                    <label for="cc-years-num" class="text-muted">Horyzont czasu (lata)</label>
+                    <input id="cc-years-num" type="number" value="15" min="1" max="50" step="1"
+                      oninput="syncCompound('years', this.value)"
+                      class="w-24 h-7 px-2 rounded-lg bg-card border border-line font-mono text-right text-ink text-xs focus:outline-none focus:border-accent">
+                  </div>
+                  <input id="cc-years" type="range" min="1" max="40" step="1" value="15"
+                    oninput="syncCompound('years', this.value)" class="w-full">
+                </div>
+              </div>
+            </div>
+
+            <div class="mt-6 pt-5 border-t border-line grid grid-cols-1 sm:grid-cols-3 gap-3">
+              <div class="rounded-2xl bg-base/70 p-3.5 border border-line">
+                <span class="text-[11px] text-muted block">Wpłacony kapitał własny</span>
+                <span id="cc-invested" class="text-base font-mono font-medium text-ink mt-1 block">91 000 zł</span>
+              </div>
+              <div class="rounded-2xl bg-base/70 p-3.5 border border-line">
+                <span class="text-[11px] text-muted block">Zwykłe konto (po 19% Belki)</span>
+                <span id="cc-total-std" class="text-base font-mono font-semibold text-ink mt-1 block">174 156 zł</span>
+              </div>
+              <div class="rounded-2xl bg-base/70 p-3.5 border border-up/30">
+                <span class="text-[11px] text-muted block">Konto IKE (0% podatku)</span>
+                <span id="cc-total-ike" class="text-base font-mono font-semibold text-up mt-1 block">193 662 zł</span>
+                <span id="cc-tax-saved" class="text-[11px] font-mono text-accent block mt-0.5">Oszczędzasz: +19 506 zł</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+  </main>
+
+  <!-- ===== Stopka ===== -->
+  <footer class="border-t border-line">
+    <div class="max-w-6xl mx-auto px-5 py-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-xs text-faint">
+      <p class="max-w-2xl leading-relaxed">
+        compound.pl — Materiały mają charakter wyłącznie informacyjny i edukacyjny. Nie stanowią rekomendacji inwestycyjnych
+        w rozumieniu Rozporządzenia MAR (UE nr 596/2014) ani doradztwa inwestycyjnego (Art. 76 Ustawy o obrocie instrumentami finansowymi).
+      </p>
+      <div class="flex flex-wrap items-center gap-4 shrink-0">
+        <button onclick="showCookieBanner(true)" class="hover:text-ink transition">Ustawienia cookies</button>
+        <span>·</span>
+        <button onclick="toggleModal(true)" class="hover:text-ink transition">Regulamin & KNF</button>
+        <span>·</span>
+        <a href="/admin" class="hover:text-accent transition flex items-center gap-1" title="Zabezpieczony Panel Administratora compound.pl">
+          <span>🔒 Panel Admina</span>
+        </a>
+        <span>·</span>
+        <span id="last-updated"></span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ===== BANER ZGODY NA CIASTECZKA (COOKIES / RODO) ===== -->
+  <div id="cookie-banner" class="fixed bottom-4 left-4 right-4 z-50 hidden">
+    <div class="max-w-4xl mx-auto bg-[#151923]/95 backdrop-blur-xl border border-white/10 rounded-3xl p-5 sm:p-6 shadow-2xl flex flex-col md:flex-row items-start md:items-center justify-between gap-5 fade-in">
+      <div class="space-y-1.5 text-xs sm:text-sm text-muted leading-relaxed">
+        <div class="flex items-center gap-2 text-ink font-semibold">
+          <span class="w-2 h-2 rounded-full bg-accent"></span>
+          <span>Szanujemy Twoją prywatność (Pliki Cookies)</span>
+        </div>
+        <p class="text-xs text-muted">
+          Serwis <span class="text-ink">compound.pl</span> wykorzystuje lokalną pamięć przeglądarki (cookies / localStorage) wyłącznie do zapamiętania Twoich zapisanych artykułów, preferencji widoku oraz anonimowych statystyk ruchu. Nie profilujemy użytkowników ani nie sprzedajemy danych podmiotom trzecim.
+        </p>
+      </div>
+      <div class="flex items-center gap-2.5 shrink-0 w-full md:w-auto justify-end">
+        <button onclick="acceptCookies('essential')"
+          class="h-10 px-4 rounded-full bg-white/[0.05] hover:bg-white/[0.1] border border-line text-xs text-muted hover:text-ink font-medium transition">
+          Tylko niezbędne
+        </button>
+        <button onclick="acceptCookies('all')"
+          class="h-10 px-5 rounded-full bg-accent text-black text-xs font-semibold hover:brightness-110 transition">
+          Akceptuję wszystkie
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Modal Czytnika Artykułu (Rozszerzone Opracowanie bez wychodzenia ze strony) ===== -->
+  <div id="article-modal" onclick="if(event.target===this)closeArticleModal()" class="fixed inset-0 z-50 bg-black/75 backdrop-blur-md hidden items-center justify-center p-3 sm:p-6 overflow-y-auto">
+    <div class="bg-card border border-line rounded-3xl max-w-3xl w-full max-h-[92vh] flex flex-col shadow-2xl overflow-hidden fade-in my-auto">
+      <!-- Nagłówek modala -->
+      <div class="px-5 sm:px-7 py-4 border-b border-line flex items-center justify-between gap-3 bg-base/60 shrink-0">
+        <div id="am-badges" class="flex flex-wrap items-center gap-2 text-xs min-w-0"></div>
+        <div class="flex items-center gap-2 shrink-0">
+          <button id="am-save-btn" onclick="toggleSaveFromModal()"
+            class="h-8 px-3 rounded-full bg-white/[0.04] hover:bg-white/[0.08] border border-line text-xs flex items-center gap-1.5 transition">
+            ☆ Zapisz
+          </button>
+          <button onclick="closeArticleModal()" title="Zamknij (Esc)"
+            class="w-8 h-8 rounded-full bg-white/[0.05] hover:bg-white/[0.1] text-muted hover:text-ink flex items-center justify-center transition">
+            ✕
+          </button>
+        </div>
+      </div>
+
+      <!-- Przewijana treść artykułu -->
+      <div class="p-5 sm:p-7 overflow-y-auto space-y-6">
+        <!-- Zdjęcie w pełnym kadrze (wypełnia całą ramkę bez szarej poświaty, ogniskowa na górze kadru) -->
+        <div id="am-image-wrap" class="relative overflow-hidden rounded-2xl bg-base border border-line aspect-[16/9] w-full">
+          <img id="am-image" src="" alt=""
+            onerror="this.onerror=null; this.src=getFallbackImage(activeTab);"
+            class="w-full h-full object-cover object-[50%_20%] block">
+          <span id="am-image-credit"
+            class="absolute z-20 bottom-2.5 right-2.5 px-3 py-1 rounded-full bg-black/75 backdrop-blur-md border border-white/10 text-[11px] text-ink/90">
+          </span>
+        </div>
+
+        <!-- Tytuł depeszy -->
+        <div>
+          <h2 id="am-title" class="text-xl sm:text-2xl font-semibold text-ink leading-snug tracking-tight"></h2>
+          <p id="am-orig-title" class="mt-1.5 text-xs text-faint italic hidden"></p>
+          <div id="am-meta-row" class="mt-3 flex flex-wrap items-center gap-2"></div>
+        </div>
+
+        <!-- Syntetyczne podsumowanie (W skrócie) -->
+        <div class="rounded-2xl bg-base/80 border border-line p-4 sm:p-5">
+          <div class="text-[11px] font-semibold uppercase tracking-wider text-accent mb-3 flex items-center gap-2">
+            <span class="w-1.5 h-1.5 rounded-full bg-accent"></span>
+            <span>W skrócie — najważniejsze wnioski</span>
+          </div>
+          <ul id="am-summary-list" class="space-y-2.5"></ul>
+        </div>
+
+        <!-- Unikalny wyróżnik: Co to oznacza dla Twojego portfela / inwestora? -->
+        <div id="am-takeaway-box" class="rounded-2xl bg-accent/[0.08] border border-accent/30 p-4 sm:p-5 flex items-start gap-3">
+          <span class="text-lg shrink-0">💡</span>
+          <div class="text-xs sm:text-sm leading-relaxed">
+            <span class="font-semibold text-accent block mb-0.5">Co to oznacza dla Twojego portfela / rynku?</span>
+            <span id="am-takeaway" class="text-ink/95"></span>
+          </div>
+        </div>
+
+        <!-- Rozszerzone omówienie artykułu (pełny kontekst na miejscu) -->
+        <div class="space-y-3.5">
+          <div class="text-xs font-semibold uppercase tracking-wider text-muted flex items-center justify-between">
+            <span>Rozszerzone omówienie i kontekst wydarzenia</span>
+            <span id="am-time" class="font-mono text-faint"></span>
+          </div>
+          <div id="am-extended-body" class="space-y-3.5 text-sm sm:text-[15px] text-ink/90 leading-relaxed"></div>
+        </div>
+
+        <!-- Kontekst analityczny sentymentu -->
+        <div id="am-rationale-box" class="rounded-2xl bg-white/[0.02] border border-line p-4 flex items-start gap-3 text-xs text-muted leading-relaxed">
+          <span class="text-accent font-mono text-sm shrink-0">◈</span>
+          <div>
+            <span class="text-ink font-medium">Ocena wydźwięku rynkowego: </span>
+            <span id="am-rationale"></span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Stopka modala -->
+      <div class="px-5 sm:px-7 py-4 border-t border-line bg-base/60 flex flex-wrap items-center justify-between gap-3 shrink-0">
+        <a id="am-source-link" href="#" target="_blank" rel="noopener"
+          class="text-xs text-muted hover:text-accent transition inline-flex items-center gap-1.5">
+          <span>Otwórz oryginalną publikację u wydawcy</span>
+          <span>↗</span>
+        </a>
+        <button onclick="closeArticleModal()"
+          class="h-9 px-5 rounded-full bg-accent text-black text-xs font-semibold hover:brightness-110 transition">
+          Zamknij czytnik
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Modal: 60-Sekundowy Briefing Dnia (Executive Summary + Generator X / Telegram / LinkedIn) ===== -->
+  <div id="briefing-modal" onclick="if(event.target===this)closeBriefingModal()" class="fixed inset-0 z-50 bg-black/75 backdrop-blur-md hidden items-center justify-center p-3 sm:p-6 overflow-y-auto">
+    <div class="bg-card border border-line rounded-3xl max-w-2xl w-full max-h-[90vh] flex flex-col shadow-2xl overflow-hidden fade-in my-auto">
+      <div class="px-6 py-4 border-b border-line flex items-center justify-between bg-base/60">
+        <div class="flex items-center gap-2.5">
+          <span class="px-2.5 py-0.5 rounded-full bg-accent text-black text-[11px] font-bold uppercase tracking-wider">⚡ 60 Sekund</span>
+          <h2 class="text-base font-semibold text-ink">Poranny & Popołudniowy Briefing Rynkowy</h2>
+        </div>
+        <button onclick="closeBriefingModal()" class="w-8 h-8 rounded-full hover:bg-white/10 text-muted flex items-center justify-center">✕</button>
+      </div>
+      <div class="p-6 overflow-y-auto space-y-5">
+        <p class="text-xs text-muted leading-relaxed">
+          Syntetyczna pigułka 5 najważniejszych wydarzeń o najwyższym wpływie rynkowym (<span class="text-accent font-mono">HIGH IMPACT</span>) z Polski i ze świata oraz kluczowe kursy dnia.
+        </p>
+        <div id="briefing-rates-row" class="grid grid-cols-2 sm:grid-cols-4 gap-2.5"></div>
+        <div id="briefing-items-list" class="space-y-3"></div>
+      </div>
+      <div class="px-6 py-4 border-t border-line bg-base/60 flex flex-wrap items-center justify-between gap-3">
+        <button onclick="copyDailyBriefing()" id="copy-briefing-btn"
+          class="h-9 px-4 rounded-full bg-white/[0.06] hover:bg-white/[0.12] border border-line text-xs text-ink font-medium flex items-center gap-2 transition">
+          <span>📋 Kopiuj gotowy post (na X / LinkedIn / Telegram)</span>
+        </button>
+        <button onclick="closeBriefingModal()"
+          class="h-9 px-5 rounded-full bg-accent text-black text-xs font-semibold hover:brightness-110 transition">
+          Gotowe
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Modal: Pełne Studium Przypadku Spółki (Analiza Fundamentalna Long-Term 360°) ===== -->
+  <div id="company-analysis-modal" onclick="if(event.target===this)closeCompanyAnalysisModal()" class="fixed inset-0 z-50 bg-black/80 backdrop-blur-md hidden items-center justify-center p-3 sm:p-6 overflow-y-auto">
+    <div class="bg-card border border-line rounded-3xl max-w-3xl w-full max-h-[92vh] flex flex-col shadow-2xl overflow-hidden fade-in my-auto">
+      <div class="px-5 sm:px-7 py-4 border-b border-line flex items-center justify-between gap-3 bg-base/60 shrink-0">
+        <div id="cam-badges" class="flex flex-wrap items-center gap-2 text-xs min-w-0"></div>
+        <button onclick="closeCompanyAnalysisModal()" title="Zamknij (Esc)"
+          class="w-8 h-8 rounded-full bg-white/[0.05] hover:bg-white/[0.1] text-muted hover:text-ink flex items-center justify-center transition shrink-0">
+          ✕
+        </button>
+      </div>
+
+      <div class="p-5 sm:p-7 overflow-y-auto space-y-6">
+        <!-- Zdjęcie i notowanie spółki -->
+        <div class="relative overflow-hidden rounded-2xl bg-base border border-line aspect-[16/8] w-full">
+          <img id="cam-image" src="" alt="" class="w-full h-full object-cover object-[50%_25%] block">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-transparent"></div>
+          <div class="absolute bottom-4 left-5 right-5 flex flex-wrap items-end justify-between gap-3">
+            <div>
+              <span id="cam-sector" class="text-[11px] font-mono uppercase tracking-wider text-accent block"></span>
+              <h2 id="cam-name" class="text-xl sm:text-2xl font-bold text-ink tracking-tight"></h2>
+            </div>
+            <div class="text-right bg-black/70 backdrop-blur-md px-3.5 py-2 rounded-2xl border border-white/10">
+              <div id="cam-price" class="text-base sm:text-lg font-mono font-bold text-ink"></div>
+              <div id="cam-change" class="text-xs font-mono"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 4 kluczowe wskaźniki fundamentalne -->
+        <div id="cam-metrics" class="grid grid-cols-2 sm:grid-cols-4 gap-2.5"></div>
+
+        <!-- Teza analityczna -->
+        <div class="rounded-2xl bg-base/90 border border-line p-4 sm:p-5">
+          <div class="text-[11px] font-mono uppercase tracking-wider text-accent mb-1.5">Główna Teza Analityczna (Na Longa)</div>
+          <p id="cam-headline" class="text-sm sm:text-base font-semibold text-ink leading-relaxed"></p>
+        </div>
+
+        <!-- Dlaczego spółka jest warta uwagi na długi termin (3 filary fosy ekonomicznej) -->
+        <div class="rounded-2xl bg-up/[0.05] border border-up/25 p-4 sm:p-5 space-y-3">
+          <div class="text-xs font-semibold uppercase tracking-wider text-up flex items-center gap-2">
+            <span>✓ Dlaczego spółka zwraca uwagę w długim terminie (Przewagi & Fosa Ekonomiczna)</span>
+          </div>
+          <ul id="cam-pillars" class="space-y-2.5"></ul>
+        </div>
+
+        <!-- Dlaczego dzisiaj / katalizatory rynkowe -->
+        <div class="rounded-2xl bg-accent/[0.08] border border-accent/30 p-4 sm:p-5 flex items-start gap-3">
+          <span class="text-lg shrink-0">🎯</span>
+          <div class="text-xs sm:text-sm leading-relaxed">
+            <span class="font-semibold text-accent block mb-1">Dlaczego warto analizować tę spółkę właśnie dzisiaj? (Katalizatory)</span>
+            <span id="cam-why-now" class="text-ink/95"></span>
+          </div>
+        </div>
+
+        <!-- Pełne 4-akapitowe studium przypadku -->
+        <div class="space-y-3.5">
+          <div class="text-xs font-semibold uppercase tracking-wider text-muted">
+            Szczegółowa Analiza Modelu Biznesowego, Finansów i Strategii
+          </div>
+          <div id="cam-deep-dive" class="space-y-3.5 text-sm sm:text-[15px] text-ink/90 leading-relaxed"></div>
+        </div>
+
+        <!-- Czynniki ryzyka (Obiektywizm i zgodność z KNF / MAR) -->
+        <div class="rounded-2xl bg-down/[0.06] border border-down/25 p-4 sm:p-5 space-y-2.5">
+          <div class="text-xs font-semibold uppercase tracking-wider text-down flex items-center gap-2">
+            <span>⚠️ Kluczowe czynniki ryzyka i zagrożenia dla modelu biznesowego</span>
+          </div>
+          <ul id="cam-risks" class="space-y-2"></ul>
+        </div>
+      </div>
+
+      <div class="px-5 sm:px-7 py-4 border-t border-line bg-base/60 flex flex-wrap items-center justify-between gap-3 shrink-0">
+        <span class="text-[11px] text-faint">Materiał wyłącznie edukacyjny (KNF / MAR) — nie stanowi rekomendacji inwestycyjnej.</span>
+        <button onclick="closeCompanyAnalysisModal()"
+          class="h-9 px-5 rounded-full bg-accent text-black text-xs font-semibold hover:brightness-110 transition">
+          Zamknij analizę
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Modal prawny i regulacyjny ===== -->
+  <div id="legal-modal" onclick="if(event.target===this)toggleModal(false)" class="fixed inset-0 z-50 bg-black/60 backdrop-blur-sm hidden items-center justify-center p-5">
+    <div class="bg-card border border-line rounded-3xl max-w-lg w-full p-7 fade-in">
+      <div class="flex items-center justify-between mb-5">
+        <h2 class="text-lg font-semibold">Informacje prawne & Polityka Cookies</h2>
+        <button onclick="toggleModal(false)" class="w-8 h-8 rounded-full hover:bg-white/5 text-muted flex items-center justify-center">✕</button>
+      </div>
+      <div class="space-y-3.5 text-sm text-muted leading-relaxed">
+        <p><span class="text-ink font-medium">1. Brak rekomendacji (KNF & MAR).</span> Serwis compound.pl nie świadczy usług doradztwa inwestycyjnego w rozumieniu Art. 76 Ustawy o obrocie instrumentami finansowymi ani nie wydaje rekomendacji w rozumieniu Rozporządzenia MAR.</p>
+        <p><span class="text-ink font-medium">2. Polityka Zero-Hallucination.</span> Wskaźniki liczbowe prezentowane na kartach są ekstrahowane wyłącznie z treści przytaczanych publikacji prasowych i komunikatów. Ocena wydźwięku określa wyłącznie ton depeszy.</p>
+        <p><span class="text-ink font-medium">3. Dane rynkowe i prawa autorskie.</span> Kursy walut i złota pochodzą z oficjalnego API Narodowego Banku Polskiego (Tabela A). Zdjęcia prasowe należą do oznaczonych redakcji źródłowych i są prezentowane wraz z bezpośrednim odnośnikiem do artykułu.</p>
+        <p><span class="text-ink font-medium">4. Inteligentne odświeżanie i Cookies.</span> Strona odświeża dane automatycznie co 10 minut wyłącznie wtedy, gdy karta jest otwarta i aktywna, chroniąc limity zapytań API.</p>
+      </div>
+      <button onclick="toggleModal(false)" class="mt-6 w-full h-11 rounded-full bg-accent text-black font-medium hover:brightness-110 transition">Rozumiem</button>
+    </div>
+  </div>
+
+  <script>
+    let appData = null;
+    let activeTab = 'rynki';
+    let tickerGroup = 'all';
+    let onlyHighImpact = false;
+    let searchQuery = '';
+    let savedIds = JSON.parse(localStorage.getItem('compound_saved_ids') || '[]');
+
+    // Kolejność zakładek: Kursy na samym końcu!
+    const TABS = {
+      rynki: {
+        label: 'Rynki & GPW',
+        color: 'text-accent',
+        dot: 'bg-accent',
+        subtitle: 'Spółki giełdowe, indeksy, surowce i przepływy kapitału.'
+      },
+      makro: {
+        label: 'Makro & Biznes',
+        color: 'text-amber-300',
+        dot: 'bg-amber-300',
+        subtitle: 'Gospodarka, podatki, własność prywatna i decyzje banków centralnych.'
+      },
+      tech: {
+        label: 'Tech & AI',
+        color: 'text-violet',
+        dot: 'bg-violet',
+        subtitle: 'Sztuczna inteligencja, półprzewodniki, chmura i nowe technologie.'
+      },
+      swiat: {
+        label: 'Świat',
+        color: 'text-sky',
+        dot: 'bg-sky',
+        subtitle: 'Geopolityka, bezpieczeństwo, energetyka i gospodarka światowa.'
+      },
+      sport: {
+        label: 'Sport',
+        color: 'text-up',
+        dot: 'bg-up',
+        subtitle: 'Oficjalne rezultaty, ligi i najważniejsze wydarzenia sportowe.'
+      },
+      analizy: {
+        label: '📊 Analizy Long-Term',
+        color: 'text-accent',
+        dot: 'bg-accent',
+        subtitle: 'Edukacyjne analizy fundamentalne największych spółek (XTB, Dino, Kruk, PKO, NVIDIA i in.) oraz przykładowe koszyki na lata.'
+      },
+      zapisane: {
+        label: '★ Zapisane',
+        color: 'text-accent',
+        dot: 'bg-accent',
+        subtitle: 'Twój prywatny schowek zapisanych depesz do późniejszej analizy.'
+      },
+      kursy: {
+        label: 'Kursy',
+        color: 'text-accent',
+        dot: 'bg-accent',
+        subtitle: 'Oficjalne tabele kursowe NBP, notowania GPW oraz kalkulatory na dole strony.'
+      },
+    };
+
+    // Domyślne kursy walut NBP (gwarantują działanie kalkulatora nawet przed załadowaniem sieci)
+    const FALLBACK_FX_RATES = {
+      PLN: 1.0,
+      USD: 3.9526,
+      EUR: 4.4233,
+      CHF: 4.8324,
+      GBP: 5.3037,
+      JPY: 0.0258,
+      CZK: 0.1745,
+      NOK: 0.3680,
+      SEK: 0.3810,
+      CAD: 2.8450,
+      AUD: 2.6120,
+      DKK: 0.5930,
+      HUF: 0.0109,
+    };
+
+    // ---- Data i powitanie ----
+    (function initHeader() {
+      const now = new Date();
+      document.getElementById('current-date').innerText =
+        now.toLocaleDateString('pl-PL', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+      const h = now.getHours();
+      document.getElementById('greeting').innerText =
+        h < 5 ? 'Dobranoc.' : h < 12 ? 'Dzień dobry.' : h < 18 ? 'Miłego popołudnia.' : 'Dobry wieczór.';
+    })();
+
+    // ---- Inteligentne Automatyczne Odświeżanie co 10 minut (tylko gdy użytkownik jest na stronie!) ----
+    const AUTO_REFRESH_INTERVAL_SEC = 600; // 10 minut
+    let secondsUntilAutoRefresh = AUTO_REFRESH_INTERVAL_SEC;
+    let lastUserInteractionTs = Date.now();
+
+    function markUserActive() {
+      lastUserInteractionTs = Date.now();
+    }
+    ['mousemove', 'keydown', 'scroll', 'click', 'touchstart'].forEach(ev => {
+      window.addEventListener(ev, markUserActive, { passive: true });
+    });
+
+    document.addEventListener('visibilitychange', () => {
+      const badge = document.getElementById('auto-refresh-badge');
+      if (document.visibilityState === 'visible') {
+        markUserActive();
+        // Jeśli użytkownik wrócił na kartę po dłuższej przerwie, a licznik dobiegł końca, odśwież dane
+        if (secondsUntilAutoRefresh <= 5) {
+          secondsUntilAutoRefresh = AUTO_REFRESH_INTERVAL_SEC;
+          triggerRefresh(true);
+        }
+      } else if (badge) {
+        badge.innerText = 'pauza';
+      }
+    });
+
+    setInterval(() => {
+      const badge = document.getElementById('auto-refresh-badge');
+      // Jeśli karta jest ukryta/zminimalizowana LUB użytkownik nie dotykał strony od >15 min -> nie odliczamy i nie marnujemy limitów!
+      const isTabVisible = document.visibilityState === 'visible';
+      const isUserRecentlyActive = (Date.now() - lastUserInteractionTs) < 15 * 60 * 1000;
+
+      if (!isTabVisible || !isUserRecentlyActive) {
+        if (badge) badge.innerText = 'pauza';
+        return;
+      }
+
+      secondsUntilAutoRefresh = Math.max(0, secondsUntilAutoRefresh - 1);
+      if (badge) {
+        const m = String(Math.floor(secondsUntilAutoRefresh / 60)).padStart(2, '0');
+        const s = String(secondsUntilAutoRefresh % 60).padStart(2, '0');
+        badge.innerText = `${m}:${s}`;
+      }
+
+      if (secondsUntilAutoRefresh === 0) {
+        secondsUntilAutoRefresh = AUTO_REFRESH_INTERVAL_SEC;
+        triggerRefresh(true);
+      }
+    }, 1000);
+
+    // ---- Obsługa Cookies (RODO) ----
+    function initCookies() {
+      const consent = localStorage.getItem('compound_cookie_consent');
+      if (!consent) {
+        document.getElementById('cookie-banner').classList.remove('hidden');
+      }
+    }
+
+    function acceptCookies(level) {
+      localStorage.setItem('compound_cookie_consent', JSON.stringify({
+        level: level,
+        timestamp: new Date().toISOString()
+      }));
+      document.getElementById('cookie-banner').classList.add('hidden');
+    }
+
+    function showCookieBanner(force) {
+      if (force) {
+        document.getElementById('cookie-banner').classList.remove('hidden');
+      }
+    }
+
+    function esc(s) {
+      return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    // ---- Zapisywanie depesz do schowka ----
+    function toggleSaveItem(id) {
+      const idx = savedIds.indexOf(id);
+      if (idx === -1) savedIds.push(id);
+      else savedIds.splice(idx, 1);
+      localStorage.setItem('compound_saved_ids', JSON.stringify(savedIds));
+      renderTabs();
+      renderGrid();
+    }
+
+    function getAllArticles() {
+      if (!appData) return [];
+      const all = [];
+      ['rynki', 'makro', 'tech', 'swiat', 'sport'].forEach(k => {
+        (appData[k] || []).forEach(item => all.push(item));
+      });
+      return all;
+    }
+
+    // ---- Indeks Nastroju Rynkowego (Market Pulse) ----
+    function updateMarketPulse() {
+      if (!appData) return;
+      const ticker = appData.market_ticker || [];
+      const articles = [...(appData.rynki || []), ...(appData.makro || [])];
+
+      let pos = 0, total = 0;
+      ticker.forEach(t => { total += 1; if (t.is_positive) pos += 1; });
+      articles.forEach(a => {
+        if (a.sentiment === 'positive') { pos += 1; total += 1; }
+        else if (a.sentiment === 'negative') { total += 1; }
+      });
+
+      const score = total > 0 ? Math.round((pos / total) * 100) : 55;
+      const bar = document.getElementById('pulse-bar');
+      const lbl = document.getElementById('pulse-label');
+      if (!bar || !lbl) return;
+
+      bar.style.width = `${score}%`;
+      if (score >= 58) {
+        bar.className = 'h-full bg-up transition-all duration-500';
+        lbl.className = 'text-xs font-mono font-medium text-up';
+        lbl.innerText = `${score} · Optymizm`;
+      } else if (score <= 42) {
+        bar.className = 'h-full bg-down transition-all duration-500';
+        lbl.className = 'text-xs font-mono font-medium text-down';
+        lbl.innerText = `${score} · Ostrożność`;
+      } else {
+        bar.className = 'h-full bg-accent transition-all duration-500';
+        lbl.className = 'text-xs font-mono font-medium text-accent';
+        lbl.innerText = `${score} · Neutralny`;
+      }
+    }
+
+    // ---- Pasek notowań ----
+    function setTickerGroup(grp) {
+      tickerGroup = grp;
+      ['all', 'gpw', 'fx', 'crypto'].forEach(g => {
+        const el = document.getElementById(`tgrp-${g}`);
+        if (!el) return;
+        el.className = (g === grp)
+          ? 'px-2.5 py-1 rounded-full text-[11px] font-medium bg-white/10 text-ink transition'
+          : 'hidden sm:inline-block px-2.5 py-1 rounded-full text-[11px] text-muted hover:text-ink transition';
+      });
+      renderTicker();
+    }
+
+    function renderTicker() {
+      const c = document.getElementById('ticker-container');
+      if (!appData?.market_ticker) return;
+      let list = appData.market_ticker;
+      if (tickerGroup === 'gpw') list = list.filter(i => i.group === 'gpw' || i.group === 'indices');
+      else if (tickerGroup === 'fx') list = list.filter(i => i.group === 'fx');
+      else if (tickerGroup === 'crypto') list = list.filter(i => i.group === 'crypto' || i.group === 'commodities');
+
+      c.innerHTML = list.map(i => `
+        <span onclick="switchTab('kursy')" title="${esc(i.name)} — kliknij, aby otworzyć pełną tabelę kursów" class="cursor-pointer inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/[0.03] hover:bg-white/[0.08] text-xs transition">
+          <span class="text-muted font-medium">${esc(i.symbol)}</span>
+          <span class="font-mono text-ink">${esc(i.price)}</span>
+          <span class="font-mono ${i.is_positive ? 'text-up' : 'text-down'}">${esc(i.change)}</span>
+        </span>`).join('');
+    }
+
+    // ---- Zakładki ----
+    function getItemsForTab(tabId) {
+      if (!appData) return [];
+      if (tabId === 'kursy') return appData.fx_table || appData.market_ticker || [];
+      if (tabId === 'analizy') return appData.analizy || [];
+      if (tabId === 'zapisane') return getAllArticles().filter(i => savedIds.includes(i.id));
+      if (tabId === 'rynki') return appData.rynki || appData.gielda || [];
+      return appData[tabId] || [];
+    }
+
+    function renderTabs() {
+      Object.entries(TABS).forEach(([id, t]) => {
+        const btn = document.getElementById(`tab-btn-${id}`);
+        if (!btn) return;
+        const count = id === 'kursy'
+          ? ((appData?.fx_table?.length || 12) + (appData?.market_ticker?.filter(x => x.group !== 'fx').length || 13))
+          : (id === 'analizy' ? (appData?.analizy?.length || 12) : getItemsForTab(id).length);
+        const active = id === activeTab;
+        btn.className = `h-8 px-3.5 rounded-full text-sm flex items-center gap-2 transition shrink-0 ${
+          active ? 'bg-white/10 text-ink font-medium' : 'text-muted hover:text-ink'}`;
+        btn.innerHTML = `<span class="w-1.5 h-1.5 rounded-full ${active ? t.dot : 'bg-faint'}"></span>${t.label}
+          <span class="text-xs ${active ? 'text-muted' : 'text-faint'}">${count}</span>`;
+      });
+
+      const sub = document.getElementById('category-subtitle');
+      if (sub && TABS[activeTab]) sub.innerText = TABS[activeTab].subtitle;
+    }
+
+    function sendTelemetry(payload) {
+      fetch('/api/telemetry', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      }).catch(() => {});
+    }
+
+    function renderBreakingBanner() {
+      const bb = appData?.metadata?.breaking_banner;
+      const el = document.getElementById('breaking-banner');
+      if (!el) return;
+      if (bb && bb.enabled && bb.text) {
+        el.classList.remove('hidden');
+        document.getElementById('breaking-label').innerText = bb.label || 'PILNE';
+        document.getElementById('breaking-text').innerText = bb.text;
+        const lnk = document.getElementById('breaking-link');
+        if (bb.link) {
+          lnk.href = bb.link;
+          lnk.classList.remove('hidden');
+        } else {
+          lnk.classList.add('hidden');
+        }
+      } else {
+        el.classList.add('hidden');
+      }
+    }
+
+    let analysisGroup = 'all';
+
+    function setAnalysisGroup(grp) {
+      analysisGroup = grp;
+      ['all', 'gpw_growth', 'gpw_dividend', 'global_moat'].forEach(g => {
+        const el = document.getElementById(`agrp-${g}`);
+        if (!el) return;
+        el.className = (g === grp)
+          ? 'px-3.5 py-1.5 rounded-full text-xs font-semibold bg-accent text-black transition'
+          : 'px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition';
+      });
+      renderAnalizyView();
+    }
+
+    function renderAnalizyView() {
+      if (!appData) return;
+
+      // 1. Renderowanie 3 przykładowych koszyków długoterminowych ("W co dzisiaj i dlaczego")
+      const pfGrid = document.getElementById('model-portfolios-grid');
+      const portfolios = appData.model_portfolios || [];
+      if (pfGrid) {
+        pfGrid.innerHTML = portfolios.map(pf => `
+          <div class="card-static p-5 sm:p-6 flex flex-col justify-between space-y-5">
+            <div class="space-y-3">
+              <div class="flex flex-wrap items-center justify-between gap-2 text-[11px]">
+                <span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent font-mono font-semibold">${esc(pf.horizon)}</span>
+                <span class="text-faint font-mono">${esc(pf.risk_profile)}</span>
+              </div>
+              <div>
+                <h3 class="text-base sm:text-lg font-semibold text-ink leading-snug">${esc(pf.title)}</h3>
+                <p class="text-xs text-accent mt-0.5 font-medium">${esc(pf.subtitle)}</p>
+              </div>
+              <div class="p-3.5 rounded-2xl bg-base/80 border border-line text-xs text-muted leading-relaxed">
+                <span class="text-ink font-semibold block mb-1">Dlaczego ten kierunek zwraca dziś uwagę?</span>
+                ${esc(pf.why_today)}
+              </div>
+
+              <!-- Skład przykładowego koszyka z wagami -->
+              <div class="space-y-2.5 pt-1">
+                <div class="text-[11px] font-mono uppercase tracking-wider text-faint">Przykładowa struktura analizowanego koszyka:</div>
+                ${(pf.allocations || []).map(al => `
+                  <div class="p-2.5 rounded-xl bg-white/[0.02] border border-line space-y-1">
+                    <div class="flex items-center justify-between text-xs">
+                      <span class="font-semibold text-ink">${esc(al.asset)}</span>
+                      <span class="font-mono font-bold text-accent">${esc(al.weight)}</span>
+                    </div>
+                    <p class="text-[11px] text-muted leading-snug">${esc(al.role)}</p>
+                  </div>
+                `).join('')}
+              </div>
+            </div>
+
+            <div class="pt-3.5 border-t border-line text-[11px] text-muted leading-relaxed flex items-start gap-2">
+              <span class="text-up font-bold shrink-0">◈</span>
+              <span><strong class="text-ink">Zasada długoterminowa:</strong> ${esc(pf.key_principle)}</span>
+            </div>
+          </div>
+        `).join('');
+      }
+
+      // 2. Renderowanie 12 kart analiz fundamentalnych spółek ("Na Longa")
+      const compGrid = document.getElementById('analizy-companies-grid');
+      if (!compGrid) return;
+      let companies = appData.analizy || [];
+      if (analysisGroup !== 'all') {
+        companies = companies.filter(c => c.group === analysisGroup);
+      }
+      if (searchQuery) {
+        companies = companies.filter(c => JSON.stringify(c).toLowerCase().includes(searchQuery));
+      }
+
+      compGrid.innerHTML = companies.map(c => {
+        const metrics = Array.isArray(c.fundamental_metrics) ? c.fundamental_metrics : [];
+        const pillars = Array.isArray(c.why_worth_attention) ? c.why_worth_attention : [];
+        const risks = Array.isArray(c.risk_factors) ? c.risk_factors : [];
+
+        return `
+          <article onclick="openCompanyAnalysisModal('${esc(c.id)}')"
+            class="card cursor-pointer group p-5 sm:p-6 flex flex-col justify-between space-y-5 fade-in">
+            <div class="space-y-4">
+              <!-- Zdjęcie i nagłówek spółki z kursem na żywo -->
+              <div class="relative overflow-hidden rounded-2xl bg-base border border-line aspect-[16/8] w-full">
+                <img src="${esc(c.image_url)}" alt="${esc(c.name)}" loading="lazy"
+                  onerror="this.onerror=null; this.src='${esc(getFallbackImage('rynki'))}';"
+                  class="w-full h-full object-cover object-[50%_25%] transition-transform duration-500 group-hover:scale-[1.03]">
+                <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/35 to-transparent"></div>
+
+                <div class="absolute top-3 left-3 right-3 flex items-center justify-between gap-2">
+                  <span class="px-2.5 py-1 rounded-full bg-black/75 backdrop-blur-md border border-white/15 text-[11px] font-mono font-semibold text-accent">
+                    ${esc(c.exchange_badge)}
+                  </span>
+                  <span class="px-2.5 py-1 rounded-full bg-black/75 backdrop-blur-md border border-white/15 text-[11px] font-medium text-ink">
+                    Horyzont: ${esc(c.horizon)}
+                  </span>
+                </div>
+
+                <div class="absolute bottom-3 left-3.5 right-3.5 flex items-end justify-between gap-2">
+                  <div>
+                    <span class="text-[11px] text-accent font-medium block">${esc(c.profile_badge)}</span>
+                    <h3 class="text-lg sm:text-xl font-bold text-ink tracking-tight group-hover:text-accent transition">${esc(c.name)}</h3>
+                  </div>
+                  <div class="text-right bg-black/75 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/10 shrink-0">
+                    <div class="text-sm font-mono font-bold text-ink">${esc(c.price)}</div>
+                    <div class="text-[11px] font-mono ${c.is_positive ? 'text-up' : 'text-down'}">${esc(c.change)}</div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 4 twarde wskaźniki fundamentalne -->
+              <div class="grid grid-cols-2 gap-2">
+                ${metrics.map(m => `
+                  <div class="px-3 py-1.5 rounded-xl bg-base/80 border border-line text-[11px] font-mono text-ink/90 truncate" title="${esc(m)}">
+                    ${esc(m)}
+                  </div>
+                `).join('')}
+              </div>
+
+              <!-- Główna teza analityczna -->
+              <p class="text-sm font-semibold text-ink leading-snug">
+                ${esc(c.headline)}
+              </p>
+
+              <!-- 3 Filary: Dlaczego spółka jest warta uwagi na długi termin -->
+              <div class="space-y-2">
+                <div class="text-[11px] font-mono uppercase tracking-wider text-up">Dlaczego warta uwagi na longa (Argumenty):</div>
+                <ul class="space-y-2">
+                  ${pillars.map(p => `
+                    <li class="flex gap-2.5 text-xs text-muted leading-relaxed">
+                      <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-up shrink-0"></span>
+                      <span>${esc(p)}</span>
+                    </li>
+                  `).join('')}
+                </ul>
+              </div>
+
+              <!-- Dlaczego teraz? -->
+              <div class="p-3.5 rounded-2xl bg-accent/[0.07] border border-accent/25 text-xs leading-relaxed">
+                <span class="font-semibold text-accent block mb-0.5">🎯 Dlaczego zwraca uwagę właśnie dzisiaj:</span>
+                <span class="text-ink/90">${esc(c.why_now)}</span>
+              </div>
+
+              <!-- Główne czynniki ryzyka (Obiektywizm) -->
+              <div class="p-3 rounded-2xl bg-down/[0.05] border border-down/20 text-[11px] text-muted leading-relaxed">
+                <span class="font-semibold text-down">⚠️ Główne ryzyko: </span>
+                <span>${esc(risks[0] || '')}</span>
+              </div>
+            </div>
+
+            <div class="pt-4 border-t border-line flex items-center justify-between text-xs">
+              <span class="text-faint">${esc(c.sector)}</span>
+              <span class="font-semibold text-accent group-hover:underline">Pełna analiza fundamentalna (4 akapity) →</span>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    function openCompanyAnalysisModal(compId) {
+      const companies = appData?.analizy || [];
+      const c = companies.find(x => x.id === compId);
+      if (!c) return;
+      sendTelemetry({ event: 'article_open', article_id: c.id, article_title: `[ANALIZA LONG-TERM] ${c.name}` });
+
+      document.getElementById('cam-badges').innerHTML = `
+        <span class="px-2.5 py-1 rounded-full bg-accent/15 text-accent font-mono font-semibold">${esc(c.exchange_badge)}</span>
+        <span class="px-2.5 py-1 rounded-full bg-white/[0.06] text-ink font-medium">${esc(c.profile_badge)}</span>
+        <span class="text-muted font-mono">Horyzont: ${esc(c.horizon)}</span>
+      `;
+      const imgEl = document.getElementById('cam-image');
+      imgEl.src = c.image_url || getFallbackImage('rynki');
+      imgEl.alt = c.name || '';
+      document.getElementById('cam-sector').innerText = c.sector || '';
+      document.getElementById('cam-name').innerText = c.name || '';
+      document.getElementById('cam-price').innerText = c.price || '';
+      const chgEl = document.getElementById('cam-change');
+      chgEl.innerText = c.change || '';
+      chgEl.className = `text-xs font-mono ${c.is_positive ? 'text-up' : 'text-down'}`;
+
+      document.getElementById('cam-metrics').innerHTML = (c.fundamental_metrics || []).map(m => {
+        const parts = String(m).split(':');
+        const k = parts[0] || '';
+        const v = parts.slice(1).join(':').trim() || '';
+        return `
+          <div class="p-3 rounded-2xl bg-base/80 border border-line">
+            <div class="text-[11px] text-faint">${esc(k)}</div>
+            <div class="text-xs sm:text-sm font-mono font-semibold text-ink mt-0.5">${esc(v || k)}</div>
+          </div>
+        `;
+      }).join('');
+
+      document.getElementById('cam-headline').innerText = c.headline || '';
+      document.getElementById('cam-pillars').innerHTML = (c.why_worth_attention || []).map(p => `
+        <li class="flex gap-3 text-xs sm:text-sm text-ink/95 leading-relaxed">
+          <span class="mt-2 w-1.5 h-1.5 rounded-full bg-up shrink-0"></span>
+          <span>${esc(p)}</span>
+        </li>
+      `).join('');
+
+      document.getElementById('cam-why-now').innerText = c.why_now || '';
+      document.getElementById('cam-deep-dive').innerHTML = (c.deep_dive_paragraphs || []).map(p => `
+        <p class="leading-relaxed text-muted">${esc(p)}</p>
+      `).join('');
+
+      document.getElementById('cam-risks').innerHTML = (c.risk_factors || []).map(r => `
+        <li class="flex gap-2.5 text-xs text-muted leading-relaxed">
+          <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-down shrink-0"></span>
+          <span>${esc(r)}</span>
+        </li>
+      `).join('');
+
+      const modal = document.getElementById('company-analysis-modal');
+      modal.classList.remove('hidden');
+      modal.classList.add('flex');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeCompanyAnalysisModal() {
+      const modal = document.getElementById('company-analysis-modal');
+      if (!modal) return;
+      modal.classList.add('hidden');
+      modal.classList.remove('flex');
+      document.body.style.overflow = '';
+    }
+
+    function switchTab(id) {
+      activeTab = id;
+      sendTelemetry({ event: 'tab_switch', category: id });
+      const gridEl = document.getElementById('grid');
+      const kursyEl = document.getElementById('kursy-view');
+      const analizyEl = document.getElementById('analizy-view');
+      const toolbarEl = document.getElementById('news-toolbar');
+
+      if (id === 'kursy') {
+        gridEl.classList.add('hidden');
+        analizyEl.classList.add('hidden');
+        toolbarEl.classList.add('hidden');
+        kursyEl.classList.remove('hidden');
+        renderKursyTables();
+        calculateFx();
+        calculateCompound();
+      } else if (id === 'analizy') {
+        gridEl.classList.add('hidden');
+        kursyEl.classList.add('hidden');
+        toolbarEl.classList.remove('hidden');
+        analizyEl.classList.remove('hidden');
+        renderAnalizyView();
+      } else {
+        kursyEl.classList.add('hidden');
+        analizyEl.classList.add('hidden');
+        gridEl.classList.remove('hidden');
+        toolbarEl.classList.remove('hidden');
+        renderGrid();
+      }
+      renderTabs();
+    }
+
+    function toggleHighImpact() {
+      onlyHighImpact = !onlyHighImpact;
+      const btn = document.getElementById('impact-filter-btn');
+      btn.className = onlyHighImpact
+        ? 'h-10 px-3.5 rounded-full bg-accent/15 border border-accent/40 text-xs text-accent font-medium flex items-center gap-1.5 shrink-0 transition'
+        : 'h-10 px-3.5 rounded-full bg-card border border-line text-xs text-muted hover:text-ink flex items-center gap-1.5 shrink-0 transition';
+      renderGrid();
+    }
+
+    function handleSearch(v) {
+      searchQuery = v.toLowerCase().trim();
+      if (activeTab === 'analizy') renderAnalizyView();
+      else renderGrid();
+    }
+
+    function toggleModal(show) {
+      const m = document.getElementById('legal-modal');
+      m.classList.toggle('hidden', !show);
+      m.classList.toggle('flex', show);
+    }
+
+    // ---- Renderowanie Tabel w zakładce KURSY ----
+    function renderKursyTables() {
+      if (!appData) return;
+
+      const fxBody = document.getElementById('table-fx-body');
+      const fxList = appData.fx_table || (appData.market_ticker || []).filter(i => i.group === 'fx');
+      if (fxList.length && fxList[0].table_no) {
+        document.getElementById('fx-table-meta').innerText = `Tabela ${fxList[0].table_no} (${fxList[0].date})`;
+      }
+      fxBody.innerHTML = fxList.map(item => `
+        <tr class="hover:bg-white/[0.02] transition">
+          <td class="py-3.5 px-6 font-mono font-medium text-ink">
+            <span class="inline-flex items-center gap-2">
+              <span class="w-2 h-2 rounded-full ${item.is_positive ? 'bg-up' : 'bg-down'}"></span>
+              ${esc(item.symbol)}
+            </span>
+          </td>
+          <td class="py-3.5 px-4 text-muted">${esc(item.name)}</td>
+          <td class="py-3.5 px-4 text-right font-mono text-faint">${esc(item.prev_price || '—')}</td>
+          <td class="py-3.5 px-4 text-right font-mono font-semibold text-ink">${esc(item.price)}</td>
+          <td class="py-3.5 px-6 text-right font-mono">
+            <span class="px-2.5 py-0.5 rounded-full text-xs ${item.is_positive ? 'bg-up/10 text-up' : 'bg-down/10 text-down'}">
+              ${esc(item.change)}
+            </span>
+          </td>
+        </tr>`).join('');
+
+      const gpwBody = document.getElementById('table-gpw-body');
+      const gpwList = (appData.market_ticker || []).filter(i => i.group === 'gpw' || i.group === 'indices');
+      gpwBody.innerHTML = gpwList.map(item => `
+        <tr class="hover:bg-white/[0.02] transition">
+          <td class="py-3.5 px-6">
+            <div class="font-medium text-ink">${esc(item.symbol)}</div>
+            <div class="text-xs text-faint">${esc(item.name)}</div>
+          </td>
+          <td class="py-3.5 px-4 text-right font-mono font-semibold text-ink">${esc(item.price)}</td>
+          <td class="py-3.5 px-6 text-right font-mono">
+            <span class="px-2.5 py-0.5 rounded-full text-xs ${item.is_positive ? 'bg-up/10 text-up' : 'bg-down/10 text-down'}">
+              ${esc(item.change)}
+            </span>
+          </td>
+        </tr>`).join('');
+
+      const cryptoBody = document.getElementById('table-crypto-body');
+      const cryptoList = (appData.market_ticker || []).filter(i => i.group === 'crypto' || i.group === 'commodities');
+      cryptoBody.innerHTML = cryptoList.map(item => `
+        <tr class="hover:bg-white/[0.02] transition">
+          <td class="py-3.5 px-6">
+            <div class="font-medium text-ink">${esc(item.symbol)}</div>
+            <div class="text-xs text-faint">${esc(item.name)}</div>
+          </td>
+          <td class="py-3.5 px-4 text-right font-mono font-semibold text-ink">${esc(item.price)}</td>
+          <td class="py-3.5 px-6 text-right font-mono">
+            <span class="px-2.5 py-0.5 rounded-full text-xs ${item.is_positive ? 'bg-up/10 text-up' : 'bg-down/10 text-down'}">
+              ${esc(item.change)}
+            </span>
+          </td>
+        </tr>`).join('');
+    }
+
+    // ---- Naprawiony Kalkulator Walutowy NBP na żywo ----
+    function getFxRatesMap() {
+      const rates = { ...FALLBACK_FX_RATES };
+      if (Array.isArray(appData?.fx_table)) {
+        appData.fx_table.forEach(r => {
+          if (r.code && typeof r.mid === 'number' && r.mid > 0) {
+            rates[r.code] = r.mid;
+          } else if (r.code && r.price) {
+            const parsed = parseFloat(String(r.price).replace(',', '.'));
+            if (!isNaN(parsed) && parsed > 0) {
+              rates[r.code] = (r.code === 'JPY' || r.code === 'HUF') ? parsed / 100.0 : parsed;
+            }
+          }
+        });
+      }
+      return rates;
+    }
+
+    function setFxAmount(val) {
+      const el = document.getElementById('fx-amount');
+      if (el) {
+        el.value = val;
+        calculateFx();
+      }
+    }
+
+    function swapFxCurrencies() {
+      const fromEl = document.getElementById('fx-from');
+      const toEl = document.getElementById('fx-to');
+      if (!fromEl || !toEl) return;
+      const tmp = fromEl.value;
+      fromEl.value = toEl.value;
+      toEl.value = tmp;
+      calculateFx();
+    }
+
+    function calculateFx() {
+      const rawVal = String(document.getElementById('fx-amount')?.value || '0').replace(',', '.');
+      const amount = Math.max(0, parseFloat(rawVal) || 0);
+      const fromCode = document.getElementById('fx-from')?.value || 'USD';
+      const toCode = document.getElementById('fx-to')?.value || 'PLN';
+
+      const rates = getFxRatesMap();
+      const fromRate = rates[fromCode] || 1.0;
+      const toRate = rates[toCode] || 1.0;
+
+      const unitConversion = fromRate / toRate;
+      const result = amount * unitConversion;
+
+      const resEl = document.getElementById('fx-result');
+      const unitEl = document.getElementById('fx-unit-rate');
+      if (resEl) {
+        resEl.innerText = `${result.toLocaleString('pl-PL', { minimumFractionDigits: 2, maximumFractionDigits: 2 })} ${toCode}`;
+      }
+      if (unitEl) {
+        unitEl.innerText = `1 ${fromCode} = ${unitConversion.toFixed(4)} ${toCode}`;
+      }
+    }
+
+    // ---- Naprawiony Kalkulator Procentu Składanego (zsynchronizowane pola liczbowe i suwaki) ----
+    function syncCompound(field, rawValue) {
+      const val = parseFloat(String(rawValue).replace(',', '.'));
+      const numEl = document.getElementById(`cc-${field}-num`);
+      const rangeEl = document.getElementById(`cc-${field}`);
+      if (!isNaN(val)) {
+        if (numEl && document.activeElement !== numEl) numEl.value = val;
+        if (rangeEl && document.activeElement !== rangeEl) rangeEl.value = val;
+      }
+      calculateCompound();
+    }
+
+    function calculateCompound() {
+      const start = Math.max(0, parseFloat(document.getElementById('cc-start-num')?.value || '1000') || 0);
+      const monthly = Math.max(0, parseFloat(document.getElementById('cc-monthly-num')?.value || '500') || 0);
+      const rate = Math.max(0, parseFloat(document.getElementById('cc-rate-num')?.value || '9') || 0);
+      const years = Math.max(1, parseInt(document.getElementById('cc-years-num')?.value || '15', 10) || 1);
+
+      const months = years * 12;
+      const monthlyRate = (rate / 100) / 12;
+      let total = start;
+      for (let m = 0; m < months; m++) {
+        total = (total + monthly) * (1 + monthlyRate);
+      }
+
+      const invested = start + (monthly * months);
+      const profit = Math.max(0, total - invested);
+      const belkaTax = profit * 0.19;
+      const standardTotal = total - belkaTax;
+
+      const invEl = document.getElementById('cc-invested');
+      const stdEl = document.getElementById('cc-total-std');
+      const ikeEl = document.getElementById('cc-total-ike');
+      const taxEl = document.getElementById('cc-tax-saved');
+
+      if (invEl) invEl.innerText = `${Math.round(invested).toLocaleString('pl-PL')} zł`;
+      if (stdEl) stdEl.innerText = `${Math.round(standardTotal).toLocaleString('pl-PL')} zł`;
+      if (ikeEl) ikeEl.innerText = `${Math.round(total).toLocaleString('pl-PL')} zł`;
+      if (taxEl) taxEl.innerText = `Oszczędzasz: +${Math.round(belkaTax).toLocaleString('pl-PL')} zł`;
+    }
+
+    // ---- Gwarantowane zdjęcia redakcyjne HD (nigdy brak zdjęcia, brak szarej poświaty) ----
+    const FALLBACK_IMAGES = {
+      rynki: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80',
+      makro: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80',
+      tech:  'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80',
+      swiat: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1000&q=80',
+      sport: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1000&q=80',
+    };
+
+    function getFallbackImage(cat) {
+      return FALLBACK_IMAGES[cat] || FALLBACK_IMAGES.rynki;
+    }
+
+    // ---- Szybki Filtr Portfela ("Moje Aktywa") ----
+    let assetFilter = '';
+    const ASSET_FILTER_KEYWORDS = {
+      gpw: ['gpw', 'wig', 'pko', 'orlen', 'kghm', 'dino', 'pekao', 'pzu', 'allegro', 'cd projekt', 'bank', 'dywidend', 'akcj', 'giełd', 'zysk'],
+      fx: ['nbp', 'rpp', 'stopy', 'inflacj', 'usd', 'eur', 'chf', 'dolar', 'euro', 'złot', 'fed', 'ebc', 'walut', 'obligacj', 'kredyt'],
+      surowce: ['złoto', 'gold', 'ropa', 'brent', 'miedź', 'bitcoin', 'btc', 'krypto', 'ethereum', 'surowc', 'energ'],
+      ai: ['ai', 'sztuczna inteligencja', 'nvidia', 'openai', 'chatgpt', 'gemini', 'claude', 'półprzewodnik', 'chip', 'apple', 'microsoft', 'tech', 'chmur'],
+    };
+
+    function setAssetFilter(key) {
+      assetFilter = key;
+      ['all', 'gpw', 'fx', 'surowce', 'ai'].forEach(k => {
+        const btn = document.getElementById(`af-${k}`);
+        if (!btn) return;
+        const active = (k === 'all' && key === '') || (k === key);
+        btn.className = active
+          ? 'px-3 py-1 rounded-full bg-accent text-black font-semibold shrink-0 transition'
+          : 'px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition';
+      });
+      if (activeTab === 'kursy') switchTab('rynki');
+      else renderGrid();
+    }
+
+    // ---- 60-Sekundowy Briefing Dnia + Generator Postów (X / Telegram / LinkedIn) ----
+    function openBriefingModal() {
+      if (!appData) return;
+      const ticker = appData.market_ticker || [];
+      const keySymbols = ['USD/PLN', 'EUR/PLN', 'WIG20', 'BTC/USD'];
+      const topRates = ticker.filter(t => keySymbols.includes(t.symbol)).slice(0, 4);
+
+      document.getElementById('briefing-rates-row').innerHTML = topRates.map(r => `
+        <div class="p-3 rounded-2xl bg-base/80 border border-line">
+          <div class="text-[11px] text-muted">${esc(r.symbol)}</div>
+          <div class="text-sm font-mono font-semibold text-ink mt-0.5">${esc(r.price)}</div>
+          <div class="text-[11px] font-mono ${r.is_positive ? 'text-up' : 'text-down'}">${esc(r.change)}</div>
+        </div>
+      `).join('');
+
+      const allArts = getAllArticles();
+      const top5 = allArts.filter(a => a.market_impact === 'HIGH').slice(0, 5);
+      const listToShow = top5.length >= 3 ? top5 : allArts.slice(0, 5);
+
+      document.getElementById('briefing-items-list').innerHTML = listToShow.map((a, idx) => `
+        <div onclick="closeBriefingModal(); openArticleModal('${esc(a.id)}')"
+          class="p-3.5 rounded-2xl bg-base/60 hover:bg-base border border-line cursor-pointer transition space-y-1">
+          <div class="flex items-center justify-between text-[11px]">
+            <span class="text-accent font-semibold">${idx + 1}. ${esc(a.entity_tag || 'Rynek')}</span>
+            <span class="font-mono text-faint">${esc(a.source)} · ${esc(a.time)}</span>
+          </div>
+          <div class="text-sm font-semibold text-ink leading-snug">${esc(a.title)}</div>
+          <div class="text-xs text-muted">${esc((a.summary_points || [])[0] || '')}</div>
+        </div>
+      `).join('');
+
+      const m = document.getElementById('briefing-modal');
+      m.classList.remove('hidden');
+      m.classList.add('flex');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeBriefingModal() {
+      const m = document.getElementById('briefing-modal');
+      if (!m) return;
+      m.classList.add('hidden');
+      m.classList.remove('flex');
+      document.body.style.overflow = '';
+    }
+
+    function copyDailyBriefing() {
+      if (!appData) return;
+      const allArts = getAllArticles();
+      const top5 = (allArts.filter(a => a.market_impact === 'HIGH').slice(0, 5));
+      const list = top5.length >= 3 ? top5 : allArts.slice(0, 5);
+      const ticker = (appData.market_ticker || []).slice(0, 4);
+      const ratesLine = ticker.map(t => `${t.symbol}: ${t.price} (${t.change})`).join(' | ');
+
+      const lines = [
+        `⚡ BRIEFING RYNKOWY — compound.pl (${new Date().toLocaleDateString('pl-PL')})`,
+        `📊 Notowania: ${ratesLine}`,
+        ``,
+        ...list.map((a, i) => `${i + 1}. [${a.entity_tag}] ${a.title}`),
+        ``,
+        `Pełne opracowania bez clickbaitu: https://compound.pl`
+      ];
+      navigator.clipboard.writeText(lines.join('\n')).then(() => {
+        const btn = document.getElementById('copy-briefing-btn');
+        btn.innerHTML = '<span>✓ Skopiowano gotowy post do schowka!</span>';
+        setTimeout(() => {
+          btn.innerHTML = '<span>📋 Kopiuj gotowy post (na X / LinkedIn / Telegram)</span>';
+        }, 2800);
+      });
+    }
+
+    // ---- Czytnik Artykułów In-App (Rozszerzone Opracowanie po kliknięciu) ----
+    let currentModalArticleId = null;
+
+    function findArticleById(id) {
+      return getAllArticles().find(a => a.id === id) || null;
+    }
+
+    function openArticleModal(id) {
+      const item = findArticleById(id);
+      if (!item) return;
+      currentModalArticleId = id;
+      sendTelemetry({ event: 'article_open', article_id: item.id, article_title: item.title });
+
+      const t = TABS[activeTab] || TABS.rynki;
+      const entity = item.entity_tag || item.company || item.league || item.region || 'Informacja';
+      const sector = item.sector || item.category || '';
+      const isHigh = item.market_impact === 'HIGH';
+      const isSaved = savedIds.includes(item.id);
+      const isForeign = Boolean(item.is_foreign);
+      const sentimentMap = {
+        positive: ['text-up', 'Pozytywny'],
+        negative: ['text-down', 'Negatywny'],
+        neutral:  ['text-muted', 'Neutralny'],
+      };
+      const [sentColor, sentLabel] = sentimentMap[item.sentiment] || sentimentMap.neutral;
+
+      // Odznaki w nagłówku modala
+      const badgesEl = document.getElementById('am-badges');
+      badgesEl.innerHTML = `
+        <span class="px-2.5 py-1 rounded-full bg-white/[0.06] ${t.color} font-medium">${esc(entity)}</span>
+        ${sector ? `<span class="text-muted">· ${esc(sector)}</span>` : ''}
+        ${isForeign ? `<span class="px-2.5 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">🌐 Tłumaczenie PL · ${esc(item.source)}</span>` : ''}
+        ${isHigh ? `<span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[11px] font-medium">⚡ Kluczowe dla rynku</span>` : ''}
+        <span class="text-xs ${sentColor} ml-1">● ${sentLabel}</span>
+      `;
+
+      // Przycisk zapisu w modalu
+      const saveBtn = document.getElementById('am-save-btn');
+      saveBtn.className = `h-8 px-3.5 rounded-full border text-xs flex items-center gap-1.5 transition ${
+        isSaved
+          ? 'bg-accent/15 border-accent/40 text-accent font-medium'
+          : 'bg-white/[0.04] hover:bg-white/[0.08] border-line text-muted hover:text-ink'
+      }`;
+      saveBtn.innerHTML = isSaved ? '★ Zapisano' : '☆ Zapisz';
+
+      // Zdjęcie w czytniku (pełny kadr bez szarej poświaty, zawsze gwarantowane zdjęcie)
+      const imgWrap = document.getElementById('am-image-wrap');
+      const imgEl = document.getElementById('am-image');
+      const imgCred = document.getElementById('am-image-credit');
+      imgWrap.classList.remove('hidden');
+      imgEl.src = item.image_url || getFallbackImage(activeTab);
+      imgEl.alt = item.title || '';
+      imgCred.innerText = item.image_source || `Fot. / Źródło: ${item.source}`;
+
+      // Tytuł i ewentualny tytuł oryginału (dla artykułów zagranicznych)
+      document.getElementById('am-title').innerText = item.title || '';
+      const origTitleEl = document.getElementById('am-orig-title');
+      if (origTitleEl) {
+        if (isForeign && item.original_title && item.original_title !== item.title) {
+          origTitleEl.innerText = `Tytuł oryginału (${item.lang || 'EN'}): ${item.original_title}`;
+          origTitleEl.classList.remove('hidden');
+        } else {
+          origTitleEl.classList.add('hidden');
+        }
+      }
+      document.getElementById('am-time').innerText = `${item.source || ''} · ${item.time || ''}`;
+
+      const metrics = Array.isArray(item.key_metrics) ? item.key_metrics : [];
+      document.getElementById('am-meta-row').innerHTML = metrics.map(m =>
+        `<span class="px-2.5 py-1 rounded-full bg-white/[0.05] border border-line text-ink font-mono text-xs">${esc(m)}</span>`
+      ).join('');
+
+      // 3 kluczowe punkty (W skrócie)
+      const points = Array.isArray(item.summary_points) ? item.summary_points : [];
+      document.getElementById('am-summary-list').innerHTML = points.map(p => `
+        <li class="flex gap-3 text-sm text-ink/95 leading-relaxed">
+          <span class="mt-2 w-1.5 h-1.5 rounded-full bg-accent shrink-0"></span>
+          <span>${esc(p)}</span>
+        </li>
+      `).join('');
+
+      // Co to oznacza dla Twojego portfela / inwestora?
+      const takeawayEl = document.getElementById('am-takeaway');
+      if (takeawayEl) {
+        takeawayEl.innerText = item.investor_takeaway || item.sentiment_rationale || 'Wydarzenie o istotnym znaczeniu informacyjnym dla obserwujących ten sektor.';
+      }
+
+      // Rozszerzone akapity (pełny kontekst bez opuszczania strony)
+      const extParas = (Array.isArray(item.extended_paragraphs) && item.extended_paragraphs.length)
+        ? item.extended_paragraphs
+        : points;
+      document.getElementById('am-extended-body').innerHTML = extParas.map(p =>
+        `<p class="leading-relaxed text-muted">${esc(p)}</p>`
+      ).join('');
+
+      // Uzasadnienie sentymentu
+      document.getElementById('am-rationale').innerText =
+        item.sentiment_rationale || 'Informacja o charakterze sprawozdawczym i neutralnym wpływie rynkowym.';
+
+      // Link źródłowy w stopce
+      const srcLink = document.getElementById('am-source-link');
+      srcLink.href = item.source_url || '#';
+      srcLink.innerHTML = `<span>Źródło oryginalne: ${esc(item.source || 'Wydawca')}</span><span>↗</span>`;
+
+      const modal = document.getElementById('article-modal');
+      modal.classList.remove('hidden');
+      modal.classList.add('flex');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeArticleModal() {
+      const modal = document.getElementById('article-modal');
+      modal.classList.add('hidden');
+      modal.classList.remove('flex');
+      document.body.style.overflow = '';
+      currentModalArticleId = null;
+    }
+
+    function toggleSaveFromModal() {
+      if (!currentModalArticleId) return;
+      toggleSaveItem(currentModalArticleId);
+      openArticleModal(currentModalArticleId);
+    }
+
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeArticleModal();
+        closeCompanyAnalysisModal();
+        closeBriefingModal();
+        toggleModal(false);
+      }
+    });
+
+    // ---- Renderowanie karty analitycznej ze zdjęciem i źródłem (100% pokrycia zdjęciami, zero szarej poświaty) ----
+    function renderCard(item) {
+      const t = TABS[activeTab] || TABS.rynki;
+      const entity = item.entity_tag || item.company || item.league || item.region || 'Informacja';
+      const sector = item.sector || item.category || '';
+      const isHigh = item.market_impact === 'HIGH';
+      const isSaved = savedIds.includes(item.id);
+      const isLead = item.lead_story && activeTab !== 'zapisane';
+      const isForeign = Boolean(item.is_foreign);
+      const imgUrl = item.image_url || getFallbackImage(activeTab);
+      const imgCredit = item.image_source || `Fot. / Źródło: ${item.source}`;
+
+      const sentimentMap = {
+        positive: ['text-up', 'Pozytywny'],
+        negative: ['text-down', 'Negatywny'],
+        neutral:  ['text-muted', 'Neutralny'],
+      };
+      const [sentColor, sentLabel] = sentimentMap[item.sentiment] || sentimentMap.neutral;
+      const metrics = Array.isArray(item.key_metrics) ? item.key_metrics : [];
+
+      // Czyste zdjęcie pełnokadrowe (wypełnia 100% ramki bez szarej poświaty, z punktem ostrości 20% od góry aby nie ucinać głów)
+      const imageBlock = `
+        <div class="card-img-wrap relative overflow-hidden rounded-2xl bg-base border border-line ${isLead ? 'md:w-5/12 shrink-0 aspect-[16/10] md:aspect-auto md:min-h-[250px]' : 'aspect-[16/10] w-full mb-4'}">
+          <img src="${esc(imgUrl)}" alt="${esc(item.title)}" loading="lazy"
+            onerror="this.onerror=null; this.src='${esc(getFallbackImage(activeTab))}';"
+            class="w-full h-full object-cover object-[50%_20%] transition-transform duration-500 group-hover:scale-[1.03]">
+          <span class="absolute z-20 bottom-2.5 right-2.5 px-2.5 py-1 rounded-full bg-black/75 backdrop-blur-md border border-white/10 text-[10px] text-ink/90">
+            ${esc(imgCredit)}
+          </span>
+        </div>`;
+
+      return `
+        <article onclick="openArticleModal('${esc(item.id)}')"
+          class="card cursor-pointer group p-5 sm:p-6 flex ${isLead ? 'flex-col md:flex-row gap-6 md:col-span-2 md:p-7' : 'flex-col'} fade-in">
+          ${imageBlock}
+
+          <div class="flex flex-col flex-1 min-w-0">
+            <div class="flex flex-wrap items-center justify-between gap-2 text-xs">
+              <div class="flex items-center gap-2 min-w-0">
+                <span class="px-2.5 py-1 rounded-full bg-white/[0.04] ${t.color} font-medium truncate">${esc(entity)}</span>
+                ${sector ? `<span class="text-faint truncate hidden sm:inline">· ${esc(sector)}</span>` : ''}
+                ${isForeign ? `<span title="Artykuł zagraniczny przetłumaczony na język polski (${esc(item.source)})" class="px-2 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">🌐 PL · ${esc(item.source)}</span>` : ''}
+                ${isHigh ? `<span class="px-2 py-0.5 rounded-full bg-accent/15 text-accent text-[11px] font-medium">⚡ Kluczowe</span>` : ''}
+              </div>
+              <div class="flex items-center gap-2 shrink-0">
+                <span class="text-faint font-mono">${esc(item.time)}</span>
+                <button onclick="event.stopPropagation(); toggleSaveItem('${esc(item.id)}')" title="Zapisz depeszę na później"
+                  class="w-7 h-7 rounded-full hover:bg-white/[0.06] flex items-center justify-center text-sm ${isSaved ? 'text-accent' : 'text-faint hover:text-ink'} transition">
+                  ${isSaved ? '★' : '☆'}
+                </button>
+              </div>
+            </div>
+
+            <h3 class="mt-3.5 ${isLead ? 'text-xl sm:text-2xl' : 'text-lg'} font-semibold leading-snug tracking-tight text-ink group-hover:text-accent transition">
+              ${esc(item.title)}
+            </h3>
+
+            <ul class="mt-3.5 space-y-2">
+              ${(item.summary_points || []).map(p => `
+                <li class="flex gap-3 text-sm text-muted leading-relaxed">
+                  <span class="mt-2 w-1 h-1 rounded-full ${t.dot} shrink-0"></span>
+                  <span>${esc(p)}</span>
+                </li>`).join('')}
+            </ul>
+
+            <div class="mt-auto pt-5 flex flex-wrap items-center justify-between gap-3">
+              <div class="flex flex-wrap items-center gap-1.5">
+                ${metrics.map(m => `
+                  <span class="px-2.5 py-0.5 rounded-full bg-white/[0.04] text-ink font-mono text-xs">${esc(m)}</span>
+                `).join('')}
+              </div>
+
+              <div class="flex items-center gap-3 ml-auto">
+                <span title="${esc(item.sentiment_rationale || '')}" class="text-xs ${sentColor}">● ${sentLabel}</span>
+                <span class="text-xs font-medium text-accent group-hover:underline">Rozwiń treść →</span>
+              </div>
+            </div>
+          </div>
+        </article>`;
+    }
+
+    function renderGrid() {
+      const grid = document.getElementById('grid');
+      if (!appData || activeTab === 'kursy' || activeTab === 'analizy') return;
+      let items = getItemsForTab(activeTab);
+
+      if (assetFilter && ASSET_FILTER_KEYWORDS[assetFilter]) {
+        const kws = ASSET_FILTER_KEYWORDS[assetFilter];
+        items = getAllArticles().filter(i => {
+          const blob = JSON.stringify(i).toLowerCase();
+          return kws.some(kw => blob.includes(kw));
+        });
+      }
+      if (onlyHighImpact) {
+        items = items.filter(i => i.market_impact === 'HIGH');
+      }
+      if (searchQuery) {
+        items = items.filter(i => JSON.stringify(i).toLowerCase().includes(searchQuery));
+      }
+
+      grid.innerHTML = items.length
+        ? items.map(renderCard).join('')
+        : `<div class="md:col-span-2 text-center py-20">
+             <p class="text-sm text-faint">${activeTab === 'zapisane' ? 'Nie zapisałeś jeszcze żadnych depesz. Kliknij gwiazdkę ☆ na dowolnej karcie.' : 'Brak depesz spełniających wybrane kryteria.'}</p>
+           </div>`;
+    }
+
+    function renderAll() {
+      renderBreakingBanner();
+      renderTicker();
+      updateMarketPulse();
+      renderTabs();
+      renderKursyTables();
+      renderAnalizyView();
+      calculateFx();
+      calculateCompound();
+      if (activeTab !== 'kursy' && activeTab !== 'analizy') {
+        renderGrid();
+      }
+      const lu = appData?.metadata?.last_updated;
+      if (lu) document.getElementById('last-updated').innerText = `Aktualizacja: ${lu}`;
+    }
+
+    // ---- Ładowanie i inteligentne odświeżanie danych ----
+    async function loadData() {
+      try {
+        const r = await fetch('/data.json?t=' + Date.now());
+        appData = await r.json();
+        renderAll();
+      } catch (e) {
+        console.warn('Błąd ładowania danych', e);
+        calculateFx();
+        calculateCompound();
+      }
+    }
+
+    async function triggerRefresh(isAuto = false) {
+      const btn = document.getElementById('refresh-btn');
+      const icon = document.getElementById('refresh-icon');
+      secondsUntilAutoRefresh = AUTO_REFRESH_INTERVAL_SEC;
+
+      btn.disabled = true;
+      icon.classList.add('animate-spin');
+      try {
+        const endpoint = isAuto ? '/api/refresh?mode=auto' : '/api/refresh?mode=manual';
+        const res = await (await fetch(endpoint, { method: 'POST' })).json();
+
+        // Jeśli serwer faktycznie uruchomił pobieranie w tle (a nie zwrócił świeżego cache'u), czekamy na ukończenie
+        if (res.status === 'accepted' || res.status === 'busy') {
+          for (let k = 0; k < 35; k++) {
+            await new Promise(r => setTimeout(r, 1000));
+            const s = await (await fetch('/api/status')).json();
+            if (!s.is_refreshing) break;
+          }
+        }
+        await loadData();
+      } catch (e) { console.warn(e); }
+      btn.disabled = false;
+      icon.classList.remove('animate-spin');
+    }
+
+    initCookies();
+    renderTabs();
+    calculateFx();
+    calculateCompound();
+    loadData();
+  </script>
+</body>
+</html>

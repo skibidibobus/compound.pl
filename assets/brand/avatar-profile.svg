@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <rect width="1080" height="1080" fill="#0B0D12"/>
+  <!-- Okrąg prowadzący pod kadrowanie okrągłe na Gmailu/IG -->
+  <circle cx="540" cy="540" r="470" fill="#0F131C" stroke="#E8A33D" stroke-opacity="0.22" stroke-width="4"/>
+  <!-- Karta sygnetu -->
+  <rect x="260" y="190" width="560" height="480" rx="105" fill="#141925" stroke="#E8A33D" stroke-opacity="0.32" stroke-width="4"/>
+  <!-- Linie siatki -->
+  <line x1="340" y1="560" x2="740" y2="560" stroke="#ffffff" stroke-opacity="0.08" stroke-width="4"/>
+  <line x1="340" y1="430" x2="740" y2="430" stroke="#ffffff" stroke-opacity="0.07" stroke-width="4" stroke-dasharray="12 12"/>
+  <line x1="340" y1="300" x2="740" y2="300" stroke="#ffffff" stroke-opacity="0.07" stroke-width="4" stroke-dasharray="12 12"/>
+  <!-- Poświata i krzywa wykładnicza -->
+  <path d="M 350 550 C 495 538, 590 430, 715 260" fill="none" stroke="#E8A33D" stroke-opacity="0.18" stroke-width="84" stroke-linecap="round"/>
+  <path d="M 350 550 C 495 538, 590 430, 715 260" fill="none" stroke="#E8A33D" stroke-width="48" stroke-linecap="round"/>
+  <circle cx="715" cy="260" r="32" fill="#34D399"/>
+  <!-- Nazwa marki pod sygnetem (idealnie wyśrodkowana bez nakładania) -->
+  <text x="485" y="795" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="82" font-weight="700" fill="#EDEDE9">compound</text>
+  <text x="752" y="795" text-anchor="middle" font-family="Courier New, monospace" font-size="64" font-weight="700" fill="#E8A33D">.pl</text>
+  <text x="540" y="862" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="600" fill="#8B92A1" letter-spacing="6">MARKET INTELLIGENCE</text>
+</svg>

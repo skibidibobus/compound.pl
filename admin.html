@@ -1,0 +1,1085 @@
+<!DOCTYPE html>
+<html lang="pl" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>compound.pl — Panel Administratora & Centrum Kontroli API</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/brand/logo-mark.svg">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            base: '#0B0D12',
+            card: '#12151E',
+            cardHover: '#171B26',
+            ink: '#F3F4F6',
+            muted: '#9CA3AF',
+            faint: '#6B7280',
+            accent: '#E8A33D',
+            up: '#34D399',
+            down: '#F87171',
+            sky: '#38BDF8',
+            violet: '#A78BFA',
+            line: 'rgba(255,255,255,0.08)',
+          },
+          fontFamily: {
+            sans: ['"Plus Jakarta Sans"', '-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
+            mono: ['"JetBrains Mono"', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body {
+      background-color: #0B0D12;
+      color: #F3F4F6;
+      -webkit-font-smoothing: antialiased;
+    }
+    .panel-card {
+      background: #12151E;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 20px;
+    }
+    .input-field {
+      background: #0B0D12;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      color: #F3F4F6;
+      transition: border-color 0.2s ease;
+    }
+    .input-field:focus {
+      outline: none;
+      border-color: #E8A33D;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .fade-in { animation: fadeIn 0.22s ease-out forwards; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col selection:bg-accent selection:text-black">
+
+  <!-- ================= EKRAN LOGOWANIA (ZABEZPIECZONY PBKDF2-SHA256) ================= -->
+  <div id="login-screen" class="fixed inset-0 z-50 bg-base flex items-center justify-center p-5">
+    <div class="panel-card max-w-md w-full p-7 sm:p-8 shadow-2xl fade-in">
+      <div class="flex items-center justify-between mb-6">
+        <div class="flex items-center gap-3">
+          <span class="w-10 h-10 rounded-xl bg-accent flex items-center justify-center shadow-[0_8px_24px_-8px_rgba(232,163,61,0.5)]">
+            <svg viewBox="0 0 32 32" class="w-6 h-6"><path d="M6 24 C14 23 19 18 26 7" stroke="#0B0D12" stroke-width="3.2" fill="none" stroke-linecap="round"/></svg>
+          </span>
+          <div>
+            <div class="flex items-baseline gap-0.5">
+              <span class="text-xl font-semibold tracking-tight">compound</span>
+              <span class="text-xs font-mono font-semibold text-accent">.pl</span>
+            </div>
+            <span class="text-[11px] font-mono uppercase tracking-wider text-muted block">Admin Security Console</span>
+          </div>
+        </div>
+        <a href="/" class="text-xs text-muted hover:text-ink transition">← Strona główna</a>
+      </div>
+
+      <h1 class="text-lg font-semibold text-ink">Autoryzacja Administratora</h1>
+      <p class="text-xs text-muted mt-1 leading-relaxed">
+        Dostęp chroniony szyfrowaniem PBKDF2-HMAC-SHA256 oraz blokadą Brute-Force po 5 nieudanych próbach.
+      </p>
+
+      <form onsubmit="handleLogin(event)" class="mt-6 space-y-4">
+        <div>
+          <label class="text-xs text-muted block mb-1.5">Hasło dostępowe administratora</label>
+          <div class="relative">
+            <input id="login-password" type="password" required autocomplete="current-password"
+              placeholder="Wprowadź hasło administratora…"
+              class="input-field w-full h-11 pl-4 pr-16 text-sm">
+            <button type="button" onclick="togglePassVisibility()" id="pass-vis-btn"
+              class="absolute right-3 top-1/2 -translate-y-1/2 text-xs text-muted hover:text-ink">
+              Pokaż
+            </button>
+          </div>
+        </div>
+
+        <div id="login-error" class="hidden rounded-xl bg-down/10 border border-down/30 p-3 text-xs text-down"></div>
+
+        <button id="login-submit-btn" type="submit"
+          class="w-full h-11 rounded-full bg-accent text-black font-semibold text-sm hover:brightness-110 transition">
+          Zaloguj do Panelu Admina
+        </button>
+      </form>
+
+      <div class="mt-6 pt-4 border-t border-line text-[11px] text-faint space-y-1">
+        <div>Domyślne hasło pierwszego uruchomienia: <code class="text-accent font-mono select-all">CompoundAdmin2026!</code></div>
+        <div>Zalecana zmiana hasła po zalogowaniu w zakładce <span class="text-muted">Bezpieczeństwo</span>.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= GŁÓWNY INTERFEJS PANELU ADMINA ================= -->
+  <div id="admin-app" class="hidden flex-1 flex flex-col">
+    <!-- Pasek górny -->
+    <header class="sticky top-0 z-30 bg-base/90 backdrop-blur-xl border-b border-line">
+      <div class="max-w-7xl mx-auto px-5 py-3.5 flex flex-wrap items-center justify-between gap-4">
+        <div class="flex items-center gap-3">
+          <a href="/" class="flex items-center gap-2.5">
+            <span class="w-9 h-9 rounded-xl bg-accent flex items-center justify-center">
+              <svg viewBox="0 0 32 32" class="w-5 h-5"><path d="M6 24 C14 23 19 18 26 7" stroke="#0B0D12" stroke-width="3.2" fill="none" stroke-linecap="round"/></svg>
+            </span>
+            <div>
+              <div class="flex items-center gap-2">
+                <span class="font-semibold tracking-tight">compound<span class="text-accent font-mono text-xs">.pl</span></span>
+                <span class="px-2 py-0.5 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-semibold uppercase">Panel Admina</span>
+              </div>
+              <span id="hdr-status-line" class="text-[11px] text-muted block">Serwer online · Szyfrowana sesja aktywna</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- Szybkie akcje -->
+        <div class="flex flex-wrap items-center gap-2.5">
+          <button id="force-refresh-btn" onclick="forcePipelineRefresh()"
+            class="h-9 px-4 rounded-full bg-accent text-black text-xs font-semibold hover:brightness-110 flex items-center gap-2 transition">
+            <span id="force-refresh-icon">⚡</span>
+            <span>Wymuś pełne odświeżenie & tłumaczenie</span>
+          </button>
+          <a href="/" target="_blank"
+            class="h-9 px-3.5 rounded-full bg-card border border-line hover:bg-cardHover text-xs text-ink flex items-center gap-1.5 transition">
+            <span>Podgląd strony</span>
+            <span>↗</span>
+          </a>
+          <button onclick="handleLogout(false)"
+            class="h-9 px-3.5 rounded-full bg-white/[0.04] hover:bg-down/15 border border-line hover:border-down/30 text-xs text-muted hover:text-down transition">
+            Wyloguj
+          </button>
+        </div>
+      </div>
+
+      <!-- Nawigacja modułów Admina -->
+      <div class="max-w-7xl mx-auto px-5 pb-3 flex items-center gap-1.5 overflow-x-auto">
+        <button onclick="switchAdminTab('dashboard')" id="atab-dashboard"
+          class="h-8 px-4 rounded-full text-xs font-medium bg-white/10 text-ink transition shrink-0">
+          📊 Statystyki & Ruch
+        </button>
+        <button onclick="switchAdminTab('api_limits')" id="atab-api_limits"
+          class="h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0">
+          🔌 Limity API & Źródła RSS (PL / EN→PL)
+        </button>
+        <button onclick="switchAdminTab('cms')" id="atab-cms"
+          class="h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0">
+          📰 Redakcja CMS & Pasek Pilne
+        </button>
+        <button onclick="switchAdminTab('settings')" id="atab-settings"
+          class="h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0">
+          ⚙️ Konfiguracja AI & Filtry
+        </button>
+        <button onclick="switchAdminTab('security')" id="atab-security"
+          class="h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0">
+          🔒 Bezpieczeństwo & Logi
+        </button>
+      </div>
+    </header>
+
+    <!-- Powiadomienie Toast -->
+    <div id="admin-toast" class="fixed bottom-5 right-5 z-50 hidden px-4 py-3 rounded-2xl bg-card border border-accent/40 text-xs text-ink shadow-2xl fade-in"></div>
+
+    <!-- Główna zawartość -->
+    <main class="max-w-7xl mx-auto w-full px-5 py-7 flex-1 space-y-7">
+
+      <!-- ==================== ZAKŁADKA 1: PULPIT & STATYSTYKI RUCHU ==================== -->
+      <section id="view-dashboard" class="space-y-6 fade-in">
+        <!-- 6 kart KPI -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          <div class="panel-card p-5">
+            <div class="flex items-center justify-between text-xs text-muted">
+              <span>Odsłony strony (Dzisiaj / Łącznie)</span>
+              <span class="text-accent font-mono">Ruch Live</span>
+            </div>
+            <div class="mt-2 flex items-baseline gap-3">
+              <span id="kpi-views-today" class="text-2xl font-mono font-semibold text-ink">0</span>
+              <span id="kpi-views-total" class="text-xs font-mono text-muted">/ 0 łącznie</span>
+            </div>
+            <p id="kpi-data-reqs" class="mt-2 text-[11px] text-faint">Pobrania strumienia JSON: 0</p>
+          </div>
+
+          <div class="panel-card p-5">
+            <div class="flex items-center justify-between text-xs text-muted">
+              <span>Unikalni czytelnicy dzisiaj</span>
+              <span class="text-up font-mono">SHA-256 Anon</span>
+            </div>
+            <div class="mt-2 flex items-baseline gap-3">
+              <span id="kpi-unique-today" class="text-2xl font-mono font-semibold text-up">0</span>
+              <span id="kpi-cached-saved" class="text-xs font-mono text-muted">Ochrona API: 0 trafień cache</span>
+            </div>
+            <p id="kpi-refresh-counts" class="mt-2 text-[11px] text-faint">Odświeżenia: 0 ręcznych · 0 auto</p>
+          </div>
+
+          <div class="panel-card p-5">
+            <div class="flex items-center justify-between text-xs text-muted">
+              <span>Baza artykułów (Polska + Świat PL)</span>
+              <span class="text-sky font-mono">EN → PL Active</span>
+            </div>
+            <div class="mt-2 flex items-baseline gap-3">
+              <span id="kpi-articles-total" class="text-2xl font-mono font-semibold text-ink">40</span>
+              <span id="kpi-articles-split" class="text-xs font-mono text-sky">20 PL · 20 Zagranica (PL)</span>
+            </div>
+            <p id="kpi-pipeline-time" class="mt-2 text-[11px] text-faint">Ostatni przebieg potoku: —</p>
+          </div>
+        </div>
+
+        <!-- Rozkład popularności zakładek + Najczęściej czytane artykuły -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <div class="panel-card p-6">
+            <h2 class="text-base font-semibold text-ink mb-1">Popularność działów tematycznych</h2>
+            <p class="text-xs text-muted mb-5">Udział przełączeń i wyświetleń poszczególnych sekcji portalu</p>
+            <div id="cat-popularity-bars" class="space-y-3.5"></div>
+          </div>
+
+          <div class="panel-card p-6">
+            <h2 class="text-base font-semibold text-ink mb-1">Najczęściej otwierane artykuły (Czytnik In-App)</h2>
+            <p class="text-xs text-muted mb-5">Depesze, w które czytelnicy klikali najczęściej, aby przeczytać pełne opracowanie</p>
+            <div id="top-articles-list" class="space-y-2.5"></div>
+          </div>
+        </div>
+
+        <!-- Aktywność godzinowa 24h -->
+        <div class="panel-card p-6">
+          <div class="flex items-center justify-between mb-4">
+            <div>
+              <h2 class="text-base font-semibold text-ink">Rozkład ruchu godzinowego (24h)</h2>
+              <p class="text-xs text-muted">Liczba odsłon strony głównej w poszczególnych godzinach doby</p>
+            </div>
+            <span id="kpi-uptime" class="text-xs font-mono text-muted">Uptime: —</span>
+          </div>
+          <div id="hourly-chart" class="h-32 flex items-end gap-1.5 pt-4"></div>
+        </div>
+      </section>
+
+      <!-- ==================== ZAKŁADKA 2: LIMITY API & ŹRÓDŁA RSS ==================== -->
+      <section id="view-api_limits" class="hidden space-y-6 fade-in">
+        <div class="panel-card p-6">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-5">
+            <div>
+              <h2 class="text-base font-semibold text-ink">Monitor Limitów API (Quota & Rate-Limit Guard)</h2>
+              <p class="text-xs text-muted">Rzeczywiste zużycie dziennych darmowych limitów API oraz czasy odpowiedzi zewnętrznych serwerów</p>
+            </div>
+            <span id="api-data-age" class="px-3 py-1 rounded-full bg-white/[0.05] font-mono text-xs text-accent">Wiek cache: —</span>
+          </div>
+          <div id="quota-cards-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+        </div>
+
+        <!-- Tabela wszystkich źródeł RSS (Polskie i Zagraniczne tłumaczone na PL) -->
+        <div class="panel-card overflow-hidden">
+          <div class="p-6 border-b border-line flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+            <div>
+              <h2 class="text-base font-semibold text-ink">Strumienie RSS: Polska (PL) & Zagranica tłumaczona na polski (EN → PL)</h2>
+              <p class="text-xs text-muted">Możesz włączać i wyłączać dowolne źródło jednym kliknięciem oraz kontrolować czas odpowiedzi</p>
+            </div>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full text-left text-xs">
+              <thead>
+                <tr class="border-b border-line text-[11px] uppercase tracking-wider text-faint bg-base/40">
+                  <th class="py-3 px-5">Źródło</th>
+                  <th class="py-3 px-4">Język / Tryb</th>
+                  <th class="py-3 px-4">Dział</th>
+                  <th class="py-3 px-4 text-right">Pobrane depesze</th>
+                  <th class="py-3 px-4 text-right">Opóźnienie</th>
+                  <th class="py-3 px-4">Status HTTP</th>
+                  <th class="py-3 px-5 text-right">Aktywne</th>
+                </tr>
+              </thead>
+              <tbody id="feeds-table-body" class="divide-y divide-line"></tbody>
+            </table>
+          </div>
+
+          <!-- Dodawanie własnego kanału RSS -->
+          <div class="p-6 border-t border-line bg-base/40">
+            <h3 class="text-xs font-semibold uppercase tracking-wider text-muted mb-3">Dodaj nowe źródło RSS (Polskie lub Zagraniczne do automatycznego tłumaczenia)</h3>
+            <form onsubmit="addCustomFeed(event)" class="grid grid-cols-1 sm:grid-cols-6 gap-3">
+              <input id="nf-name" type="text" required placeholder="Nazwa (np. Reuters Business)" class="input-field h-10 px-3 text-xs sm:col-span-1">
+              <input id="nf-url" type="url" required placeholder="URL kanału RSS (https://...)" class="input-field h-10 px-3 text-xs sm:col-span-2">
+              <select id="nf-cat" class="input-field h-10 px-3 text-xs">
+                <option value="rynki">Dział: Rynki & GPW</option>
+                <option value="makro">Dział: Makro & Biznes</option>
+                <option value="tech">Dział: Tech & AI</option>
+                <option value="swiat">Dział: Świat</option>
+                <option value="sport">Dział: Sport</option>
+              </select>
+              <select id="nf-lang" class="input-field h-10 px-3 text-xs">
+                <option value="EN">🌐 Zagraniczny (Auto-Tłumacz EN→PL)</option>
+                <option value="PL">🇵🇱 Polski (PL)</option>
+              </select>
+              <button type="submit" class="h-10 px-4 rounded-xl bg-accent text-black font-semibold text-xs hover:brightness-110 transition">
+                + Dodaj źródło
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== ZAKŁADKA 3: REDAKCJA CMS & PASEK PILNE ==================== -->
+      <section id="view-cms" class="hidden space-y-6 fade-in">
+        <!-- Pasek Pilnego Komunikatu (Breaking News Banner) -->
+        <div class="panel-card p-6">
+          <div class="flex items-center justify-between mb-4">
+            <div>
+              <h2 class="text-base font-semibold text-ink">Pasek Pilnego Komunikatu (Breaking News na stronie głównej)</h2>
+              <p class="text-xs text-muted">Wyświetla wyróżniony pasek informacyjny pod notowaniami giełdowymi dla wszystkich czytelników</p>
+            </div>
+            <label class="inline-flex items-center gap-2 cursor-pointer text-xs">
+              <input id="bb-enabled" type="checkbox" class="w-4 h-4 accent-[#E8A33D]">
+              <span class="font-medium text-ink">Włącz pasek na stronie</span>
+            </label>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-6 gap-3">
+            <input id="bb-label" type="text" value="PILNE" placeholder="Etykieta (np. PILNE)" class="input-field h-10 px-3 text-xs sm:col-span-1">
+            <input id="bb-text" type="text" placeholder="Treść pilnego komunikatu (np. RPP obniża stopy procentowe o 25 pb do 5,50%)" class="input-field h-10 px-3 text-xs sm:col-span-3">
+            <input id="bb-link" type="text" placeholder="Opcjonalny link (https://...)" class="input-field h-10 px-3 text-xs sm:col-span-1">
+            <button onclick="saveBreakingBanner()" class="h-10 px-4 rounded-xl bg-accent text-black font-semibold text-xs hover:brightness-110 transition">
+              Zapisz pasek
+            </button>
+          </div>
+        </div>
+
+        <!-- Publikacja własnego artykułu redakcyjnego -->
+        <div class="panel-card p-6">
+          <h2 class="text-base font-semibold text-ink mb-1">Opublikuj własny artykuł / depeszę redakcyjną</h2>
+          <p class="text-xs text-muted mb-4">Artykuł pojawi się natychmiast na pierwszym miejscu wybranego działu i będzie chroniony podczas automatycznych odświeżeń</p>
+          <form onsubmit="createAdminArticle(event)" class="space-y-3">
+            <div class="grid grid-cols-1 sm:grid-cols-4 gap-3">
+              <select id="ca-cat" class="input-field h-10 px-3 text-xs">
+                <option value="rynki">Dział: Rynki & GPW</option>
+                <option value="makro">Dział: Makro & Biznes</option>
+                <option value="tech">Dział: Tech & AI</option>
+                <option value="swiat">Dział: Świat</option>
+                <option value="sport">Dział: Sport</option>
+              </select>
+              <input id="ca-entity" type="text" placeholder="Podmiot / Tag (np. GPW / PKO BP)" class="input-field h-10 px-3 text-xs">
+              <input id="ca-sector" type="text" placeholder="Sektor (np. Bankowość)" class="input-field h-10 px-3 text-xs">
+              <select id="ca-impact" class="input-field h-10 px-3 text-xs">
+                <option value="HIGH">Wpływ: ⚡ HIGH (Kluczowe)</option>
+                <option value="MEDIUM">Wpływ: MEDIUM</option>
+                <option value="LOW">Wpływ: LOW</option>
+              </select>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+              <input id="ca-title" type="text" required placeholder="Tytuł artykułu…" class="input-field h-10 px-3 text-xs sm:col-span-2">
+              <input id="ca-img" type="url" placeholder="URL zdjęcia (opcjonalnie https://...)" class="input-field h-10 px-3 text-xs">
+            </div>
+            <textarea id="ca-points" rows="2" placeholder="3 punkty skrótu na kartę (oddzielone nową linią)…" class="input-field w-full p-3 text-xs"></textarea>
+            <textarea id="ca-extended" rows="3" placeholder="Pełne akapity do czytnika po kliknięciu (oddzielone nową linią)…" class="input-field w-full p-3 text-xs"></textarea>
+            <div class="flex justify-end">
+              <button type="submit" class="h-10 px-6 rounded-full bg-accent text-black font-semibold text-xs hover:brightness-110 transition">
+                + Opublikuj depeszę na stronie
+              </button>
+            </div>
+          </form>
+        </div>
+
+        <!-- Zarządzanie istniejącymi artykułami -->
+        <div class="panel-card p-6">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-5">
+            <div>
+              <h2 class="text-base font-semibold text-ink">Zarządzanie opublikowanymi artykułami (CMS)</h2>
+              <p class="text-xs text-muted">Edytuj tytuły, tłumaczenia, akapity, przypinaj artykuły jako Lead Story lub usuwaj wybrane pozycje</p>
+            </div>
+            <div class="flex items-center gap-2">
+              <select id="cms-cat-filter" onchange="renderCmsArticles()" class="input-field h-9 px-3 text-xs">
+                <option value="rynki">Rynki & GPW</option>
+                <option value="makro">Makro & Biznes</option>
+                <option value="tech">Tech & AI</option>
+                <option value="swiat">Świat</option>
+                <option value="sport">Sport</option>
+              </select>
+              <input id="cms-search" type="search" oninput="renderCmsArticles()" placeholder="Szukaj w dziale…" class="input-field h-9 px-3 text-xs w-44">
+            </div>
+          </div>
+          <div id="cms-articles-list" class="space-y-3"></div>
+        </div>
+      </section>
+
+      <!-- ==================== ZAKŁADKA 4: KONFIGURACJA AI & FILTRY ==================== -->
+      <section id="view-settings" class="hidden space-y-6 fade-in">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <!-- Klucz Gemini API i Tłumacz -->
+          <div class="panel-card p-6 space-y-4">
+            <h2 class="text-base font-semibold text-ink">Silnik AI (Google Gemini) & Tłumacz Zagranicznych Mediów</h2>
+            <p class="text-xs text-muted leading-relaxed">
+              Portal działa bezpłatnie w trybie lokalnym + Neural Translator EN→PL. Po podłączeniu klucza <code class="text-accent">GEMINI_API_KEY</code> synteza korzysta dodatkowo z modelu Gemini 2.5 Flash.
+            </p>
+            <div class="p-3.5 rounded-xl bg-base border border-line text-xs flex items-center justify-between">
+              <span class="text-muted">Aktualny klucz Gemini API:</span>
+              <span id="cfg-gemini-masked" class="font-mono text-accent">Brak (Tryb Lokalny Zero-Cost)</span>
+            </div>
+            <div>
+              <label class="text-xs text-muted block mb-1.5">Nowy klucz GEMINI_API_KEY (zostaw puste, aby nie zmieniać)</label>
+              <input id="cfg-gemini-key" type="password" placeholder="AIzaSy..." class="input-field w-full h-10 px-3 text-xs font-mono">
+            </div>
+            <label class="flex items-center justify-between p-3.5 rounded-xl bg-base border border-line cursor-pointer text-xs">
+              <div>
+                <div class="font-medium text-ink">Automatyczne tłumaczenie artykułów zagranicznych (EN → PL)</div>
+                <div class="text-[11px] text-faint">Tłumaczy tytuły, skróty i pełne akapity z CNBC, BBC, TechCrunch, Ars Technica i MarketWatch</div>
+              </div>
+              <input id="cfg-translate-foreign" type="checkbox" checked class="w-4 h-4 accent-[#E8A33D]">
+            </label>
+          </div>
+
+          <!-- Limity Cooldown i Liczba Artykułów -->
+          <div class="panel-card p-6 space-y-4">
+            <h2 class="text-base font-semibold text-ink">Ochrona Limitów API (Cooldown Guard) & Wydajność</h2>
+            <p class="text-xs text-muted leading-relaxed">
+              Określa minimalny odstęp czasu pomiędzy odświeżeniami potoku danych, chroniąc serwer przed przekroczeniem darmowych limitów.
+            </p>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              <div>
+                <label class="text-xs text-muted block mb-1.5">Auto-Refresh Cooldown (sekundy)</label>
+                <input id="cfg-auto-cd" type="number" min="60" max="7200" value="540" class="input-field w-full h-10 px-3 text-xs font-mono">
+              </div>
+              <div>
+                <label class="text-xs text-muted block mb-1.5">Manual Refresh Cooldown (sekundy)</label>
+                <input id="cfg-manual-cd" type="number" min="5" max="600" value="20" class="input-field w-full h-10 px-3 text-xs font-mono">
+              </div>
+            </div>
+            <div>
+              <label class="text-xs text-muted block mb-1.5">Liczba publikowanych artykułów na każdy dział (3 – 16)</label>
+              <input id="cfg-arts-per-cat" type="number" min="3" max="16" value="8" class="input-field w-full h-10 px-3 text-xs font-mono">
+            </div>
+          </div>
+        </div>
+
+        <!-- Filtr apolityczności / słów wykluczonych -->
+        <div class="panel-card p-6 space-y-4">
+          <h2 class="text-base font-semibold text-ink">Filtr Redakcyjny (Słowa wykluczone / Anty-Clickbait & Anty-Ideologia)</h2>
+          <p class="text-xs text-muted">Artykuły zawierające poniższe frazy (jedna fraza w linii) są automatycznie odrzucane podczas agregacji RSS</p>
+          <textarea id="cfg-blocked-kw" rows="4" class="input-field w-full p-3 text-xs font-mono"></textarea>
+          <div class="flex justify-end">
+            <button onclick="saveSystemSettings()" class="h-10 px-6 rounded-full bg-accent text-black font-semibold text-xs hover:brightness-110 transition">
+              Zapisz wszystkie ustawienia systemowe
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== ZAKŁADKA 5: BEZPIECZEŃSTWO & LOGI ==================== -->
+      <section id="view-security" class="hidden space-y-6 fade-in">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <!-- Zmiana hasła -->
+          <div class="panel-card p-6 space-y-4">
+            <h2 class="text-base font-semibold text-ink">Zmiana hasła głównego Administratora</h2>
+            <p class="text-xs text-muted">Hasło jest solone i haszowane algorytmem kryptograficznym PBKDF2-HMAC-SHA256 (120 000 iteracji).</p>
+            <form onsubmit="handleChangePassword(event)" class="space-y-3">
+              <div>
+                <label class="text-xs text-muted block mb-1">Obecne hasło</label>
+                <input id="sec-curr-pass" type="password" required class="input-field w-full h-10 px-3 text-xs">
+              </div>
+              <div>
+                <label class="text-xs text-muted block mb-1">Nowe hasło (min. 8 znaków)</label>
+                <input id="sec-new-pass" type="password" required minlength="8" class="input-field w-full h-10 px-3 text-xs">
+              </div>
+              <button type="submit" class="h-10 px-5 rounded-full bg-accent text-black font-semibold text-xs hover:brightness-110 transition">
+                Zaktualizuj hasło
+              </button>
+            </form>
+          </div>
+
+          <!-- Zarządzanie sesjami i kopią zapasową -->
+          <div class="panel-card p-6 space-y-4 flex flex-col justify-between">
+            <div>
+              <h2 class="text-base font-semibold text-ink">Zarządzanie sesjami i Kopia Zapasowa Bazy</h2>
+              <p class="text-xs text-muted mt-1 leading-relaxed">
+                Możesz w każdej chwili pobrać pełny zrzut bazy <code class="text-ink">data.json</code> lub unieważnić wszystkie aktywne tokeny sesyjne na wszystkich urządzeniach.
+              </p>
+            </div>
+            <div class="flex flex-wrap gap-3 pt-4">
+              <a href="/data.json" download="compound_backup_data.json"
+                class="h-10 px-5 rounded-full bg-white/[0.06] hover:bg-white/[0.12] border border-line text-xs text-ink font-medium inline-flex items-center gap-2 transition">
+                <span>⬇ Pobierz kopię data.json</span>
+              </a>
+              <button onclick="handleLogout(true)"
+                class="h-10 px-5 rounded-full bg-down/15 hover:bg-down/25 border border-down/30 text-xs text-down font-medium transition">
+                Wyloguj wszystkie urządzenia
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Dziennik Zdarzeń Bezpieczeństwa (Audit Log) -->
+        <div class="panel-card overflow-hidden">
+          <div class="p-6 border-b border-line">
+            <h2 class="text-base font-semibold text-ink">Dziennik Zdarzeń Bezpieczeństwa (Security Audit Log)</h2>
+            <p class="text-xs text-muted">Rejestr logowań, modyfikacji treści CMS, zmian kluczy API oraz wymuszonych odświeżeń</p>
+          </div>
+          <div class="overflow-x-auto max-h-96 overflow-y-auto">
+            <table class="w-full text-left text-xs">
+              <thead>
+                <tr class="border-b border-line text-[11px] uppercase tracking-wider text-faint bg-base/40">
+                  <th class="py-3 px-5">Czas</th>
+                  <th class="py-3 px-4">Zdarzenie</th>
+                  <th class="py-3 px-4">Adres IP</th>
+                  <th class="py-3 px-5">Szczegóły operacji</th>
+                </tr>
+              </thead>
+              <tbody id="audit-log-body" class="divide-y divide-line font-mono text-[11px]"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- ================= MODAL EDYCJI ARTYKUŁU W CMS ================= -->
+  <div id="cms-edit-modal" onclick="if(event.target===this)closeCmsEditModal()" class="fixed inset-0 z-50 bg-black/75 backdrop-blur-sm hidden items-center justify-center p-4">
+    <div class="panel-card max-w-2xl w-full p-6 space-y-4 max-h-[90vh] overflow-y-auto fade-in">
+      <div class="flex items-center justify-between">
+        <h3 class="text-base font-semibold text-ink">Edycja artykułu w CMS</h3>
+        <button onclick="closeCmsEditModal()" class="w-8 h-8 rounded-full hover:bg-white/10 text-muted">✕</button>
+      </div>
+      <input id="ed-id" type="hidden">
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div>
+          <label class="text-[11px] text-muted block mb-1">Podmiot / Tag</label>
+          <input id="ed-entity" type="text" class="input-field w-full h-9 px-3 text-xs">
+        </div>
+        <div>
+          <label class="text-[11px] text-muted block mb-1">Sektor</label>
+          <input id="ed-sector" type="text" class="input-field w-full h-9 px-3 text-xs">
+        </div>
+        <div>
+          <label class="text-[11px] text-muted block mb-1">Wpływ rynkowy</label>
+          <select id="ed-impact" class="input-field w-full h-9 px-3 text-xs">
+            <option value="HIGH">HIGH (Kluczowe)</option>
+            <option value="MEDIUM">MEDIUM</option>
+            <option value="LOW">LOW</option>
+          </select>
+        </div>
+      </div>
+      <div>
+        <label class="text-[11px] text-muted block mb-1">Tytuł artykułu (po polsku)</label>
+        <input id="ed-title" type="text" class="input-field w-full h-10 px-3 text-xs">
+      </div>
+      <div>
+        <label class="text-[11px] text-muted block mb-1">URL zdjęcia prasowego</label>
+        <input id="ed-image" type="text" class="input-field w-full h-9 px-3 text-xs font-mono">
+      </div>
+      <div>
+        <label class="text-[11px] text-muted block mb-1">Punkty skrótu na karcie (3 punkty, każdy w nowej linii)</label>
+        <textarea id="ed-points" rows="3" class="input-field w-full p-3 text-xs"></textarea>
+      </div>
+      <div>
+        <label class="text-[11px] text-muted block mb-1">Rozszerzone akapity w czytniku (każdy akapit w nowej linii)</label>
+        <textarea id="ed-extended" rows="5" class="input-field w-full p-3 text-xs"></textarea>
+      </div>
+      <div class="flex items-center justify-between pt-2">
+        <label class="inline-flex items-center gap-2 text-xs cursor-pointer">
+          <input id="ed-pinned" type="checkbox" class="w-4 h-4 accent-[#E8A33D]">
+          <span>Przypnij na pierwszym miejscu działu (Lead Story)</span>
+        </label>
+        <div class="flex items-center gap-2">
+          <button onclick="closeCmsEditModal()" class="h-9 px-4 rounded-full bg-white/5 text-xs text-muted">Anuluj</button>
+          <button onclick="saveCmsEditedArticle()" class="h-9 px-5 rounded-full bg-accent text-black font-semibold text-xs">Zapisz zmiany</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let adminToken = sessionStorage.getItem('compound_admin_token') || '';
+    let overviewData = null;
+    let activeAdminTab = 'dashboard';
+
+    function esc(s) {
+      return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    function showToast(msg) {
+      const t = document.getElementById('admin-toast');
+      t.innerText = msg;
+      t.classList.remove('hidden');
+      setTimeout(() => t.classList.add('hidden'), 3500);
+    }
+
+    function togglePassVisibility() {
+      const inp = document.getElementById('login-password');
+      const btn = document.getElementById('pass-vis-btn');
+      if (inp.type === 'password') {
+        inp.type = 'text';
+        btn.innerText = 'Ukryj';
+      } else {
+        inp.type = 'password';
+        btn.innerText = 'Pokaż';
+      }
+    }
+
+    async function apiAdmin(path, method = 'GET', bodyObj = null) {
+      const headers = { 'Content-Type': 'application/json' };
+      if (adminToken) headers['Authorization'] = `Bearer ${adminToken}`;
+      const opts = { method, headers, credentials: 'same-origin' };
+      if (bodyObj) opts.body = JSON.stringify(bodyObj);
+      const res = await fetch(path, opts);
+      const data = await res.json().catch(() => ({}));
+      return { status: res.status, data };
+    }
+
+    async function handleLogin(e) {
+      e.preventDefault();
+      const pass = document.getElementById('login-password').value;
+      const errEl = document.getElementById('login-error');
+      errEl.classList.add('hidden');
+
+      const { status, data } = await apiAdmin('/api/admin/login', 'POST', { password: pass });
+      if (status === 200 && data.ok) {
+        adminToken = data.token;
+        sessionStorage.setItem('compound_admin_token', adminToken);
+        document.getElementById('login-password').value = '';
+        await loadAdminOverview();
+      } else {
+        errEl.innerText = data.error || 'Błąd logowania';
+        errEl.classList.remove('hidden');
+      }
+    }
+
+    async function handleLogout(allSessions = false) {
+      await apiAdmin('/api/admin/logout', 'POST', { all_sessions: allSessions });
+      adminToken = '';
+      sessionStorage.removeItem('compound_admin_token');
+      document.getElementById('admin-app').classList.add('hidden');
+      document.getElementById('login-screen').classList.remove('hidden');
+    }
+
+    function switchAdminTab(tabId) {
+      activeAdminTab = tabId;
+      ['dashboard', 'api_limits', 'cms', 'settings', 'security'].forEach(id => {
+        const view = document.getElementById(`view-${id}`);
+        const btn = document.getElementById(`atab-${id}`);
+        if (view) view.classList.toggle('hidden', id !== tabId);
+        if (btn) {
+          btn.className = (id === tabId)
+            ? 'h-8 px-4 rounded-full text-xs font-medium bg-white/10 text-ink transition shrink-0'
+            : 'h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0';
+        }
+      });
+    }
+
+    async function loadAdminOverview() {
+      const { status, data } = await apiAdmin('/api/admin/overview');
+      if (status === 401 || !data.ok) {
+        document.getElementById('admin-app').classList.add('hidden');
+        document.getElementById('login-screen').classList.remove('hidden');
+        return;
+      }
+      overviewData = data;
+      document.getElementById('login-screen').classList.add('hidden');
+      document.getElementById('admin-app').classList.remove('hidden');
+      renderAdminAll();
+    }
+
+    function formatDuration(sec) {
+      const h = Math.floor(sec / 3600);
+      const m = Math.floor((sec % 3600) / 60);
+      const s = sec % 60;
+      if (h > 0) return `${h}h ${m}m`;
+      if (m > 0) return `${m}m ${s}s`;
+      return `${s}s`;
+    }
+
+    function renderAdminAll() {
+      if (!overviewData) return;
+      const tr = overviewData.traffic || {};
+      const au = overviewData.api_usage || {};
+      const cfg = overviewData.config || {};
+      const meta = overviewData.metadata || {};
+
+      // Nagłówek
+      document.getElementById('hdr-status-line').innerText =
+        `Serwer online · Ostatnia aktualizacja bazy: ${meta.last_updated || '—'} · Wiek cache: ${formatDuration(overviewData.data_age_seconds || 0)}`;
+
+      // 1. KPI Dashboard
+      document.getElementById('kpi-views-today').innerText = tr.today_page_views || 0;
+      document.getElementById('kpi-views-total').innerText = `/ ${tr.total_page_views || 0} łącznie`;
+      document.getElementById('kpi-data-reqs').innerText = `Pobrania strumienia JSON: ${tr.total_data_requests || 0}`;
+
+      const uvCount = Array.isArray(tr.unique_visitors_today) ? tr.unique_visitors_today.length : 0;
+      document.getElementById('kpi-unique-today').innerText = uvCount;
+      document.getElementById('kpi-cached-saved').innerText = `Ochrona API: ${tr.cached_hits_saved || 0} zablokowanych duplikatów`;
+      document.getElementById('kpi-refresh-counts').innerText =
+        `Odświeżenia potoku: ${tr.manual_refreshes || 0} ręcznych · ${tr.auto_refreshes || 0} automatycznych`;
+
+      const plCnt = meta.polish_articles_count || au.polish_articles_last_run || 20;
+      const forCnt = meta.foreign_translated_count || au.foreign_articles_translated_last_run || 20;
+      document.getElementById('kpi-articles-total').innerText = plCnt + forCnt;
+      document.getElementById('kpi-articles-split').innerText = `${plCnt} PL · ${forCnt} Zagranica (przetłumaczone na PL)`;
+      document.getElementById('kpi-pipeline-time').innerText =
+        `Czas ostatniej agregacji i tłumaczenia: ${au.last_pipeline_duration_sec || 0}s (${au.last_pipeline_run || '—'})`;
+      document.getElementById('kpi-uptime').innerText = `Uptime serwera: ${formatDuration(overviewData.server_uptime_sec || 0)}`;
+
+      // Popularność kategorii
+      const catViews = tr.category_views || {};
+      const catLabels = {
+        rynki: ['Rynki & GPW', 'bg-accent'],
+        makro: ['Makro & Biznes', 'bg-amber-300'],
+        tech: ['Tech & AI', 'bg-violet'],
+        swiat: ['Świat & Geopolityka', 'bg-sky'],
+        sport: ['Sport', 'bg-up'],
+        kursy: ['Tabele Kursów & Kalkulatory', 'bg-accent'],
+      };
+      const totalCatViews = Math.max(1, Object.values(catViews).reduce((a, b) => a + b, 0));
+      document.getElementById('cat-popularity-bars').innerHTML = Object.entries(catLabels).map(([k, [lbl, col]]) => {
+        const v = catViews[k] || 0;
+        const pct = Math.round((v / totalCatViews) * 100);
+        return `
+          <div>
+            <div class="flex justify-between text-xs mb-1">
+              <span class="text-ink font-medium">${lbl}</span>
+              <span class="font-mono text-muted">${v} wyśw. (${pct}%)</span>
+            </div>
+            <div class="w-full h-2 rounded-full bg-white/[0.05] overflow-hidden">
+              <div class="h-full ${col}" style="width: ${Math.max(4, pct)}%"></div>
+            </div>
+          </div>`;
+      }).join('');
+
+      // Najczęściej czytane artykuły
+      const readsMap = tr.article_reads || {};
+      const topReads = Object.values(readsMap).sort((a, b) => (b.reads || 0) - (a.reads || 0)).slice(0, 6);
+      const topEl = document.getElementById('top-articles-list');
+      if (topReads.length === 0) {
+        topEl.innerHTML = `<p class="text-xs text-faint py-6 text-center">Kliknij dowolny artykuł na stronie głównej, aby zarejestrować statystyki czytnika.</p>`;
+      } else {
+        topEl.innerHTML = topReads.map((r, i) => `
+          <div class="flex items-center justify-between gap-3 p-2.5 rounded-xl bg-base/60 border border-line text-xs">
+            <div class="flex items-center gap-2.5 min-w-0">
+              <span class="w-5 h-5 rounded-full bg-white/10 font-mono text-[11px] flex items-center justify-center shrink-0">${i + 1}</span>
+              <span class="text-ink truncate">${esc(r.title)}</span>
+            </div>
+            <span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent font-mono shrink-0">${r.reads} otwarć</span>
+          </div>`).join('');
+      }
+
+      // Wykres godzinowy 24h
+      const hv = tr.hourly_views || {};
+      const maxH = Math.max(1, ...Object.values(hv));
+      document.getElementById('hourly-chart').innerHTML = Array.from({ length: 24 }, (_, h) => {
+        const hk = String(h).padStart(2, '0');
+        const val = hv[hk] || 0;
+        const heightPct = Math.max(6, Math.round((val / maxH) * 100));
+        return `
+          <div class="flex-1 flex flex-col items-center gap-1.5 h-full justify-end group">
+            <span class="text-[10px] font-mono text-muted opacity-0 group-hover:opacity-100 transition">${val}</span>
+            <div class="w-full rounded-t-md ${val > 0 ? 'bg-accent' : 'bg-white/10'} transition-all" style="height: ${heightPct}%"></div>
+            <span class="text-[10px] font-mono text-faint">${hk}</span>
+          </div>`;
+      }).join('');
+
+      // 2. Limity API (Quota Cards)
+      document.getElementById('api-data-age').innerText = `Wiek pliku data.json: ${formatDuration(overviewData.data_age_seconds || 0)}`;
+      const specs = overviewData.quota_specs || {};
+      const counters = au.counters || {};
+      document.getElementById('quota-cards-grid').innerHTML = Object.entries(specs).map(([key, sp]) => {
+        const c = counters[key] || { calls_today: 0, total_calls: 0, errors: 0, last_latency_ms: 0, last_status: 'Gotowy' };
+        const pct = Math.min(100, Math.round(((c.calls_today || 0) / sp.daily_limit) * 100));
+        const barCol = pct > 80 ? 'bg-down' : pct > 50 ? 'bg-accent' : 'bg-up';
+        return `
+          <div class="p-4 rounded-2xl bg-base/70 border border-line space-y-3">
+            <div class="flex items-start justify-between gap-2">
+              <div>
+                <div class="text-xs font-semibold text-ink">${esc(sp.name)}</div>
+                <div class="text-[11px] text-faint font-mono">${esc(sp.tier)} · Limit RPM: ${sp.rpm_limit}/min</div>
+              </div>
+              <span class="px-2 py-0.5 rounded-full bg-white/[0.05] text-[10px] font-mono ${c.errors > 0 ? 'text-down' : 'text-up'}">
+                ${esc(c.last_status || 'OK')}
+              </span>
+            </div>
+            <div>
+              <div class="flex justify-between text-xs font-mono mb-1">
+                <span class="text-ink">${c.calls_today || 0} / ${sp.daily_limit} ${esc(sp.unit)}</span>
+                <span class="text-muted">${pct}%</span>
+              </div>
+              <div class="w-full h-2 rounded-full bg-white/10 overflow-hidden">
+                <div class="h-full ${barCol} transition-all" style="width: ${Math.max(2, pct)}%"></div>
+              </div>
+            </div>
+            <div class="flex justify-between text-[11px] text-faint font-mono">
+              <span>Opóźnienie: ${c.last_latency_ms || 0} ms</span>
+              <span>Błędy dziś: ${c.errors || 0}</span>
+            </div>
+          </div>`;
+      }).join('');
+
+      // Tabela źródeł RSS
+      const feeds = overviewData.feeds || [];
+      document.getElementById('feeds-table-body').innerHTML = feeds.map(f => `
+        <tr class="hover:bg-white/[0.02] transition">
+          <td class="py-3 px-5 font-medium text-ink">
+            <div>${esc(f.name)}</div>
+            <div class="text-[11px] text-faint font-mono truncate max-w-xs">${esc(f.url)}</div>
+          </td>
+          <td class="py-3 px-4">
+            ${f.lang === 'PL'
+              ? `<span class="px-2.5 py-0.5 rounded-full bg-white/[0.06] text-ink text-[11px]">🇵🇱 Polska (PL)</span>`
+              : `<span class="px-2.5 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">🌐 Zagranica (${esc(f.lang)} → PL)</span>`}
+          </td>
+          <td class="py-3 px-4 uppercase font-mono text-muted">${esc(f.category)}</td>
+          <td class="py-3 px-4 text-right font-mono text-ink">${f.items_count || 0} / ${f.limit}</td>
+          <td class="py-3 px-4 text-right font-mono text-muted">${f.latency_ms ? f.latency_ms + ' ms' : '—'}</td>
+          <td class="py-3 px-4 font-mono">
+            <span class="${String(f.status).startsWith('200') ? 'text-up' : 'text-muted'}">${esc(f.status)}</span>
+          </td>
+          <td class="py-3 px-5 text-right space-x-2">
+            <button onclick="toggleFeedStatus('${esc(f.name)}')"
+              class="px-3 py-1 rounded-full text-[11px] font-medium transition ${
+                f.enabled ? 'bg-up/15 text-up hover:bg-up/25' : 'bg-down/15 text-down hover:bg-down/25'
+              }">
+              ${f.enabled ? 'Włączone' : 'Wyłączone'}
+            </button>
+            ${f.is_custom ? `<button onclick="removeCustomFeed('${esc(f.name)}')" class="text-down hover:underline text-[11px]">Usuń</button>` : ''}
+          </td>
+        </tr>`).join('');
+
+      // 3. CMS & Breaking News
+      const bb = cfg.breaking_banner || {};
+      document.getElementById('bb-enabled').checked = Boolean(bb.enabled);
+      document.getElementById('bb-label').value = bb.label || 'PILNE';
+      document.getElementById('bb-text').value = bb.text || '';
+      document.getElementById('bb-link').value = bb.link || '';
+      renderCmsArticles();
+
+      // 4. Konfiguracja
+      document.getElementById('cfg-gemini-masked').innerText =
+        overviewData.gemini_key_masked || 'Brak (Tryb Lokalny Zero-Cost + Neural EN→PL)';
+      document.getElementById('cfg-translate-foreign').checked = cfg.translate_foreign_articles !== false;
+      document.getElementById('cfg-auto-cd').value = cfg.auto_refresh_cooldown_sec || 540;
+      document.getElementById('cfg-manual-cd').value = cfg.manual_refresh_cooldown_sec || 20;
+      document.getElementById('cfg-arts-per-cat').value = cfg.articles_per_category || 8;
+      document.getElementById('cfg-blocked-kw').value = (cfg.blocked_keywords || []).join('\n');
+
+      // 5. Security Audit Log
+      const logs = overviewData.audit_log || [];
+      document.getElementById('audit-log-body').innerHTML = logs.map(l => `
+        <tr class="hover:bg-white/[0.02]">
+          <td class="py-2.5 px-5 text-muted whitespace-nowrap">${esc(l.time)}</td>
+          <td class="py-2.5 px-4">
+            <span class="px-2 py-0.5 rounded bg-white/[0.06] text-accent">${esc(l.event)}</span>
+          </td>
+          <td class="py-2.5 px-4 text-faint">${esc(l.ip)}</td>
+          <td class="py-2.5 px-5 text-ink font-sans">${esc(l.details)}</td>
+        </tr>`).join('');
+    }
+
+    // ---- Akcje w zakładce Limity API & RSS ----
+    async function toggleFeedStatus(feedName) {
+      await apiAdmin('/api/admin/config', 'POST', { toggle_feed: feedName });
+      showToast(`Zmieniono status źródła: ${feedName}`);
+      await loadAdminOverview();
+    }
+
+    async function addCustomFeed(e) {
+      e.preventDefault();
+      const payload = {
+        add_custom_feed: {
+          name: document.getElementById('nf-name').value,
+          url: document.getElementById('nf-url').value,
+          category: document.getElementById('nf-cat').value,
+          lang: document.getElementById('nf-lang').value,
+          limit: 3,
+        }
+      };
+      await apiAdmin('/api/admin/config', 'POST', payload);
+      document.getElementById('nf-name').value = '';
+      document.getElementById('nf-url').value = '';
+      showToast('Dodano nowe źródło RSS! Kliknij „Wymuś pełne odświeżenie", aby pobrać z niego artykuły.');
+      await loadAdminOverview();
+    }
+
+    async function removeCustomFeed(name) {
+      await apiAdmin('/api/admin/config', 'POST', { remove_custom_feed: name });
+      showToast(`Usunięto źródło: ${name}`);
+      await loadAdminOverview();
+    }
+
+    // ---- Akcje w zakładce CMS ----
+    async function saveBreakingBanner() {
+      const bb = {
+        enabled: document.getElementById('bb-enabled').checked,
+        label: document.getElementById('bb-label').value,
+        text: document.getElementById('bb-text').value,
+        link: document.getElementById('bb-link').value,
+      };
+      await apiAdmin('/api/admin/config', 'POST', { breaking_banner: bb });
+      showToast('Zaktualizowano Pasek Pilnego Komunikatu na stronie głównej!');
+      await loadAdminOverview();
+    }
+
+    async function createAdminArticle(e) {
+      e.preventDefault();
+      const pts = document.getElementById('ca-points').value.split('\n').map(s => s.trim()).filter(Boolean);
+      const ext = document.getElementById('ca-extended').value.split('\n').map(s => s.trim()).filter(Boolean);
+      const body = {
+        action: 'create',
+        category: document.getElementById('ca-cat').value,
+        entity_tag: document.getElementById('ca-entity').value || 'Komunikat Redakcyjny',
+        sector: document.getElementById('ca-sector').value || 'Redakcja compound.pl',
+        market_impact: document.getElementById('ca-impact').value,
+        title: document.getElementById('ca-title').value,
+        image_url: document.getElementById('ca-img').value,
+        summary_points: pts,
+        extended_paragraphs: ext,
+        pinned_by_admin: true,
+      };
+      const { data } = await apiAdmin('/api/admin/article', 'POST', body);
+      if (data.ok) {
+        document.getElementById('ca-title').value = '';
+        document.getElementById('ca-points').value = '';
+        document.getElementById('ca-extended').value = '';
+        showToast('Opublikowano nową depeszę redakcyjną!');
+        await loadAdminOverview();
+      }
+    }
+
+    function renderCmsArticles() {
+      if (!overviewData?.articles) return;
+      const cat = document.getElementById('cms-cat-filter').value || 'rynki';
+      const q = (document.getElementById('cms-search').value || '').toLowerCase().trim();
+      let list = overviewData.articles[cat] || [];
+      if (q) list = list.filter(a => JSON.stringify(a).toLowerCase().includes(q));
+
+      const container = document.getElementById('cms-articles-list');
+      container.innerHTML = list.map(a => `
+        <div class="p-4 rounded-2xl bg-base/70 border border-line flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+          <div class="space-y-1 min-w-0">
+            <div class="flex flex-wrap items-center gap-2 text-[11px]">
+              ${a.lead_story ? `<span class="px-2 py-0.5 rounded bg-accent text-black font-bold">★ LEAD STORY</span>` : ''}
+              ${a.is_foreign ? `<span class="px-2 py-0.5 rounded bg-sky/15 text-sky">🌐 Tłumaczenie PL (${esc(a.source)})</span>` : `<span class="px-2 py-0.5 rounded bg-white/10 text-muted">🇵🇱 ${esc(a.source)}</span>`}
+              <span class="text-accent font-medium">${esc(a.entity_tag)}</span>
+              <span class="text-faint font-mono">${esc(a.time)} · Wpływ: ${esc(a.market_impact)}</span>
+            </div>
+            <div class="text-sm font-semibold text-ink">${esc(a.title)}</div>
+            <div class="text-xs text-muted truncate">${esc((a.summary_points || [])[0] || '')}</div>
+          </div>
+          <div class="flex items-center gap-2 shrink-0">
+            <button onclick="openCmsEditModal('${esc(cat)}', '${esc(a.id)}')"
+              class="h-8 px-3.5 rounded-full bg-white/[0.06] hover:bg-white/[0.12] text-xs text-ink transition">
+              Edytuj
+            </button>
+            <button onclick="deleteCmsArticle('${esc(a.id)}')"
+              class="h-8 px-3.5 rounded-full bg-down/15 hover:bg-down/25 text-xs text-down transition">
+              Usuń
+            </button>
+          </div>
+        </div>`).join('');
+    }
+
+    function openCmsEditModal(cat, artId) {
+      const list = overviewData?.articles?.[cat] || [];
+      const a = list.find(x => x.id === artId);
+      if (!a) return;
+      document.getElementById('ed-id').value = a.id;
+      document.getElementById('ed-entity').value = a.entity_tag || '';
+      document.getElementById('ed-sector').value = a.sector || '';
+      document.getElementById('ed-impact').value = a.market_impact || 'MEDIUM';
+      document.getElementById('ed-title').value = a.title || '';
+      document.getElementById('ed-image').value = a.image_url || '';
+      document.getElementById('ed-points').value = (a.summary_points || []).join('\n');
+      document.getElementById('ed-extended').value = (a.extended_paragraphs || []).join('\n');
+      document.getElementById('ed-pinned').checked = Boolean(a.pinned_by_admin || a.lead_story);
+
+      const m = document.getElementById('cms-edit-modal');
+      m.classList.remove('hidden');
+      m.classList.add('flex');
+    }
+
+    function closeCmsEditModal() {
+      const m = document.getElementById('cms-edit-modal');
+      m.classList.add('hidden');
+      m.classList.remove('flex');
+    }
+
+    async function saveCmsEditedArticle() {
+      const body = {
+        action: 'update',
+        id: document.getElementById('ed-id').value,
+        entity_tag: document.getElementById('ed-entity').value,
+        sector: document.getElementById('ed-sector').value,
+        market_impact: document.getElementById('ed-impact').value,
+        title: document.getElementById('ed-title').value,
+        image_url: document.getElementById('ed-image').value,
+        summary_points: document.getElementById('ed-points').value.split('\n').map(s => s.trim()).filter(Boolean),
+        extended_paragraphs: document.getElementById('ed-extended').value.split('\n').map(s => s.trim()).filter(Boolean),
+        pinned_by_admin: document.getElementById('ed-pinned').checked,
+      };
+      await apiAdmin('/api/admin/article', 'POST', body);
+      closeCmsEditModal();
+      showToast('Zapisano zmiany w artykule!');
+      await loadAdminOverview();
+    }
+
+    async function deleteCmsArticle(artId) {
+      await apiAdmin('/api/admin/article', 'POST', { action: 'delete', id: artId });
+      showToast('Usunięto artykuł z bazy.');
+      await loadAdminOverview();
+    }
+
+    // ---- Zapis ustawień systemowych ----
+    async function saveSystemSettings() {
+      const payload = {
+        auto_refresh_cooldown_sec: parseInt(document.getElementById('cfg-auto-cd').value, 10) || 540,
+        manual_refresh_cooldown_sec: parseInt(document.getElementById('cfg-manual-cd').value, 10) || 20,
+        articles_per_category: parseInt(document.getElementById('cfg-arts-per-cat').value, 10) || 8,
+        translate_foreign_articles: document.getElementById('cfg-translate-foreign').checked,
+        blocked_keywords: document.getElementById('cfg-blocked-kw').value.split('\n').map(s => s.trim()).filter(Boolean),
+      };
+      const newKey = document.getElementById('cfg-gemini-key').value.trim();
+      if (newKey) payload.gemini_api_key = newKey;
+
+      await apiAdmin('/api/admin/config', 'POST', payload);
+      document.getElementById('cfg-gemini-key').value = '';
+      showToast('Zapisano ustawienia systemowe i limity Cooldown!');
+      await loadAdminOverview();
+    }
+
+    // ---- Zmiana hasła ----
+    async function handleChangePassword(e) {
+      e.preventDefault();
+      const curr = document.getElementById('sec-curr-pass').value;
+      const nw = document.getElementById('sec-new-pass').value;
+      const { data } = await apiAdmin('/api/admin/password', 'POST', {
+        current_password: curr,
+        new_password: nw,
+      });
+      if (data.ok) {
+        document.getElementById('sec-curr-pass').value = '';
+        document.getElementById('sec-new-pass').value = '';
+        showToast('Hasło administratora zostało bezpiecznie zmienione!');
+        await loadAdminOverview();
+      } else {
+        showToast(data.error || 'Błąd zmiany hasła');
+      }
+    }
+
+    // ---- Wymuszone odświeżenie potoku ----
+    async function forcePipelineRefresh() {
+      const btn = document.getElementById('force-refresh-btn');
+      btn.disabled = true;
+      showToast('Rozpoczęto pełną agregację i tłumaczenie EN→PL w tle…');
+      await apiAdmin('/api/admin/force-refresh', 'POST');
+      for (let i = 0; i < 35; i++) {
+        await new Promise(r => setTimeout(r, 1000));
+        const st = await (await fetch('/api/status')).json();
+        if (!st.is_refreshing) break;
+      }
+      await loadAdminOverview();
+      btn.disabled = false;
+      showToast('Baza artykułów i notowań została w pełni zaktualizowana!');
+    }
+
+    // Inicjalizacja
+    loadAdminOverview();
+  </script>
+</body>
+</html>

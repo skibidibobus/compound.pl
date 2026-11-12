@@ -1,0 +1,2514 @@
+{
+  "metadata": {
+    "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
+    "domain": "compound.pl",
+    "edition": "#2026.308",
+    "last_updated": "2026-11-04 22:07",
+    "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
+    "polish_articles_count": 20,
+    "foreign_translated_count": 20,
+    "breaking_banner": {
+      "enabled": false,
+      "label": "PILNE",
+      "text": "",
+      "link": "",
+      "style": "amber"
+    },
+    "disclaimer": "Treści publikowane w serwisie compound.pl mają charakter wyłącznie informacyjny, analityczny i edukacyjny. Nie stanowią rekomendacji inwestycyjnych w rozumieniu Rozporządzenia MAR (UE nr 596/2014) ani doradztwa inwestycyjnego w rozumieniu Art. 76 Ustawy o obrocie instrumentami finansowymi."
+  },
+  "market_ticker": [
+    {
+      "code": "USD",
+      "symbol": "USD/PLN",
+      "name": "Dolar amerykański",
+      "group": "fx",
+      "mid": 3.9097,
+      "price": "3.9097",
+      "prev_price": "3.9526",
+      "change": "-1.09%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "EUR",
+      "symbol": "EUR/PLN",
+      "name": "Euro",
+      "group": "fx",
+      "mid": 4.4014,
+      "price": "4.4014",
+      "prev_price": "4.4233",
+      "change": "-0.50%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "CHF",
+      "symbol": "CHF/PLN",
+      "name": "Frank szwajcarski",
+      "group": "fx",
+      "mid": 4.7883,
+      "price": "4.7883",
+      "prev_price": "4.8324",
+      "change": "-0.91%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "GBP",
+      "symbol": "GBP/PLN",
+      "name": "Funt szterling",
+      "group": "fx",
+      "mid": 5.2737,
+      "price": "5.2737",
+      "prev_price": "5.3037",
+      "change": "-0.57%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "symbol": "ZŁOTO (g)",
+      "name": "Złoto NBP (PLN/g)",
+      "group": "commodities",
+      "price": "496.76 zł",
+      "change": "+0.64%",
+      "is_positive": true
+    },
+    {
+      "symbol": "BTC/USD",
+      "name": "Bitcoin",
+      "group": "crypto",
+      "price": "$80,114",
+      "change": "+2.98%",
+      "is_positive": true
+    },
+    {
+      "symbol": "ETH/USD",
+      "name": "Ethereum",
+      "group": "crypto",
+      "price": "$2,421",
+      "change": "+5.77%",
+      "is_positive": true
+    },
+    {
+      "symbol": "WIG20",
+      "name": "WIG20 Index",
+      "price": "4138.60",
+      "change": "+0.78%",
+      "is_positive": true,
+      "group": "gpw"
+    },
+    {
+      "symbol": "S&P 500",
+      "name": "S&P 500 Index",
+      "group": "indices",
+      "price": "5,842.50 pkt",
+      "change": "+0.42%",
+      "is_positive": true
+    },
+    {
+      "symbol": "PKO BP",
+      "name": "PKO Bank Polski",
+      "group": "gpw",
+      "price": "59.84 zł",
+      "change": "+1.18%",
+      "is_positive": true
+    },
+    {
+      "symbol": "XTB",
+      "name": "XTB S.A.",
+      "group": "gpw",
+      "price": "68.40 zł",
+      "change": "+1.95%",
+      "is_positive": true
+    },
+    {
+      "symbol": "ORLEN",
+      "name": "Orlen SA",
+      "group": "gpw",
+      "price": "63.45 zł",
+      "change": "-0.35%",
+      "is_positive": false
+    },
+    {
+      "symbol": "KGHM",
+      "name": "KGHM Polska Miedź",
+      "group": "gpw",
+      "price": "146.20 zł",
+      "change": "+1.52%",
+      "is_positive": true
+    },
+    {
+      "symbol": "DINO",
+      "name": "Dino Polska",
+      "group": "gpw",
+      "price": "394.50 zł",
+      "change": "+0.85%",
+      "is_positive": true
+    },
+    {
+      "symbol": "KRUK",
+      "name": "Kruk S.A.",
+      "group": "gpw",
+      "price": "438.00 zł",
+      "change": "+0.92%",
+      "is_positive": true
+    },
+    {
+      "symbol": "KĘTY",
+      "name": "Grupa Kęty",
+      "group": "gpw",
+      "price": "785.00 zł",
+      "change": "+0.75%",
+      "is_positive": true
+    },
+    {
+      "symbol": "BUDIMEX",
+      "name": "Budimex S.A.",
+      "group": "gpw",
+      "price": "562.00 zł",
+      "change": "+0.60%",
+      "is_positive": true
+    },
+    {
+      "symbol": "CD PROJEKT",
+      "name": "CD Projekt",
+      "group": "gpw",
+      "price": "172.40 zł",
+      "change": "+1.20%",
+      "is_positive": true
+    },
+    {
+      "symbol": "PZU",
+      "name": "Grupa PZU",
+      "group": "gpw",
+      "price": "48.12 zł",
+      "change": "+0.55%",
+      "is_positive": true
+    },
+    {
+      "symbol": "ALLEGRO",
+      "name": "Allegro.eu",
+      "group": "gpw",
+      "price": "34.80 zł",
+      "change": "-0.40%",
+      "is_positive": false
+    },
+    {
+      "symbol": "NVIDIA",
+      "name": "NVIDIA Corp.",
+      "group": "indices",
+      "price": "138.60 $",
+      "change": "+2.15%",
+      "is_positive": true
+    },
+    {
+      "symbol": "MICROSOFT",
+      "name": "Microsoft Corp.",
+      "group": "indices",
+      "price": "428.50 $",
+      "change": "+0.88%",
+      "is_positive": true
+    },
+    {
+      "symbol": "ROPA BRENT",
+      "name": "Ropa Brent (USD/bbl)",
+      "group": "commodities",
+      "price": "74.60 $",
+      "change": "-0.80%",
+      "is_positive": false
+    }
+  ],
+  "fx_table": [
+    {
+      "code": "USD",
+      "symbol": "USD/PLN",
+      "name": "Dolar amerykański",
+      "group": "fx",
+      "mid": 3.9097,
+      "price": "3.9097",
+      "prev_price": "3.9526",
+      "change": "-1.09%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "EUR",
+      "symbol": "EUR/PLN",
+      "name": "Euro",
+      "group": "fx",
+      "mid": 4.4014,
+      "price": "4.4014",
+      "prev_price": "4.4233",
+      "change": "-0.50%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "CHF",
+      "symbol": "CHF/PLN",
+      "name": "Frank szwajcarski",
+      "group": "fx",
+      "mid": 4.7883,
+      "price": "4.7883",
+      "prev_price": "4.8324",
+      "change": "-0.91%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "GBP",
+      "symbol": "GBP/PLN",
+      "name": "Funt szterling",
+      "group": "fx",
+      "mid": 5.2737,
+      "price": "5.2737",
+      "prev_price": "5.3037",
+      "change": "-0.57%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "JPY",
+      "symbol": "JPY/PLN",
+      "name": "Jen japoński (100)",
+      "group": "fx",
+      "mid": 0.024681,
+      "price": "2.4681",
+      "prev_price": "2.4998",
+      "change": "-1.27%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "CZK",
+      "symbol": "CZK/PLN",
+      "name": "Korona czeska",
+      "group": "fx",
+      "mid": 0.181,
+      "price": "0.1810",
+      "prev_price": "0.1817",
+      "change": "-0.39%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "NOK",
+      "symbol": "NOK/PLN",
+      "name": "Korona norweska",
+      "group": "fx",
+      "mid": 0.4249,
+      "price": "0.4249",
+      "prev_price": "0.4271",
+      "change": "-0.52%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "SEK",
+      "symbol": "SEK/PLN",
+      "name": "Korona szwedzka",
+      "group": "fx",
+      "mid": 0.4016,
+      "price": "0.4016",
+      "prev_price": "0.4038",
+      "change": "-0.54%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "CAD",
+      "symbol": "CAD/PLN",
+      "name": "Dolar kanadyjski",
+      "group": "fx",
+      "mid": 2.8025,
+      "price": "2.8025",
+      "prev_price": "2.8295",
+      "change": "-0.95%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "AUD",
+      "symbol": "AUD/PLN",
+      "name": "Dolar australijski",
+      "group": "fx",
+      "mid": 2.7426,
+      "price": "2.7426",
+      "prev_price": "2.7576",
+      "change": "-0.54%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "DKK",
+      "symbol": "DKK/PLN",
+      "name": "Korona duńska",
+      "group": "fx",
+      "mid": 0.5889,
+      "price": "0.5889",
+      "prev_price": "0.5919",
+      "change": "-0.51%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    },
+    {
+      "code": "HUF",
+      "symbol": "HUF/PLN",
+      "name": "Forint węgierski (100)",
+      "group": "fx",
+      "mid": 0.012115,
+      "price": "1.2115",
+      "prev_price": "1.2123",
+      "change": "-0.07%",
+      "is_positive": false,
+      "table_no": "215/A/NBP/2026",
+      "date": "2026-11-04"
+    }
+  ],
+  "analizy": [
+    {
+      "id": "analiza-xtb",
+      "ticker": "XTB",
+      "exchange": "GPW: XTB",
+      "name": "XTB SA (X-Trade Brokers)",
+      "group": "gpw_growth",
+      "sector": "Fintech & Dom Maklerski",
+      "horizon": "Long-Term (3–8 lat)",
+      "style_badge": "Wzrost + Wysoka Dywidenda",
+      "default_price": "68.40 zł",
+      "default_change": "+1.45%",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "ROE: ~35–42%",
+        "Polityka dywidendy: 50–100% zysku",
+        "Baza klientów: >1,2 mln",
+        "Zadłużenie: Brak długu netto"
+      ],
+      "headline": "Europejski lider fintech z polskim rodowodem: skalowalne pozyskiwanie klientów i wysoka konwersja zysku na gotówkę",
+      "why_worth_attention": [
+        "Transformacja z brokera aktywnego handlu w kompleksową europejską super-aplikację inwestycyjną (akcje, ETF-y, plany inwestycyjne, oprocentowanie wolnych środków oraz konta IKE/IKZE).",
+        "Rekordowe tempo akwizycji nowych klientów (setki tysięcy nowych rachunków rocznie w Polsce, Europie Zachodniej, na Bliskim Wschodzie i w Ameryce Łacińskiej), co buduje trwałą bazę przychodową na lata.",
+        "Model biznesowy o niskim zapotrzebowaniu na kapitał rzeczowy pozwala wypłacać akcjonariuszom od 50% do nawet 75% wypracowanego zysku netto w formie corocznej dywidendy przy jednoczesnym finansowaniu ekspansji."
+      ],
+      "why_now": "Wprowadzenie kont emerytalnych IKE/IKZE oraz planów pasywnych przyciąga do XTB kapitał długoterminowy, który stabilizuje przychody spółki niezależnie od krótkoterminowej zmienności rynkowej.",
+      "deep_dive_paragraphs": [
+        "Model operacyjny XTB opiera się na własnej, autorskiej technologii transakcyjnej (xStation), dzięki czemu spółka nie płaci zewnętrznym dostawcom licencji od rosnącego wolumenu obrotu. Każdy kolejny tysiąc aktywnych użytkowników podnosi dźwignię operacyjną firmy.",
+        "Z perspektywy inwestora długoterminowego kluczowa jest struktura bilansu: XTB utrzymuje wysokie nadwyżki gotówkowe i kapitałowe, co przekłada się na regularne, wysokie dywidendy (często dające 6–9% stopy dywidendy) przy jednoczesnym wzroście skali działalności.",
+        "Rozшиrzenie oferty o produkty wielowalutowe i rachunki emerytalne sprawia, że XTB staje się pierwszym wyborem dla nowego pokolenia inwestorów indywidualnych w całym regionie CEE i UE."
+      ],
+      "risk_factors": [
+        "Uzależnienie części kwartalnych przychodów od zmienności na rynkach surowców, indeksów i walut.",
+        "Ryzyko regulacyjne na poszczególnych rynkach Unii Europejskiej (np. ograniczenia marketingowe jak w Hiszpanii)."
+      ],
+      "price": "68.40 zł",
+      "change": "+1.95%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-dino",
+      "ticker": "DINO",
+      "exchange": "GPW: DNP",
+      "name": "Dino Polska SA",
+      "group": "gpw_growth",
+      "sector": "Handel Detaliczny & Nieruchomości",
+      "horizon": "Long-Term (5–10 lat)",
+      "style_badge": "Czysty Procent Składany",
+      "default_price": "394.50 zł",
+      "default_change": "+0.85%",
+      "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Sieć: >2 500 sklepów",
+        "Reinwestycja zysku: 100%",
+        "Model: Własność gruntów",
+        "Zintegrowany zakład mięsny Agro-Rydzyna"
+      ],
+      "headline": "Klasyczny „compounder” na GPW: reinwestycja 100% przepływów pieniężnych w budowę własnej sieci sklepów",
+      "why_worth_attention": [
+        "Unikalny model biznesowy: w przeciwieństwie do konkurencji wynajmującej lokale, Dino kupuje grunty na własność i buduje wystandaryzowane markety blisko miejsca zamieszkania klientów w mniejszych miejscowościach i na obrzeżach miast.",
+        "Pionowa integracja łańcucha dostaw (własne centra dystrybucyjne oraz zakłady mięsne Agro-Rydzyna) zapewnia pełną kontrolę nad jakością świeżych produktów i chroni marżę brutto.",
+        "Spółka nie wypłaca dywidendy, lecz reinwestuje każdą zarobioną złotówkę w otwieranie kolejnych kilkuset sklepów rocznie, co historycznie generowało ponadprzeciętny wzrost wartości wewnętrznej przedsiębiorstwa."
+      ],
+      "why_now": "Rosnące realne wynagrodzenia konsumentów w Polsce oraz spadająca presja kosztowa energii (własne instalacje fotowoltaiczne na dachach marketów Dino) wspierają odbudowę marży EBITDA w kolejnych latach.",
+      "deep_dive_paragraphs": [
+        "Dino Polska jest podręcznikowym przykładem działania procentu składanego w gospodarce realnej. Powtarzalny format sklepu o powierzchni ok. 400 m² pozwala na szybkie i przewidywalne skalowanie sieci w województwach o niższym nasyceniu (szczególnie wschodnia i północna Polska).",
+        "Własność nieruchomości sprawia, że spółka nie jest narażona na indeksację czynszów najmu w euro, co w długim terminie daje jej trwałą przewagę kosztową nad sieciami opartymi na franczyzie lub wynajmie.",
+        "Nawet po osiągnięciu docelowego nasycenia rynku w Polsce za kilka lat, spadek nakładów inwestycyjnych (CAPEX) na nowe otwarcia uwolni ogromne wolne przepływy pieniężne (Free Cash Flow)."
+      ],
+      "risk_factors": [
+        "Wojna cenowa pomiędzy największymi sieciami dyskontowymi w Polsce wywierająca presję na marżę handlową.",
+        "Wzrost kosztów pracy (płaca minimalna) wymagający ciągłego wzrostu sprzedaży porównywalnej (LFL)."
+      ],
+      "price": "394.50 zł",
+      "change": "+0.85%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-kruk",
+      "ticker": "KRUK",
+      "exchange": "GPW: KRU",
+      "name": "Kruk SA",
+      "group": "gpw_growth",
+      "sector": "Zarządzanie Wierzytelnościami",
+      "horizon": "Long-Term (4–8 lat)",
+      "style_badge": "Ekspansja Międzynarodowa + Dywidenda",
+      "default_price": "438.00 zł",
+      "default_change": "+0.92%",
+      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "ROE: ~24–26%",
+        "Rynki: PL, Włochy, Hiszpania, Rumunia, Francja",
+        "Dywidenda: Wypłacana nieprzerwanie od 10 lat",
+        "Lider rynku CEE & Południa UE"
+      ],
+      "headline": "Międzynarodowy czempion z Wrocławia: zaawansowana analityka danych i polubowna spłata wierzytelności w Europie",
+      "why_worth_attention": [
+        "Kruk przestał być spółką lokalną — ponad połowa nowych inwestycji w portfele wierzytelności realizowana jest na dużych rynkach strefy euro (Włochy, Hiszpania, Francja) oraz w Rumunii.",
+        "Przewaga konkurencyjna oparta na 25-letnich zbiorach danych statystycznych i modelach wyceny portfeli długów, dzięki czemu realne wpłaty od dłużników regularnie przewyższają konserwatywne prognozy księgowe.",
+        "Rzadkie połączenie szybkiego wzrostu skali biznesu z regularnym dzieleniem się zyskiem z akcjonariuszami (ponad dekada nieprzerwanych wypłat dywidendy)."
+      ],
+      "why_now": "Banki komercyjne w Europie regularnie czyszczą bilanse ze spisanych kredytów konsumenckich, zapewniając Krukowi szeroką podaż nowych portfeli wierzytelności po atrakcyjnych stopach zwrotu (IRR).",
+      "deep_dive_paragraphs": [
+        "Kluczem do sukcesu Kruka było wdrożenie strategii ugodowej — traktowanie osoby zadłużonej jak klienta i rozkładanie zobowiązań na niskie, możliwe do udźwignięcia raty za pośrednictwem platform samoobsługowych online.",
+        "Ekspansja we Włoszech i Hiszpanii otworzyła przed spółką rynek wielokrotnie większy niż Polska, a wysoka automatyzacja procesów operacyjnych pozwala skalować odzyski bez proporcjonalnego wzrostu zatrudnienia."
+      ],
+      "risk_factors": [
+        "Wysoki udział finansowania dłużnego (obligacje i kredyty bankowe) niezbędnego do zakupu nowych portfeli.",
+        "Ryzyko zmian przepisów windykacyjnych i sądowych na rynkach południowoeuropejskich."
+      ],
+      "price": "438.00 zł",
+      "change": "+0.92%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-kety",
+      "ticker": "KĘTY",
+      "exchange": "GPW: KTY",
+      "name": "Grupa Kęty SA",
+      "group": "dividend",
+      "sector": "Przemysł & Przetwórstwo Aluminium",
+      "horizon": "Long-Term (5–10 lat)",
+      "style_badge": "Arystokrata Dywidendowy GPW",
+      "default_price": "782.00 zł",
+      "default_change": "+0.54%",
+      "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Wypłata dywidendy: 60–85% zysku netto",
+        "Historia dywidend: >20 lat z rzędu",
+        "3 filary: Wyroby Wyciskane, Systemy Alu, Opakowania",
+        "Silny eksport do UE"
+      ],
+      "headline": "Wzór ładu korporacyjnego na GPW: ponad dwie dekady nieprzerwanych dywidend i nowoczesny przemysł",
+      "why_worth_attention": [
+        "Jedna z najbardziej przewidywalnych i transparentnych spółek przemysłowych w Europie Środkowej, zarządzana z ogromnym poszanowaniem kapitału akcjonariuszy (w tym OFE i inwestorów indywidualnych).",
+        "Dywersyfikacja na 3 komplementarne segmenty (Systemy Aluminiowe dla budownictwa, Wyroby Wyciskane dla przemysłu/motoryzacji oraz Opakowania Giętkie dla sektora spożywczego) stabilizuje wyniki w różnych fazach cyklu.",
+        "Aluminium jest kluczowym surowcem transformacji energetycznej i termomodernizacji budynków w całej Unii Europejskiej (możliwość nieskończonego recyklingu przy niskim zużyciu energii)."
+      ],
+      "why_now": "Programy termomodernizacji budynków w UE oraz ożywienie w budownictwie energooszczędnym bezpośrednio napędzają popyt na zaawansowane systemy fasadowe i okienne marki Aluprof (należącej do Grupy Kęty).",
+      "deep_dive_paragraphs": [
+        "Grupa Kęty udowadnia, że produkcja przemysłowa w Polsce może konkurować w Europie Zachodniej jakością, automatyzacją i zaawansowaniem inżynieryjnym, a nie wyłącznie kosztami pracy.",
+        "Dla inwestora budującego portfel rentierski na lata, Kęty stanowią rzadki na polskim rynku przykład spółki, która regularnie realizuje lub przekracza swoje wieloletnie strategie finansowe, wypłacając wysokie dywidendy w dwóch transzach rocznie."
+      ],
+      "risk_factors": [
+        "Wrażliwość na wahania koniunktury przemysłowej w Niemczech i strefie euro oraz ceny energii i aluminium."
+      ],
+      "price": "785.00 zł",
+      "change": "+0.75%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-budimex",
+      "ticker": "BUDIMEX",
+      "exchange": "GPW: BDX",
+      "name": "Budimex SA",
+      "group": "dividend",
+      "sector": "Infrastruktura, Kolej & Energetyka",
+      "horizon": "Long-Term (4–8 lat)",
+      "style_badge": "Lider Infrastruktury + Dywidenda",
+      "default_price": "564.00 zł",
+      "default_change": "+1.12%",
+      "image_url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Portfel zamówień: >15 mld zł",
+        "Pozycja gotówkowa netto: Dodatnia",
+        "Dywidenda: Regularnie do 80–100% zysku",
+        "Ekspansja: Polska, Czechy, Słowacja, Kraje Bałtyckie"
+      ],
+      "headline": "Główny beneficjent wieloletnich inwestycji infrastrukturalnych, kolejowych, obronnych i energetycznych w regionie",
+      "why_worth_attention": [
+        "Największy generalny wykonawca w Polsce z rekordowym portfelem zamówień gwarantującym pełne obłożenie pracą na najbliższe 3–4 lata.",
+        "W przeciwieństwie do wielu mniejszych firm budowlanych, Budimex charakteryzuje się żelazną dyscypliną kosztową, selekcją rentownych kontraktów oraz nadwyżką gotówki netto na bilansie.",
+        "Nowe strumienie wzrostu: budowa kolei dużych prędkości, infrastruktury obronnej/wojskowej, morskich i lądowych sieci energetycznych oraz wejście w segment odnawialnych źródeł energii i centrów danych."
+      ],
+      "why_now": "Kumulacja środków z KPO, nowej perspektywy unijnej oraz budżetu obronnego i energetycznego Polski uruchamia największą falę przetargów infrastrukturalnych dekady.",
+      "deep_dive_paragraphs": [
+        "Budimex od lat wyróżnia się w branży budowlanej ponadprzeciętną marżą operacyjną oraz zdolnością do generowania gotówki dzięki zaliczkom kontraktowym i efektywnemu zarządzaniu kapitałem obrotowym.",
+        "Dodatkowo ekspansja na rynki sąsiednie (Czechy, Słowacja, udział w projekcie Rail Baltica na Łotwie i w Estonii) uniezależnia spółkę od jednego zamawiającego."
+      ],
+      "risk_factors": [
+        "Ryzyko gwałtownych skoków cen materiałów budowlanych i podwykonawstwa przy kontraktach długoterminowych."
+      ],
+      "price": "562.00 zł",
+      "change": "+0.60%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-pkobp",
+      "ticker": "PKO BP",
+      "exchange": "GPW: PKO",
+      "name": "PKO Bank Polski SA",
+      "group": "dividend",
+      "sector": "Bankowość Uniwersalna",
+      "horizon": "Long-Term (3–10 lat)",
+      "style_badge": "Fundament WIG20 & Dywidendy",
+      "default_price": "59.84 zł",
+      "default_change": "+1.18%",
+      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "ROE: ~18–20%",
+        "Aktywa: >500 mld zł (#1 w CEE)",
+        "Koszt finansowania: Najniższy na rynku",
+        "Wysoki potencjał dywidendowy"
+      ],
+      "headline": "Największa instytucja finansowa Europy Środkowo-Wschodniej i barometr polskiej gospodarki",
+      "why_worth_attention": [
+        "Niekwestionowany lider depozytów detalicznych w Polsce (ponad 12 mln klientów i aplikacja IKO), co zapewnia bankowi najtańszy koszt finansowania na rynku i wysoką marżę odsetkową (NIM).",
+        "Wraz z wygasaniem rezerw na historyczne kredyty frankowe (CHF), ogromna zdolność generowania kapitału własnego przekłada się bezpośrednio na wypłaty dywidend i zaliczek dywidendowych.",
+        "Główny podmiot finansujący transformację energetyczną, inwestycje przedsiębiorstw oraz rynek kredytów hipotecznych w Polsce."
+      ],
+      "why_now": "Utrzymujące się dodatnie realne stopy procentowe w Polsce oraz przyspieszenie akcji kredytowej dla firm wspierają powtarzalny wynik odsetkowy i prowizyjny na poziomie wielu miliardów złotych rocznie.",
+      "deep_dive_paragraphs": [
+        "Skala PKO BP tworzy potężną fosę kosztową i technologiczną — bank może inwestować setki milionów złotych rocznie w cyberbezpieczeństwo, chmurę i automatyzację AI, rozkładając ten koszt na największą bazę klientów w kraju.",
+        "Dla inwestorów zagranicznych i krajowych funduszy PKO BP stanowi podstawowy instrument ekspozycji na wzrost polskiego PKB."
+      ],
+      "risk_factors": [
+        "Wrażliwość wyniku odsetkowego na przyszłe cykle obniżek stóp procentowych NBP.",
+        "Obecność Skarbu Państwa w akcjonariacie (ryzyko decyzji politycznych i podatkowych wobec sektora)."
+      ],
+      "price": "59.84 zł",
+      "change": "+1.18%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-pzu",
+      "ticker": "PZU",
+      "exchange": "GPW: PZU",
+      "name": "Grupa PZU SA",
+      "group": "dividend",
+      "sector": "Ubezpieczenia, Zdrowie & Bankowość",
+      "horizon": "Long-Term (5–10 lat)",
+      "style_badge": "Królowa Polskich Dywidend",
+      "default_price": "48.12 zł",
+      "default_change": "+0.55%",
+      "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Stopa dywidendy: Historycznie 6–9%",
+        "Wypłacalność Solvency II: >200%",
+        "Aktywa: Ubezpieczenia + Pekao + Alior + PZU Zdrowie",
+        "ROE: ~17–19%"
+      ],
+      "headline": "Największy konglomerat finansowo-ubezpieczeniowy w regionie generujący ponadprzeciętny strumień gotówki",
+      "why_worth_attention": [
+        "Dominująca pozycja w ubezpieczeniach majątkowych i życiowych w Polsce z siecią dystrybucji, której zbudowanie od zera przez zagraniczną konkurencję jest praktycznie niemożliwe.",
+        "Ogromny portfel inwestycyjny lokowany w bezpiecznych obligacjach skarbowych pracuje na wysokich rentownościach, generując stabilny dochód lokacyjny niezależnie od koniunktury giełdowej.",
+        "Dynamiczny rozwój filaru prywatnej opieki medycznej (PZU Zdrowie) oraz zarządzania aktywami (TFI PZU, PPK) odpowiada na trendy demograficzne polskiego społeczeństwa."
+      ],
+      "why_now": "Niska wycena wskaźnikowa (C/Z poniżej 9x) w połączeniu z wysokim współczynnikiem wypłacalności Solvency II sprawia, że PZU pozostaje jednym z najchętniej wybieranych fundamentów portfeli dywidendowych IKE.",
+      "deep_dive_paragraphs": [
+        "PZU to w praktyce dwa silniki zysku w jednej akcji: tradycyjny biznes ubezpieczeniowy (gdzie składka wpływa z góry, zanim pojawią się wypłaty odszkodowań — tzw. ubezpieczeniowy float, z którego słynie Berkshire Hathaway Warrena Buffetta) oraz znaczące pakiety akcji w Banku Pekao i Alior Banku."
+      ],
+      "risk_factors": [
+        "Zjawiska pogodowe o charakterze katastroficznym (powodzie, przymrozki) podnoszące szkodowość w danym roku.",
+        "Wpływ zmian zarządczych powiązanych ze Skarbem Państwa."
+      ],
+      "price": "48.12 zł",
+      "change": "+0.55%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-cdprojekt",
+      "ticker": "CD PROJEKT",
+      "exchange": "GPW: CDR",
+      "name": "CD Projekt SA",
+      "group": "gpw_growth",
+      "sector": "Globalny Gaming & Własność Intelektualna (IP)",
+      "horizon": "Long-Term (4–8 lat)",
+      "style_badge": "Globalny Eksport & Silne IP",
+      "default_price": "172.40 zł",
+      "default_change": "+1.20%",
+      "image_url": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Przychody z eksportu: >95%",
+        "Bilans: Ponad 1 mld zł gotówki i obligacji",
+        "Główne franczyzy: Wiedźmin & Cyberpunk",
+        "Marża brutto na sprzedaży cyfrowej: >75%"
+      ],
+      "headline": "Polski właściciel globalnych franczyz rozrywkowych o wieloletnim cyklu monetyzacji (Wiedźmin & Cyberpunk)",
+      "why_worth_attention": [
+        "Własność dwóch rozpoznawalnych na całym świecie marek popkulturowych (IP), które zarabiają przez wiele lat po premierze dzięki dystrybucji cyfrowej (Steam, PlayStation, Xbox), serialom, komiksom i dodatkom.",
+        "Przejście na silnik Unreal Engine 5 pozwala studiu prowadzić równolegle kilka projektów (nowa trylogia Wiedźmina – Projekt Polaris, sequel Cyberpunka – Projekt Orion w Bostonie) przy mniejszym ryzyku technologicznym.",
+        "Ponad 95% przychodów generowanych jest w walutach obcych (głównie USD i EUR), a koszty ponoszone są w dużej części w PLN."
+      ],
+      "why_now": "Wejście projektu Polaris (nowa odsłona sagi wiedźmińskiej) w fazę pełnej produkcji rozpoczyna wieloletni cykl budowania wartości przed kolejnymi globalnymi premierami.",
+      "deep_dive_paragraphs": [
+        "W branży gier wideo najcenniejszym aktywem jest trwałe IP (własność intelektualna). Katalog tzw. back-catalogu (Wiedźmin 3 oraz Cyberpunk 2077 wraz z dodatkiem Widmo Wolności) generuje dla CD Projektu setki milionów złotych czystego przepływu pieniężnego nawet w latach bez dużej premiery."
+      ],
+      "risk_factors": [
+        "Długie cykle produkcyjne gier AAA (4–6 lat) i wrażliwość kursu na odbiór premier przez graczy."
+      ],
+      "price": "172.40 zł",
+      "change": "+1.20%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-kghm",
+      "ticker": "KGHM",
+      "exchange": "GPW: KGH",
+      "name": "KGHM Polska Miedź SA",
+      "group": "dividend",
+      "sector": "Surowce Strategiczne (Miedź & Srebro)",
+      "horizon": "Long-Term (5–10 lat)",
+      "style_badge": "Surowce dla AI & Transformacji",
+      "default_price": "146.20 zł",
+      "default_change": "+1.52%",
+      "image_url": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Pozycja: Czołowy producent miedzi i #2 producent srebra na świecie",
+        "Aktywa: Polska, Chile (Sierra Gorda), Kanada, USA",
+        "Kluczowy surowiec dla sieci elektroenergetycznych i centrów danych"
+      ],
+      "headline": "Strategiczny producent miedzi i srebra: fundament elektryfikacji gospodarki i rozbudowy centrów danych AI",
+      "why_worth_attention": [
+        "Bez miedzi nie ma transformacji energetycznej, samochodów elektrycznych, nowoczesnych sieci przesyłowych ani energochłonnych centrów danych AI — a uruchomienie nowej kopalni miedzi na świecie trwa średnio 12–15 lat.",
+        "KGHM jest jednocześnie jednym z dwóch największych producentów srebra na świecie, co daje inwestorowi naturalną dźwignię na hossę na rynku metali szlachetnych i przemysłowych.",
+        "Złoża w bezpiecznej jurysdykcji w Polsce uzupełnione są aktywami zagranicznymi w Ameryce Północnej i Chile."
+      ],
+      "why_now": "Strukturalny deficyt podaży miedzi prognozowany na lata 2026–2035 przy rosnącym popycie ze strony sektora energetycznego i technologicznego wspiera długoterminowe notowania surowca.",
+      "deep_dive_paragraphs": [
+        "Inwestowanie w KGHM w długim terminie to ekspozycja na twarde aktywa materialne, których nie da się dodrukować. W okresach globalnej inflacji surowcowej przychody spółki denominowane w dolarach amerykańskich (USD) dynamicznie rosną."
+      ],
+      "risk_factors": [
+        "Wysoki koszt wydobycia głębinowego w Polsce oraz obciążenie podatkiem od wydobycia niektórych kopalin.",
+        "Cykliczność światowych cen miedzi uzależniona od popytu z gospodarki USA i Chin."
+      ],
+      "price": "146.20 zł",
+      "change": "+1.52%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-orlen",
+      "ticker": "ORLEN",
+      "exchange": "GPW: PKN",
+      "name": "Orlen SA",
+      "group": "dividend",
+      "sector": "Multienergetyka, Paliwa, Gaz & OZE",
+      "horizon": "Long-Term (4–10 lat)",
+      "style_badge": "Wartość (Value) + Gwarantowana Dywidenda",
+      "default_price": "63.45 zł",
+      "default_change": "-0.35%",
+      "image_url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Polityka dywidendowa: Rosnąca co roku kwota na akcję",
+        "Wycena: Niski wskaźnik C/WK (~0,5x) i EV/EBITDA",
+        "Segmenty: Rafineria, Gaz, Energetyka, Detal, Petrochemia"
+      ],
+      "headline": "Największy koncern multienergetyczny w regionie CEE z progresywną polityką dywidendową",
+      "why_worth_attention": [
+        "Połączenie aktywów rafineryjnych, gazowych (PGNiG), energetycznych (Energa) i detalicznych tworzy zdywersyfikowany organizm generujący dziesiątki miliardów złotych przepływów operacyjnych EBITDA rocznie.",
+        "Jasna, wieloletnia polityka dywidendowa zakładająca systematyczny wzrost wypłacanej dywidendy na jedną akcję rok do roku.",
+        "Bardzo niska wycena rynkowa względem wartości księgowej majątku infrastrukturalnego (sieci przesyłowe, elektrownie, terminale, tysiące stacji paliw w 7 krajach Europy)."
+      ],
+      "why_now": "Uporządkowanie programu inwestycyjnego (CAPEX) oraz koncentracja na najbardziej rentownych projektach gazowych, morskich farmach wiatrowych i sieciach dystrybucyjnych poprawia zwrot z kapitału.",
+      "deep_dive_paragraphs": [
+        "Dla długoterminowego inwestora typu Value (poszukującego niedowartościowanych aktywów płacących wysoką dywidendę), Orlen oferuje jedną z najwyższych stóp dywidendy wśród dużych spółek europejskich przy umiarkowanym zadłużeniu netto."
+      ],
+      "risk_factors": [
+        "Zmienność marż rafineryjnych i petrochemicznych oraz duże potrzeby kapitałowe na transformację energetyczną."
+      ],
+      "price": "63.45 zł",
+      "change": "-0.35%",
+      "is_positive": false
+    },
+    {
+      "id": "analiza-nvidia",
+      "ticker": "NVIDIA",
+      "exchange": "NASDAQ: NVDA",
+      "name": "NVIDIA Corporation",
+      "group": "global_giants",
+      "sector": "Półprzewodniki & Infrastruktura AI",
+      "horizon": "Long-Term (5–10 lat)",
+      "style_badge": "Globalny Lider Technologii AI",
+      "default_price": "$138.60",
+      "default_change": "+1.85%",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Marża brutto: ~73–75%",
+        "Udział w rynku akceleratorów AI: >80%",
+        "Fosa oprogramowania: Ekosystem CUDA (>5 mln deweloperów)"
+      ],
+      "headline": "Fundament rewolucji obliczeniowej: połączenie architektury układów GPU z zamkniętym ekosystemem oprogramowania CUDA",
+      "why_worth_attention": [
+        "Prawdziwą fosą konkurencyjną NVIDII nie są wyłącznie same chipy, lecz rozwijana od blisko 20 lat warstwa oprogramowania CUDA, biblioteki sieciowe (Mellanox/InfiniBand) oraz pełne systemy serwerowe.",
+        "Największe firmy świata (Microsoft, Alphabet, Meta, Amazon, Oracle) traktują zakup klastrów obliczeniowych NVIDII jako strategiczną konieczność utrzymania pozycji konkurencyjnej.",
+        "Roczna kadencja wydawania nowych architektur (Hopper → Blackwell → Rubin) utrzymuje dystans technologiczny nad konkurencją i pozwala generować marże niespotykane wcześniej w branży sprzętowej."
+      ],
+      "why_now": "Przejście branży AI z fazy samego trenowania modeli do masowego wnioskowania (inference), agentów AI, robotyki przemysłowej i autonomii otwiera drugą, długoterminową falę popytu na moc obliczeniową.",
+      "deep_dive_paragraphs": [
+        "W historii technologii każda nowa era (komputery PC, internet, smartfony, chmura, a dziś sztuczna inteligencja) wyłaniała dostawcę kluczowej infrastruktury zbierającego największą rentę technologiczną. NVIDIA zajmuje tę pozycję w warstwie obliczeń akcelerowanych."
+      ],
+      "risk_factors": [
+        "Wysoka wycena wskaźnikowa oraz ryzyko cyklicznego spowolnienia wydatków kapitałowych (CAPEX) przez gigantów chmurowych.",
+        "Ograniczenia eksportowe i napięcia geopolityczne wokół Tajwanu (TSMC)."
+      ],
+      "price": "138.60 $",
+      "change": "+2.15%",
+      "is_positive": true
+    },
+    {
+      "id": "analiza-microsoft",
+      "ticker": "MICROSOFT",
+      "exchange": "NASDAQ: MSFT",
+      "name": "Microsoft Corporation",
+      "group": "global_giants",
+      "sector": "Chmura Obliczeniowa, Software B2B & AI",
+      "horizon": "Long-Term (5–15 lat)",
+      "style_badge": "Globalny Filar Jakości (Rating AAA)",
+      "default_price": "$426.40",
+      "default_change": "+0.74%",
+      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1000&q=80",
+      "fundamental_metrics": [
+        "Rating kredytowy: AAA (wyższy niż obligacje USA)",
+        "Marża operacyjna: >43%",
+        "Filary: Azure, Microsoft 365, Windows, LinkedIn, GitHub"
+      ],
+      "headline": "Najbardziej zdywersyfikowany ekosystem oprogramowania dla biznesu na świecie o gigantycznych kosztach zmiany dostawcy",
+      "why_worth_attention": [
+        "Niezwykle wysokie koszty zmiany dostawcy (Switching Costs): miliony przedsiębiorstw, banków i instytucji na całym świecie opierają codzienną pracę na ekosystemie Windows, Office 365, Teams i chmurze Azure.",
+        "Model subskrypcyjny zapewnia przewidywalne, powtarzalne przepływy pieniężne (ARR) odporne na spowolnienia gospodarcze.",
+        "Bezpośrednia monetyzacja sztucznej inteligencji zarówno na poziomie infrastruktury chmurowej (Azure AI), jak i na poziomie aplikacji biurowych oraz narzędzi dla programistów (GitHub Copilot)."
+      ],
+      "why_now": "Rosnąca adopcja rozwiązań chmurowych i automatyzacji AI w sektorze korporacyjnym pozwala spółce systematycznie podnosić średni przychód na użytkownika biznesowego (ARPU) oraz co roku zwiększać dywidendę i skup akcji własnych.",
+      "deep_dive_paragraphs": [
+        "Microsoft jest jedną z zaledwie dwóch korporacji na świecie posiadających najwyższy możliwy rating wiarygodności kredytowej AAA. Dla inwestora długoterminowego oznacza to połączenie bezpieczeństwa bilansu z dwucyfrowym wzrostem zysku na akcję (EPS)."
+      ],
+      "risk_factors": [
+        "Wysokie wieloletnie nakłady kapitałowe na budowę centrów danych i energetyki obciążające krótkoterminowo amortyzację."
+      ],
+      "price": "428.50 $",
+      "change": "+0.88%",
+      "is_positive": true
+    }
+  ],
+  "model_portfolios": [
+    {
+      "id": "basket-gpw-compounders",
+      "badge": "Strategia 1 · GPW Dywidendy & Wzrost (IKE / IKZE)",
+      "title": "Polscy Liderzy Procentu Składanego i Dywidend",
+      "horizon": "Horyzont: 5–10 lat",
+      "profile": "Dywidenda + Reinwestycja Zysków",
+      "why_today": "Polska gospodarka utrzymuje jeden z najwyższych temp wzrostu PKB w Unii Europejskiej, a wyceny czołowych spółek z GPW (wskaźniki C/Z na poziomie 7–14x) pozostają z istotnym dyskontem wobec rynków zachodnich przy wysokich stopach dywidendy (5–10% rocznie).",
+      "allocation": [
+        {
+          "name": "XTB (Fintech & Broker)",
+          "weight": "25%",
+          "role": "Silnik wzrostu klientów i wysoka dywidenda z zysków gotówkowych"
+        },
+        {
+          "name": "Dino Polska / Kruk SA",
+          "weight": "25%",
+          "role": "Skalowanie biznesu i reinwestycja kapitału przy wysokim ROE"
+        },
+        {
+          "name": "PKO BP / Grupa PZU",
+          "weight": "25%",
+          "role": "Filar finansowy generujący regularne przepływy dywidendowe"
+        },
+        {
+          "name": "Grupa Kęty / Budimex",
+          "weight": "25%",
+          "role": "Ekspozycja na przemysł, infrastrukturę i wieloletnie portfele zamówień"
+        }
+      ],
+      "key_advantage": "Wykorzystanie konta IKE/IKZE pozwala reinwestować 100% dywidend od polskich spółek bez 19% podatku Belki."
+    },
+    {
+      "id": "basket-global-moat",
+      "badge": "Strategia 2 · Globalna Fosa Technologiczna (Wall Street)",
+      "title": "Światowe Monopole Infrastruktury Cyfrowej i AI",
+      "horizon": "Horyzont: 5–15 lat",
+      "profile": "Globalny Wzrost & Wysoka Marża",
+      "why_today": "Transformacja chmurowa i sztuczna inteligencja wymagają bilionowych nakładów kapitałowych (CAPEX), które trafiają bezpośrednio do wąskiej grupy dostawców sprzętu, chmury i oprogramowania posiadających globalny efekt sieciowy i marże operacyjne powyżej 35–55%.",
+      "allocation": [
+        {
+          "name": "Microsoft / Alphabet",
+          "weight": "35%",
+          "role": "Powtarzalne przychody subskrypcyjne B2B i chmura obliczeniowa"
+        },
+        {
+          "name": "NVIDIA / Sektor Półprzewodników",
+          "weight": "25%",
+          "role": "Infrastruktura obliczeniowa dla centrów danych AI"
+        },
+        {
+          "name": "Szeroki Indeks S&P 500 (ETF)",
+          "weight": "25%",
+          "role": "Automatyzacja ekspozycji na 500 największych korporacji USA"
+        },
+        {
+          "name": "Gotówka USD / Krótkoterminowe Obligacje",
+          "weight": "15%",
+          "role": "Bufor płynnościowy na wypadek korekt rynkowych"
+        }
+      ],
+      "key_advantage": "Ekspozycja na dolara (USD) oraz firmy o najwyższych na świecie zwrotach z zainwestowanego kapitału (ROIC)."
+    },
+    {
+      "id": "basket-real-assets",
+      "badge": "Strategia 3 · Twarde Aktywa & Ochrona Siły Nabywczej",
+      "title": "Surowce Strategiczne, Energia i Tarcza Antyinflacyjna",
+      "horizon": "Horyzont: 3–10 lat",
+      "profile": "Ochrona Kapitału & Realne Aktywa",
+      "why_today": "W otoczeniu podwyższonego zadłużenia państw, napięć geopolitycznych oraz rosnącego zapotrzebowania na energię i miedź (sieci przesyłowe, elektromobilność, centra danych), realne aktywa stanowią naturalne zabezpieczenie przed utratą siły nabywczej pieniądza fiducjarnego.",
+      "allocation": [
+        {
+          "name": "Złoto Inwestycyjne (XAU)",
+          "weight": "30%",
+          "role": "Rezerwowe aktywo banków centralnych bez ryzyka emitenta"
+        },
+        {
+          "name": "Obligacje Skarbowe Indeksowane Inflacją",
+          "weight": "30%",
+          "role": "Stabilizator portfela gwarantujący marżę ponad CPI"
+        },
+        {
+          "name": "KGHM Polska Miedź / Surowce",
+          "weight": "20%",
+          "role": "Ekspozycja na strategiczną miedź i srebro"
+        },
+        {
+          "name": "Orlen / Sektor Energetyczny",
+          "weight": "20%",
+          "role": "Niska wycena C/Z i regularne przepływy z infrastruktury paliwowo-energetycznej"
+        }
+      ],
+      "key_advantage": "Niska korelacja ze spółkami technologicznymi i ochrona realnej wartości majątku w czasie kryzysów."
+    }
+  ],
+  "rynki": [
+    {
+      "id": "rynki-1-fcefef",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 2,6 mld zł, 2,09 mld zł, 4 proc.) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "2,6 mld zł",
+        "2,09 mld zł",
+        "4 proc."
+      ],
+      "title": "Orlen czerwoną latarnią WIG20. Nie wziął udziału w odreagowaniu po wyborach w USA",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:14",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Orlen-czerwona-latarnia-WIG20-Nie-wzial-udzialu-w-odreagowaniu-po-wyborach-w-USA-9223715.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/e/6/5765b150bdd1ae-945-560-187-0-2462-1477.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Na GPW po trzech dniach spadków przyszło wyczekiwane odreagowanie.",
+        "Inwestorzy nad Wisłą z entuzjazmem dołączyli do globalnego rajdu, wywołanego rozstrzygnięciem wyborów połówkowych w Stanach Zjednoczonych.",
+        "Zwycięstwo Demokratów w obu izbach Kongresu usunęło z rynków nawis niepewności, osłabiło dolara i pchnęło w dół rentowności obligacji skarbowych."
+      ],
+      "extended_paragraphs": [
+        "Na GPW po trzech dniach spadków przyszło wyczekiwane odreagowanie. Inwestorzy nad Wisłą z entuzjazmem dołączyli do globalnego rajdu, wywołanego rozstrzygnięciem wyborów połówkowych w Stanach Zjednoczonych. Zwycięstwo Demokratów w obu izbach Kongresu usunęło z rynków nawis niepewności, osłabiło dolara i pchnęło w dół rentowności obligacji skarbowych. Na GPW prym wiodły spółki surowcowe z KGHM na czele, sektor bankowy oraz energetyka, podczas gdy jedynym hamulcowym wśród blue chipów okazał się Orle, tracący przy spadających cenach ropy i gazu oraz przy akompaniamencie doniesień o ekstra podatki na Litwie.",
+        "/ Po trzech z rzędu spadkowych sesjach, w tym największej przecenie od czerwca, które kosztowały główne warszawskie indeksy około 4 proc. w Warszawie przyszedł dzień giełdowego odreagowania . Indeks WIG20 wzrósł o 1,24 proc. , szeroki indeks WIG zyskał 1,47 proc. , natomiast skupiający średnie spółki mWIG40 poszedł w górę o 2,30 proc. Poprawę nastrojów choć nieco bardziej powściągliwą zanotował również sWIG80, który zwyżkował o 0,41 proc. Obroty wyniosły prawie 2,6 mld zł, z czego 2,09 mld zł dotyczyło spółek z WIG20.",
+        "Wydarzenia w Warszawie były odzwierciedleniem nastrojów panujących na kluczowych giełdach zagranicznych. W momencie zamykania handlu na GPW na głównych parkietach w Europie dominowała głęboka zieleń niemiecki DAX zyskiwał 2,1 proc. , francuski CAC 40 zwyżkował o 2,2 proc. , brytyjski FTSE 100 wzrósł o 1,7 proc. Od wzrostów rozpoczęła się sesja za oceanem. W Stanach Zjednoczonych indeks szerokiego rynku S&P 500 rósł o 1,5 proc. , a technologiczny Nasdaq Composite szybował w górę o 1,7 proc., choć momentami zwyżki przekraczały nawet 2 proc.",
+        "Bezpośrednim impulsem do rajdu okazały się wyniki wyborów połówkowych w USA, w których Demokraci przejęli pełną kontrolę nad Kongresem , co oznacza z jednej strony paraliż legislacyjny w kwestii dalszego, niekontrolowanego powiększania deficytu budżetowego. Dla rynku długu oznacza to niższą podaż obligacji i spadek ich rentowności, co automatycznie zwiększa atrakcyjność wyceny akcji. Choć Demokraci są opisywani jako zagrożenie dla trwania hossy w sektorze AI, który chcieli by bardzie uregulować niż Republikanie to jednak pierwsza reakcja rynku wskazuje na ulgę po zdjęciu z rynku niepewności. Spadające rentowności długu uderzyły w amerykańską walutę – dolar zaliczył najgłębszą przecenę od dwóch miesięcy , co tradycyjnie wyzwoliło popyt na metale szlachetne. Z kluczowych poziomów dynamicznie odbijało złoto, notowane znów powyżej 4000 USD/oz. oraz srebro zyskujące ponad 5 proc. do przeszło 52 USD/oz.",
+        "W gronie krajowych blue chipów jednym z liderów wzrostów został KGHM (+4,19 proc.) . Notowania lubińskiego koncernu wystrzeliły po wtorkowej zniżce o 4,34 proc. Dzisiejszy skok to próba przerwania fatalnej passy trwającej od 13 października, w trakcie której kurs miedziowego giganta runął o ponad 21 proc. Notowania KGHM wsparł w środę wystrzał na kursie srebra, przy relatywnie stabilnych notowaniach miedzi."
+      ]
+    },
+    {
+      "id": "rynki-3-a284d3",
+      "entity_tag": "ING BSK (GPW: ING)",
+      "sector": "Bankowość",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe (kluczowe liczby: 3,5%, 4,1%, -4,0%).",
+      "key_metrics": [
+        "3,5%",
+        "4,1%",
+        "-4,0%"
+      ],
+      "title": "Inflacja ponad celem, a stopy bez zmian. RPP nie zmienia zdania",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "14:59",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Inflacja-ponad-celem-a-stopy-bez-zmian-RPP-nie-zmienia-zdania-9223461.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/2/9/25f4ed1e9e59aa-900-540-47-18-900-540.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Rada Polityki Pieniężnej zdecydowała się utrzymać stopy procentowe na niezmienionych poziomach, mimo że inflacja CPI od kilku miesięcy wyraźnie przekracza cel Narodowego Banku Polskiego.",
+        "- Jeśli w listopadzie nie dojdzie do zmiany stóp procentowych, to zapewne nie zmienią się one już do końca roku.",
+        "RPP zazwyczaj nie zmienia stóp procentowych w grudniu – przepowiadał jeszcze przed ogłoszeniem decyzji Rady ekonomista ING Banku Śląskiego Adam Antoniak ."
+      ],
+      "extended_paragraphs": [
+        "Rada Polityki Pieniężnej zdecydowała się utrzymać stopy procentowe na niezmienionych poziomach, mimo że inflacja CPI od kilku miesięcy wyraźnie przekracza cel Narodowego Banku Polskiego.",
+        "- Jeśli w listopadzie nie dojdzie do zmiany stóp procentowych, to zapewne nie zmienią się one już do końca roku. RPP zazwyczaj nie zmienia stóp procentowych w grudniu – przepowiadał jeszcze przed ogłoszeniem decyzji Rady ekonomista ING Banku Śląskiego Adam Antoniak . Tylko 1 z 19 ankietowanych przez PAP prognostów spodziewał się, że RPP w listopadzie 2026 r. podniesie stopy .",
+        "Dzięki tymczasowemu (tj. obowiązującemu do końca roku) obniżeniu stawek VAT na paliwa inflacja CPI w październiku obniżyła się do 3,5% względem 4,1% we wrześniu. Nadal są to jednak odczyty wykraczające poza 2,5-procentowy cel inflacyjny NBP. Co więcej, od sierpnia inflacja porusza się w pobliżu dopuszczalnego odchylenia od tegoż celu (czyli 3,5%). Prognozy ekonomistów zakładają, że do końca 2026 roku inflacja CPI pozostanie w strefie 3,5-4,0%, a od stycznia zapewne jeszcze wzrośnie (o ile nie dojdzie do silnego spadku cen paliw na świecie).",
+        "We wrześniu doszło do sytuacji, gdy po raz pierwszy od stycznia 2024 roku stopa referencyjna NBP znalazła się poniżej inflacji CPI za ostatnie 12 miesięcy. Po październiku realna stopa procentowa w Poslce (liczona ex post) była tylko minimalnie wyższa od zera. I taki stan zapewne utrzyma się w kolejnych miesiącach.",
+        "Inflacja CPI w Polsce z 50-procentowym prawdopodobieństwem w przedziale 3,1–5,3 proc. w 2027 r. (wobec 1,5-4,0 proc. w projekcji z lipca) oraz w przedziale 1,4–4,4 proc. w 2028 r. (wobec 0,8-3,9 proc.) - wynika z najnowszej, listopadowej projekcji Departamentu Analiz Ekonomicznych NBP."
+      ]
+    },
+    {
+      "id": "rynki-5-470888",
+      "entity_tag": "GUS / Makro Polska",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GUS / Makro Polska (Makroekonomia) (kluczowe liczby: 4%, 4,0%, 1,7%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "4%",
+        "4,0%",
+        "1,7%"
+      ],
+      "title": "Euroinflacja odjeżdża Europejskiemu Bankowi Centralnemu. Cel przekroczony dwukrotnie",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "11:01",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Euroinflacja-w-pazdzierniiu-2026-roku-odjechala-Europejskiemu-Bankowi-Centralnemu-9223338.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/7/c/337bc83df43f4f-948-568-0-124-2500-1499.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "W październiku inflacja HICP w strefie euro wzrosła do 4% i już dwukrotnie przewyższa cel Europejskiego Banku Centralnego.",
+        "To także najwyższy odczyt od ponad 3 lat.",
+        "fot. EricBery / / Shutterstock Ze wstępnych danych Eurostatu wynika, że zharmonizowany indeks cen konsumpcyjnych (HICP) w strefie euro w październiku 2026 roku był o 4,0% wyższy niż rok wcześniej."
+      ],
+      "extended_paragraphs": [
+        "W październiku inflacja HICP w strefie euro wzrosła do 4% i już dwukrotnie przewyższa cel Europejskiego Banku Centralnego. To także najwyższy odczyt od ponad 3 lat.",
+        "fot. EricBery / / Shutterstock Ze wstępnych danych Eurostatu wynika, że zharmonizowany indeks cen konsumpcyjnych (HICP) w strefie euro w październiku 2026 roku był o 4,0% wyższy niż rok wcześniej. To rezultat zbieżny z oczekiwaniami większości ekonomistów oraz najwyższy odczyt od września 2023 roku.",
+        "Eurostat Był to już czwarty z rzędu miesiąc wzrostu inflacji konsumenckiej w eurolandzie. A przez ostatnie 9 miesięcy wskaźnik ten obniżył się tylko raz – w czerwcu, gdy wyraźnie potaniały paliwa. Ale generalnie inflacja w strefie euro znajduje się w trendzie rosnącym, podnosząc się z 1,7% w styczniu do 4,0% w październiku.",
+        "W ten sposób szok paliwowy wybił inflację w strefie euro powyżej celu Europejskiego Banku Centralnego. EBC stawia sobie za zadanie utrzymanie rocznej dynamiki HICP na poziomie 2% w średnim terminie (przed lipcem 2021 roku było to „blisko, ale poniżej 2%”).",
+        "Podobnie jak w poprzednich miesiącach za taki stan rzeczy odpowiadają przede wszystkim coraz wyższe ceny paliw i energii, jaki nastąpił na skutek blokady cieśniny Ormuz (przez Iran) oraz irańskich portów (przez US Navy). Według Eurostatu w sierpniu ceny energii poszły w górę o 1,4% względem września i były aż o 20,8% wyższe niż w październiku 2025 roku ."
+      ]
+    },
+    {
+      "id": "rynki-7-5b4d7d",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 30 mld zł, 519,6 mln zł, 253,9 mln zł) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "30 mld zł",
+        "519,6 mln zł",
+        "253,9 mln zł"
+      ],
+      "title": "Polski producent dronów szykuje debiut dekady. Zgoda właścicieli otwiera drogę do historycznego IPO",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:59",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/WB-Electronics-podjal-kluczowa-decyzje-Wycena-na-30-miliardow-zlotych-i-giganci-z-Wall-Street-9223347.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/b/c/949cc2093e92b6-948-568-4-113-1613-967.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Właściciele największego prywatnego koncernu zbrojeniowego w Polsce, czyli Grupy WB Electronics, specjalizująca się w systemach dronowych dali zielone światło do wejścia na Giełdę Papierów Wartościowych w Warszawie – informuje Parkiet.",
+        "Według nieoficjalnych informacji transakcja może dojść do skutku w pierwszej połowie 2027 roku, a szacowana wycena koncernu sięga nawet ponad 30 mld zł.",
+        "Obecny układ właścicielski spółki tworzą Piotr Wojciechowski z pakietem około 45,5 proc. akcji, wiceprezes Adam Bartosiewicz kontrolujący ponad 28 proc. głosów oraz Polski Fundusz Rozwoju, do którego należy 26,44 proc. udziałów ."
+      ],
+      "extended_paragraphs": [
+        "Właściciele największego prywatnego koncernu zbrojeniowego w Polsce, czyli Grupy WB Electronics, specjalizująca się w systemach dronowych dali zielone światło do wejścia na Giełdę Papierów Wartościowych w Warszawie – informuje Parkiet. Według nieoficjalnych informacji transakcja może dojść do skutku w pierwszej połowie 2027 roku, a szacowana wycena koncernu sięga nawet ponad 30 mld zł.",
+        "Obecny układ właścicielski spółki tworzą Piotr Wojciechowski z pakietem około 45,5 proc. akcji, wiceprezes Adam Bartosiewicz kontrolujący ponad 28 proc. głosów oraz Polski Fundusz Rozwoju, do którego należy 26,44 proc. udziałów . Ostateczna architektura transakcji nie została jeszcze ujawniona, nie wiadomo więc, jaką część stanowić będzie emisja nowych walorów na inwestycje, a ile gotówki z rynku zechcą zrealizować dotychczasowi inwestorzy. Spółka rozpoczęła już proces wyłaniania konsorcjum doradców, a do wyścigu o zorganizowanie giełdowego spektaklu stanęli najwięksi gracze z Wall Street, w tym J.P. Morgan oraz Morgan Stanley. Według informacji „Parkietu” do debiutu może dojść najpóźniej do czerwca 2027 roku.",
+        "Eksplozja wyników i zamówienia liczone w miliardach Wycena aspirująca do poziomu ponad 30 mld zł nie bierze się z próżni. Wyniki finansowe WB Electronics odzwierciedlają gigantyczną transformację, jaką przeszła założona w 1997 roku inżynierska firma z Ożarowa Mazowieckiego. W pierwszym półroczu 2026 roku zysk netto grupy wystrzelił do 519,6 mln zł, podczas gdy w analogicznym okresie ubiegłego roku wynosił 253,9 mln zł, co oznacza przeszło stuprocentowy wzrost wyniku netto rok do roku. W tym samym czasie przychody spółki zwiększyły się z poziomu 1,1 mld zł do około 1,6 mld zł.",
+        "Prawdziwym motorem napędowym wyceny pozostaje jednak portfel zamówień, zasilany zbrojeniowymi programami modernizacyjnymi polskiej armii. W ramach programu SAFE grupa podpisała z Agencją Uzbrojenia kontrakty o łącznej wartości blisko 12 mld zł. Skala zakontraktowanych dostaw systemów bezzałogowych produkowanych m.in. przez spółkę Flytronic oraz zaawansowanych systemów łączności i kierowania ogniem pozwala analitykom prognozować dalszy, wykładniczy wzrost skali biznesu . Szacunki rynkowe wskazują, że w horyzoncie zaledwie trzech lat roczne przychody holdingu mogą poszybować z dotychczasowego poziomu około 3 mld zł do przedziału 8–10 mld zł.",
+        "Debiut Grupy WB wpasowuje się w trwający renesans sektora obronnego na europejskich rynkach finansowych . Zmiana doktryny bezpieczeństwa po wybuchu pełnoskalowej wojny w Ukrainie w 2022 roku wymusiła gwałtowny wzrost budżetów obronnych państw NATO, windując wyceny spółek zbrojeniowych na historyczne maksima . O planach upublicznienia polskiego lidera technologicznego agencja Bloomberg donosiła już pod koniec 2025 roku, wskazując na bezprecedensowy głód inwestorów na aktywa powiązane z bezpieczeństwem. Teraz rynek jest nieco mniej rozgrzany, o czym świadczy głęboka korekta branżowych liderów w Europie . Kurs niemieckiego Rheinmetallu stracił w tym roku już 40%."
+      ]
+    },
+    {
+      "id": "rynki-2-006be1",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Tesla / SpaceX (Motoryzacja & Tech) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+      "original_title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "13:32",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108452061-1792768916673-gettyimages-2301101447-TRUMP_WH_DEPART.jpeg?v=1792768946&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "These are the stocks posting the largest moves in the premarket.",
+        "Obszar tematyczny: Motoryzacja & Tech (Tesla / SpaceX).",
+        "Wydarzenie sklasyfikowano w sektorze: Motoryzacja & Tech (wpływ: LOW)."
+      ],
+      "extended_paragraphs": [
+        "These are the stocks posting the largest moves in the premarket.",
+        "Kontekst sektorowy (Motoryzacja & Tech — Tesla / SpaceX): Informacja o charakterze równoważnym lub sprawozdawczym."
+      ]
+    },
+    {
+      "id": "rynki-4-881733",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących USA & Bezpieczeństwo (Geopolityka) (kluczowe liczby: 4.898%, 5.293%, 4.573%) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "4.898%",
+        "5.293%",
+        "4.573%"
+      ],
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "original_title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "17:11",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108353328-1787582498969-gettyimages-2291320542-AFP_C6DP8QL.jpeg?v=1787582612&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S.",
+        "The 10-year Treasury yield fell on Wednesday as investors weighed big wins from Democrats in the U.S.",
+        "midterm elections and oil prices pulled back."
+      ],
+      "extended_paragraphs": [
+        "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+        "The 10-year Treasury yield fell on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections and oil prices pulled back.",
+        "The benchmark 10-year Treasury note yield was down more than 5 basis points at 4.898%. The 30-year bond yield declined more than 3 basis points to 5.293%, and the shorter-term 2-year note yield dropped more than 4 basis points to 4.573%.",
+        "One basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another.",
+        "Democrats obtained majorities in both the House and Senate . Democrats flipped Senate seats from Republicans in Iowa, Kansas, North Carolina, Ohio, South Carolina, Maine and Texas. They also won key gubernatorial races in Ohio and Texas."
+      ]
+    },
+    {
+      "id": "rynki-6-5ac629",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Apple (NASDAQ: AAPL) (Big Tech) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+      "original_title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "12:47",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108475772-1793209010296-gettyimages-2290111587-vcg111659500582.jpeg?v=1793209028&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "These are the stocks posting the largest moves premarket.",
+        "Obszar tematyczny: Big Tech (Apple (NASDAQ: AAPL)).",
+        "Wydarzenie sklasyfikowano w sektorze: Big Tech (wpływ: LOW)."
+      ],
+      "extended_paragraphs": [
+        "These are the stocks posting the largest moves premarket.",
+        "Kontekst sektorowy (Big Tech — Apple (NASDAQ: AAPL)): Informacja o charakterze równoważnym lub sprawozdawczym."
+      ]
+    },
+    {
+      "id": "rynki-8-24293c",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 51%) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "51%"
+      ],
+      "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+      "original_title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:06",
+      "source": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108181887-1754417264707-gettyimages-2216930929-img_3096.jpeg?v=1754417303&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Finance",
+      "lead_story": false,
+      "summary_points": [
+        "Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+        "Beauty on Wednesday blew past Wall Street expectations as it posted a 51% increase in net sales in its second fiscal quarter.",
+        "The beauty company said it saw its 31st consecutive quarter of net sales growth, attributing the streak to strong performance across its portfolio."
+      ],
+      "extended_paragraphs": [
+        "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+        "E.l.f. Beauty on Wednesday blew past Wall Street expectations as it posted a 51% increase in net sales in its second fiscal quarter.",
+        "The beauty company said it saw its 31st consecutive quarter of net sales growth, attributing the streak to strong performance across its portfolio. The revenue spike was driven by both retail and e-commerce channels across the U.S. and internationally, the company added.",
+        "\"The thing I'm most pleased about is we saw strength across our entire portfolio,\" CEO Tarang Amin told CNBC in an interview. \"Every one of our brands contributed strong growth this quarter.\"",
+        "Amin added that E.l.f. is the most-searched brand on TikTok Shop and the No. 2 brand in cosmetics on the platform. The company also said it saw strong results for Rhode, the skincare brand it acquired last year."
+      ]
+    }
+  ],
+  "makro": [
+    {
+      "id": "makro-3-229033",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Energetyka & Paliwa” (kluczowe liczby: 30 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "30 proc."
+      ],
+      "title": "Przewoźnicy samochodowi są „zarobieni”",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:43",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://logistyka.rp.pl/drogowy/art45447801-przewoznicy-samochodowi-sa-zarobieni",
+      "image_url": "https://i.gremicdn.pl/image/free/7ed145d8677d35ceb2f08583ecc9f070/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": true,
+      "summary_points": [
+        "Zauważalne jest odbicie w transporcie drogowym, jednak firmy nie są pewne czy jest to trwałe zjawisko i wskazują na niepokojące dane makroekonomiczne.",
+        "Na targach logistycznych Translogistyka które odbywają się w Warszawie jest niewielu przewoźników samochodowych.",
+        "Wytłumaczenie jest banalne: wszyscy są zajęci pracą."
+      ],
+      "extended_paragraphs": [
+        "Zauważalne jest odbicie w transporcie drogowym, jednak firmy nie są pewne czy jest to trwałe zjawisko i wskazują na niepokojące dane makroekonomiczne.",
+        "Na targach logistycznych Translogistyka które odbywają się w Warszawie jest niewielu przewoźników samochodowych. Wytłumaczenie jest banalne: wszyscy są zajęci pracą. – Widać sygnały dające nadzieję na poprawę koniunktury, ale to raczej stopniowe ożywienie niż wyraźne przyspieszenie europejskiego przemysłu. Trwałego impulsu szukałbym w inwestycjach zwiększających produktywność oraz w poprawie warunków prowadzenia działalności w Europie – zwłaszcza przewidywalności kosztów energii i otoczenia regulacyjnego. Dlatego warto odróżniać krótkoterminowe ożywienie od rzeczywistej poprawy kondycji przedsiębiorstw – zaznacza dyrektor generalny Raben Logistics Polska Wojciech Szafran.",
+        "Na niepewną trwałość ożywienia zwraca uwagę także chief growth offcer w sennder Arkadiusz Glinka. – Jest więcej zleceń, ale ten wzrost jest pochodną pojawienie się chwilowych projektów (dotyczących dóbr szybkozbywalnych) z początku świątecznego szczytu, a nie rosnących kontraktów. Te impulsy nie przekładają się w strukturalny wzrost rynku – przekonuje Glinka.",
+        "Firmy Czy Orlen Paczka będzie drugim graczem na rynku kurierskim? Mający 5 lat operator kurierski energicznie rozpycha się na rynku i goni konkurencję. Analitycy zastanawiają się, gdzie może znaleźć się Orlen Pacz...",
+        "Poprawę koniunktury dostrzegają również firmy średniej wielkości. – Nasze tegoroczne obroty powiększyły się o blisko 30 proc. pomimo słabych sygnałów z gospodarki niemieckiej. Marnie wypada motoryzacja, która zmniejsza liczbę zleceń. Jednak konsumpcja nie spada, pomimo niepokojących sygnałów z gospodarki. Gdybyśmy mieli więcej kierowców, nasze obroty byłyby może nawet jeszcze o jedną trzecią większe – przypuszcza prezes Galan Logistics Konrad Gałan."
+      ]
+    },
+    {
+      "id": "makro-5-58e54c",
+      "entity_tag": "Unia Europejska",
+      "sector": "Gospodarka & Regulacje",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Gospodarka & Regulacje” (kluczowe liczby: 4 mld) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "4 mld"
+      ],
+      "title": "MOL żegna Gazprom. Węgry bez gazu i ropy z Rosji",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:03",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://energia.rp.pl/surowce-i-paliwa/art45447531-mol-zegna-gazprom-wegry-bez-gazu-i-ropy-z-rosji",
+      "image_url": "https://i.gremicdn.pl/image/free/081080f549fac1ba6aa39be877123116/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Wystarczyła klęska wyborcza Wiktora Orbána, by jeden z ostatnich dużych europejskich klientów Gazpromu ogłosił decyzję o rezygnacji z rosyjskiego gazu.",
+        "Także rosyjska ropa już Węgrom nie smakuje.",
+        "Anita Orbán, szefowa węgierskiego MSZ, poinformowała, że Węgry nie będą już dłużej kupować rosyjskiego gazu."
+      ],
+      "extended_paragraphs": [
+        "Wystarczyła klęska wyborcza Wiktora Orbána, by jeden z ostatnich dużych europejskich klientów Gazpromu ogłosił decyzję o rezygnacji z rosyjskiego gazu. Także rosyjska ropa już Węgrom nie smakuje.",
+        "Anita Orbán, szefowa węgierskiego MSZ, poinformowała, że Węgry nie będą już dłużej kupować rosyjskiego gazu. „Unia Europejska wyznaczyła jasny termin wycofania rosyjskiego gazu ziemnego z naszego rynku – jesień 2027 r.” – powiedziała Orbán w wywiadzie dla niezależnego portalu Telex.",
+        "Pani minister potwierdziła, że Węgry przygotowują się również do wycofania z zakupów ropy naftowej dostarczanej przez Rosnieft i Łukoil. Aby to osiągnąć, węgierska spółka naftowo-gazowa MOL musi zmodernizować swoje rafinerie, aby mogły przetwarzać surowce inne niż rosyjskie.",
+        "Surowce i Paliwa Węgrzy mogą przejąć udziały w polskiej rafinerii. Analitycy mają faworyta Węgierski MOL wyrasta na faworyta do przejęcia części polskich aktywów Saudi Aramco, w tym potencjalnie udziałów w rafinerii gdańskiej – wynika z r...",
+        "Wcześniej UE podjęła decyzję o zakazie importu rosyjskiego skroplonego gazu ziemnego (LNG) od 1 stycznia 2027 r., a gazu rurociągowego od 30 września 2027 r. Obecnie przepisy UE już zabraniają zakupu gazu w ramach kontraktów krótkoterminowych."
+      ]
+    },
+    {
+      "id": "makro-1-50e526",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 63,3 proc., 62,4 proc., 55,5 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "63,3 proc.",
+        "62,4 proc.",
+        "55,5 proc."
+      ],
+      "title": "Klęska republikanów w wyborach połówkowych. Demokraci tryumfują",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:42",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/polityka/art45439971-kleska-republikanow-w-wyborach-polowkowych-demokraci-tryumfuja",
+      "image_url": "https://i.gremicdn.pl/image/free/304d074cc237bdcbe0dc321aa39d298e/partia-demokratyczna-zdobyla-kontrole-nad-kongresem-w-wyborach-polowkowych",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Partia Demokratyczna w wyborach połówkowych do Kongresu zapewniła sobie wyraźną większość w Izbie Reprezentantów i Senacie, przejmując do Partii Republikańskiej kontrolę nad Kongresem.",
+        "Republikanie przegrywali nawet w swoich bastionach.",
+        "Partia Demokratyczna – 54 mandaty, Partia Republikańska – 44 mandaty."
+      ],
+      "extended_paragraphs": [
+        "Partia Demokratyczna w wyborach połówkowych do Kongresu zapewniła sobie wyraźną większość w Izbie Reprezentantów i Senacie, przejmując do Partii Republikańskiej kontrolę nad Kongresem. Republikanie przegrywali nawet w swoich bastionach.",
+        "Partia Demokratyczna – 54 mandaty, Partia Republikańska – 44 mandaty. Los 2 mandatów nie jest rozstrzygnięty.",
+        "Zwolennicy prawa do aborcji zwyciężyli w trzech z czterech stanów USA, w których we wtorek odbyły się głosowania dotyczące przepisów aborcyjnych. Według prognoz CNN mieszkańcy Nevady i Wirginii poparli wpisanie ochrony prawa do aborcji do konstytucji stanowych, a wyborcy w Missouri odrzucili próbę uchylenia przepisów przyjętych w 2024 roku.",
+        "Według dotychczasowych wyników za ochroną prawa do aborcji opowiedziało się 63,3 proc. głosujących w Nevadzie i 62,4 proc. w Wirginii. W Missouri 55,5 proc. wyborców zagłosowało za utrzymaniem obowiązujących przepisów.",
+        "Wyjątkiem było Idaho, gdzie 56 proc. głosujących sprzeciwiło się ustanowieniu ustawowego prawa do aborcji."
+      ]
+    },
+    {
+      "id": "makro-2-53abb9",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Motoryzacja & Tech” (Tesla / SpaceX) (kluczowe liczby: 4.9%, 3.4%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "4.9%",
+        "3.4%"
+      ],
+      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "original_title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "15:51",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+        "Democrat James Talarico's resounding victory in the Texas Senate race caused a major upset in the midterms for Republicans - and for Elon Musk.",
+        "According to the Financial Times , external , the billionaire's political action committee (Pac) contributed $47m (£35m) to Republican candidate Ken Paxton's campaign, on top of the $158m he gave the Senate Leadership Fund in September."
+      ],
+      "extended_paragraphs": [
+        "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+        "Democrat James Talarico's resounding victory in the Texas Senate race caused a major upset in the midterms for Republicans - and for Elon Musk.",
+        "According to the Financial Times , external , the billionaire's political action committee (Pac) contributed $47m (£35m) to Republican candidate Ken Paxton's campaign, on top of the $158m he gave the Senate Leadership Fund in September.",
+        "The money was not enough to stop the seat from turning Democrat for the first time since 1988. In his acceptance speech, Talarico said: \"We just proved that all the money in the world is no match for the people of Texas.\"",
+        "\"Guess my election-interfering space lasers didn't work this time,\" Musk jokingly wrote on X , external ."
+      ]
+    },
+    {
+      "id": "makro-4-fd03f1",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "original_title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "19:44",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0027/live/fe2f8c90-d848-11f1-b870-55415e6a9944.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+        "The discount chain is on the brink of insolvency and Gordon Brothers, which bought it for £1 last June, has rejected a takeover bid which could have saved the 12,000 jobs currently at risk.",
+        "A meeting was due to be held on Thursday but has been brought forward as the scramble to secure a rescue deal for the firm intensifies."
+      ],
+      "extended_paragraphs": [
+        "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+        "The discount chain is on the brink of insolvency and Gordon Brothers, which bought it for £1 last June, has rejected a takeover bid which could have saved the 12,000 jobs currently at risk.",
+        "A meeting was due to be held on Thursday but has been brought forward as the scramble to secure a rescue deal for the firm intensifies.",
+        "Gordon Brothers has previously said Poundland faces multiple economic challenges from rising inflation, increasing staff costs, and \"severe levels of shoplifting\".",
+        "Both Reynolds and Prime Minister Andy Burnham have questioned why a deal for the future of the business has not been made."
+      ]
+    },
+    {
+      "id": "makro-6-da7d90",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 0.4%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "0.4%"
+      ],
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "original_title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "20:53",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+        "The BBC understands the 200-page draft text for this so called \"SPS\" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday.",
+        "Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders."
+      ],
+      "extended_paragraphs": [
+        "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+        "The BBC understands the 200-page draft text for this so called \"SPS\" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday.",
+        "Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders.",
+        "The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market.",
+        "As a result of the agreement, the government claims the UK economy will eventually see £5.1bn worth of annual benefits."
+      ]
+    },
+    {
+      "id": "makro-7-1ad801",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Porażka Trumpa nie oznacza sukcesu Ukrainy. Putin stawia na długą wojnę",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:00",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/polityka/art45444161-porazka-trumpa-nie-oznacza-sukcesu-ukrainy-putin-stawia-na-dluga-wojne",
+      "image_url": "https://i.gremicdn.pl/image/free/896c20e0d4ff511c02c32af9c57c9a7a/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Nie warto mieć złudzeń, że po zmianie władzy w Kongresie Władimir Putin przeprosi, podkuli ogon i zakończy wojnę.",
+        "Kreml stawia na zniszczenie Ukrainy i długą konfrontację z wolnym światem.",
+        "Wydarzenie sklasyfikowano w sektorze: Makroekonomia (wpływ: LOW)."
+      ],
+      "extended_paragraphs": [
+        "Nie warto mieć złudzeń, że po zmianie władzy w Kongresie Władimir Putin przeprosi, podkuli ogon i zakończy wojnę. Kreml stawia na zniszczenie Ukrainy i długą konfrontację z wolnym światem.",
+        "Kontekst sektorowy (Makroekonomia — Gospodarka & Makro): Informacja o charakterze równoważnym lub sprawozdawczym."
+      ]
+    },
+    {
+      "id": "makro-8-9799b0",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "original_title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "19:38",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+        "Rice Krispies and Coco Pops are no longer being made with whole rice grains, with the tiny toasted puffs being made using corn flour and rice flour instead.",
+        "A Kellogg's spokesperson said retaining the iconic sound had been a \"huge focus\" when designing the new recipe, but that customers \"might notice that the sound may be quieter and not as instant as before\"."
+      ],
+      "extended_paragraphs": [
+        "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+        "Rice Krispies and Coco Pops are no longer being made with whole rice grains, with the tiny toasted puffs being made using corn flour and rice flour instead.",
+        "A Kellogg's spokesperson said retaining the iconic sound had been a \"huge focus\" when designing the new recipe, but that customers \"might notice that the sound may be quieter and not as instant as before\".",
+        "The firm was responding to complaints online that the taste of the breakfast staples had changed, with some fans adding they missed the \"pop\" sound.",
+        "Kellogg's said it had adapted the recipes due to \"changing weather conditions\" that have disrupted supplies of some grains and cereals."
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "id": "tech-1-2dac5b",
+      "entity_tag": "Miedź (LME)",
+      "sector": "Surowce Przemysłowe",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Miedź (LME) (Surowce Przemysłowe) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Magnony są zadziwiająco długowieczne. Rachunki za energię będą teraz wyglądały znacznie przyjemniej",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:51",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/magnony-niespodziewana-dlugowiecznosc-energia",
+      "image_url": "https://konto.chip.pl/uploads/2025/04/energia.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": true,
+      "summary_points": [
+        "Przyszłość energooszczędnych komputerów może kryć się w niezwykle małych falach magnetycznych.",
+        "Tak przynajmniej twierdzą uczeni z Paul Scherrer Institute w Szwajcarii, którzy odkryli, że magnony, czyli kwantowe wzbudzenia związane z falami spinowymi, utrzymują swoją energię znacznie dłużej, niż dotychczas się wydawało.",
+        "Szczegóły tej koncepcji ukazały się w Nature Communications ."
+      ],
+      "extended_paragraphs": [
+        "Przyszłość energooszczędnych komputerów może kryć się w niezwykle małych falach magnetycznych. Tak przynajmniej twierdzą uczeni z Paul Scherrer Institute w Szwajcarii, którzy odkryli, że magnony, czyli kwantowe wzbudzenia związane z falami spinowymi, utrzymują swoją energię znacznie dłużej, niż dotychczas się wydawało. To z kolei oznacza ogromną szansę dla rozwoju spintroniki – technologii, która w przyszłości […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google To z kolei oznacza ogromną szansę dla rozwoju spintroniki – technologii, która w przyszłości mogłaby umożliwić przetwarzanie informacji przy znacznie mniejszym zużyciu energii niż w tradycyjnych układach elektronicznych. Szczegóły tej koncepcji ukazały się w Nature Communications . Zespół badawczy stojący za wspomnianą publikacją wykorzystał zaawansowane techniki rentgenowskie, aby prześledzić, jak energia przemieszcza się pomiędzy elektronami, wzbudzeniami magnetycznymi oraz atomami tworzącymi strukturę badanego materiału.",
+        "Czytaj też: Komputer kwantowy odtworzył zjawisko, które zmieniło sposób myślenia o polu magnetycznym",
+        "Współczesne procesory opierają swoje działanie na przemieszczaniu ładunków elektrycznych przez obwody. Rozwiązanie to pozwoliło zbudować niezwykle wydajne urządzenia, lecz ma też swoje ograniczenia. Przepływ prądu powoduje straty energii w postaci ciepła, a dalsze zmniejszanie rozmiarów tranzystorów staje się coraz trudniejsze. Jedną z alternatyw jest spintronika, a więc dziedzina elektroniki wykorzystująca nie tylko ładunek elektryczny elektronów, ale również ich spin – właściwość kwantową związaną z momentem magnetycznym.",
+        "Gdy spiny elektronów w materiale zaczynają poruszać się w sposób skoordynowany, powstają fale spinowe. Ich kwantowe wzbudzenia nazywamy magnonami. Mogą one przenosić energię i informację przez materiał bez konieczności przemieszczania elektronów na podobnej zasadzie jak w tradycyjnych układach elektronicznych. To właśnie ta właściwość sprawia, iż magnony są interesującym kandydatem do wykorzystania w przyszłych układach obliczeniowych."
+      ]
+    },
+    {
+      "id": "tech-7-d79948",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) (kluczowe liczby: 30,7 miliarda dolarów, 132,2 miliarda dolarów, 200%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "30,7 miliarda dolarów",
+        "132,2 miliarda dolarów",
+        "200%"
+      ],
+      "title": "Tylko 200% zamiast 1200%. Tak spadły marże Apple na smartfonach",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:00",
+      "source": "Antyweb Innowacje",
+      "source_url": "https://antyweb.pl/tylko-200-zamiast-1200-tak-spadly-marze-apple-na-smartfonach",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/09/iphone-18-pro-max-4.jpg",
+      "image_source": "Fot. / Źródło: Antyweb Innowacje",
+      "lead_story": false,
+      "summary_points": [
+        "Przez całe lata dopłaty do wyższych wariantów pamięci masowej w urządzeniach stanowiły dla giganta z Cupertino jedno z najbardziej dochodowych źródeł zysku.",
+        "Różnica w cenie między podstawową wersją smartfona, a wariantem o większej pojemności generowała narzuty sięgające od 800% do nawet 1200% w stosunku do bezpośrednich kosztów zakupu kości flash.",
+        "Sytuacja na rynku półprzewodników uległa jednak gwałtownej zmianie, napędzana bezprecedensowym popytem na infrastrukturę nakierowaną na sztuczną inteligencję."
+      ],
+      "extended_paragraphs": [
+        "Przez całe lata dopłaty do wyższych wariantów pamięci masowej w urządzeniach stanowiły dla giganta z Cupertino jedno z najbardziej dochodowych źródeł zysku.",
+        "Różnica w cenie między podstawową wersją smartfona, a wariantem o większej pojemności generowała narzuty sięgające od 800% do nawet 1200% w stosunku do bezpośrednich kosztów zakupu kości flash. Sytuacja na rynku półprzewodników uległa jednak gwałtownej zmianie, napędzana bezprecedensowym popytem na infrastrukturę nakierowaną na sztuczną inteligencję. Gwałtownie rosnące ceny układów DRAM oraz pamięci NAND sprawiły, że legendarna przebitka finansowa Apple uległa drastycznej redukcji. Obecnie marża na rozbudowie przestrzeni dyskowej spadła do około 200%, co oznacza, że klient płaci wciąż około trzykrotność kosztu producenta. Choć w porównaniu do standardów branżowych jest to nadal bardzo wysoki poziom, z perspektywy historycznej rentowności Apple stanowi to zauważalny spadek.",
+        "Mimo tak znaczącego zmniejszenia przebitki na pojedynczych komponentach, ogólna kondycja finansowa giganta technologicznego pozostaje niewzruszona. Firma wykazała niedawno rekordowy pod względem przychodów kwartał zakończony we wrześniu, osiągając zysk netto na poziomie 30,7 miliarda dolarów w kwartale oraz 132,2 miliarda dolarów w ujęciu całorocznym . Wyjaśnienie tego fenomenu leży w strategii przerzucania rosnących wydatków materiałowych bezpośrednio na portfele użytkowników. Podczas gdy obniżki kosztów produkcji rzadko przekładały się w przeszłości na niższe ceny półkowe, wszelkie podwyżki cen hurtowych komponentów są błyskawicznie rekompensowane podnoszeniem kwot na etykietach produktów. W efekcie marża brutto przedsiębiorstwa zaliczyła jedynie niewielkie wahanie z poziomu 50,1% do 47,9%, utrzymując się na znacznie wyższym poziomie niż dekadę temu, gdy oscylowała wokół 38%.",
+        "Presja kosztowa zaciąży bezpośrednio na nadchodzących generacjach urządzeń, w tym na podstawowym modelu iPhone 18. Przecieki pochodzące od analityków branżowych wskazują, że urządzenie to zadebiutuje na rynku wiosną 2027 roku. Wiele kluczowych elementów specyfikacji pozostanie bez zmian w porównaniu do poprzednika. Smartfon ma zachować 6,3-calowy wyświetlacz OLED z technologią Dynamic Island i odświeżaniem 120 Hz, podwójny aparat fotograficzny z matrycami o rozdzielczości 48 megapikseli oraz moduł rozpoznawania twarzy Face ID. Konsumenci nie powinni się zatem spodziewać rewolucji wizualnej ani fundamentalnego przebudowania zaplecza fotograficznego.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Główne ulepszenia obejmą dwa obszary, z których pierwszym będzie wdrożenie nowego układu Apple A20 wykonanego w procesie litograficznym 2 nm, zastępując dotychczasową jednostkę A19 wytwarzaną w procesie 3 nm. Przejście na niższą litografię ma zapewnić nie tylko zauważalny wzrost mocy obliczeniowej, ale również wyższą energooszczędność, co bezpośrednio przełoży się na długość pracy na jednym ładowaniu. Drugą istotną modyfikacją ma być instalacja ogniwa o większej pojemności, co stanowi odpowiedź na krytykę akumulatora w iPhone 17, którego pojemność wynosiła zaledwie 3692 mAh."
+      ]
+    },
+    {
+      "id": "tech-8-f4c554",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA).",
+      "key_metrics": [],
+      "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+      "original_title": "People say they want small smartphones—the Enough Phone will put that to the test",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:00",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-1152x648.jpg",
+      "image_source": "Fot. / Źródło: Ars Technica",
+      "lead_story": false,
+      "summary_points": [
+        "It won't win the specs race, but it will actually fit in your hand.",
+        "The company’s cheeky name is reflected in its approach to phone design.",
+        "A flagship killer this is not, but it’s probably “enough” for most people."
+      ],
+      "extended_paragraphs": [
+        "It won't win the specs race, but it will actually fit in your hand.",
+        "The company’s cheeky name is reflected in its approach to phone design. A flagship killer this is not, but it’s probably “enough” for most people. It has a mid-range MediaTek processor, a single rear-facing camera, a polycarbonate body, and a fingerprint sensor in the power button.",
+        "With that compact screen, the Enough Phone will be dwarfed by almost every existing smartphone. While it’s a bit thicker, the device has almost the same footprint as the iPhone 13 Mini. Thinness takes a hit, as the designers have opted to make the battery user-replaceable. Like the Fairphone , you’ll just have to remove a few screws to get the back cover off.",
+        "On the software front, the device will offer a choice. You can get an Enough Phone with a standard Google-certified build of Android 17, which is probably what most people will choose. It also supports OdysseyOS , a streamlined, de-Googled version of Android that behaves like a dumbphone (it doesn’t even have a browser).",
+        "Some minor details are still up in the air. The designers aren’t yet sure about waterproofing and durability ratings, and the battery capacity could change. But they hope that spec will go up, not down, if it changes at all. Carrier support is also unclear right now. It will be an unlocked 5G phone, and the company is aiming for “broad global support.” But if you’re on a restrictive carrier like Verizon, you may be out of luck."
+      ]
+    },
+    {
+      "id": "tech-5-4c13aa",
+      "entity_tag": "Amazon (NASDAQ: AMZN)",
+      "sector": "E-commerce & Chmura",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Amazon (NASDAQ: AMZN) (E-commerce & Chmura) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Jeden monitor do grania i pracy? Samsung Odyssey G5 G55H pokazuje, że 4K i OLED to nie wszystko",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "18:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/monitor-do-grania-i-pracy-samsung-odyssey-g5-g55h",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/monitor-do-grania-i-pracy-samsung-odyssey-g5-g55h-1.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Po testach wielu różnych monitorów wiem już doskonale, że rozdzielczość 4K, tradycyjne proporcje 16:9 czy matryca OLED nie zawsze automatycznie oznaczają najlepszy wybór dla każdego.",
+        "Wyższa rozdzielczość zwiększa wymagania wobec karty graficznej, OLED zwykle podnosi cenę, a w codziennej pracy znacznie bardziej może przydać się zwyczajnie większa przestrzeń w poziomie.",
+        "Samsung Odyssey G5 G55H idzie […] powrót Tech Testy Moto Nauka Publicystyka Najważniejszą cechą Odyssey G5 G55H jest dla mnie sam format ekranu."
+      ],
+      "extended_paragraphs": [
+        "Po testach wielu różnych monitorów wiem już doskonale, że rozdzielczość 4K, tradycyjne proporcje 16:9 czy matryca OLED nie zawsze automatycznie oznaczają najlepszy wybór dla każdego. Wyższa rozdzielczość zwiększa wymagania wobec karty graficznej, OLED zwykle podnosi cenę, a w codziennej pracy znacznie bardziej może przydać się zwyczajnie większa przestrzeń w poziomie. Samsung Odyssey G5 G55H idzie […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Najważniejszą cechą Odyssey G5 G55H jest dla mnie sam format ekranu. Mowa bowiem w przypadku tego monitora o 34-calowej matrycy o proporcjach 21:9 i rozdzielczości 3440 x 1440 pikseli, czyli Ultra WQHD. W porównaniu z klasycznym QHD dostajemy więc dodatkową przestrzeń po bokach, a to wszystko bez zwiększania liczby pikseli w pionie. Boicie się tego? Niepotrzebnie, bo zalet tego rozwiązania jest od groma.",
+        "Podczas pracy przekłada się to na coś bardzo prostego, bo oto łatwiej trzymać obok siebie kilka aplikacji i np. przy programowaniu można mieć otwarte Unity i Visual Studio, podczas montażu otrzymujemy dłuższą oś czasu, a przy zwykłym pisaniu nie trzeba co chwilę przełączać się między przeglądarką i edytorem tekstu. Nie oznacza to oczywiście, że jeden ultrapanoramiczny monitor zawsze zastąpi konfigurację z dwoma ekranami, ale przy typowym biurku potrafi zrobić to wystarczająco dobrze. Zwłaszcza jeśli nie macie zbyt wiele miejsca, bo jeden monitor względem dwóch pozwala utrzymać stanowisko w lepszym porządku.",
+        "Jeśli zaś idzie o gry, to podczas grania na 34-calowym monitorze rzeczywiście da się łatwo wykorzystać proporcje 21:9. Przekłada się to bowiem na szersze pole widzenia, ale tylko wtedy, kiedy dana produkcja poprawnie obsługuje takie proporcje, choć zwykle jest to już standardem. Szczególnie dobrze sprawdza się to w wyścigach, symulatorach, strategiach czy RPG, gdzie dodatkowa przestrzeń po bokach rzeczywiście daje więcej informacji. Nadal trzeba jednak pamiętać, że nie każda gra radzi sobie z ultrapanoramicznymi rozdzielczościami idealnie. Starsze tytuły potrafią wyświetlać czarne pasy albo ograniczać scenki do 16:9.",
+        "Format 21:9 kojarzy się zwykle z większą immersją w wyścigach czy strzelankach, ale według mnie równie ciekawie wypada właśnie w strategiach oraz MMO. Dodatkowa przestrzeń po bokach zapewnia wgląd na większy obszar mapy, więcej miejsca na interfejs i pozwala pomieścić rozbudowane paski umiejętności bez aż tak mocnego zasłaniania właściwej rozgrywki."
+      ]
+    },
+    {
+      "id": "tech-2-804594",
+      "entity_tag": "GUS / Makro Polska",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół GUS / Makro Polska (Makroekonomia) (kluczowe liczby: 10%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "10%"
+      ],
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "original_title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "20:36",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249547675.jpg?w=1024",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\" Founder Summit begins Nov.",
+        "Get your pass savings & deals before it starts.",
+        "Web host DreamHost has confirmed that hackers stole customer emails and credentials during a months-long cyberattack on its systems."
+      ],
+      "extended_paragraphs": [
+        "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+        "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.",
+        "Web host DreamHost has confirmed that hackers stole customer emails and credentials during a months-long cyberattack on its systems. DreamHost disclosed the breach last Thursday after it sparked an outage that spanned several days, during which it reset some customer passwords.",
+        "In a data breach notice filed with California’s attorney general, the web host said the attack began in August and allowed hackers to obtain session tokens, which keep users logged in after entering their passwords. If stolen, hackers can break into a system as if they were that user. The company said hackers exploited an unspecified vulnerability in DreamHost’s file manager, which customers use to store their files.",
+        "When reached by TechCrunch, a DreamHost spokesperson declined to say why the company did not detect the cyberattack until last week, citing an ongoing investigation. The spokesperson did not say what the vulnerability is. The company said it was unrelated to the vulnerabilities recently discovered in the PHP web software ."
+      ]
+    },
+    {
+      "id": "tech-3-dd3754",
+      "entity_tag": "Cyfrowy Polsat (GPW: CPS)",
+      "sector": "Telekomunikacja & Media",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Cyfrowy Polsat (GPW: CPS) (Telekomunikacja & Media) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Płacisz mniej i jeszcze zgarniasz cashback. Epson ma idealny zestaw do domowego biura",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/placisz-mniej-i-jeszcze-zgarniasz-cashback-epson-ma-idealny-zestaw-do-domowego-biura",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/Cozy-Christmas-Card-Printing-Scene.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Drukarka to sprzęt, który dobrze jest mieć w domu.",
+        "Choć na co dzień zwykle nie potrzebujemy jej tak często, czasem zdarzają się momenty, w których jest po prostu niezbędna.",
+        "Jednak wiele osób woli zapłacić komuś za druk lub poprosić o to przyjaciół."
+      ],
+      "extended_paragraphs": [
+        "Drukarka to sprzęt, który dobrze jest mieć w domu. Choć na co dzień zwykle nie potrzebujemy jej tak często, czasem zdarzają się momenty, w których jest po prostu niezbędna. Jednak wiele osób woli zapłacić komuś za druk lub poprosić o to przyjaciół. Dlaczego? Odpowiedź jest bardzo prosta – koszmarnie drogie kartridże. Zwykle ta konieczność ciągłego […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Epson postanowił coś z tym zrobić i przygotował dla nas jesienną promocję na swój popularny model wielofunkcyjny EcoTank L3351. Do końca listopada zestaw obejmujący drukarkę, dodatkową dużą butelkę czarnego tuszu oraz całą ryzę papieru A4 kupimy z mocną zniżką.",
+        "Najważniejsze w tym zestawie jest oczywiście kompaktowe urządzenie L3351, które zamiast tradycyjnych, małych pojemników na tusz wykorzystuje znany i lubiany system stałego zasilania atramentem (stąd nazwa EcoTank). Przód obudowy wyposażono w przeźroczyste okienka, a sam tusz dolejemy w prosty sposób z poręcznych butelek, przez co koszt jednej strony jest naprawdę śmiesznie niski. Sprzęt drukuje, skanuje i kopiuje w formacie A4, a dzięki łączności Wi-Fi oraz aplikacji mobilnej Epson Smart Panel wydruki można zlecać bezpośrednio ze smartfona czy tabletu.",
+        "W ramach oficjalnej promocji obowiązującej do 30 listopada 2026 roku komplet obejmujący urządzenie wielofunkcyjne Epson EcoTank L3351, dodatkową, pełnowymiarową butelkę czarnego atramentu (model 103 Black) oraz pełną ryzę papieru A4 Everyday Paper, został wyceniony na 929 złotych brutto. To o 144 złote mniej od standardowej ceny katalogowej takiego zestawu. Dołączenie papieru oraz zapasowego czarnego tuszu sprawia, że po wyjęciu sprzętu z pudełka możemy od razu ruszyć z drukowaniem bez konieczności robienia dodatkowych zakupów w sklepie papierniczym.",
+        "Czytaj też: Zamiast skakać po subskrypcjach, kupujesz hurtowo. Plus i Polsat Box stawiają na oszczędność i wygodę"
+      ]
+    },
+    {
+      "id": "tech-4-cb74e0",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "original_title": "Open source AI is booming. Hugging Face explains who profits.",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "19:30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility.",
+        "But as increasingly capable models become more freely available, how do companies capture value?",
+        "And with Chinese open models gaining ground, can American players keep up?"
+      ],
+      "extended_paragraphs": [
+        "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+        "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.",
+        "AI Open source AI is booming. Hugging Face explains who profits. Theresa Loconsolo 11:30 AM PST · November 4, 2026 36 min Loading the player…",
+        "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Irene Solaiman , Chief Policy Officer and SVP of Strategy at Hugging Face, about what startups need to know before building on open models, from choosing the right tools and infrastructure to navigating the trade-offs shaping the future of open AI.",
+        "Theresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University. You can contact or verify outreach from Theresa by emailing [email protected] . View Bio November 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires"
+      ]
+    },
+    {
+      "id": "tech-6-c5a896",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "original_title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "19:29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "Founder Summit begins Nov.",
+        "Get your pass savings & deals before it starts."
+      ],
+      "extended_paragraphs": [
+        "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.",
+        "Image Credits: DuckDuckGo AI DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy Sarah Perez 11:29 AM PST · November 4, 2026 DuckDuckGo is pitching itself to schools after Google created an opening for the alternative search engine. On Tuesday, Google told schools they could turn off Gemini , but it said shutting off its other AI features would cost schools Google Search , as well.",
+        "DuckDuckGo, a company that focuses on user privacy by limiting data collection, clearly sees this as a moment to make inroads in education, where Google has historically dominated. According to figures Google has published in previous years, there are around 50 million Chromebooks in schools, used by students and educators, and its Google Classroom platform serves over 150 million users globally.",
+        "On X , DuckDuckGo’s founder and CEO, Gabriel Weinberg, pointed to the company’s online documentation , explaining how schools can switch their default search engine to DuckDuckGo’s service instead, adding, “get in touch for help.”"
+      ]
+    }
+  ],
+  "swiat": [
+    {
+      "id": "swiat-3-229033",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Energetyka & Paliwa” (Orlen (GPW: PKN)) (kluczowe liczby: 30 proc.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "30 proc."
+      ],
+      "title": "Przewoźnicy samochodowi są „zarobieni”",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:43",
+      "source": "Rzeczpospolita Wydarzenia",
+      "source_url": "https://logistyka.rp.pl/drogowy/art45447801-przewoznicy-samochodowi-sa-zarobieni",
+      "image_url": "https://i.gremicdn.pl/image/free/7ed145d8677d35ceb2f08583ecc9f070/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Wydarzenia",
+      "lead_story": true,
+      "summary_points": [
+        "Zauważalne jest odbicie w transporcie drogowym, jednak firmy nie są pewne czy jest to trwałe zjawisko i wskazują na niepokojące dane makroekonomiczne.",
+        "Na targach logistycznych Translogistyka które odbywają się w Warszawie jest niewielu przewoźników samochodowych.",
+        "Wytłumaczenie jest banalne: wszyscy są zajęci pracą."
+      ],
+      "extended_paragraphs": [
+        "Zauważalne jest odbicie w transporcie drogowym, jednak firmy nie są pewne czy jest to trwałe zjawisko i wskazują na niepokojące dane makroekonomiczne.",
+        "Na targach logistycznych Translogistyka które odbywają się w Warszawie jest niewielu przewoźników samochodowych. Wytłumaczenie jest banalne: wszyscy są zajęci pracą. – Widać sygnały dające nadzieję na poprawę koniunktury, ale to raczej stopniowe ożywienie niż wyraźne przyspieszenie europejskiego przemysłu. Trwałego impulsu szukałbym w inwestycjach zwiększających produktywność oraz w poprawie warunków prowadzenia działalności w Europie – zwłaszcza przewidywalności kosztów energii i otoczenia regulacyjnego. Dlatego warto odróżniać krótkoterminowe ożywienie od rzeczywistej poprawy kondycji przedsiębiorstw – zaznacza dyrektor generalny Raben Logistics Polska Wojciech Szafran.",
+        "Na niepewną trwałość ożywienia zwraca uwagę także chief growth offcer w sennder Arkadiusz Glinka. – Jest więcej zleceń, ale ten wzrost jest pochodną pojawienie się chwilowych projektów (dotyczących dóbr szybkozbywalnych) z początku świątecznego szczytu, a nie rosnących kontraktów. Te impulsy nie przekładają się w strukturalny wzrost rynku – przekonuje Glinka.",
+        "Firmy Czy Orlen Paczka będzie drugim graczem na rynku kurierskim? Mający 5 lat operator kurierski energicznie rozpycha się na rynku i goni konkurencję. Analitycy zastanawiają się, gdzie może znaleźć się Orlen Pacz...",
+        "Poprawę koniunktury dostrzegają również firmy średniej wielkości. – Nasze tegoroczne obroty powiększyły się o blisko 30 proc. pomimo słabych sygnałów z gospodarki niemieckiej. Marnie wypada motoryzacja, która zmniejsza liczbę zleceń. Jednak konsumpcja nie spada, pomimo niepokojących sygnałów z gospodarki. Gdybyśmy mieli więcej kierowców, nasze obroty byłyby może nawet jeszcze o jedną trzecią większe – przypuszcza prezes Galan Logistics Konrad Gałan."
+      ]
+    },
+    {
+      "id": "swiat-5-58e54c",
+      "entity_tag": "Unia Europejska",
+      "sector": "Gospodarka & Regulacje",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Gospodarka & Regulacje” (Unia Europejska) (kluczowe liczby: 4 mld) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "4 mld"
+      ],
+      "title": "MOL żegna Gazprom. Węgry bez gazu i ropy z Rosji",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:03",
+      "source": "Rzeczpospolita Wydarzenia",
+      "source_url": "https://energia.rp.pl/surowce-i-paliwa/art45447531-mol-zegna-gazprom-wegry-bez-gazu-i-ropy-z-rosji",
+      "image_url": "https://i.gremicdn.pl/image/free/081080f549fac1ba6aa39be877123116/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Wydarzenia",
+      "lead_story": false,
+      "summary_points": [
+        "Wystarczyła klęska wyborcza Wiktora Orbána, by jeden z ostatnich dużych europejskich klientów Gazpromu ogłosił decyzję o rezygnacji z rosyjskiego gazu.",
+        "Także rosyjska ropa już Węgrom nie smakuje.",
+        "Anita Orbán, szefowa węgierskiego MSZ, poinformowała, że Węgry nie będą już dłużej kupować rosyjskiego gazu."
+      ],
+      "extended_paragraphs": [
+        "Wystarczyła klęska wyborcza Wiktora Orbána, by jeden z ostatnich dużych europejskich klientów Gazpromu ogłosił decyzję o rezygnacji z rosyjskiego gazu. Także rosyjska ropa już Węgrom nie smakuje.",
+        "Anita Orbán, szefowa węgierskiego MSZ, poinformowała, że Węgry nie będą już dłużej kupować rosyjskiego gazu. „Unia Europejska wyznaczyła jasny termin wycofania rosyjskiego gazu ziemnego z naszego rynku – jesień 2027 r.” – powiedziała Orbán w wywiadzie dla niezależnego portalu Telex.",
+        "Pani minister potwierdziła, że Węgry przygotowują się również do wycofania z zakupów ropy naftowej dostarczanej przez Rosnieft i Łukoil. Aby to osiągnąć, węgierska spółka naftowo-gazowa MOL musi zmodernizować swoje rafinerie, aby mogły przetwarzać surowce inne niż rosyjskie.",
+        "Surowce i Paliwa Węgrzy mogą przejąć udziały w polskiej rafinerii. Analitycy mają faworyta Węgierski MOL wyrasta na faworyta do przejęcia części polskich aktywów Saudi Aramco, w tym potencjalnie udziałów w rafinerii gdańskiej – wynika z r...",
+        "Wcześniej UE podjęła decyzję o zakazie importu rosyjskiego skroplonego gazu ziemnego (LNG) od 1 stycznia 2027 r., a gazu rurociągowego od 30 września 2027 r. Obecnie przepisy UE już zabraniają zakupu gazu w ramach kontraktów krótkoterminowych."
+      ]
+    },
+    {
+      "id": "swiat-1-50e526",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 63,3 proc., 62,4 proc., 55,5 proc.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "63,3 proc.",
+        "62,4 proc.",
+        "55,5 proc."
+      ],
+      "title": "Klęska republikanów w wyborach połówkowych. Demokraci tryumfują",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:42",
+      "source": "Rzeczpospolita Wydarzenia",
+      "source_url": "https://www.rp.pl/polityka/art45439971-kleska-republikanow-w-wyborach-polowkowych-demokraci-tryumfuja",
+      "image_url": "https://i.gremicdn.pl/image/free/304d074cc237bdcbe0dc321aa39d298e/partia-demokratyczna-zdobyla-kontrole-nad-kongresem-w-wyborach-polowkowych",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Wydarzenia",
+      "lead_story": false,
+      "summary_points": [
+        "Partia Demokratyczna w wyborach połówkowych do Kongresu zapewniła sobie wyraźną większość w Izbie Reprezentantów i Senacie, przejmując do Partii Republikańskiej kontrolę nad Kongresem.",
+        "Republikanie przegrywali nawet w swoich bastionach.",
+        "Partia Demokratyczna – 54 mandaty, Partia Republikańska – 44 mandaty."
+      ],
+      "extended_paragraphs": [
+        "Partia Demokratyczna w wyborach połówkowych do Kongresu zapewniła sobie wyraźną większość w Izbie Reprezentantów i Senacie, przejmując do Partii Republikańskiej kontrolę nad Kongresem. Republikanie przegrywali nawet w swoich bastionach.",
+        "Partia Demokratyczna – 54 mandaty, Partia Republikańska – 44 mandaty. Los 2 mandatów nie jest rozstrzygnięty.",
+        "Zwolennicy prawa do aborcji zwyciężyli w trzech z czterech stanów USA, w których we wtorek odbyły się głosowania dotyczące przepisów aborcyjnych. Według prognoz CNN mieszkańcy Nevady i Wirginii poparli wpisanie ochrony prawa do aborcji do konstytucji stanowych, a wyborcy w Missouri odrzucili próbę uchylenia przepisów przyjętych w 2024 roku.",
+        "Według dotychczasowych wyników za ochroną prawa do aborcji opowiedziało się 63,3 proc. głosujących w Nevadzie i 62,4 proc. w Wirginii. W Missouri 55,5 proc. wyborców zagłosowało za utrzymaniem obowiązujących przepisów.",
+        "Wyjątkiem było Idaho, gdzie 56 proc. głosujących sprzeciwiło się ustanowieniu ustawowego prawa do aborcji."
+      ]
+    },
+    {
+      "id": "swiat-2-cd0e2f",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "original_title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "13:33",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+        "Inside the Republican Party, initial shock at the stunning election results on Tuesday night quickly gave way to anger with US President Donald Trump.",
+        "After Democrats won upset after upset in deep-red states like Texas, Kansas and South Carolina, some Republicans focused their ire on Trump, arguing that his focus on his legacy and indifference to voter concerns cost the party control of Congress."
+      ],
+      "extended_paragraphs": [
+        "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+        "Inside the Republican Party, initial shock at the stunning election results on Tuesday night quickly gave way to anger with US President Donald Trump.",
+        "After Democrats won upset after upset in deep-red states like Texas, Kansas and South Carolina, some Republicans focused their ire on Trump, arguing that his focus on his legacy and indifference to voter concerns cost the party control of Congress.",
+        "\"It's on him. It's not on anybody else. It's a total, complete rejection of President Trump,\" Bill Miller, a top Republican lobbyist in Texas, told the BBC. \"This is a disaster of the first magnitude. Nobody saw it coming like this.\"",
+        "Most Republicans expected to lose control of the House and were clear-eyed about the challenge of holding onto the Senate in a tough election cycle that favoured the party out of power."
+      ]
+    },
+    {
+      "id": "swiat-4-0fe32e",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 75%) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "75%"
+      ],
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "original_title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:01",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+        "It was the midterm result that many in Canada had hoped for - a Democratic sweep that was in part a repudiation by American voters of Donald Trump's tariff on close trade allies.",
+        "\"I was doing cartwheels down the street,\" said Ontario Premier Doug Ford on Wednesday morning, calling it \"a victory for Canada\"."
+      ],
+      "extended_paragraphs": [
+        "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+        "It was the midterm result that many in Canada had hoped for - a Democratic sweep that was in part a repudiation by American voters of Donald Trump's tariff on close trade allies.",
+        "\"I was doing cartwheels down the street,\" said Ontario Premier Doug Ford on Wednesday morning, calling it \"a victory for Canada\".",
+        "Tuesday night's result is unlikely to grant Canada relief from those tariffs any time soon, but there is anticipation that the political shifts could create a more favourable environment for Ottawa to get the best deal now that on-again-off-again trade talks are back on.",
+        "US voters cited affordability as a main concern heading into the midterms and a survey by the Cato Institute in September , external suggested that about 75% believe the tariffs have raised prices."
+      ]
+    },
+    {
+      "id": "swiat-6-927e19",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "original_title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "20:22",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+        "Image source, National police of Ukraine Image caption, In the bodycam footage, Komyshuvakha residents are seen walking amid the rubble after the initial Russian strike before going to the shelter that was hit just minutes later A bodycam video has been released by Ukraine police they say shows the moments between two powerful Russian bomb strikes that killed at least 40 people at an aid centre and a shelter.",
+        "The footage, from a camera on one of the killed police officers, shows residents of the southern village of Kamyshuvakha going to an underground shelter after the first attack on Monday."
+      ],
+      "extended_paragraphs": [
+        "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+        "Image source, National police of Ukraine Image caption, In the bodycam footage, Komyshuvakha residents are seen walking amid the rubble after the initial Russian strike before going to the shelter that was hit just minutes later",
+        "A bodycam video has been released by Ukraine police they say shows the moments between two powerful Russian bomb strikes that killed at least 40 people at an aid centre and a shelter.",
+        "The footage, from a camera on one of the killed police officers, shows residents of the southern village of Kamyshuvakha going to an underground shelter after the first attack on Monday. Soon after a blast is heard and flames are seen as the shelter is hit.",
+        "President Volodymyr Zelensky said more than 30 people may still be under the rubble, as a search operation continued for the third day."
+      ]
+    },
+    {
+      "id": "swiat-7-1ad801",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Porażka Trumpa nie oznacza sukcesu Ukrainy. Putin stawia na długą wojnę",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:00",
+      "source": "Rzeczpospolita Wydarzenia",
+      "source_url": "https://www.rp.pl/polityka/art45444161-porazka-trumpa-nie-oznacza-sukcesu-ukrainy-putin-stawia-na-dluga-wojne",
+      "image_url": "https://i.gremicdn.pl/image/free/896c20e0d4ff511c02c32af9c57c9a7a/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Wydarzenia",
+      "lead_story": false,
+      "summary_points": [
+        "Nie warto mieć złudzeń, że po zmianie władzy w Kongresie Władimir Putin przeprosi, podkuli ogon i zakończy wojnę.",
+        "Kreml stawia na zniszczenie Ukrainy i długą konfrontację z wolnym światem.",
+        "Wydarzenie sklasyfikowano w sektorze: Geopolityka & Świat (wpływ: LOW)."
+      ],
+      "extended_paragraphs": [
+        "Nie warto mieć złudzeń, że po zmianie władzy w Kongresie Władimir Putin przeprosi, podkuli ogon i zakończy wojnę. Kreml stawia na zniszczenie Ukrainy i długą konfrontację z wolnym światem.",
+        "Kontekst sektorowy (Geopolityka & Świat — Wydarzenia Globalne): Informacja o charakterze równoważnym lub sprawozdawczym."
+      ]
+    },
+    {
+      "id": "swiat-8-4493f5",
+      "entity_tag": "Rynek Krypto",
+      "sector": "Aktywa Cyfrowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Aktywa Cyfrowe” (Rynek Krypto) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "original_title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "16:26",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+        "\"No health impact has been identified and no loss of blood products is to be reported,\" the EFS said.",
+        "Meanwhile rumours have been circulating online about Russian hacktivist groups claiming they worked together to hack one of the systems that was used in the attacks which have affected European supermarkets."
+      ],
+      "extended_paragraphs": [
+        "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+        "\"No health impact has been identified and no loss of blood products is to be reported,\" the EFS said.",
+        "Meanwhile rumours have been circulating online about Russian hacktivist groups claiming they worked together to hack one of the systems that was used in the attacks which have affected European supermarkets.",
+        "Noname057(16) and Z-Pentest Alliance posted that they successfully hacked Danfoss which led to speculation that they were the culprits behind the freezer hacks.",
+        "But analysts now question whether or not that meant they were behind the supermarket cyber-attacks."
+      ]
+    }
+  ],
+  "sport": [
+    {
+      "id": "sport-1-9b6eac",
+      "entity_tag": "Enea (GPW: ENA)",
+      "sector": "Energetyka",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Energetyka): Kluczowa informacja z obszaru Enea (GPW: ENA) o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Bez potknięć. Polskie drużyny z wygranymi w EuroCupie",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:01",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/koszykowka/1282645/bez-potkniec-polskie-druzyny-z-wygranymi-w-eurocupie",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aeb9d1293d748_29791157.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": true,
+      "summary_points": [
+        "Pro-Network Enea AJP Gorzów Wielkopolski i Enea AZS Politechnika Poznań z kolejnymi wygranymi w kobiecym EuroCupie.",
+        "To bardzo ważne wyniki, bowiem polskie ekipy przypieczętowały awans do kolejnej fazy europejskich pucharów.",
+        "Skomentuj Pro-Network Enea AJP Gorzów Wielkopolski i Enea AZS Politechnika Poznań z kolejnymi wygranymi w kobiecym EuroCupie."
+      ],
+      "extended_paragraphs": [
+        "Pro-Network Enea AJP Gorzów Wielkopolski i Enea AZS Politechnika Poznań z kolejnymi wygranymi w kobiecym EuroCupie. To bardzo ważne wyniki, bowiem polskie ekipy przypieczętowały awans do kolejnej fazy europejskich pucharów.",
+        "Skomentuj Pro-Network Enea AJP Gorzów Wielkopolski i Enea AZS Politechnika Poznań z kolejnymi wygranymi w kobiecym EuroCupie. To bardzo ważne wyniki, bowiem polskie ekipy przypieczętowały awans do kolejnej fazy europejskich pucharów.",
+        "Dwa mecze z udziałem polskich drużyn i dwa zwycięstwa. Pro-Netrowrk Enea AJP Gorzów Wielkopolski i Enea AZS Politechnika Poznań wykonały swoje zadania i mogą już bukować bilety na fazę pucharową.",
+        "Gorzowianki po czterech kolejkach są niepokonane. Drużyna Dariusza Maciejewskiego tym razem pewnie ograła na wyjeździe grecki Panserraikos 90:79.",
+        "19 punktów, siedem asyst i pięć zbiórek skompletowała Stephanie Jones. Kluczowa dla losów meczu była walka na tablicach wygrana przez Gorzowianki aż 46:27 (18 zbiórek w ataku)."
+      ]
+    },
+    {
+      "id": "sport-7-178fa3",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Geopolityka): Kluczowa informacja z obszaru USA & Bezpieczeństwo o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Thriller we Wrocławiu. Było bardzo blisko",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "20:30",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/koszykowka/1282638/thriller-we-wroclawiu-bylo-bardzo-blisko",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6ace79b9f26212_41585459.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Działo się w środę w hali Orbita we Wrocławiu.",
+        "WKS Śląsk był blisko szczęścia, ale wygrać ostatecznie nie dał rady.",
+        "Drużyna Cosea JL Bourg-en-Bresse zwyciężyła 88:84."
+      ],
+      "extended_paragraphs": [
+        "Działo się w środę w hali Orbita we Wrocławiu. WKS Śląsk był blisko szczęścia, ale wygrać ostatecznie nie dał rady. Drużyna Cosea JL Bourg-en-Bresse zwyciężyła 88:84.",
+        "Skomentuj Działo się w środę w hali Orbita we Wrocławiu. WKS Śląsk był blisko szczęścia, ale wygrać ostatecznie nie dał rady. Drużyna Cosea JL Bourg-en-Bresse zwyciężyła 88:84.",
+        "Thriller we Wrocławiu . WKS Śląsk po dwóch celnych rzutach wolnych Tymoteusza Sternickiego prowadził w końcówce meczu z Francuzami w EuroCupie 84:81. Do końca meczu więcej punktów już jednak nie zdobył.",
+        "Mocna ekipa Cosea JL Bourg-en-Bresse w ostatnie 79 sekund spotkania zdobyła siedem punktów z rzędu i po takim zrywie zwyciężyła w hali Orbita 88:84.",
+        "Ważne rzuty spudłowali liderzy drużyny, Jakub Nizioł i Anthony Hickey . Kluczowe punkty dla rywali zdobył natomiast Tyger Campbell, po którego skutecznej akcji z faulem goście prowadzili 86:84 na 34 sekundy przed końcem. To był kluczowy moment."
+      ]
+    },
+    {
+      "id": "sport-2-749172",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "An island in mourning: Tenerife processes death of De Miguel",
+      "original_title": "An island in mourning: Tenerife processes death of De Miguel",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:51",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6896/live/80cda3d0-d880-11f1-a701-fddedf244c16.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
+        "Spanish football reporter in Tenerife Published 2 hours ago As you arrive on the holiday island of Tenerife, there is a profound sense of grief, pain and disbelief at the death of footballer Jesus de Miguel .",
+        "The Canary island is in mourning for the Tenerife striker, who died from injuries sustained in a collision with FC Andorra goalkeeper Jesus Owono during a match on Monday."
+      ],
+      "extended_paragraphs": [
+        "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
+        "Spanish football reporter in Tenerife Published 2 hours ago As you arrive on the holiday island of Tenerife, there is a profound sense of grief, pain and disbelief at the death of footballer Jesus de Miguel .",
+        "The Canary island is in mourning for the Tenerife striker, who died from injuries sustained in a collision with FC Andorra goalkeeper Jesus Owono during a match on Monday.",
+        "The 30-year-old had quickly established himself as a club favourite, scoring 11 goals in his first season as Tenerife were promoted to the second tier of Spanish football.",
+        "But now the Heliodoro Rodriguez Lopez Stadium has become a shrine to the player, with hundreds of people gathering throughout the past few days to lay flowers, light candles and pay their respects."
+      ]
+    },
+    {
+      "id": "sport-3-e3ff85",
+      "entity_tag": "XTB (GPW: XTB)",
+      "sector": "Fintech & Brokerzy",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Fintech & Brokerzy): Kluczowa informacja z obszaru XTB (GPW: XTB) o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Mocne starcie w wadze koguciej KSW. Znamy pełną kartę walk gali w Szczecinie",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "20:54",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/mma/1282643/mocne-starcie-w-wadze-koguciej-zamyka-kartewalk-gali-xtb-ksw-123",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6414bda2951ef8_72494470.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Ostatnim pojedynkiem dodanym do karty walk gali XTB KSW 123, 21 listopada w Szczecinie, jest rankingowe zestawienie zawodników wagi koguciej.",
+        "Kamil Szkaradek (7-1, 1 KO, 2 Sub) zmierzy się z Rogerio Bontorinem (17-6 2NC, 3 KO, 11 Sub).",
+        "Skomentuj Ostatnim pojedynkiem dodanym do karty walk gali XTB KSW 123, 21 listopada w Szczecinie, jest rankingowe zestawienie zawodników wagi koguciej."
+      ],
+      "extended_paragraphs": [
+        "Ostatnim pojedynkiem dodanym do karty walk gali XTB KSW 123, 21 listopada w Szczecinie, jest rankingowe zestawienie zawodników wagi koguciej. Kamil Szkaradek (7-1, 1 KO, 2 Sub) zmierzy się z Rogerio Bontorinem (17-6 2NC, 3 KO, 11 Sub).",
+        "Skomentuj Ostatnim pojedynkiem dodanym do karty walk gali XTB KSW 123, 21 listopada w Szczecinie, jest rankingowe zestawienie zawodników wagi koguciej. Kamil Szkaradek (7-1, 1 KO, 2 Sub) zmierzy się z Rogerio Bontorinem (17-6 2NC, 3 KO, 11 Sub).",
+        "Utalentowany Kamil Szkaradek w okrągłej klatce stoczył sześć pojedynków i pięć z nich wygrał. Ostatni raz walczył w listopadzie zeszłego roku, kiedy to zmierzył się z Oleksim Polisczukim, poddał go w drugiej rundzie i zdobył bonus za najlepsze skończenie wieczoru.",
+        "Było to drugie wyróżnienie dla Szkaradka w KSW. Pierwsze otrzymał za najlepszą walkę wieczoru gali XTB KSW 85. Dzięki ostatniemu tryumfowi Szkaradek jest dziś po dwóch zwycięstwach z rzędu. Reprezentanta klubu Grappling Kraków walczy zawodowo od roku 2021. Ma za sobą bogatą karierę amatorską. Był wielokrotnym medalistą turniejów MMA i zawodów grapplingowych.",
+        "Rogério Bontorin zadebiutował w KSW we wrześniu zeszłego roku. Starł się z Witalijem Jakimenką, ale musiał uznać jego wyższość w klatce. Brazylijczyk, który specjalizuje się w walce parterowej, rywalizuje zawodowo od roku 2013. Stoczył 25 pojedynków i siedemnaście wygrał. Do tej pory czternaście razy zwyciężał przed czasem, z czego aż jedenaście razy robił to, poddając przeciwników."
+      ]
+    },
+    {
+      "id": "sport-4-b456eb",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+      "original_title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "16:12",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+        "Manchester United reporter Published 4 hours ago It was impossible not to get swept up in the emotion and delirium of Manchester United's late 3-2 Champions League comeback win against Roma.",
+        "Old Trafford was transformed from a mutinous, baying cathedral of distrust and fury to one of joy and celebration."
+      ],
+      "extended_paragraphs": [
+        "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+        "Manchester United reporter Published 4 hours ago It was impossible not to get swept up in the emotion and delirium of Manchester United's late 3-2 Champions League comeback win against Roma.",
+        "Old Trafford was transformed from a mutinous, baying cathedral of distrust and fury to one of joy and celebration.",
+        "Nine games and almost eight weeks is an eternity to wait for a victory at a club of Manchester United's size.",
+        "\"It's one win, so we're not getting too carried away with things, but it was an important win.\""
+      ]
+    },
+    {
+      "id": "sport-5-8a6a27",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "FIBA Europe Cup. Polskie kluby bezbłędne. Dziki i King liderami",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "20:36",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/koszykowka/1282640/fiba-europe-cup-polskie-kluby-bezbledne-dziki-i-king-liderami",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aeb9714542a70_35197686.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Oby więcej takich dni na europejskich parkietach z udziałem polskich drużyn.",
+        "Trzy mecze w FIBA Europe Cup i trzy sukcesu.",
+        "Najwięcej emocji było tradycyjnie w Zielonej Górze, gdzie Zastal grał z Dynamem Bukareszt."
+      ],
+      "extended_paragraphs": [
+        "Oby więcej takich dni na europejskich parkietach z udziałem polskich drużyn. Trzy mecze w FIBA Europe Cup i trzy sukcesu. Najwięcej emocji było tradycyjnie w Zielonej Górze, gdzie Zastal grał z Dynamem Bukareszt.",
+        "Skomentuj Oby więcej takich dni na europejskich parkietach z udziałem polskich drużyn. Trzy mecze w FIBA Europe Cup i trzy sukcesu. Najwięcej emocji było tradycyjnie w Zielonej Górze, gdzie Zastal grał z Dynamem Bukareszt.",
+        "Dziki Warszawa i King Szczecin wygrały po raz czwarty w FIBA Europe Cup i oba te zespoły znajdują się na szczycie w tabelach swoich grup.",
+        "Dziki podniosły się po wysokiej przegranej w Wurzburgu. Najpierw w derbach stolicy pokonały Legię, a teraz na europejskich salonach MZT Skopje Aerodrom 89:66. Wygrana podopiecznych trenera Marco Legovicha była pod pełną kontrolą.",
+        "Warszawaka drużyna nadal bez Zane Watermana, ale ciągle ze znakomitym Krzysztofem Kempą, który tym razem skompletował 19 punktów (7/10 z gry) i pięć zbiórek. Dziki trafiły 15 z 38 rzutów zza łuku. Po pięć trójek przymierzyli Austin Luke i Joseph Girard."
+      ]
+    },
+    {
+      "id": "sport-6-a58261",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Zverev annoyed by reaction to becoming world number one",
+      "original_title": "Zverev annoyed by reaction to becoming world number one",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "17:08",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdg01pq55eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/db5d/live/d5063290-d881-11f1-b441-2b33b063138f.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "After a defeat at the Paris Masters, Alexander Zverev complains that he is the only player who has had \"to explain why it's OK\" for him to be top of the rankings.",
+        "Alexander Zverev says he has been \"annoyed\" by the reaction to him becoming world number one.",
+        "The German, 29, claims he is the only tennis player who \"has to explain why it's OK\" for him to be top of the rankings."
+      ],
+      "extended_paragraphs": [
+        "After a defeat at the Paris Masters, Alexander Zverev complains that he is the only player who has had \"to explain why it's OK\" for him to be top of the rankings.",
+        "Alexander Zverev says he has been \"annoyed\" by the reaction to him becoming world number one.",
+        "The German, 29, claims he is the only tennis player who \"has to explain why it's OK\" for him to be top of the rankings.",
+        "Zverev lost to Italy's Lorenzo Musetti at the Paris Masters on Wednesday - his first match since becoming the ATP Tour's number one for the first time.",
+        "He has won his first two Grand Slams titles in 2026, but his success has come in a year in which Carlos Alcaraz and Jannik Sinner have struggled with injuries."
+      ]
+    },
+    {
+      "id": "sport-8-420aae",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "'Most difficult days of my life' for Owono after De Miguel death",
+      "original_title": "'Most difficult days of my life' for Owono after De Miguel death",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "16:40",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+        "FC Andorra goalkeeper Jesus Owono says he is experiencing \"the most difficult days of my life\" after the death of Tenerife forward Jesus de Miguel.",
+        "Tenerife player De Miguel, 30, died after suffering a serious injury in a collision with Owono during a Spanish second division match on Monday."
+      ],
+      "extended_paragraphs": [
+        "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+        "FC Andorra goalkeeper Jesus Owono says he is experiencing \"the most difficult days of my life\" after the death of Tenerife forward Jesus de Miguel.",
+        "Tenerife player De Miguel, 30, died after suffering a serious injury in a collision with Owono during a Spanish second division match on Monday.",
+        "The world of football has paid tribute to De Miguel, a father-of-one who joined Tenerife in summer 2025, with a minute's silence being held at all games in European competition this week.",
+        "Owono's club issued a statement on the goalkeeper's behalf on Wednesday, explaining the 25-year-old \"wishes to share a few words personally\"."
+      ]
+    }
+  ],
+  "gielda": [
+    {
+      "id": "rynki-1-fcefef",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 2,6 mld zł, 2,09 mld zł, 4 proc.) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "2,6 mld zł",
+        "2,09 mld zł",
+        "4 proc."
+      ],
+      "title": "Orlen czerwoną latarnią WIG20. Nie wziął udziału w odreagowaniu po wyborach w USA",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:14",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Orlen-czerwona-latarnia-WIG20-Nie-wzial-udzialu-w-odreagowaniu-po-wyborach-w-USA-9223715.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/e/6/5765b150bdd1ae-945-560-187-0-2462-1477.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Na GPW po trzech dniach spadków przyszło wyczekiwane odreagowanie.",
+        "Inwestorzy nad Wisłą z entuzjazmem dołączyli do globalnego rajdu, wywołanego rozstrzygnięciem wyborów połówkowych w Stanach Zjednoczonych.",
+        "Zwycięstwo Demokratów w obu izbach Kongresu usunęło z rynków nawis niepewności, osłabiło dolara i pchnęło w dół rentowności obligacji skarbowych."
+      ],
+      "extended_paragraphs": [
+        "Na GPW po trzech dniach spadków przyszło wyczekiwane odreagowanie. Inwestorzy nad Wisłą z entuzjazmem dołączyli do globalnego rajdu, wywołanego rozstrzygnięciem wyborów połówkowych w Stanach Zjednoczonych. Zwycięstwo Demokratów w obu izbach Kongresu usunęło z rynków nawis niepewności, osłabiło dolara i pchnęło w dół rentowności obligacji skarbowych. Na GPW prym wiodły spółki surowcowe z KGHM na czele, sektor bankowy oraz energetyka, podczas gdy jedynym hamulcowym wśród blue chipów okazał się Orle, tracący przy spadających cenach ropy i gazu oraz przy akompaniamencie doniesień o ekstra podatki na Litwie.",
+        "/ Po trzech z rzędu spadkowych sesjach, w tym największej przecenie od czerwca, które kosztowały główne warszawskie indeksy około 4 proc. w Warszawie przyszedł dzień giełdowego odreagowania . Indeks WIG20 wzrósł o 1,24 proc. , szeroki indeks WIG zyskał 1,47 proc. , natomiast skupiający średnie spółki mWIG40 poszedł w górę o 2,30 proc. Poprawę nastrojów choć nieco bardziej powściągliwą zanotował również sWIG80, który zwyżkował o 0,41 proc. Obroty wyniosły prawie 2,6 mld zł, z czego 2,09 mld zł dotyczyło spółek z WIG20.",
+        "Wydarzenia w Warszawie były odzwierciedleniem nastrojów panujących na kluczowych giełdach zagranicznych. W momencie zamykania handlu na GPW na głównych parkietach w Europie dominowała głęboka zieleń niemiecki DAX zyskiwał 2,1 proc. , francuski CAC 40 zwyżkował o 2,2 proc. , brytyjski FTSE 100 wzrósł o 1,7 proc. Od wzrostów rozpoczęła się sesja za oceanem. W Stanach Zjednoczonych indeks szerokiego rynku S&P 500 rósł o 1,5 proc. , a technologiczny Nasdaq Composite szybował w górę o 1,7 proc., choć momentami zwyżki przekraczały nawet 2 proc.",
+        "Bezpośrednim impulsem do rajdu okazały się wyniki wyborów połówkowych w USA, w których Demokraci przejęli pełną kontrolę nad Kongresem , co oznacza z jednej strony paraliż legislacyjny w kwestii dalszego, niekontrolowanego powiększania deficytu budżetowego. Dla rynku długu oznacza to niższą podaż obligacji i spadek ich rentowności, co automatycznie zwiększa atrakcyjność wyceny akcji. Choć Demokraci są opisywani jako zagrożenie dla trwania hossy w sektorze AI, który chcieli by bardzie uregulować niż Republikanie to jednak pierwsza reakcja rynku wskazuje na ulgę po zdjęciu z rynku niepewności. Spadające rentowności długu uderzyły w amerykańską walutę – dolar zaliczył najgłębszą przecenę od dwóch miesięcy , co tradycyjnie wyzwoliło popyt na metale szlachetne. Z kluczowych poziomów dynamicznie odbijało złoto, notowane znów powyżej 4000 USD/oz. oraz srebro zyskujące ponad 5 proc. do przeszło 52 USD/oz.",
+        "W gronie krajowych blue chipów jednym z liderów wzrostów został KGHM (+4,19 proc.) . Notowania lubińskiego koncernu wystrzeliły po wtorkowej zniżce o 4,34 proc. Dzisiejszy skok to próba przerwania fatalnej passy trwającej od 13 października, w trakcie której kurs miedziowego giganta runął o ponad 21 proc. Notowania KGHM wsparł w środę wystrzał na kursie srebra, przy relatywnie stabilnych notowaniach miedzi."
+      ]
+    },
+    {
+      "id": "rynki-3-a284d3",
+      "entity_tag": "ING BSK (GPW: ING)",
+      "sector": "Bankowość",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe (kluczowe liczby: 3,5%, 4,1%, -4,0%).",
+      "key_metrics": [
+        "3,5%",
+        "4,1%",
+        "-4,0%"
+      ],
+      "title": "Inflacja ponad celem, a stopy bez zmian. RPP nie zmienia zdania",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "14:59",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Inflacja-ponad-celem-a-stopy-bez-zmian-RPP-nie-zmienia-zdania-9223461.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/2/9/25f4ed1e9e59aa-900-540-47-18-900-540.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Rada Polityki Pieniężnej zdecydowała się utrzymać stopy procentowe na niezmienionych poziomach, mimo że inflacja CPI od kilku miesięcy wyraźnie przekracza cel Narodowego Banku Polskiego.",
+        "- Jeśli w listopadzie nie dojdzie do zmiany stóp procentowych, to zapewne nie zmienią się one już do końca roku.",
+        "RPP zazwyczaj nie zmienia stóp procentowych w grudniu – przepowiadał jeszcze przed ogłoszeniem decyzji Rady ekonomista ING Banku Śląskiego Adam Antoniak ."
+      ],
+      "extended_paragraphs": [
+        "Rada Polityki Pieniężnej zdecydowała się utrzymać stopy procentowe na niezmienionych poziomach, mimo że inflacja CPI od kilku miesięcy wyraźnie przekracza cel Narodowego Banku Polskiego.",
+        "- Jeśli w listopadzie nie dojdzie do zmiany stóp procentowych, to zapewne nie zmienią się one już do końca roku. RPP zazwyczaj nie zmienia stóp procentowych w grudniu – przepowiadał jeszcze przed ogłoszeniem decyzji Rady ekonomista ING Banku Śląskiego Adam Antoniak . Tylko 1 z 19 ankietowanych przez PAP prognostów spodziewał się, że RPP w listopadzie 2026 r. podniesie stopy .",
+        "Dzięki tymczasowemu (tj. obowiązującemu do końca roku) obniżeniu stawek VAT na paliwa inflacja CPI w październiku obniżyła się do 3,5% względem 4,1% we wrześniu. Nadal są to jednak odczyty wykraczające poza 2,5-procentowy cel inflacyjny NBP. Co więcej, od sierpnia inflacja porusza się w pobliżu dopuszczalnego odchylenia od tegoż celu (czyli 3,5%). Prognozy ekonomistów zakładają, że do końca 2026 roku inflacja CPI pozostanie w strefie 3,5-4,0%, a od stycznia zapewne jeszcze wzrośnie (o ile nie dojdzie do silnego spadku cen paliw na świecie).",
+        "We wrześniu doszło do sytuacji, gdy po raz pierwszy od stycznia 2024 roku stopa referencyjna NBP znalazła się poniżej inflacji CPI za ostatnie 12 miesięcy. Po październiku realna stopa procentowa w Poslce (liczona ex post) była tylko minimalnie wyższa od zera. I taki stan zapewne utrzyma się w kolejnych miesiącach.",
+        "Inflacja CPI w Polsce z 50-procentowym prawdopodobieństwem w przedziale 3,1–5,3 proc. w 2027 r. (wobec 1,5-4,0 proc. w projekcji z lipca) oraz w przedziale 1,4–4,4 proc. w 2028 r. (wobec 0,8-3,9 proc.) - wynika z najnowszej, listopadowej projekcji Departamentu Analiz Ekonomicznych NBP."
+      ]
+    },
+    {
+      "id": "rynki-5-470888",
+      "entity_tag": "GUS / Makro Polska",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GUS / Makro Polska (Makroekonomia) (kluczowe liczby: 4%, 4,0%, 1,7%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "4%",
+        "4,0%",
+        "1,7%"
+      ],
+      "title": "Euroinflacja odjeżdża Europejskiemu Bankowi Centralnemu. Cel przekroczony dwukrotnie",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "11:01",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Euroinflacja-w-pazdzierniiu-2026-roku-odjechala-Europejskiemu-Bankowi-Centralnemu-9223338.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/7/c/337bc83df43f4f-948-568-0-124-2500-1499.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "W październiku inflacja HICP w strefie euro wzrosła do 4% i już dwukrotnie przewyższa cel Europejskiego Banku Centralnego.",
+        "To także najwyższy odczyt od ponad 3 lat.",
+        "fot. EricBery / / Shutterstock Ze wstępnych danych Eurostatu wynika, że zharmonizowany indeks cen konsumpcyjnych (HICP) w strefie euro w październiku 2026 roku był o 4,0% wyższy niż rok wcześniej."
+      ],
+      "extended_paragraphs": [
+        "W październiku inflacja HICP w strefie euro wzrosła do 4% i już dwukrotnie przewyższa cel Europejskiego Banku Centralnego. To także najwyższy odczyt od ponad 3 lat.",
+        "fot. EricBery / / Shutterstock Ze wstępnych danych Eurostatu wynika, że zharmonizowany indeks cen konsumpcyjnych (HICP) w strefie euro w październiku 2026 roku był o 4,0% wyższy niż rok wcześniej. To rezultat zbieżny z oczekiwaniami większości ekonomistów oraz najwyższy odczyt od września 2023 roku.",
+        "Eurostat Był to już czwarty z rzędu miesiąc wzrostu inflacji konsumenckiej w eurolandzie. A przez ostatnie 9 miesięcy wskaźnik ten obniżył się tylko raz – w czerwcu, gdy wyraźnie potaniały paliwa. Ale generalnie inflacja w strefie euro znajduje się w trendzie rosnącym, podnosząc się z 1,7% w styczniu do 4,0% w październiku.",
+        "W ten sposób szok paliwowy wybił inflację w strefie euro powyżej celu Europejskiego Banku Centralnego. EBC stawia sobie za zadanie utrzymanie rocznej dynamiki HICP na poziomie 2% w średnim terminie (przed lipcem 2021 roku było to „blisko, ale poniżej 2%”).",
+        "Podobnie jak w poprzednich miesiącach za taki stan rzeczy odpowiadają przede wszystkim coraz wyższe ceny paliw i energii, jaki nastąpił na skutek blokady cieśniny Ormuz (przez Iran) oraz irańskich portów (przez US Navy). Według Eurostatu w sierpniu ceny energii poszły w górę o 1,4% względem września i były aż o 20,8% wyższe niż w październiku 2025 roku ."
+      ]
+    },
+    {
+      "id": "rynki-7-5b4d7d",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 30 mld zł, 519,6 mln zł, 253,9 mln zł) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "30 mld zł",
+        "519,6 mln zł",
+        "253,9 mln zł"
+      ],
+      "title": "Polski producent dronów szykuje debiut dekady. Zgoda właścicieli otwiera drogę do historycznego IPO",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:59",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/WB-Electronics-podjal-kluczowa-decyzje-Wycena-na-30-miliardow-zlotych-i-giganci-z-Wall-Street-9223347.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/b/c/949cc2093e92b6-948-568-4-113-1613-967.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Właściciele największego prywatnego koncernu zbrojeniowego w Polsce, czyli Grupy WB Electronics, specjalizująca się w systemach dronowych dali zielone światło do wejścia na Giełdę Papierów Wartościowych w Warszawie – informuje Parkiet.",
+        "Według nieoficjalnych informacji transakcja może dojść do skutku w pierwszej połowie 2027 roku, a szacowana wycena koncernu sięga nawet ponad 30 mld zł.",
+        "Obecny układ właścicielski spółki tworzą Piotr Wojciechowski z pakietem około 45,5 proc. akcji, wiceprezes Adam Bartosiewicz kontrolujący ponad 28 proc. głosów oraz Polski Fundusz Rozwoju, do którego należy 26,44 proc. udziałów ."
+      ],
+      "extended_paragraphs": [
+        "Właściciele największego prywatnego koncernu zbrojeniowego w Polsce, czyli Grupy WB Electronics, specjalizująca się w systemach dronowych dali zielone światło do wejścia na Giełdę Papierów Wartościowych w Warszawie – informuje Parkiet. Według nieoficjalnych informacji transakcja może dojść do skutku w pierwszej połowie 2027 roku, a szacowana wycena koncernu sięga nawet ponad 30 mld zł.",
+        "Obecny układ właścicielski spółki tworzą Piotr Wojciechowski z pakietem około 45,5 proc. akcji, wiceprezes Adam Bartosiewicz kontrolujący ponad 28 proc. głosów oraz Polski Fundusz Rozwoju, do którego należy 26,44 proc. udziałów . Ostateczna architektura transakcji nie została jeszcze ujawniona, nie wiadomo więc, jaką część stanowić będzie emisja nowych walorów na inwestycje, a ile gotówki z rynku zechcą zrealizować dotychczasowi inwestorzy. Spółka rozpoczęła już proces wyłaniania konsorcjum doradców, a do wyścigu o zorganizowanie giełdowego spektaklu stanęli najwięksi gracze z Wall Street, w tym J.P. Morgan oraz Morgan Stanley. Według informacji „Parkietu” do debiutu może dojść najpóźniej do czerwca 2027 roku.",
+        "Eksplozja wyników i zamówienia liczone w miliardach Wycena aspirująca do poziomu ponad 30 mld zł nie bierze się z próżni. Wyniki finansowe WB Electronics odzwierciedlają gigantyczną transformację, jaką przeszła założona w 1997 roku inżynierska firma z Ożarowa Mazowieckiego. W pierwszym półroczu 2026 roku zysk netto grupy wystrzelił do 519,6 mln zł, podczas gdy w analogicznym okresie ubiegłego roku wynosił 253,9 mln zł, co oznacza przeszło stuprocentowy wzrost wyniku netto rok do roku. W tym samym czasie przychody spółki zwiększyły się z poziomu 1,1 mld zł do około 1,6 mld zł.",
+        "Prawdziwym motorem napędowym wyceny pozostaje jednak portfel zamówień, zasilany zbrojeniowymi programami modernizacyjnymi polskiej armii. W ramach programu SAFE grupa podpisała z Agencją Uzbrojenia kontrakty o łącznej wartości blisko 12 mld zł. Skala zakontraktowanych dostaw systemów bezzałogowych produkowanych m.in. przez spółkę Flytronic oraz zaawansowanych systemów łączności i kierowania ogniem pozwala analitykom prognozować dalszy, wykładniczy wzrost skali biznesu . Szacunki rynkowe wskazują, że w horyzoncie zaledwie trzech lat roczne przychody holdingu mogą poszybować z dotychczasowego poziomu około 3 mld zł do przedziału 8–10 mld zł.",
+        "Debiut Grupy WB wpasowuje się w trwający renesans sektora obronnego na europejskich rynkach finansowych . Zmiana doktryny bezpieczeństwa po wybuchu pełnoskalowej wojny w Ukrainie w 2022 roku wymusiła gwałtowny wzrost budżetów obronnych państw NATO, windując wyceny spółek zbrojeniowych na historyczne maksima . O planach upublicznienia polskiego lidera technologicznego agencja Bloomberg donosiła już pod koniec 2025 roku, wskazując na bezprecedensowy głód inwestorów na aktywa powiązane z bezpieczeństwem. Teraz rynek jest nieco mniej rozgrzany, o czym świadczy głęboka korekta branżowych liderów w Europie . Kurs niemieckiego Rheinmetallu stracił w tym roku już 40%."
+      ]
+    },
+    {
+      "id": "rynki-2-006be1",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Tesla / SpaceX (Motoryzacja & Tech) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+      "original_title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "13:32",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108452061-1792768916673-gettyimages-2301101447-TRUMP_WH_DEPART.jpeg?v=1792768946&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "These are the stocks posting the largest moves in the premarket.",
+        "Obszar tematyczny: Motoryzacja & Tech (Tesla / SpaceX).",
+        "Wydarzenie sklasyfikowano w sektorze: Motoryzacja & Tech (wpływ: LOW)."
+      ],
+      "extended_paragraphs": [
+        "These are the stocks posting the largest moves in the premarket.",
+        "Kontekst sektorowy (Motoryzacja & Tech — Tesla / SpaceX): Informacja o charakterze równoważnym lub sprawozdawczym."
+      ]
+    },
+    {
+      "id": "rynki-4-881733",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących USA & Bezpieczeństwo (Geopolityka) (kluczowe liczby: 4.898%, 5.293%, 4.573%) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "4.898%",
+        "5.293%",
+        "4.573%"
+      ],
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "original_title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "17:11",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108353328-1787582498969-gettyimages-2291320542-AFP_C6DP8QL.jpeg?v=1787582612&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S.",
+        "The 10-year Treasury yield fell on Wednesday as investors weighed big wins from Democrats in the U.S.",
+        "midterm elections and oil prices pulled back."
+      ],
+      "extended_paragraphs": [
+        "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+        "The 10-year Treasury yield fell on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections and oil prices pulled back.",
+        "The benchmark 10-year Treasury note yield was down more than 5 basis points at 4.898%. The 30-year bond yield declined more than 3 basis points to 5.293%, and the shorter-term 2-year note yield dropped more than 4 basis points to 4.573%.",
+        "One basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another.",
+        "Democrats obtained majorities in both the House and Senate . Democrats flipped Senate seats from Republicans in Iowa, Kansas, North Carolina, Ohio, South Carolina, Maine and Texas. They also won key gubernatorial races in Ohio and Texas."
+      ]
+    },
+    {
+      "id": "rynki-6-5ac629",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Apple (NASDAQ: AAPL) (Big Tech) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+      "original_title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "12:47",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108475772-1793209010296-gettyimages-2290111587-vcg111659500582.jpeg?v=1793209028&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "These are the stocks posting the largest moves premarket.",
+        "Obszar tematyczny: Big Tech (Apple (NASDAQ: AAPL)).",
+        "Wydarzenie sklasyfikowano w sektorze: Big Tech (wpływ: LOW)."
+      ],
+      "extended_paragraphs": [
+        "These are the stocks posting the largest moves premarket.",
+        "Kontekst sektorowy (Big Tech — Apple (NASDAQ: AAPL)): Informacja o charakterze równoważnym lub sprawozdawczym."
+      ]
+    },
+    {
+      "id": "rynki-8-24293c",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 51%) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "51%"
+      ],
+      "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+      "original_title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:06",
+      "source": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108181887-1754417264707-gettyimages-2216930929-img_3096.jpeg?v=1754417303&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Finance",
+      "lead_story": false,
+      "summary_points": [
+        "Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+        "Beauty on Wednesday blew past Wall Street expectations as it posted a 51% increase in net sales in its second fiscal quarter.",
+        "The beauty company said it saw its 31st consecutive quarter of net sales growth, attributing the streak to strong performance across its portfolio."
+      ],
+      "extended_paragraphs": [
+        "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+        "E.l.f. Beauty on Wednesday blew past Wall Street expectations as it posted a 51% increase in net sales in its second fiscal quarter.",
+        "The beauty company said it saw its 31st consecutive quarter of net sales growth, attributing the streak to strong performance across its portfolio. The revenue spike was driven by both retail and e-commerce channels across the U.S. and internationally, the company added.",
+        "\"The thing I'm most pleased about is we saw strength across our entire portfolio,\" CEO Tarang Amin told CNBC in an interview. \"Every one of our brands contributed strong growth this quarter.\"",
+        "Amin added that E.l.f. is the most-searched brand on TikTok Shop and the No. 2 brand in cosmetics on the platform. The company also said it saw strong results for Rhode, the skincare brand it acquired last year."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+  <rect width="1500" height="500" fill="#0B0D12"/>
+
+  <!-- Siatka analityczna po prawej stronie -->
+  <g opacity="0.16">
+    <line x1="850" y1="80" x2="1420" y2="80" stroke="#ffffff" stroke-width="1"/>
+    <line x1="850" y1="170" x2="1420" y2="170" stroke="#ffffff" stroke-width="1" stroke-dasharray="6 6"/>
+    <line x1="850" y1="260" x2="1420" y2="260" stroke="#ffffff" stroke-width="1" stroke-dasharray="6 6"/>
+    <line x1="850" y1="350" x2="1420" y2="350" stroke="#ffffff" stroke-width="1" stroke-dasharray="6 6"/>
+    <line x1="850" y1="420" x2="1420" y2="420" stroke="#ffffff" stroke-width="1.5"/>
+  </g>
+
+  <!-- Duża bursztynowa krzywa wzrostu po prawej -->
+  <path d="M 880 400 C 1060 392, 1210 300, 1380 105" fill="none" stroke="#E8A33D" stroke-opacity="0.18" stroke-width="32" stroke-linecap="round"/>
+  <path d="M 880 400 C 1060 392, 1210 300, 1380 105" fill="none" stroke="#E8A33D" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="1380" cy="105" r="13" fill="#34D399"/>
+
+  <!-- Pigułki notowań na wykresie -->
+  <g transform="translate(940, 105)">
+    <rect width="220" height="46" rx="23" fill="#141822" stroke="#E8A33D" stroke-opacity="0.35" stroke-width="1.5"/>
+    <text x="24" y="29" font-family="Courier New, monospace" font-size="18" font-weight="700" fill="#EDEDE9">WIG20</text>
+    <text x="118" y="29" font-family="Courier New, monospace" font-size="18" font-weight="700" fill="#34D399">+1.42%</text>
+  </g>
+  <g transform="translate(1145, 295)">
+    <rect width="230" height="46" rx="23" fill="#141822" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1.5"/>
+    <text x="24" y="29" font-family="Courier New, monospace" font-size="18" font-weight="700" fill="#8B92A1">USD/PLN</text>
+    <text x="126" y="29" font-family="Courier New, monospace" font-size="18" font-weight="700" fill="#E8A33D">3.9526</text>
+  </g>
+
+  <!-- Lewa kolumna: Logo + Hasło przewodnie -->
+  <g transform="translate(96, 105)">
+    <rect width="88" height="88" rx="22" fill="#141822" stroke="#E8A33D" stroke-opacity="0.50" stroke-width="2.5"/>
+    <path d="M 18 65 C 38 63, 52 48, 68 20" fill="none" stroke="#E8A33D" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="68" cy="20" r="6" fill="#34D399"/>
+    <text x="112" y="62" font-family="Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="700" fill="#EDEDE9">compound</text>
+    <text x="432" y="62" font-family="Courier New, monospace" font-size="44" font-weight="700" fill="#E8A33D">.pl</text>
+  </g>
+
+  <text x="96" y="268" font-family="Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="600" fill="#EDEDE9">Rynki, gospodarka i świat — bez szumu i clickbaitu.</text>
+  <text x="96" y="318" font-family="Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="400" fill="#8B92A1">Twarde dane NBP i GPW · Synteza faktograficzna · Wolnorynkowe spojrzenie</text>
+
+  <!-- Pigułki działów na dole -->
+  <g transform="translate(96, 365)">
+    <rect x="0" y="0" width="145" height="40" rx="20" fill="#141822" stroke="#E8A33D" stroke-opacity="0.45"/>
+    <text x="72" y="25" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#E8A33D">RYNKI &amp; GPW</text>
+
+    <rect x="160" y="0" width="165" height="40" rx="20" fill="#141822" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="242" y="25" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDEDE9">TABELE KURSÓW</text>
+
+    <rect x="340" y="0" width="155" height="40" rx="20" fill="#141822" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="417" y="25" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDEDE9">MAKRO &amp; TECH</text>
+
+    <rect x="510" y="0" width="165" height="40" rx="20" fill="#141822" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="592" y="25" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDEDE9">ŚWIAT &amp; SPORT</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+*.local
+
+# System files (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Logs & temporary files
+*.log
+*.tmp
+
+# Local admin state runtime (opcjonalne, ale zawiera historię sesji / hasło admina)
+admin_state.json
+
+# IDE & Editor folders
+.vscode/
+.idea/

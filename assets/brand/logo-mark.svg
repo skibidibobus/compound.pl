@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="116" fill="#0E121A"/>
+  <rect x="10" y="10" width="492" height="492" rx="106" fill="none" stroke="#E8A33D" stroke-opacity="0.30" stroke-width="4"/>
+  <!-- Siatka analityczna w tle -->
+  <line x1="96" y1="384" x2="416" y2="384" stroke="#ffffff" stroke-opacity="0.07" stroke-width="3"/>
+  <line x1="96" y1="288" x2="416" y2="288" stroke="#ffffff" stroke-opacity="0.06" stroke-width="3" stroke-dasharray="10 10"/>
+  <line x1="96" y1="192" x2="416" y2="192" stroke="#ffffff" stroke-opacity="0.06" stroke-width="3" stroke-dasharray="10 10"/>
+  <!-- Poświata pod krzywą -->
+  <path d="M 108 376 C 220 368, 296 290, 396 124" fill="none" stroke="#E8A33D" stroke-opacity="0.20" stroke-width="64" stroke-linecap="round"/>
+  <!-- Krzywa wykładnicza (Procent Składany) -->
+  <path d="M 108 376 C 220 368, 296 290, 396 124" fill="none" stroke="#E8A33D" stroke-width="38" stroke-linecap="round"/>
+  <!-- Punkt szczytowy (kropka wzrostu) -->
+  <circle cx="396" cy="124" r="24" fill="#34D399"/>
+</svg>

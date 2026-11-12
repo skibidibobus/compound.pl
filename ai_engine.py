@@ -138,12 +138,31 @@ def is_apolitical_or_market_relevant(title, text):
 
 
 def detect_entity_and_sector(title, text, category="rynki"):
-    """Rozpoznaje podmiot i sektor wyłącznie na podstawie rzeczywistej treści depeszy."""
-    combined = f"{title} {text}".lower()
-    for keywords, entity_tag, sector in ENTITY_LEXICON:
-        for kw in keywords:
-            if kw in combined:
-                return entity_tag, sector
+    """Rozpoznaje podmiot i sektor wyłącznie na podstawie rzeczywistej treści depeszy (najpierw tytuł, z granicami słów)."""
+    title_low = (title or "").lower()
+    text_low = (text or "").lower()
+
+    def _matches(kw, haystack):
+        # Krótkie słowa kluczowe i skrótowce wymagają dokładnych granic słów (\b),
+        # aby np. "fed" nie pasowało do "offered", a "enea" do "athenean".
+        if len(kw) <= 5 or kw.isalpha():
+            return bool(re.search(rf"(?<!\w){re.escape(kw)}(?!\w)", haystack))
+        return kw in haystack
+
+    # W dziale sport nie tagujemy drużyn nazwami spółek GPW (np. Orlen, Enea, Tauron jako sponsorzy)
+    if category != "sport":
+        for haystack in (title_low, text_low):
+            for keywords, entity_tag, sector in ENTITY_LEXICON:
+                for kw in keywords:
+                    if _matches(kw, haystack):
+                        return entity_tag, sector
+    else:
+        for haystack in (title_low, text_low):
+            for keywords, entity_tag, sector in ENTITY_LEXICON:
+                if "Sport" in sector or "Piłka" in entity_tag or "Formuła" in entity_tag:
+                    for kw in keywords:
+                        if _matches(kw, haystack):
+                            return entity_tag, sector
 
     # Domyślne, prawdziwe etykiety kategorii (nigdy nie przypisujemy fałszywego tickera!)
     defaults = {

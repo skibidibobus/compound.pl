@@ -1822,7 +1822,7 @@
 
       if (assetFilter && ASSET_FILTER_KEYWORDS[assetFilter]) {
         const kws = ASSET_FILTER_KEYWORDS[assetFilter];
-        items = getAllArticles().filter(i => {
+        items = items.filter(i => {
           const blob = JSON.stringify(i).toLowerCase();
           return kws.some(kw => blob.includes(kw));
         });

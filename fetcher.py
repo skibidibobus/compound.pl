@@ -501,7 +501,7 @@ def fetch_rss_feed(source_name, feed_url, max_items=5, lang="PL", category_key="
     return items
 
 
-def fetch_and_process_category(category_key, feeds_spec, existing_items=None, admin_cfg=None):
+def fetch_and_process_category(category_key, feeds_spec, existing_items=None, admin_cfg=None, global_seen_hashes=None):
     """Pobiera depesze z kanałów polskich i zagranicznych, tłumaczy EN->PL, deduplikuje i przetwarza przez AI."""
     admin_cfg = admin_cfg or {}
     disabled_feeds = set(admin_cfg.get("disabled_feeds", []))
@@ -539,8 +539,8 @@ def fetch_and_process_category(category_key, feeds_spec, existing_items=None, ad
         if i < len(raw_foreign):
             interleaved.append(raw_foreign[i])
 
-    # Deduplikacja po znormalizowanym tytule + filtr apolityczności/merytoryczności
-    seen_hashes = set()
+    # Deduplikacja globalna (między działami) + po znormalizowanym tytule + filtr merytoryczności
+    seen_hashes = global_seen_hashes if global_seen_hashes is not None else set()
     unique_items = []
     for it in interleaved:
         if not is_apolitical_or_market_relevant(it["title"], it["desc"]):
@@ -554,8 +554,8 @@ def fetch_and_process_category(category_key, feeds_spec, existing_items=None, ad
             seen_hashes.add(h)
             it["hash"] = h
             unique_items.append(it)
-
-    unique_items = unique_items[:max_per_cat]
+        if len(unique_items) >= max_per_cat:
+            break
     if not unique_items and existing_items:
         return existing_items
 
@@ -684,6 +684,7 @@ def update_all_data():
 
     # 2. Przetwarzanie 5 działów tematycznych (Polska + Świat tłumaczony na PL)
     categories_data = {}
+    global_seen_hashes = set()
     pl_total = 0
     foreign_total = 0
     for cat_key, feeds_spec in CATEGORY_FEEDS.items():
@@ -693,6 +694,7 @@ def update_all_data():
             feeds_spec,
             existing_items=current_data.get(cat_key),
             admin_cfg=admin_cfg,
+            global_seen_hashes=global_seen_hashes,
         )
         categories_data[cat_key] = cat_items
         for item in cat_items:

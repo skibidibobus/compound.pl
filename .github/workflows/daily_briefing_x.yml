@@ -1,0 +1,34 @@
+name: Dzienny briefing rynkowy na X (compound.pl)
+
+on:
+  schedule:
+    # Codziennie o 07:00 UTC (08:00 czasu polskiego zimą / 09:00 latem)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  publish-x-briefing:
+    runs-on: ubuntu-latest
+    # Uruchamia publikację tylko wtedy, gdy klucze X API zostały dodane w Secrets repozytorium
+    if: ${{ secrets.X_API_KEY != '' && secrets.X_ACCESS_TOKEN != '' }}
+    steps:
+      - name: Pobranie repozytorium
+        uses: actions/checkout@v4
+
+      - name: Konfiguracja środowiska Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Odświeżenie danych przed publikacją
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 fetcher.py
+
+      - name: Publikacja briefingu na platformie X
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: python3 scripts/post_briefing_x.py

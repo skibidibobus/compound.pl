@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>compound.pl — Rynki, Gospodarka, Technologia, Świat i Kursy</title>
-  <link rel="icon" href="/assets/brand/logo-mark.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/brand/logo-mark.svg" type="image/svg+xml">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -90,7 +90,7 @@
   <header class="max-w-6xl mx-auto w-full px-5 pt-9 pb-6">
     <div class="flex items-center justify-between gap-4">
       <!-- Logo compound.pl -->
-      <a href="/" class="flex items-center gap-3 group">
+      <a href="./" class="flex items-center gap-3 group">
         <span class="w-10 h-10 rounded-xl bg-accent flex items-center justify-center shadow-[0_8px_24px_-8px_rgba(232,163,61,0.5)]">
           <svg viewBox="0 0 32 32" class="w-6 h-6"><path d="M6 24 C14 23 19 18 26 7" stroke="#0B0D12" stroke-width="3.2" fill="none" stroke-linecap="round"/></svg>
         </span>
@@ -1860,7 +1860,7 @@
     // ---- Ładowanie i inteligentne odświeżanie danych ----
     async function loadData() {
       try {
-        const r = await fetch('/data.json?t=' + Date.now());
+        const r = await fetch('data.json?t=' + Date.now());
         appData = await r.json();
         renderAll();
       } catch (e) {

@@ -145,7 +145,7 @@
         <div class="flex flex-wrap items-center gap-2.5">
           <button id="force-refresh-btn" onclick="forcePipelineRefresh()"
             class="h-9 px-4 rounded-full bg-accent text-black text-xs font-semibold hover:brightness-110 flex items-center gap-2 transition">
-            <span id="force-refresh-icon">⚡</span>
+            <span id="force-refresh-icon" class="w-1.5 h-1.5 rounded-full bg-black"></span>
             <span>Wymuś pełne odświeżenie & tłumaczenie</span>
           </button>
           <a href="/" target="_blank"
@@ -164,23 +164,23 @@
       <div class="max-w-7xl mx-auto px-5 pb-3 flex items-center gap-1.5 overflow-x-auto">
         <button onclick="switchAdminTab('dashboard')" id="atab-dashboard"
           class="h-8 px-4 rounded-full text-xs font-medium bg-white/10 text-ink transition shrink-0">
-          📊 Statystyki & Ruch
+          Statystyki & Ruch
         </button>
         <button onclick="switchAdminTab('api_limits')" id="atab-api_limits"
           class="h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0">
-          🔌 Limity API & Źródła RSS (PL / EN→PL)
+          Limity API & Źródła RSS (PL / EN→PL)
         </button>
         <button onclick="switchAdminTab('cms')" id="atab-cms"
           class="h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0">
-          📰 Redakcja CMS & Pasek Pilne
+          Redakcja CMS & Pasek Pilne
         </button>
         <button onclick="switchAdminTab('settings')" id="atab-settings"
           class="h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0">
-          ⚙️ Konfiguracja AI & Filtry
+          Konfiguracja AI & Filtry
         </button>
         <button onclick="switchAdminTab('security')" id="atab-security"
           class="h-8 px-4 rounded-full text-xs text-muted hover:text-ink transition shrink-0">
-          🔒 Bezpieczeństwo & Logi
+          Bezpieczeństwo & Logi
         </button>
       </div>
     </header>
@@ -312,8 +312,8 @@
                 <option value="sport">Dział: Sport</option>
               </select>
               <select id="nf-lang" class="input-field h-10 px-3 text-xs">
-                <option value="EN">🌐 Zagraniczny (Auto-Tłumacz EN→PL)</option>
-                <option value="PL">🇵🇱 Polski (PL)</option>
+                <option value="EN">Zagraniczny (Auto-Tłumacz EN→PL)</option>
+                <option value="PL">Polski (PL)</option>
               </select>
               <button type="submit" class="h-10 px-4 rounded-xl bg-accent text-black font-semibold text-xs hover:brightness-110 transition">
                 + Dodaj źródło
@@ -363,7 +363,7 @@
               <input id="ca-entity" type="text" placeholder="Podmiot / Tag (np. GPW / PKO BP)" class="input-field h-10 px-3 text-xs">
               <input id="ca-sector" type="text" placeholder="Sektor (np. Bankowość)" class="input-field h-10 px-3 text-xs">
               <select id="ca-impact" class="input-field h-10 px-3 text-xs">
-                <option value="HIGH">Wpływ: ⚡ HIGH (Kluczowe)</option>
+                <option value="HIGH">Wpływ: HIGH (Kluczowe)</option>
                 <option value="MEDIUM">Wpływ: MEDIUM</option>
                 <option value="LOW">Wpływ: LOW</option>
               </select>
@@ -823,7 +823,7 @@
           <td class="py-3 px-4">
             ${f.lang === 'PL'
               ? `<span class="px-2.5 py-0.5 rounded-full bg-white/[0.06] text-ink text-[11px]">🇵🇱 Polska (PL)</span>`
-              : `<span class="px-2.5 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">🌐 Zagranica (${esc(f.lang)} → PL)</span>`}
+              : `<span class="px-2.5 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">Zagranica (${esc(f.lang)} → PL)</span>`}
           </td>
           <td class="py-3 px-4 uppercase font-mono text-muted">${esc(f.category)}</td>
           <td class="py-3 px-4 text-right font-mono text-ink">${f.items_count || 0} / ${f.limit}</td>
@@ -955,7 +955,7 @@
           <div class="space-y-1 min-w-0">
             <div class="flex flex-wrap items-center gap-2 text-[11px]">
               ${a.lead_story ? `<span class="px-2 py-0.5 rounded bg-accent text-black font-bold">★ LEAD STORY</span>` : ''}
-              ${a.is_foreign ? `<span class="px-2 py-0.5 rounded bg-sky/15 text-sky">🌐 Tłumaczenie PL (${esc(a.source)})</span>` : `<span class="px-2 py-0.5 rounded bg-white/10 text-muted">🇵🇱 ${esc(a.source)}</span>`}
+              ${a.is_foreign ? `<span class="px-2 py-0.5 rounded bg-sky/15 text-sky">Tłumaczenie PL (${esc(a.source)})</span>` : `<span class="px-2 py-0.5 rounded bg-white/10 text-muted">PL · ${esc(a.source)}</span>`}
               <span class="text-accent font-medium">${esc(a.entity_tag)}</span>
               <span class="text-faint font-mono">${esc(a.time)} · Wpływ: ${esc(a.market_impact)}</span>
             </div>

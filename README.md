@@ -1,81 +1,124 @@
-# compound.pl — Financial & Market Intelligence Platform
+<p align="center">
+  <img src="assets/brand/logo-horizontal-1920.png" alt="compound.pl" width="380">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![AI-Powered](https://img.shields.io/badge/AI-Google_Gemini-orange?style=for-the-badge&logo=google&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+<h1 align="center">compound.pl</h1>
 
-Nowoczesny, instytucjonalny portal informacyjno-analityczny nowej generacji dla inwestorów, przedsiębiorców i analityków rynków finansowych. Zero clickbaitu, zaawansowana synteza faktograficzna AI (*Zero-Hallucination*), twarde dane z NBP, GPW, Wall Street i surowców oraz wbudowane narzędzia analityczne i kalkulatory inwestora.
+<p align="center">
+  Portal informacyjno-analityczny dla inwestorów i przedsiębiorców łączący strumienie danych rynkowych z syntezą AI oraz analizą fundamentalną spółek.
+</p>
 
----
-
-## 🌟 Kluczowe Funkcjonalności (Features)
-
-- **📈 Wielokanałowy Silnik Danych Rynkowych (Market Stream)**:
-  - Automatyczny pobór oficjalnych tabel walut A i złota z NBP wraz z rzeczywistą zmianą sesja do sesji.
-  - Notowania GPW (WIG20, PKO BP, XTB, Dino, Kruk, Grupa Kęty, Budimex, CD Projekt, PZU, Orlen, KGHM), rynków USA (S&P 500, NVIDIA, Microsoft), surowców (Ropa Brent, Złoto) i krypto (BTC, ETH).
-- **📊 Dział Analiz Długoterminowych („Na Longa”)**:
-  - Szczegółowe, obiektywne analizy fundamentalne 360° dla 12 liderów rynkowych (fosa ekonomiczna, wskaźniki ROE, P/E, stopa dywidendy, katalizatory rynkowe oraz realne czynniki ryzyka — w 100% zgodne z KNF/MAR).
-  - 3 modelowe koszyki alokacji kapitału na horyzont 5–10 lat.
-- **🤖 Instytucjonalny Silnik AI (Gemini Flash & Natural Translator)**:
-  - Automatyczne streszczenia depesz, wyciąganie twardych wskaźników finansowych (EBITDA, r/r, marże), tagowanie wpływu rynkowego (*High / Medium / Low*) oraz ocena sentymentu.
-  - Tłumaczenie zagranicznych źródeł (CNBC, BBC, TechCrunch, Ars Technica) na naturalny język polski.
-- **⚡ Briefing 60s & Smart Auto-Refresh**:
-  - Błyskawiczna pigułka 5 najważniejszych wydarzeń dnia z generatorem gotowych postów na platformy X, Telegram i LinkedIn.
-  - Inteligentne odświeżanie danych co 10 minut działające wyłącznie wtedy, gdy użytkownik jest aktywny na karcie (ochrona limitów API).
-- **🔒 Zabezpieczony Panel Administratora (`/admin`)**:
-  - Logowanie z hashowaniem PBKDF2-HMAC-SHA256 (120k iteracji + sól kryptograficzna).
-  - Monitorowanie limitów i zużycia API, telemetria zdrowia kanałów RSS, CMS do zarządzania komunikatami PILNE (Breaking News) oraz logi audytowe.
-- **🧮 Narzędzia Inwestora**:
-  - Kalkulator walutowy NBP na żywo.
-  - Symulator procentu składanego (Compound) z porównaniem konta zwykłego (podatek Belki 19%) vs IKE/IKZE (0% podatku).
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.9+">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Google_Gemini-API-1A1F2C?style=flat-square&logo=google&logoColor=white" alt="Google Gemini API">
+  <img src="https://img.shields.io/badge/Licencja-MIT-1E293B?style=flat-square" alt="Licencja MIT">
+</p>
 
 ---
 
-## 🚀 Szybkie Uruchomienie Lokalne
+## O projekcie
 
-### Wymagania
-- Python 3.9+
-- Przeglądarka internetowa
+**compound.pl** to aplikacja webowa agregująca notowania rynkowe, depesze gospodarcze oraz opracowania fundamentalne w jednym interfejsie typu terminalowego. System pobiera dane z oficjalnych źródeł (NBP, GPW, rynki amerykańskie, surowce, kryptowaluty), tłumaczy wybrane publikacje zagraniczne na język polski i przetwarza je przez moduł analityczny oparty na modelu Google Gemini (z deterministycznym silnikiem zapasowym).
 
-### Krok po kroku:
-```bash
-# 1. Klonowanie repozytorium
-git clone https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/compound.pl.git
-cd compound.pl
-
-# 2. (Opcjonalnie) Konfiguracja klucza Gemini AI
-cp .env.example .env
-# Wpisz swój klucz GEMINI_API_KEY w pliku .env (w przypadku braku klucza działa wbudowany silnik regułowy)
-
-# 3. Uruchomienie aplikacji
-python3 run.py
-```
-
-Aplikacja automatycznie wystartuje pod adresem **http://localhost:8000**, a panel administracyjny pod **http://localhost:8000/admin**.
+Projekt został zaprojektowany z naciskiem na rzetelność danych (ekstrakcja wskaźników wyłącznie z treści źródłowej), bezpieczeństwo warstwy serwerowej oraz zgodność z regulacjami rynku kapitałowego (KNF i Rozporządzenie MAR).
 
 ---
 
-## 🏗️ Architektura i Struktura Projektu
+## Główne moduły
+
+### 1. Agregacja danych rynkowych (`fetcher.py`)
+- Równoległy pobór oficjalnych tabel kursów średnich walut (Tabela A) oraz ceny złota z API Narodowego Banku Polskiego wraz z wyliczeniem realnej zmiany procentowej między sesjami.
+- Notowania indeksów i spółek z GPW (m.in. WIG20, PKO BP, XTB, Dino, Kruk, Grupa Kęty, Budimex, CD Projekt, PZU, Orlen, KGHM), rynku amerykańskiego (S&P 500, NVIDIA, Microsoft), surowców (Ropa Brent) i kryptowalut (BTC, ETH).
+- Wielokanałowy agregator kanałów RSS podzielony na pięć działów tematycznych (`Rynki & GPW`, `Makro & Biznes`, `Tech & AI`, `Świat`, `Sport`) z automatyczną deduplikacją i tłumaczeniem prasy zagranicznej (CNBC, BBC, TechCrunch, Ars Technica) na język polski.
+
+### 2. Moduł analityczny AI (`ai_engine.py`)
+- Przetwarzanie depesz z wykorzystaniem API Google Gemini oraz lokalnego silnika regułowego w przypadku braku klucza API.
+- Ekstrakcja twardych wskaźników liczbowych z tekstu bez generowania danych spoza źródła.
+- Klasyfikacja wpływu rynkowego (`HIGH`, `MEDIUM`, `LOW`), ocena wydźwięku oraz generowanie zwięzłego podsumowania i kontekstu dla inwestora.
+
+### 3. Analizy długoterminowe (`long_term_analyses.py`)
+- Dział `Analizy Long-Term` prezentujący obiektywne opracowania modeli biznesowych 12 wybranych spółek z GPW i Wall Street w horyzoncie wieloletnim.
+- Zestawienie wskaźników fundamentalnych, filarów przewagi konkurencyjnej, bieżących katalizatorów oraz czynników ryzyka.
+- Trzy przykładowe modele alokacji kapitału w celach edukacyjnych i porównawczych.
+
+### 4. Narzędzia i interfejs użytkownika (`index.html`)
+- Wbudowany czytnik artykułów pozwalający zapoznać się z pełnym opracowaniem bez opuszczania strony.
+- Moduł `Briefing 60s` zestawiający kluczowe wydarzenia dnia z możliwością skopiowania gotowego podsumowania.
+- Kalkulator walutowy oparty na bieżących kursach NBP oraz kalkulator procentu składanego porównujący zwykły rachunek maklerski (19% podatku od zysków kapitałowych) z kontem IKE.
+- Automatyczne odświeżanie danych aktywne wyłącznie podczas obecności użytkownika na karcie przeglądarki.
+
+### 5. Panel administratora i bezpieczeństwo (`admin.html`, `admin_manager.py`, `server.py`)
+- Uwierzytelnianie oparte na skrócie `PBKDF2-HMAC-SHA256` (120 000 iteracji z indywidualną solą kryptograficzną) oraz 256-bitowych tokenach sesyjnych.
+- Ochrona przed atakami brute-force (czasowa blokada po 5 nieudanych próbach logowania).
+- Blokada dostępu HTTP (`403 Forbidden`) do plików źródłowych Pythona, plików konfiguracyjnych, `.env`, `.git` oraz wewnętrznego pliku stanu `admin_state.json`.
+- Nagłówki bezpieczeństwa HTTP (`X-Content-Type-Options`, `X-Frame-Options`, `Referrer-Policy`).
+- Podgląd limitów zapytań API, stanu kanałów RSS, statystyk ruchu, logów audytowych oraz zarządzanie komunikatem redakcyjnym.
+
+---
+
+## Struktura repozytorium
 
 ```text
 compound.pl/
-├── index.html               # Główny interfejs (Terminal finansowy, siatka newsów, modal czytnika, analizy)
-├── admin.html               # Dashboard panelu administratora (metryki, limity API, CMS)
-├── data.json                # Snapshot danych rynkowych, kursów i przeanalizowanych depesz
-├── server.py                # Asynchroniczny serwer HTTP i REST API (/api/refresh, /api/status, /api/auth)
-├── fetcher.py               # Wielowątkowy agregator NBP, Yahoo Finance, CoinGecko i RSS
-├── ai_engine.py             # Silnik analityczny AI (Gemini API + regułowy Zero-Hallucination)
-├── long_term_analyses.py    # Moduł analiz fundamentalnych spółek i modelowych portfeli
-├── admin_manager.py         # Moduł bezpieczeństwa PBKDF2, telemetryki i zarządzania stanem
-├── run.py                   # Skrypt startowy uruchamiający serwer i przeglądarkę
-├── requirements.txt         # Zależności biblioteczne
-├── .github/workflows/       # Automatyzacja GitHub Actions (odświeżanie danych w chmurze)
-└── assets/brand/            # Kompletny pakiet wektorowej i rastrowej identyfikacji wizualnej
+├── index.html                  # Główny interfejs aplikacji webowej
+├── admin.html                  # Panel administratora (metryki, limity API, konfiguracja)
+├── server.py                   # Serwer HTTP i warstwa REST API
+├── fetcher.py                  # Agregator danych rynkowych i kanałów RSS
+├── ai_engine.py                # Moduł analizy tekstu (Google Gemini API i silnik zapasowy)
+├── long_term_analyses.py       # Baza analiz fundamentalnych i modeli alokacji
+├── admin_manager.py            # Zarządzanie sesjami, bezpieczeństwem, telemetrią i konfiguracją
+├── run.py                      # Skrypt uruchamiający aplikację lokalnie
+├── data.json                   # Bieżąca migawka danych rynkowych i depesz
+├── requirements.txt            # Lista zależności języka Python
+├── .env.example                # Szablon zmiennych środowiskowych
+├── .github/workflows/          # Harmonogram automatycznej aktualizacji danych (GitHub Actions)
+├── assets/brand/               # Zestaw materiałów graficznych i logotypów (SVG oraz PNG)
+└── scripts/                    # Skrypty pomocnicze do generowania zasobów graficznych
 ```
 
 ---
 
-## ⚖️ Nota Prawna & Compliance (KNF / MAR)
+## Uruchomienie lokalne
 
-Treści publikowane w projekcie mają charakter wyłącznie informacyjny, badawczy i edukacyjny. Nie stanowią porad inwestycyjnych ani rekomendacji w rozumieniu Rozporządzenia MAR (UE nr 596/2014) oraz Art. 76 Ustawy o obrocie instrumentami finansowymi.
+### Wymagania
+- Python 3.9 lub nowszy
+
+### Instalacja i start
+
+```bash
+# 1. Pobranie repozytorium
+git clone https://github.com/skibidibobus/compound.pl.git
+cd compound.pl
+
+# 2. Instalacja zależności (opcjonalnie, dla pełnej obsługi skryptów pomocniczych)
+pip install -r requirements.txt
+
+# 3. Konfiguracja zmiennych środowiskowych (opcjonalnie)
+cp .env.example .env
+# W pliku .env można podać własny klucz GEMINI_API_KEY.
+# Bez klucza aplikacja korzysta z wbudowanego lokalnego silnika analitycznego.
+
+# 4. Uruchomienie serwera
+python3 run.py
+```
+
+Po uruchomieniu aplikacja jest dostępna pod adresem `http://localhost:8000`, a panel administratora pod adresem `http://localhost:8000/admin`.
+
+---
+
+## Automatyzacja aktualizacji danych
+
+Repozytorium zawiera konfigurację GitHub Actions w pliku `.github/workflows/update_data.yml`, która cyklicznie uruchamia `fetcher.py` i zapisuje zaktualizowany plik `data.json`. Aby aktywować analizę z użyciem modelu Gemini w ramach GitHub Actions, należy dodać sekret `GEMINI_API_KEY` w ustawieniach repozytorium (`Settings -> Secrets and variables -> Actions`).
+
+---
+
+## Nota prawna (KNF / MAR)
+
+Treści prezentowane w serwisie mają charakter wyłącznie informacyjny, analityczny i edukacyjny. Nie stanowią doradztwa inwestycyjnego w rozumieniu Art. 76 Ustawy o obrocie instrumentami finansowymi ani rekomendacji inwestycyjnych w rozumieniu Rozporządzenia MAR (UE nr 596/2014).
+
+---
+
+## Licencja
+
+Projekt jest udostępniany na licencji MIT. Szczegóły znajdują się w pliku [LICENSE](LICENSE).

@@ -1,10 +1,10 @@
-name: compound.pl — Auto-Update Market & News Stream
+name: Aktualizacja danych rynkowych compound.pl
 
 on:
   schedule:
-    # Uruchamianie automatyczne co 30 minut przez całą dobę (0 zł w ramach GitHub Actions)
+    # Harmonogram cyklicznej aktualizacji co 30 minut
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Możliwość ręcznego wywołania jednym kliknięciem w zakładce Actions
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,22 +13,22 @@ jobs:
   update-stream:
     runs-on: ubuntu-latest
     steps:
-      - name: Pobierz repozytorium
+      - name: Pobranie repozytorium
         uses: actions/checkout@v4
 
-      - name: Skonfiguruj Python 3.11
+      - name: Konfiguracja środowiska Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Aktualizuj strumienie rynkowe i analizę AI (fetcher.py)
+      - name: Aktualizacja notowań i depesz (fetcher.py)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 fetcher.py
 
-      - name: Zapisz zaktualizowany snapshot data.json (Static CDN Trigger)
+      - name: Zapis zaktualizowanej migawki data.json
         run: |
           git config --local user.email "bot@compound.pl"
           git config --local user.name "compound.pl Bot"
           git add data.json
-          git diff --staged --quiet || (git commit -m "chore(stream): auto-update market & news data.json" && git push)
+          git diff --staged --quiet || (git commit -m "chore(data): aktualizacja notowan i depesz" && git push)

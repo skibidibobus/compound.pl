@@ -105,7 +105,7 @@
         <!-- Przycisk: 60-Sekundowy Briefing Dnia (Executive Summary + Generator X/Telegram) -->
         <button onclick="openBriefingModal()" title="Szybki przegląd 5 najważniejszych wydarzeń dnia i kursów w 60 sekund"
           class="h-10 px-4 rounded-full bg-accent/15 border border-accent/40 hover:bg-accent/25 text-xs font-semibold text-accent flex items-center gap-2 transition">
-          <span>⚡</span>
+          <span class="w-1.5 h-1.5 rounded-full bg-accent"></span>
           <span>Briefing 60s</span>
         </button>
 
@@ -161,7 +161,7 @@
       <div id="news-toolbar" class="flex items-center gap-2.5 w-full xl:w-auto">
         <button id="impact-filter-btn" onclick="toggleHighImpact()"
           class="h-10 px-3.5 rounded-full bg-card border border-line text-xs text-muted hover:text-ink flex items-center gap-1.5 shrink-0 transition">
-          <span class="text-accent">⚡</span>
+          <span class="w-1.5 h-1.5 rounded-full bg-accent"></span>
           <span>Kluczowe</span>
         </button>
 
@@ -177,12 +177,12 @@
     <div id="portfolio-filter-bar" class="mt-3.5 flex items-center gap-1.5 overflow-x-auto no-scrollbar text-xs">
       <span class="text-[11px] text-faint mr-1 shrink-0">Filtruj pod swój portfel:</span>
       <button onclick="setAssetFilter('')" id="af-all" class="px-3 py-1 rounded-full bg-white/10 text-ink font-medium shrink-0 transition">Wszystkie</button>
-      <button onclick="setAssetFilter('gpw')" id="af-gpw" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">📈 GPW & Banki</button>
-      <button onclick="setAssetFilter('fx')" id="af-fx" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">💵 Waluty & Stopy</button>
-      <button onclick="setAssetFilter('surowce')" id="af-surowce" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">🪙 Złoto, Ropa & Krypto</button>
-      <button onclick="setAssetFilter('ai')" id="af-ai" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">🤖 AI & Big Tech</button>
+      <button onclick="setAssetFilter('gpw')" id="af-gpw" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">GPW & Banki</button>
+      <button onclick="setAssetFilter('fx')" id="af-fx" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">Waluty & Stopy</button>
+      <button onclick="setAssetFilter('surowce')" id="af-surowce" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">Złoto, Ropa & Krypto</button>
+      <button onclick="setAssetFilter('ai')" id="af-ai" class="px-3 py-1 rounded-full bg-card border border-line text-muted hover:text-ink shrink-0 transition">AI & Big Tech</button>
       <button onclick="switchTab('analizy')" class="ml-auto px-3.5 py-1 rounded-full bg-accent/15 border border-accent/40 text-accent hover:bg-accent/25 font-semibold shrink-0 transition flex items-center gap-1.5">
-        <span>📊 Analizy Spółek (Na Longa) →</span>
+        <span>Analizy Spółek (Na Longa) →</span>
       </button>
     </div>
   </header>
@@ -236,9 +236,9 @@
           <!-- Filtry grup spółek -->
           <div class="flex flex-wrap items-center gap-1.5">
             <button onclick="setAnalysisGroup('all')" id="agrp-all" class="px-3.5 py-1.5 rounded-full text-xs font-semibold bg-accent text-black transition">Wszystkie (12)</button>
-            <button onclick="setAnalysisGroup('gpw_growth')" id="agrp-gpw_growth" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">🚀 Wzrost & Skalowanie GPW (XTB, Dino, Kruk, CDR)</button>
-            <button onclick="setAnalysisGroup('gpw_dividend')" id="agrp-gpw_dividend" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">💰 Dywidendy & Filar GPW (PKO, PZU, Kęty, Budimex, KGHM, Orlen)</button>
-            <button onclick="setAnalysisGroup('global_moat')" id="agrp-global_moat" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">🌎 Globalne Monopole (NVIDIA, Microsoft)</button>
+            <button onclick="setAnalysisGroup('gpw_growth')" id="agrp-gpw_growth" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">Wzrost & Skalowanie GPW (XTB, Dino, Kruk, CDR)</button>
+            <button onclick="setAnalysisGroup('gpw_dividend')" id="agrp-gpw_dividend" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">Dywidendy & Filar GPW (PKO, PZU, Kęty, Budimex, KGHM, Orlen)</button>
+            <button onclick="setAnalysisGroup('global_moat')" id="agrp-global_moat" class="px-3.5 py-1.5 rounded-full text-xs bg-card border border-line text-muted hover:text-ink transition">Globalne Monopole (NVIDIA, Microsoft)</button>
           </div>
         </div>
 
@@ -507,7 +507,7 @@
         <button onclick="toggleModal(true)" class="hover:text-ink transition">Regulamin & KNF</button>
         <span>·</span>
         <a href="/admin" class="hover:text-accent transition flex items-center gap-1" title="Zabezpieczony Panel Administratora compound.pl">
-          <span>🔒 Panel Admina</span>
+          <span>Panel Admina</span>
         </a>
         <span>·</span>
         <span id="last-updated"></span>
@@ -588,7 +588,7 @@
 
         <!-- Unikalny wyróżnik: Co to oznacza dla Twojego portfela / inwestora? -->
         <div id="am-takeaway-box" class="rounded-2xl bg-accent/[0.08] border border-accent/30 p-4 sm:p-5 flex items-start gap-3">
-          <span class="text-lg shrink-0">💡</span>
+          <span class="text-accent font-mono text-sm shrink-0 mt-0.5">◈</span>
           <div class="text-xs sm:text-sm leading-relaxed">
             <span class="font-semibold text-accent block mb-0.5">Co to oznacza dla Twojego portfela / rynku?</span>
             <span id="am-takeaway" class="text-ink/95"></span>
@@ -634,7 +634,7 @@
     <div class="bg-card border border-line rounded-3xl max-w-2xl w-full max-h-[90vh] flex flex-col shadow-2xl overflow-hidden fade-in my-auto">
       <div class="px-6 py-4 border-b border-line flex items-center justify-between bg-base/60">
         <div class="flex items-center gap-2.5">
-          <span class="px-2.5 py-0.5 rounded-full bg-accent text-black text-[11px] font-bold uppercase tracking-wider">⚡ 60 Sekund</span>
+          <span class="px-2.5 py-0.5 rounded-full bg-accent text-black text-[11px] font-bold uppercase tracking-wider">60 Sekund</span>
           <h2 class="text-base font-semibold text-ink">Poranny & Popołudniowy Briefing Rynkowy</h2>
         </div>
         <button onclick="closeBriefingModal()" class="w-8 h-8 rounded-full hover:bg-white/10 text-muted flex items-center justify-center">✕</button>
@@ -649,7 +649,7 @@
       <div class="px-6 py-4 border-t border-line bg-base/60 flex flex-wrap items-center justify-between gap-3">
         <button onclick="copyDailyBriefing()" id="copy-briefing-btn"
           class="h-9 px-4 rounded-full bg-white/[0.06] hover:bg-white/[0.12] border border-line text-xs text-ink font-medium flex items-center gap-2 transition">
-          <span>📋 Kopiuj gotowy post (na X / LinkedIn / Telegram)</span>
+          <span>Kopiuj gotowy post (na X / LinkedIn / Telegram)</span>
         </button>
         <button onclick="closeBriefingModal()"
           class="h-9 px-5 rounded-full bg-accent text-black text-xs font-semibold hover:brightness-110 transition">
@@ -706,7 +706,7 @@
 
         <!-- Dlaczego dzisiaj / katalizatory rynkowe -->
         <div class="rounded-2xl bg-accent/[0.08] border border-accent/30 p-4 sm:p-5 flex items-start gap-3">
-          <span class="text-lg shrink-0">🎯</span>
+          <span class="text-accent font-mono text-sm shrink-0 mt-0.5">◈</span>
           <div class="text-xs sm:text-sm leading-relaxed">
             <span class="font-semibold text-accent block mb-1">Dlaczego warto analizować tę spółkę właśnie dzisiaj? (Katalizatory)</span>
             <span id="cam-why-now" class="text-ink/95"></span>
@@ -724,7 +724,7 @@
         <!-- Czynniki ryzyka (Obiektywizm i zgodność z KNF / MAR) -->
         <div class="rounded-2xl bg-down/[0.06] border border-down/25 p-4 sm:p-5 space-y-2.5">
           <div class="text-xs font-semibold uppercase tracking-wider text-down flex items-center gap-2">
-            <span>⚠️ Kluczowe czynniki ryzyka i zagrożenia dla modelu biznesowego</span>
+            <span>Kluczowe czynniki ryzyka i zagrożenia dla modelu biznesowego</span>
           </div>
           <ul id="cam-risks" class="space-y-2"></ul>
         </div>
@@ -798,7 +798,7 @@
         subtitle: 'Oficjalne rezultaty, ligi i najważniejsze wydarzenia sportowe.'
       },
       analizy: {
-        label: '📊 Analizy Long-Term',
+        label: 'Analizy Long-Term',
         color: 'text-accent',
         dot: 'bg-accent',
         subtitle: 'Edukacyjne analizy fundamentalne największych spółek (XTB, Dino, Kruk, PKO, NVIDIA i in.) oraz przykładowe koszyki na lata.'
@@ -1195,13 +1195,13 @@
 
               <!-- Dlaczego teraz? -->
               <div class="p-3.5 rounded-2xl bg-accent/[0.07] border border-accent/25 text-xs leading-relaxed">
-                <span class="font-semibold text-accent block mb-0.5">🎯 Dlaczego zwraca uwagę właśnie dzisiaj:</span>
+                <span class="font-semibold text-accent block mb-0.5">Dlaczego zwraca uwagę właśnie dzisiaj:</span>
                 <span class="text-ink/90">${esc(c.why_now)}</span>
               </div>
 
               <!-- Główne czynniki ryzyka (Obiektywizm) -->
               <div class="p-3 rounded-2xl bg-down/[0.05] border border-down/20 text-[11px] text-muted leading-relaxed">
-                <span class="font-semibold text-down">⚠️ Główne ryzyko: </span>
+                <span class="font-semibold text-down">Główne ryzyko: </span>
                 <span>${esc(risks[0] || '')}</span>
               </div>
             </div>
@@ -1585,8 +1585,8 @@
       const ratesLine = ticker.map(t => `${t.symbol}: ${t.price} (${t.change})`).join(' | ');
 
       const lines = [
-        `⚡ BRIEFING RYNKOWY — compound.pl (${new Date().toLocaleDateString('pl-PL')})`,
-        `📊 Notowania: ${ratesLine}`,
+        `BRIEFING RYNKOWY — compound.pl (${new Date().toLocaleDateString('pl-PL')})`,
+        `Notowania: ${ratesLine}`,
         ``,
         ...list.map((a, i) => `${i + 1}. [${a.entity_tag}] ${a.title}`),
         ``,
@@ -1594,9 +1594,9 @@
       ];
       navigator.clipboard.writeText(lines.join('\n')).then(() => {
         const btn = document.getElementById('copy-briefing-btn');
-        btn.innerHTML = '<span>✓ Skopiowano gotowy post do schowka!</span>';
+        btn.innerHTML = '<span>✓ Skopiowano gotowy post do schowka</span>';
         setTimeout(() => {
-          btn.innerHTML = '<span>📋 Kopiuj gotowy post (na X / LinkedIn / Telegram)</span>';
+          btn.innerHTML = '<span>Kopiuj gotowy post (na X / LinkedIn / Telegram)</span>';
         }, 2800);
       });
     }
@@ -1632,8 +1632,8 @@
       badgesEl.innerHTML = `
         <span class="px-2.5 py-1 rounded-full bg-white/[0.06] ${t.color} font-medium">${esc(entity)}</span>
         ${sector ? `<span class="text-muted">· ${esc(sector)}</span>` : ''}
-        ${isForeign ? `<span class="px-2.5 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">🌐 Tłumaczenie PL · ${esc(item.source)}</span>` : ''}
-        ${isHigh ? `<span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[11px] font-medium">⚡ Kluczowe dla rynku</span>` : ''}
+        ${isForeign ? `<span class="px-2.5 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">Tłumaczenie PL · ${esc(item.source)}</span>` : ''}
+        ${isHigh ? `<span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[11px] font-medium">Kluczowe dla rynku</span>` : ''}
         <span class="text-xs ${sentColor} ml-1">● ${sentLabel}</span>
       `;
 
@@ -1775,8 +1775,8 @@
               <div class="flex items-center gap-2 min-w-0">
                 <span class="px-2.5 py-1 rounded-full bg-white/[0.04] ${t.color} font-medium truncate">${esc(entity)}</span>
                 ${sector ? `<span class="text-faint truncate hidden sm:inline">· ${esc(sector)}</span>` : ''}
-                ${isForeign ? `<span title="Artykuł zagraniczny przetłumaczony na język polski (${esc(item.source)})" class="px-2 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">🌐 PL · ${esc(item.source)}</span>` : ''}
-                ${isHigh ? `<span class="px-2 py-0.5 rounded-full bg-accent/15 text-accent text-[11px] font-medium">⚡ Kluczowe</span>` : ''}
+                ${isForeign ? `<span title="Artykuł zagraniczny przetłumaczony na język polski (${esc(item.source)})" class="px-2 py-0.5 rounded-full bg-sky/15 text-sky text-[11px] font-medium">PL · ${esc(item.source)}</span>` : ''}
+                ${isHigh ? `<span class="px-2 py-0.5 rounded-full bg-accent/15 text-accent text-[11px] font-medium">Kluczowe</span>` : ''}
               </div>
               <div class="flex items-center gap-2 shrink-0">
                 <span class="text-faint font-mono">${esc(item.time)}</span>

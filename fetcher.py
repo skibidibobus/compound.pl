@@ -424,10 +424,71 @@ def fetch_article_details(url):
         return {"paragraphs": [], "og_image": ""}
 
 
+def _translate_text_block(joined_text: str) -> str:
+    """Tłumaczy blok tekstu EN -> PL przez clients5, z fallbackiem na gtx i MyMemory."""
+    text = (joined_text or "").strip()[:4500]
+    if not text:
+        return ""
+
+    # 1. Google clients5 POST (odporny na długie teksty i brak 414 URI Too Long)
+    try:
+        data = urllib.parse.urlencode({"q": text}).encode("utf-8")
+        req = urllib.request.Request(
+            "https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=en&tl=pl",
+            data=data,
+            headers={
+                **HEADERS,
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
+        )
+        with urllib.request.urlopen(req, timeout=7) as resp:
+            res = json.loads(resp.read().decode("utf-8"))
+            if isinstance(res, list) and res:
+                if isinstance(res[0], str):
+                    return res[0]
+                if isinstance(res[0], list) and res[0]:
+                    return str(res[0][0])
+    except Exception:
+        pass
+
+    # 2. Fallback: translate.googleapis.com POST
+    try:
+        data = urllib.parse.urlencode({"q": text}).encode("utf-8")
+        req = urllib.request.Request(
+            "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=pl&dt=t",
+            data=data,
+            headers={
+                **HEADERS,
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
+        )
+        with urllib.request.urlopen(req, timeout=7) as resp:
+            res = json.loads(resp.read().decode("utf-8"))
+            if isinstance(res, list) and res and isinstance(res[0], list):
+                return "".join(seg[0] for seg in res[0] if seg and seg[0])
+    except Exception:
+        pass
+
+    # 3. Fallback: MyMemory API (tłumaczenie przynajmniej nagłówka i pierwszych 450 znaków)
+    try:
+        short_q = urllib.parse.quote(text[:480])
+        mm_url = f"https://api.mymemory.translated.net/get?q={short_q}&langpair=en|pl"
+        req = urllib.request.Request(mm_url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=7) as resp:
+            res = json.loads(resp.read().decode("utf-8"))
+            tr = res.get("responseData", {}).get("translatedText", "")
+            if tr:
+                return tr
+    except Exception:
+        pass
+
+    return ""
+
+
 def translate_foreign_article_to_pl(title: str, desc: str, paragraphs: list) -> tuple:
     """
     Tłumaczy zagraniczny artykuł (tytuł, opis i pełne akapity) na naturalny język polski
-    w jednym szybkim zapytaniu sieciowym, aby czytelnik na compound.pl miał komplet informacji po polsku.
+    z wielopoziomowym fallbackiem, aby 100% depesz było po polsku.
     """
     blocks = [title or "", desc or ""] + list(paragraphs or [])
     non_empty_indices = [i for i, b in enumerate(blocks) if b and b.strip()]
@@ -435,27 +496,31 @@ def translate_foreign_article_to_pl(title: str, desc: str, paragraphs: list) -> 
         return title, desc, paragraphs
 
     joined = "\n\n".join(blocks[i].strip() for i in non_empty_indices)
-    q = urllib.parse.quote(joined[:4600])
-    t_url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=pl&dt=t&q={q}"
-    req = urllib.request.Request(t_url, headers=HEADERS)
     t0 = time.time()
-    try:
-        with urllib.request.urlopen(req, timeout=5) as resp:
-            res = json.loads(resp.read().decode("utf-8"))
-            latency_ms = int((time.time() - t0) * 1000)
-            record_api_call("translator_en_pl", 1, latency_ms=latency_ms, error=False, status_text="200 OK (EN→PL)")
-            full_pl = "".join(seg[0] for seg in res[0] if seg and seg[0])
-            translated_parts = [p.strip() for p in full_pl.split("\n\n")]
+    full_pl = _translate_text_block(joined)
+    latency_ms = int((time.time() - t0) * 1000)
 
-            out_blocks = list(blocks)
-            for idx_pos, orig_idx in enumerate(non_empty_indices):
-                if idx_pos < len(translated_parts) and translated_parts[idx_pos]:
-                    out_blocks[orig_idx] = translated_parts[idx_pos]
+    if full_pl and full_pl.strip() != joined.strip():
+        record_api_call("translator_en_pl", 1, latency_ms=latency_ms, error=False, status_text="200 OK (EN→PL)")
+        translated_parts = [p.strip() for p in full_pl.split("\n\n")]
+        if len(translated_parts) < len(non_empty_indices) and "\n" in full_pl:
+            translated_parts = [p.strip() for p in full_pl.split("\n") if p.strip()]
 
-            return out_blocks[0], out_blocks[1], out_blocks[2:]
-    except Exception as e:
-        record_api_call("translator_en_pl", 1, latency_ms=int((time.time() - t0) * 1000), error=True, status_text=str(e)[:50])
-        return title, desc, paragraphs
+        out_blocks = list(blocks)
+        for idx_pos, orig_idx in enumerate(non_empty_indices):
+            if idx_pos < len(translated_parts) and translated_parts[idx_pos]:
+                out_blocks[orig_idx] = translated_parts[idx_pos]
+
+        # Upewnij się, że przynajmniej tytuł został przetłumaczony osobno, jeśli split się rozjechał
+        if out_blocks[0].strip() == (title or "").strip() and (title or "").strip():
+            t_only = _translate_text_block(title)
+            if t_only:
+                out_blocks[0] = t_only.strip()
+
+        return out_blocks[0], out_blocks[1], out_blocks[2:]
+
+    record_api_call("translator_en_pl", 1, latency_ms=latency_ms, error=True, status_text="Fallback brak tłumaczenia")
+    return title, desc, paragraphs
 
 
 def fetch_rss_feed(source_name, feed_url, max_items=5, lang="PL", category_key="rynki"):
@@ -573,11 +638,11 @@ def fetch_and_process_category(category_key, feeds_spec, existing_items=None, ad
             except Exception:
                 details_by_hash[h] = {"paragraphs": [], "og_image": ""}
 
-    # Równoległe tłumaczenie artykułów zagranicznych (EN -> PL) wraz z pełnymi akapitami
+    # Równoległe tłumaczenie artykułów zagranicznych (EN -> PL) z limitem 2 wątków (ochrona przed HTTP 429)
     translated_by_hash = {}
     foreign_items = [it for it in unique_items if it.get("is_foreign")]
     if foreign_items and translate_enabled:
-        with ThreadPoolExecutor(max_workers=6) as pool:
+        with ThreadPoolExecutor(max_workers=2) as pool:
             t_futures = {
                 pool.submit(
                     translate_foreign_article_to_pl,

@@ -3,7 +3,7 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.316",
-    "last_updated": "2026-11-12 19:49",
+    "last_updated": "2026-11-12 19:52",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
     "foreign_translated_count": 20,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$71,666",
-      "change": "-3.78%",
+      "price": "$71,582",
+      "change": "-3.87%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$2,013",
-      "change": "-3.53%",
+      "price": "$2,010",
+      "change": "-3.65%",
       "is_positive": false
     },
     {
@@ -954,7 +954,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA).",
       "key_metrics": [],
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "title": "Fed twierdzi, że w ramach zmiany polityki na posiedzeniu w październiku 2027 r. nie będzie głosowania w sprawie stóp procentowych",
       "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "is_foreign": true,
       "lang": "EN",
@@ -965,16 +965,16 @@
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-        "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
-        "According to an announcement Thursday, the rate-setting Federal Open Market Committee will set aside its Oct."
+        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
+        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
+        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”."
       ],
       "extended_paragraphs": [
-        "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-        "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
-        "According to an announcement Thursday, the rate-setting Federal Open Market Committee will set aside its Oct. 26-27 session for \"the discussion of broad monetary policy strategy issues.\"",
-        "Warsh announced the move at his news conference after the FOMC met in October, though he did not specify which meeting would be affected.",
-        "In 2027, there will be seven voting meetings, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement. The new calendar shows that the final meeting of the year will now take place in November. It had previously been set for December."
+        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
+        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
+        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”.",
+        "Warsh ogłosił to posunięcie na konferencji prasowej po październikowym posiedzeniu FOMC, choć nie określił, na które posiedzenie będzie to miało wpływ.",
+        "W 2027 r. odbędzie się siedem posiedzeń z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
       ]
     },
     {
@@ -1018,15 +1018,15 @@
       "entity_tag": "Ropa Naftowa",
       "sector": "Surowce Energetyczne",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 1.9%, 2%, 16%) bez bezpośredniego szoku wycenowego.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 1,9%, 2%, 16%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "1.9%",
+        "1,9%",
         "2%",
         "16%"
       ],
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "title": "Ceny ropy rosną po tym, jak Trump twierdzi, że porozumienie z Iranem nie jest potrzebne: „Mamy ich cieśninę”",
       "original_title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "is_foreign": true,
       "lang": "EN",
@@ -1037,16 +1037,16 @@
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-        "oil prices rose Thursday, as comments from President Donald Trump stoked worries that an end to the U.S.-Iran war was not in sight.",
-        "Brent crude traded 1.9% higher at $94.48 per barrel."
+        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ropa Brent notowana była o 1,9% wyżej, przy cenie 94,48 dolarów za baryłkę."
       ],
       "extended_paragraphs": [
-        "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-        "U.S. oil prices rose Thursday, as comments from President Donald Trump stoked worries that an end to the U.S.-Iran war was not in sight.",
-        "Brent crude traded 1.9% higher at $94.48 per barrel. West Texas Intermediate futures were up 2% at $88.19 per barrel.",
-        "\"We don't need a deal with Iran. Those days have long since passed. We've got their money, Hundreds of Billions of Dollars, and we've got their Strait!\" Trump said in a Truth Social post .",
-        "Brent and WTI- YTD Thursday's moves come as oil prices have been under pressure after comments from Trump following the U.S. midterm elections eased fears of further strikes on Iran. WTI is down 16% in November, and Brent has lost 20%."
+        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ropa Brent notowana była o 1,9% wyżej, przy cenie 94,48 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2%, osiągając poziom 88,19 dolarów za baryłkę.",
+        "„Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły. Mamy ich pieniądze, setki miliardów dolarów i mamy ich Cieśninę!” Trump oświadczył w poście Truth Social.",
+        "Czwartkowe ruchy Brent i WTI-YTD wynikają z presji cen ropy naftowej po tym, jak komentarze Trumpa po wyborach śródokresowych w USA złagodziły obawy przed dalszymi atakami na Iran. WTI spadło w listopadzie o 16%, a Brent o 20%."
       ]
     },
     {
@@ -1083,14 +1083,14 @@
     },
     {
       "id": "rynki-6-961ce6",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) bez bezpośredniego szoku wycenowego.",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [],
-      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "title": "Chińskie Ministerstwo Bezpieczeństwa Państwowego znalazło się w centrum uwagi po aferze z dyrektorem generalnym Nvidii",
       "original_title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
       "is_foreign": true,
       "lang": "EN",
@@ -1101,16 +1101,16 @@
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-        "students to allegations surrounding Nvidia's Jensen Huang affair, reports point to one Chinese intelligence agency: the Ministry of State Security.",
-        "The opaque government entity — which lacks an official website other than one supporting whistleblowers — has gained prominence with Beijing's growing emphasis on national security since 2023."
+        "Chińskie Ministerstwo Bezpieczeństwa Państwowego przyciąga uwagę po doniesieniach o romansie dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym szpiegiem MSS.",
+        "Od rekrutacji amerykańskich studentów po zarzuty dotyczące afery Nvidii Jensena Huanga – raporty wskazują na jedną chińską agencję wywiadowczą: Ministerstwo Bezpieczeństwa Państwowego.",
+        "Ta nieprzejrzysta jednostka rządowa – nieposiadająca oficjalnej strony internetowej innej niż strona wspierająca sygnalistów – zyskała na znaczeniu wraz z rosnącym naciskiem Pekinu na bezpieczeństwo narodowe od 2023 r. Ministerstwo nadzoruje szereg biur na szczeblu prowincji i kraju, w tym zajmujących się gromadzeniem danych wywiadowczych."
       ],
       "extended_paragraphs": [
-        "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-        "From recruitment of U.S. students to allegations surrounding Nvidia's Jensen Huang affair, reports point to one Chinese intelligence agency: the Ministry of State Security.",
-        "The opaque government entity — which lacks an official website other than one supporting whistleblowers — has gained prominence with Beijing's growing emphasis on national security since 2023. The ministry oversees a range of provincial and national-level bureaus, including for intelligence gathering.",
-        "While the MSS is not Beijing's only intelligence entity , the ministry has often been named in high-profile cases. Following hacking attempts on U.S. entities, the U.S. Treasury Department has in recent years sanctioned Chinese entities and individuals it alleges are affiliated with MSS.",
-        "The Financial Times and The New York Times this month reported, citing sources, that U.S. government intelligence believe the MSS recruited businesswoman Alice Huang to gather information on Nvidia CEO Jensen Huang. The two are not related. Jensen Huang admitted to an affair over the weekend, but it remains unclear whether any sensitive information was shared."
+        "Chińskie Ministerstwo Bezpieczeństwa Państwowego przyciąga uwagę po doniesieniach o romansie dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym szpiegiem MSS.",
+        "Od rekrutacji amerykańskich studentów po zarzuty dotyczące afery Nvidii Jensena Huanga – raporty wskazują na jedną chińską agencję wywiadowczą: Ministerstwo Bezpieczeństwa Państwowego.",
+        "Ta nieprzejrzysta jednostka rządowa – nieposiadająca oficjalnej strony internetowej innej niż strona wspierająca sygnalistów – zyskała na znaczeniu wraz z rosnącym naciskiem Pekinu na bezpieczeństwo narodowe od 2023 r. Ministerstwo nadzoruje szereg biur na szczeblu prowincji i kraju, w tym zajmujących się gromadzeniem danych wywiadowczych.",
+        "Choć MSS nie jest jedyną jednostką wywiadowczą Pekinu, jego nazwisko często pojawia się w głośnych sprawach. W następstwie prób włamań do podmiotów w USA Departament Skarbu USA nałożył w ostatnich latach sankcje na chińskie podmioty i osoby, które według niego są powiązane z MSS.",
+        "W tym miesiącu dzienniki „Financial Times” i „The New York Times” doniosły, powołując się na źródła, że ​​według wywiadu rządu USA MSS zwerbowało bizneswoman Alice Huang w celu zebrania informacji na temat dyrektora generalnego Nvidii, Jensena Huanga. Jedno i drugie nie jest ze sobą powiązane. Jensen Huang przyznał się w weekend do romansu, ale nie jest jasne, czy udostępniono jakiekolwiek wrażliwe informacje."
       ]
     },
     {
@@ -1151,7 +1151,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
       "key_metrics": [],
-      "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+      "title": "„Gwiezdne wojny” Disneya pojawią się w Cosm Domes przed 50. rocznicą w ramach wieloletniej umowy filmowej",
       "original_title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
       "is_foreign": true,
       "lang": "EN",
@@ -1162,56 +1162,22 @@
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
-        "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
-        "On Thursday, the immersive entertainment technology company announced a new studio partnership with The Walt Disney Co.",
-        "that will bring the original \"Star Wars\" to its domes early next year as part of a multiyear, multifilm collaboration."
+        "Cosm nawiązał współpracę z Disneyem, dzięki której w swoich kopułach pojawi się „Gwiezdne wojny: Nowa nadzieja” w ramach wieloletniej współpracy obejmującej wiele filmów.",
+        "W czwartek firma zajmująca się technologią immersyjnej rozrywki ogłosiła nawiązanie nowej współpracy studyjnej z The Walt Disney Co., w ramach której oryginalne „Gwiezdne Wojny” pojawią się w swoich kinach na początku przyszłego roku w ramach wieloletniej współpracy obejmującej wiele filmów.",
+        "Ogromne wklęsłe ekrany Cosma przeniosą fanów filmu do odległej galaktyki już w marcu, tuż przed przypadającymi w maju 50."
       ],
       "extended_paragraphs": [
-        "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
-        "On Thursday, the immersive entertainment technology company announced a new studio partnership with The Walt Disney Co. that will bring the original \"Star Wars\" to its domes early next year as part of a multiyear, multifilm collaboration.",
-        "Cosm's massive concave screens will drop film fans into a galaxy far, far away starting in March, just ahead of the Academy Award-winning film's 50th anniversary in May.",
-        "\"We are thrilled to add the Disney partnership,\" Alexis Scalice, head of Cosm Studios, told CNBC. \"We do look for those opportunities of these like anniversary and commemorative moments. We look for those opportunities to celebrate with the fans, but also find this mutually beneficial partnership between both parties.\"",
-        "This will be Cosm's sixth theatrical collaboration with Hollywood, having already partnered with Warner Bros. to bring \"The Matrix,\" \"Willy Wonka & the Chocolate Factory,\" \"Harry Potter and the Sorcerer's Stone\" and \"It\" to its locations. The company is set to launch immersive screenings of Universal's \"Shrek\" in December."
+        "Cosm nawiązał współpracę z Disneyem, dzięki której w swoich kopułach pojawi się „Gwiezdne wojny: Nowa nadzieja” w ramach wieloletniej współpracy obejmującej wiele filmów.",
+        "W czwartek firma zajmująca się technologią immersyjnej rozrywki ogłosiła nawiązanie nowej współpracy studyjnej z The Walt Disney Co., w ramach której oryginalne „Gwiezdne Wojny” pojawią się w swoich kinach na początku przyszłego roku w ramach wieloletniej współpracy obejmującej wiele filmów.",
+        "Ogromne wklęsłe ekrany Cosma przeniosą fanów filmu do odległej galaktyki już w marcu, tuż przed przypadającymi w maju 50. rocznicą powstania nagrodzonego Oscarem filmu.",
+        "„Jesteśmy podekscytowani możliwością współpracy z Disneyem” – powiedział CNBC Alexis Scalice, szef Cosm Studios. „Szukamy okazji, takich jak rocznice i momenty upamiętniające. Szukamy okazji do świętowania z fanami, ale także znajdujemy obopólnie korzystne partnerstwo między obiema stronami”.",
+        "Będzie to szósta współpraca teatralna Cosma z Hollywood, po tym jak Cosm współpracował już z Warner Bros. przy wprowadzaniu do swoich lokalizacji filmów „Matrix”, „Willy Wonka i fabryka czekolady”, „Harry Potter i kamień filozoficzny” oraz „To”. Firma planuje rozpocząć w grudniu immersyjne pokazy „Shrka” wytwórni Universal."
       ]
     }
   ],
   "makro": [
     {
-      "id": "makro-8-7e7c66",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 0.7%) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "0.7%"
-      ],
-      "title": "UK economy grows at fastest rate for more than two years",
-      "original_title": "UK economy grows at fastest rate for more than two years",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "11:20",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": true,
-      "summary_points": [
-        "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-        "﻿The UK economy grew at its fastest rate for more than two years in the three months to September.",
-        "Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures , external show."
-      ],
-      "extended_paragraphs": [
-        "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-        "﻿The UK economy grew at its fastest rate for more than two years in the three months to September.",
-        "Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures , external show.",
-        "The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war.",
-        "Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers."
-      ]
-    },
-    {
-      "id": "makro-1-a97539",
+      "id": "makro-3-a97539",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "MEDIUM",
@@ -1232,7 +1198,7 @@
       "source_url": "https://logistyka.rp.pl/lotniczy/art45482261-na-koniec-sezonu-przewozy-lotnicze-traca-dynamike",
       "image_url": "https://i.gremicdn.pl/image/free/37ae54a9ddbcb86d036a8b120159b56c/pll-lot",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
         "Przedświąteczny sezon kończy się stabilnym wzrostem przewozów i umiarkowanymi cenami czarterów.",
         "Ceny usług nie nadążają za cenami paliwa.",
@@ -1247,7 +1213,7 @@
       ]
     },
     {
-      "id": "makro-3-937d06",
+      "id": "makro-5-937d06",
       "entity_tag": "PZU (GPW: PZU)",
       "sector": "Ubezpieczenia",
       "market_impact": "MEDIUM",
@@ -1279,15 +1245,116 @@
       ]
     },
     {
+      "id": "makro-6-391e97",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 0,7%, 0,1%) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "0,7%",
+        "0,1%"
+      ],
+      "title": "Faisal Islam: Dlaczego brytyjska gospodarka jest zaskakująco odporna",
+      "original_title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "13:27",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d49/live/b6cded90-deb2-11f1-a701-fddedf244c16.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Wielka Brytania odnotowuje imponujący wzrost, ale czy będzie on trwały?",
+        "Źródło obrazu, Press Association Opublikowano 12 listopada 2026 r., 13:26 GMT Zaktualizowano 5 godzin temu Gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat w ciągu trzech miesięcy poprzedzających wrzesień.",
+        "„Na najwyższym biegu” i „uderzająco silny” to opisy 0,7% wzrostu oferowane przez ekonomistów, którzy śledzą każde najmniejsze szmer na temat brytyjskiej gospodarki."
+      ],
+      "extended_paragraphs": [
+        "Wielka Brytania odnotowuje imponujący wzrost, ale czy będzie on trwały?",
+        "Źródło obrazu, Press Association Opublikowano 12 listopada 2026 r., 13:26 GMT Zaktualizowano 5 godzin temu Gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat w ciągu trzech miesięcy poprzedzających wrzesień.",
+        "„Na najwyższym biegu” i „uderzająco silny” to opisy 0,7% wzrostu oferowane przez ekonomistów, którzy śledzą każde najmniejsze szmer na temat brytyjskiej gospodarki.",
+        "Jest to ulepszenie „solidnego” i „odpornego”, a zarazem odejście od „najbardziej dotkniętego wojną w Iranie”.",
+        "Na tle największych na świecie zakłóceń w przepływach energii, rosnących rynkowych kosztów pożyczek i okrutnych lat od czasu pandemii – wzrost jest imponujący."
+      ]
+    },
+    {
+      "id": "makro-8-7e7c66",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 0,7%) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "0,7%"
+      ],
+      "title": "Gospodarka Wielkiej Brytanii rośnie w najszybszym tempie od ponad dwóch lat",
+      "original_title": "UK economy grows at fastest rate for more than two years",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "11:20",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Według oficjalnych danych, brytyjska gospodarka wzrosła o 0,7% w ciągu trzech miesięcy poprzedzających wrzesień.",
+        "W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
+        "W okresie od lipca do września gospodarka rozwinęła się o 0,7%, przyspieszając w porównaniu z poprzednimi trzema miesiącami, oficjalne dane, pokazy zewnętrzne."
+      ],
+      "extended_paragraphs": [
+        "Według oficjalnych danych, brytyjska gospodarka wzrosła o 0,7% w ciągu trzech miesięcy poprzedzających wrzesień.",
+        "W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
+        "W okresie od lipca do września gospodarka rozwinęła się o 0,7%, przyspieszając w porównaniu z poprzednimi trzema miesiącami, oficjalne dane, pokazy zewnętrzne.",
+        "Solidny wzrost sugeruje, że gospodarka będzie znacznie odporniejsza niż oczekiwano latem, pomimo wpływu wyższych cen energii podczas wojny w Iranie.",
+        "Silny rozwój sektora usług – największej części gospodarki, która obejmuje dobra niefizyczne, takie jak usługi doradcze i programowanie komputerowe, a także hotele i restauracje – pomógł zwiększyć te liczby."
+      ]
+    },
+    {
+      "id": "makro-1-54358f",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Karol Nawrocki ma być przesłuchany. Chodzi o kawalarkę p. Jerzego",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:48",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/prawo-karne/art45482281-karol-nawrocki-ma-byc-przesluchany-chodzi-o-kawalarke-p-jerzego",
+      "image_url": "https://i.gremicdn.pl/image/free/6a8de1ae37784d9eea82a46b9e32ac89/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Prokuratura Okręgowa w Gdańsku chce przesłuchać prezydenta Karola Nawrockiego w śledztwie dotyczącym kawalerki przejętej od p.",
+        "Do Kancelarii Prezydenta RP trafiło już pismo w tej sprawie.",
+        "Jak ustalił Onet, prezydent ma zeznawać w charakterze świadka."
+      ],
+      "extended_paragraphs": [
+        "Prokuratura Okręgowa w Gdańsku chce przesłuchać prezydenta Karola Nawrockiego w śledztwie dotyczącym kawalerki przejętej od p. Jerzego Ż. Do Kancelarii Prezydenta RP trafiło już pismo w tej sprawie.",
+        "Jak ustalił Onet, prezydent ma zeznawać w charakterze świadka. W piśmie skierowanym do KPRP, śledczy poprosili \"o wskazanie dogodnego dla Pana Prezydenta terminu oraz miejsca przeprowadzenia tej czynności\".",
+        "Rzecznik Prokuratury Okręgowej w Gdańsku prok. Mariusz Duszyński powiedział Onetowi, że decyzję o przesłuchaniu prezydenta podjęto po przeanalizowaniu zgromadzonego w sprawie materiału dowodowego.",
+        "Przypomnijmy, że na początku lipca sąd zwolnił z obowiązku zachowania tajemnicy notarialnej notariusza, który 24 stycznia 2012 r. sporządził akt stanowiący umowę przedwstępną sprzedaży kawalerki. Notariusz został przesłuchany we wrześniu. Po tej czynności prokurator miał podjąć decyzję o \"przeprowadzeniu dodatkowej czynności dowodowej\". Chodziło o przesłuchanie Karola Nawrockiego.",
+        "„Okres dochodzenia został przedłużony do 31 grudnia 2026 r.” - przekazał rzecznik prasowy Prokuratury Okręgowej w Gdańsku."
+      ]
+    },
+    {
       "id": "makro-2-2ce59a",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Półprzewodniki & AI” (NVIDIA (NASDAQ: NVDA)) przy planowaniu budżetu i inwestycji.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Półprzewodniki & AI” wspierający aktywność gospodarczą i siłę nabywczą.",
       "key_metrics": [],
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "title": "Wzlot i upadek Jensena Huanga – jak gwiazda technologii pogrążyła się w skandalu",
       "original_title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "is_foreign": true,
       "lang": "EN",
@@ -1298,16 +1365,16 @@
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-        "Image source, AFP By Michael Race , Peter Hoskins and Lucy Hooker , Business reporters Published 12 November 2026, 14:18 GMT Updated 1 hour ago Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all.",
-        "He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man."
+        "W ciągu kilku dni status Huanga jako pozornie nietykalnej postaci przewodzącej światowemu wyścigowi technologicznemu upadł.",
+        "Źródło zdjęcia, AFP Autorzy: Michael Race, Peter Hoskins i Lucy Hooker, reporterzy biznesowi Opublikowano 12 listopada 2026 r., 14:18 GMT Zaktualizowano 1 godzinę temu Jensen Huang, znany z noszenia czarnej skórzanej kurtki na imprezach dla akcjonariuszy, wydawał się mieć wszystko.",
+        "Zarówno w USA, jak i w Chinach zabiegali o niego przywódcy, szanowali go inwestorzy i postrzegano go jako lojalnego członka rodziny."
       ],
       "extended_paragraphs": [
-        "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-        "Image source, AFP By Michael Race , Peter Hoskins and Lucy Hooker , Business reporters Published 12 November 2026, 14:18 GMT Updated 1 hour ago Jensen Huang, known for sporting a black leather jacket to shareholder events, appeared to have it all. He was courted by leaders in the US and China alike, worshipped by investors and seen as a loyal family man. But a rockstar approach to his personal life has ultimately led to his resignation.",
-        "The 63-year-old has been married since 1985, long before the foundation of Nvidia, the company that propelled him to tech stardom.",
-        "He is known as a workaholic and a demanding manager, with high standards for those who worked for him, which included his own children, promoted within the company. But he has seen his personal reputation go into freefall this week, undone by romantic entanglements that throw doubt on his focus and his judgement.",
-        "On Thursday, he resigned following back-to-back revelations of two affairs. News of the first - a relationship with a businesswoman alleged to be a Chinese spy - ricocheted around the world, raising eyebrows among investors. It was followed on Wednesday by reports that the tech boss had also had an affair with an Nvidia colleague."
+        "W ciągu kilku dni status Huanga jako pozornie nietykalnej postaci przewodzącej światowemu wyścigowi technologicznemu upadł.",
+        "Źródło zdjęcia, AFP Autorzy: Michael Race, Peter Hoskins i Lucy Hooker, reporterzy biznesowi Opublikowano 12 listopada 2026 r., 14:18 GMT Zaktualizowano 1 godzinę temu Jensen Huang, znany z noszenia czarnej skórzanej kurtki na imprezach dla akcjonariuszy, wydawał się mieć wszystko. Zarówno w USA, jak i w Chinach zabiegali o niego przywódcy, szanowali go inwestorzy i postrzegano go jako lojalnego członka rodziny. Jednak podejście gwiazdy rocka do jego życia osobistego ostatecznie doprowadziło do jego rezygnacji.",
+        "63-latek jest żonaty od 1985 r., na długo przed założeniem Nvidii – firmy, która zapewniła mu pozycję gwiazdy technologii.",
+        "Dał się poznać jako pracoholik i wymagający menedżer, stawiający wysokie wymagania swoim pracownikom, w tym także jego własnym dzieciom, awansowanym w firmie. Widział jednak, jak w tym tygodniu jego osobista reputacja gwałtownie spadła, zniweczona przez romantyczne uwikłania, które podają w wątpliwość jego skupienie i ocenę sytuacji.",
+        "W czwartek podał się do dymisji po ujawnieniu dwóch kolejnych informacji. Wiadomość o pierwszej – związku z bizneswoman rzekomo chińskim szpiegiem – odbiła się rykoszetem po całym świecie, wywołując zdziwienie wśród inwestorów. W środę pojawiły się doniesienia, że ​​szef techniczny również miał romans z kolegą z Nvidii."
       ]
     },
     {
@@ -1319,7 +1386,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Półprzewodniki & AI” (NVIDIA (NASDAQ: NVDA)) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "title": "Kim jest tymczasowa dyrektor generalna Nvidii Colette Kress – i kto mógłby przejąć ją na stałe?",
       "original_title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
       "is_foreign": true,
       "lang": "EN",
@@ -1330,20 +1397,20 @@
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-        "Nvidia is now facing a scenario few would have considered until very recently - a future without Jensen Huang.",
-        "The influential co-founder of the AI chip-making giant resigned on Thursday over reports of extramarital affairs, one of which was with a woman suspected of being a Chinese spy."
+        "Dyrektor finansowy Colette Kress na razie kieruje Nvidią, ale w planach jest kilka innych osób jako potencjalni następcy.",
+        "Nvidia stoi obecnie przed scenariuszem, który do niedawna mało kto rozważał – przyszłość bez Jensena Huanga.",
+        "Wpływowy współzałożyciel giganta produkującego chipy AI złożył w czwartek rezygnację ze stanowiska w związku z doniesieniami o romansach pozamałżeńskich, z których jeden dotyczył kobiety podejrzanej o bycie chińskim szpiegiem."
       ],
       "extended_paragraphs": [
-        "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-        "Nvidia is now facing a scenario few would have considered until very recently - a future without Jensen Huang.",
-        "The influential co-founder of the AI chip-making giant resigned on Thursday over reports of extramarital affairs, one of which was with a woman suspected of being a Chinese spy.",
-        "Chief financial officer Colette Kress is in charge, for now, as the tech giant faces one of its biggest challenges - finding the right person to permanently lead the business that Huang helped create more than three decades ago and turned into one of the world's most valuable companies.",
-        "Image source, Nvidia Image caption, Colette Kress is chief financial officer at Nvidia"
+        "Dyrektor finansowy Colette Kress na razie kieruje Nvidią, ale w planach jest kilka innych osób jako potencjalni następcy.",
+        "Nvidia stoi obecnie przed scenariuszem, który do niedawna mało kto rozważał – przyszłość bez Jensena Huanga.",
+        "Wpływowy współzałożyciel giganta produkującego chipy AI złożył w czwartek rezygnację ze stanowiska w związku z doniesieniami o romansach pozamałżeńskich, z których jeden dotyczył kobiety podejrzanej o bycie chińskim szpiegiem.",
+        "Na razie obowiązki pełni Colette Kress, dyrektor finansowa. Gigant technologiczny stoi przed jednym z największych wyzwań – znalezieniem odpowiedniej osoby, która na stałe pokieruje firmą, którą Huang pomógł stworzyć ponad trzydzieści lat temu i która przekształciła się w jedną z najcenniejszych firm na świecie.",
+        "Źródło zdjęcia, Nvidia Tytuł zdjęcia, Colette Kress jest dyrektorem finansowym w firmie Nvidia"
       ]
     },
     {
-      "id": "makro-5-367f63",
+      "id": "makro-7-367f63",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1375,84 +1442,86 @@
         "Biznes Mastercard wycofuje spoty z Telewizji Republika Spoty Mastercard zostały wycofane z Telewizji Republika – przekazała firma serwisowi Wyborcza.biz. Wcześniej współpracę ze stacją zakończyła firma...",
         "Właśnie. Po pierwsze, użył liczby mnogiej. Nie wiem, na jakiej podstawie. Chociaż początkowo jeden z policjantów chyba się pomylił, bo sądził, że są dwie osoby, ale wycofał się z tego dosyć szybko. Dziennikarz ma obowiązek – przecież nie trzeba tego tłumaczyć – sprawdzenia informacji. Zasada double check, czyli podwójnego sprawdzenia, zawsze obowiązuje. Zanim coś powiesz, pamiętaj, że nie mówisz do siebie, nie mówisz do siebie w środku, tylko mówisz do ludzi. I niestety ten jego przekaz wiralowo rozszedł się po świecie, po Polsce."
       ]
-    },
-    {
-      "id": "makro-6-391e97",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 0.7%, 0.1%) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "0.7%",
-        "0.1%"
-      ],
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "original_title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:27",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d49/live/b6cded90-deb2-11f1-a701-fddedf244c16.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "The UK is seeing impressive growth, but will it last?",
-        "Image source, Press Association Published 12 November 2026, 13:26 GMT Updated 5 hours ago The UK economy grew at its fastest rate for more than two years in the three months to September.",
-        "\"Top gear\" and \"strikingly strong\" were among the descriptions of the 0.7% growth offered by the economists who track every minor murmur of Britain's economy."
-      ],
-      "extended_paragraphs": [
-        "The UK is seeing impressive growth, but will it last?",
-        "Image source, Press Association Published 12 November 2026, 13:26 GMT Updated 5 hours ago The UK economy grew at its fastest rate for more than two years in the three months to September.",
-        "\"Top gear\" and \"strikingly strong\" were among the descriptions of the 0.7% growth offered by the economists who track every minor murmur of Britain's economy.",
-        "It is an upgrade on \"solid\" and \"resilient\", and in turn a world away from \"hardest hit by the Iran War\".",
-        "Against the backdrop of the world's biggest disruption to energy flows, rising market borrowing costs - and the cruel summers since the pandemic - it is impressive growth."
-      ]
-    },
-    {
-      "id": "makro-7-e4b296",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Estera Flieger: Czego po tragedii w Krakowie możemy nauczyć się od Amerykanów",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:00",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/publicystyka/art45477551-estera-flieger-czego-po-tragedii-w-krakowie-mozemy-nauczyc-sie-od-amerykanow",
-      "image_url": "https://i.gremicdn.pl/image/free/4f1653a56201c940abd7c99ee519d8dc/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Warto zastanowić się nad wdrożeniem w Polsce amerykańskiej praktyki: nie podawać imienia i nazwiska lub inicjałów oraz nie upowszechniać wizerunku zamachowca.",
-        "Historia ataku w Krakowie ma swoich bohaterów, na których powinniśmy się skoncentrować – w jakimś sensie uratowali nas wszystkich.",
-        "Wszystkich nas poruszyło to, że starszy posterunkowy Artur Morański i starszy posterunkowy Jakub Kulik , policjanci, którzy powstrzymali zamachowca w Krakowie, po wybudzeniu ze śpiączki pytali o siebie – lekarze umożliwili im wideorozmowę."
-      ],
-      "extended_paragraphs": [
-        "Warto zastanowić się nad wdrożeniem w Polsce amerykańskiej praktyki: nie podawać imienia i nazwiska lub inicjałów oraz nie upowszechniać wizerunku zamachowca. Historia ataku w Krakowie ma swoich bohaterów, na których powinniśmy się skoncentrować – w jakimś sensie uratowali nas wszystkich.",
-        "Wszystkich nas poruszyło to, że starszy posterunkowy Artur Morański i starszy posterunkowy Jakub Kulik , policjanci, którzy powstrzymali zamachowca w Krakowie, po wybudzeniu ze śpiączki pytali o siebie – lekarze umożliwili im wideorozmowę.",
-        "Naszą sympatię zdobyli dr Mateusz Wierdak i prof. Michał Pędziwiatr, chirurdzy, którzy przypadkiem znaleźli się w pobliżu i udzielili rannym funkcjonariuszom pomocy – urzekły nas ich skromność i profesjonalizm oraz wzajemne relacje: opowiedzieli w mediach, że się przyjaźnią, a chirurgia to dziedzina zespołowa."
-      ]
     }
   ],
   "tech": [
+    {
+      "id": "tech-2-4b3121",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Odejście Jensena Huanga stawia pod znakiem zapytania wsparcie Nvidii dla open source",
+      "original_title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:39",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": true,
+      "summary_points": [
+        "Rezygnacja Jensena Huanga rodzi pytania dotyczące zaangażowania Nvidii w sztuczną inteligencję typu open source, w tym przejęcie Hugging Face, modele o otwartej wadze i popieranie ograniczeń w związku z zmianą przywództwa firmy.",
+        "Odejście Jensena Huanga stawia pod znakiem zapytania wsparcie Nvidii dla oprogramowania open source Rebecca Bellan 10:39 PST · 12 listopada 2026 r. Społeczność open source właśnie straciła jednego ze swoich największych zwolenników.",
+        "Dyrektor generalny Nvidii, Jensen Huang, złożył rezygnację ze stanowiska w czwartek po tym, jak przyznał się do romansu z rzekomym chińskim szpiegiem, co wzbudziło obawy o bezpieczeństwo narodowe USA i motywy stojące za poparciem dyrektora dla łagodniejszej kontroli eksportu chipów do Chin."
+      ],
+      "extended_paragraphs": [
+        "Rezygnacja Jensena Huanga rodzi pytania dotyczące zaangażowania Nvidii w sztuczną inteligencję typu open source, w tym przejęcie Hugging Face, modele o otwartej wadze i popieranie ograniczeń w związku z zmianą przywództwa firmy.",
+        "Odejście Jensena Huanga stawia pod znakiem zapytania wsparcie Nvidii dla oprogramowania open source Rebecca Bellan 10:39 PST · 12 listopada 2026 r. Społeczność open source właśnie straciła jednego ze swoich największych zwolenników.",
+        "Dyrektor generalny Nvidii, Jensen Huang, złożył rezygnację ze stanowiska w czwartek po tym, jak przyznał się do romansu z rzekomym chińskim szpiegiem, co wzbudziło obawy o bezpieczeństwo narodowe USA i motywy stojące za poparciem dyrektora dla łagodniejszej kontroli eksportu chipów do Chin.",
+        "Huang był zagorzałym zwolennikiem sztucznej inteligencji typu open source, postrzegając ekosystem jako dobry pod względem bezpieczeństwa, innowacji, rozpowszechniania i suwerenności. A ponieważ pionierskie laboratoria AI w coraz większym stopniu starają się ograniczać swoją zależność od Nvidii i budować własne chipy, wspieranie open source jest dla firmy również dobrym sposobem na dywersyfikację bazy klientów poprzez sprzedaż chipów państwom narodowym, przedsiębiorstwom i każdej organizacji, która chce posiadać własne modele.",
+        "Mimo to rezygnacja Huanga rodzi pytania, czy Nvidia będzie kontynuować jego dziedzictwo, nadal wspierając społeczność otwartych modeli."
+      ]
+    },
+    {
+      "id": "tech-4-04b8ac",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 12,9 miliarda dolarów, 20 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "12,9 miliarda dolarów",
+        "20 miliardów dolarów"
+      ],
+      "title": "Dyrektor generalny Hugging Face przysięga, że po odejściu Jensena Huanga będzie nadal walczyć o sztuczną inteligencję typu open source",
+      "original_title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "17:36",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Dyrektor generalny Hugging Face zapowiedział dalszą walkę o sztuczną inteligencję typu open source po odejściu Huanga, co rodzi pytania dotyczące przejęcia Nvidii za 12,9 miliarda dolarów.",
+        "Dyrektor generalny Hugging Face przysięga, że ​​będzie nadal walczyć o sztuczną inteligencję open source po odejściu Jensena Huanga Sarah Perez 9:36 PST · 12 listopada 2026 Dyrektor generalny Hugging Face Clément Delangue krótko skomentował czwartkowe odejście dyrektora generalnego Nvidii, Jensena Huanga, nazywając ten dzień „naprawdę smutnym dniem”.",
+        "Nvidia ogłosiła swój plan nabycia platformy dla modeli sztucznej inteligencji typu open source we wrześniu za 12,9 miliarda dolarów, co czyni ją drugim co do wielkości przejęciem w historii firmy, tuż za aktywami producenta chipów Groq za 20 miliardów dolarów w grudniu 2025 roku."
+      ],
+      "extended_paragraphs": [
+        "Dyrektor generalny Hugging Face zapowiedział dalszą walkę o sztuczną inteligencję typu open source po odejściu Huanga, co rodzi pytania dotyczące przejęcia Nvidii za 12,9 miliarda dolarów.",
+        "Dyrektor generalny Hugging Face przysięga, że ​​będzie nadal walczyć o sztuczną inteligencję open source po odejściu Jensena Huanga Sarah Perez 9:36 PST · 12 listopada 2026 Dyrektor generalny Hugging Face Clément Delangue krótko skomentował czwartkowe odejście dyrektora generalnego Nvidii, Jensena Huanga, nazywając ten dzień „naprawdę smutnym dniem”. Nvidia ogłosiła swój plan nabycia platformy dla modeli sztucznej inteligencji typu open source we wrześniu za 12,9 miliarda dolarów, co czyni ją drugim co do wielkości przejęciem w historii firmy, tuż za aktywami producenta chipów Groq za 20 miliardów dolarów w grudniu 2025 roku.",
+        "\"To wszystko jest do bani i żałuję, że nic takiego się nie wydarzyło. To naprawdę smutny dzień! Ale chcę wyjaśnić jedną rzecz: będziemy nadal walczyć o sztuczną inteligencję typu open source, mocniej niż kiedykolwiek. To zbyt ważne, aby teraz zwalniać. Ruszajmy!\" - napisał Delangue w X.",
+        "Cała ta sytuacja jest beznadziejna i wolałabym, żeby nic takiego się nie wydarzyło. To naprawdę smutny dzień! Chcę jednak wyjaśnić jedną rzecz: będziemy nadal walczyć o sztuczną inteligencję typu open source, trudniej niż kiedykolwiek. To jest zbyt ważne, żeby teraz zwalniać. Chodźmy!",
+        "Post jest interesujący, ponieważ sugeruje, że odejście Huanga może potencjalnie niepokoić zwolenników open source, a on próbuje dodać otuchy."
+      ]
+    },
     {
       "id": "tech-6-6163d4",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "title": "United Airlines blokują agentom AI możliwość rezerwacji lotów, powołując się na ryzyko cyberbezpieczeństwa",
       "original_title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
       "is_foreign": true,
       "lang": "EN",
@@ -1461,18 +1530,18 @@
       "source_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801",
       "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
-        "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-        "United Airlines said it will restrict access to AI agents seeking to book flights and manage reservations on their users’ behalf, citing a risk to cybersecurity and undermining federal regulations.",
-        "The airline is the latest American corporate giant to prevent customers from using AI agents and autonomous assistants to access their systems."
+        "Linia lotnicza oświadczyła, że nie pozwoli klientom korzystać z agentów AI do rezerwacji lotów i zarządzania rezerwacjami.",
+        "United Airlines oświadczyły, że ograniczą dostęp agentom AI, którzy chcą rezerwować loty i zarządzać rezerwacjami w imieniu swoich użytkowników, powołując się na ryzyko dla cyberbezpieczeństwa i podważając przepisy federalne.",
+        "Linia lotnicza jest najnowszym amerykańskim gigantem korporacyjnym, który ma uniemożliwić klientom korzystanie z agentów AI i autonomicznych asystentów w celu uzyskania dostępu do ich systemów."
       ],
       "extended_paragraphs": [
-        "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-        "United Airlines said it will restrict access to AI agents seeking to book flights and manage reservations on their users’ behalf, citing a risk to cybersecurity and undermining federal regulations.",
-        "The airline is the latest American corporate giant to prevent customers from using AI agents and autonomous assistants to access their systems. The move comes as airlines and banks are struggling to differentiate between real customers and AI systems operating on their behalf, such as when users share their logins with their AI assistants. Sharing passwords with apps and assistants can create security risks if those credentials get leaked or exposed.",
-        "United warns that “sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles.”",
-        "The airline also warns of a risk of violating federal aviation rules, such as requiring that a human completes flight check-ins to acknowledge that their bags do not contain banned substances."
+        "Linia lotnicza oświadczyła, że nie pozwoli klientom korzystać z agentów AI do rezerwacji lotów i zarządzania rezerwacjami.",
+        "United Airlines oświadczyły, że ograniczą dostęp agentom AI, którzy chcą rezerwować loty i zarządzać rezerwacjami w imieniu swoich użytkowników, powołując się na ryzyko dla cyberbezpieczeństwa i podważając przepisy federalne.",
+        "Linia lotnicza jest najnowszym amerykańskim gigantem korporacyjnym, który ma uniemożliwić klientom korzystanie z agentów AI i autonomicznych asystentów w celu uzyskania dostępu do ich systemów. Posunięcie to następuje w momencie, gdy linie lotnicze i banki starają się rozróżnić prawdziwych klientów od systemów sztucznej inteligencji działających w ich imieniu, na przykład wtedy, gdy użytkownicy udostępniają swoje dane logowania swoim asystentom AI. Udostępnianie haseł aplikacjom i asystentom może powodować zagrożenia bezpieczeństwa w przypadku wycieku lub ujawnienia tych danych uwierzytelniających.",
+        "United ostrzega, że ​​„udostępnianie danych uwierzytelniających do konta zewnętrznym asystentom AI może ujawnić poufne informacje, a działania podejmowane przez te narzędzia mogą skutkować niezamierzonymi zakupami, zmianami konta lub wykorzystaniem mil MileagePlus”.",
+        "Linia lotnicza ostrzega również przed ryzykiem naruszenia federalnych przepisów lotniczych, na przykład wymaganiem, aby człowiek przeszedł odprawę lotniczą i potwierdził, że jego bagaż nie zawiera zakazanych substancji."
       ]
     },
     {
@@ -1537,70 +1606,6 @@
         "Listopadowe wydanie jest o tyle ciekawe, że mocno zaciera granice między najnowszą serią Pixel 11 a starszymi generacjami sprzętu. Najważniejsze jest tu jednak to, co Google przygotował dla posiadaczy serii Pixel 10.",
         "Pakiet Gemini Intelligence to zestaw funkcji sztucznej inteligencji, zarezerwowany dotychczas tylko da Pixeli 11. Teraz natomiast trafia do poprzedniej generacji, wprowadzając kilka konkretnych ułatwień, które mają zdjąć z użytkownika część codziennego klikania:",
         "Żeby nie było, że Google jedynie dba o zeszłoroczne modele, listopadowy Pixel Drop zawiera również garść usprawnień dla „jedenastek”, choć w ich przypadku mówimy raczej o szlifowaniu dotychczasowych pomysłów."
-      ]
-    },
-    {
-      "id": "tech-2-4b3121",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "original_title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:39",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-        "Jensen Huang’s exit puts Nvidia’s support for open source in question Rebecca Bellan 10:39 AM PST · November 12, 2026 The open source community just lost one of its strongest advocates.",
-        "Nvidia CEO Jensen Huang resigned Thursday after he admitted to an affair with an alleged Chinese spy, raising concerns about U.S."
-      ],
-      "extended_paragraphs": [
-        "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-        "Jensen Huang’s exit puts Nvidia’s support for open source in question Rebecca Bellan 10:39 AM PST · November 12, 2026 The open source community just lost one of its strongest advocates.",
-        "Nvidia CEO Jensen Huang resigned Thursday after he admitted to an affair with an alleged Chinese spy, raising concerns about U.S. national security and the motives behind the executive’s support for softer chip export controls on China.",
-        "Huang has been a staunch supporter of open source AI, framing the ecosystem as good for safety, innovation, diffusion, and sovereignty. And as frontier AI labs increasingly move to reduce their reliance on Nvidia and build their own chips, supporting open source is also a good way for the company to diversify its customer base by selling chips to nation-states, enterprises, and any organization that wants to own tits own models.",
-        "Still, Huang’s resignation raises questions about whether Nvidia will carry on his legacy by continuing to support the open model community."
-      ]
-    },
-    {
-      "id": "tech-4-04b8ac",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "original_title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:36",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-        "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit Sarah Perez 9:36 AM PST · November 12, 2026 Hugging Face CEO Clément Delangue briefly commented on Nvidia CEO Jensen Huang’s departure on Thursday, calling it a “really sad day.” Nvidia had announced its plan to acquire the platform for open source AI models in September for $12.9 billion, making it the second-largest acquisition in the company’s history, just behind that of chipmaker Groq’s assets for $20 billion in December 2025.",
-        "“This whole thing sucks, and I wish none of it had happened."
-      ],
-      "extended_paragraphs": [
-        "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-        "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit Sarah Perez 9:36 AM PST · November 12, 2026 Hugging Face CEO Clément Delangue briefly commented on Nvidia CEO Jensen Huang’s departure on Thursday, calling it a “really sad day.” Nvidia had announced its plan to acquire the platform for open source AI models in September for $12.9 billion, making it the second-largest acquisition in the company’s history, just behind that of chipmaker Groq’s assets for $20 billion in December 2025.",
-        "“This whole thing sucks, and I wish none of it had happened. It’s a really sad day! But I want to make one thing clear: we’ll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let’s go!,” Delangue wrote on X.",
-        "This whole thing sucks, and I wish none of it had happened. It’s a really sad day! But I want to make one thing clear: we’ll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let’s go!",
-        "The post is interesting as it implies that Huang’s departure is potentially worrying to open source advocates, and he’s attempting to offer reassurance."
       ]
     },
     {
@@ -1678,7 +1683,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Netflix releases new trailer for Ray Gunn",
+      "title": "Netflix udostępnia nowy zwiastun Raya Gunna",
       "original_title": "Netflix releases new trailer for Ray Gunn",
       "is_foreign": true,
       "lang": "EN",
@@ -1689,16 +1694,16 @@
       "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "\"It's hard being the only honest players in a crooked game.\" As previously reported , Bird has directed some of our all-time favorite animated films: The Iron Giant (1999), The Incredibles (2004), and Ratatouille (2007), with the latter two snagging well-deserved Oscar wins.",
-        "He’s been kicking around the idea for Ray Gunn for the last 30 years, working on his many other film projects while the Ray Gunn script—co-written by Matthew Robbins, who also co-wrote 1987’s Batteries Not Included with Bird—“stayed in a filing cabinet at Warner Brothers,” the director said earlier this year.",
-        "The film’s inspiration came when Bird heard the opening of the B-52s’ “ Planet Claire ” (a personal favorite that also provides the soundtrack to the new trailer) and initially thought it was a cover of Henry Mancini’s theme music from the classic TV show Peter Gunn ."
+        "„Trudno być jedynym uczciwym graczem w nieuczciwej grze”.",
+        "Jak już informowaliśmy, Bird wyreżyserował kilka z naszych ulubionych filmów animowanych wszech czasów: Żelazny olbrzym (1999), Iniemamocni (2004) i Ratatouille (2007), przy czym dwa ostatnie zdobyły zasłużone Oscary.",
+        "Przez ostatnie 30 lat zastanawiał się nad pomysłem Raya Gunna, pracując nad wieloma innymi projektami filmowymi, podczas gdy scenariusz Raya Gunna – którego współautorem jest Matthew Robbins, który jest także współautorem filmu Baterie nie dołączone do Birda z 1987 r. – „przeleżał w szafce na dokumenty w Warner Brothers” – powiedział reżyser na początku tego roku."
       ],
       "extended_paragraphs": [
-        "\"It's hard being the only honest players in a crooked game.\"",
-        "As previously reported , Bird has directed some of our all-time favorite animated films: The Iron Giant (1999), The Incredibles (2004), and Ratatouille (2007), with the latter two snagging well-deserved Oscar wins. He’s been kicking around the idea for Ray Gunn for the last 30 years, working on his many other film projects while the Ray Gunn script—co-written by Matthew Robbins, who also co-wrote 1987’s Batteries Not Included with Bird—“stayed in a filing cabinet at Warner Brothers,” the director said earlier this year.",
-        "The film’s inspiration came when Bird heard the opening of the B-52s’ “ Planet Claire ” (a personal favorite that also provides the soundtrack to the new trailer) and initially thought it was a cover of Henry Mancini’s theme music from the classic TV show Peter Gunn . Bird is a longtime fan of film noir and hard-boiled detectives, and he came up with the idea of a futuristic detective named Ray Gunn (a pun on “ raygun ,” of course). “It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action than the average film noir,” said Bird .",
-        "Per the official premise: “In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn (voiced by Sam Rockwell) is drawn into a case involving aliens, murder, and a multimedia star named Venus Nova (voiced by Scarlett Johansson).”",
-        "Unlike Bird’s Pixar fare, Ray Gunn targets a slightly older demographic with more mature themes."
+        "„Trudno być jedynym uczciwym graczem w nieuczciwej grze”.",
+        "Jak już informowaliśmy, Bird wyreżyserował kilka z naszych ulubionych filmów animowanych wszech czasów: Żelazny olbrzym (1999), Iniemamocni (2004) i Ratatouille (2007), przy czym dwa ostatnie zdobyły zasłużone Oscary. Przez ostatnie 30 lat zastanawiał się nad pomysłem Raya Gunna, pracując nad wieloma innymi projektami filmowymi, podczas gdy scenariusz Raya Gunna – którego współautorem jest Matthew Robbins, który jest także współautorem filmu Baterie nie dołączone do Birda z 1987 r. – „przeleżał w szafce na dokumenty w Warner Brothers” – powiedział reżyser na początku tego roku.",
+        "Inspiracja do powstania filmu pojawiła się, gdy Bird usłyszał początek „Planety Claire” samolotu B-52 (ulubiony utwór, który zawiera także ścieżkę dźwiękową do nowego zwiastuna) i początkowo pomyślał, że to cover motywu muzycznego Henry'ego Manciniego z klasycznego programu telewizyjnego Peter Gunn. Bird jest wieloletnim fanem filmu noir i twardych detektywów i wpadł na pomysł futurystycznego detektywa o imieniu Ray Gunn (oczywiście gra słów oznaczająca „raygun”). „To film noir i twarda kryminał, ale jest w nim o wiele więcej komedii i akcji niż w przeciętnym filmie noir” – powiedział Bird.",
+        "Zgodnie z oficjalnym założeniem: „W Metropii, gigantycznym mieście w alternatywnej przyszłości widzianej z 1939 roku, prywatny detektyw Raymond Gunn (głos Sam Rockwell) zostaje wciągnięty w sprawę dotyczącą kosmitów, morderstwa i gwiazdy multimedialnej o imieniu Venus Nova (głosu podkłada Scarlett Johansson).”",
+        "W przeciwieństwie do oferty Bird’s Pixar, Ray Gunn kieruje reklamy do nieco starszych grup demograficznych i oferuje bardziej dojrzałe tematy."
       ]
     }
   ],
@@ -1748,7 +1753,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "title": "Po rozmowach z Putinem w Moskwie wysłannicy USA udają się na spotkanie z Zełenskim",
       "original_title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
       "is_foreign": true,
       "lang": "EN",
@@ -1759,28 +1764,28 @@
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "Image source, Sputnik / Pool via AFP Image caption, Witkoff and Kushner's visit to Moscow was the latest of many trips the US envoys have made to see Vladimir Putin US envoys Jared Kushner and Steve Witkoff held a fresh round of talks with Russian President Vladimir Putin in Moscow, a day after the latest discussions aimed at ending the war in Ukraine wrapped up in Abu Dhabi.",
-        "The pair are now flying to Dublin to meet Ukraine's President Volodymyr Zelensky, and Witkoff said a new round of trilateral talks had already been agreed with Putin."
+        "Wysłannik USA Steve Witkoff powiedział, że prezydent Putin zgodził się na dołączenie europejskich negocjatorów do kolejnej rundy rozmów na Ukrainie.",
+        "Źródło zdjęcia, Sputnik / Pool za pośrednictwem AFP Tytuł zdjęcia: Wizyta Witkoffa i Kushnera w Moskwie była ostatnią z wielu podróży, jakie wysłannicy USA odbyli w celu spotkania się z Władimirem Putinem Wysłannicy USA Jared Kushner i Steve Witkoff przeprowadzili w Moskwie nową rundę rozmów z prezydentem Rosji Władimirem Putinem, dzień po zakończeniu ostatnich rozmów mających na celu zakończenie wojny na Ukrainie w Abu Zabi.",
+        "Obaj lecą teraz do Dublina, aby spotkać się z prezydentem Ukrainy Wołodymyrem Zełenskim, a Witkoff powiedział, że uzgodniono już z Putinem nową rundę rozmów trójstronnych."
       ],
       "extended_paragraphs": [
-        "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "Image source, Sputnik / Pool via AFP Image caption, Witkoff and Kushner's visit to Moscow was the latest of many trips the US envoys have made to see Vladimir Putin",
-        "US envoys Jared Kushner and Steve Witkoff held a fresh round of talks with Russian President Vladimir Putin in Moscow, a day after the latest discussions aimed at ending the war in Ukraine wrapped up in Abu Dhabi.",
-        "The pair are now flying to Dublin to meet Ukraine's President Volodymyr Zelensky, and Witkoff said a new round of trilateral talks had already been agreed with Putin.",
-        "Earlier on Thursday Zelensky said Ukraine's military was again facing \"systematic\" restrictions to Starlink's military-grade satellite service, Starshield, meaning Kyiv was struggling to intercept Russian jet-powered drones."
+        "Wysłannik USA Steve Witkoff powiedział, że prezydent Putin zgodził się na dołączenie europejskich negocjatorów do kolejnej rundy rozmów na Ukrainie.",
+        "Źródło zdjęcia, Sputnik / Pool za pośrednictwem AFP Tytuł zdjęcia: Wizyta Witkoffa i Kushnera w Moskwie była ostatnią z wielu podróży, jakie wysłannicy USA odbyli w celu spotkania się z Władimirem Putinem",
+        "Wysłannicy USA Jared Kushner i Steve Witkoff przeprowadzili w Moskwie nową rundę rozmów z prezydentem Rosji Władimirem Putinem, dzień po zakończeniu ostatnich rozmów mających na celu zakończenie wojny na Ukrainie w Abu Zabi.",
+        "Obaj lecą teraz do Dublina, aby spotkać się z prezydentem Ukrainy Wołodymyrem Zełenskim, a Witkoff powiedział, że uzgodniono już z Putinem nową rundę rozmów trójstronnych.",
+        "Wcześniej w czwartek Zełenski powiedział, że armia ukraińska ponownie boryka się z „systematycznymi” ograniczeniami w stosunku do wojskowej usługi satelitarnej Starlink, Starshield, co oznacza, że ​​Kijów ma trudności z przechwytywaniem rosyjskich dronów napędzanych odrzutowcami."
       ]
     },
     {
       "id": "swiat-2-9877f3",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Surowce Energetyczne” (Ropa Naftowa) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "title": "„Musimy uciekać”: Wewnątrz zrujnowanej ukraińskiej elektrowni pod ciągłym zagrożeniem ze strony dronów",
       "original_title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
       "is_foreign": true,
       "lang": "EN",
@@ -1791,16 +1796,16 @@
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-        "'We've got to run': Inside ruined Ukraine power plant under constant drone threat Close As peace talks between Ukraine and Russia continue, Ukrainians are facing a rolling schedule of planned power cuts because of intensified Russian attacks on their energy grid.",
-        "Ukraine has responded by striking Russian oil refineries."
+        "Dan Johnson odwiedza jedną z największych elektrowni w kraju, ledwo stojącą po ataku rakiety balistycznej przez Rosję.",
+        "„Musimy uciekać”: wnętrze zrujnowanej ukraińskiej elektrowni pod ciągłym zagrożeniem ze strony dronów Zamknij W miarę kontynuowania rozmów pokojowych między Ukrainą a Rosją Ukraińcy stoją w obliczu ciągłego harmonogramu planowanych przerw w dostawie prądu z powodu wzmożonych ataków Rosji na ich sieć energetyczną.",
+        "Ukraina odpowiedziała strajkiem w rosyjskich rafineriach ropy naftowej."
       ],
       "extended_paragraphs": [
-        "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-        "'We've got to run': Inside ruined Ukraine power plant under constant drone threat Close As peace talks between Ukraine and Russia continue, Ukrainians are facing a rolling schedule of planned power cuts because of intensified Russian attacks on their energy grid. Ukraine has responded by striking Russian oil refineries.",
-        "Officials are concerned that life will quickly become unsustainable for millions of Ukrainians if power supplies cannot be maintained for at least four hours per day. Some privately warn that's close already, as some families are living with outages of up to 20 hours in Kyiv.",
-        "Ukraine correspondent Dan Johnson visits one of the country's power stations on the front lines of the war. Devastated by a direct ballistic missile strike, repair work is hampered by frequent air raids.",
-        "Share close panel Share page Copy link About sharing Related topics War in Ukraine Follow War in Ukraine"
+        "Dan Johnson odwiedza jedną z największych elektrowni w kraju, ledwo stojącą po ataku rakiety balistycznej przez Rosję.",
+        "„Musimy uciekać”: wnętrze zrujnowanej ukraińskiej elektrowni pod ciągłym zagrożeniem ze strony dronów Zamknij W miarę kontynuowania rozmów pokojowych między Ukrainą a Rosją Ukraińcy stoją w obliczu ciągłego harmonogramu planowanych przerw w dostawie prądu z powodu wzmożonych ataków Rosji na ich sieć energetyczną. Ukraina odpowiedziała strajkiem w rosyjskich rafineriach ropy naftowej.",
+        "Urzędnicy obawiają się, że życie milionów Ukraińców szybko stanie się nieznośne, jeśli nie będzie można zapewnić dostaw prądu przez co najmniej cztery godziny dziennie. Niektórzy prywatnie ostrzegają, że to już blisko, gdyż niektóre rodziny w Kijowie borykają się z przerwami w dostawie prądu trwającymi do 20 godzin.",
+        "Korespondent ukraiński Dan Johnson odwiedza jedną z elektrowni znajdujących się na pierwszej linii frontu wojny. Zniszczony bezpośrednim uderzeniem rakiety balistycznej, prace naprawcze utrudniają częste naloty.",
+        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Wojna na Ukrainie Śledź Wojnę na Ukrainie"
       ]
     },
     {
@@ -1812,7 +1817,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "title": "Podejrzewa się, że groźby zamachu bombowego wymuszają nową ewakuację włoskich szkół",
       "original_title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
       "is_foreign": true,
       "lang": "EN",
@@ -1823,16 +1828,16 @@
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-        "Image source, EPA Image caption, Bomb squads have searched many schools but no devices have been found Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-        "Some 1,800 schools, from Milan in the north to Sicily in the south, reported receiving a similar threat to one that created chaos in Italy on Wednesday - even though no devices have been found anywhere."
+        "Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
+        "Źródło zdjęcia, EPA Tytuł zdjęcia: Oddziały bombowe przeszukały wiele szkół, ale nie znaleziono żadnych urządzeń Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
+        "Około 1800 szkół, od Mediolanu na północy po Sycylię na południu, zgłosiło, że w środę otrzymało zagrożenie podobne do tego, które spowodowało chaos we Włoszech – mimo że nigdzie nie znaleziono żadnych urządzeń."
       ],
       "extended_paragraphs": [
-        "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-        "Image source, EPA Image caption, Bomb squads have searched many schools but no devices have been found",
-        "Some 1,800 schools, from Milan in the north to Sicily in the south, reported receiving a similar threat to one that created chaos in Italy on Wednesday - even though no devices have been found anywhere.",
-        "The Italian government has advised schools that \"in the absence of concrete evidence beyond the simple receipt of a mass email indicating a danger, buildings must not not be evacuated\".",
-        "Schools in Scotland and Northern Ireland received threats on Wednesday, too. It is unclear whether the incidents are connected."
+        "Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
+        "Źródło zdjęcia, EPA Tytuł zdjęcia: Oddziały bombowe przeszukały wiele szkół, ale nie znaleziono żadnych urządzeń",
+        "Około 1800 szkół, od Mediolanu na północy po Sycylię na południu, zgłosiło, że w środę otrzymało zagrożenie podobne do tego, które spowodowało chaos we Włoszech – mimo że nigdzie nie znaleziono żadnych urządzeń.",
+        "Włoski rząd zalecił szkołom, aby „w przypadku braku konkretnych dowodów poza zwykłym otrzymaniem masowej wiadomości e-mail wskazującej na niebezpieczeństwo, nie wolno ewakuować budynków”.",
+        "W środę groźby otrzymały także szkoły w Szkocji i Irlandii Północnej. Nie jest jasne, czy zdarzenia są ze sobą powiązane."
       ]
     },
     {
@@ -1840,11 +1845,11 @@
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "title": "Demokrata Scott Colom przechodzi do historii jako pierwszy czarny senator stanu Mississippi od XIX wieku",
       "original_title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "is_foreign": true,
       "lang": "EN",
@@ -1855,16 +1860,16 @@
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-        "Figure caption, Why Democrat Scott Colom’s Senate win in Mississippi is so significant Democrat Scott Colom has won the US Senate race in Mississippi, delivering a shock victory for the party in a deeply conservative state that has elected Republicans for decades.",
-        "Colom's victory makes him the first black person from Mississippi to be seated in the US Senate since Blanche Bruce served from 1875 to 1881."
+        "W stanie, który Trump wygrał dwa lata temu różnicą 22 punktów, zwycięstwo Coloma przedłuża serię zwycięstw Demokratów w Senacie.",
+        "Podpis pod rysunkiem: Dlaczego zwycięstwo Demokraty Scotta Coloma w Senacie w Mississippi jest tak znaczące Demokrata Scott Colom wygrał wyścig do Senatu USA w Mississippi, zapewniając szokujące zwycięstwo partii w głęboko konserwatywnym państwie, które od dziesięcioleci wybierało Republikanów.",
+        "Zwycięstwo Coloma czyni go pierwszym czarnym obywatelem stanu Mississippi zasiadającym w Senacie Stanów Zjednoczonych od czasu, gdy Blanche Bruce sprawowała tę funkcję w latach 1875–1881."
       ],
       "extended_paragraphs": [
-        "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-        "Figure caption, Why Democrat Scott Colom’s Senate win in Mississippi is so significant",
-        "Democrat Scott Colom has won the US Senate race in Mississippi, delivering a shock victory for the party in a deeply conservative state that has elected Republicans for decades.",
-        "Colom's victory makes him the first black person from Mississippi to be seated in the US Senate since Blanche Bruce served from 1875 to 1881.",
-        "Fewer than five thousand votes out of nearly a million counted separated him from his Republican opponent, the incumbent Cindy Hyde-Smith."
+        "W stanie, który Trump wygrał dwa lata temu różnicą 22 punktów, zwycięstwo Coloma przedłuża serię zwycięstw Demokratów w Senacie.",
+        "Podpis pod rysunkiem: Dlaczego zwycięstwo Demokraty Scotta Coloma w Senacie w Mississippi jest tak znaczące",
+        "Demokrata Scott Colom wygrał wyścig do Senatu USA w Mississippi, zapewniając szokujące zwycięstwo partii w głęboko konserwatywnym państwie, które od dziesięcioleci wybierało Republikanów.",
+        "Zwycięstwo Coloma czyni go pierwszym czarnym obywatelem stanu Mississippi zasiadającym w Senacie Stanów Zjednoczonych od czasu, gdy Blanche Bruce sprawowała tę funkcję w latach 1875–1881.",
+        "Od jego republikańskiej rywalki, urzędującej Cindy Hyde-Smith, dzieliło go niecałe pięć tysięcy głosów z prawie miliona naliczonych głosów."
       ]
     },
     {
@@ -1933,6 +1938,70 @@
   ],
   "sport": [
     {
+      "id": "sport-6-eb0c0f",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Chaos, który spowodował, że Carrick od dwuletniego kontraktu został zwolniony w ciągu 15 meczów",
+      "original_title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "10:21",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": true,
+      "summary_points": [
+        "Michael Carrick zostaje trzecim menadżerem Manchesteru United zwolnionym w ciągu trzech sezonów – gdzie poszło źle?",
+        "Reporter Manchesteru United Opublikowano 8 godzin temu Wiadomość dotarła tuż po godzinie 18:00 w niedzielę, 8 listopada.",
+        "Manchester United przegrał 4:2 z Aston Villą, a Old Trafford pogodził się z porażką."
+      ],
+      "extended_paragraphs": [
+        "Michael Carrick zostaje trzecim menadżerem Manchesteru United zwolnionym w ciągu trzech sezonów – gdzie poszło źle?",
+        "Reporter Manchesteru United Opublikowano 8 godzin temu Wiadomość dotarła tuż po godzinie 18:00 w niedzielę, 8 listopada. Manchester United przegrał 4:2 z Aston Villą, a Old Trafford pogodził się z porażką.",
+        "Prośba została wysłana przez osobę, która dobrze zna Michaela Carricka, pracowała z nim i z pierwszej ręki rozumie presję życia w okręgu United ze złotymi rybkami.",
+        "United strzelił dwa gole w doliczonym czasie gry i uratował remis 4-4. Carrick uczcił wyrównanie Patricka Dorgu, podnosząc rękę do góry. Następnie przeszedł po boisku i wykonał ostatnie okrążenie pełne uznania.",
+        "Kiedy kibice United skandowali jego imię, Carrick stanął pośrodku swoich zawodników, aby mieć pewność, że kibice nie zwrócą się przeciwko nim w sposób, w jaki zrobili to po porażce 3:0 z Bournemouth dwa tygodnie wcześniej."
+      ]
+    },
+    {
+      "id": "sport-8-5f1f94",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "McIlroy mocno rozpoczyna walkę, chcąc wyrównać rekord Montgomerie",
+      "original_title": "McIlroy makes strong start in bid to equal Montgomerie's record",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "14:13",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/golf/articles/cwlymny900ezo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c2bd/live/fc48f420-de9c-11f1-9afe-1f03bfe02283.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Rory McIlroy mocno rozpoczyna starania o wyrównujący rekord ósmy tytuł w wyścigu do Dubaju, pokonując rundę otwierającą DP World Tour Championship z trzema underami.",
+        "-5 J Luiten (Ned); -4 JS Olesen (Den); -3 V Perez (Fra), G De Leo (Włochy), F Schott (Niemcy), F Laporta (Włochy), R McIlroy (NI) Wybrani inni: -2 T Hatton (ang.); -1 D Hillier (Nowa Zelandia), J Rahm (Spa); EE Chacarra (Spa), M.",
+        "Wallace (ang.); +2 E Ferguson (Sco), R Fox (Nowa Zelandia), C Jarvis (SA), J Schaper (SA); +3 P Reed (USA); +4 T Fleetwood (angielski), A Rai (angielski) Rory McIlroy mocno rozpoczął starania o wyrównujący rekord ósmy tytuł w wyścigu do Dubaju, zdobywając rundę otwierającą DP World Tour Championship z wynikiem trzech poniżej par."
+      ],
+      "extended_paragraphs": [
+        "Rory McIlroy mocno rozpoczyna starania o wyrównujący rekord ósmy tytuł w wyścigu do Dubaju, pokonując rundę otwierającą DP World Tour Championship z trzema underami.",
+        "-5 J Luiten (Ned); -4 JS Olesen (Den); -3 V Perez (Fra), G De Leo (Włochy), F Schott (Niemcy), F Laporta (Włochy), R McIlroy (NI)",
+        "Wybrani inni: -2 T Hatton (ang.); -1 D Hillier (Nowa Zelandia), J Rahm (Spa); EE Chacarra (Spa), M. Wallace (ang.); +2 E Ferguson (Sco), R Fox (Nowa Zelandia), C Jarvis (SA), J Schaper (SA); +3 P Reed (USA); +4 T Fleetwood (angielski), A Rai (angielski)",
+        "Rory McIlroy mocno rozpoczął starania o wyrównujący rekord ósmy tytuł w wyścigu do Dubaju, zdobywając rundę otwierającą DP World Tour Championship z wynikiem trzech poniżej par.",
+        "Świat numer dwa, którego runda obejmowała pięć birdie i dwa bogey przy wietrznej pogodzie, traci dwa strzały do ​​wczesnego lidera Joosta Luitena."
+      ]
+    },
+    {
       "id": "sport-1-b52ec2",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
@@ -1950,7 +2019,7 @@
       "source_url": "https://sportowefakty.wp.pl/siatkowka/1283868/radomka-nie-przedluzyla-serii-natalia-medrzyk-i-spolka-mocno-ostudzily-zapaly-ra",
       "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af606491a16c2_05452477.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Po sensacyjnym zwycięstwie w Łodzi i pewnym pokonaniu BKS-u, MOYA Radomka Radom liczyła na podtrzymanie serii w meczu z Lotto Chemikiem Police.",
         "Przyjezdne ostudziły zapały Radomianek, wygrywając 3:0.",
@@ -1973,7 +2042,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+      "title": "Jak Pochettino znalazł się na radarze Man Utd i co powiedziano Carrickowi, kiedy",
       "original_title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
       "is_foreign": true,
       "lang": "EN",
@@ -1984,16 +2053,16 @@
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-        "Senior football correspondent Published 2 hours ago Michael Carrick must have known what was coming.",
-        "Not just because reports of his imminent dismissal were widespread - followed by information about who would be replacing him as Manchester United boss."
+        "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
+        "Starszy korespondent piłkarski Opublikowano 2 godziny temu Michael Carrick musiał wiedzieć, co się wydarzy.",
+        "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United."
       ],
       "extended_paragraphs": [
-        "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-        "Senior football correspondent Published 2 hours ago Michael Carrick must have known what was coming.",
-        "Not just because reports of his imminent dismissal were widespread - followed by information about who would be replacing him as Manchester United boss.",
-        "But because, effectively, he and his representatives were given heavy enough indications of what was to follow.",
-        "On Monday, according to well-placed sources, Carrick's agent was contacted by chief executive Omar Berrada to be told he and director of football Jason Wilcox would be heading to Monaco for a planned meeting with co-owner Sir Jim Ratcliffe that would include a discussion about the head coach's future."
+        "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
+        "Starszy korespondent piłkarski Opublikowano 2 godziny temu Michael Carrick musiał wiedzieć, co się wydarzy.",
+        "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United.",
+        "Ale ponieważ w rzeczywistości on i jego przedstawiciele otrzymali wystarczająco wyraźne wskazówki dotyczące tego, co miało nastąpić.",
+        "Według dobrze poinformowanych źródeł w poniedziałek dyrektor generalny Omar Berrada skontaktował się z agentem Carricka i powiedział mu, że on i dyrektor sportowy Jason Wilcox udają się do Monako na zaplanowane spotkanie ze współwłaścicielem Sir Jimem Ratcliffe’em, które będzie obejmować dyskusję na temat przyszłości głównego trenera."
       ]
     },
     {
@@ -2033,11 +2102,11 @@
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Palace sack Sage after 16 games with Frank in advanced talks",
+      "title": "Palace zwolnił Sage'a po 16 meczach z Frankiem w trakcie zaawansowanych rozmów",
       "original_title": "Palace sack Sage after 16 games with Frank in advanced talks",
       "is_foreign": true,
       "lang": "EN",
@@ -2048,16 +2117,16 @@
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
-        "Senior football correspondent Published 12 November 2026, 12:23 GMT Updated 1 hour ago Crystal Palace have sacked manager Pierre Sage after just five months in charge, with the club bottom of the Premier League.",
-        "Sunday's 3-1 defeat by Liverpool was Palace's fourth in succession in the Premier League."
+        "Crystal Palace zwolniło menadżera Pierre'a Sage'a po 16 meczach na stanowisku trenera i klubowym dole tabeli.",
+        "Starszy korespondent piłkarski Opublikowano 12 listopada 2026 r., 12:23 GMT Zaktualizowano godzinę temu Crystal Palace zwolniło menadżera Pierre'a Sage'a już po pięciu miesiącach na stanowisku, co oznacza klub znajdujący się na dnie Premier League.",
+        "Niedzielna porażka 3:1 z Liverpoolem była czwartą z rzędu porażką Palace w Premier League."
       ],
       "extended_paragraphs": [
-        "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
-        "Senior football correspondent Published 12 November 2026, 12:23 GMT Updated 1 hour ago Crystal Palace have sacked manager Pierre Sage after just five months in charge, with the club bottom of the Premier League.",
-        "Sunday's 3-1 defeat by Liverpool was Palace's fourth in succession in the Premier League.",
-        "The Eagles have won just two of their opening 10 games and also have the worst defensive record in the league, conceding 24 goals.",
-        "Palace are also 21st in the 36-team Europa League table, with one win from their four matches."
+        "Crystal Palace zwolniło menadżera Pierre'a Sage'a po 16 meczach na stanowisku trenera i klubowym dole tabeli.",
+        "Starszy korespondent piłkarski Opublikowano 12 listopada 2026 r., 12:23 GMT Zaktualizowano godzinę temu Crystal Palace zwolniło menadżera Pierre'a Sage'a już po pięciu miesiącach na stanowisku, co oznacza klub znajdujący się na dnie Premier League.",
+        "Niedzielna porażka 3:1 z Liverpoolem była czwartą z rzędu porażką Palace w Premier League.",
+        "Orły wygrały tylko dwa z pierwszych 10 meczów i mają także najgorszy bilans w defensywie w lidze, tracąc 24 gole.",
+        "Palace zajmuje także 21. miejsce w tabeli Ligi Europy liczącej 36 drużyn i ma na koncie jedno zwycięstwo w czterech meczach."
       ]
     },
     {
@@ -2093,38 +2162,6 @@
       ]
     },
     {
-      "id": "sport-6-eb0c0f",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "original_title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "10:21",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
-        "Manchester United reporter Published 8 hours ago It was just after 6pm on Sunday, 8 November when the message landed.",
-        "Manchester United were 4-2 down to Aston Villa, and Old Trafford was resigned to defeat."
-      ],
-      "extended_paragraphs": [
-        "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
-        "Manchester United reporter Published 8 hours ago It was just after 6pm on Sunday, 8 November when the message landed. Manchester United were 4-2 down to Aston Villa, and Old Trafford was resigned to defeat.",
-        "The plea came from someone who knows Michael Carrick well, has worked with him and understands at first hand the pressures of life in the United goldfish bowl.",
-        "United scored twice in stoppage time to salvage a 4-4 draw. Carrick celebrated Patrick Dorgu's equaliser by raising an arm in the air. After that, he walked round the pitch on what has turned out to be a final lap of appreciation.",
-        "As the United supporters sang his name, Carrick placed himself in the middle of his players to ensure the fans did not turn on them in the way they had done after the 3-0 defeat by Bournemouth two weeks before."
-      ]
-    },
-    {
       "id": "sport-7-cc0d3c",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
@@ -2154,38 +2191,6 @@
         "Spotkanie Włochy - Francja ma kluczowe znaczenie w walce o awans do ćwierćfinału Ligi Narodów. W zdecydowanie lepszej sytuacji są Francuzi, którzy po czterech meczach mają na koncie 10 punktów. Włosi zgromadzili trzy punkty mniej. Transmisja z hitu Ligi Mistrzów dostępna będzie w TV i online. Teraz dostęp do Polsat Box Go możesz odebrać na 3 miesiące w prezencie.",
         "Spotkanie Włochy - Francja odbędzie się 12 listopada (czwartek). Pierwszy gwizdek sędziego zabrzmi o godzinie 20:45.",
         "Z meczu Włochy - Francja transmisja w telewizji dostępna będzie na kanałach Polsat Sport 1 i TVP Sport. Drogą internetową spotkanie można śledzić na platformie Polsat Box Go. Niżej wyjaśniamy jak odebrać do niej dostęp na 3 miesiące w prezencie."
-      ]
-    },
-    {
-      "id": "sport-8-5f1f94",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "McIlroy makes strong start in bid to equal Montgomerie's record",
-      "original_title": "McIlroy makes strong start in bid to equal Montgomerie's record",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:13",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/golf/articles/cwlymny900ezo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c2bd/live/fc48f420-de9c-11f1-9afe-1f03bfe02283.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Rory McIlroy makes a strong start to his bid for a record-equalling eighth Race to Dubai title with a three under opening round at the DP World Tour Championship.",
-        "-5 J Luiten (Ned); -4 JS Olesen (Den); -3 V Perez (Fra), G De Leo (Ita), F Schott (Ger), F Laporta (Ita), R McIlroy (NI) Selected others: -2 T Hatton (Eng); -1 D Hillier (NZ), J Rahm (Spa); E E Chacarra (Spa), M Wallace (Eng); +2 E Ferguson (Sco), R Fox (NZ), C Jarvis (SA), J Schaper (SA); +3 P Reed (US); +4 T Fleetwood (Eng), A Rai (Eng) Rory McIlroy made a strong start to his bid for a record-equalling eighth Race to Dubai title with a three-under-par opening round at the DP World Tour Championship.",
-        "The world number two, whose round included five birdies and two bogeys in windy conditions, is two shots behind early leader Joost Luiten."
-      ],
-      "extended_paragraphs": [
-        "Rory McIlroy makes a strong start to his bid for a record-equalling eighth Race to Dubai title with a three under opening round at the DP World Tour Championship.",
-        "-5 J Luiten (Ned); -4 JS Olesen (Den); -3 V Perez (Fra), G De Leo (Ita), F Schott (Ger), F Laporta (Ita), R McIlroy (NI)",
-        "Selected others: -2 T Hatton (Eng); -1 D Hillier (NZ), J Rahm (Spa); E E Chacarra (Spa), M Wallace (Eng); +2 E Ferguson (Sco), R Fox (NZ), C Jarvis (SA), J Schaper (SA); +3 P Reed (US); +4 T Fleetwood (Eng), A Rai (Eng)",
-        "Rory McIlroy made a strong start to his bid for a record-equalling eighth Race to Dubai title with a three-under-par opening round at the DP World Tour Championship.",
-        "The world number two, whose round included five birdies and two bogeys in windy conditions, is two shots behind early leader Joost Luiten."
       ]
     }
   ],
@@ -2235,7 +2240,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA).",
       "key_metrics": [],
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "title": "Fed twierdzi, że w ramach zmiany polityki na posiedzeniu w październiku 2027 r. nie będzie głosowania w sprawie stóp procentowych",
       "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "is_foreign": true,
       "lang": "EN",
@@ -2246,16 +2251,16 @@
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-        "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
-        "According to an announcement Thursday, the rate-setting Federal Open Market Committee will set aside its Oct."
+        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
+        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
+        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”."
       ],
       "extended_paragraphs": [
-        "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-        "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
-        "According to an announcement Thursday, the rate-setting Federal Open Market Committee will set aside its Oct. 26-27 session for \"the discussion of broad monetary policy strategy issues.\"",
-        "Warsh announced the move at his news conference after the FOMC met in October, though he did not specify which meeting would be affected.",
-        "In 2027, there will be seven voting meetings, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement. The new calendar shows that the final meeting of the year will now take place in November. It had previously been set for December."
+        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
+        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
+        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”.",
+        "Warsh ogłosił to posunięcie na konferencji prasowej po październikowym posiedzeniu FOMC, choć nie określił, na które posiedzenie będzie to miało wpływ.",
+        "W 2027 r. odbędzie się siedem posiedzeń z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
       ]
     },
     {
@@ -2299,15 +2304,15 @@
       "entity_tag": "Ropa Naftowa",
       "sector": "Surowce Energetyczne",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 1.9%, 2%, 16%) bez bezpośredniego szoku wycenowego.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 1,9%, 2%, 16%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "1.9%",
+        "1,9%",
         "2%",
         "16%"
       ],
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "title": "Ceny ropy rosną po tym, jak Trump twierdzi, że porozumienie z Iranem nie jest potrzebne: „Mamy ich cieśninę”",
       "original_title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "is_foreign": true,
       "lang": "EN",
@@ -2318,16 +2323,16 @@
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-        "oil prices rose Thursday, as comments from President Donald Trump stoked worries that an end to the U.S.-Iran war was not in sight.",
-        "Brent crude traded 1.9% higher at $94.48 per barrel."
+        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ropa Brent notowana była o 1,9% wyżej, przy cenie 94,48 dolarów za baryłkę."
       ],
       "extended_paragraphs": [
-        "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-        "U.S. oil prices rose Thursday, as comments from President Donald Trump stoked worries that an end to the U.S.-Iran war was not in sight.",
-        "Brent crude traded 1.9% higher at $94.48 per barrel. West Texas Intermediate futures were up 2% at $88.19 per barrel.",
-        "\"We don't need a deal with Iran. Those days have long since passed. We've got their money, Hundreds of Billions of Dollars, and we've got their Strait!\" Trump said in a Truth Social post .",
-        "Brent and WTI- YTD Thursday's moves come as oil prices have been under pressure after comments from Trump following the U.S. midterm elections eased fears of further strikes on Iran. WTI is down 16% in November, and Brent has lost 20%."
+        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ropa Brent notowana była o 1,9% wyżej, przy cenie 94,48 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2%, osiągając poziom 88,19 dolarów za baryłkę.",
+        "„Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły. Mamy ich pieniądze, setki miliardów dolarów i mamy ich Cieśninę!” Trump oświadczył w poście Truth Social.",
+        "Czwartkowe ruchy Brent i WTI-YTD wynikają z presji cen ropy naftowej po tym, jak komentarze Trumpa po wyborach śródokresowych w USA złagodziły obawy przed dalszymi atakami na Iran. WTI spadło w listopadzie o 16%, a Brent o 20%."
       ]
     },
     {
@@ -2364,14 +2369,14 @@
     },
     {
       "id": "rynki-6-961ce6",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) bez bezpośredniego szoku wycenowego.",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [],
-      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "title": "Chińskie Ministerstwo Bezpieczeństwa Państwowego znalazło się w centrum uwagi po aferze z dyrektorem generalnym Nvidii",
       "original_title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
       "is_foreign": true,
       "lang": "EN",
@@ -2382,16 +2387,16 @@
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-        "students to allegations surrounding Nvidia's Jensen Huang affair, reports point to one Chinese intelligence agency: the Ministry of State Security.",
-        "The opaque government entity — which lacks an official website other than one supporting whistleblowers — has gained prominence with Beijing's growing emphasis on national security since 2023."
+        "Chińskie Ministerstwo Bezpieczeństwa Państwowego przyciąga uwagę po doniesieniach o romansie dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym szpiegiem MSS.",
+        "Od rekrutacji amerykańskich studentów po zarzuty dotyczące afery Nvidii Jensena Huanga – raporty wskazują na jedną chińską agencję wywiadowczą: Ministerstwo Bezpieczeństwa Państwowego.",
+        "Ta nieprzejrzysta jednostka rządowa – nieposiadająca oficjalnej strony internetowej innej niż strona wspierająca sygnalistów – zyskała na znaczeniu wraz z rosnącym naciskiem Pekinu na bezpieczeństwo narodowe od 2023 r. Ministerstwo nadzoruje szereg biur na szczeblu prowincji i kraju, w tym zajmujących się gromadzeniem danych wywiadowczych."
       ],
       "extended_paragraphs": [
-        "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-        "From recruitment of U.S. students to allegations surrounding Nvidia's Jensen Huang affair, reports point to one Chinese intelligence agency: the Ministry of State Security.",
-        "The opaque government entity — which lacks an official website other than one supporting whistleblowers — has gained prominence with Beijing's growing emphasis on national security since 2023. The ministry oversees a range of provincial and national-level bureaus, including for intelligence gathering.",
-        "While the MSS is not Beijing's only intelligence entity , the ministry has often been named in high-profile cases. Following hacking attempts on U.S. entities, the U.S. Treasury Department has in recent years sanctioned Chinese entities and individuals it alleges are affiliated with MSS.",
-        "The Financial Times and The New York Times this month reported, citing sources, that U.S. government intelligence believe the MSS recruited businesswoman Alice Huang to gather information on Nvidia CEO Jensen Huang. The two are not related. Jensen Huang admitted to an affair over the weekend, but it remains unclear whether any sensitive information was shared."
+        "Chińskie Ministerstwo Bezpieczeństwa Państwowego przyciąga uwagę po doniesieniach o romansie dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym szpiegiem MSS.",
+        "Od rekrutacji amerykańskich studentów po zarzuty dotyczące afery Nvidii Jensena Huanga – raporty wskazują na jedną chińską agencję wywiadowczą: Ministerstwo Bezpieczeństwa Państwowego.",
+        "Ta nieprzejrzysta jednostka rządowa – nieposiadająca oficjalnej strony internetowej innej niż strona wspierająca sygnalistów – zyskała na znaczeniu wraz z rosnącym naciskiem Pekinu na bezpieczeństwo narodowe od 2023 r. Ministerstwo nadzoruje szereg biur na szczeblu prowincji i kraju, w tym zajmujących się gromadzeniem danych wywiadowczych.",
+        "Choć MSS nie jest jedyną jednostką wywiadowczą Pekinu, jego nazwisko często pojawia się w głośnych sprawach. W następstwie prób włamań do podmiotów w USA Departament Skarbu USA nałożył w ostatnich latach sankcje na chińskie podmioty i osoby, które według niego są powiązane z MSS.",
+        "W tym miesiącu dzienniki „Financial Times” i „The New York Times” doniosły, powołując się na źródła, że ​​według wywiadu rządu USA MSS zwerbowało bizneswoman Alice Huang w celu zebrania informacji na temat dyrektora generalnego Nvidii, Jensena Huanga. Jedno i drugie nie jest ze sobą powiązane. Jensen Huang przyznał się w weekend do romansu, ale nie jest jasne, czy udostępniono jakiekolwiek wrażliwe informacje."
       ]
     },
     {
@@ -2432,7 +2437,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
       "key_metrics": [],
-      "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+      "title": "„Gwiezdne wojny” Disneya pojawią się w Cosm Domes przed 50. rocznicą w ramach wieloletniej umowy filmowej",
       "original_title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
       "is_foreign": true,
       "lang": "EN",
@@ -2443,16 +2448,16 @@
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
-        "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
-        "On Thursday, the immersive entertainment technology company announced a new studio partnership with The Walt Disney Co.",
-        "that will bring the original \"Star Wars\" to its domes early next year as part of a multiyear, multifilm collaboration."
+        "Cosm nawiązał współpracę z Disneyem, dzięki której w swoich kopułach pojawi się „Gwiezdne wojny: Nowa nadzieja” w ramach wieloletniej współpracy obejmującej wiele filmów.",
+        "W czwartek firma zajmująca się technologią immersyjnej rozrywki ogłosiła nawiązanie nowej współpracy studyjnej z The Walt Disney Co., w ramach której oryginalne „Gwiezdne Wojny” pojawią się w swoich kinach na początku przyszłego roku w ramach wieloletniej współpracy obejmującej wiele filmów.",
+        "Ogromne wklęsłe ekrany Cosma przeniosą fanów filmu do odległej galaktyki już w marcu, tuż przed przypadającymi w maju 50."
       ],
       "extended_paragraphs": [
-        "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
-        "On Thursday, the immersive entertainment technology company announced a new studio partnership with The Walt Disney Co. that will bring the original \"Star Wars\" to its domes early next year as part of a multiyear, multifilm collaboration.",
-        "Cosm's massive concave screens will drop film fans into a galaxy far, far away starting in March, just ahead of the Academy Award-winning film's 50th anniversary in May.",
-        "\"We are thrilled to add the Disney partnership,\" Alexis Scalice, head of Cosm Studios, told CNBC. \"We do look for those opportunities of these like anniversary and commemorative moments. We look for those opportunities to celebrate with the fans, but also find this mutually beneficial partnership between both parties.\"",
-        "This will be Cosm's sixth theatrical collaboration with Hollywood, having already partnered with Warner Bros. to bring \"The Matrix,\" \"Willy Wonka & the Chocolate Factory,\" \"Harry Potter and the Sorcerer's Stone\" and \"It\" to its locations. The company is set to launch immersive screenings of Universal's \"Shrek\" in December."
+        "Cosm nawiązał współpracę z Disneyem, dzięki której w swoich kopułach pojawi się „Gwiezdne wojny: Nowa nadzieja” w ramach wieloletniej współpracy obejmującej wiele filmów.",
+        "W czwartek firma zajmująca się technologią immersyjnej rozrywki ogłosiła nawiązanie nowej współpracy studyjnej z The Walt Disney Co., w ramach której oryginalne „Gwiezdne Wojny” pojawią się w swoich kinach na początku przyszłego roku w ramach wieloletniej współpracy obejmującej wiele filmów.",
+        "Ogromne wklęsłe ekrany Cosma przeniosą fanów filmu do odległej galaktyki już w marcu, tuż przed przypadającymi w maju 50. rocznicą powstania nagrodzonego Oscarem filmu.",
+        "„Jesteśmy podekscytowani możliwością współpracy z Disneyem” – powiedział CNBC Alexis Scalice, szef Cosm Studios. „Szukamy okazji, takich jak rocznice i momenty upamiętniające. Szukamy okazji do świętowania z fanami, ale także znajdujemy obopólnie korzystne partnerstwo między obiema stronami”.",
+        "Będzie to szósta współpraca teatralna Cosma z Hollywood, po tym jak Cosm współpracował już z Warner Bros. przy wprowadzaniu do swoich lokalizacji filmów „Matrix”, „Willy Wonka i fabryka czekolady”, „Harry Potter i kamień filozoficzny” oraz „To”. Firma planuje rozpocząć w grudniu immersyjne pokazy „Shrka” wytwórni Universal."
       ]
     }
   ]

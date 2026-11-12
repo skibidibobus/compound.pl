@@ -3,10 +3,10 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.316",
-    "last_updated": "2026-11-12 19:52",
+    "last_updated": "2026-11-12 23:56",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
-    "foreign_translated_count": 20,
+    "foreign_translated_count": 19,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$71,582",
-      "change": "-3.87%",
+      "price": "$71,347",
+      "change": "-3.54%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$2,010",
-      "change": "-3.65%",
+      "price": "$2,017",
+      "change": "-1.90%",
       "is_positive": false
     },
     {
@@ -958,7 +958,7 @@
       "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:26",
+      "time": "19:05",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108476204-1793214824844-gettyimages-2301908968-WARSH_FOMC.jpeg?v=1793214844&amp;w=1920&amp;h=1080",
@@ -974,7 +974,7 @@
         "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
         "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”.",
         "Warsh ogłosił to posunięcie na konferencji prasowej po październikowym posiedzeniu FOMC, choć nie określił, na które posiedzenie będzie to miało wpływ.",
-        "W 2027 r. odbędzie się siedem posiedzeń z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
+        "W 2027 r. odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
       ]
     },
     {
@@ -1020,17 +1020,16 @@
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 1,9%, 2%, 16%) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 3,3%, 2,6%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "1,9%",
-        "2%",
-        "16%"
+        "3,3%",
+        "2,6%"
       ],
       "title": "Ceny ropy rosną po tym, jak Trump twierdzi, że porozumienie z Iranem nie jest potrzebne: „Mamy ich cieśninę”",
       "original_title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:44",
+      "time": "23:29",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&amp;w=1920&amp;h=1080",
@@ -1039,14 +1038,14 @@
       "summary_points": [
         "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
         "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ropa Brent notowana była o 1,9% wyżej, przy cenie 94,48 dolarów za baryłkę."
+        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę."
       ],
       "extended_paragraphs": [
         "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
         "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ropa Brent notowana była o 1,9% wyżej, przy cenie 94,48 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2%, osiągając poziom 88,19 dolarów za baryłkę.",
+        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2,6%, osiągając cenę 88,74 dolarów za baryłkę.",
         "„Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły. Mamy ich pieniądze, setki miliardów dolarów i mamy ich Cieśninę!” Trump oświadczył w poście Truth Social.",
-        "Czwartkowe ruchy Brent i WTI-YTD wynikają z presji cen ropy naftowej po tym, jak komentarze Trumpa po wyborach śródokresowych w USA złagodziły obawy przed dalszymi atakami na Iran. WTI spadło w listopadzie o 16%, a Brent o 20%."
+        "Jeffrey Currie, założyciel Real Macro i powszechnie obserwowany prognostyk na Wall Street, powiedział, że ceny ropy naftowej w najbliższej perspektywie pozostaną na niskim poziomie, ponieważ obecnie z Bliskiego Wschodu wypływają znaczne ilości ropy. Zauważył jednak, że niebotycznie wysokie stawki za ubezpieczenia i tankowce utrzymują wysokie ceny długoterminowych kontraktów terminowych na ropę naftową."
       ]
     },
     {
@@ -1114,32 +1113,37 @@
       ]
     },
     {
-      "id": "rynki-7-b7d488",
+      "id": "rynki-7-349aa3",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [],
-      "title": "Kernel zdecydował o tymczasowym zawieszeniu działalności zakładów przetwórstwa nasion roślin oleistych",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 13 proc., 7,94 proc.) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "13 proc.",
+        "7,94 proc."
+      ],
+      "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:18",
+      "time": "23:26",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Kernel-zdecydowal-o-tymczasowym-zawieszeniu-dzialalnosci-zakladow-przetworstwa-nasion-roslin-oleistych-9228119.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/4/2/79deb937fd6fc7-948-568-10-5-1990-1193.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/9/3/8d6d4df8d08771-thumb-1000.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Kernel Holding podjął decyzję o tymczasowym zawieszeniu działalności we wszystkich swoich zakładach przetwórstwa nasion roślin oleistych w związku z nasileniem rosyjskich ataków na ukraiński sektor rolniczy - podała spółka w komunikacie.",
-        "Obszar tematyczny: Giełda & Inwestycje (Rynek Kapitałowy).",
-        "Wydarzenie sklasyfikowano w sektorze: Giełda & Inwestycje (wpływ: LOW)."
+        "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
+        "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.",
+        "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji."
       ],
       "extended_paragraphs": [
-        "Kernel Holding podjął decyzję o tymczasowym zawieszeniu działalności we wszystkich swoich zakładach przetwórstwa nasion roślin oleistych w związku z nasileniem rosyjskich ataków na ukraiński sektor rolniczy - podała spółka w komunikacie. (PAP Biznes)",
-        "Kontekst sektorowy (Giełda & Inwestycje — Rynek Kapitałowy): Informacja o charakterze równoważnym lub sprawozdawczym."
+        "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
+        "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.",
+        "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji.",
+        "Akcje nabyte przez spółkę w ramach programu nabywania akcji własnych mają być przeznaczone do umorzenia. (PAP Biznes)"
       ]
     },
     {
@@ -1177,75 +1181,110 @@
   ],
   "makro": [
     {
-      "id": "makro-3-a97539",
+      "id": "makro-1-4d09e1",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
+      "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 6%, 29%, 4%) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "6%",
-        "29%",
-        "4%"
-      ],
-      "title": "Na koniec sezonu przewozy lotnicze tracą dynamikę",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Elastyczność, czyli jak kupować gaz i na tym zyskać",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:16",
+      "time": "00:00",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://logistyka.rp.pl/lotniczy/art45482261-na-koniec-sezonu-przewozy-lotnicze-traca-dynamike",
-      "image_url": "https://i.gremicdn.pl/image/free/37ae54a9ddbcb86d036a8b120159b56c/pll-lot",
+      "source_url": "https://energia.rp.pl/nowa-energia/art45482221-elastycznosc-czyli-jak-kupowac-gaz-i-na-tym-zyskac",
+      "image_url": "https://i.gremicdn.pl/image/free/48db840bac2648f7c2fb7cc343408102/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": true,
       "summary_points": [
-        "Przedświąteczny sezon kończy się stabilnym wzrostem przewozów i umiarkowanymi cenami czarterów.",
-        "Ceny usług nie nadążają za cenami paliwa.",
-        "W październiku popyt na przewozy lotnicze ładunków wzrósł o 6%, szacuje badająca ten rynek firm Xeneta."
+        "Najnowsze dane Towarowej Giełdy Energii dotyczące średnich cen gazu ziemnego w kontraktach spotowych i rocznych budzą obawy.",
+        "Choć na sytuację na rynku wpływają przede wszystkim czynniki zewnętrzne, nie oznacza to, że odbiorcy są pozbawieni możliwości działania.",
+        "Jednym ze sposobów ograniczenia kosztów jest kontrolowanie rachunków za gaz, a przede wszystkim wybór odpowiedniego kontraktu zakupowego."
       ],
       "extended_paragraphs": [
-        "Przedświąteczny sezon kończy się stabilnym wzrostem przewozów i umiarkowanymi cenami czarterów. Ceny usług nie nadążają za cenami paliwa.",
-        "W październiku popyt na przewozy lotnicze ładunków wzrósł o 6%, szacuje badająca ten rynek firm Xeneta. To siódmy miesiąc nieprzerwanych wzrostów przewozów. – Warunki rynkowe nie wykazują wyraźnych oznak nagłego wzrostu presji na przepustowość, skoku stawek powyżej poziomów obserwowanych już w ciągu roku ani osiągnięcia przez ceny czarteru ładunków „sufitu cenowego” – co mogłoby świadczyć o późnym szczycie przewozów – twierdzi dyrektor ds. frachtu lotniczego w firmie Xeneta Niall van de Wouw.",
-        "Nie spodziewa się, aby ilość ładunków nadawanych wyraźnie wzrosła. Światowe stawki spot w transporcie lotniczym (obowiązujące przez okres do jednego miesiąca) wyniosły w październiku średnio 3,11 dol. za kg, co oznacza wzrost o 29% w porównaniu z tym samym miesiącem ubiegłego roku. Wzrost stawek spot w ujęciu rocznym przyspiesza już drugi miesiąc z rzędu, po wcześniejszym wyhamowaniu w okresie od czerwca do sierpnia. W ujęciu miesięcznym stawki spot wzrosły o 4%, w miarę jak rynek łagodnie wkraczał w czwarty kwartał.",
-        "W październiku na stawki w dalszym ciągu wpływał brak wzrostu przepustowości w ujęciu rocznym (po wzroście o 2% we wrześniu). Ponieważ wielkości przewozów wciąż przewyższały podaż, wskaźnik dynamicznego wykorzystania ładowności – opracowana przez firmę Xeneta miara wykorzystania przepustowości, uwzględniająca objętość i wagę przewożonego ładunku w relacji do dostępnej przestrzeni ładunkowej – wzrósł o dwa punkty procentowe w ujęciu rocznym, osiągając poziom 63%.",
-        "Praca w logistyce PIP postuluje uproszczenie przepisów regulujących wynagrodzenie kierowców Mający za sobą dziesiątki tysięcy kontroli inspektorzy pracy uważają, że przepisy regulujące czas pracy i wynagrodzenie kierowców powinny być upros..."
+        "Najnowsze dane Towarowej Giełdy Energii dotyczące średnich cen gazu ziemnego w kontraktach spotowych i rocznych budzą obawy. Choć na sytuację na rynku wpływają przede wszystkim czynniki zewnętrzne, nie oznacza to, że odbiorcy są pozbawieni możliwości działania. Jednym ze sposobów ograniczenia kosztów jest kontrolowanie rachunków za gaz, a przede wszystkim wybór odpowiedniego kontraktu zakupowego.",
+        "Trendy cenowe na rynku krajowym i europejskim wpływają na ceny gazu zarówno dla gospodarstw domowych, zatwierdzane przez prezesa Urzędu Regulacji Energetyki, jak i dla firm, które kupują surowiec na podstawie indywidualnych umów sprzedaży",
+        "Wysokie ceny gazu ziemnego na rynkach europejskich, sięgające na holenderskiej giełdzie TTF 100 euro/MWh, oraz początek sezonu grzewczego, który tradycyjnie rozpoczyna się w październiku, przekładają się na wzrost cen także w Polsce.",
+        "Średnia cena gazu na rynku spot wyniosła 408,58 zł/MWh i była o 64,23 zł/MWh wyższa niż miesiąc wcześniej. Z kolei na rynku terminowym średnia cena kontraktu z dostawą w 2027 r. osiągnęła w październiku 330,70 zł/MWh, czyli o 64,47 zł/MWh więcej niż we wrześniu 2026 r.",
+        "Wzrost cen następuje w momencie, gdy wiele firm przygotowuje się do zawarcia nowych umów na zakup gazu na przyszły rok."
       ]
     },
     {
-      "id": "makro-5-937d06",
-      "entity_tag": "PZU (GPW: PZU)",
-      "sector": "Ubezpieczenia",
-      "market_impact": "MEDIUM",
+      "id": "makro-2-949d81",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Półprzewodniki & AI” (kluczowe liczby: 550 miliardów dolarów, 415 miliardów funtów) — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [
+        "550 miliardów dolarów",
+        "415 miliardów funtów"
+      ],
+      "title": "Skandaliczny dyrektor generalny Nvidii, Jensen Huang, odchodzi, pogrążając giganta produkującego chipy AI w zamieszaniu",
+      "original_title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:34",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Amerykańscy prawodawcy chcą teraz przesłuchać Huanga, czy jeden z jego rzekomych związków był z chińskim szpiegiem.",
+        "Jensen Huang nagle zrezygnował ze stanowiska dyrektora generalnego giganta produkującego chipy AI, firmy Nvidia, po ujawnieniu rzekomych romansów pozamałżeńskich, co wywołało falę szoku od Doliny Krzemowej po Kapitol.",
+        "Nvidia jest obecnie badana przez amerykańskich prawodawców w Waszyngtonie, którzy żądają od Huanga odpowiedzi na pytania dotyczące tego, czy jeden z jego rzekomych związków był z chińskim szpiegiem."
+      ],
+      "extended_paragraphs": [
+        "Amerykańscy prawodawcy chcą teraz przesłuchać Huanga, czy jeden z jego rzekomych związków był z chińskim szpiegiem.",
+        "Jensen Huang nagle zrezygnował ze stanowiska dyrektora generalnego giganta produkującego chipy AI, firmy Nvidia, po ujawnieniu rzekomych romansów pozamałżeńskich, co wywołało falę szoku od Doliny Krzemowej po Kapitol.",
+        "Nvidia jest obecnie badana przez amerykańskich prawodawców w Waszyngtonie, którzy żądają od Huanga odpowiedzi na pytania dotyczące tego, czy jeden z jego rzekomych związków był z chińskim szpiegiem.",
+        "Nvidia, jedna z najcenniejszych firm na świecie w wyniku boomu na sztuczną inteligencję, straciła 550 miliardów dolarów (415 miliardów funtów) wartości giełdowej w ciągu zaledwie pięciu dni, gdy skandal zdominował pierwsze strony gazet.",
+        "Tymczasowa dyrektor generalna Nvidii, Colette Kress, zwołała nadzwyczajne spotkanie swojego zespołu kierowniczego, aby omówić przyszłość firmy."
+      ]
+    },
+    {
+      "id": "makro-5-811c3c",
+      "entity_tag": "PGE (GPW: PGE)",
+      "sector": "Energetyka",
+      "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Ubezpieczenia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "PZU mocno sięga po AI. „Trwała zmiana sposobu pracy”",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Energetyka” (kluczowe liczby: 210 mld zł, 65 proc., 10 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "210 mld zł",
+        "65 proc.",
+        "10 proc."
+      ],
+      "title": "PGE szykuje grunt pod inwestycje z udziałem polskich firm",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:15",
+      "time": "00:00",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/ubezpieczenia/art45481431-pzu-mocno-siega-po-ai-trwala-zmiana-sposobu-pracy",
-      "image_url": "https://i.gremicdn.pl/image/free/c68bc940ce8f56d2a6c2d369fb4c18a2/",
+      "source_url": "https://energia.rp.pl/nowa-energia/art45482231-pge-szykuje-grunt-pod-inwestycje-z-udzialem-polskich-firm",
+      "image_url": "https://i.gremicdn.pl/image/free/a8b1f00a97a4d63b90130a2ed3aa8c60/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "PZU uruchomiło projekt Transformacja AI.",
-        "Jego celem jest wykorzystanie sztucznej inteligencji do podnoszenia jakości obsługi klientów, wsparcia pracowników i zwiększenia efektywności działania firmy.",
-        "Transformacja AI w PZU to strategiczny projekt, który ma realnie zmieniać sposób działania największego polskiego ubezpieczyciela."
+        "Wykorzystanie w pełni potencjału prowadzonych w kraju inwestycji będzie możliwe wtedy, gdy polskie firmy staną się istotną częścią łańcucha dostaw.",
+        "By zwiększyć szanse lokalnych przedsiębiorców na intratne zlecenia, PGE zorganizowało Dzień Dostawcy Grupy PGE.",
+        "Na konferencji organizowanej przez PGE reprezentanci ministerstw, instytucji i podmiotów rynkowych dyskutowali o tym, jak zwiększać zaangażowanie w procesy inwestycyjne krajowych firm Największa polska firma z sektora energii spotkała się 9 listopada z podmiotami zainteresowanymi współpracą przy realizowanych przez Grupę projektach."
       ],
       "extended_paragraphs": [
-        "PZU uruchomiło projekt Transformacja AI. Jego celem jest wykorzystanie sztucznej inteligencji do podnoszenia jakości obsługi klientów, wsparcia pracowników i zwiększenia efektywności działania firmy.",
-        "Transformacja AI w PZU to strategiczny projekt, który ma realnie zmieniać sposób działania największego polskiego ubezpieczyciela. Obejmuje rozwój nowych rozwiązań opartych na sztucznej inteligencji, budowę odpowiednich kompetencji oraz przygotowanie firmy do szerszego wykorzystania AI w codziennej działalności. Celem wdrażanych rozwiązań jest poprawa jakości obsługi klientów oraz zwiększenie efektywności pracy PZU.",
-        "– Mamy za sobą pierwsze sukcesy we wdrażaniu AI. Dziś, by utrzymać przewagę konkurencyjną, musimy wejść na kolejny poziom i potraktować sztuczną inteligencję jako jeden z kluczowych czynników zwiększających efektywność całej Grupy PZU. To wymaga odwagi, konsekwencji i systemowego podejścia, czyli jednoczesnej modernizacji technologii, świadomego skalowania oraz rozwoju kompetencji w całej firmie. Temu służy uruchomiony przez nas projekt Transformacja AI – mówi Bogdan Benczak, prezes PZU.",
-        "Ubezpieczenia Fascynujący wyścig o fotel lidera segmentu ubezpieczeń OC. PZU dogania Wartę Choć to Warta ma największy udział w segmencie komunikacyjnego ubezpieczenia OC, to PZU znacząco zmniejszyło do niej dystans, a dzięki zmianom w sy...",
-        "Spółka wskazuje, że pierwszym etapem Transformacji AI było zidentyfikowanie obszarów, w których sztuczna inteligencja może przynieść największą wartość biznesową. Podczas szerokich konsultacji wewnątrz PZU zebrano i przeanalizowano ponad 400 pomysłów na wykorzystanie sztucznej inteligencji zgłoszonych przez przedstawicieli jednostek biznesowych. Po serii warsztatów i analiz wyłoniono 10 inicjatyw o największym potencjale biznesowym, które będą rozwijane do końca 2027 r. Obejmują one obszary związane m.in. z obsługą klienta, obsługą klienta, likwidacją szkód, sprzedażą i rozwojem ofert, oceną ryzyka ubezpieczeniowego, dostępem do wiedzy organizacyjnej oraz dalszym rozwojem i optymalizacją usług IT."
+        "Wykorzystanie w pełni potencjału prowadzonych w kraju inwestycji będzie możliwe wtedy, gdy polskie firmy staną się istotną częścią łańcucha dostaw. By zwiększyć szanse lokalnych przedsiębiorców na intratne zlecenia, PGE zorganizowało Dzień Dostawcy Grupy PGE.",
+        "Na konferencji organizowanej przez PGE reprezentanci ministerstw, instytucji i podmiotów rynkowych dyskutowali o tym, jak zwiększać zaangażowanie w procesy inwestycyjne krajowych firm",
+        "Największa polska firma z sektora energii spotkała się 9 listopada z podmiotami zainteresowanymi współpracą przy realizowanych przez Grupę projektach. Do 2035 r. PGE zainwestuje ok. 210 mld zł. Jak zapisano w strategii spółki, minimum 65 proc. w cyklu życia inwestycji ma stanowić komponent krajowy. To niemałe wyzwanie. Aby się do tego właściwie przygotować, firma zaprosiła potencjalnych dostawców produktów i usług na warszawski stadion, PGE Narodowy.",
+        "W wydarzeniu wzięło udział około 500 podmiotów z takich branż, jak energetyka, elektroenergetyka, ciepłownictwo, budownictwo przemysłowe. Pojawili się tu również producenci komponentów i firmy świadczące usługi inżynieryjne, projektowe, wykonawcze, montażowe czy serwisowe. Celem konferencji było przybliżenie planów inwestycyjnych i zakupowych grupy. To również okazja do omówienia ogólnych warunków współpracy, poznania oczekiwań inwestora, ale też wdrożenia firm w kwestie techniczne związane ze startowaniem w przetargach.",
+        "Decyzje podejmowane dziś będą wpływać na krajową gospodarkę przez najbliższe trzy–cztery dekady. I będzie to wpływ niebagatelny. – Analitycy PKO BP przedstawili jakiś czas temu wyliczenie, z którego wynika, że wzrost udziału polskich przedsiębiorstw o 10 proc. daje impuls wzrostu PKB o ponad 3 proc. Chcemy się do tego przyczynić. Jesteśmy na początku drogi. Zamierzamy, wsłuchując się w głosy rynku, sprawić, by również średni i mali przedsiębiorcy mogli uszczknąć z tego tortu. Dzisiejsze spotkanie zapoczątkowuje dialog na dużą skalę. Będziemy spotykać się jeszcze wiele razy, na różnych płaszczyznach, by doskonalić cały proces – mówił prezes zarządu PGE Dariusz Lubera podczas konferencji."
       ]
     },
     {
-      "id": "makro-6-391e97",
+      "id": "makro-8-391e97",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "MEDIUM",
@@ -1268,91 +1307,57 @@
       "lead_story": false,
       "summary_points": [
         "Wielka Brytania odnotowuje imponujący wzrost, ale czy będzie on trwały?",
-        "Źródło obrazu, Press Association Opublikowano 12 listopada 2026 r., 13:26 GMT Zaktualizowano 5 godzin temu Gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat w ciągu trzech miesięcy poprzedzających wrzesień.",
+        "Źródło obrazu, Press Association Opublikowano 12 listopada 2026 r., 13:26 GMT Zaktualizowano 13:27 GMT W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
         "„Na najwyższym biegu” i „uderzająco silny” to opisy 0,7% wzrostu oferowane przez ekonomistów, którzy śledzą każde najmniejsze szmer na temat brytyjskiej gospodarki."
       ],
       "extended_paragraphs": [
         "Wielka Brytania odnotowuje imponujący wzrost, ale czy będzie on trwały?",
-        "Źródło obrazu, Press Association Opublikowano 12 listopada 2026 r., 13:26 GMT Zaktualizowano 5 godzin temu Gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat w ciągu trzech miesięcy poprzedzających wrzesień.",
+        "Źródło obrazu, Press Association Opublikowano 12 listopada 2026 r., 13:26 GMT Zaktualizowano 13:27 GMT W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
         "„Na najwyższym biegu” i „uderzająco silny” to opisy 0,7% wzrostu oferowane przez ekonomistów, którzy śledzą każde najmniejsze szmer na temat brytyjskiej gospodarki.",
         "Jest to ulepszenie „solidnego” i „odpornego”, a zarazem odejście od „najbardziej dotkniętego wojną w Iranie”.",
         "Na tle największych na świecie zakłóceń w przepływach energii, rosnących rynkowych kosztów pożyczek i okrutnych lat od czasu pandemii – wzrost jest imponujący."
       ]
     },
     {
-      "id": "makro-8-7e7c66",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 0,7%) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "0,7%"
-      ],
-      "title": "Gospodarka Wielkiej Brytanii rośnie w najszybszym tempie od ponad dwóch lat",
-      "original_title": "UK economy grows at fastest rate for more than two years",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "11:20",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Według oficjalnych danych, brytyjska gospodarka wzrosła o 0,7% w ciągu trzech miesięcy poprzedzających wrzesień.",
-        "W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
-        "W okresie od lipca do września gospodarka rozwinęła się o 0,7%, przyspieszając w porównaniu z poprzednimi trzema miesiącami, oficjalne dane, pokazy zewnętrzne."
-      ],
-      "extended_paragraphs": [
-        "Według oficjalnych danych, brytyjska gospodarka wzrosła o 0,7% w ciągu trzech miesięcy poprzedzających wrzesień.",
-        "W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
-        "W okresie od lipca do września gospodarka rozwinęła się o 0,7%, przyspieszając w porównaniu z poprzednimi trzema miesiącami, oficjalne dane, pokazy zewnętrzne.",
-        "Solidny wzrost sugeruje, że gospodarka będzie znacznie odporniejsza niż oczekiwano latem, pomimo wpływu wyższych cen energii podczas wojny w Iranie.",
-        "Silny rozwój sektora usług – największej części gospodarki, która obejmuje dobra niefizyczne, takie jak usługi doradcze i programowanie komputerowe, a także hotele i restauracje – pomógł zwiększyć te liczby."
-      ]
-    },
-    {
-      "id": "makro-1-54358f",
+      "id": "makro-3-e8b44b",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
       "key_metrics": [],
-      "title": "Karol Nawrocki ma być przesłuchany. Chodzi o kawalarkę p. Jerzego",
+      "title": "Drga Ci powieka lub łapią Cię skurcze? Przyczyna nie zawsze jest oczywista",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:48",
+      "time": "00:00",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/prawo-karne/art45482281-karol-nawrocki-ma-byc-przesluchany-chodzi-o-kawalarke-p-jerzego",
-      "image_url": "https://i.gremicdn.pl/image/free/6a8de1ae37784d9eea82a46b9e32ac89/",
+      "source_url": "https://www.rp.pl/choroby/art45479101-drga-ci-powieka-lub-lapia-cie-skurcze-przyczyna-nie-zawsze-jest-oczywista",
+      "image_url": "https://i.gremicdn.pl/image/free/57c91409109d8d1805c4a0b767a9db15/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Prokuratura Okręgowa w Gdańsku chce przesłuchać prezydenta Karola Nawrockiego w śledztwie dotyczącym kawalerki przejętej od p.",
-        "Do Kancelarii Prezydenta RP trafiło już pismo w tej sprawie.",
-        "Jak ustalił Onet, prezydent ma zeznawać w charakterze świadka."
+        "Czy drgająca powieka i nocne skurcze łydek zawsze oznaczają brak magnezu?",
+        "Nie, częściej odpowiadają za nie stres, niewyspanie, kawa, wielogodzinna praca przy ekranie i odwodnienie.",
+        "Elektrolity, czyli minerały biorące udział w przewodzeniu impulsów nerwowych, takie jak magnez i potas, mają znaczenie głównie wtedy, gdy organizm traci je z potem lub przy biegunce."
       ],
       "extended_paragraphs": [
-        "Prokuratura Okręgowa w Gdańsku chce przesłuchać prezydenta Karola Nawrockiego w śledztwie dotyczącym kawalerki przejętej od p. Jerzego Ż. Do Kancelarii Prezydenta RP trafiło już pismo w tej sprawie.",
-        "Jak ustalił Onet, prezydent ma zeznawać w charakterze świadka. W piśmie skierowanym do KPRP, śledczy poprosili \"o wskazanie dogodnego dla Pana Prezydenta terminu oraz miejsca przeprowadzenia tej czynności\".",
-        "Rzecznik Prokuratury Okręgowej w Gdańsku prok. Mariusz Duszyński powiedział Onetowi, że decyzję o przesłuchaniu prezydenta podjęto po przeanalizowaniu zgromadzonego w sprawie materiału dowodowego.",
-        "Przypomnijmy, że na początku lipca sąd zwolnił z obowiązku zachowania tajemnicy notarialnej notariusza, który 24 stycznia 2012 r. sporządził akt stanowiący umowę przedwstępną sprzedaży kawalerki. Notariusz został przesłuchany we wrześniu. Po tej czynności prokurator miał podjąć decyzję o \"przeprowadzeniu dodatkowej czynności dowodowej\". Chodziło o przesłuchanie Karola Nawrockiego.",
-        "„Okres dochodzenia został przedłużony do 31 grudnia 2026 r.” - przekazał rzecznik prasowy Prokuratury Okręgowej w Gdańsku."
+        "Czy drgająca powieka i nocne skurcze łydek zawsze oznaczają brak magnezu? Nie, częściej odpowiadają za nie stres, niewyspanie, kawa, wielogodzinna praca przy ekranie i odwodnienie. Elektrolity, czyli minerały biorące udział w przewodzeniu impulsów nerwowych, takie jak magnez i potas, mają znaczenie głównie wtedy, gdy organizm traci je z potem lub przy biegunce. Gdy znasz właściwą przyczynę, łatwiej dobierzesz sposób postępowania i nie sięgasz po suplement na ślepo.",
+        "Drganie powieki i skurcze mięśni pojawiają się razem, bo mają wspólny mechanizm i podobne wyzwalacze. Oba objawy wynikają z nadpobudliwości nerwowo-mięśniowej, czyli sytuacji, w której nerwy wysyłają do mięśni impulsy bez potrzeby. Mięsień odpowiada wtedy mimowolnym napięciem.",
+        "Różnica polega na skali reakcji. Drganie powieki to miokimia, czyli seria drobnych i niebolesnych drgnięć mięśnia okrężnego oka. Skurcz łydki obejmuje cały mięsień, jest bolesny i trwa od kilku sekund do kilku minut.",
+        "Nadpobudliwość nerwów nasilają przede wszystkim przewlekły stres, krótki sen, duże ilości kofeiny i niedostateczne nawodnienie. Dlatego w okresie przemęczenia możesz zauważyć oba objawy jednocześnie, na przykład drgającą powiekę w ciągu dnia i skurcz łydki w nocy.",
+        "Powieka drga najczęściej z powodu stresu, niewyspania, nadmiaru kofeiny i zmęczenia oczu. Drganie zwykle dotyczy jednej, częściej dolnej powieki i trwa od kilku sekund do kilku minut. Może jednak powracać przez kilka dni, a nawet tygodni."
       ]
     },
     {
-      "id": "makro-2-2ce59a",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
+      "id": "makro-4-2ce59a",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Półprzewodniki & AI” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Rynki Globalne” wspierający aktywność gospodarczą i siłę nabywczą.",
       "key_metrics": [],
       "title": "Wzlot i upadek Jensena Huanga – jak gwiazda technologii pogrążyła się w skandalu",
       "original_title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
@@ -1366,19 +1371,19 @@
       "lead_story": false,
       "summary_points": [
         "W ciągu kilku dni status Huanga jako pozornie nietykalnej postaci przewodzącej światowemu wyścigowi technologicznemu upadł.",
-        "Źródło zdjęcia, AFP Autorzy: Michael Race, Peter Hoskins i Lucy Hooker, reporterzy biznesowi Opublikowano 12 listopada 2026 r., 14:18 GMT Zaktualizowano 1 godzinę temu Jensen Huang, znany z noszenia czarnej skórzanej kurtki na imprezach dla akcjonariuszy, wydawał się mieć wszystko.",
-        "Zarówno w USA, jak i w Chinach zabiegali o niego przywódcy, szanowali go inwestorzy i postrzegano go jako lojalnego członka rodziny."
+        "Podpis pod rysunkiem: Samira Hussain z BBC donosi z Wall Street, co oznacza upadek tej supergwiazdy technologii.",
+        "Wyglądało na to, że Jensen Huang, znany z noszenia czarnej skórzanej kurtki na imprezach dla akcjonariuszy, ma wszystko."
       ],
       "extended_paragraphs": [
         "W ciągu kilku dni status Huanga jako pozornie nietykalnej postaci przewodzącej światowemu wyścigowi technologicznemu upadł.",
-        "Źródło zdjęcia, AFP Autorzy: Michael Race, Peter Hoskins i Lucy Hooker, reporterzy biznesowi Opublikowano 12 listopada 2026 r., 14:18 GMT Zaktualizowano 1 godzinę temu Jensen Huang, znany z noszenia czarnej skórzanej kurtki na imprezach dla akcjonariuszy, wydawał się mieć wszystko. Zarówno w USA, jak i w Chinach zabiegali o niego przywódcy, szanowali go inwestorzy i postrzegano go jako lojalnego członka rodziny. Jednak podejście gwiazdy rocka do jego życia osobistego ostatecznie doprowadziło do jego rezygnacji.",
+        "Podpis pod rysunkiem: Samira Hussain z BBC donosi z Wall Street, co oznacza upadek tej supergwiazdy technologii.",
+        "Wyglądało na to, że Jensen Huang, znany z noszenia czarnej skórzanej kurtki na imprezach dla akcjonariuszy, ma wszystko. Zarówno w USA, jak i w Chinach zabiegali o niego przywódcy, szanowali go inwestorzy i postrzegano go jako lojalnego członka rodziny. Jednak podejście gwiazdy rocka do jego życia osobistego ostatecznie doprowadziło do jego rezygnacji.",
         "63-latek jest żonaty od 1985 r., na długo przed założeniem Nvidii – firmy, która zapewniła mu pozycję gwiazdy technologii.",
-        "Dał się poznać jako pracoholik i wymagający menedżer, stawiający wysokie wymagania swoim pracownikom, w tym także jego własnym dzieciom, awansowanym w firmie. Widział jednak, jak w tym tygodniu jego osobista reputacja gwałtownie spadła, zniweczona przez romantyczne uwikłania, które podają w wątpliwość jego skupienie i ocenę sytuacji.",
-        "W czwartek podał się do dymisji po ujawnieniu dwóch kolejnych informacji. Wiadomość o pierwszej – związku z bizneswoman rzekomo chińskim szpiegiem – odbiła się rykoszetem po całym świecie, wywołując zdziwienie wśród inwestorów. W środę pojawiły się doniesienia, że ​​szef techniczny również miał romans z kolegą z Nvidii."
+        "Dał się poznać jako pracoholik i wymagający menadżer, stawiający wysokie wymagania swoim pracownikom, w tym także jego własnym dzieciom, awansowanym w firmie. Widział jednak, jak w tym tygodniu jego osobista reputacja gwałtownie spadła, zniweczona przez romantyczne uwikłania, które podają w wątpliwość jego skupienie i ocenę sytuacji."
       ]
     },
     {
-      "id": "makro-4-f5e888",
+      "id": "makro-6-f5e888",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "LOW",
@@ -1410,110 +1415,111 @@
       ]
     },
     {
-      "id": "makro-7-367f63",
+      "id": "makro-7-98cec9",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 7 tys.) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "7 tys."
-      ],
-      "title": "Prof. Kowalski: Po słowach Sakiewicza, do KRRiT wpłynęło 7 tys. skarg na TV Republika",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Święto w Mediolanie. Włosi lepsi od Francuzów w Lidze Narodów",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:03",
+      "time": "23:26",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/media/art45478571-prof-kowalski-po-slowach-sakiewicza-do-krrit-wplynelo-7-tys-skarg-na-tv-republika",
-      "image_url": "https://i.gremicdn.pl/image/free/116d169cab7561cebe38b51ad6e357cd/",
+      "source_url": "https://sport.rp.pl/pilka-nozna/art45482911-swieto-w-mediolanie-wlosi-lepsi-od-francuzow-w-lidze-narodow",
+      "image_url": "https://i.gremicdn.pl/image/free/a258dcfef370f32215637e0f9992ba76/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Redaktor naczelny Telewizji Republika, relacjonując wydarzenia z Krakowa, naruszył wszystkie standardy pracy dziennikarza i standardy zawodu – twierdzi prof. Tadeusz Kowalski, członek Krajowej Rady Radiofonii i Telewizji.",
-        "Ogólnie rzecz biorąc, tak.",
-        "Chciałbym wprowadzić rozróżnienie: czym są polskie media, a czym są platformy społecznościowe."
+        "Kibice na San Siro, w tym nowy mistrz świata Formuły 1 Kimi Antonelli, obejrzeli świetny mecz, a Włosi niespodziewanie pokonali Francję 3:1.",
+        "Bez Kyliana Mbappe drużynie Zinedine’a Zidane’a trudno zdobywać bramki.",
+        "Zidane już na pewno wie, że przez znaczną część pracy na stanowisku selekcjonera będzie musiał myśleć o tym, jak ułożyć sobie relacje z Mbappe."
       ],
       "extended_paragraphs": [
-        "Redaktor naczelny Telewizji Republika, relacjonując wydarzenia z Krakowa, naruszył wszystkie standardy pracy dziennikarza i standardy zawodu – twierdzi prof. Tadeusz Kowalski, członek Krajowej Rady Radiofonii i Telewizji.",
-        "Ogólnie rzecz biorąc, tak. Chciałbym wprowadzić rozróżnienie: czym są polskie media, a czym są platformy społecznościowe. Coraz rzadziej traktuję platformy społecznościowe jako medium. Medium wymaga jednak profesjonalizmu.",
-        "To bardzo oburzające i uwłaczające policji, bo przecież wiemy, na podstawie dokładnej rekonstrukcji wydarzeń, że w gruncie rzeczy po ok. trzech minutach zamachowiec został unieszkodliwiony. Powiedzenie, że policjanci uciekli, jest haniebne, szkodzące policji i jej wizerunkowi. To jest też działanie nastawione na to, aby ludzie nie czuli się bezpiecznie. Tam była również sugestia, że zamachu dokonała osoba niepolskiej narodowości.",
-        "Biznes Mastercard wycofuje spoty z Telewizji Republika Spoty Mastercard zostały wycofane z Telewizji Republika – przekazała firma serwisowi Wyborcza.biz. Wcześniej współpracę ze stacją zakończyła firma...",
-        "Właśnie. Po pierwsze, użył liczby mnogiej. Nie wiem, na jakiej podstawie. Chociaż początkowo jeden z policjantów chyba się pomylił, bo sądził, że są dwie osoby, ale wycofał się z tego dosyć szybko. Dziennikarz ma obowiązek – przecież nie trzeba tego tłumaczyć – sprawdzenia informacji. Zasada double check, czyli podwójnego sprawdzenia, zawsze obowiązuje. Zanim coś powiesz, pamiętaj, że nie mówisz do siebie, nie mówisz do siebie w środku, tylko mówisz do ludzi. I niestety ten jego przekaz wiralowo rozszedł się po świecie, po Polsce."
+        "Kibice na San Siro, w tym nowy mistrz świata Formuły 1 Kimi Antonelli, obejrzeli świetny mecz, a Włosi niespodziewanie pokonali Francję 3:1. Bez Kyliana Mbappe drużynie Zinedine’a Zidane’a trudno zdobywać bramki.",
+        "Zidane już na pewno wie, że przez znaczną część pracy na stanowisku selekcjonera będzie musiał myśleć o tym, jak ułożyć sobie relacje z Mbappe. Sam grał w Realu Madryt w erze Galacticos, potem prowadził Królewskich, gdzie musiał godzić ze sobą różne charaktery i rozbuchane ego, ale z kapitanem francuskiej reprezentacji może mieć najwięcej zachodu. Nawet jeśli Zidane i Mbappe będą się dogadywali, to i tak dziennikarze będą szukali dziury w całym.",
+        "Podobno, kiedy Zidane wystawił Mbappe na lewym skrzydle we wrześniowych meczach, a na środku ataku dał szansę Ousmane’owi Dembele, to kapitan był z tej decyzji niezadowolony. W październiku napastnik Realu Madryt doznał kontuzji i szybko wyjechał ze zgrupowania, więc nie było czasu porozmawiać. Teraz Mbappe też przyjechał z lekkim urazem, ale nie na tyle poważnym, by dostać wolne i wrócić do Madrytu.",
+        "Zidane nie wystawił najskuteczniejszego strzelca w meczu z Włochami, ale liczy na niego w starciu z Turcją, więc zatrzymał go w kadrze. I znów pojawiły się spekulacje, że to może być podłoże konfliktu.",
+        "Według mediów hiszpańskich Mbappe miał być niezadowolony, bo liczył na szybki powrót do Madrytu, a na piłkarza miał czekać już samolot. Media francuskie twierdzą z kolei, że konfliktu nie ma. Prawdę znają tylko Zidane i Mbappe, ale jedno jest pewne: bez najlepszego strzelca i dodatkowo bez Dembele Francuzi mają kłopoty."
       ]
     }
   ],
   "tech": [
     {
-      "id": "tech-2-4b3121",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Odejście Jensena Huanga stawia pod znakiem zapytania wsparcie Nvidii dla open source",
-      "original_title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:39",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": true,
-      "summary_points": [
-        "Rezygnacja Jensena Huanga rodzi pytania dotyczące zaangażowania Nvidii w sztuczną inteligencję typu open source, w tym przejęcie Hugging Face, modele o otwartej wadze i popieranie ograniczeń w związku z zmianą przywództwa firmy.",
-        "Odejście Jensena Huanga stawia pod znakiem zapytania wsparcie Nvidii dla oprogramowania open source Rebecca Bellan 10:39 PST · 12 listopada 2026 r. Społeczność open source właśnie straciła jednego ze swoich największych zwolenników.",
-        "Dyrektor generalny Nvidii, Jensen Huang, złożył rezygnację ze stanowiska w czwartek po tym, jak przyznał się do romansu z rzekomym chińskim szpiegiem, co wzbudziło obawy o bezpieczeństwo narodowe USA i motywy stojące za poparciem dyrektora dla łagodniejszej kontroli eksportu chipów do Chin."
-      ],
-      "extended_paragraphs": [
-        "Rezygnacja Jensena Huanga rodzi pytania dotyczące zaangażowania Nvidii w sztuczną inteligencję typu open source, w tym przejęcie Hugging Face, modele o otwartej wadze i popieranie ograniczeń w związku z zmianą przywództwa firmy.",
-        "Odejście Jensena Huanga stawia pod znakiem zapytania wsparcie Nvidii dla oprogramowania open source Rebecca Bellan 10:39 PST · 12 listopada 2026 r. Społeczność open source właśnie straciła jednego ze swoich największych zwolenników.",
-        "Dyrektor generalny Nvidii, Jensen Huang, złożył rezygnację ze stanowiska w czwartek po tym, jak przyznał się do romansu z rzekomym chińskim szpiegiem, co wzbudziło obawy o bezpieczeństwo narodowe USA i motywy stojące za poparciem dyrektora dla łagodniejszej kontroli eksportu chipów do Chin.",
-        "Huang był zagorzałym zwolennikiem sztucznej inteligencji typu open source, postrzegając ekosystem jako dobry pod względem bezpieczeństwa, innowacji, rozpowszechniania i suwerenności. A ponieważ pionierskie laboratoria AI w coraz większym stopniu starają się ograniczać swoją zależność od Nvidii i budować własne chipy, wspieranie open source jest dla firmy również dobrym sposobem na dywersyfikację bazy klientów poprzez sprzedaż chipów państwom narodowym, przedsiębiorstwom i każdej organizacji, która chce posiadać własne modele.",
-        "Mimo to rezygnacja Huanga rodzi pytania, czy Nvidia będzie kontynuować jego dziedzictwo, nadal wspierając społeczność otwartych modeli."
-      ]
-    },
-    {
-      "id": "tech-4-04b8ac",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
+      "id": "tech-4-32cde9",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 12,9 miliarda dolarów, 20 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 10 milionów, 500 milionów, 3 miliardy) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [
-        "12,9 miliarda dolarów",
-        "20 miliardów dolarów"
+        "10 milionów",
+        "500 milionów",
+        "3 miliardy"
       ],
-      "title": "Dyrektor generalny Hugging Face przysięga, że po odejściu Jensena Huanga będzie nadal walczyć o sztuczną inteligencję typu open source",
-      "original_title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "title": "Muse może teraz dzwonić do firm w USA – jeśli płacisz",
+      "original_title": "Muse can now place calls to U.S. businesses — if you pay",
       "is_foreign": true,
       "lang": "EN",
-      "time": "17:36",
+      "time": "22:22",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
+      "source_url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104",
       "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
-        "Dyrektor generalny Hugging Face zapowiedział dalszą walkę o sztuczną inteligencję typu open source po odejściu Huanga, co rodzi pytania dotyczące przejęcia Nvidii za 12,9 miliarda dolarów.",
-        "Dyrektor generalny Hugging Face przysięga, że ​​będzie nadal walczyć o sztuczną inteligencję open source po odejściu Jensena Huanga Sarah Perez 9:36 PST · 12 listopada 2026 Dyrektor generalny Hugging Face Clément Delangue krótko skomentował czwartkowe odejście dyrektora generalnego Nvidii, Jensena Huanga, nazywając ten dzień „naprawdę smutnym dniem”.",
-        "Nvidia ogłosiła swój plan nabycia platformy dla modeli sztucznej inteligencji typu open source we wrześniu za 12,9 miliarda dolarów, co czyni ją drugim co do wielkości przejęciem w historii firmy, tuż za aktywami producenta chipów Groq za 20 miliardów dolarów w grudniu 2025 roku."
+        "Sztuczna inteligencja Muse może teraz wykonywać połączenia wychodzące do firm w USA, ale nie jest to bezpłatne.",
+        "Muse może teraz wykonywać połączenia telefoniczne z firmami w USA — jeśli zapłacisz Sarah Perez, godz. 14:22 czasu PST · 12 listopada 2026 r. Po wstępnych testach tej funkcji we wrześniu Muse, agent ds.",
+        "sztucznej inteligencji firmy Meta, może teraz wykonywać połączenia do firm w USA w imieniu swoich użytkowników."
       ],
       "extended_paragraphs": [
-        "Dyrektor generalny Hugging Face zapowiedział dalszą walkę o sztuczną inteligencję typu open source po odejściu Huanga, co rodzi pytania dotyczące przejęcia Nvidii za 12,9 miliarda dolarów.",
-        "Dyrektor generalny Hugging Face przysięga, że ​​będzie nadal walczyć o sztuczną inteligencję open source po odejściu Jensena Huanga Sarah Perez 9:36 PST · 12 listopada 2026 Dyrektor generalny Hugging Face Clément Delangue krótko skomentował czwartkowe odejście dyrektora generalnego Nvidii, Jensena Huanga, nazywając ten dzień „naprawdę smutnym dniem”. Nvidia ogłosiła swój plan nabycia platformy dla modeli sztucznej inteligencji typu open source we wrześniu za 12,9 miliarda dolarów, co czyni ją drugim co do wielkości przejęciem w historii firmy, tuż za aktywami producenta chipów Groq za 20 miliardów dolarów w grudniu 2025 roku.",
-        "\"To wszystko jest do bani i żałuję, że nic takiego się nie wydarzyło. To naprawdę smutny dzień! Ale chcę wyjaśnić jedną rzecz: będziemy nadal walczyć o sztuczną inteligencję typu open source, mocniej niż kiedykolwiek. To zbyt ważne, aby teraz zwalniać. Ruszajmy!\" - napisał Delangue w X.",
-        "Cała ta sytuacja jest beznadziejna i wolałabym, żeby nic takiego się nie wydarzyło. To naprawdę smutny dzień! Chcę jednak wyjaśnić jedną rzecz: będziemy nadal walczyć o sztuczną inteligencję typu open source, trudniej niż kiedykolwiek. To jest zbyt ważne, żeby teraz zwalniać. Chodźmy!",
-        "Post jest interesujący, ponieważ sugeruje, że odejście Huanga może potencjalnie niepokoić zwolenników open source, a on próbuje dodać otuchy."
+        "Sztuczna inteligencja Muse może teraz wykonywać połączenia wychodzące do firm w USA, ale nie jest to bezpłatne.",
+        "Muse może teraz wykonywać połączenia telefoniczne z firmami w USA — jeśli zapłacisz Sarah Perez, godz. 14:22 czasu PST · 12 listopada 2026 r. Po wstępnych testach tej funkcji we wrześniu Muse, agent ds. sztucznej inteligencji firmy Meta, może teraz wykonywać połączenia do firm w USA w imieniu swoich użytkowników. Jednak według firmy dostęp do tej funkcji mają tylko płatni subskrybenci.",
+        "Meta's Muse, która ma obecnie ponad 10 milionów użytkowników, jak podała firma w zeszłym miesiącu, pracuje nad tym, aby sztuczna inteligencja konsumencka stała się głównym produktem dla codziennych użytkowników. Jednym ze sposobów osiągnięcia tego celu jest wykonywanie połączeń telefonicznych, ponieważ może on obsłużyć inne zadanie na listach zadań do wykonania.",
+        "Jak zauważa Alexandr Wang, dyrektor ds. sztucznej inteligencji w Meta i szef działu Superintelligence Labs, funkcja ta może zostać wykorzystana do obsługi połączeń, których ludzie nie chcą wykonywać, na przykład do operatora telewizji kablowej, DMV lub do restauracji, która nie oferuje rezerwacji online.",
+        "🚨ALERT FUNKCJI MUSE!!!🚨 wielu z Was o to pytało… muza może wykonywać dla Was połączenia telefoniczne! ☎️📞📲 pozwól muzie zająć się wszystkimi rozmowami, których nie chcesz wykonywać. ubezpieczenie? kabel? DMV? obiad? to już nie twój problem. teraz dostępny dla płatnych subskrybentów w USA 🇺🇸 pic.twitter.com/dsyMNmI2Ub"
       ]
     },
     {
-      "id": "tech-6-6163d4",
+      "id": "tech-6-7ad70d",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Wpływ na kapitał: Korzystne otoczenie dla sektora bankowego i wyceny PLN (kluczowe liczby: 4,8 miliarda dolarów); stabilizuje oczekiwania dotyczące kosztu pieniądza.",
+      "key_metrics": [
+        "4,8 miliarda dolarów"
+      ],
+      "title": "Rozwijający się skandal Jensena Huanga: oś czasu",
+      "original_title": "The unfolding Jensen Huang scandal: a timeline",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:35",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Jensen Huang zrezygnował z pracy w Nvidii w następstwie romansu, który może mieć konsekwencje dla bezpieczeństwa narodowego, ponieważ Stany Zjednoczone i Chiny ścigają się w rozwijaniu najbardziej zaawansowanej infrastruktury sztucznej inteligencji.",
+        "Rozwijający się skandal z Jensenem Huangiem: harmonogram Amanda Silberling 13:35 PST · 12 listopada 2026 r. Współzałożyciel Nvidii, a obecnie były dyrektor generalny Jensen Huang nigdy nie był tak krzykliwy i podatny na kontrowersje jak liderzy sztucznej inteligencji, tacy jak Sam Altman z OpenAI czy Elon Musk ze SpaceXAI.",
+        "Teraz 63-letni król branży przyznał, że zdradzał swoją żonę od 40 lat w sprawach, które mogły mieć konsekwencje wykraczające poza życie osobiste Huanga i bezpieczeństwo narodowe USA."
+      ],
+      "extended_paragraphs": [
+        "Jensen Huang zrezygnował z pracy w Nvidii w następstwie romansu, który może mieć konsekwencje dla bezpieczeństwa narodowego, ponieważ Stany Zjednoczone i Chiny ścigają się w rozwijaniu najbardziej zaawansowanej infrastruktury sztucznej inteligencji.",
+        "Rozwijający się skandal z Jensenem Huangiem: harmonogram Amanda Silberling 13:35 PST · 12 listopada 2026 r. Współzałożyciel Nvidii, a obecnie były dyrektor generalny Jensen Huang nigdy nie był tak krzykliwy i podatny na kontrowersje jak liderzy sztucznej inteligencji, tacy jak Sam Altman z OpenAI czy Elon Musk ze SpaceXAI. Teraz 63-letni król branży przyznał, że zdradzał swoją żonę od 40 lat w sprawach, które mogły mieć konsekwencje wykraczające poza życie osobiste Huanga i bezpieczeństwo narodowe USA.",
+        "Urzędnicy amerykańscy uważają, że jedna z prawdopodobnych romantycznych zainteresowań Huanga, dyrektor Megaspeed Alice Huang, jest chińskim szpiegiem, który przekazuje informacje Pekinowi. (Alice Huang, obywatelka Chin, nie jest spokrewniona z Jensenem Huangiem.)",
+        "Megaspeed to singapurska firma zajmująca się infrastrukturą sztucznej inteligencji, która według doniesień zakupiła w ciągu ostatnich dwóch lat chipy Nvidia za 4,8 miliarda dolarów. Zarówno Stany Zjednoczone, jak i Singapur prowadziły już wcześniej dochodzenie w sprawie Megaspeed w związku z podejrzeniami, że firma nielegalnie dzieli się chipami z Chinami. Jak podaje „The New York Times”, Departament Sprawiedliwości przejął federalne dochodzenie w sprawie firmy.",
+        "W środę sytuacja nagle nabrała nowego obrotu. Powołując się na pięć osób pracujących dla Nvidii, „The Times” doniósł, że Huang pozostawał także w pozamałżeńskich stosunkach z Kimberly Powell, wiceprezes firmy ds. opieki zdrowotnej, która podlega mu bezpośrednio. Nvidia, Huang i Powell nie potwierdzili tych raportów. Z którym skontaktował się reporter „Los Angeles Times”, Huang podobno powiedział: „Nie sądzę, że powinieneś rozmawiać ze mną bezpośrednio”, po czym się rozłączył."
+      ]
+    },
+    {
+      "id": "tech-8-fc9f3c",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
       "market_impact": "HIGH",
@@ -1521,63 +1527,159 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "United Airlines blokują agentom AI możliwość rezerwacji lotów, powołując się na ryzyko cyberbezpieczeństwa",
-      "original_title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "title": "Z drugiej strony American Cancer Society nalega, aby wszyscy mężczyźni wykonywali badania na raka prostaty",
+      "original_title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
       "is_foreign": true,
       "lang": "EN",
-      "time": "17:17",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801",
-      "image_source": "Fot. / Źródło: TechCrunch",
+      "time": "22:59",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
+      "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "Linia lotnicza oświadczyła, że nie pozwoli klientom korzystać z agentów AI do rezerwacji lotów i zarządzania rezerwacjami.",
-        "United Airlines oświadczyły, że ograniczą dostęp agentom AI, którzy chcą rezerwować loty i zarządzać rezerwacjami w imieniu swoich użytkowników, powołując się na ryzyko dla cyberbezpieczeństwa i podważając przepisy federalne.",
-        "Linia lotnicza jest najnowszym amerykańskim gigantem korporacyjnym, który ma uniemożliwić klientom korzystanie z agentów AI i autonomicznych asystentów w celu uzyskania dostępu do ich systemów."
+        "Mężczyźni w wieku 50–69 lat należący do średniego ryzyka powinni co dwa lata poddawać się badaniom przesiewowym w kierunku PSA.",
+        "Zgodnie z nowymi wytycznymi opublikowanymi w czwartek mężczyźni należący do grupy średniego ryzyka powinni poddawać się badaniu PSA co dwa lata w wieku od 50 do 69 lat.",
+        "Mężczyźni należący do grupy wysokiego ryzyka ze względu na rasę i historię rodzinną powinni rozpocząć badanie wcześniej, w wieku 45 lat, a większości zaleca się poddawać je co roku."
       ],
       "extended_paragraphs": [
-        "Linia lotnicza oświadczyła, że nie pozwoli klientom korzystać z agentów AI do rezerwacji lotów i zarządzania rezerwacjami.",
-        "United Airlines oświadczyły, że ograniczą dostęp agentom AI, którzy chcą rezerwować loty i zarządzać rezerwacjami w imieniu swoich użytkowników, powołując się na ryzyko dla cyberbezpieczeństwa i podważając przepisy federalne.",
-        "Linia lotnicza jest najnowszym amerykańskim gigantem korporacyjnym, który ma uniemożliwić klientom korzystanie z agentów AI i autonomicznych asystentów w celu uzyskania dostępu do ich systemów. Posunięcie to następuje w momencie, gdy linie lotnicze i banki starają się rozróżnić prawdziwych klientów od systemów sztucznej inteligencji działających w ich imieniu, na przykład wtedy, gdy użytkownicy udostępniają swoje dane logowania swoim asystentom AI. Udostępnianie haseł aplikacjom i asystentom może powodować zagrożenia bezpieczeństwa w przypadku wycieku lub ujawnienia tych danych uwierzytelniających.",
-        "United ostrzega, że ​​„udostępnianie danych uwierzytelniających do konta zewnętrznym asystentom AI może ujawnić poufne informacje, a działania podejmowane przez te narzędzia mogą skutkować niezamierzonymi zakupami, zmianami konta lub wykorzystaniem mil MileagePlus”.",
-        "Linia lotnicza ostrzega również przed ryzykiem naruszenia federalnych przepisów lotniczych, na przykład wymaganiem, aby człowiek przeszedł odprawę lotniczą i potwierdził, że jego bagaż nie zawiera zakazanych substancji."
+        "Mężczyźni w wieku 50–69 lat należący do średniego ryzyka powinni co dwa lata poddawać się badaniom przesiewowym w kierunku PSA.",
+        "Zgodnie z nowymi wytycznymi opublikowanymi w czwartek mężczyźni należący do grupy średniego ryzyka powinni poddawać się badaniu PSA co dwa lata w wieku od 50 do 69 lat.",
+        "Mężczyźni należący do grupy wysokiego ryzyka ze względu na rasę i historię rodzinną powinni rozpocząć badanie wcześniej, w wieku 45 lat, a większości zaleca się poddawać je co roku. W szczególności zaleca się coroczne badanie, rozpoczynające się w wieku 45 lat, wszystkim czarnym mężczyznom, u których występuje wyższy wskaźnik raka prostaty. Mężczyźni rasy innej niż czarna powinni również poddawać się corocznym badaniom, począwszy od 45. roku życia, jeśli u ich bliskiego krewnego zdiagnozowano raka prostaty przed 65. rokiem życia lub jeśli więcej niż jeden z ich krewnych chorował na raka prostaty. Z drugiej strony, jeśli tylko u jednego bliskiego krewnego zdiagnozowano raka prostaty i zdiagnozowano go w wieku 65 lat lub więcej, w tym przypadku mężczyźni rasy innej niż czarna powinni rozpocząć badania przesiewowe w kierunku PSA w wieku 45 lat, ale zaleca się poddawanie się badaniom tylko co dwa lata.",
+        "Mężczyźni w wieku od 70 do 74 lat powinni skonsultować się z lekarzem w sprawie kontynuowania badań przesiewowych, natomiast osobom w wieku 75 lat i starszym nie zaleca się poddawania się badaniom przesiewowym.",
+        "Nowe wytyczne odbiegają od poprzedniej wersji ACS opublikowanej w 2010 r., która nie zawierała uniwersalnych zaleceń dotyczących rutynowych badań przesiewowych. Mężczyznom w wieku 50 lat zalecono wspólne podejmowanie z lekarzami decyzji o poddaniu się badaniu. Zalecenie było podobne do zalecenia amerykańskiej grupy zadaniowej ds. usług prewencyjnych – federalnego panelu, który regularnie ocenia dowody i wydaje zalecenia dotyczące takiej profilaktycznej opieki medycznej. (USPSTF pracuje obecnie nad aktualizacją swoich zaleceń dotyczących badań przesiewowych w kierunku raka prostaty, choć należy zauważyć, że panel został niedawno zmieniony przez antyszczepionkowego sekretarza zdrowia Roberta F. Kennedy'ego Jr. i według doniesień wśród nowych członków występuje konflikt interesów.)"
       ]
     },
     {
-      "id": "tech-3-0bcb44",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
+      "id": "tech-7-3bdfba",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
       "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Microsoft (NASDAQ: MSFT) (Chmura & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Nowości tylko dla najdroższych modeli. Seria Galaxy S27 idzie w ślady iPhone’ów",
+      "title": "Microsoft Outlook padł. Problemy zgłaszają użytkownicy na całym świecie",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "16:30",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/seria-galaxy-s27-wyglad-zmiany",
-      "image_url": "https://konto.chip.pl/uploads/2026/02/samsung-galaxy-s26-premiera-11.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "time": "19:35",
+      "source": "Antyweb Innowacje",
+      "source_url": "https://antyweb.pl/microsoft-outlook-padl-problemy-zglaszaja-uzytkownicy-na-calym-swiecie",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/99613028_S.jpg",
+      "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Im bliżej końca roku, tym więcej przecieków na temat Galaxy S27 pojawia się w sieci.",
-        "Wygląda na to, że Samsung coraz mocniej idzie w ślady swojego głównego rywala, wprowadzając nie tylko dodatkowy model, ale też sięgając po zupełnie inną wyspę aparatów oraz znajomą strategię podziału serii.",
-        "Tego typu makiety trafiają zazwyczaj z wyprzedzeniem do producentów etui oraz akcesoriów, dlatego dość wiernie oddają ostateczne kształty obudowy."
+        "Poważna awaria Microsoft 365 daje się we znaki użytkownikom na całym świecie.",
+        "Problemy dotyczą nie tylko poczty Outlook, ale również innych popularnych usług firmy.",
+        "Jeśli pracujesz na Microsoft Outlook i twoje oprogramowanie właśnie zaczęło nawalać, to nie jesteś sam."
       ],
       "extended_paragraphs": [
-        "Im bliżej końca roku, tym więcej przecieków na temat Galaxy S27 pojawia się w sieci. Wygląda na to, że Samsung coraz mocniej idzie w ślady swojego głównego rywala, wprowadzając nie tylko dodatkowy model, ale też sięgając po zupełnie inną wyspę aparatów oraz znajomą strategię podziału serii. Znany z wiarygodnych doniesień informator Sonny Dickson opublikował fotografię […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Znany z wiarygodnych doniesień informator Sonny Dickson opublikował fotografię przedstawiającą fizyczne atrapy nadchodzącej linii Galaxy S27, a konkretnie wariantów Ultra, Pro oraz Plus. Tego typu makiety trafiają zazwyczaj z wyprzedzeniem do producentów etui oraz akcesoriów, dlatego dość wiernie oddają ostateczne kształty obudowy. Najwyraźniej dotychczasowe plotki znów się potwierdzają.",
-        "Już od tygodni po sieci krążą rendery przedstawiające nadchodzącego ultraflagowca, który ma zyskać zupełnie inny wygląd wyspy aparatów niż to, co widzieliśmy w ostatnich kilku generacjach. Zamiast minimalistycznych sensorów lub pigułki, dostaniemy nowy moduł, rozciągający się szeroko przez całą górą część obudowy. Takie rozwiązanie widzieliśmy już w iPhone’ach Pro, choć najbardziej przypomina to Honor 600, zwłaszcza jeśli chodzi o umiejscowienie sensorów. Te znajdą się po lewej stronie. Dostaniemy dwa większe „oczka”, wyraźnie wystające ponad wyspę oraz dwa mniejsze obok.",
-        "Dzięki nowemu przeciekowi wiemy, że taki design dostanie nie tylko Galaxy S27 Ultra, ale również nowość w ofercie, czyli Galaxy S27 Pro. Pod tym względem to dokładnie taka sama strategia, jaką przy designie przyjął Apple, kiedy wprowadził nową wyspę w swoich modelach.",
-        "Tymczasem Galaxy S27+, którego makietę też możemy zobaczyć, pozostanie przy projekcie znanym z poprzedniej generacji. Oznacza to pionowo ułożone sensory otoczone minimalistyczną pigułką, z oczkiem lampy błyskowej, umieszczonym po prawej stronie. Chociaż nie widzimy modelu podstawowego, śmiało można założyć, że on również nie zmieni się względem poprzednika."
+        "Poważna awaria Microsoft 365 daje się we znaki użytkownikom na całym świecie. Problemy dotyczą nie tylko poczty Outlook, ale również innych popularnych usług firmy.",
+        "Jeśli pracujesz na Microsoft Outlook i twoje oprogramowanie właśnie zaczęło nawalać, to nie jesteś sam. Usługa nabawiła się awarii i niespełna setki zgłoszeń w Downdetector. Lepiej wstrzymać się z ważnymi projektami.",
+        "Microsoft potwierdził awarię na swoim profilu Microsoft 365 Status w serwisie X – firma przyznaje, że użytkownicy mogą mieć kłopot z dostępem do skrzynek Exchange Online, czyli zaplecza firmowych i szkolnych kont pocztowych. Początkowo komunikat dotyczył obu Ameryk, jednak w kolejnym wpisie Microsoft zaznaczył, że problem może dotknąć użytkowników Microsoft 365 w dowolnym regionie, także w Polsce. Incydent oznaczono numerem EX1550543.",
+        "Pierwsze sygnały o awarii pojawiły się około 18:00 czasu polskiego. W szczytowym momencie Downdetector notował blisko 140 tysięcy raportów. Użytkownicy skarżą się na problemy z wysyłaniem i odbieraniem wiadomości, wczytywaniem skrzynek, dostępem do kalendarza oraz logowaniem do usług Microsoft 365. Wzrost zgłoszeń widać też w przypadku Teams i Copilota. Co ciekawe, po szczegóły Microsoft odsyła administratorów do centrum Microsoft 365, które – jak donoszą internauci – również ledwo działa.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Według Microsoftu część infrastruktury w wielu regionach jest przeciążona, co prawdopodobnie powoduje błędy połączenia. Firma restartuje i naprawia problematyczne elementy, zaś obciążenie rozkłada na serwery na całym świecie. Sprawdza też, czy przeciążenia nie wywołał nieoczekiwany skok określonego rodzaju ruchu. Liczba zgłoszeń w Downdetector spadła już poniżej 100 tysięcy , ale Microsoft wciąż nie podał, kiedy usługa wróci do pełnej sprawności."
       ]
     },
     {
-      "id": "tech-1-bcdff6",
+      "id": "tech-1-c5e5fe",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Polacy zrobili to, czego nie potrafił nikt inny. Zaobserwowali nowy stan materii kwantowej",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:53",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/nowy-stan-materii-kwantowej-supersolid-polacy",
+      "image_url": "https://konto.chip.pl/uploads/2024/05/kondensat-bosego-einsteina.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Międzynarodowy zespół badawczy z naszymi rodakami w składzie dokonał wielkiego przełomu w badaniach nad kwantową fazą nadstałą.",
+        "Znana również jako nadkrystaliczna, była wcześniej obserwowana jedynie w skrajnie niskich temperaturach.",
+        "Teraz uległo to jednak zmianie."
+      ],
+      "extended_paragraphs": [
+        "Międzynarodowy zespół badawczy z naszymi rodakami w składzie dokonał wielkiego przełomu w badaniach nad kwantową fazą nadstałą. Znana również jako nadkrystaliczna, była wcześniej obserwowana jedynie w skrajnie niskich temperaturach. Teraz uległo to jednak zmianie. Przedstawiciele Uniwersytetu Warszawskiego i Wojskowej Akademii Technicznej prowadzili bowiem swoje eksperymenty w temperaturze pokojowej, o czym piszą teraz na łamach Science […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Polacy zrobili to, czego nie potrafił nikt inny. Zaobserwowali nowy stan materii kwantowej \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Przedstawiciele Uniwersytetu Warszawskiego i Wojskowej Akademii Technicznej prowadzili bowiem swoje eksperymenty w temperaturze pokojowej, o czym piszą teraz na łamach Science Advances . Ich sukces stanowi potwierdzenie przewidywań, które po raz pierwszy pojawiły się w świecie nauki już w latach 60. ubiegłego wieku.",
+        "Czytaj też: Fizycy złamali jedną z podstawowych zasad. Dwa elektrony dokonały czegoś, co miało być niemożliwe",
+        "Faza nadstała jest jednym z najbardziej niezwykłych stanów materii przewidywanych przez fizykę kwantową. Łączy dwie właściwości, które na pierwszy rzut oka wydają się wzajemnie wykluczać: uporządkowaną, charakterystyczną dla kryształów strukturę przestrzenną oraz nadciekłość, czyli zdolność do przepływu bez lepkości. Oznacza to, że materia może jednocześnie zachowywać się jak kryształ i jak doskonały płyn kwantowy.",
+        "Pomimo wieloletnich przewidywań tego fenomenu, jego eksperymentalne potwierdzenie pozostawało ogromnym wyzwaniem przez kolejne dekady. Pierwsza obserwacja w ultrazimnych kondensatach atomowych miała miejsce dopiero w 2017 roku. Najnowsze badania pokazują, iż podobne zjawiska można badać również w zupełnie innym układzie fizycznym – wykorzystując światło i materię w mikrownękach optycznych."
+      ]
+    },
+    {
+      "id": "tech-2-40b8e1",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Demokraci wszczynają śledztwo w sprawie Nvidii, piszą zjadliwy list w sprawie „planu” Huanga z Trumpem",
+      "original_title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:42",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Dochodzenie Kongresu w sprawie sprzedaży Nvidii w Chinach i jej kontaktów z Trumpem jest jak dotąd drugim, odkąd rozeszła się wiadomość o rzekomej aferze szpiegowskiej.",
+        "Demokraci wszczynają śledztwo w sprawie Nvidii, piszą zjadliwy list w sprawie „planu” Huanga z Trumpem Julie Bort 14:42 PST · 12 listopada 2026 r. Demokraci w czwartek rozpoczęli dochodzenie w sprawie sposobu, w jaki administracja Trumpa poradziła sobie ze sprzedażą chipów Nvidii do Chin.",
+        "Wcześniej w czwartek firma odwołała swojego dyrektora generalnego Jensena Huanga."
+      ],
+      "extended_paragraphs": [
+        "Dochodzenie Kongresu w sprawie sprzedaży Nvidii w Chinach i jej kontaktów z Trumpem jest jak dotąd drugim, odkąd rozeszła się wiadomość o rzekomej aferze szpiegowskiej.",
+        "Demokraci wszczynają śledztwo w sprawie Nvidii, piszą zjadliwy list w sprawie „planu” Huanga z Trumpem Julie Bort 14:42 PST · 12 listopada 2026 r. Demokraci w czwartek rozpoczęli dochodzenie w sprawie sposobu, w jaki administracja Trumpa poradziła sobie ze sprzedażą chipów Nvidii do Chin. Wcześniej w czwartek firma odwołała swojego dyrektora generalnego Jensena Huanga. Zgodził się także złożyć zeznania przed innym zestawem komisji Kongresu pod przewodnictwem Republikanów.",
+        "Huang został usunięty z założonej przez siebie firmy po tym, jak przyznał się do romansu pozamałżeńskiego w związku z doniesieniami o związku z kobietą oskarżoną o bycie chińskim szpiegiem. (Od tego czasu oskarżano go o więcej romansów z pracownikami Nvidii.)",
+        "Domniemany chiński szpieg, Alice Huang, była dyrektorem firmy Megaspeed, klienta Nvidii, firmy z siedzibą w Singapurze, którą amerykańscy urzędnicy podejrzewają o pomoc w dostarczaniu zaawansowanych chipów Nvidia do Chin. Dochodzenie Demokratów prowadzi republikanin Richard Neal (ze stanu Massachusetts), czołowy Demokrata w Komisji ds. Sposobów i Środków Izby Reprezentantów, oraz senator Ron Wyden (ze stanu Waszyngton), czołowy Demokrata w Senackiej Komisji Finansów. Jako partia mniejszościowa mogą zadawać pytania, ale nie mogą wymuszać odpowiedzi.",
+        "Ich brzęczący list do Sekretarza Handlu Howarda Lutnicka zwraca się do departamentu o zachowanie dokumentacji dotyczącej porozumienia, które uważają za wątpliwe i, ich zdaniem, nielegalne."
+      ]
+    },
+    {
+      "id": "tech-3-fb1d5c",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "WhatsApp dokłada nową warstwę prywatności. Koniec ze zrzutami ekranu na pamiątkę?",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/whatsapp-doklada-nowa-warstwe-prywatnosci-koniec-ze-zrzutami-ekranu-na-pamiatke",
+      "image_url": "https://konto.chip.pl/uploads/2022/11/whatsapp-ikona.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Wysyłanie komuś numeru karty płatniczej czy po prostu wrażliwej informacji w oknie zwykłego komunikatora zawsze wiąże się z pewnym ryzykiem.",
+        "Nawet jeśli ufamy rozmówcy, taka wiadomość zostaje w historii czatu na zawsze, dopóki ktoś ręcznie jej nie wykasuje.",
+        "WhatsApp od dawna pozwala wysyłać zdjęcia, filmy oraz wiadomości głosowe w trybie „wyświetl raz”, które znikają z […] Pod tym względem nowa opcja działa identycznie jak jej odpowiednik znany ze zdjęć czy nagrań głosowych."
+      ],
+      "extended_paragraphs": [
+        "Wysyłanie komuś numeru karty płatniczej czy po prostu wrażliwej informacji w oknie zwykłego komunikatora zawsze wiąże się z pewnym ryzykiem. Nawet jeśli ufamy rozmówcy, taka wiadomość zostaje w historii czatu na zawsze, dopóki ktoś ręcznie jej nie wykasuje. WhatsApp od dawna pozwala wysyłać zdjęcia, filmy oraz wiadomości głosowe w trybie „wyświetl raz”, które znikają z […]",
+        "Pod tym względem nowa opcja działa identycznie jak jej odpowiednik znany ze zdjęć czy nagrań głosowych. Gdy wyślemy taką wiadomość, a odbiorca ją otworzy i przeczyta, treść trwale znika z jego urządzenia i nie da się do niej wrócić z poziomu historii czatu. Proces nadawania takiej wiadomości została zaprojektowana w intuicyjny sposób i nie wymaga przekopywania się przez ustawienia:",
+        "Warto tu dodać, że ze względów bezpieczeństwa, treść wysłana w tym trybie nie pojawia się bezpośrednio w oknie rozmowy. W wątku widać jedynie specjalny kafelek, który odbiorca musi dotknąć. Wówczas wiadomość otwiera się w osobnym, wydzielonym interfejsie, więc w chwili, gdy użytkownik zamknie to okno, treść ulega skasowaniu bez możliwości ponownego podglądu. Jeśli obie strony mają włączone potwierdzenia odczytu, nadawca zobaczy w czacie stosowny status informujący o tym, że wiadomość została już otwarta.",
+        "Czytaj też: Nowości tylko dla najdroższych modeli. Seria Galaxy S27 idzie w ślady iPhone’ów",
+        "Oprócz tego, takiego tekstu nie będzie można również skopiować, przesłać dalej ani w żaden sposób zapisać. WhatsApp zablokuje też robienie zrzutów ekranu i nagrywanie ekranu w aplikacji, więc to idealny sposób na udostępnianie poufnych danych. Jeśli ktoś chciałby nagrać lub zachować to, co mu wysłaliśmy, musiałby użyć drugiego telefonu by zrobić zdjęcie ekranu. Trochę z tym zachodu, ale dla chcącego nic trudnego, jednak akurat z tym WhatsApp nie bardzo może coś zrobić."
+      ]
+    },
+    {
+      "id": "tech-5-bcdff6",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "LOW",
@@ -1607,145 +1709,11 @@
         "Pakiet Gemini Intelligence to zestaw funkcji sztucznej inteligencji, zarezerwowany dotychczas tylko da Pixeli 11. Teraz natomiast trafia do poprzedniej generacji, wprowadzając kilka konkretnych ułatwień, które mają zdjąć z użytkownika część codziennego klikania:",
         "Żeby nie było, że Google jedynie dba o zeszłoroczne modele, listopadowy Pixel Drop zawiera również garść usprawnień dla „jedenastek”, choć w ich przypadku mówimy raczej o szlifowaniu dotychczasowych pomysłów."
       ]
-    },
-    {
-      "id": "tech-5-390552",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Waze i Garmin łączą siły dla bezpieczeństwa. Tej funkcji brakowało kierowcom",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "16:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/waze-i-garmin-bezpieczenstwo-rowerzystow",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/waze-garmin-fot-pexels-1600x1069.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Relacje na linii kierowcy – rowerzyści rzadko należą do dobrych, zwłaszcza poza miastem, na krętych drogach bez wydzielonych ścieżek.",
-        "Często problemem nie jest nawet zła wola którejkolwiek ze stron, lecz zwykły brak widoczności, który sprawia, że kolarz jadący tuż za zakrętem bywa dla kierowcy całkowitym zaskoczeniem.",
-        "Dzięki temu kierowcy zyskują kilka dodatkowych sekund na zdjęcie nogi z gazu i zachowanie bezpiecznego odstępu."
-      ],
-      "extended_paragraphs": [
-        "Relacje na linii kierowcy – rowerzyści rzadko należą do dobrych, zwłaszcza poza miastem, na krętych drogach bez wydzielonych ścieżek. Często problemem nie jest nawet zła wola którejkolwiek ze stron, lecz zwykły brak widoczności, który sprawia, że kolarz jadący tuż za zakrętem bywa dla kierowcy całkowitym zaskoczeniem. Waze znalazło jednak rozwiązanie tego problemu i nawiązało współpracę […]",
-        "Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Efektem tej kooperacji są nowe, wyświetlane w czasie rzeczywistym ostrzeżenia o rowerzystach znajdujących się na trasie przed samochodem. Dzięki temu kierowcy zyskują kilka dodatkowych sekund na zdjęcie nogi z gazu i zachowanie bezpiecznego odstępu.",
-        "Czytaj też: Na rewolucje jeszcze sobie poczekamy, ale będzie warto. One UI 10 zapowiada się ciekawie",
-        "Nowość jest już stopniowo udostępniana na całym świecie, zarówno w wersji aplikacji na Androida, jak i na system iOS. Trzeba przyznać, że taka funkcja naprawdę była potrzebna, choć oczywiście nie rozwiąże ona wszystkich problemów. Nadal będą kierowcy, którzy z Waze nie korzystają i rowerzyści bez smartwatchy Garmina. Dlatego przede wszystkim trzeba zachowywać na drodze ostrożność, technologia może w tym pomóc, ale nas nie wyręczy.",
-        "Skoro jesteśmy przy zmianach w nawigacjach, warto wspomnieć o tym, nad czym pracuje obecnie konkurencja z Cupertino. W kodzie testowej wersji systemu iOS 27.3 beta odkryto wzmianki o funkcji, która może sprawić, że szacowany czas dotarcia do celu w Mapach Apple stanie się znacznie bliższy rzeczywistości."
-      ]
-    },
-    {
-      "id": "tech-7-927518",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) (kluczowe liczby: 56 proc.) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "56 proc."
-      ],
-      "title": "Nowy komputer Apple powoduje, że ludziom robi się... niedobrze. Co tu się w ogóle dzieje?",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:30",
-      "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/macbook-pro-proled-xdr-zawroty-glowy",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028.jpg",
-      "image_source": "Fot. / Źródło: Antyweb Innowacje",
-      "lead_story": false,
-      "summary_points": [
-        "Masz swojego nowego Macbooka Pro z ekranem PROLED XDR i...",
-        "odczuwasz dziwne zmęczenie oczu, bóle głowy, a nawet nudności.",
-        "Problemem może być tutaj mechanizm regulowania jasności i jak widać np. w mediach społecznościowych, są ludzie, którzy z tego powodu zwracają swoje naprawdę drogie, ale i piękne laptopy."
-      ],
-      "extended_paragraphs": [
-        "Masz swojego nowego Macbooka Pro z ekranem PROLED XDR i... odczuwasz dziwne zmęczenie oczu, bóle głowy, a nawet nudności. Problemem może być tutaj mechanizm regulowania jasności i jak widać np. w mediach społecznościowych, są ludzie, którzy z tego powodu zwracają swoje naprawdę drogie, ale i piękne laptopy.",
-        "AppleInsider opisał sprawę jako pierwszy, powołując się zresztą na relacje użytkowników i rozmowy z pracownikami sklepów Apple operujących przy Genius Barach. Dochodzi nawet do tego, że niektórzy klienci zwracają swoje maszyny. To już dla Apple sygnał alarmowy. Faktem jest, że wśród nas znajdują się ludzie nieco bardziej wrażliwi na pewne charakterystyczne cechy ekranów, a akurat Macbook Pro z PROLED-em XDR nie jest \"zwykły\". Różni się praktycznie od wszystkiego, czego w większości używamy na co dzień.",
-        "PWM to modulacja szerokości impulsów i pozwala ona regulować jasność przez zmianę czasu świecenia bardzo szybkich, kolejno następujących po sobie, cyklach. Tu do gry wchodzi twarda fizyka: gdy spada czas emisji światła, średnia jego ilość spada, a obraz wydaje się ciemniejszy. Nie ma tutaj stałego świecenia ze zmniejszoną mocą. Efektem jest sytuacja, gdzie w trakcie czytania odbywa się owo wspomniane migotanie, jednak bez zauważalnych błysków i sekwencji obniżania lub wzmacniania jasności. Sam ekran PROLED XDR wsparty przez technologię ProMotion działa w zakresie od 10 do 120 Hz.",
-        "Ów panel wykorzystuje mechanizm PWM o częstotliwości 240 Hz, z amplitudą migotania wynoszącą 56 proc. Ale mamy przecież też 14 880 Hz PWM-a w MacBooku Pro z układem M4 Pro i ekranem mini-LED: ów mechanizm więc działa też poza typowymi OLED-ami. Ale czy taka różnica w częstotliwości cokolwiek zmienia i mówi nam o większym lub mniejszym ryzyku powstania nudności w trakcie pracy z takim ekranem? Tak i nie. Pewne jest natomiast to, że na mini-LED-y nikt się nie skarży. Na PROLED-y XDR już tak.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Nadwrażliwość na światło. Możesz nawet nie wiedzieć, że taką masz Co jak co, ale tak drogi sprzęt kupi przede wszystkim osoba, która z komputerem pracuje sporo. Natomiast nadwrażliwość na światło, co objawia się tak, jak wyżej: wcale nie musi powodować li tylko epizodów padaczkowych, to może być nawet minimalny dyskomfort oczu. Tym bardziej, że mówimy tutaj o specyficznej klienteli, która swoje w życiu już przed ekranem przesiedziała. Nawet nie wiecie, jak bardzo moje oczy odpoczywają, gdy oderwę je od ekranów. Niektórzy użytkownicy modeli z PROLED-ami XDR twierdzą, że u nich te epizody trwały kilka dni i wystarczyło się \"przyzwyczaić\". Inni natomiast wskazują, że nie dają rady na nich długo pracować i są zmuszeni je zwrócić."
-      ]
-    },
-    {
-      "id": "tech-8-6bf98a",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Netflix udostępnia nowy zwiastun Raya Gunna",
-      "original_title": "Netflix releases new trailer for Ray Gunn",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:38",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg",
-      "image_source": "Fot. / Źródło: Ars Technica",
-      "lead_story": false,
-      "summary_points": [
-        "„Trudno być jedynym uczciwym graczem w nieuczciwej grze”.",
-        "Jak już informowaliśmy, Bird wyreżyserował kilka z naszych ulubionych filmów animowanych wszech czasów: Żelazny olbrzym (1999), Iniemamocni (2004) i Ratatouille (2007), przy czym dwa ostatnie zdobyły zasłużone Oscary.",
-        "Przez ostatnie 30 lat zastanawiał się nad pomysłem Raya Gunna, pracując nad wieloma innymi projektami filmowymi, podczas gdy scenariusz Raya Gunna – którego współautorem jest Matthew Robbins, który jest także współautorem filmu Baterie nie dołączone do Birda z 1987 r. – „przeleżał w szafce na dokumenty w Warner Brothers” – powiedział reżyser na początku tego roku."
-      ],
-      "extended_paragraphs": [
-        "„Trudno być jedynym uczciwym graczem w nieuczciwej grze”.",
-        "Jak już informowaliśmy, Bird wyreżyserował kilka z naszych ulubionych filmów animowanych wszech czasów: Żelazny olbrzym (1999), Iniemamocni (2004) i Ratatouille (2007), przy czym dwa ostatnie zdobyły zasłużone Oscary. Przez ostatnie 30 lat zastanawiał się nad pomysłem Raya Gunna, pracując nad wieloma innymi projektami filmowymi, podczas gdy scenariusz Raya Gunna – którego współautorem jest Matthew Robbins, który jest także współautorem filmu Baterie nie dołączone do Birda z 1987 r. – „przeleżał w szafce na dokumenty w Warner Brothers” – powiedział reżyser na początku tego roku.",
-        "Inspiracja do powstania filmu pojawiła się, gdy Bird usłyszał początek „Planety Claire” samolotu B-52 (ulubiony utwór, który zawiera także ścieżkę dźwiękową do nowego zwiastuna) i początkowo pomyślał, że to cover motywu muzycznego Henry'ego Manciniego z klasycznego programu telewizyjnego Peter Gunn. Bird jest wieloletnim fanem filmu noir i twardych detektywów i wpadł na pomysł futurystycznego detektywa o imieniu Ray Gunn (oczywiście gra słów oznaczająca „raygun”). „To film noir i twarda kryminał, ale jest w nim o wiele więcej komedii i akcji niż w przeciętnym filmie noir” – powiedział Bird.",
-        "Zgodnie z oficjalnym założeniem: „W Metropii, gigantycznym mieście w alternatywnej przyszłości widzianej z 1939 roku, prywatny detektyw Raymond Gunn (głos Sam Rockwell) zostaje wciągnięty w sprawę dotyczącą kosmitów, morderstwa i gwiazdy multimedialnej o imieniu Venus Nova (głosu podkłada Scarlett Johansson).”",
-        "W przeciwieństwie do oferty Bird’s Pixar, Ray Gunn kieruje reklamy do nieco starszych grup demograficznych i oferuje bardziej dojrzałe tematy."
-      ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-7-536058",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 64 mln, 5 mld, 644 mln zł) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "64 mln",
-        "5 mld",
-        "644 mln zł"
-      ],
-      "title": "Pfizer zablokował aktywa PAŻP. Jest decyzja sądu w Brukseli",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "15:36",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/pfizer-zablokowal-aktywa-polskiej-agencji-jest-decyzja-sadu-w-brukseli/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/5j/5j5ijie2hfunxwa8cw1w4vf3yrcrp9n7.png",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": true,
-      "summary_points": [
-        "Sąd Pierwszej Instancji w Brukseli wydał korzystny wyrok dla strony polskiej w sprawie zajęcia opłat trasowych należnych Polskiej Agencji Żeglugi Powietrznej (PAŻP), pobieranych za pośrednictwem EUROCONTROL - podało w czwartek Ministerstwo Zdrowia.",
-        "Sąd uznał zajęcie za bezzasadne i uchylił postanowienie, na podstawie którego Pfizer dokonał zajęcia tych należności.",
-        "Resort zdrowia podkreślił, że czwartkowy wyrok brukselskiego sądu jest \" ważnym rozstrzygnięciem dla Polski \"."
-      ],
-      "extended_paragraphs": [
-        "Sąd Pierwszej Instancji w Brukseli wydał korzystny wyrok dla strony polskiej w sprawie zajęcia opłat trasowych należnych Polskiej Agencji Żeglugi Powietrznej (PAŻP), pobieranych za pośrednictwem EUROCONTROL - podało w czwartek Ministerstwo Zdrowia. Sąd uznał zajęcie za bezzasadne i uchylił postanowienie, na podstawie którego Pfizer dokonał zajęcia tych należności.",
-        "Resort zdrowia podkreślił, że czwartkowy wyrok brukselskiego sądu jest \" ważnym rozstrzygnięciem dla Polski \". \"Potwierdza ono stanowisko strony polskiej, że należności Agencji nie powinny być objęte egzekucją w sporze, którego PAŻP nie jest stroną\" - podkreślono.",
-        "\"Skarb Państwa - Minister Zdrowia nadal korzysta z przysługujących mu środków prawnych, z poszanowaniem kompetencji i niezależności belgijskich sądów. Ze względu na toczące się postępowania Ministerstwo Zdrowia nie ujawnia szczegółów argumentacji ani planowanych działań procesowych\" - zaznaczono w komunikacie.",
-        "Sąd w Brukseli uznał sprzeciw PAŻP wobec zajęcia komorniczego dokonanego na wniosek Pfizer za zasadny i uchylił postanowienie z 25 czerwca 2026 r., stanowiące podstawę zajęcia komorniczego. Rozstrzygnięcie jest zatem korzystne dla PAŻP, ale wyrok nie jest jeszcze prawomocny.",
-        "Sprawa ma związek ze sporem o szczepionki Pfizera przeciwko COVID-19, których Polska nie odebrała . 1 kwietnia tego roku belgijski sąd orzekł na korzyść koncernu farmaceutycznego, nakazując Polsce odebranie około 64 mln dawek szczepionek i zapłacenie koncernowi 5 mld 644 mln zł. Do zasądzonej kwoty należy dodać również około 170 mln zł kosztów procesowych. Resort zapowiadał odwołanie od wyroku."
-      ]
-    },
-    {
-      "id": "swiat-1-6d9fbd",
+      "id": "swiat-1-127671",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1753,31 +1721,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Po rozmowach z Putinem w Moskwie wysłannicy USA udają się na spotkanie z Zełenskim",
-      "original_title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "title": "Po rozmowach z Putinem w Moskwie wysłannicy USA spotykają się z Zełenskim w Dublinie",
+      "original_title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:28",
+      "time": "21:00",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
       "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
         "Wysłannik USA Steve Witkoff powiedział, że prezydent Putin zgodził się na dołączenie europejskich negocjatorów do kolejnej rundy rozmów na Ukrainie.",
         "Źródło zdjęcia, Sputnik / Pool za pośrednictwem AFP Tytuł zdjęcia: Wizyta Witkoffa i Kushnera w Moskwie była ostatnią z wielu podróży, jakie wysłannicy USA odbyli w celu spotkania się z Władimirem Putinem Wysłannicy USA Jared Kushner i Steve Witkoff przeprowadzili w Moskwie nową rundę rozmów z prezydentem Rosji Władimirem Putinem, dzień po zakończeniu ostatnich rozmów mających na celu zakończenie wojny na Ukrainie w Abu Zabi.",
-        "Obaj lecą teraz do Dublina, aby spotkać się z prezydentem Ukrainy Wołodymyrem Zełenskim, a Witkoff powiedział, że uzgodniono już z Putinem nową rundę rozmów trójstronnych."
+        "Obydwoje przebywają teraz w Dublinie, aby spotkać się z prezydentem Ukrainy Wołodymyrem Zełenskim, a Witkoff powiedział, że uzgodniono już z Putinem nową rundę rozmów trójstronnych."
       ],
       "extended_paragraphs": [
         "Wysłannik USA Steve Witkoff powiedział, że prezydent Putin zgodził się na dołączenie europejskich negocjatorów do kolejnej rundy rozmów na Ukrainie.",
         "Źródło zdjęcia, Sputnik / Pool za pośrednictwem AFP Tytuł zdjęcia: Wizyta Witkoffa i Kushnera w Moskwie była ostatnią z wielu podróży, jakie wysłannicy USA odbyli w celu spotkania się z Władimirem Putinem",
         "Wysłannicy USA Jared Kushner i Steve Witkoff przeprowadzili w Moskwie nową rundę rozmów z prezydentem Rosji Władimirem Putinem, dzień po zakończeniu ostatnich rozmów mających na celu zakończenie wojny na Ukrainie w Abu Zabi.",
-        "Obaj lecą teraz do Dublina, aby spotkać się z prezydentem Ukrainy Wołodymyrem Zełenskim, a Witkoff powiedział, że uzgodniono już z Putinem nową rundę rozmów trójstronnych.",
-        "Wcześniej w czwartek Zełenski powiedział, że armia ukraińska ponownie boryka się z „systematycznymi” ograniczeniami w stosunku do wojskowej usługi satelitarnej Starlink, Starshield, co oznacza, że ​​Kijów ma trudności z przechwytywaniem rosyjskich dronów napędzanych odrzutowcami."
+        "Obydwoje przebywają teraz w Dublinie, aby spotkać się z prezydentem Ukrainy Wołodymyrem Zełenskim, a Witkoff powiedział, że uzgodniono już z Putinem nową rundę rozmów trójstronnych.",
+        "Jednak na znak dalszego napięcia Zełenski powiedział w czwartek rano, że armia ukraińska ponownie boryka się z „systematycznymi” ograniczeniami w stosunku do wojskowej usługi satelitarnej Starlink, Starshield, co oznacza, że ​​Kijów ma trudności z przechwytywaniem rosyjskich dronów napędzanych odrzutowcami."
       ]
     },
     {
-      "id": "swiat-2-9877f3",
+      "id": "swiat-2-9e3187",
       "entity_tag": "Ropa Naftowa",
       "sector": "Surowce Energetyczne",
       "market_impact": "LOW",
@@ -1785,27 +1753,27 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Surowce Energetyczne” (Ropa Naftowa) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "„Musimy uciekać”: Wewnątrz zrujnowanej ukraińskiej elektrowni pod ciągłym zagrożeniem ze strony dronów",
-      "original_title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "title": "Rosyjski okręt wojenny trafiony przez ukraiński dron w Zatoce Fińskiej",
+      "original_title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:02",
+      "time": "20:09",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Dan Johnson odwiedza jedną z największych elektrowni w kraju, ledwo stojącą po ataku rakiety balistycznej przez Rosję.",
-        "„Musimy uciekać”: wnętrze zrujnowanej ukraińskiej elektrowni pod ciągłym zagrożeniem ze strony dronów Zamknij W miarę kontynuowania rozmów pokojowych między Ukrainą a Rosją Ukraińcy stoją w obliczu ciągłego harmonogramu planowanych przerw w dostawie prądu z powodu wzmożonych ataków Rosji na ich sieć energetyczną.",
-        "Ukraina odpowiedziała strajkiem w rosyjskich rafineriach ropy naftowej."
+        "Uważa się, że jest to pierwszy atak ukraińskich dronów na rosyjski statek na otwartym obszarze Morza Bałtyckiego.",
+        "Źródło zdjęcia, rosyjskie wojsko Tytuł zdjęcia: Uważa się, że po ataku „Naro-Fominsk” wrócił do portu w Sankt Petersburgu Fińskie władze potwierdziły, że w środę w Zatoce Fińskiej zaatakowano rosyjski okręt wojenny, choć niewiele wiadomo na temat tego ataku.",
+        "Ukraińska służba bezpieczeństwa SBU oświadczyła, że ​​za cel obrała statek Naro-Fominsk w ramach szerszej operacji dronów przeciwko rosyjskiemu składowi eksportu ropy Ust-Ługa na wybrzeżu Bałtyku."
       ],
       "extended_paragraphs": [
-        "Dan Johnson odwiedza jedną z największych elektrowni w kraju, ledwo stojącą po ataku rakiety balistycznej przez Rosję.",
-        "„Musimy uciekać”: wnętrze zrujnowanej ukraińskiej elektrowni pod ciągłym zagrożeniem ze strony dronów Zamknij W miarę kontynuowania rozmów pokojowych między Ukrainą a Rosją Ukraińcy stoją w obliczu ciągłego harmonogramu planowanych przerw w dostawie prądu z powodu wzmożonych ataków Rosji na ich sieć energetyczną. Ukraina odpowiedziała strajkiem w rosyjskich rafineriach ropy naftowej.",
-        "Urzędnicy obawiają się, że życie milionów Ukraińców szybko stanie się nieznośne, jeśli nie będzie można zapewnić dostaw prądu przez co najmniej cztery godziny dziennie. Niektórzy prywatnie ostrzegają, że to już blisko, gdyż niektóre rodziny w Kijowie borykają się z przerwami w dostawie prądu trwającymi do 20 godzin.",
-        "Korespondent ukraiński Dan Johnson odwiedza jedną z elektrowni znajdujących się na pierwszej linii frontu wojny. Zniszczony bezpośrednim uderzeniem rakiety balistycznej, prace naprawcze utrudniają częste naloty.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Wojna na Ukrainie Śledź Wojnę na Ukrainie"
+        "Uważa się, że jest to pierwszy atak ukraińskich dronów na rosyjski statek na otwartym obszarze Morza Bałtyckiego.",
+        "Źródło zdjęcia, rosyjskie wojsko Tytuł zdjęcia: Uważa się, że po ataku „Naro-Fominsk” wrócił do portu w Sankt Petersburgu",
+        "Fińskie władze potwierdziły, że w środę w Zatoce Fińskiej zaatakowano rosyjski okręt wojenny, choć niewiele wiadomo na temat tego ataku.",
+        "Ukraińska służba bezpieczeństwa SBU oświadczyła, że ​​za cel obrała statek Naro-Fominsk w ramach szerszej operacji dronów przeciwko rosyjskiemu składowi eksportu ropy Ust-Ługa na wybrzeżu Bałtyku.",
+        "Atak, uważany za pierwszy atak ukraińskich dronów na rosyjski statek na obszarze Morza Bałtyckiego otwartym dla cywilnego ruchu morskiego, zrodził pytania, czy Ukraina mogłaby rozszerzyć swoje ataki."
       ]
     },
     {
@@ -1817,11 +1785,11 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Podejrzewa się, że groźby zamachu bombowego wymuszają nową ewakuację włoskich szkół",
+      "title": "Podejrzewane groźby podłożenia bomby wymuszają nową ewakuację włoskich szkół",
       "original_title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
       "is_foreign": true,
       "lang": "EN",
-      "time": "12:39",
+      "time": "19:23",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
@@ -1830,50 +1798,18 @@
       "summary_points": [
         "Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
         "Źródło zdjęcia, EPA Tytuł zdjęcia: Oddziały bombowe przeszukały wiele szkół, ale nie znaleziono żadnych urządzeń Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
-        "Około 1800 szkół, od Mediolanu na północy po Sycylię na południu, zgłosiło, że w środę otrzymało zagrożenie podobne do tego, które spowodowało chaos we Włoszech – mimo że nigdzie nie znaleziono żadnych urządzeń."
+        "Około 3778 szkół, od Mediolanu na północy po Sycylię na południu, zgłosiło w środę zagrożenia podobne do tych, które wywołały chaos, mimo że nie znaleziono żadnych urządzeń wybuchowych."
       ],
       "extended_paragraphs": [
         "Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
         "Źródło zdjęcia, EPA Tytuł zdjęcia: Oddziały bombowe przeszukały wiele szkół, ale nie znaleziono żadnych urządzeń",
-        "Około 1800 szkół, od Mediolanu na północy po Sycylię na południu, zgłosiło, że w środę otrzymało zagrożenie podobne do tego, które spowodowało chaos we Włoszech – mimo że nigdzie nie znaleziono żadnych urządzeń.",
-        "Włoski rząd zalecił szkołom, aby „w przypadku braku konkretnych dowodów poza zwykłym otrzymaniem masowej wiadomości e-mail wskazującej na niebezpieczeństwo, nie wolno ewakuować budynków”.",
-        "W środę groźby otrzymały także szkoły w Szkocji i Irlandii Północnej. Nie jest jasne, czy zdarzenia są ze sobą powiązane."
+        "Około 3778 szkół, od Mediolanu na północy po Sycylię na południu, zgłosiło w środę zagrożenia podobne do tych, które wywołały chaos, mimo że nie znaleziono żadnych urządzeń wybuchowych.",
+        "Rząd zalecił szkołom, aby „w przypadku braku konkretnych dowodów poza zwykłym otrzymaniem masowej wiadomości e-mail wskazującej na niebezpieczeństwo, nie wolno ewakuować budynków”. Władze twierdzą, że w czwartek ewakuowano jedynie 77 szkół, w przeciwieństwie do poprzedniego dnia.",
+        "Premier Giorgia Meloni twierdzi, że jej rząd przedstawi porady „sektorowe”, aby pomóc osobom stojącym w obliczu tego rodzaju zagrożeń."
       ]
     },
     {
-      "id": "swiat-4-aff075",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Demokrata Scott Colom przechodzi do historii jako pierwszy czarny senator stanu Mississippi od XIX wieku",
-      "original_title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:56",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "W stanie, który Trump wygrał dwa lata temu różnicą 22 punktów, zwycięstwo Coloma przedłuża serię zwycięstw Demokratów w Senacie.",
-        "Podpis pod rysunkiem: Dlaczego zwycięstwo Demokraty Scotta Coloma w Senacie w Mississippi jest tak znaczące Demokrata Scott Colom wygrał wyścig do Senatu USA w Mississippi, zapewniając szokujące zwycięstwo partii w głęboko konserwatywnym państwie, które od dziesięcioleci wybierało Republikanów.",
-        "Zwycięstwo Coloma czyni go pierwszym czarnym obywatelem stanu Mississippi zasiadającym w Senacie Stanów Zjednoczonych od czasu, gdy Blanche Bruce sprawowała tę funkcję w latach 1875–1881."
-      ],
-      "extended_paragraphs": [
-        "W stanie, który Trump wygrał dwa lata temu różnicą 22 punktów, zwycięstwo Coloma przedłuża serię zwycięstw Demokratów w Senacie.",
-        "Podpis pod rysunkiem: Dlaczego zwycięstwo Demokraty Scotta Coloma w Senacie w Mississippi jest tak znaczące",
-        "Demokrata Scott Colom wygrał wyścig do Senatu USA w Mississippi, zapewniając szokujące zwycięstwo partii w głęboko konserwatywnym państwie, które od dziesięcioleci wybierało Republikanów.",
-        "Zwycięstwo Coloma czyni go pierwszym czarnym obywatelem stanu Mississippi zasiadającym w Senacie Stanów Zjednoczonych od czasu, gdy Blanche Bruce sprawowała tę funkcję w latach 1875–1881.",
-        "Od jego republikańskiej rywalki, urzędującej Cindy Hyde-Smith, dzieliło go niecałe pięć tysięcy głosów z prawie miliona naliczonych głosów."
-      ]
-    },
-    {
-      "id": "swiat-5-73e9b6",
+      "id": "swiat-4-2faefc",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1881,30 +1817,63 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Granat ręczny w rezerwacie przyrody. Austriaccy saperzy w akcji",
+      "title": "Hegseth odznaczył żołnierza, który zrugał jego delegację. \"Dobra robota\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:30",
+      "time": "22:24",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/granat-reczny-w-rezerwacie-przyrody-austriaccy-saperzy-w-akcji/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/5j/5jyrjckppmqv916prciio4mru234kmck.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/hegseth-oznaczyl-zolnierza-ktory-upomnial-jego-delegacje-dobra-robota/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/py/py8i3og177hxo8b4z75rfgmxaixeo35f.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Podczas prac ziemnych w wiedeńskim rezerwacie Lainzer Tiergarten robotnicy znaleźli granat ręczny.",
-        "Na miejsce wezwano saperów, którzy zabezpieczyli i przewieźli niebezpieczny ładunek na poligon celem detonacji.",
-        "Policja apeluje o zachowanie ostrożności w przypadku odkrycia niewybuchów."
+        "Pete Hegseth odznaczył szeregowego Thomasa Iglesiasa, który zrugał delegację z szefem Pentagonu wizytującą Cmentarz Narodowy w Arlington.",
+        "Strażnik przepisowo zareagował na głośny śmiech grupy, przypominając o obowiązku zachowania ciszy i oddania szacunku.",
+        "Dobra robota, starszy szeregowy!"
       ],
       "extended_paragraphs": [
-        "Podczas prac ziemnych w wiedeńskim rezerwacie Lainzer Tiergarten robotnicy znaleźli granat ręczny. Na miejsce wezwano saperów, którzy zabezpieczyli i przewieźli niebezpieczny ładunek na poligon celem detonacji. Policja apeluje o zachowanie ostrożności w przypadku odkrycia niewybuchów.",
-        "Jak przekazały w czwartek około godz. 11:15 austriackie media informowały o granacie ręcznym , który został znaleziony w czasie robót w Leinzer Tiergarten w Wiedniu . Robotnicy odkryli niebezpieczne znalezisko w rezerwacie przyrody podczas przekopywania ziemi w pobliżu bramy Adolfstor.",
-        "Jak przekazał serwis OE24 pracownicy od razu powiadomili policję . Na miejscu ekspertów ds. materiałów wybuchowych wezwał jednostkę saperską austriackich sił zbrojnych . Granat został bezpiecznie przetransportowany przez służby na poligon, gdzie zostanie zdetonowany.",
-        "Następnie policja wróciła się do obywateli, by pamiętali, że tego typu materiały wybuchowe w dalszym ciągu są niebezpieczne . W związku z tym zaapelowano, by zachować bezpieczny dystans i wezwać odpowiednie służby."
+        "Pete Hegseth odznaczył szeregowego Thomasa Iglesiasa, który zrugał delegację z szefem Pentagonu wizytującą Cmentarz Narodowy w Arlington. Strażnik przepisowo zareagował na głośny śmiech grupy, przypominając o obowiązku zachowania ciszy i oddania szacunku. Dobra robota, starszy szeregowy! - napisał Hegseth w mediach społecznościowych.",
+        "Do zdarzenia, które szybko stało się hitem w sieci, doszło w środę podczas Dnia Weterana. Amerykański sekretarz obrony wziął wtedy udział w uroczystości na Cmentarzu Narodowym w Arlington w stanie Wirginia. Hegseth wraz z żoną i najwyższymi rangą doradcami udał się na Grób Nieznanego Żołnierza.",
+        "ZOBACZ: Śmiech na Grobie Nieznanego Żołnierza. Pete Hegseth zganiony przez wartownika",
+        "Zebrana na schodach grupa rozmawiała i robiła sobie wspólne zdjęcia. W pewnym momencie z tego miejsca rozległ się głośny śmiech. Niestosowne zachowanie spotkało się z natychmiastową reakcją wartownika, który, nie bacząc, że ma do czynienia z sekretarzem wojny, wykrzyczał: \"Wszyscy odwiedzający mają obowiązek zachowywać ciszę i szacunek przez cały czas\" .",
+        "Jak podał CNN, Hegseth przyjął w siedzibie resortu żołnierzy 3. Pułku Piechoty , znanego jako \"The Old Guard\" (\"Stara Gwardia\") i \"z dumą wręczył starszemu szeregowemu Iglesiasowi medal Joint Service Commendation Medal za wzorowe wypełnianie obowiązków przy Grobie Nieznanego Żołnierza w dniu 11 listopada 2026 roku\"."
       ]
     },
     {
-      "id": "swiat-6-a4dd39",
+      "id": "swiat-5-71b542",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Chmura & AI” (Microsoft (NASDAQ: MSFT)) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Globalna awaria Microsoftu. Nie działają aplikacje i usługi",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:11",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/globalna-awaria-microsoftu-nie-dzialaja-aplikacje-i-uslugi/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/fn/fny1zvj2y65bczkay1nrbvqdynm32i1c.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Microsoft potwierdził, że awaria usług odnotowana w pierwszej kolejności w regionie Ameryki Północnej rozlała się na cały świat.",
+        "Chociaż podejmujemy działania mające na celu złagodzenie skutków tej sytuacji, potwierdziliśmy, że problem ten może wpływać na łączność z usługami Microsoft 365 u użytkowników we wszystkich regionach - przekazała korporacja.",
+        "\"Chociaż podejmujemy działania mające na celu złagodzenie skutków tej sytuacji, potwierdziliśmy, że problem ten może wpływać na łączność z usługami Microsoft 365 u użytkowników we wszystkich regionach\" - przekazała korporacja."
+      ],
+      "extended_paragraphs": [
+        "Microsoft potwierdził, że awaria usług odnotowana w pierwszej kolejności w regionie Ameryki Północnej rozlała się na cały świat. Chociaż podejmujemy działania mające na celu złagodzenie skutków tej sytuacji, potwierdziliśmy, że problem ten może wpływać na łączność z usługami Microsoft 365 u użytkowników we wszystkich regionach - przekazała korporacja.",
+        "Początkowo problemy z działaniem składników pakietu Microsoft 365 zgłaszali użytkownicy z Ameryki Północnej, następnie także z Ameryki Południowej. W końcu Microsoft potwierdził, że zasięg problemów jest globalny .",
+        "\"Stwierdziliśmy, że część infrastruktury jest obciążona ponad miarę w wielu regionach, co prawdopodobnie przyczynia się do występowania błędów w łączności\" - podał Microsoft.",
+        "ZOBACZ: Szef NVIDII Jensen Huang zrezygnował ze stanowiska. W tle romanse i afera szpiegowska",
+        "\"Aktywnie wykorzystujemy wszystkie dostępne sposoby, aby zminimalizować skutki tej sytuacji. Wstrzymaliśmy wszystkie wdrożenia , przekierowujemy dodatkowy ruch z infrastruktury, której dotyczy awaria, oraz ponownie uruchamiamy serwery, na których wystąpiła awaria, aby przywrócić ich działanie\" - przekazała korporacja."
+      ]
+    },
+    {
+      "id": "swiat-6-f42a68",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1912,125 +1881,125 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Strzelanina w pobliżu Białego Domu. Nie żyją dwie osoby",
+      "title": "Papież zaniepokojony toksyczną męskością. Leon XIV o \"mentalności macho\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:01",
+      "time": "21:46",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/strzelanina-w-poblizu-bialego-domu-nie-zyje-jedna-osoba/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/5i/5iq1tx2nine32gmbdjty35awo3bjrqnb.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/papiez-mowil-o-kulturze-macho/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/2u/2uaob72t6ojbsbi7zci94ih95zcphvt6.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "W Waszyngtonie, niespełna dwa kilometry od Białego Domu, uzbrojony napastnik zabarykadował się w jednym z budynków.",
-        "Policja przekazała, że w wyniku strzelaniny zginęła jedna osoba, a cztery zostały ranne.",
-        "Napastnik został znaleziony w mieszkaniu z raną postrzałową."
+        "- Państwo musi dbać o rodzinę, trzeba głośno głosić, że Bóg stworzył człowieka jako mężczyznę i kobietę, należy odrzucić kulturę macho, chronić kobiety i dziewczynki, potrzeba ludzi sprawiedliwych - powiedział Leon XIV podczas pielgrzymki w Peru.",
+        "Jak podaje Vatican News, papież podkreślił ponadto, że zasoby społeczeństwa nie mogą służyć wyłącznie korzyściom nielicznych.",
+        "Jana Ewangelisty w Limie papież Leon XIV mówił, że w centrum życia społecznego musi znajdować się człowiek, stworzony na podobieństwo Boga."
       ],
       "extended_paragraphs": [
-        "W Waszyngtonie, niespełna dwa kilometry od Białego Domu, uzbrojony napastnik zabarykadował się w jednym z budynków. Policja przekazała, że w wyniku strzelaniny zginęła jedna osoba, a cztery zostały ranne. Napastnik został znaleziony w mieszkaniu z raną postrzałową. Stacja NBC News podała, że sprawca ataku nie żyje.",
-        "W jednym z budynków w Waszyngtonie zabarykadował się strzelec - przekazała agencja Reutera, cytując stołeczną policję. Zdarzenie ma miejsce około 1,6 km na północny wschód od Białego Domu . Członkini Rady Dystryktu Kolumbii Brooke Pinto napisała w poście na X, że chodzi o klub fitness.",
-        "Do akcji wkroczyła grupa taktyczna policjantów . Początkowo media informowały o wielu rannych w wyniku strzelaniny. Później komendant policji przekazał, że zginęła jedna osoba, a cztery zostały ranne.",
-        "ZOBACZ: Tragedia w Nowym Jorku, runął kilkupiętrowy budynek. Ludzie ratowani spod gruzów",
-        "Funkcjonariusz potwierdził również zakończenie akcji. Podejrzany został znaleziony przez służby w zabarykadowanym mieszkaniu z raną postrzałową. - Został unieszkodliwiony - powiedział szef policji metropolitalnej Jeffery W. Carroll. Po godz. 17.00 stacja CBS News, powołując się na źródła FBI, poinformowała, że sprawca ataku nie żyje."
+        "- Państwo musi dbać o rodzinę, trzeba głośno głosić, że Bóg stworzył człowieka jako mężczyznę i kobietę, należy odrzucić kulturę macho, chronić kobiety i dziewczynki, potrzeba ludzi sprawiedliwych - powiedział Leon XIV podczas pielgrzymki w Peru. Jak podaje Vatican News, papież podkreślił ponadto, że zasoby społeczeństwa nie mogą służyć wyłącznie korzyściom nielicznych.",
+        "Przed katedrą św. Jana Ewangelisty w Limie papież Leon XIV mówił, że w centrum życia społecznego musi znajdować się człowiek, stworzony na podobieństwo Boga. - Na tej podstawie dobro osobiste, rodzinne i społeczne łączą się w jedną rzeczywistość - głosił Leon XIV.",
+        "- Życie ludzkie nie zaczyna się w próżni - rodzi się z miłości mężczyzny i kobiety, którzy oddając się sobie nawzajem, otwierają się na dar nowego życia - mówił.",
+        "Wyraził zaniepokojenie utrzymującą się w społeczeństwie \" mentalnością macho \" i przemocą wobec kobiet.",
+        "Ojciec Święty wskazał, że rodzina \"istnieje wcześniej niż jakiekolwiek prawo pisane\", więc ono powinno ją chronić, a instytucje publiczne powinny ją wspierać, a nie zastępować."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-6-eb0c0f",
+      "id": "sport-4-5a51b0",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Chaos, który spowodował, że Carrick od dwuletniego kontraktu został zwolniony w ciągu 15 meczów",
-      "original_title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+      "title": "Które miejsce Kane zajmuje wśród najlepszych zawodników Anglii wszechczasów?",
+      "original_title": "Where does Kane rank among all-time England greats?",
       "is_foreign": true,
       "lang": "EN",
-      "time": "10:21",
+      "time": "22:09",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": true,
       "summary_points": [
-        "Michael Carrick zostaje trzecim menadżerem Manchesteru United zwolnionym w ciągu trzech sezonów – gdzie poszło źle?",
-        "Reporter Manchesteru United Opublikowano 8 godzin temu Wiadomość dotarła tuż po godzinie 18:00 w niedzielę, 8 listopada.",
-        "Manchester United przegrał 4:2 z Aston Villą, a Old Trafford pogodził się z porażką."
+        "Harry Kane jest najlepszym strzelcem wszechczasów Anglii i rekordzistą pod względem występów, ale gdzie plasuje się wśród najlepszych zawodników Trzech Lwów?",
+        "Autor: Alex Bysuth Starszy dziennikarz BBC Sport Opublikowano godzinę temu Harry Kane jest obecnie najczęściej występującym w reprezentacji Anglii zawodnikiem, a także rekordzistą strzelców swojego kraju, ale trudniej jest określić ilościowo, czy te osiągnięcia plasują go wśród najlepszych graczy Trzech Lwów w historii.",
+        "To trudna debata, w której występuje tak wiele zmiennych i która obejmuje skalę czasową tak starą jak sama gra i, moim zdaniem, nie tylko określenie indywidualnych zdolności gracza, ale także miarę jego wpływu na psychikę narodu."
       ],
       "extended_paragraphs": [
-        "Michael Carrick zostaje trzecim menadżerem Manchesteru United zwolnionym w ciągu trzech sezonów – gdzie poszło źle?",
-        "Reporter Manchesteru United Opublikowano 8 godzin temu Wiadomość dotarła tuż po godzinie 18:00 w niedzielę, 8 listopada. Manchester United przegrał 4:2 z Aston Villą, a Old Trafford pogodził się z porażką.",
-        "Prośba została wysłana przez osobę, która dobrze zna Michaela Carricka, pracowała z nim i z pierwszej ręki rozumie presję życia w okręgu United ze złotymi rybkami.",
-        "United strzelił dwa gole w doliczonym czasie gry i uratował remis 4-4. Carrick uczcił wyrównanie Patricka Dorgu, podnosząc rękę do góry. Następnie przeszedł po boisku i wykonał ostatnie okrążenie pełne uznania.",
-        "Kiedy kibice United skandowali jego imię, Carrick stanął pośrodku swoich zawodników, aby mieć pewność, że kibice nie zwrócą się przeciwko nim w sposób, w jaki zrobili to po porażce 3:0 z Bournemouth dwa tygodnie wcześniej."
+        "Harry Kane jest najlepszym strzelcem wszechczasów Anglii i rekordzistą pod względem występów, ale gdzie plasuje się wśród najlepszych zawodników Trzech Lwów?",
+        "Autor: Alex Bysuth Starszy dziennikarz BBC Sport Opublikowano godzinę temu Harry Kane jest obecnie najczęściej występującym w reprezentacji Anglii zawodnikiem, a także rekordzistą strzelców swojego kraju, ale trudniej jest określić ilościowo, czy te osiągnięcia plasują go wśród najlepszych graczy Trzech Lwów w historii.",
+        "To trudna debata, w której występuje tak wiele zmiennych i która obejmuje skalę czasową tak starą jak sama gra i, moim zdaniem, nie tylko określenie indywidualnych zdolności gracza, ale także miarę jego wpływu na psychikę narodu.",
+        "Zdobywcy Złotej Piłki, Stanley Matthews, Kevin Keegan i Michael Owen, z pewnością wpadliby w szał, gdyby kryteria były takie, nie wspominając o genialnych technikach, takich jak Glenn Hoddle, Chris Waddle i John Barnes.",
+        "Podobnie, gdyby któremukolwiek menadżerowi Anglii udało się wydobyć to, co najlepsze z Paula Scholesa, Stevena Gerrarda i Franka Lamparda, z pewnością wykonałby klasyczny strzał w końcówce ze środka pola."
       ]
     },
     {
-      "id": "sport-8-5f1f94",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
+      "id": "sport-6-98681e",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "McIlroy mocno rozpoczyna walkę, chcąc wyrównać rekord Montgomerie",
-      "original_title": "McIlroy makes strong start in bid to equal Montgomerie's record",
+      "title": "„Kłamstwo” – Palmer oddany Anglii, mówi Rogers",
+      "original_title": "'A lie' - Palmer committed to England, says Rogers",
       "is_foreign": true,
       "lang": "EN",
-      "time": "14:13",
+      "time": "23:09",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/golf/articles/cwlymny900ezo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c2bd/live/fc48f420-de9c-11f1-9afe-1f03bfe02283.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Rory McIlroy mocno rozpoczyna starania o wyrównujący rekord ósmy tytuł w wyścigu do Dubaju, pokonując rundę otwierającą DP World Tour Championship z trzema underami.",
-        "-5 J Luiten (Ned); -4 JS Olesen (Den); -3 V Perez (Fra), G De Leo (Włochy), F Schott (Niemcy), F Laporta (Włochy), R McIlroy (NI) Wybrani inni: -2 T Hatton (ang.); -1 D Hillier (Nowa Zelandia), J Rahm (Spa); EE Chacarra (Spa), M.",
-        "Wallace (ang.); +2 E Ferguson (Sco), R Fox (Nowa Zelandia), C Jarvis (SA), J Schaper (SA); +3 P Reed (USA); +4 T Fleetwood (angielski), A Rai (angielski) Rory McIlroy mocno rozpoczął starania o wyrównujący rekord ósmy tytuł w wyścigu do Dubaju, zdobywając rundę otwierającą DP World Tour Championship z wynikiem trzech poniżej par."
+        "Morgan Rogers twierdzi, że wszelkie sugestie, że Cole Palmer nie jest związany z Anglią, „to kłamstwo” i „nonsens”.",
+        "Rogers strzelił pierwszego gola w środowym zwycięstwie 2:1 Ligi Narodów UEFA nad Chorwacją, a Harry Kane dołożył rzut karny w swoim rekordowym 126.",
+        "występie w męskiej drużynie."
       ],
       "extended_paragraphs": [
-        "Rory McIlroy mocno rozpoczyna starania o wyrównujący rekord ósmy tytuł w wyścigu do Dubaju, pokonując rundę otwierającą DP World Tour Championship z trzema underami.",
-        "-5 J Luiten (Ned); -4 JS Olesen (Den); -3 V Perez (Fra), G De Leo (Włochy), F Schott (Niemcy), F Laporta (Włochy), R McIlroy (NI)",
-        "Wybrani inni: -2 T Hatton (ang.); -1 D Hillier (Nowa Zelandia), J Rahm (Spa); EE Chacarra (Spa), M. Wallace (ang.); +2 E Ferguson (Sco), R Fox (Nowa Zelandia), C Jarvis (SA), J Schaper (SA); +3 P Reed (USA); +4 T Fleetwood (angielski), A Rai (angielski)",
-        "Rory McIlroy mocno rozpoczął starania o wyrównujący rekord ósmy tytuł w wyścigu do Dubaju, zdobywając rundę otwierającą DP World Tour Championship z wynikiem trzech poniżej par.",
-        "Świat numer dwa, którego runda obejmowała pięć birdie i dwa bogey przy wietrznej pogodzie, traci dwa strzały do ​​wczesnego lidera Joosta Luitena."
+        "Morgan Rogers twierdzi, że wszelkie sugestie, że Cole Palmer nie jest związany z Anglią, „to kłamstwo” i „nonsens”.",
+        "Rogers strzelił pierwszego gola w środowym zwycięstwie 2:1 Ligi Narodów UEFA nad Chorwacją, a Harry Kane dołożył rzut karny w swoim rekordowym 126. występie w męskiej drużynie.",
+        "Jednak jego kolega z drużyny Chelsea i przyjaciel z dzieciństwa Palmer został wykluczony ze składu po tym, jak menadżer Thomas Tuchel powiedział, że „traci zbyt wiele okazji, by zaimponować”.",
+        "24-letni Palmer, który również nie został powołany na mistrzostwa świata, wycofał się z poprzedniego obozu w Anglii we wrześniu ze względu na drobną kontuzję.",
+        "Napastnik Rogers, również 24-letni, został zapytany o krytykę Palmera po zwycięstwie na Wembley i powiedział BBC Radio 5 Live: „Chce tu być."
       ]
     },
     {
-      "id": "sport-1-b52ec2",
+      "id": "sport-1-d5dc46",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Radomka nie przedłużyła serii. Natalia Mędrzyk i spółka mocno ostudziły zapały Radomianek",
+      "title": "Nie mieli litości dla Francuzów. \"Trójkolorowi utonęli\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:34",
+      "time": "22:33",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/siatkowka/1283868/radomka-nie-przedluzyla-serii-natalia-medrzyk-i-spolka-mocno-ostudzily-zapaly-ra",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af606491a16c2_05452477.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1283917/nie-mieli-litosci-dla-francuzow-trojkolorowi-utoneli",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af63e408b17a6_12103190.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Po sensacyjnym zwycięstwie w Łodzi i pewnym pokonaniu BKS-u, MOYA Radomka Radom liczyła na podtrzymanie serii w meczu z Lotto Chemikiem Police.",
-        "Przyjezdne ostudziły zapały Radomianek, wygrywając 3:0.",
-        "Prym w ich szeregach wiodła Natalia Mędrzyk."
+        "Reprezentacja Włoch pokonała przed własną publicznością Francję w ramach Ligi Narodów.",
+        "Francuskie media nie kryją rozgoryczenia po pierwszej porażce w erze Zinedine'a Zidane'a.",
+        "Skomentuj Reprezentacja Włoch pokonała przed własną publicznością Francję w ramach Ligi Narodów."
       ],
       "extended_paragraphs": [
-        "Po sensacyjnym zwycięstwie w Łodzi i pewnym pokonaniu BKS-u, MOYA Radomka Radom liczyła na podtrzymanie serii w meczu z Lotto Chemikiem Police. Przyjezdne ostudziły zapały Radomianek, wygrywając 3:0. Prym w ich szeregach wiodła Natalia Mędrzyk.",
-        "Skomentuj Po sensacyjnym zwycięstwie w Łodzi i pewnym pokonaniu BKS-u, MOYA Radomka Radom liczyła na podtrzymanie serii w meczu z Lotto Chemikiem Police. Przyjezdne ostudziły zapały Radomianek, wygrywając 3:0. Prym w ich szeregach wiodła Natalia Mędrzyk.",
-        "Paradoksalnie ten moment skonsolidował i wzmocnił mentalnie drużynę gości, a kompletnie rozregulował miejscowe. Straciły one skuteczność w ataku, ponadto były bardzo niedokładne, przede wszystkim rozgrywająca Brigitta Petrenko. To było wodą na młyn dla policzanek, które nie tylko błyskawicznie odrobiły straty, ale i wyszły na prowadzenie, m.in. 16:12.",
-        "Bardzo swobodnie czuła się doświadczona Natalia Mędrzyk, kilkukrotnie wręcz \"bawiąc się\" z blokiem Radomianek. W samym pierwszym secie zdobyła dziewięć punktów, w tym siedem w ofensywie. Podopieczne Przemysława Kawki postawiły kropkę nad \"i\", triumfując 25:20.",
-        "Jeśli chodzi o wynik i jego przebieg, druga partia do złudzenia przypominała poprzednią. Przy jedenastym \"oczku\" dla Radomki w jej szeregi zaczęły wkradać się marazm i niepewność. Petrenko zaczęła rozgrywać bardzo schematycznie, kierując mnóstwo piłek na lewe skrzydło, gdzie wyblokowywana była Kinga Stronias."
+        "Reprezentacja Włoch pokonała przed własną publicznością Francję w ramach Ligi Narodów. Francuskie media nie kryją rozgoryczenia po pierwszej porażce w erze Zinedine'a Zidane'a.",
+        "Skomentuj Reprezentacja Włoch pokonała przed własną publicznością Francję w ramach Ligi Narodów. Francuskie media nie kryją rozgoryczenia po pierwszej porażce w erze Zinedine'a Zidane'a.",
+        "Październikowe spotkanie tych drużyn zakończyło się remisem 1:1, co mogło zwiastować emocjonującą walkę również na San Siro. Wynik już w 10. minucie otworzył Michael Olise, który wykorzystał koszmarny błąd Gianluigiego Donnarummy (więcej TUTAJ ). Wpadka bramkarza zadziałała jednak bardzo mobilizująco na reprezentację Włoch .",
+        "Jeszcze przed przerwą wyrównał Francesco Pio Esposito. W drugiej połowie do bramki Trójkolorowych trafili Davide Frattesi i ponownie Esposito, który w 75. minucie wykorzystał rzut karny. Włosi wygrali tym samym przed własną publicznością 3:1, notując bardzo cenne zwycięstwo nad Francją .",
+        "ZOBACZ WIDEO: Nie miał litości dla \"Lewego\". \"Z nim kadra może więcej stracić, niż zyskać\""
       ]
     },
     {
@@ -2054,19 +2023,51 @@
       "lead_story": false,
       "summary_points": [
         "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
-        "Starszy korespondent piłkarski Opublikowano 2 godziny temu Michael Carrick musiał wiedzieć, co się wydarzy.",
+        "Starszy korespondent piłkarski Opublikowano 7 godzin temu Michael Carrick musiał wiedzieć, co się wydarzy.",
         "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United."
       ],
       "extended_paragraphs": [
         "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
-        "Starszy korespondent piłkarski Opublikowano 2 godziny temu Michael Carrick musiał wiedzieć, co się wydarzy.",
+        "Starszy korespondent piłkarski Opublikowano 7 godzin temu Michael Carrick musiał wiedzieć, co się wydarzy.",
         "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United.",
         "Ale ponieważ w rzeczywistości on i jego przedstawiciele otrzymali wystarczająco wyraźne wskazówki dotyczące tego, co miało nastąpić.",
         "Według dobrze poinformowanych źródeł w poniedziałek dyrektor generalny Omar Berrada skontaktował się z agentem Carricka i powiedział mu, że on i dyrektor sportowy Jason Wilcox udają się do Monako na zaplanowane spotkanie ze współwłaścicielem Sir Jimem Ratcliffe’em, które będzie obejmować dyskusję na temat przyszłości głównego trenera."
       ]
     },
     {
-      "id": "sport-3-553b99",
+      "id": "sport-3-2077ee",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Hit nie odbył się. Sztokholm znów pechowy dla wielkiego talentu",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:28",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1283912/hit-nie-odbyl-sie-sztokholm-znow-pechowy-dla-wielkiego-talentu",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af63c397115e5_35455924.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Holger Rune oddał walkowerem mecz z Taylorem Fritzem w ćwierćfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie.",
+        "W 1/2 finału Amerykanin zmierzy się z Lorenzo Musettim.",
+        "Skomentuj Holger Rune oddał walkowerem mecz z Taylorem Fritzem w ćwierćfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie."
+      ],
+      "extended_paragraphs": [
+        "Holger Rune oddał walkowerem mecz z Taylorem Fritzem w ćwierćfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie. W 1/2 finału Amerykanin zmierzy się z Lorenzo Musettim.",
+        "Skomentuj Holger Rune oddał walkowerem mecz z Taylorem Fritzem w ćwierćfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie. W 1/2 finału Amerykanin zmierzy się z Lorenzo Musettim.",
+        "Turniej ATP 250 w Sztokholmie znów okazał się niezwykle pechowy dla Holgera Rune . Podczas poprzedniej edycji tej imprezy utalentowany Duńczyk doznał koszmarnej kontuzji ścięgna Achillesa, po której pauzował przez 11 miesięcy. Z kolei w tegorocznej edycji dotarł do ćwierćfinału, ale na tym etapie znów na przeszkodzie stanęło mu zdrowie.",
+        "W czwartek Rune miał zmierzyć się z najwyżej rozstawionym Taylorem Fritzem . Ten mecz jednak się nie odbył, bo 23-latek z Gentofte oddał mecz walkowerem z powodu kontuzji prawej nogi.",
+        "Kiedy piłkarska reprezentacja Włoch niespodziewanie wygrała z Francją (3:1) w Lidze Narodów, w Sztokholmie zmierzyło się dwóch tenisistów z tych krajów - Lorenzo Musetti i Ugo Humbert . I, podobnie jak po spotkaniu piłkarzy, powody do radości mieli kibice Italii. Oznaczony numerem trzecim Musetti ograł bowiem Humberta, turniejową \"siódemkę\", 7:6(5), 3:6, 6:4."
+      ]
+    },
+    {
+      "id": "sport-5-91ace9",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2074,63 +2075,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Żużel. Wyjątek dla mistrza świata! Lambert nie musi podporządkować się nowym zasadom",
+      "title": "\"Ma nas w nosie\". Wyszło na jaw, komu nie odpisywał Zieliński",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:25",
+      "time": "22:26",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/zuzel/1283600/zuzel-wyjatek-dla-mistrza-swiata-lambert-nie-musi-podporzadkowac-sie-nowym-zasad",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6ab832d46f32a7_03249782.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1283916/ma-nas-w-nosie-wyszlo-na-jaw-komu-nie-odpisywal-zielinski",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af63cfa2ffd75_61932051.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Robert Lambert nie będzie musiał spełniać obowiązku startów w brytyjskiej lidze, który zapowiadano wobec posiadaczy licencji ACU.",
-        "Speedway Control Bureau wyjaśniło sytuację mistrza świata przed sezonem 2027.",
-        "1 Komentarz Robert Lambert nie będzie musiał spełniać obowiązku startów w brytyjskiej lidze, który zapowiadano wobec posiadaczy licencji ACU."
+        "Piotr Zieliński musiał tłumaczyć się Nicoli Zalewskiemu z nieodebranych połączeń i wiadomości.",
+        "Całą sytuację zarejestrowały kamery PZPN, a w zabawną wymianę zdań włączył się również Jan Bednarek.",
+        "Skomentuj Piotr Zieliński musiał tłumaczyć się Nicoli Zalewskiemu z nieodebranych połączeń i wiadomości."
       ],
       "extended_paragraphs": [
-        "Robert Lambert nie będzie musiał spełniać obowiązku startów w brytyjskiej lidze, który zapowiadano wobec posiadaczy licencji ACU. Speedway Control Bureau wyjaśniło sytuację mistrza świata przed sezonem 2027.",
-        "1 Komentarz Robert Lambert nie będzie musiał spełniać obowiązku startów w brytyjskiej lidze, który zapowiadano wobec posiadaczy licencji ACU. Speedway Control Bureau wyjaśniło sytuację mistrza świata przed sezonem 2027.",
-        "W Wielkiej Brytanii szykują się zmiany dotyczące zasad uczestnictwa zawodników w krajowych rozgrywkach. Wcześniejszy komunikat sugerował, że posiadacze licencji ACU będą zobowiązani do startów w jednej z brytyjskich lig. Okazuje się jednak, że nie wszyscy będą musieli podporządkować się temu wymogowi. Wyjątek dotyczy Roberta Lamberta , który w przyszłym sezonie ponownie będzie bronił tytułu mistrza świata.",
-        "Informację w tej sprawie przekazało Speedway Control Bureau (SCB). Organizacja potwierdziła, że zapowiadany obowiązek nie będzie miał zastosowania w przypadku brytyjskiego zawodnika . Jednocześnie SCB oraz ACU zapowiedziały, że przed rozpoczęciem sezonu 2027 opublikują pełne kryteria kwalifikacyjne oraz listę wyjątków. Na razie nie ujawniono więc wszystkich szczegółów nowych regulacji. ZOBACZ WIDEO: Dwudniowa awantura w Stali Gorzów. \"Teraz każdy jest zadowolony\"",
-        "Nie oznacza to jednak, że Lambert całkowicie zrezygnuje ze ścigania na Wyspach. Brytyjczyk nadal ma pojawiać się na tamtejszych torach, a jednym z potwierdzonych punktów jego przyszłorocznego kalendarza będzie runda Speedway Grand Prix w Ipswich, zaplanowana na 14 sierpnia. Możliwe są również kolejne występy w krajowych rozgrywkach. Ich zakres będzie jednak zależał od ostatecznego kształtu kalendarzy FIM oraz brytyjskich lig."
+        "Piotr Zieliński musiał tłumaczyć się Nicoli Zalewskiemu z nieodebranych połączeń i wiadomości. Całą sytuację zarejestrowały kamery PZPN, a w zabawną wymianę zdań włączył się również Jan Bednarek. Poszło o... bluzę.",
+        "Skomentuj Piotr Zieliński musiał tłumaczyć się Nicoli Zalewskiemu z nieodebranych połączeń i wiadomości. Całą sytuację zarejestrowały kamery PZPN, a w zabawną wymianę zdań włączył się również Jan Bednarek. Poszło o... bluzę.",
+        "Na oficjalnym kanale Polskiego Związku Piłki Nożnej pojawił się drugi vlog z listopadowego zgrupowania reprezentacji Polski. Materiał pokazuje nie tylko codzienność kadrowiczów, ale również luźniejsze momenty spędzane poza boiskiem. W jednej ze scen w centrum uwagi znaleźli się Piotr Zieliński i Nicola Zalewski , którzy wdali się w zabawną wymianę zdań.",
+        "Wszystko zaczęło się od pretensji Zalewskiego, który nie mógł skontaktować się z kolegą. Zieliński dopiero przyjechał, ale miał już do wyjaśnienia pewną sprawę. Szybko okazało się, że chodzi o bluzę, którą zabrał Zalewski, pozostawiając pomocnika bez cieplejszego ubrania. - Czemu nie odpowiadasz? - zapytał Zalewski (na wideo od 23:30).",
+        "- Przyjechałem dopiero. Kto mi bluzę zabrał? - odpowiedział Zieliński. - Ja, ale pisałem do ciebie. Pisałem, dzwoniłem - tłumaczył Zalewski."
       ]
     },
     {
-      "id": "sport-4-38cd7c",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Palace zwolnił Sage'a po 16 meczach z Frankiem w trakcie zaawansowanych rozmów",
-      "original_title": "Palace sack Sage after 16 games with Frank in advanced talks",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:15",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73af/live/be720480-de96-11f1-9afe-1f03bfe02283.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Crystal Palace zwolniło menadżera Pierre'a Sage'a po 16 meczach na stanowisku trenera i klubowym dole tabeli.",
-        "Starszy korespondent piłkarski Opublikowano 12 listopada 2026 r., 12:23 GMT Zaktualizowano godzinę temu Crystal Palace zwolniło menadżera Pierre'a Sage'a już po pięciu miesiącach na stanowisku, co oznacza klub znajdujący się na dnie Premier League.",
-        "Niedzielna porażka 3:1 z Liverpoolem była czwartą z rzędu porażką Palace w Premier League."
-      ],
-      "extended_paragraphs": [
-        "Crystal Palace zwolniło menadżera Pierre'a Sage'a po 16 meczach na stanowisku trenera i klubowym dole tabeli.",
-        "Starszy korespondent piłkarski Opublikowano 12 listopada 2026 r., 12:23 GMT Zaktualizowano godzinę temu Crystal Palace zwolniło menadżera Pierre'a Sage'a już po pięciu miesiącach na stanowisku, co oznacza klub znajdujący się na dnie Premier League.",
-        "Niedzielna porażka 3:1 z Liverpoolem była czwartą z rzędu porażką Palace w Premier League.",
-        "Orły wygrały tylko dwa z pierwszych 10 meczów i mają także najgorszy bilans w defensywie w lidze, tracąc 24 gole.",
-        "Palace zajmuje także 21. miejsce w tabeli Ligi Europy liczącej 36 drużyn i ma na koncie jedno zwycięstwo w czterech meczach."
-      ]
-    },
-    {
-      "id": "sport-5-4bd789",
+      "id": "sport-7-062ebe",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2138,59 +2107,61 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Trener usiadł na konferencji i zaskoczył nawet dziennikarzy. Taki ruch zdarza się bardzo rzadko",
+      "title": "Miał zaledwie 39 lat. Nie żyje Tom O'Brien",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:23",
+      "time": "22:25",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1283866/trener-usiadl-na-konferencji-i-zaskoczyl-nawet-dziennikarzy-taki-ruch-zdarza-sie",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af5ff32b98ad0_52201816.jpg",
+      "source_url": "https://sportowefakty.wp.pl/jezdziectwo/1283915/mial-zaledwie-39-lat-nie-zyje-tom-obrien",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af63bbab5cc65_48651278.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Włosi to niedawni przeciwnicy Polaków w eliminacjach młodzieżowego Euro.",
-        "Po wygraniu grupy rozpoczęli przygotowania do turnieju.",
-        "Trener Silvio Baldini zaskoczył, ujawniając pełną jedenastkę na mecz towarzyski z Francją dobę przed spotkaniem."
+        "Tom O'Brien zmarł po walce z nowotworem.",
+        "Irlandczyk wygrał ponad tysiąc wyścigów w Wielkiej Brytanii i Irlandii, a karierę zakończył w 2023 roku.",
+        "Skomentuj Tom O'Brien zmarł po walce z nowotworem."
       ],
       "extended_paragraphs": [
-        "Włosi to niedawni przeciwnicy Polaków w eliminacjach młodzieżowego Euro. Po wygraniu grupy rozpoczęli przygotowania do turnieju. Trener Silvio Baldini zaskoczył, ujawniając pełną jedenastkę na mecz towarzyski z Francją dobę przed spotkaniem.",
-        "Skomentuj Włosi to niedawni przeciwnicy Polaków w eliminacjach młodzieżowego Euro. Po wygraniu grupy rozpoczęli przygotowania do turnieju. Trener Silvio Baldini zaskoczył, ujawniając pełną jedenastkę na mecz towarzyski z Francją dobę przed spotkaniem.",
-        "Towarzyski charakter meczu na pewno pomógł selekcjonerowi w nonszalanckim ujawnieniu swojego planu.",
-        "Silvio Baldini zaskoczył przed meczem z Francją . Selekcjoner reprezentacji Włoch U-21 ujawnił wyjściowy skład na spotkanie towarzyskie już dobę przed pierwszym gwizdkiem.",
-        "Włosi zmierzą się z Francją w piątek wieczorem, a Baldini nie czekał z ogłoszeniem personaliów do dnia spotkania. W bramce wystąpi Lorenzo Palmisani z Frosinone. Linię obrony stworzą Filippo Mane (Borussia Dortmund), Pietro Comuzzo (Torino), Fabio Chiarodia (Borussia Moenchengladbach) i Davide Bartesaghi (Milan). W środku pola zagrają Luca Lipani (Sassuolo), Lorenzo Amatucci (Deportivo La Coruna) oraz Matteo Dagasso (Venezia). Atak utworzą Seydou Fini (Frosinone), Francesco Camarda (Milan) i Alessio Cacciamani (Torino)."
+        "Tom O'Brien zmarł po walce z nowotworem. Irlandczyk wygrał ponad tysiąc wyścigów w Wielkiej Brytanii i Irlandii, a karierę zakończył w 2023 roku.",
+        "Skomentuj Tom O'Brien zmarł po walce z nowotworem. Irlandczyk wygrał ponad tysiąc wyścigów w Wielkiej Brytanii i Irlandii, a karierę zakończył w 2023 roku.",
+        "Dziennikarze BBC przekazali informację o śmierci dżokeja, który przez lata należał do najważniejszych postaci zespołu prowadzonego przez Philipa Hobbsa w Minehead. Do tamtejszej stajni trafił jako nastolatek, jeszcze zanim wystąpił w wyścigu.",
+        "Tom O'Brien zwyciężył dwukrotnie podczas Cheltenham Festival i dwa razy triumfował w Welsh Grand National. W 2021 roku na koniu Thyme Hill wygrał Liverpool Hurdle, zaś rok później ten sam duet zwyciężył w Kauto Star Novices' Chase.",
+        "- Tom wpłynął na życie niezliczonych osób po obu stronach Morza Irlandzkiego. Dawał radość każdemu, kto miał okazję go znać i obserwować jego pracę na torze oraz poza nim. Jego odejście jest trudne do przyjęcia - powiedział Brant Dunshea, dyrektor wykonawczy British Horseracing Authority."
       ]
     },
     {
-      "id": "sport-7-cc0d3c",
+      "id": "sport-8-01fd3b",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Włochy - Francja: transmisja na żywo. Gdzie oglądać w TV i online? (12.11.2026)",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:21",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/bukmacherzy/1283786/wlochy-francja-transmisja-na-zywo-gdzie-ogladac-w-tv-i-online-12112026",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a270cb2df2af6_25652460.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 100%) o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [
+        "100%"
+      ],
+      "title": "„Źle” i „bzdury” – twierdzi Cummins o papierze ściernym Khawaja",
+      "original_title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:47",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/39bd/live/e5ecf350-deee-11f1-99c8-f59e65cb7a51.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Mecz Włochy - Francja odbędzie się w czwartek (12 listopada) o godzinie 20:45.",
-        "Przedstawiamy informacje o dostępnych transmisjach.",
-        "Zobacz jak odebrać dostęp do Polsat Box Go na 3 miesiące."
+        "Kapitan Australii Pat Cummins odpowiada na twierdzenia byłego kolegi z drużyny Usmana Khawaji dotyczące skandalu z papierem ściernym, nazywając je „w 100% błędnymi” i „całkowitymi bzdurami”.",
+        "Korespondent krykieta Opublikowano 7 minut temu Kapitan Australii Pat Cummins odniósł się do twierdzeń byłego kolegi z drużyny Usmana Khawaji w związku ze skandalem z papierem ściernym, nazywając je „w 100% błędnymi” i „kompletnymi bzdurami”.",
+        "W 2018 roku Steve Smith, David Warner i Cameron Bancroft zostali ukarani za spisek mający na celu manipulowanie piłką za pomocą papieru ściernego podczas australijskiego testu przeciwko Republice Południowej Afryki w Cape Town."
       ],
       "extended_paragraphs": [
-        "Mecz Włochy - Francja odbędzie się w czwartek (12 listopada) o godzinie 20:45. Przedstawiamy informacje o dostępnych transmisjach. Zobacz jak odebrać dostęp do Polsat Box Go na 3 miesiące.",
-        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów",
-        "Spotkanie Włochy - Francja ma kluczowe znaczenie w walce o awans do ćwierćfinału Ligi Narodów. W zdecydowanie lepszej sytuacji są Francuzi, którzy po czterech meczach mają na koncie 10 punktów. Włosi zgromadzili trzy punkty mniej. Transmisja z hitu Ligi Mistrzów dostępna będzie w TV i online. Teraz dostęp do Polsat Box Go możesz odebrać na 3 miesiące w prezencie.",
-        "Spotkanie Włochy - Francja odbędzie się 12 listopada (czwartek). Pierwszy gwizdek sędziego zabrzmi o godzinie 20:45.",
-        "Z meczu Włochy - Francja transmisja w telewizji dostępna będzie na kanałach Polsat Sport 1 i TVP Sport. Drogą internetową spotkanie można śledzić na platformie Polsat Box Go. Niżej wyjaśniamy jak odebrać do niej dostęp na 3 miesiące w prezencie."
+        "Kapitan Australii Pat Cummins odpowiada na twierdzenia byłego kolegi z drużyny Usmana Khawaji dotyczące skandalu z papierem ściernym, nazywając je „w 100% błędnymi” i „całkowitymi bzdurami”.",
+        "Korespondent krykieta Opublikowano 7 minut temu Kapitan Australii Pat Cummins odniósł się do twierdzeń byłego kolegi z drużyny Usmana Khawaji w związku ze skandalem z papierem ściernym, nazywając je „w 100% błędnymi” i „kompletnymi bzdurami”.",
+        "W 2018 roku Steve Smith, David Warner i Cameron Bancroft zostali ukarani za spisek mający na celu manipulowanie piłką za pomocą papieru ściernego podczas australijskiego testu przeciwko Republice Południowej Afryki w Cape Town.",
+        "Khawaja opublikował w tym tygodniu swoją autobiografię, a były pałkarz powiedział, że cała australijska drużyna, w tym Cummins, wiedziała o programie dotyczącym papieru ściernego i powinna była wziąć na siebie odpowiedzialność.",
+        "Jednak w niezwykłym przemówieniu do mediów w Sydney Cummins odpowiedział: „Kiedy mówi, że wszyscy wiedzieliśmy, jeśli ma przez to na myśli, że wiedzieliśmy, że papier ścierny wychodzi na boisko, to w 100% się myli."
       ]
     }
   ],
@@ -2244,7 +2215,7 @@
       "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:26",
+      "time": "19:05",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108476204-1793214824844-gettyimages-2301908968-WARSH_FOMC.jpeg?v=1793214844&amp;w=1920&amp;h=1080",
@@ -2260,7 +2231,7 @@
         "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
         "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”.",
         "Warsh ogłosił to posunięcie na konferencji prasowej po październikowym posiedzeniu FOMC, choć nie określił, na które posiedzenie będzie to miało wpływ.",
-        "W 2027 r. odbędzie się siedem posiedzeń z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
+        "W 2027 r. odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
       ]
     },
     {
@@ -2306,17 +2277,16 @@
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 1,9%, 2%, 16%) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 3,3%, 2,6%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "1,9%",
-        "2%",
-        "16%"
+        "3,3%",
+        "2,6%"
       ],
       "title": "Ceny ropy rosną po tym, jak Trump twierdzi, że porozumienie z Iranem nie jest potrzebne: „Mamy ich cieśninę”",
       "original_title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:44",
+      "time": "23:29",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&amp;w=1920&amp;h=1080",
@@ -2325,14 +2295,14 @@
       "summary_points": [
         "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
         "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ropa Brent notowana była o 1,9% wyżej, przy cenie 94,48 dolarów za baryłkę."
+        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę."
       ],
       "extended_paragraphs": [
         "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
         "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ropa Brent notowana była o 1,9% wyżej, przy cenie 94,48 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2%, osiągając poziom 88,19 dolarów za baryłkę.",
+        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2,6%, osiągając cenę 88,74 dolarów za baryłkę.",
         "„Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły. Mamy ich pieniądze, setki miliardów dolarów i mamy ich Cieśninę!” Trump oświadczył w poście Truth Social.",
-        "Czwartkowe ruchy Brent i WTI-YTD wynikają z presji cen ropy naftowej po tym, jak komentarze Trumpa po wyborach śródokresowych w USA złagodziły obawy przed dalszymi atakami na Iran. WTI spadło w listopadzie o 16%, a Brent o 20%."
+        "Jeffrey Currie, założyciel Real Macro i powszechnie obserwowany prognostyk na Wall Street, powiedział, że ceny ropy naftowej w najbliższej perspektywie pozostaną na niskim poziomie, ponieważ obecnie z Bliskiego Wschodu wypływają znaczne ilości ropy. Zauważył jednak, że niebotycznie wysokie stawki za ubezpieczenia i tankowce utrzymują wysokie ceny długoterminowych kontraktów terminowych na ropę naftową."
       ]
     },
     {
@@ -2400,32 +2370,37 @@
       ]
     },
     {
-      "id": "rynki-7-b7d488",
+      "id": "rynki-7-349aa3",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [],
-      "title": "Kernel zdecydował o tymczasowym zawieszeniu działalności zakładów przetwórstwa nasion roślin oleistych",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 13 proc., 7,94 proc.) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "13 proc.",
+        "7,94 proc."
+      ],
+      "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:18",
+      "time": "23:26",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Kernel-zdecydowal-o-tymczasowym-zawieszeniu-dzialalnosci-zakladow-przetworstwa-nasion-roslin-oleistych-9228119.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/4/2/79deb937fd6fc7-948-568-10-5-1990-1193.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/9/3/8d6d4df8d08771-thumb-1000.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Kernel Holding podjął decyzję o tymczasowym zawieszeniu działalności we wszystkich swoich zakładach przetwórstwa nasion roślin oleistych w związku z nasileniem rosyjskich ataków na ukraiński sektor rolniczy - podała spółka w komunikacie.",
-        "Obszar tematyczny: Giełda & Inwestycje (Rynek Kapitałowy).",
-        "Wydarzenie sklasyfikowano w sektorze: Giełda & Inwestycje (wpływ: LOW)."
+        "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
+        "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.",
+        "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji."
       ],
       "extended_paragraphs": [
-        "Kernel Holding podjął decyzję o tymczasowym zawieszeniu działalności we wszystkich swoich zakładach przetwórstwa nasion roślin oleistych w związku z nasileniem rosyjskich ataków na ukraiński sektor rolniczy - podała spółka w komunikacie. (PAP Biznes)",
-        "Kontekst sektorowy (Giełda & Inwestycje — Rynek Kapitałowy): Informacja o charakterze równoważnym lub sprawozdawczym."
+        "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
+        "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.",
+        "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji.",
+        "Akcje nabyte przez spółkę w ramach programu nabywania akcji własnych mają być przeznaczone do umorzenia. (PAP Biznes)"
       ]
     },
     {

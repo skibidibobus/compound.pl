@@ -646,11 +646,17 @@
         <div id="briefing-rates-row" class="grid grid-cols-2 sm:grid-cols-4 gap-2.5"></div>
         <div id="briefing-items-list" class="space-y-3"></div>
       </div>
-      <div class="px-6 py-4 border-t border-line bg-base/60 flex flex-wrap items-center justify-between gap-3">
-        <button onclick="copyDailyBriefing()" id="copy-briefing-btn"
-          class="h-9 px-4 rounded-full bg-white/[0.06] hover:bg-white/[0.12] border border-line text-xs text-ink font-medium flex items-center gap-2 transition">
-          <span>Kopiuj gotowy post (na X / LinkedIn / Telegram)</span>
-        </button>
+      <div class="px-6 py-4 border-t border-line bg-base/60 flex flex-wrap items-center justify-between gap-2.5">
+        <div class="flex flex-wrap items-center gap-2">
+          <button onclick="copyDailyBriefingX()" id="copy-briefing-x-btn"
+            class="h-9 px-4 rounded-full bg-white/[0.08] hover:bg-white/[0.15] border border-accent/40 text-xs text-accent font-semibold flex items-center gap-2 transition">
+            <span>Kopiuj na X (do 280 znaków)</span>
+          </button>
+          <button onclick="copyDailyBriefing()" id="copy-briefing-btn"
+            class="h-9 px-4 rounded-full bg-white/[0.06] hover:bg-white/[0.12] border border-line text-xs text-ink font-medium flex items-center gap-2 transition">
+            <span>Kopiuj pełny raport (LinkedIn / Telegram)</span>
+          </button>
+        </div>
         <button onclick="closeBriefingModal()"
           class="h-9 px-5 rounded-full bg-accent text-black text-xs font-semibold hover:brightness-110 transition">
           Gotowe
@@ -1576,6 +1582,44 @@
       document.body.style.overflow = '';
     }
 
+    function copyDailyBriefingX() {
+      if (!appData) return;
+      const allArts = getAllArticles();
+      const top = allArts.filter(a => a.market_impact === 'HIGH');
+      const list = top.length >= 2 ? top : allArts;
+      const ticker = appData.market_ticker || [];
+      const wanted = ['USD/PLN', 'EUR/PLN', 'WIG20'];
+      const rates = wanted.map(sym => {
+        const m = ticker.find(t => t.symbol === sym);
+        return m ? `${sym.replace('/PLN', '')} ${m.price} (${m.change})` : null;
+      }).filter(Boolean).join(' | ');
+
+      const portalUrl = 'https://skibidibobus.github.io/compound.pl/';
+      const header = `Briefing rynkowy ${new Date().toLocaleDateString('pl-PL')}\n${rates}\n\n`;
+      // Na X kazdy link URL liczy sie jako 23 znaki (t.co)
+      const overhead = header.length + 24;
+      const bodyLines = [];
+      for (const a of list.slice(0, 3)) {
+        let title = (a.title || '').trim();
+        if (!title) continue;
+        if (title.length > 54) title = title.slice(0, 51).trimEnd() + '...';
+        const candidate = [...bodyLines, `- ${title}`];
+        if (overhead + candidate.join('\n').length <= 278) {
+          bodyLines.push(`- ${title}`);
+        } else {
+          break;
+        }
+      }
+      const text = `${header}${bodyLines.join('\n')}\n${portalUrl}`;
+      navigator.clipboard.writeText(text).then(() => {
+        const btn = document.getElementById('copy-briefing-x-btn');
+        btn.innerHTML = '<span>✓ Skopiowano wersję na X</span>';
+        setTimeout(() => {
+          btn.innerHTML = '<span>Kopiuj na X (do 280 znaków)</span>';
+        }, 2800);
+      });
+    }
+
     function copyDailyBriefing() {
       if (!appData) return;
       const allArts = getAllArticles();
@@ -1590,13 +1634,13 @@
         ``,
         ...list.map((a, i) => `${i + 1}. [${a.entity_tag}] ${a.title}`),
         ``,
-        `Pełne opracowania bez clickbaitu: https://compound.pl`
+        `Pełne opracowania: https://skibidibobus.github.io/compound.pl/`
       ];
       navigator.clipboard.writeText(lines.join('\n')).then(() => {
         const btn = document.getElementById('copy-briefing-btn');
-        btn.innerHTML = '<span>✓ Skopiowano gotowy post do schowka</span>';
+        btn.innerHTML = '<span>✓ Skopiowano pełny raport do schowka</span>';
         setTimeout(() => {
-          btn.innerHTML = '<span>Kopiuj gotowy post (na X / LinkedIn / Telegram)</span>';
+          btn.innerHTML = '<span>Kopiuj pełny raport (LinkedIn / Telegram)</span>';
         }, 2800);
       });
     }

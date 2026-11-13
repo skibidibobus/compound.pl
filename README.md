@@ -9,9 +9,20 @@
 </p>
 
 <p align="center">
+  <a href="https://skibidibobus.github.io/compound.pl/"><strong>Wersja demonstracyjna online (GitHub Pages)</strong></a>
+  &nbsp;·&nbsp;
+  <a href="docs/Architektura.md">Architektura</a>
+  &nbsp;·&nbsp;
+  <a href="docs/Bezpieczenstwo-i-Compliance.md">Bezpieczeństwo i KNF/MAR</a>
+  &nbsp;·&nbsp;
+  <a href="CHANGELOG.md">Historia zmian</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.9+">
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Google_Gemini-API-1A1F2C?style=flat-square&logo=google&logoColor=white" alt="Google Gemini API">
+  <img src="https://github.com/skibidibobus/compound.pl/actions/workflows/update_data.yml/badge.svg" alt="Aktualizacja danych">
   <img src="https://img.shields.io/badge/Licencja-MIT-1E293B?style=flat-square" alt="Licencja MIT">
 </p>
 
@@ -110,6 +121,19 @@ Po uruchomieniu aplikacja jest dostępna pod adresem `http://localhost:8000`, a 
 ## Automatyzacja aktualizacji danych
 
 Repozytorium zawiera konfigurację GitHub Actions w pliku `.github/workflows/update_data.yml`, która cyklicznie uruchamia `fetcher.py` i zapisuje zaktualizowany plik `data.json`. Aby aktywować analizę z użyciem modelu Gemini w ramach GitHub Actions, należy dodać sekret `GEMINI_API_KEY` w ustawieniach repozytorium (`Settings -> Secrets and variables -> Actions`).
+
+---
+
+## Dokumentacja techniczna
+
+Szczegółowe opracowania dotyczące działania systemu znajdują się w katalogu `docs/` oraz w plikach informacyjnych repozytorium:
+
+- [Architektura systemu](docs/Architektura.md) — przepływ danych, warstwy aplikacji i model hybrydowy
+- [Bezpieczeństwo i zgodność regulacyjna](docs/Bezpieczenstwo-i-Compliance.md) — uwierzytelnianie `PBKDF2`, izolacja plików, KNF i Rozporządzenie MAR
+- [Automatyzacja i integracje API](docs/Automatyzacja-i-API.md) — harmonogramy GitHub Actions, źródła danych i publikacja na X
+- [Polityka bezpieczeństwa](SECURITY.md) — zasady zgłaszania podatności i wdrożenia
+- [Zasady współtworzenia](CONTRIBUTING.md) — standardy kodu i proces zmian
+- [Historia zmian](CHANGELOG.md) — dziennik kolejnych wydań
 
 ---
 

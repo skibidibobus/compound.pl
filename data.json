@@ -2,8 +2,8 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.316",
-    "last_updated": "2026-11-12 23:56",
+    "edition": "#2026.317",
+    "last_updated": "2026-11-13 04:11",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
     "foreign_translated_count": 19,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$71,347",
-      "change": "-3.54%",
+      "price": "$68,790",
+      "change": "-6.69%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$2,017",
-      "change": "-1.90%",
+      "price": "$1,935",
+      "change": "-5.69%",
       "is_positive": false
     },
     {
@@ -946,35 +946,35 @@
       ]
     },
     {
-      "id": "rynki-2-e70f38",
-      "entity_tag": "Fed (USA)",
-      "sector": "Banki Centralne",
+      "id": "rynki-2-9c0101",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA).",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [],
-      "title": "Fed twierdzi, że w ramach zmiany polityki na posiedzeniu w październiku 2027 r. nie będzie głosowania w sprawie stóp procentowych",
-      "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "title": "Jak afera Jensena Huanga zmienia perspektywy stosunków USA-Chiny",
+      "original_title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
       "is_foreign": true,
       "lang": "EN",
-      "time": "19:05",
+      "time": "02:56",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108476204-1793214824844-gettyimages-2301908968-WARSH_FOMC.jpeg?v=1793214844&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549746-1794465996644-gettyimages-2276121798-aw1a2254_gzrmeire.jpeg?v=1794466049&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
-        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
-        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”."
+        "Klimat polityczny przed przyszłotygodniowym szczytem Trump-Xi drastycznie różni się od ostatniego spotkania we wrześniu.",
+        "PEKIN — Długotrwała kontrola Kongresu USA nad romansem byłego dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym chińskim szpiegiem podnosi stawkę i tak już napiętych stosunków między dwiema największymi gospodarkami świata.",
+        "Huang z Nvidii złożył rezygnację w czwartek i zgodził się zeznawać przed Kongresem na jakiś czas przed Świętem Dziękczynienia 26 listopada."
       ],
       "extended_paragraphs": [
-        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
-        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
-        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”.",
-        "Warsh ogłosił to posunięcie na konferencji prasowej po październikowym posiedzeniu FOMC, choć nie określił, na które posiedzenie będzie to miało wpływ.",
-        "W 2027 r. odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
+        "Klimat polityczny przed przyszłotygodniowym szczytem Trump-Xi drastycznie różni się od ostatniego spotkania we wrześniu.",
+        "PEKIN — Długotrwała kontrola Kongresu USA nad romansem byłego dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym chińskim szpiegiem podnosi stawkę i tak już napiętych stosunków między dwiema największymi gospodarkami świata.",
+        "Huang z Nvidii złożył rezygnację w czwartek i zgodził się zeznawać przed Kongresem na jakiś czas przed Świętem Dziękczynienia 26 listopada. Przewodniczący ds. zagranicznych Izby Reprezentantów Brian Mast na Florydzie powiedział reporterom, że w przyszłości mogą odbyć się „przesłuchania publiczne w imieniu innych osób lub w innych sprawach”.",
+        "„Obawiam się, że ten incydent dramatycznie pogorszy atmosferę w Waszyngtonie przeciwko Chinom, a także kwestie kontroli eksportu, a także sposób postępowania administracji Trumpa z Chinami” – powiedział badacz polityki zagranicznej z Pekinu, który poprosił o anonimowość, ponieważ naukowcy ryzykują dyscypliną lub nawet usunięciem za rozmowy z mediami.",
+        "Badacz przestrzegł przed możliwym powrotem do sytuacji z lat 90. XX w., kiedy podejrzewano „chińsko-amerykańskiego” fizyka jądrowego o udostępnianie chińskiemu rządowi tajemnic nuklearnych, co doprowadziło do wszczęcia śledztwa federalnego. Ostatecznie sąd oddalił wszystkie z 59 zarzutów z wyjątkiem jednego."
       ]
     },
     {
@@ -1014,38 +1014,35 @@
       ]
     },
     {
-      "id": "rynki-4-560ef0",
-      "entity_tag": "Ropa Naftowa",
-      "sector": "Surowce Energetyczne",
+      "id": "rynki-4-e70f38",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 3,3%, 2,6%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,3%",
-        "2,6%"
-      ],
-      "title": "Ceny ropy rosną po tym, jak Trump twierdzi, że porozumienie z Iranem nie jest potrzebne: „Mamy ich cieśninę”",
-      "original_title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA).",
+      "key_metrics": [],
+      "title": "Fed twierdzi, że w ramach zmiany polityki na posiedzeniu w październiku 2027 r. nie będzie głosowania w sprawie stóp procentowych",
+      "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:29",
+      "time": "19:05",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476204-1793214824844-gettyimages-2301908968-WARSH_FOMC.jpeg?v=1793214844&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę."
+        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
+        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
+        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”."
       ],
       "extended_paragraphs": [
-        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2,6%, osiągając cenę 88,74 dolarów za baryłkę.",
-        "„Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły. Mamy ich pieniądze, setki miliardów dolarów i mamy ich Cieśninę!” Trump oświadczył w poście Truth Social.",
-        "Jeffrey Currie, założyciel Real Macro i powszechnie obserwowany prognostyk na Wall Street, powiedział, że ceny ropy naftowej w najbliższej perspektywie pozostaną na niskim poziomie, ponieważ obecnie z Bliskiego Wschodu wypływają znaczne ilości ropy. Zauważył jednak, że niebotycznie wysokie stawki za ubezpieczenia i tankowce utrzymują wysokie ceny długoterminowych kontraktów terminowych na ropę naftową."
+        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
+        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
+        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”.",
+        "Warsh ogłosił to posunięcie na konferencji prasowej po październikowym posiedzeniu FOMC, choć nie określił, na które posiedzenie będzie to miało wpływ.",
+        "W 2027 r. odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
       ]
     },
     {
@@ -1081,35 +1078,38 @@
       ]
     },
     {
-      "id": "rynki-6-961ce6",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-6-560ef0",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Chińskie Ministerstwo Bezpieczeństwa Państwowego znalazło się w centrum uwagi po aferze z dyrektorem generalnym Nvidii",
-      "original_title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 3,3%, 2,6%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3,3%",
+        "2,6%"
+      ],
+      "title": "Ceny ropy rosną po tym, jak Trump twierdzi, że porozumienie z Iranem nie jest potrzebne: „Mamy ich cieśninę”",
+      "original_title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "is_foreign": true,
       "lang": "EN",
-      "time": "07:28",
+      "time": "00:01",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108549614-1794449071604-gettyimages-2265698644-vcg111626812002.jpeg?v=1794449767&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Chińskie Ministerstwo Bezpieczeństwa Państwowego przyciąga uwagę po doniesieniach o romansie dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym szpiegiem MSS.",
-        "Od rekrutacji amerykańskich studentów po zarzuty dotyczące afery Nvidii Jensena Huanga – raporty wskazują na jedną chińską agencję wywiadowczą: Ministerstwo Bezpieczeństwa Państwowego.",
-        "Ta nieprzejrzysta jednostka rządowa – nieposiadająca oficjalnej strony internetowej innej niż strona wspierająca sygnalistów – zyskała na znaczeniu wraz z rosnącym naciskiem Pekinu na bezpieczeństwo narodowe od 2023 r. Ministerstwo nadzoruje szereg biur na szczeblu prowincji i kraju, w tym zajmujących się gromadzeniem danych wywiadowczych."
+        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę."
       ],
       "extended_paragraphs": [
-        "Chińskie Ministerstwo Bezpieczeństwa Państwowego przyciąga uwagę po doniesieniach o romansie dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym szpiegiem MSS.",
-        "Od rekrutacji amerykańskich studentów po zarzuty dotyczące afery Nvidii Jensena Huanga – raporty wskazują na jedną chińską agencję wywiadowczą: Ministerstwo Bezpieczeństwa Państwowego.",
-        "Ta nieprzejrzysta jednostka rządowa – nieposiadająca oficjalnej strony internetowej innej niż strona wspierająca sygnalistów – zyskała na znaczeniu wraz z rosnącym naciskiem Pekinu na bezpieczeństwo narodowe od 2023 r. Ministerstwo nadzoruje szereg biur na szczeblu prowincji i kraju, w tym zajmujących się gromadzeniem danych wywiadowczych.",
-        "Choć MSS nie jest jedyną jednostką wywiadowczą Pekinu, jego nazwisko często pojawia się w głośnych sprawach. W następstwie prób włamań do podmiotów w USA Departament Skarbu USA nałożył w ostatnich latach sankcje na chińskie podmioty i osoby, które według niego są powiązane z MSS.",
-        "W tym miesiącu dzienniki „Financial Times” i „The New York Times” doniosły, powołując się na źródła, że ​​według wywiadu rządu USA MSS zwerbowało bizneswoman Alice Huang w celu zebrania informacji na temat dyrektora generalnego Nvidii, Jensena Huanga. Jedno i drugie nie jest ze sobą powiązane. Jensen Huang przyznał się w weekend do romansu, ale nie jest jasne, czy udostępniono jakiekolwiek wrażliwe informacje."
+        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2,6%, osiągając cenę 88,74 dolarów za baryłkę.",
+        "„Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły. Mamy ich pieniądze, setki miliardów dolarów i mamy ich Cieśninę!” Trump oświadczył w poście Truth Social.",
+        "Jeffrey Currie, założyciel Real Macro i powszechnie obserwowany prognostyk na Wall Street, powiedział, że ceny ropy naftowej w najbliższej perspektywie pozostaną na niskim poziomie, ponieważ obecnie z Bliskiego Wschodu wypływają znaczne ilości ropy. Zauważył jednak, że niebotycznie wysokie stawki za ubezpieczenia i tankowce utrzymują wysokie ceny długoterminowych kontraktów terminowych na ropę naftową."
       ]
     },
     {
@@ -1131,7 +1131,7 @@
       "time": "23:26",
       "source": "Bankier Giełda",
       "source_url": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/9/3/8d6d4df8d08771-thumb-1000.jpg",
+      "image_url": "https://galeria.bankier.pl/p/0/f/c054fce945dcfc-thumb-1000.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
@@ -1181,39 +1181,7 @@
   ],
   "makro": [
     {
-      "id": "makro-1-4d09e1",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Elastyczność, czyli jak kupować gaz i na tym zyskać",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "00:00",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://energia.rp.pl/nowa-energia/art45482221-elastycznosc-czyli-jak-kupowac-gaz-i-na-tym-zyskac",
-      "image_url": "https://i.gremicdn.pl/image/free/48db840bac2648f7c2fb7cc343408102/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": true,
-      "summary_points": [
-        "Najnowsze dane Towarowej Giełdy Energii dotyczące średnich cen gazu ziemnego w kontraktach spotowych i rocznych budzą obawy.",
-        "Choć na sytuację na rynku wpływają przede wszystkim czynniki zewnętrzne, nie oznacza to, że odbiorcy są pozbawieni możliwości działania.",
-        "Jednym ze sposobów ograniczenia kosztów jest kontrolowanie rachunków za gaz, a przede wszystkim wybór odpowiedniego kontraktu zakupowego."
-      ],
-      "extended_paragraphs": [
-        "Najnowsze dane Towarowej Giełdy Energii dotyczące średnich cen gazu ziemnego w kontraktach spotowych i rocznych budzą obawy. Choć na sytuację na rynku wpływają przede wszystkim czynniki zewnętrzne, nie oznacza to, że odbiorcy są pozbawieni możliwości działania. Jednym ze sposobów ograniczenia kosztów jest kontrolowanie rachunków za gaz, a przede wszystkim wybór odpowiedniego kontraktu zakupowego.",
-        "Trendy cenowe na rynku krajowym i europejskim wpływają na ceny gazu zarówno dla gospodarstw domowych, zatwierdzane przez prezesa Urzędu Regulacji Energetyki, jak i dla firm, które kupują surowiec na podstawie indywidualnych umów sprzedaży",
-        "Wysokie ceny gazu ziemnego na rynkach europejskich, sięgające na holenderskiej giełdzie TTF 100 euro/MWh, oraz początek sezonu grzewczego, który tradycyjnie rozpoczyna się w październiku, przekładają się na wzrost cen także w Polsce.",
-        "Średnia cena gazu na rynku spot wyniosła 408,58 zł/MWh i była o 64,23 zł/MWh wyższa niż miesiąc wcześniej. Z kolei na rynku terminowym średnia cena kontraktu z dostawą w 2027 r. osiągnęła w październiku 330,70 zł/MWh, czyli o 64,47 zł/MWh więcej niż we wrześniu 2026 r.",
-        "Wzrost cen następuje w momencie, gdy wiele firm przygotowuje się do zawarcia nowych umów na zakup gazu na przyszły rok."
-      ]
-    },
-    {
-      "id": "makro-2-949d81",
+      "id": "makro-2-8e80bc",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
@@ -1224,63 +1192,123 @@
         "550 miliardów dolarów",
         "415 miliardów funtów"
       ],
-      "title": "Skandaliczny dyrektor generalny Nvidii, Jensen Huang, odchodzi, pogrążając giganta produkującego chipy AI w zamieszaniu",
-      "original_title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "title": "Były dyrektor generalny Nvidii, Jensen Huang, wezwany do złożenia zeznań przed Kongresem w sprawie romansu z rzekomym chińskim szpiegiem",
+      "original_title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:34",
+      "time": "03:57",
       "source": "BBC Business",
       "source_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
-        "Amerykańscy prawodawcy chcą teraz przesłuchać Huanga, czy jeden z jego rzekomych związków był z chińskim szpiegiem.",
-        "Jensen Huang nagle zrezygnował ze stanowiska dyrektora generalnego giganta produkującego chipy AI, firmy Nvidia, po ujawnieniu rzekomych romansów pozamałżeńskich, co wywołało falę szoku od Doliny Krzemowej po Kapitol.",
-        "Nvidia jest obecnie badana przez amerykańskich prawodawców w Waszyngtonie, którzy żądają od Huanga odpowiedzi na pytania dotyczące tego, czy jeden z jego rzekomych związków był z chińskim szpiegiem."
+        "W czwartek Huang nagle zrezygnował ze stanowiska szefa jednej z najcenniejszych firm na świecie po ujawnieniu rzekomych romansów pozamałżeńskich.",
+        "Były dyrektor generalny Nvidii, Jensen Huang, został wezwany w przyszłym miesiącu do złożenia zeznań przed komisją Senatu w sprawie jego rzekomego romansu z kobietą podejrzaną o bycie chińskim szpiegiem.",
+        "Huang nagle zrezygnował w czwartek ze stanowiska szefa jednej z najcenniejszych firm na świecie po ujawnieniu rzekomych romansów pozamałżeńskich, co było oszałamiającym wypadkiem, który wywołał falę wstrząsu w Dolinie Krzemowej."
       ],
       "extended_paragraphs": [
-        "Amerykańscy prawodawcy chcą teraz przesłuchać Huanga, czy jeden z jego rzekomych związków był z chińskim szpiegiem.",
-        "Jensen Huang nagle zrezygnował ze stanowiska dyrektora generalnego giganta produkującego chipy AI, firmy Nvidia, po ujawnieniu rzekomych romansów pozamałżeńskich, co wywołało falę szoku od Doliny Krzemowej po Kapitol.",
-        "Nvidia jest obecnie badana przez amerykańskich prawodawców w Waszyngtonie, którzy żądają od Huanga odpowiedzi na pytania dotyczące tego, czy jeden z jego rzekomych związków był z chińskim szpiegiem.",
-        "Nvidia, jedna z najcenniejszych firm na świecie w wyniku boomu na sztuczną inteligencję, straciła 550 miliardów dolarów (415 miliardów funtów) wartości giełdowej w ciągu zaledwie pięciu dni, gdy skandal zdominował pierwsze strony gazet.",
-        "Tymczasowa dyrektor generalna Nvidii, Colette Kress, zwołała nadzwyczajne spotkanie swojego zespołu kierowniczego, aby omówić przyszłość firmy."
+        "W czwartek Huang nagle zrezygnował ze stanowiska szefa jednej z najcenniejszych firm na świecie po ujawnieniu rzekomych romansów pozamałżeńskich.",
+        "Były dyrektor generalny Nvidii, Jensen Huang, został wezwany w przyszłym miesiącu do złożenia zeznań przed komisją Senatu w sprawie jego rzekomego romansu z kobietą podejrzaną o bycie chińskim szpiegiem.",
+        "Huang nagle zrezygnował w czwartek ze stanowiska szefa jednej z najcenniejszych firm na świecie po ujawnieniu rzekomych romansów pozamałżeńskich, co było oszałamiającym wypadkiem, który wywołał falę wstrząsu w Dolinie Krzemowej.",
+        "Sekretarz handlu Howard Lutnick, który jest objęty obserwacją w związku z eksportem wrażliwych chipów Nvidia AI do Chin, również został wezwany do stawienia się przed Senacką Komisją Bankowości w grudniu.",
+        "Nvidia straciła 550 miliardów dolarów (415 miliardów funtów) wartości giełdowej w ciągu zaledwie pięciu dni, gdy skandal zdominował pierwsze strony gazet."
       ]
     },
     {
-      "id": "makro-5-811c3c",
-      "entity_tag": "PGE (GPW: PGE)",
-      "sector": "Energetyka",
-      "market_impact": "HIGH",
+      "id": "makro-1-e76888",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Energetyka” (kluczowe liczby: 210 mld zł, 65 proc., 10 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "210 mld zł",
-        "65 proc.",
-        "10 proc."
-      ],
-      "title": "PGE szykuje grunt pod inwestycje z udziałem polskich firm",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Członek zarządu spółki nie zasłoni się niewiedzą",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "00:00",
+      "time": "05:10",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://energia.rp.pl/nowa-energia/art45482231-pge-szykuje-grunt-pod-inwestycje-z-udzialem-polskich-firm",
-      "image_url": "https://i.gremicdn.pl/image/free/a8b1f00a97a4d63b90130a2ed3aa8c60/",
+      "source_url": "https://pro.rp.pl/pro/art45479331-czlonek-zarzadu-spolki-nie-zasloni-sie-niewiedza",
+      "image_url": "https://i.gremicdn.pl/image/free/e1239f3b7283c515e7b6cef383fa2abc/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Wykorzystanie w pełni potencjału prowadzonych w kraju inwestycji będzie możliwe wtedy, gdy polskie firmy staną się istotną częścią łańcucha dostaw.",
-        "By zwiększyć szanse lokalnych przedsiębiorców na intratne zlecenia, PGE zorganizowało Dzień Dostawcy Grupy PGE.",
-        "Na konferencji organizowanej przez PGE reprezentanci ministerstw, instytucji i podmiotów rynkowych dyskutowali o tym, jak zwiększać zaangażowanie w procesy inwestycyjne krajowych firm Największa polska firma z sektora energii spotkała się 9 listopada z podmiotami zainteresowanymi współpracą przy realizowanych przez Grupę projektach."
+        "Zarządzający nie odpowiada za złą kondycję finansową spółki uniemożliwiającą spłatę długów, lecz za własne zaniechanie skierowane na pokrzywdzenie wierzycieli.",
+        "Brak wpływu na działalność spółki, brak dostępu do dokumentów, niewiedza o jej kondycji ekonomicznej oraz brak inicjatywy po stronie organu rentowego, w rozumieniu art. 116 § 1 Ordynacji podatkowej, nie wyłączają odpowiedzialności członków zarządu – tak orzekł Sąd Najwyższy w postanowieniu z 8 września 2026 r. w sprawie prowadzonej pod sygnaturą akt I USK 722/26.",
+        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych."
       ],
       "extended_paragraphs": [
-        "Wykorzystanie w pełni potencjału prowadzonych w kraju inwestycji będzie możliwe wtedy, gdy polskie firmy staną się istotną częścią łańcucha dostaw. By zwiększyć szanse lokalnych przedsiębiorców na intratne zlecenia, PGE zorganizowało Dzień Dostawcy Grupy PGE.",
-        "Na konferencji organizowanej przez PGE reprezentanci ministerstw, instytucji i podmiotów rynkowych dyskutowali o tym, jak zwiększać zaangażowanie w procesy inwestycyjne krajowych firm",
-        "Największa polska firma z sektora energii spotkała się 9 listopada z podmiotami zainteresowanymi współpracą przy realizowanych przez Grupę projektach. Do 2035 r. PGE zainwestuje ok. 210 mld zł. Jak zapisano w strategii spółki, minimum 65 proc. w cyklu życia inwestycji ma stanowić komponent krajowy. To niemałe wyzwanie. Aby się do tego właściwie przygotować, firma zaprosiła potencjalnych dostawców produktów i usług na warszawski stadion, PGE Narodowy.",
-        "W wydarzeniu wzięło udział około 500 podmiotów z takich branż, jak energetyka, elektroenergetyka, ciepłownictwo, budownictwo przemysłowe. Pojawili się tu również producenci komponentów i firmy świadczące usługi inżynieryjne, projektowe, wykonawcze, montażowe czy serwisowe. Celem konferencji było przybliżenie planów inwestycyjnych i zakupowych grupy. To również okazja do omówienia ogólnych warunków współpracy, poznania oczekiwań inwestora, ale też wdrożenia firm w kwestie techniczne związane ze startowaniem w przetargach.",
-        "Decyzje podejmowane dziś będą wpływać na krajową gospodarkę przez najbliższe trzy–cztery dekady. I będzie to wpływ niebagatelny. – Analitycy PKO BP przedstawili jakiś czas temu wyliczenie, z którego wynika, że wzrost udziału polskich przedsiębiorstw o 10 proc. daje impuls wzrostu PKB o ponad 3 proc. Chcemy się do tego przyczynić. Jesteśmy na początku drogi. Zamierzamy, wsłuchując się w głosy rynku, sprawić, by również średni i mali przedsiębiorcy mogli uszczknąć z tego tortu. Dzisiejsze spotkanie zapoczątkowuje dialog na dużą skalę. Będziemy spotykać się jeszcze wiele razy, na różnych płaszczyznach, by doskonalić cały proces – mówił prezes zarządu PGE Dariusz Lubera podczas konferencji."
+        "Zarządzający nie odpowiada za złą kondycję finansową spółki uniemożliwiającą spłatę długów, lecz za własne zaniechanie skierowane na pokrzywdzenie wierzycieli.",
+        "Brak wpływu na działalność spółki, brak dostępu do dokumentów, niewiedza o jej kondycji ekonomicznej oraz brak inicjatywy po stronie organu rentowego, w rozumieniu art. 116 § 1 Ordynacji podatkowej, nie wyłączają odpowiedzialności członków zarządu – tak orzekł Sąd Najwyższy w postanowieniu z 8 września 2026 r. w sprawie prowadzonej pod sygnaturą akt I USK 722/26.",
+        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych. Poznaj fakty, które kształtują biznes, prawo oraz społeczeństwo."
+      ]
+    },
+    {
+      "id": "makro-4-246f6f",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Wzrost zjawiska „fishingu w domu” – kiedy wykorzystanie sztucznej inteligencji zmienia się ze wzmacniającego w wprowadzające w błąd?",
+      "original_title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:13",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Eksperci ostrzegają, że wykorzystywanie sztucznej inteligencji do ulepszania wizerunku nieruchomości może posunąć się za daleko i wprowadzić potencjalnych nabywców w błąd.",
+        "Źródło zdjęcia, Winkworth/Supplied Tytuł zdjęcia, Zdjęcia domu przy Rightmove (l), które zobaczyła Olivia Nicole, zupełnie różniły się od tego, jak nieruchomość wyglądała w rzeczywistości (r) Czy kiedykolwiek byłeś pod wrażeniem zdjęć nieruchomości na stronie internetowej agenta nieruchomości, a potem okazało się, że miejsce to wygląda zupełnie inaczej, gdy oglądasz je osobiście?",
+        "Od przemalowanych ścian po wyimaginowane trawniki – agenci nieruchomości coraz częściej korzystają z tej technologii, aby uczynić domy bardziej atrakcyjnymi, twierdząc, że pomaga to kupującym w wizualizacji potencjału miejsca."
+      ],
+      "extended_paragraphs": [
+        "Eksperci ostrzegają, że wykorzystywanie sztucznej inteligencji do ulepszania wizerunku nieruchomości może posunąć się za daleko i wprowadzić potencjalnych nabywców w błąd.",
+        "Źródło zdjęcia, Winkworth/Supplied Tytuł zdjęcia, Zdjęcia domu przy Rightmove (l), które zobaczyła Olivia Nicole, zupełnie różniły się od tego, jak nieruchomość wyglądała w rzeczywistości (r)",
+        "Czy kiedykolwiek byłeś pod wrażeniem zdjęć nieruchomości na stronie internetowej agenta nieruchomości, a potem okazało się, że miejsce to wygląda zupełnie inaczej, gdy oglądasz je osobiście?",
+        "Od przemalowanych ścian po wyimaginowane trawniki – agenci nieruchomości coraz częściej korzystają z tej technologii, aby uczynić domy bardziej atrakcyjnymi, twierdząc, że pomaga to kupującym w wizualizacji potencjału miejsca.",
+        "Eksperci ostrzegają jednak, że może to posunąć się za daleko i wprowadzić potencjalnych nabywców w błąd – trend ten nazywany jest „łowieniem ryb w domu”."
+      ]
+    },
+    {
+      "id": "makro-7-7480a1",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 14,7 tys.) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "14,7 tys."
+      ],
+      "title": "Mikropodróże: Nowy trend zdobywa popularność. Urlop krótki, ale intensywny",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "05:00",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://sukces.rp.pl/w-podrozy/art45417641-mikropodroze-nowy-trend-zdobywa-popularnosc-urlop-krotki-ale-intensywny",
+      "image_url": "https://i.gremicdn.pl/image/free/6cf30b5ae9acea5fe2fb0bada31302fc/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Eksperci prezentują pierwsze Z sieci Hilton wynika, że 2027 r. minie nam pod znakiem częstych, ale za to krótkich i intensywnych wakacji.",
+        "Coraz więcej urlopowiczów preferuje właśnie taką formę wypoczynku.",
+        "Wyjazd na jeden długi urlop w roku traci na atrakcyjności."
+      ],
+      "extended_paragraphs": [
+        "Eksperci prezentują pierwsze Z sieci Hilton wynika, że 2027 r. minie nam pod znakiem częstych, ale za to krótkich i intensywnych wakacji. Coraz więcej urlopowiczów preferuje właśnie taką formę wypoczynku.",
+        "Wyjazd na jeden długi urlop w roku traci na atrakcyjności. Chcemy więcej doświadczać, dlatego pragniemy częstszych wyjazdów.",
+        "Czas staje się coraz cenniejszym, bo coraz bardziej ograniczonym zasobem. Fakt ten wpływa na sposób, w jaki ludzie planują swoje urlopy. Dane pokazują, że w obliczu coraz bardziej napiętego grafiku wielu z nich woli zafundować sobie więcej krótkich wyjazdów w roku, które łatwo zaplanować i zorganizować. Nowy trend wśród podróżników dotyczy różnych grup urlopowiczów: zapracowanych milenialsów, rodziców, a także podróżujących solo.",
+        "Co czwarta osoba, która planuje wakacje na przyszły rok, zamierza dodać do swojego urlopowego harmonogramu więcej krótkich, kilkudniowych wypadów. Taki m.in. wniosek płynie z najnowszego raportu sieci Hilton pt. „The Great Rebalance: How Travelers Are Expecting to Reset and Recalibrate in 2027”.",
+        "Publikacja powstała na podstawie ankiet, które na zlecenie Hiltona wiosną tego roku przeprowadziła firma badawcza Morning Consult. Badanie zrealizowano w gronie ponad 14,7 tys. dorosłych mieszkańców 14 krajów z całego świata, w tym Niemiec, Wielkiej Brytanii, Turcji, USA, Japonii, Australii i Chin."
       ]
     },
     {
@@ -1307,19 +1335,19 @@
       "lead_story": false,
       "summary_points": [
         "Wielka Brytania odnotowuje imponujący wzrost, ale czy będzie on trwały?",
-        "Źródło obrazu, Press Association Opublikowano 12 listopada 2026 r., 13:26 GMT Zaktualizowano 13:27 GMT W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
+        "Źródło zdjęcia, Press Association Opublikowano 12 listopada 2026 r. W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
         "„Na najwyższym biegu” i „uderzająco silny” to opisy 0,7% wzrostu oferowane przez ekonomistów, którzy śledzą każde najmniejsze szmer na temat brytyjskiej gospodarki."
       ],
       "extended_paragraphs": [
         "Wielka Brytania odnotowuje imponujący wzrost, ale czy będzie on trwały?",
-        "Źródło obrazu, Press Association Opublikowano 12 listopada 2026 r., 13:26 GMT Zaktualizowano 13:27 GMT W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
+        "Źródło zdjęcia, Press Association Opublikowano 12 listopada 2026 r. W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
         "„Na najwyższym biegu” i „uderzająco silny” to opisy 0,7% wzrostu oferowane przez ekonomistów, którzy śledzą każde najmniejsze szmer na temat brytyjskiej gospodarki.",
         "Jest to ulepszenie „solidnego” i „odpornego”, a zarazem odejście od „najbardziej dotkniętego wojną w Iranie”.",
         "Na tle największych na świecie zakłóceń w przepływach energii, rosnących rynkowych kosztów pożyczek i okrutnych lat od czasu pandemii – wzrost jest imponujący."
       ]
     },
     {
-      "id": "makro-3-e8b44b",
+      "id": "makro-3-5b844e",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1327,59 +1355,60 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
       "key_metrics": [],
-      "title": "Drga Ci powieka lub łapią Cię skurcze? Przyczyna nie zawsze jest oczywista",
+      "title": "Paweł Wojciechowski: Demokracja fiskalna",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "00:00",
+      "time": "05:06",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/choroby/art45479101-drga-ci-powieka-lub-lapia-cie-skurcze-przyczyna-nie-zawsze-jest-oczywista",
-      "image_url": "https://i.gremicdn.pl/image/free/57c91409109d8d1805c4a0b767a9db15/",
+      "source_url": "https://www.rp.pl/opinie-ekonomiczne/art45478761-pawel-wojciechowski-demokracja-fiskalna",
+      "image_url": "https://i.gremicdn.pl/image/free/cbec3449a321d7fe81ba7c6e53ce834d/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Czy drgająca powieka i nocne skurcze łydek zawsze oznaczają brak magnezu?",
-        "Nie, częściej odpowiadają za nie stres, niewyspanie, kawa, wielogodzinna praca przy ekranie i odwodnienie.",
-        "Elektrolity, czyli minerały biorące udział w przewodzeniu impulsów nerwowych, takie jak magnez i potas, mają znaczenie głównie wtedy, gdy organizm traci je z potem lub przy biegunce."
+        "Dziś pożyczamy od przyszłych pokoleń nie tylko pieniądze.",
+        "Pożyczamy również część ich prawa do decydowania o przyszłych wydatkach państwa.",
+        "Niemal 20 lat temu ekonomista C."
       ],
       "extended_paragraphs": [
-        "Czy drgająca powieka i nocne skurcze łydek zawsze oznaczają brak magnezu? Nie, częściej odpowiadają za nie stres, niewyspanie, kawa, wielogodzinna praca przy ekranie i odwodnienie. Elektrolity, czyli minerały biorące udział w przewodzeniu impulsów nerwowych, takie jak magnez i potas, mają znaczenie głównie wtedy, gdy organizm traci je z potem lub przy biegunce. Gdy znasz właściwą przyczynę, łatwiej dobierzesz sposób postępowania i nie sięgasz po suplement na ślepo.",
-        "Drganie powieki i skurcze mięśni pojawiają się razem, bo mają wspólny mechanizm i podobne wyzwalacze. Oba objawy wynikają z nadpobudliwości nerwowo-mięśniowej, czyli sytuacji, w której nerwy wysyłają do mięśni impulsy bez potrzeby. Mięsień odpowiada wtedy mimowolnym napięciem.",
-        "Różnica polega na skali reakcji. Drganie powieki to miokimia, czyli seria drobnych i niebolesnych drgnięć mięśnia okrężnego oka. Skurcz łydki obejmuje cały mięsień, jest bolesny i trwa od kilku sekund do kilku minut.",
-        "Nadpobudliwość nerwów nasilają przede wszystkim przewlekły stres, krótki sen, duże ilości kofeiny i niedostateczne nawodnienie. Dlatego w okresie przemęczenia możesz zauważyć oba objawy jednocześnie, na przykład drgającą powiekę w ciągu dnia i skurcz łydki w nocy.",
-        "Powieka drga najczęściej z powodu stresu, niewyspania, nadmiaru kofeiny i zmęczenia oczu. Drganie zwykle dotyczy jednej, częściej dolnej powieki i trwa od kilku sekund do kilku minut. Może jednak powracać przez kilka dni, a nawet tygodni."
+        "Dziś pożyczamy od przyszłych pokoleń nie tylko pieniądze. Pożyczamy również część ich prawa do decydowania o przyszłych wydatkach państwa.",
+        "Niemal 20 lat temu ekonomista C. Eugene Steuerle zwrócił uwagę na niepokojący paradoks: państwa mogą stawać się coraz zamożniejsze, a jednocześnie tracić nie tylko swobodę finansową, ale także część demokracji. Rosnące koszty obsługi długu i sztywne wydatki pochłaniają coraz większą część dochodów publicznych, ograniczając swobodę decyzji kolejnych rządów."
       ]
     },
     {
-      "id": "makro-4-2ce59a",
-      "entity_tag": "Wall Street (USA)",
-      "sector": "Rynki Globalne",
+      "id": "makro-5-1cf936",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Rynki Globalne” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Wzlot i upadek Jensena Huanga – jak gwiazda technologii pogrążyła się w skandalu",
-      "original_title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:11",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Gospodarka Światowa” (kluczowe liczby: 31 mln, 70 proc., 85 proc.) — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [
+        "31 mln",
+        "70 proc.",
+        "85 proc."
+      ],
+      "title": "Toyota chce „Made with Europe” zamiast „Made in Europe” i łagodniejszych norm CO₂",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "05:00",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://moto.rp.pl/tu-i-teraz/art45471151-toyota-chce-made-with-europe-zamiast-made-in-europe-i-lagodniejszych-norm-co2",
+      "image_url": "https://i.gremicdn.pl/image/free/bb0c6c2fcb0093a5daf0e65204c5e1d9/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "W ciągu kilku dni status Huanga jako pozornie nietykalnej postaci przewodzącej światowemu wyścigowi technologicznemu upadł.",
-        "Podpis pod rysunkiem: Samira Hussain z BBC donosi z Wall Street, co oznacza upadek tej supergwiazdy technologii.",
-        "Wyglądało na to, że Jensen Huang, znany z noszenia czarnej skórzanej kurtki na imprezach dla akcjonariuszy, ma wszystko."
+        "Toyota Motor Europe po raz kolejny zaapelowała do unijnych ustawodawców, by w nowych przepisach wspierających europejski przemysł auta z Wielkiej Brytanii, Turcji i Japonii były traktowane na równi z samochodami z UE.",
+        "Koncern chce też więcej czasu na osiągnięcie celów redukcji emisji CO₂ na lata 2030 i 2035, zarówno w Unii, jak i w Wielkiej Brytanii.",
+        "Stanowisko dotyczy prac nad aktem w sprawie przyspieszenia rozwoju przemysłu (Industrial Accelerator Act) i nad unijnym pakietem dla sektora motoryzacyjnego."
       ],
       "extended_paragraphs": [
-        "W ciągu kilku dni status Huanga jako pozornie nietykalnej postaci przewodzącej światowemu wyścigowi technologicznemu upadł.",
-        "Podpis pod rysunkiem: Samira Hussain z BBC donosi z Wall Street, co oznacza upadek tej supergwiazdy technologii.",
-        "Wyglądało na to, że Jensen Huang, znany z noszenia czarnej skórzanej kurtki na imprezach dla akcjonariuszy, ma wszystko. Zarówno w USA, jak i w Chinach zabiegali o niego przywódcy, szanowali go inwestorzy i postrzegano go jako lojalnego członka rodziny. Jednak podejście gwiazdy rocka do jego życia osobistego ostatecznie doprowadziło do jego rezygnacji.",
-        "63-latek jest żonaty od 1985 r., na długo przed założeniem Nvidii – firmy, która zapewniła mu pozycję gwiazdy technologii.",
-        "Dał się poznać jako pracoholik i wymagający menadżer, stawiający wysokie wymagania swoim pracownikom, w tym także jego własnym dzieciom, awansowanym w firmie. Widział jednak, jak w tym tygodniu jego osobista reputacja gwałtownie spadła, zniweczona przez romantyczne uwikłania, które podają w wątpliwość jego skupienie i ocenę sytuacji."
+        "Toyota Motor Europe po raz kolejny zaapelowała do unijnych ustawodawców, by w nowych przepisach wspierających europejski przemysł auta z Wielkiej Brytanii, Turcji i Japonii były traktowane na równi z samochodami z UE. Koncern chce też więcej czasu na osiągnięcie celów redukcji emisji CO₂ na lata 2030 i 2035, zarówno w Unii, jak i w Wielkiej Brytanii.",
+        "Stanowisko dotyczy prac nad aktem w sprawie przyspieszenia rozwoju przemysłu (Industrial Accelerator Act) i nad unijnym pakietem dla sektora motoryzacyjnego. Odnosi się też do przeglądu brytyjskiego wymogu sprzedaży pojazdów zeroemisyjnych (ZEV). Toyota deklaruje poparcie dla celów klimatycznych UE. Chce jednak, by nowe przepisy były neutralne technologicznie i uwzględniały rzeczywisty popyt.",
+        "Toyota sprzeciwia się wymogowi montażu samochodów wyłącznie na terenie UE. Proponuje, by preferencjami objąć ograniczoną grupę państw, z którymi Unię łączą umowy o wolnym handlu lub unia celna i w relacjach, z którymi obowiązuje zasada pełnej wzajemności. Wymienia wśród nich Wielką Brytanię, Turcję i Japonię. Według firmy rynek obejmujący tych partnerów to ok. 31 mln pojazdów. Zdaniem koncernu o pochodzeniu auta powinny decydować nie tylko części, ale także prace inżynieryjne, badania i rozwój, montaż i tworzone miejsca pracy.",
+        "Tu i Teraz Dekadę temu Lexus sam zmieniał pas w Tokio. Teraz Toyota szykuje robotaksówkę Toyota i Waymo rozpoczną w 2027 r. w Japonii testy floty autonomicznych SUV-ów bZ4X. Mają one pomóc w uruchomieniu pierwszej w tym kraju w pełni au...",
+        "Toyota proponuje, by wymagany udział europejskich części rósł stopniowo i po trzech latach osiągnął 70 proc. ceny pojazdu na warunkach ex works. Do tego udziału miałaby się wliczać wartość prac inżynieryjnych, prac badawczo-rozwojowych i montażu końcowego. Firma chce, by nowe wymogi nie zaczęły obowiązywać przed 2030 r. Postuluje też próg 70 proc. dla łącznej sprzedaży pojazdów zamiast proponowanych 85 proc. Chce wspólnych zasad dla zamówień publicznych, systemów zachęt i flot firmowych oraz czasowego zwolnienia z tych wymogów aut z wodorowymi ogniwami paliwowymi, dopóki ten rynek się nie rozwinie."
       ]
     },
     {
@@ -1413,38 +1442,6 @@
         "Na razie obowiązki pełni Colette Kress, dyrektor finansowa. Gigant technologiczny stoi przed jednym z największych wyzwań – znalezieniem odpowiedniej osoby, która na stałe pokieruje firmą, którą Huang pomógł stworzyć ponad trzydzieści lat temu i która przekształciła się w jedną z najcenniejszych firm na świecie.",
         "Źródło zdjęcia, Nvidia Tytuł zdjęcia, Colette Kress jest dyrektorem finansowym w firmie Nvidia"
       ]
-    },
-    {
-      "id": "makro-7-98cec9",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
-      "key_metrics": [],
-      "title": "Święto w Mediolanie. Włosi lepsi od Francuzów w Lidze Narodów",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "23:26",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://sport.rp.pl/pilka-nozna/art45482911-swieto-w-mediolanie-wlosi-lepsi-od-francuzow-w-lidze-narodow",
-      "image_url": "https://i.gremicdn.pl/image/free/a258dcfef370f32215637e0f9992ba76/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Kibice na San Siro, w tym nowy mistrz świata Formuły 1 Kimi Antonelli, obejrzeli świetny mecz, a Włosi niespodziewanie pokonali Francję 3:1.",
-        "Bez Kyliana Mbappe drużynie Zinedine’a Zidane’a trudno zdobywać bramki.",
-        "Zidane już na pewno wie, że przez znaczną część pracy na stanowisku selekcjonera będzie musiał myśleć o tym, jak ułożyć sobie relacje z Mbappe."
-      ],
-      "extended_paragraphs": [
-        "Kibice na San Siro, w tym nowy mistrz świata Formuły 1 Kimi Antonelli, obejrzeli świetny mecz, a Włosi niespodziewanie pokonali Francję 3:1. Bez Kyliana Mbappe drużynie Zinedine’a Zidane’a trudno zdobywać bramki.",
-        "Zidane już na pewno wie, że przez znaczną część pracy na stanowisku selekcjonera będzie musiał myśleć o tym, jak ułożyć sobie relacje z Mbappe. Sam grał w Realu Madryt w erze Galacticos, potem prowadził Królewskich, gdzie musiał godzić ze sobą różne charaktery i rozbuchane ego, ale z kapitanem francuskiej reprezentacji może mieć najwięcej zachodu. Nawet jeśli Zidane i Mbappe będą się dogadywali, to i tak dziennikarze będą szukali dziury w całym.",
-        "Podobno, kiedy Zidane wystawił Mbappe na lewym skrzydle we wrześniowych meczach, a na środku ataku dał szansę Ousmane’owi Dembele, to kapitan był z tej decyzji niezadowolony. W październiku napastnik Realu Madryt doznał kontuzji i szybko wyjechał ze zgrupowania, więc nie było czasu porozmawiać. Teraz Mbappe też przyjechał z lekkim urazem, ale nie na tyle poważnym, by dostać wolne i wrócić do Madrytu.",
-        "Zidane nie wystawił najskuteczniejszego strzelca w meczu z Włochami, ale liczy na niego w starciu z Turcją, więc zatrzymał go w kadrze. I znów pojawiły się spekulacje, że to może być podłoże konfliktu.",
-        "Według mediów hiszpańskich Mbappe miał być niezadowolony, bo liczył na szybki powrót do Madrytu, a na piłkarza miał czekać już samolot. Media francuskie twierdzą z kolei, że konfliktu nie ma. Prawdę znają tylko Zidane i Mbappe, ale jedno jest pewne: bez najlepszego strzelca i dodatkowo bez Dembele Francuzi mają kłopoty."
-      ]
     }
   ],
   "tech": [
@@ -1462,7 +1459,7 @@
         "3 miliardy"
       ],
       "title": "Muse może teraz dzwonić do firm w USA – jeśli płacisz",
-      "original_title": "Muse can now place calls to U.S. businesses — if you pay",
+      "original_title": "Muse can now place calls to US businesses — if you pay",
       "is_foreign": true,
       "lang": "EN",
       "time": "22:22",
@@ -1474,13 +1471,13 @@
       "summary_points": [
         "Sztuczna inteligencja Muse może teraz wykonywać połączenia wychodzące do firm w USA, ale nie jest to bezpłatne.",
         "Muse może teraz wykonywać połączenia telefoniczne z firmami w USA — jeśli zapłacisz Sarah Perez, godz. 14:22 czasu PST · 12 listopada 2026 r. Po wstępnych testach tej funkcji we wrześniu Muse, agent ds.",
-        "sztucznej inteligencji firmy Meta, może teraz wykonywać połączenia do firm w USA w imieniu swoich użytkowników."
+        "sztucznej inteligencji firmy Meta, może teraz wykonywać połączenia z firmami w USA w imieniu swoich użytkowników."
       ],
       "extended_paragraphs": [
         "Sztuczna inteligencja Muse może teraz wykonywać połączenia wychodzące do firm w USA, ale nie jest to bezpłatne.",
-        "Muse może teraz wykonywać połączenia telefoniczne z firmami w USA — jeśli zapłacisz Sarah Perez, godz. 14:22 czasu PST · 12 listopada 2026 r. Po wstępnych testach tej funkcji we wrześniu Muse, agent ds. sztucznej inteligencji firmy Meta, może teraz wykonywać połączenia do firm w USA w imieniu swoich użytkowników. Jednak według firmy dostęp do tej funkcji mają tylko płatni subskrybenci.",
+        "Muse może teraz wykonywać połączenia telefoniczne z firmami w USA — jeśli zapłacisz Sarah Perez, godz. 14:22 czasu PST · 12 listopada 2026 r. Po wstępnych testach tej funkcji we wrześniu Muse, agent ds. sztucznej inteligencji firmy Meta, może teraz wykonywać połączenia z firmami w USA w imieniu swoich użytkowników. Jednak według firmy dostęp do tej funkcji mają tylko płatni subskrybenci.",
         "Meta's Muse, która ma obecnie ponad 10 milionów użytkowników, jak podała firma w zeszłym miesiącu, pracuje nad tym, aby sztuczna inteligencja konsumencka stała się głównym produktem dla codziennych użytkowników. Jednym ze sposobów osiągnięcia tego celu jest wykonywanie połączeń telefonicznych, ponieważ może on obsłużyć inne zadanie na listach zadań do wykonania.",
-        "Jak zauważa Alexandr Wang, dyrektor ds. sztucznej inteligencji w Meta i szef działu Superintelligence Labs, funkcja ta może zostać wykorzystana do obsługi połączeń, których ludzie nie chcą wykonywać, na przykład do operatora telewizji kablowej, DMV lub do restauracji, która nie oferuje rezerwacji online.",
+        "Jak zauważa Alexandr Wang, dyrektor ds. sztucznej inteligencji w Meta i szef działu Superintelligence Labs, tej funkcji można używać do obsługi połączeń, których ludzie nie chcą wykonywać, na przykład do operatora telewizji kablowej, DMV lub do restauracji, która nie oferuje rezerwacji online.",
         "🚨ALERT FUNKCJI MUSE!!!🚨 wielu z Was o to pytało… muza może wykonywać dla Was połączenia telefoniczne! ☎️📞📲 pozwól muzie zająć się wszystkimi rozmowami, których nie chcesz wykonywać. ubezpieczenie? kabel? DMV? obiad? to już nie twój problem. teraz dostępny dla płatnych subskrybentów w USA 🇺🇸 pic.twitter.com/dsyMNmI2Ub"
       ]
     },
@@ -1519,7 +1516,7 @@
       ]
     },
     {
-      "id": "tech-8-fc9f3c",
+      "id": "tech-8-880fea",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
       "market_impact": "HIGH",
@@ -1527,8 +1524,8 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Z drugiej strony American Cancer Society nalega, aby wszyscy mężczyźni wykonywali badania na raka prostaty",
-      "original_title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "title": "Z drugiej strony American Cancer Society zaleca rutynowe badania przesiewowe w kierunku raka prostaty",
+      "original_title": "In reversal, American Cancer Society urges routine prostate cancer screening",
       "is_foreign": true,
       "lang": "EN",
       "time": "22:59",
@@ -1641,7 +1638,7 @@
       "extended_paragraphs": [
         "Dochodzenie Kongresu w sprawie sprzedaży Nvidii w Chinach i jej kontaktów z Trumpem jest jak dotąd drugim, odkąd rozeszła się wiadomość o rzekomej aferze szpiegowskiej.",
         "Demokraci wszczynają śledztwo w sprawie Nvidii, piszą zjadliwy list w sprawie „planu” Huanga z Trumpem Julie Bort 14:42 PST · 12 listopada 2026 r. Demokraci w czwartek rozpoczęli dochodzenie w sprawie sposobu, w jaki administracja Trumpa poradziła sobie ze sprzedażą chipów Nvidii do Chin. Wcześniej w czwartek firma odwołała swojego dyrektora generalnego Jensena Huanga. Zgodził się także złożyć zeznania przed innym zestawem komisji Kongresu pod przewodnictwem Republikanów.",
-        "Huang został usunięty z założonej przez siebie firmy po tym, jak przyznał się do romansu pozamałżeńskiego w związku z doniesieniami o związku z kobietą oskarżoną o bycie chińskim szpiegiem. (Od tego czasu oskarżano go o więcej romansów z pracownikami Nvidii.)",
+        "Huang został usunięty z założonej przez siebie firmy po tym, jak przyznał się do pozamałżeńskiego romansu z kobietą oskarżoną o bycie chińskim szpiegiem. (Od tego czasu oskarżano go o więcej romansów z pracownikami Nvidii.)",
         "Domniemany chiński szpieg, Alice Huang, była dyrektorem firmy Megaspeed, klienta Nvidii, firmy z siedzibą w Singapurze, którą amerykańscy urzędnicy podejrzewają o pomoc w dostarczaniu zaawansowanych chipów Nvidia do Chin. Dochodzenie Demokratów prowadzi republikanin Richard Neal (ze stanu Massachusetts), czołowy Demokrata w Komisji ds. Sposobów i Środków Izby Reprezentantów, oraz senator Ron Wyden (ze stanu Waszyngton), czołowy Demokrata w Senackiej Komisji Finansów. Jako partia mniejszościowa mogą zadawać pytania, ale nie mogą wymuszać odpowiedzi.",
         "Ich brzęczący list do Sekretarza Handlu Howarda Lutnicka zwraca się do departamentu o zachowanie dokumentacji dotyczącej porozumienia, które uważają za wątpliwe i, ich zdaniem, nielegalne."
       ]
@@ -1713,39 +1710,75 @@
   ],
   "swiat": [
     {
-      "id": "swiat-1-127671",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Po rozmowach z Putinem w Moskwie wysłannicy USA spotykają się z Zełenskim w Dublinie",
-      "original_title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "id": "swiat-2-1998fd",
+      "entity_tag": "Rynek Krypto",
+      "sector": "Aktywa Cyfrowe",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Aktywa Cyfrowe” (Rynek Krypto) (kluczowe liczby: 400 milionów dolarów, 6,3 miliarda dolarów, 4,7 miliarda funtów) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "400 milionów dolarów",
+        "6,3 miliarda dolarów",
+        "4,7 miliarda funtów"
+      ],
+      "title": "FBI twierdzi, że północnokoreańscy hakerzy wykorzystali fałszywe rozmowy wideo w hackowaniu kryptowalut o wartości 400 milionów dolarów",
+      "original_title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:00",
+      "time": "02:48",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": true,
       "summary_points": [
-        "Wysłannik USA Steve Witkoff powiedział, że prezydent Putin zgodził się na dołączenie europejskich negocjatorów do kolejnej rundy rozmów na Ukrainie.",
-        "Źródło zdjęcia, Sputnik / Pool za pośrednictwem AFP Tytuł zdjęcia: Wizyta Witkoffa i Kushnera w Moskwie była ostatnią z wielu podróży, jakie wysłannicy USA odbyli w celu spotkania się z Władimirem Putinem Wysłannicy USA Jared Kushner i Steve Witkoff przeprowadzili w Moskwie nową rundę rozmów z prezydentem Rosji Władimirem Putinem, dzień po zakończeniu ostatnich rozmów mających na celu zakończenie wojny na Ukrainie w Abu Zabi.",
-        "Obydwoje przebywają teraz w Dublinie, aby spotkać się z prezydentem Ukrainy Wołodymyrem Zełenskim, a Witkoff powiedział, że uzgodniono już z Putinem nową rundę rozmów trójstronnych."
+        "Uważa się, że w ciągu ostatnich 18 miesięcy ofiarą programu FaceStealer padło ponad 900 ofiar.",
+        "Źródło zdjęcia, FBI Podpis pod zdjęciem, FBI zredagowało przykłady filmów 900 ofiar potajemnie nagranych przez północnokoreańskich hakerów Władze USA twierdzą, że sponsorowani przez państwo hakerzy z Korei Północnej zabrali kryptowalutę o wartości ponad 400 milionów dolarów, wykorzystując fałszywe rozmowy wideo do kradzieży tożsamości ludzi.",
+        "Według biura w ciągu ostatnich 18 miesięcy ofiarą programu, określanego przez FBI mianem FaceStealer, zginęło ponad 900 ofiar."
       ],
       "extended_paragraphs": [
-        "Wysłannik USA Steve Witkoff powiedział, że prezydent Putin zgodził się na dołączenie europejskich negocjatorów do kolejnej rundy rozmów na Ukrainie.",
-        "Źródło zdjęcia, Sputnik / Pool za pośrednictwem AFP Tytuł zdjęcia: Wizyta Witkoffa i Kushnera w Moskwie była ostatnią z wielu podróży, jakie wysłannicy USA odbyli w celu spotkania się z Władimirem Putinem",
-        "Wysłannicy USA Jared Kushner i Steve Witkoff przeprowadzili w Moskwie nową rundę rozmów z prezydentem Rosji Władimirem Putinem, dzień po zakończeniu ostatnich rozmów mających na celu zakończenie wojny na Ukrainie w Abu Zabi.",
-        "Obydwoje przebywają teraz w Dublinie, aby spotkać się z prezydentem Ukrainy Wołodymyrem Zełenskim, a Witkoff powiedział, że uzgodniono już z Putinem nową rundę rozmów trójstronnych.",
-        "Jednak na znak dalszego napięcia Zełenski powiedział w czwartek rano, że armia ukraińska ponownie boryka się z „systematycznymi” ograniczeniami w stosunku do wojskowej usługi satelitarnej Starlink, Starshield, co oznacza, że ​​Kijów ma trudności z przechwytywaniem rosyjskich dronów napędzanych odrzutowcami."
+        "Uważa się, że w ciągu ostatnich 18 miesięcy ofiarą programu FaceStealer padło ponad 900 ofiar.",
+        "Źródło zdjęcia, FBI Podpis pod zdjęciem, FBI zredagowało przykłady filmów 900 ofiar potajemnie nagranych przez północnokoreańskich hakerów",
+        "Władze USA twierdzą, że sponsorowani przez państwo hakerzy z Korei Północnej zabrali kryptowalutę o wartości ponad 400 milionów dolarów, wykorzystując fałszywe rozmowy wideo do kradzieży tożsamości ludzi.",
+        "Według biura w ciągu ostatnich 18 miesięcy ofiarą programu, określanego przez FBI mianem FaceStealer, zginęło ponad 900 ofiar.",
+        "„Reżim północnokoreański opiera się na dochodach z kradzieży kryptowalut na dużą skalę w celu finansowania swojego programu nielegalnej broni, w wyniku czego w ostatnich latach kradnął miliardy dolarów” – mówi dyrektor cybernetyczny FBI Brett Leatherman."
       ]
     },
     {
-      "id": "swiat-2-9e3187",
+      "id": "swiat-1-e64f0c",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Zełenski z zadowoleniem przyjmuje włączenie Europy do rozmów pokojowych między Rosją a Ukrainą",
+      "original_title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "02:01",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Prezydent Ukrainy twierdzi, że zaangażowanie europejskich przywódców ma sens, ponieważ Ukraina ma nadzieję ostatecznie przystąpić do UE.",
+        "Prezydent Ukrainy z zadowoleniem przyjął zobowiązanie wysłanników USA Jareda Kushnera i Steve'a Witkoffa do włączenia delegatów Unii Europejskiej do kolejnej rundy rozmów pokojowych z Rosją.",
+        "Europejscy przywódcy wyrazili w tym tygodniu pogłębiające się obawy dotyczące bezpieczeństwa, a Wołodymyr Zełenski powiedział, że włączenie ich do rozmów zapewni UE „głos” w negocjacjach."
+      ],
+      "extended_paragraphs": [
+        "Prezydent Ukrainy twierdzi, że zaangażowanie europejskich przywódców ma sens, ponieważ Ukraina ma nadzieję ostatecznie przystąpić do UE.",
+        "Prezydent Ukrainy z zadowoleniem przyjął zobowiązanie wysłanników USA Jareda Kushnera i Steve'a Witkoffa do włączenia delegatów Unii Europejskiej do kolejnej rundy rozmów pokojowych z Rosją.",
+        "Europejscy przywódcy wyrazili w tym tygodniu pogłębiające się obawy dotyczące bezpieczeństwa, a Wołodymyr Zełenski powiedział, że włączenie ich do rozmów zapewni UE „głos” w negocjacjach.",
+        "Kushner i Witkoff spotkali się z Zełenskim w Dublinie w czwartkowy wieczór w ramach pracowitego dnia dyplomacji wahadłowej – wcześniej spotkali się w Moskwie z Władimirem Putinem, który powiedział, że stanowisko Rosji w sprawie wojny – i jej zapotrzebowanie na terytorium – nie uległo zmianie.",
+        "Spotkania są następstwem rozmów prowadzonych w Abu Zabi w zeszłym tygodniu, które nie przyniosły przełomu w zakończeniu wojny."
+      ]
+    },
+    {
+      "id": "swiat-3-9e3187",
       "entity_tag": "Ropa Naftowa",
       "sector": "Surowce Energetyczne",
       "market_impact": "LOW",
@@ -1774,38 +1807,6 @@
         "Fińskie władze potwierdziły, że w środę w Zatoce Fińskiej zaatakowano rosyjski okręt wojenny, choć niewiele wiadomo na temat tego ataku.",
         "Ukraińska służba bezpieczeństwa SBU oświadczyła, że ​​za cel obrała statek Naro-Fominsk w ramach szerszej operacji dronów przeciwko rosyjskiemu składowi eksportu ropy Ust-Ługa na wybrzeżu Bałtyku.",
         "Atak, uważany za pierwszy atak ukraińskich dronów na rosyjski statek na obszarze Morza Bałtyckiego otwartym dla cywilnego ruchu morskiego, zrodził pytania, czy Ukraina mogłaby rozszerzyć swoje ataki."
-      ]
-    },
-    {
-      "id": "swiat-3-69e077",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Podejrzewane groźby podłożenia bomby wymuszają nową ewakuację włoskich szkół",
-      "original_title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:23",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
-        "Źródło zdjęcia, EPA Tytuł zdjęcia: Oddziały bombowe przeszukały wiele szkół, ale nie znaleziono żadnych urządzeń Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
-        "Około 3778 szkół, od Mediolanu na północy po Sycylię na południu, zgłosiło w środę zagrożenia podobne do tych, które wywołały chaos, mimo że nie znaleziono żadnych urządzeń wybuchowych."
-      ],
-      "extended_paragraphs": [
-        "Szkoły w całych Włoszech drugi dzień z rzędu otrzymują groźby bombowe, wywołując nową panikę i ewakuacje.",
-        "Źródło zdjęcia, EPA Tytuł zdjęcia: Oddziały bombowe przeszukały wiele szkół, ale nie znaleziono żadnych urządzeń",
-        "Około 3778 szkół, od Mediolanu na północy po Sycylię na południu, zgłosiło w środę zagrożenia podobne do tych, które wywołały chaos, mimo że nie znaleziono żadnych urządzeń wybuchowych.",
-        "Rząd zalecił szkołom, aby „w przypadku braku konkretnych dowodów poza zwykłym otrzymaniem masowej wiadomości e-mail wskazującej na niebezpieczeństwo, nie wolno ewakuować budynków”. Władze twierdzą, że w czwartek ewakuowano jedynie 77 szkół, w przeciwieństwie do poprzedniego dnia.",
-        "Premier Giorgia Meloni twierdzi, że jej rząd przedstawi porady „sektorowe”, aby pomóc osobom stojącym w obliczu tego rodzaju zagrożeń."
       ]
     },
     {
@@ -1927,12 +1928,12 @@
       "lead_story": true,
       "summary_points": [
         "Harry Kane jest najlepszym strzelcem wszechczasów Anglii i rekordzistą pod względem występów, ale gdzie plasuje się wśród najlepszych zawodników Trzech Lwów?",
-        "Autor: Alex Bysuth Starszy dziennikarz BBC Sport Opublikowano godzinę temu Harry Kane jest obecnie najczęściej występującym w reprezentacji Anglii zawodnikiem, a także rekordzistą strzelców swojego kraju, ale trudniej jest określić ilościowo, czy te osiągnięcia plasują go wśród najlepszych graczy Trzech Lwów w historii.",
+        "Autor: Alex Bysouth Starszy dziennikarz BBC Sport Opublikowano 5 godzin temu Harry Kane jest obecnie najczęściej występującym w reprezentacji Anglii zawodnikiem, a także rekordzistą strzelców swojego kraju, ale trudniej jest określić ilościowo, czy te osiągnięcia plasują go wśród najlepszych zawodników Trzech Lwów w historii.",
         "To trudna debata, w której występuje tak wiele zmiennych i która obejmuje skalę czasową tak starą jak sama gra i, moim zdaniem, nie tylko określenie indywidualnych zdolności gracza, ale także miarę jego wpływu na psychikę narodu."
       ],
       "extended_paragraphs": [
         "Harry Kane jest najlepszym strzelcem wszechczasów Anglii i rekordzistą pod względem występów, ale gdzie plasuje się wśród najlepszych zawodników Trzech Lwów?",
-        "Autor: Alex Bysuth Starszy dziennikarz BBC Sport Opublikowano godzinę temu Harry Kane jest obecnie najczęściej występującym w reprezentacji Anglii zawodnikiem, a także rekordzistą strzelców swojego kraju, ale trudniej jest określić ilościowo, czy te osiągnięcia plasują go wśród najlepszych graczy Trzech Lwów w historii.",
+        "Autor: Alex Bysouth Starszy dziennikarz BBC Sport Opublikowano 5 godzin temu Harry Kane jest obecnie najczęściej występującym w reprezentacji Anglii zawodnikiem, a także rekordzistą strzelców swojego kraju, ale trudniej jest określić ilościowo, czy te osiągnięcia plasują go wśród najlepszych zawodników Trzech Lwów w historii.",
         "To trudna debata, w której występuje tak wiele zmiennych i która obejmuje skalę czasową tak starą jak sama gra i, moim zdaniem, nie tylko określenie indywidualnych zdolności gracza, ale także miarę jego wpływu na psychikę narodu.",
         "Zdobywcy Złotej Piłki, Stanley Matthews, Kevin Keegan i Michael Owen, z pewnością wpadliby w szał, gdyby kryteria były takie, nie wspominając o genialnych technikach, takich jak Glenn Hoddle, Chris Waddle i John Barnes.",
         "Podobnie, gdyby któremukolwiek menadżerowi Anglii udało się wydobyć to, co najlepsze z Paula Scholesa, Stevena Gerrarda i Franka Lamparda, z pewnością wykonałby klasyczny strzał w końcówce ze środka pola."
@@ -1971,7 +1972,103 @@
       ]
     },
     {
-      "id": "sport-1-d5dc46",
+      "id": "sport-1-ddd6c4",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "To się porobiło w tabeli! Oto trzecia półfinalistka WTA Finals",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "01:57",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1283920/to-sie-porobilo-w-tabeli-oto-trzecia-polfinalistka-wta-finals",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af66ae1004c79_49311884.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "W czwartek zakończyła się rywalizacja grupie 1 prestiżowego turnieju WTA Finals 2026.",
+        "Awans do półfinału wywalczyły Linda Noskova i Jessica Pegula.",
+        "Z imprezą w Indian Wells pożegnały się Coco Gauff i Marta Kostiuk."
+      ],
+      "extended_paragraphs": [
+        "W czwartek zakończyła się rywalizacja grupie 1 prestiżowego turnieju WTA Finals 2026. Awans do półfinału wywalczyły Linda Noskova i Jessica Pegula. Z imprezą w Indian Wells pożegnały się Coco Gauff i Marta Kostiuk.",
+        "Skomentuj W czwartek zakończyła się rywalizacja grupie 1 prestiżowego turnieju WTA Finals 2026. Awans do półfinału wywalczyły Linda Noskova i Jessica Pegula. Z imprezą w Indian Wells pożegnały się Coco Gauff i Marta Kostiuk.",
+        "Przed ostatnią kolejką w grupie 1 sytuacja była interesująca, co zapowiadało emocje. Najpierw Amerykanka Coco Gauff wygrała z Ukrainką Martą Kostiuk 6:4, 7:5. Następnie Amerykanka Jessica Pegula zwyciężyła Czeszkę Lindę Noskovą 7:6(2), 4:6, 7:5.",
+        "Tym samym po trzech seriach gier trzy tenisistki miały na koncie po dwie wygrane. W takiej sytuacji o kolejności przesądził procent wygranych setów. Awans do półfinału z pierwszej pozycji wywalczyła Noskova. Natomiast na drugim miejscu uplasowała się Pegula.",
+        "Trzecie miejsce w grupie 1 zajęła Gauff. Amerykanka wygrała bezpośredni mecz z Pegulą, ale układ pozostałych wyników sprawił, że to młodsza z reprezentantek USA pożegnała się z Turniejem Mistrzyń. Występ zakończyła także Kostiuk, która w swoim debiucie nie zdobyła nawet seta."
+      ]
+    },
+    {
+      "id": "sport-2-e0c412",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Jak Pochettino znalazł się na radarze Man Utd i co powiedziano Carrickowi, kiedy",
+      "original_title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "16:12",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b6bd/live/ff1daf40-dead-11f1-8253-3f203a001288.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
+        "Starszy korespondent piłkarski Opublikowano 12 listopada 2026 Michael Carrick musiał wiedzieć, co się wydarzy.",
+        "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United."
+      ],
+      "extended_paragraphs": [
+        "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
+        "Starszy korespondent piłkarski Opublikowano 12 listopada 2026 Michael Carrick musiał wiedzieć, co się wydarzy.",
+        "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United.",
+        "Ale ponieważ w rzeczywistości on i jego przedstawiciele otrzymali wystarczająco wyraźne wskazówki dotyczące tego, co miało nastąpić.",
+        "Według dobrze poinformowanych źródeł w poniedziałek dyrektor generalny Omar Berrada skontaktował się z agentem Carricka i powiedział mu, że on i dyrektor sportowy Jason Wilcox udają się do Monako na zaplanowane spotkanie ze współwłaścicielem Sir Jimem Ratcliffe’em, które będzie obejmować dyskusję na temat przyszłości głównego trenera."
+      ]
+    },
+    {
+      "id": "sport-3-1dcb3e",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Istny thriller. Wyrzuciła Gauff z WTA Finals",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "01:14",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1283919/istny-thriller-wyrzucila-gauff-z-wta-finals",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af663c235efe2_59227442.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Coco Gauff wygrała dwa mecze, ale nie awansowała do półfinału WTA Finals.",
+        "Przesądziło o tym trzysetowe zwycięstwo Jessiki Peguli nad Lindą Noskovą.",
+        "Choć Pegula wcześniej przegrała z rodaczką, zakończyła fazę grupową z lepszym bilansem setów."
+      ],
+      "extended_paragraphs": [
+        "Coco Gauff wygrała dwa mecze, ale nie awansowała do półfinału WTA Finals. Przesądziło o tym trzysetowe zwycięstwo Jessiki Peguli nad Lindą Noskovą. Choć Pegula wcześniej przegrała z rodaczką, zakończyła fazę grupową z lepszym bilansem setów.",
+        "1 Komentarz Coco Gauff wygrała dwa mecze, ale nie awansowała do półfinału WTA Finals. Przesądziło o tym trzysetowe zwycięstwo Jessiki Peguli nad Lindą Noskovą. Choć Pegula wcześniej przegrała z rodaczką, zakończyła fazę grupową z lepszym bilansem setów.",
+        "Rywalizacja w grupie A WTA Finals miała wyjątkowo emocjonujące zakończenie. Coco Gauff pokonała Martę Kostiuk i zakończyła fazę grupową z dwoma zwycięstwami, ale nadal nie mogła być pewna awansu. Wszystko zależało od wyniku spotkania Jessiki Peguli z Lindą Noskovą. Czeszka miała już zapewnione miejsce w półfinale, natomiast Amerykanka musiała wygrać, aby wyprzedzić rodaczkę.",
+        "Pojedynek Peguli z Noskovą trwał blisko trzy godziny i rozstrzygnął się dopiero w trzecim secie. Lepsza okazała się Amerykanka, która obroniła piłkę meczową i zwyciężyła 7:6(2), 4:6, 7:5, dzięki czemu awansowała do półfinału WTA Finals kosztem Gauff.",
+        "Czeszka jako pierwsza stanęła przed szansą na przełamanie, ale rywalka posłała wygrywający bekhend po linii i ostatecznie utrzymała podanie. W czwartym gemie to Pegula wypracowała break pointa i wówczas jej przeciwniczka wpakowała forhend w siatkę (3:1)."
+      ]
+    },
+    {
+      "id": "sport-5-d5dc46",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2003,39 +2100,7 @@
       ]
     },
     {
-      "id": "sport-2-e0c412",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Jak Pochettino znalazł się na radarze Man Utd i co powiedziano Carrickowi, kiedy",
-      "original_title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:12",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b6bd/live/ff1daf40-dead-11f1-8253-3f203a001288.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
-        "Starszy korespondent piłkarski Opublikowano 7 godzin temu Michael Carrick musiał wiedzieć, co się wydarzy.",
-        "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United."
-      ],
-      "extended_paragraphs": [
-        "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
-        "Starszy korespondent piłkarski Opublikowano 7 godzin temu Michael Carrick musiał wiedzieć, co się wydarzy.",
-        "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United.",
-        "Ale ponieważ w rzeczywistości on i jego przedstawiciele otrzymali wystarczająco wyraźne wskazówki dotyczące tego, co miało nastąpić.",
-        "Według dobrze poinformowanych źródeł w poniedziałek dyrektor generalny Omar Berrada skontaktował się z agentem Carricka i powiedział mu, że on i dyrektor sportowy Jason Wilcox udają się do Monako na zaplanowane spotkanie ze współwłaścicielem Sir Jimem Ratcliffe’em, które będzie obejmować dyskusję na temat przyszłości głównego trenera."
-      ]
-    },
-    {
-      "id": "sport-3-2077ee",
+      "id": "sport-7-2077ee",
       "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2067,70 +2132,6 @@
       ]
     },
     {
-      "id": "sport-5-91ace9",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "\"Ma nas w nosie\". Wyszło na jaw, komu nie odpisywał Zieliński",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:26",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1283916/ma-nas-w-nosie-wyszlo-na-jaw-komu-nie-odpisywal-zielinski",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af63cfa2ffd75_61932051.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Piotr Zieliński musiał tłumaczyć się Nicoli Zalewskiemu z nieodebranych połączeń i wiadomości.",
-        "Całą sytuację zarejestrowały kamery PZPN, a w zabawną wymianę zdań włączył się również Jan Bednarek.",
-        "Skomentuj Piotr Zieliński musiał tłumaczyć się Nicoli Zalewskiemu z nieodebranych połączeń i wiadomości."
-      ],
-      "extended_paragraphs": [
-        "Piotr Zieliński musiał tłumaczyć się Nicoli Zalewskiemu z nieodebranych połączeń i wiadomości. Całą sytuację zarejestrowały kamery PZPN, a w zabawną wymianę zdań włączył się również Jan Bednarek. Poszło o... bluzę.",
-        "Skomentuj Piotr Zieliński musiał tłumaczyć się Nicoli Zalewskiemu z nieodebranych połączeń i wiadomości. Całą sytuację zarejestrowały kamery PZPN, a w zabawną wymianę zdań włączył się również Jan Bednarek. Poszło o... bluzę.",
-        "Na oficjalnym kanale Polskiego Związku Piłki Nożnej pojawił się drugi vlog z listopadowego zgrupowania reprezentacji Polski. Materiał pokazuje nie tylko codzienność kadrowiczów, ale również luźniejsze momenty spędzane poza boiskiem. W jednej ze scen w centrum uwagi znaleźli się Piotr Zieliński i Nicola Zalewski , którzy wdali się w zabawną wymianę zdań.",
-        "Wszystko zaczęło się od pretensji Zalewskiego, który nie mógł skontaktować się z kolegą. Zieliński dopiero przyjechał, ale miał już do wyjaśnienia pewną sprawę. Szybko okazało się, że chodzi o bluzę, którą zabrał Zalewski, pozostawiając pomocnika bez cieplejszego ubrania. - Czemu nie odpowiadasz? - zapytał Zalewski (na wideo od 23:30).",
-        "- Przyjechałem dopiero. Kto mi bluzę zabrał? - odpowiedział Zieliński. - Ja, ale pisałem do ciebie. Pisałem, dzwoniłem - tłumaczył Zalewski."
-      ]
-    },
-    {
-      "id": "sport-7-062ebe",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Miał zaledwie 39 lat. Nie żyje Tom O'Brien",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:25",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/jezdziectwo/1283915/mial-zaledwie-39-lat-nie-zyje-tom-obrien",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af63bbab5cc65_48651278.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Tom O'Brien zmarł po walce z nowotworem.",
-        "Irlandczyk wygrał ponad tysiąc wyścigów w Wielkiej Brytanii i Irlandii, a karierę zakończył w 2023 roku.",
-        "Skomentuj Tom O'Brien zmarł po walce z nowotworem."
-      ],
-      "extended_paragraphs": [
-        "Tom O'Brien zmarł po walce z nowotworem. Irlandczyk wygrał ponad tysiąc wyścigów w Wielkiej Brytanii i Irlandii, a karierę zakończył w 2023 roku.",
-        "Skomentuj Tom O'Brien zmarł po walce z nowotworem. Irlandczyk wygrał ponad tysiąc wyścigów w Wielkiej Brytanii i Irlandii, a karierę zakończył w 2023 roku.",
-        "Dziennikarze BBC przekazali informację o śmierci dżokeja, który przez lata należał do najważniejszych postaci zespołu prowadzonego przez Philipa Hobbsa w Minehead. Do tamtejszej stajni trafił jako nastolatek, jeszcze zanim wystąpił w wyścigu.",
-        "Tom O'Brien zwyciężył dwukrotnie podczas Cheltenham Festival i dwa razy triumfował w Welsh Grand National. W 2021 roku na koniu Thyme Hill wygrał Liverpool Hurdle, zaś rok później ten sam duet zwyciężył w Kauto Star Novices' Chase.",
-        "- Tom wpłynął na życie niezliczonych osób po obu stronach Morza Irlandzkiego. Dawał radość każdemu, kto miał okazję go znać i obserwować jego pracę na torze oraz poza nim. Jego odejście jest trudne do przyjęcia - powiedział Brant Dunshea, dyrektor wykonawczy British Horseracing Authority."
-      ]
-    },
-    {
       "id": "sport-8-01fd3b",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
@@ -2145,7 +2146,7 @@
       "original_title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:47",
+      "time": "03:19",
       "source": "BBC Sport",
       "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/39bd/live/e5ecf350-deee-11f1-99c8-f59e65cb7a51.jpg",
@@ -2153,15 +2154,15 @@
       "lead_story": false,
       "summary_points": [
         "Kapitan Australii Pat Cummins odpowiada na twierdzenia byłego kolegi z drużyny Usmana Khawaji dotyczące skandalu z papierem ściernym, nazywając je „w 100% błędnymi” i „całkowitymi bzdurami”.",
-        "Korespondent krykieta Opublikowano 7 minut temu Kapitan Australii Pat Cummins odniósł się do twierdzeń byłego kolegi z drużyny Usmana Khawaji w związku ze skandalem z papierem ściernym, nazywając je „w 100% błędnymi” i „kompletnymi bzdurami”.",
+        "Korespondent krykieta Opublikowano 12 listopada 2026 r. Zaktualizowano 51 minut temu Kapitan Australii Pat Cummins odniósł się do twierdzeń byłego kolegi z drużyny Usmana Khawaji w związku ze skandalem z papierem ściernym, nazywając je „w stu procentach błędnymi” i „całkowitymi bzdurami”.",
         "W 2018 roku Steve Smith, David Warner i Cameron Bancroft zostali ukarani za spisek mający na celu manipulowanie piłką za pomocą papieru ściernego podczas australijskiego testu przeciwko Republice Południowej Afryki w Cape Town."
       ],
       "extended_paragraphs": [
         "Kapitan Australii Pat Cummins odpowiada na twierdzenia byłego kolegi z drużyny Usmana Khawaji dotyczące skandalu z papierem ściernym, nazywając je „w 100% błędnymi” i „całkowitymi bzdurami”.",
-        "Korespondent krykieta Opublikowano 7 minut temu Kapitan Australii Pat Cummins odniósł się do twierdzeń byłego kolegi z drużyny Usmana Khawaji w związku ze skandalem z papierem ściernym, nazywając je „w 100% błędnymi” i „kompletnymi bzdurami”.",
+        "Korespondent krykieta Opublikowano 12 listopada 2026 r. Zaktualizowano 51 minut temu Kapitan Australii Pat Cummins odniósł się do twierdzeń byłego kolegi z drużyny Usmana Khawaji w związku ze skandalem z papierem ściernym, nazywając je „w stu procentach błędnymi” i „całkowitymi bzdurami”.",
         "W 2018 roku Steve Smith, David Warner i Cameron Bancroft zostali ukarani za spisek mający na celu manipulowanie piłką za pomocą papieru ściernego podczas australijskiego testu przeciwko Republice Południowej Afryki w Cape Town.",
         "Khawaja opublikował w tym tygodniu swoją autobiografię, a były pałkarz powiedział, że cała australijska drużyna, w tym Cummins, wiedziała o programie dotyczącym papieru ściernego i powinna była wziąć na siebie odpowiedzialność.",
-        "Jednak w niezwykłym przemówieniu do mediów w Sydney Cummins odpowiedział: „Kiedy mówi, że wszyscy wiedzieliśmy, jeśli ma przez to na myśli, że wiedzieliśmy, że papier ścierny wychodzi na boisko, to w 100% się myli."
+        "Jednak w niezwykłym, 68-minutowym przemówieniu do mediów w Sydney Cummins odpowiedział: „Kiedy mówi, że wszyscy wiedzieliśmy, jeśli ma przez to na myśli, że wiedzieliśmy, że papier ścierny wychodzi na boisko, jest w 100% w błędzie."
       ]
     }
   ],
@@ -2203,35 +2204,35 @@
       ]
     },
     {
-      "id": "rynki-2-e70f38",
-      "entity_tag": "Fed (USA)",
-      "sector": "Banki Centralne",
+      "id": "rynki-2-9c0101",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA).",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [],
-      "title": "Fed twierdzi, że w ramach zmiany polityki na posiedzeniu w październiku 2027 r. nie będzie głosowania w sprawie stóp procentowych",
-      "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "title": "Jak afera Jensena Huanga zmienia perspektywy stosunków USA-Chiny",
+      "original_title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
       "is_foreign": true,
       "lang": "EN",
-      "time": "19:05",
+      "time": "02:56",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108476204-1793214824844-gettyimages-2301908968-WARSH_FOMC.jpeg?v=1793214844&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549746-1794465996644-gettyimages-2276121798-aw1a2254_gzrmeire.jpeg?v=1794466049&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
-        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
-        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”."
+        "Klimat polityczny przed przyszłotygodniowym szczytem Trump-Xi drastycznie różni się od ostatniego spotkania we wrześniu.",
+        "PEKIN — Długotrwała kontrola Kongresu USA nad romansem byłego dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym chińskim szpiegiem podnosi stawkę i tak już napiętych stosunków między dwiema największymi gospodarkami świata.",
+        "Huang z Nvidii złożył rezygnację w czwartek i zgodził się zeznawać przed Kongresem na jakiś czas przed Świętem Dziękczynienia 26 listopada."
       ],
       "extended_paragraphs": [
-        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
-        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
-        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”.",
-        "Warsh ogłosił to posunięcie na konferencji prasowej po październikowym posiedzeniu FOMC, choć nie określił, na które posiedzenie będzie to miało wpływ.",
-        "W 2027 r. odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
+        "Klimat polityczny przed przyszłotygodniowym szczytem Trump-Xi drastycznie różni się od ostatniego spotkania we wrześniu.",
+        "PEKIN — Długotrwała kontrola Kongresu USA nad romansem byłego dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym chińskim szpiegiem podnosi stawkę i tak już napiętych stosunków między dwiema największymi gospodarkami świata.",
+        "Huang z Nvidii złożył rezygnację w czwartek i zgodził się zeznawać przed Kongresem na jakiś czas przed Świętem Dziękczynienia 26 listopada. Przewodniczący ds. zagranicznych Izby Reprezentantów Brian Mast na Florydzie powiedział reporterom, że w przyszłości mogą odbyć się „przesłuchania publiczne w imieniu innych osób lub w innych sprawach”.",
+        "„Obawiam się, że ten incydent dramatycznie pogorszy atmosferę w Waszyngtonie przeciwko Chinom, a także kwestie kontroli eksportu, a także sposób postępowania administracji Trumpa z Chinami” – powiedział badacz polityki zagranicznej z Pekinu, który poprosił o anonimowość, ponieważ naukowcy ryzykują dyscypliną lub nawet usunięciem za rozmowy z mediami.",
+        "Badacz przestrzegł przed możliwym powrotem do sytuacji z lat 90. XX w., kiedy podejrzewano „chińsko-amerykańskiego” fizyka jądrowego o udostępnianie chińskiemu rządowi tajemnic nuklearnych, co doprowadziło do wszczęcia śledztwa federalnego. Ostatecznie sąd oddalił wszystkie z 59 zarzutów z wyjątkiem jednego."
       ]
     },
     {
@@ -2271,38 +2272,35 @@
       ]
     },
     {
-      "id": "rynki-4-560ef0",
-      "entity_tag": "Ropa Naftowa",
-      "sector": "Surowce Energetyczne",
+      "id": "rynki-4-e70f38",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 3,3%, 2,6%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,3%",
-        "2,6%"
-      ],
-      "title": "Ceny ropy rosną po tym, jak Trump twierdzi, że porozumienie z Iranem nie jest potrzebne: „Mamy ich cieśninę”",
-      "original_title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA).",
+      "key_metrics": [],
+      "title": "Fed twierdzi, że w ramach zmiany polityki na posiedzeniu w październiku 2027 r. nie będzie głosowania w sprawie stóp procentowych",
+      "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:29",
+      "time": "19:05",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108476204-1793214824844-gettyimages-2301908968-WARSH_FOMC.jpeg?v=1793214844&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę."
+        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
+        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
+        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”."
       ],
       "extended_paragraphs": [
-        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
-        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2,6%, osiągając cenę 88,74 dolarów za baryłkę.",
-        "„Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły. Mamy ich pieniądze, setki miliardów dolarów i mamy ich Cieśninę!” Trump oświadczył w poście Truth Social.",
-        "Jeffrey Currie, założyciel Real Macro i powszechnie obserwowany prognostyk na Wall Street, powiedział, że ceny ropy naftowej w najbliższej perspektywie pozostaną na niskim poziomie, ponieważ obecnie z Bliskiego Wschodu wypływają znaczne ilości ropy. Zauważył jednak, że niebotycznie wysokie stawki za ubezpieczenia i tankowce utrzymują wysokie ceny długoterminowych kontraktów terminowych na ropę naftową."
+        "W przyszłym roku odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu.",
+        "Rezerwa Federalna nie będzie głosować w sprawie potencjalnej zmiany stóp procentowych na posiedzeniu w październiku 2027 r., co stanowi część szerszej inicjatywy przewodniczącego Kevina Warsha, mającej na celu zmniejszenie wpływu rynkowego banku centralnego.",
+        "Zgodnie z czwartkowym ogłoszeniem Federalny Komitet Otwartego Rynku ustalający stopy procentowe przeznaczy sesję w dniach 26–27 października na „dyskusję na temat ogólnych kwestii związanych ze strategią polityki pieniężnej”.",
+        "Warsh ogłosił to posunięcie na konferencji prasowej po październikowym posiedzeniu FOMC, choć nie określił, na które posiedzenie będzie to miało wpływ.",
+        "W 2027 r. odbędzie się siedem posiedzeń związanych z głosowaniem, przy czym sesja październikowa będzie dodatkowym czasem na rozważenie polityki bez formalnego głosowania lub oświadczeń po posiedzeniu. Z nowego kalendarza wynika, że ​​ostatnie posiedzenie w tym roku odbędzie się teraz w listopadzie. Wcześniej wyznaczono go na grudzień."
       ]
     },
     {
@@ -2338,35 +2336,38 @@
       ]
     },
     {
-      "id": "rynki-6-961ce6",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-6-560ef0",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Chińskie Ministerstwo Bezpieczeństwa Państwowego znalazło się w centrum uwagi po aferze z dyrektorem generalnym Nvidii",
-      "original_title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Ropa Naftowa (Surowce Energetyczne) (kluczowe liczby: 3,3%, 2,6%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3,3%",
+        "2,6%"
+      ],
+      "title": "Ceny ropy rosną po tym, jak Trump twierdzi, że porozumienie z Iranem nie jest potrzebne: „Mamy ich cieśninę”",
+      "original_title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "is_foreign": true,
       "lang": "EN",
-      "time": "07:28",
+      "time": "00:01",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108549614-1794449071604-gettyimages-2265698644-vcg111626812002.jpeg?v=1794449767&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Chińskie Ministerstwo Bezpieczeństwa Państwowego przyciąga uwagę po doniesieniach o romansie dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym szpiegiem MSS.",
-        "Od rekrutacji amerykańskich studentów po zarzuty dotyczące afery Nvidii Jensena Huanga – raporty wskazują na jedną chińską agencję wywiadowczą: Ministerstwo Bezpieczeństwa Państwowego.",
-        "Ta nieprzejrzysta jednostka rządowa – nieposiadająca oficjalnej strony internetowej innej niż strona wspierająca sygnalistów – zyskała na znaczeniu wraz z rosnącym naciskiem Pekinu na bezpieczeństwo narodowe od 2023 r. Ministerstwo nadzoruje szereg biur na szczeblu prowincji i kraju, w tym zajmujących się gromadzeniem danych wywiadowczych."
+        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę."
       ],
       "extended_paragraphs": [
-        "Chińskie Ministerstwo Bezpieczeństwa Państwowego przyciąga uwagę po doniesieniach o romansie dyrektora generalnego Nvidii, Jensena Huanga, z rzekomym szpiegiem MSS.",
-        "Od rekrutacji amerykańskich studentów po zarzuty dotyczące afery Nvidii Jensena Huanga – raporty wskazują na jedną chińską agencję wywiadowczą: Ministerstwo Bezpieczeństwa Państwowego.",
-        "Ta nieprzejrzysta jednostka rządowa – nieposiadająca oficjalnej strony internetowej innej niż strona wspierająca sygnalistów – zyskała na znaczeniu wraz z rosnącym naciskiem Pekinu na bezpieczeństwo narodowe od 2023 r. Ministerstwo nadzoruje szereg biur na szczeblu prowincji i kraju, w tym zajmujących się gromadzeniem danych wywiadowczych.",
-        "Choć MSS nie jest jedyną jednostką wywiadowczą Pekinu, jego nazwisko często pojawia się w głośnych sprawach. W następstwie prób włamań do podmiotów w USA Departament Skarbu USA nałożył w ostatnich latach sankcje na chińskie podmioty i osoby, które według niego są powiązane z MSS.",
-        "W tym miesiącu dzienniki „Financial Times” i „The New York Times” doniosły, powołując się na źródła, że ​​według wywiadu rządu USA MSS zwerbowało bizneswoman Alice Huang w celu zebrania informacji na temat dyrektora generalnego Nvidii, Jensena Huanga. Jedno i drugie nie jest ze sobą powiązane. Jensen Huang przyznał się w weekend do romansu, ale nie jest jasne, czy udostępniono jakiekolwiek wrażliwe informacje."
+        "Ceny ropy naftowej były w czwartek mieszane po tym, jak ostatnie komentarze prezydenta Donalda Trumpa wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ceny ropy w USA wzrosły w czwartek po komentarzach prezydenta Donalda Trumpa, które wzbudziły obawy, że nie widać końca wojny amerykańsko-irańskiej.",
+        "Ropa Brent wzrosła o 3,3% i osiągnęła poziom 95,82 dolarów za baryłkę. Kontrakty terminowe West Texas Intermediate wzrosły o 2,6%, osiągając cenę 88,74 dolarów za baryłkę.",
+        "„Nie potrzebujemy porozumienia z Iranem. Te dni już dawno minęły. Mamy ich pieniądze, setki miliardów dolarów i mamy ich Cieśninę!” Trump oświadczył w poście Truth Social.",
+        "Jeffrey Currie, założyciel Real Macro i powszechnie obserwowany prognostyk na Wall Street, powiedział, że ceny ropy naftowej w najbliższej perspektywie pozostaną na niskim poziomie, ponieważ obecnie z Bliskiego Wschodu wypływają znaczne ilości ropy. Zauważył jednak, że niebotycznie wysokie stawki za ubezpieczenia i tankowce utrzymują wysokie ceny długoterminowych kontraktów terminowych na ropę naftową."
       ]
     },
     {
@@ -2388,7 +2389,7 @@
       "time": "23:26",
       "source": "Bankier Giełda",
       "source_url": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/9/3/8d6d4df8d08771-thumb-1000.jpg",
+      "image_url": "https://galeria.bankier.pl/p/0/f/c054fce945dcfc-thumb-1000.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [

@@ -3,10 +3,10 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.317",
-    "last_updated": "2026-11-13 04:11",
+    "last_updated": "2026-11-13 12:26",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
-    "foreign_translated_count": 19,
+    "foreign_translated_count": 18,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -22,75 +22,75 @@
       "symbol": "USD/PLN",
       "name": "Dolar amerykański",
       "group": "fx",
-      "mid": 3.9676,
-      "price": "3.9676",
-      "prev_price": "3.9099",
-      "change": "+1.48%",
+      "mid": 3.9852,
+      "price": "3.9852",
+      "prev_price": "3.9676",
+      "change": "+0.44%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "EUR",
       "symbol": "EUR/PLN",
       "name": "Euro",
       "group": "fx",
-      "mid": 4.4018,
-      "price": "4.4018",
-      "prev_price": "4.3895",
-      "change": "+0.28%",
+      "mid": 4.407,
+      "price": "4.4070",
+      "prev_price": "4.4018",
+      "change": "+0.12%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "CHF",
       "symbol": "CHF/PLN",
       "name": "Frank szwajcarski",
       "group": "fx",
-      "mid": 4.7703,
-      "price": "4.7703",
-      "prev_price": "4.7637",
-      "change": "+0.14%",
-      "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "mid": 4.7618,
+      "price": "4.7618",
+      "prev_price": "4.7703",
+      "change": "-0.18%",
+      "is_positive": false,
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "GBP",
       "symbol": "GBP/PLN",
       "name": "Funt szterling",
       "group": "fx",
-      "mid": 5.2659,
-      "price": "5.2659",
-      "prev_price": "5.2490",
-      "change": "+0.32%",
+      "mid": 5.2737,
+      "price": "5.2737",
+      "prev_price": "5.2659",
+      "change": "+0.15%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "symbol": "ZŁOTO (g)",
       "name": "Złoto NBP (PLN/g)",
       "group": "commodities",
-      "price": "513.76 zł",
-      "change": "-0.49%",
+      "price": "503.01 zł",
+      "change": "-2.09%",
       "is_positive": false
     },
     {
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$68,790",
-      "change": "-6.69%",
+      "price": "$69,231",
+      "change": "-4.95%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,935",
-      "change": "-5.69%",
+      "price": "$1,958",
+      "change": "-3.13%",
       "is_positive": false
     },
     {
@@ -228,156 +228,156 @@
       "symbol": "USD/PLN",
       "name": "Dolar amerykański",
       "group": "fx",
-      "mid": 3.9676,
-      "price": "3.9676",
-      "prev_price": "3.9099",
-      "change": "+1.48%",
+      "mid": 3.9852,
+      "price": "3.9852",
+      "prev_price": "3.9676",
+      "change": "+0.44%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "EUR",
       "symbol": "EUR/PLN",
       "name": "Euro",
       "group": "fx",
-      "mid": 4.4018,
-      "price": "4.4018",
-      "prev_price": "4.3895",
-      "change": "+0.28%",
+      "mid": 4.407,
+      "price": "4.4070",
+      "prev_price": "4.4018",
+      "change": "+0.12%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "CHF",
       "symbol": "CHF/PLN",
       "name": "Frank szwajcarski",
       "group": "fx",
-      "mid": 4.7703,
-      "price": "4.7703",
-      "prev_price": "4.7637",
-      "change": "+0.14%",
-      "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "mid": 4.7618,
+      "price": "4.7618",
+      "prev_price": "4.7703",
+      "change": "-0.18%",
+      "is_positive": false,
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "GBP",
       "symbol": "GBP/PLN",
       "name": "Funt szterling",
       "group": "fx",
-      "mid": 5.2659,
-      "price": "5.2659",
-      "prev_price": "5.2490",
-      "change": "+0.32%",
+      "mid": 5.2737,
+      "price": "5.2737",
+      "prev_price": "5.2659",
+      "change": "+0.15%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "JPY",
       "symbol": "JPY/PLN",
       "name": "Jen japoński (100)",
       "group": "fx",
-      "mid": 0.024843,
-      "price": "2.4843",
-      "prev_price": "2.4729",
-      "change": "+0.46%",
+      "mid": 0.024927,
+      "price": "2.4927",
+      "prev_price": "2.4843",
+      "change": "+0.34%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "CZK",
       "symbol": "CZK/PLN",
       "name": "Korona czeska",
       "group": "fx",
-      "mid": 0.1807,
-      "price": "0.1807",
-      "prev_price": "0.1804",
-      "change": "+0.17%",
-      "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "mid": 0.1806,
+      "price": "0.1806",
+      "prev_price": "0.1807",
+      "change": "-0.06%",
+      "is_positive": false,
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "NOK",
       "symbol": "NOK/PLN",
       "name": "Korona norweska",
       "group": "fx",
-      "mid": 0.4154,
-      "price": "0.4154",
-      "prev_price": "0.4135",
-      "change": "+0.46%",
+      "mid": 0.4174,
+      "price": "0.4174",
+      "prev_price": "0.4154",
+      "change": "+0.48%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "SEK",
       "symbol": "SEK/PLN",
       "name": "Korona szwedzka",
       "group": "fx",
-      "mid": 0.3982,
-      "price": "0.3982",
-      "prev_price": "0.3994",
-      "change": "-0.30%",
+      "mid": 0.3973,
+      "price": "0.3973",
+      "prev_price": "0.3982",
+      "change": "-0.23%",
       "is_positive": false,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "CAD",
       "symbol": "CAD/PLN",
       "name": "Dolar kanadyjski",
       "group": "fx",
-      "mid": 2.7838,
-      "price": "2.7838",
-      "prev_price": "2.7657",
-      "change": "+0.65%",
+      "mid": 2.7948,
+      "price": "2.7948",
+      "prev_price": "2.7838",
+      "change": "+0.40%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "AUD",
       "symbol": "AUD/PLN",
       "name": "Dolar australijski",
       "group": "fx",
-      "mid": 2.7085,
-      "price": "2.7085",
-      "prev_price": "2.7028",
-      "change": "+0.21%",
-      "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "mid": 2.7083,
+      "price": "2.7083",
+      "prev_price": "2.7085",
+      "change": "-0.01%",
+      "is_positive": false,
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "DKK",
       "symbol": "DKK/PLN",
       "name": "Korona duńska",
       "group": "fx",
-      "mid": 0.5888,
-      "price": "0.5888",
-      "prev_price": "0.5872",
-      "change": "+0.27%",
+      "mid": 0.5895,
+      "price": "0.5895",
+      "prev_price": "0.5888",
+      "change": "+0.12%",
       "is_positive": true,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     },
     {
       "code": "HUF",
       "symbol": "HUF/PLN",
       "name": "Forint węgierski (100)",
       "group": "fx",
-      "mid": 0.012091,
-      "price": "1.2091",
-      "prev_price": "1.2109",
-      "change": "-0.15%",
+      "mid": 0.012053,
+      "price": "1.2053",
+      "prev_price": "1.2091",
+      "change": "-0.31%",
       "is_positive": false,
-      "table_no": "220/A/NBP/2026",
-      "date": "2026-11-12"
+      "table_no": "221/A/NBP/2026",
+      "date": "2026-11-13"
     }
   ],
   "analizy": [
@@ -910,39 +910,38 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-cd367c",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
+      "id": "rynki-1-c63868",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 550 mld dolarów, 30%) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [
-        "3,38 mld zł",
-        "2,87 mld zł",
-        "1,69%"
+        "550 mld dolarów",
+        "30%"
       ],
-      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
+      "title": "Upadek szefa Nvidii. Romanse i Chiny zatopiły króla AI, a rynek pyta: co dalej?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:30",
+      "time": "11:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-po-dymisji-Huanga-Co-dalej-z-kursem-i-rynkiem-AI-9228235.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/d/c/be73f565329c72-948-568-827-0-2323-1394.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
-        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
-        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
+        "Nvidia traci swojego architekta.",
+        "W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie.",
+        "Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki."
       ],
       "extended_paragraphs": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
-        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
-        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
-        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
-        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
+        "Nvidia traci swojego architekta. W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie. Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki. Kryzys w Nvidii może nieść poważne konsekwencje dla całej branży AI oraz administracji Donalda Trumpa.",
+        "fot. Lisi Niesner / Reuters / / FORUM W czwartek 12 listopada 2026 r. zarząd Nvidii ogłosił, że Jensen Huang ze skutkiem natychmiastowym zrezygnował ze stanowiska prezesa oraz opuścił radę dyrektorów. Obowiązki szefa giganta tymczasowo przejęła dyrektor finansowa Colette Kress. Decyzja zapadła po nadzwyczajnym posiedzeniu rady.",
+        "Afera zaczęła się od ujawnienia romansu Huanga z Alice Huang - menedżerką singapurskiej firmy Megaspeed - podejrzewaną przez amerykański wywiad o szpiegostwo na rzecz Pekinu. Gdy wydawało się, że prezes przetrwa wizerunkowy kryzys, na jaw wyszły jego kolejne relacje intymne, tym razem z podwładnymi wewnątrz spółki i to one ostatecznie go pogrążyły.",
+        "Odejście Jensena Huanga ze stanowisk prezesa, prezydenta oraz z rady dyrektorów Nvidii, którą założył 33 lata temu, kończy w firmie epokę władzy absolutnej jednego człowieka. Pod jego rządami spółka urosła do monstrualnej wyceny 5,8 bln dolarów w październiku 2026 roku.",
+        "5 ostatnich sesji wystarczyło jednak, żeby kapitalizacja stopniała o 550 mld dolarów, notowania znalazły się 30% poniżej szczytu, a analitycy z Wall Street obniżyli swoje rekomendacje."
       ]
     },
     {
@@ -978,39 +977,39 @@
       ]
     },
     {
-      "id": "rynki-3-4a4a64",
-      "entity_tag": "Fed (USA)",
-      "sector": "Banki Centralne",
+      "id": "rynki-3-cd367c",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA) (kluczowe liczby: 145 mld dolarów, 887 mld, 30 proc.).",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "145 mld dolarów",
-        "887 mld",
-        "30 proc."
+        "3,38 mld zł",
+        "2,87 mld zł",
+        "1,69%"
       ],
-      "title": "Jensen Huang na wylocie, a na jego miejsce córka, syn lub nawet zdradzona żona. Kto mógłby przejąć władzę w Nvidii?",
+      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "09:36",
+      "time": "17:30",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/1/18821403f3d186-948-568-5-101-2382-1429.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin.",
-        "Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa.",
-        "Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk."
+        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
+        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
+        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
       ],
       "extended_paragraphs": [
-        "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin. Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa. Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk.",
-        "fot. Lisi Niesner / / Reuters / Forum Jensen Huang stoi na czele Nvidii nieprzerwanie od momentu jej założenia w 1993 roku, budując absolutnego hegemona rynku układów scalonych dla sztucznej inteligencji. Teraz jednak jego pozycja zawisła na włosku. Prezes przyznał się do romansu pozamałżeńskiego , choć nie sprecyzował jakiej kobiety dotyczyło wyznanie.",
-        "Według najnowszych doniesień „The New York Times” , jedną z partnerek była Kimberly Powell , menedżerka wyższego szczebla podlegająca bezpośrednio prezesowi . Choć to w korporacyjnej Ameryce poważna sprawa, znacznie poważniejszy ciężar gatunkowy dla akcjonariuszy ma jednak relacja z Alice Huang , która oficjalnie pełniła funkcję dyrektor generalnej Megaspeed – singapurskiej firmy z branży centrów danych, która na LinkedInie wciąż tytułuje się „głównym partnerem biznesowym Nvidii”.",
-        "To właśnie ją amerykański wywiad oskarża o współpracę z chińskim Ministerstwem Bezpieczeństwa Państwowego . Nawet jeśli rada dyrektorów, której członkowie zawdzięczają Huangowi ogromne majątki, zdecyduje się odsunąć go od sterów, niewykluczone jest utworzenie dla niego stanowiska przewodniczącego rady – funkcji, której obecnie w strukturze Nvidii nie ma.",
-        "Huang może liczyć na ofertę ze strony Elona Muska. Po doniesieniach o spotkaniu zarządu Nvidii w sprawie Huanga popularny na platformie X profil agregujący infomacje ze świata finansów i biznesu @zerohedge dodał wpis o treści: „Elon, proszę, zatrudnij Jensena”. Na co najbogatszy człowiek świata odpisał: „To byłby zaszczyt” ."
+        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
+        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
+        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
+        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
+        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
       ]
     },
     {
@@ -1046,35 +1045,39 @@
       ]
     },
     {
-      "id": "rynki-5-eaaace",
-      "entity_tag": "Złoto (XAU/USD)",
-      "sector": "Surowce Szlachetne",
+      "id": "rynki-5-4a4a64",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Złoto (XAU/USD) (Surowce Szlachetne) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Singapur rozpycha się na złotym podwórku. Poluje na sztaby, którym nie po drodze z Londynem i Nowym Jorkiem",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA) (kluczowe liczby: 145 mld dolarów, 887 mld, 30 proc.).",
+      "key_metrics": [
+        "145 mld dolarów",
+        "887 mld",
+        "30 proc."
+      ],
+      "title": "Jensen Huang na wylocie, a na jego miejsce córka, syn lub nawet zdradzona żona. Kto mógłby przejąć władzę w Nvidii?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "06:00",
+      "time": "09:36",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Singapur-rozpycha-sie-na-zlotym-podworku-Poluje-na-sztaby-ktorym-nie-po-drodze-z-Londynem-i-Nowym-Jorkiem-9226738.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/d/35a7ee82910681-948-568-17-8-3482-2089.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/7/1/18821403f3d186-948-568-5-101-2382-1429.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Azjatyckie Miasto-Lew ma coraz większe złote zakusy.",
-        "Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu.",
-        "To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA."
+        "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin.",
+        "Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa.",
+        "Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk."
       ],
       "extended_paragraphs": [
-        "Azjatyckie Miasto-Lew ma coraz większe złote zakusy. Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu. To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA.",
-        "fot. Edgar Su / Reuters / / FORUM Banki centralne na całym świecie od kilku lat biją rekordy zakupów złota, szukając tarczy przed inflacją, eksplodującym zadłużeniem mocarstw oraz ryzykiem sankcyjnym. Monopol Zachodu na fizyczne zabezpieczanie tych rezerw zaczyna jednak pękać. Monetary Authority of Singapore (MAS), czyli bank centralny i regulator finansowy Singapuru, ogłosił oficjalne otwarcie narodowego skarbca walutowego dla zagranicznych instytucji oficjalnych.",
-        "Projekt zakłada udostępnienie przestrzeni mogącej pomieścić do 500 ton złota, z możliwością dalszej rozbudowy wraz ze wzrostem popytu. Przedstawiciele MAS podkreślają, że zainteresowanie ze strony zagranicznych banków centralnych pojawiło się jeszcze przed oficjalnym startem programu, choć tożsamość tych instytucji pozostaje objęta tajemnicą.",
-        "– Singapur nie stawia sobie za cel zastąpienia innych centrów handlu i przechowywania kruszcu. Wraz z rosnącą rolą złota jako aktywa rezerwowego, banki centralne szukają jednak alternatyw i kolejnych opcji, aby zwiększyć odporność swoich rezerw - zaznaczył Gan Kim Yong, wicepremier Singapuru i przewodniczący MAS. –",
-        "Inicjatywa depozytowa jest częścią szerszego planu Singapuru. Miasto-państwo buduje bowiem kompleksowy ekosystem, w którym obok nowego „złotego portu” stawia na trzy kluczowe filary: potężną infrastrukturę rozliczeniową, nowe instrumenty giełdowe oraz zachęty podatkowe. We współpracy z gigantami pokroju JPMorgana czy Deutsche Banku uruchamia nową platformę rozliczeń pozagiełdowych (OTC), wprowadza kontrakty futures na fizyczne sztaby oraz rozszerza ulgi podatkowe dla kapitału instytucjonalnego."
+        "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin. Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa. Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk.",
+        "fot. Lisi Niesner / / Reuters / Forum Jensen Huang stoi na czele Nvidii nieprzerwanie od momentu jej założenia w 1993 roku, budując absolutnego hegemona rynku układów scalonych dla sztucznej inteligencji. Teraz jednak jego pozycja zawisła na włosku. Prezes przyznał się do romansu pozamałżeńskiego , choć nie sprecyzował jakiej kobiety dotyczyło wyznanie.",
+        "Według najnowszych doniesień „The New York Times” , jedną z partnerek była Kimberly Powell , menedżerka wyższego szczebla podlegająca bezpośrednio prezesowi . Choć to w korporacyjnej Ameryce poważna sprawa, znacznie poważniejszy ciężar gatunkowy dla akcjonariuszy ma jednak relacja z Alice Huang , która oficjalnie pełniła funkcję dyrektor generalnej Megaspeed – singapurskiej firmy z branży centrów danych, która na LinkedInie wciąż tytułuje się „głównym partnerem biznesowym Nvidii”.",
+        "To właśnie ją amerykański wywiad oskarża o współpracę z chińskim Ministerstwem Bezpieczeństwa Państwowego . Nawet jeśli rada dyrektorów, której członkowie zawdzięczają Huangowi ogromne majątki, zdecyduje się odsunąć go od sterów, niewykluczone jest utworzenie dla niego stanowiska przewodniczącego rady – funkcji, której obecnie w strukturze Nvidii nie ma.",
+        "Huang może liczyć na ofertę ze strony Elona Muska. Po doniesieniach o spotkaniu zarządu Nvidii w sprawie Huanga popularny na platformie X profil agregujący infomacje ze świata finansów i biznesu @zerohedge dodał wpis o treści: „Elon, proszę, zatrudnij Jensena”. Na co najbogatszy człowiek świata odpisał: „To byłby zaszczyt” ."
       ]
     },
     {
@@ -1113,37 +1116,35 @@
       ]
     },
     {
-      "id": "rynki-7-349aa3",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 13 proc., 7,94 proc.) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [
-        "13 proc.",
-        "7,94 proc."
-      ],
-      "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
+      "id": "rynki-7-eaaace",
+      "entity_tag": "Złoto (XAU/USD)",
+      "sector": "Surowce Szlachetne",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Złoto (XAU/USD) (Surowce Szlachetne) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Singapur rozpycha się na złotym podwórku. Poluje na sztaby, którym nie po drodze z Londynem i Nowym Jorkiem",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "23:26",
+      "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/0/f/c054fce945dcfc-thumb-1000.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Singapur-rozpycha-sie-na-zlotym-podworku-Poluje-na-sztaby-ktorym-nie-po-drodze-z-Londynem-i-Nowym-Jorkiem-9226738.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/7/d/35a7ee82910681-948-568-17-8-3482-2089.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
-        "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.",
-        "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji."
+        "Azjatyckie Miasto-Lew ma coraz większe złote zakusy.",
+        "Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu.",
+        "To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA."
       ],
       "extended_paragraphs": [
-        "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
-        "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.",
-        "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji.",
-        "Akcje nabyte przez spółkę w ramach programu nabywania akcji własnych mają być przeznaczone do umorzenia. (PAP Biznes)"
+        "Azjatyckie Miasto-Lew ma coraz większe złote zakusy. Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu. To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA.",
+        "fot. Edgar Su / Reuters / / FORUM Banki centralne na całym świecie od kilku lat biją rekordy zakupów złota, szukając tarczy przed inflacją, eksplodującym zadłużeniem mocarstw oraz ryzykiem sankcyjnym. Monopol Zachodu na fizyczne zabezpieczanie tych rezerw zaczyna jednak pękać. Monetary Authority of Singapore (MAS), czyli bank centralny i regulator finansowy Singapuru, ogłosił oficjalne otwarcie narodowego skarbca walutowego dla zagranicznych instytucji oficjalnych.",
+        "Projekt zakłada udostępnienie przestrzeni mogącej pomieścić do 500 ton złota, z możliwością dalszej rozbudowy wraz ze wzrostem popytu. Przedstawiciele MAS podkreślają, że zainteresowanie ze strony zagranicznych banków centralnych pojawiło się jeszcze przed oficjalnym startem programu, choć tożsamość tych instytucji pozostaje objęta tajemnicą.",
+        "– Singapur nie stawia sobie za cel zastąpienia innych centrów handlu i przechowywania kruszcu. Wraz z rosnącą rolą złota jako aktywa rezerwowego, banki centralne szukają jednak alternatyw i kolejnych opcji, aby zwiększyć odporność swoich rezerw - zaznaczył Gan Kim Yong, wicepremier Singapuru i przewodniczący MAS. –",
+        "Inicjatywa depozytowa jest częścią szerszego planu Singapuru. Miasto-państwo buduje bowiem kompleksowy ekosystem, w którym obok nowego „złotego portu” stawia na trzy kluczowe filary: potężną infrastrukturę rozliczeniową, nowe instrumenty giełdowe oraz zachęty podatkowe. We współpracy z gigantami pokroju JPMorgana czy Deutsche Banku uruchamia nową platformę rozliczeń pozagiełdowych (OTC), wprowadza kontrakty futures na fizyczne sztaby oraz rozszerza ulgi podatkowe dla kapitału instytucjonalnego."
       ]
     },
     {
@@ -1181,7 +1182,7 @@
   ],
   "makro": [
     {
-      "id": "makro-2-8e80bc",
+      "id": "makro-4-8e80bc",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
@@ -1205,48 +1206,18 @@
       "summary_points": [
         "W czwartek Huang nagle zrezygnował ze stanowiska szefa jednej z najcenniejszych firm na świecie po ujawnieniu rzekomych romansów pozamałżeńskich.",
         "Były dyrektor generalny Nvidii, Jensen Huang, został wezwany w przyszłym miesiącu do złożenia zeznań przed komisją Senatu w sprawie jego rzekomego romansu z kobietą podejrzaną o bycie chińskim szpiegiem.",
-        "Huang nagle zrezygnował w czwartek ze stanowiska szefa jednej z najcenniejszych firm na świecie po ujawnieniu rzekomych romansów pozamałżeńskich, co było oszałamiającym wypadkiem, który wywołał falę wstrząsu w Dolinie Krzemowej."
+        "Sekretarz handlu Howard Lutnick, który jest objęty obserwacją w związku z eksportem wrażliwych chipów Nvidia AI do Chin, również został wezwany do stawienia się przed Senacką Komisją Bankowości w grudniu."
       ],
       "extended_paragraphs": [
         "W czwartek Huang nagle zrezygnował ze stanowiska szefa jednej z najcenniejszych firm na świecie po ujawnieniu rzekomych romansów pozamałżeńskich.",
         "Były dyrektor generalny Nvidii, Jensen Huang, został wezwany w przyszłym miesiącu do złożenia zeznań przed komisją Senatu w sprawie jego rzekomego romansu z kobietą podejrzaną o bycie chińskim szpiegiem.",
-        "Huang nagle zrezygnował w czwartek ze stanowiska szefa jednej z najcenniejszych firm na świecie po ujawnieniu rzekomych romansów pozamałżeńskich, co było oszałamiającym wypadkiem, który wywołał falę wstrząsu w Dolinie Krzemowej.",
         "Sekretarz handlu Howard Lutnick, który jest objęty obserwacją w związku z eksportem wrażliwych chipów Nvidia AI do Chin, również został wezwany do stawienia się przed Senacką Komisją Bankowości w grudniu.",
-        "Nvidia straciła 550 miliardów dolarów (415 miliardów funtów) wartości giełdowej w ciągu zaledwie pięciu dni, gdy skandal zdominował pierwsze strony gazet."
+        "Nvidia straciła 550 miliardów dolarów (415 miliardów funtów) wartości giełdowej w ciągu zaledwie pięciu dni, gdy skandal zdominował pierwsze strony gazet.",
+        "Senator Tim Scott wysłał w czwartek listy do Huanga i Lutnicka, prosząc o złożenie zeznań przed Senacką Komisją Bankowości."
       ]
     },
     {
-      "id": "makro-1-e76888",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Członek zarządu spółki nie zasłoni się niewiedzą",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "05:10",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://pro.rp.pl/pro/art45479331-czlonek-zarzadu-spolki-nie-zasloni-sie-niewiedza",
-      "image_url": "https://i.gremicdn.pl/image/free/e1239f3b7283c515e7b6cef383fa2abc/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Zarządzający nie odpowiada za złą kondycję finansową spółki uniemożliwiającą spłatę długów, lecz za własne zaniechanie skierowane na pokrzywdzenie wierzycieli.",
-        "Brak wpływu na działalność spółki, brak dostępu do dokumentów, niewiedza o jej kondycji ekonomicznej oraz brak inicjatywy po stronie organu rentowego, w rozumieniu art. 116 § 1 Ordynacji podatkowej, nie wyłączają odpowiedzialności członków zarządu – tak orzekł Sąd Najwyższy w postanowieniu z 8 września 2026 r. w sprawie prowadzonej pod sygnaturą akt I USK 722/26.",
-        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych."
-      ],
-      "extended_paragraphs": [
-        "Zarządzający nie odpowiada za złą kondycję finansową spółki uniemożliwiającą spłatę długów, lecz za własne zaniechanie skierowane na pokrzywdzenie wierzycieli.",
-        "Brak wpływu na działalność spółki, brak dostępu do dokumentów, niewiedza o jej kondycji ekonomicznej oraz brak inicjatywy po stronie organu rentowego, w rozumieniu art. 116 § 1 Ordynacji podatkowej, nie wyłączają odpowiedzialności członków zarządu – tak orzekł Sąd Najwyższy w postanowieniu z 8 września 2026 r. w sprawie prowadzonej pod sygnaturą akt I USK 722/26.",
-        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych. Poznaj fakty, które kształtują biznes, prawo oraz społeczeństwo."
-      ]
-    },
-    {
-      "id": "makro-4-246f6f",
+      "id": "makro-6-246f6f",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "MEDIUM",
@@ -1278,76 +1249,171 @@
       ]
     },
     {
-      "id": "makro-7-7480a1",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-7-fa78ba",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
       "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 14,7 tys.) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "14,7 tys."
-      ],
-      "title": "Mikropodróże: Nowy trend zdobywa popularność. Urlop krótki, ale intensywny",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Chmura & AI” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Microsoft nie może uporać się z awarią. Problemy w 74 krajach, Polska reaguje",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "05:00",
+      "time": "13:07",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://sukces.rp.pl/w-podrozy/art45417641-mikropodroze-nowy-trend-zdobywa-popularnosc-urlop-krotki-ale-intensywny",
-      "image_url": "https://i.gremicdn.pl/image/free/6cf30b5ae9acea5fe2fb0bada31302fc/",
+      "source_url": "https://cyfrowa.rp.pl/it/art45484921-microsoft-nie-moze-uporac-sie-z-awaria-problemy-w-74-krajach-polska-reaguje",
+      "image_url": "https://i.gremicdn.pl/image/free/854d8d9c2bb0d719af04f9e09055e056/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Eksperci prezentują pierwsze Z sieci Hilton wynika, że 2027 r. minie nam pod znakiem częstych, ale za to krótkich i intensywnych wakacji.",
-        "Coraz więcej urlopowiczów preferuje właśnie taką formę wypoczynku.",
-        "Wyjazd na jeden długi urlop w roku traci na atrakcyjności."
+        "Globalna awaria Microsoftu trwa już kilkanaście godzin i dotyka użytkowników w co najmniej 74 krajach.",
+        "– To wyraźna ilustracja problemów z cyfrowym uzależnieniem od globalnych korporacji – napisał na platformie X minister cyfryzacji Krzysztof Gawkowski.",
+        "Microsoft poinformował, że użytkownicy mogą nie być w stanie połączyć się z wieloma usługami Microsoft 365."
       ],
       "extended_paragraphs": [
-        "Eksperci prezentują pierwsze Z sieci Hilton wynika, że 2027 r. minie nam pod znakiem częstych, ale za to krótkich i intensywnych wakacji. Coraz więcej urlopowiczów preferuje właśnie taką formę wypoczynku.",
-        "Wyjazd na jeden długi urlop w roku traci na atrakcyjności. Chcemy więcej doświadczać, dlatego pragniemy częstszych wyjazdów.",
-        "Czas staje się coraz cenniejszym, bo coraz bardziej ograniczonym zasobem. Fakt ten wpływa na sposób, w jaki ludzie planują swoje urlopy. Dane pokazują, że w obliczu coraz bardziej napiętego grafiku wielu z nich woli zafundować sobie więcej krótkich wyjazdów w roku, które łatwo zaplanować i zorganizować. Nowy trend wśród podróżników dotyczy różnych grup urlopowiczów: zapracowanych milenialsów, rodziców, a także podróżujących solo.",
-        "Co czwarta osoba, która planuje wakacje na przyszły rok, zamierza dodać do swojego urlopowego harmonogramu więcej krótkich, kilkudniowych wypadów. Taki m.in. wniosek płynie z najnowszego raportu sieci Hilton pt. „The Great Rebalance: How Travelers Are Expecting to Reset and Recalibrate in 2027”.",
-        "Publikacja powstała na podstawie ankiet, które na zlecenie Hiltona wiosną tego roku przeprowadziła firma badawcza Morning Consult. Badanie zrealizowano w gronie ponad 14,7 tys. dorosłych mieszkańców 14 krajów z całego świata, w tym Niemiec, Wielkiej Brytanii, Turcji, USA, Japonii, Australii i Chin."
+        "Globalna awaria Microsoftu trwa już kilkanaście godzin i dotyka użytkowników w co najmniej 74 krajach. – To wyraźna ilustracja problemów z cyfrowym uzależnieniem od globalnych korporacji – napisał na platformie X minister cyfryzacji Krzysztof Gawkowski.",
+        "Microsoft poinformował, że użytkownicy mogą nie być w stanie połączyć się z wieloma usługami Microsoft 365. Chodzi o działanie aplikacji takich jak Microsoft Teams, Outlook czy Microsoft Copilot 365",
+        "Polski rząd zabrał głos w sprawie trwającej od wczoraj dużej awarii usług firmy Microsoft. Minister cyfryzacji Krzysztof Gawkowski napisał na platformie X, że tego typu sytuacje ukazują nam, jak niebezpieczne jest opieranie całej infrastruktury cyfrowej na jednym podmiocie.",
+        "„To wyraźna ilustracja problemów z cyfrowym uzależnieniem od globalnych korporacji. Zróżnicowanie dostawców i oparcie się na rozwiązaniach otwartych pozwala na ograniczenie takich ryzyk. Dlatego w Ministerstwie Cyfryzacji pracujemy nad wdrażaniem rozwiązań typu open source w administracji publicznej. Wczoraj organizowaliśmy właśnie o tym Dzień Otwartych Technologii. W Strategii Cyfryzacji zarysowaliśmy jasny plan, a już niedługo rozpoczniemy konkurs na pilotażowe wdrożenia open source software w JST. W przyszłości będziemy centralnie udostępniać zweryfikowane rozwiązania dla całej administracji. To nie tylko ogromne oszczędności, ale też realne zwiększanie cyfrowej suwerenności!” – napisał Gawkowski.",
+        "Opinia Krzysztof Gawkowski: Cyfrowe przyspieszenie Polski W debacie publicznej cyfryzacja bywa często przedstawiana jako kwestia techniczna. Tymczasem jest ona projektem społecznym i gospodarczym, decyduje..."
       ]
     },
     {
-      "id": "makro-8-391e97",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 0,7%, 0,1%) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "id": "makro-1-1ed710",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) (kluczowe liczby: 30 tys. zł) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [
-        "0,7%",
-        "0,1%"
+        "30 tys. zł"
       ],
-      "title": "Faisal Islam: Dlaczego brytyjska gospodarka jest zaskakująco odporna",
-      "original_title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "title": "Lektor wygrał proces dotyczący użycia przy pomocy AI jego głosu w reklamie",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "13:24",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/dobra-osobiste/art45484781-lektor-wygral-proces-dotyczacy-uzycia-przy-pomocy-ai-jego-glosu-w-reklamie",
+      "image_url": "https://i.gremicdn.pl/image/free/7d9b80efd3439cbc6ecfda698eddf2d4/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Sąd Okręgowy w Warszawie uwzględnił w piątek powództwo lektora Jarosława Łukomskiego przeciwko JFC Polska.",
+        "Uznał, że doszło do naruszenia jego dóbr osobistych przez wykorzystanie w reklamie głosu wygenerowanego przy użyciu sztucznej inteligencji.",
+        "Sąd nakazał pozwanej spółce opublikowanie przeprosin, a także m.in. usunięcie materiałów wykorzystujących wygenerowany przez AI głos Łukomskiego oraz zasądził na jego rzecz 30 tys. zł zadośćuczynienia za krzywdę moralną oraz 17 280 zł odszkodowania."
+      ],
+      "extended_paragraphs": [
+        "Sąd Okręgowy w Warszawie uwzględnił w piątek powództwo lektora Jarosława Łukomskiego przeciwko JFC Polska. Uznał, że doszło do naruszenia jego dóbr osobistych przez wykorzystanie w reklamie głosu wygenerowanego przy użyciu sztucznej inteligencji.",
+        "Sąd nakazał pozwanej spółce opublikowanie przeprosin, a także m.in. usunięcie materiałów wykorzystujących wygenerowany przez AI głos Łukomskiego oraz zasądził na jego rzecz 30 tys. zł zadośćuczynienia za krzywdę moralną oraz 17 280 zł odszkodowania. Wyrok jest nieprawomocny.",
+        "Dobra osobiste Jarosław Łukomski: Ktoś sklonował mój głos i zrobił to po to, by zarobić pieniądze Miałem wrażenie, jakby ktoś wszedł do mojego domu i go splądrował. Strona pozwana używa argumentów w rodzaju: drzwi były otwarte. Tylko że fakt, iż...",
+        "– Sztuczna inteligencja może stwarzać zagrożenia i generować szkody fizyczne, psychiczne, ekonomiczne, materialne i niematerialne dla interesów jednostki, społeczeństwa. Głos jako narzędzie identyfikacji powoda został stworzony przez sztuczną inteligencję i wykorzystany do przypisania powodowi wypowiedzi, których w rzeczywistości nie wygłosił – powiedziała sędzia Sylwia Wit vel Wilk, przedstawiając ustne motywy rozstrzygnięcia.",
+        "Sędzia podkreśliła też, że problemem zasadniczym w sprawach dotyczących oceny klonowania głosu czy zjawiska deepfake'u „jest nie tyle samo naśladownictwo, ile generowanie treści, których naśladowany człowiek nigdy nie wypowiedział, a które mogą zostać odebrane jako autentyczne”."
+      ]
+    },
+    {
+      "id": "makro-2-138549",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Chmura & AI” (Microsoft (NASDAQ: MSFT)) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Co wiemy o globalnej awarii Microsoftu",
+      "original_title": "What we know about the global Microsoft outage",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:27",
+      "time": "12:09",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d49/live/b6cded90-deb2-11f1-a701-fddedf244c16.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Wielka Brytania odnotowuje imponujący wzrost, ale czy będzie on trwały?",
-        "Źródło zdjęcia, Press Association Opublikowano 12 listopada 2026 r. W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
-        "„Na najwyższym biegu” i „uderzająco silny” to opisy 0,7% wzrostu oferowane przez ekonomistów, którzy śledzą każde najmniejsze szmer na temat brytyjskiej gospodarki."
+        "Microsoft stwierdził, że awaria nie była spowodowana incydentem związanym z bezpieczeństwem cybernetycznym, ale wysiłki mające na celu rozwiązanie tych problemów jak dotąd w dużej mierze zakończyły się niepowodzeniem.",
+        "Poważna globalna awaria firmy Microsoft spowodowała problemy lub w niektórych przypadkach wyłączyła całe usługi, w tym pocztę e-mail i produkty sztucznej inteligencji.",
+        "Szkoły, lekarze pierwszego kontaktu i firmy dotknięte globalną awarią firmy Microsoft, gdy firma stara się rozwiązać problem Co się stało?"
       ],
       "extended_paragraphs": [
-        "Wielka Brytania odnotowuje imponujący wzrost, ale czy będzie on trwały?",
-        "Źródło zdjęcia, Press Association Opublikowano 12 listopada 2026 r. W ciągu trzech miesięcy poprzedzających wrzesień gospodarka Wielkiej Brytanii rosła w najszybszym tempie od ponad dwóch lat.",
-        "„Na najwyższym biegu” i „uderzająco silny” to opisy 0,7% wzrostu oferowane przez ekonomistów, którzy śledzą każde najmniejsze szmer na temat brytyjskiej gospodarki.",
-        "Jest to ulepszenie „solidnego” i „odpornego”, a zarazem odejście od „najbardziej dotkniętego wojną w Iranie”.",
-        "Na tle największych na świecie zakłóceń w przepływach energii, rosnących rynkowych kosztów pożyczek i okrutnych lat od czasu pandemii – wzrost jest imponujący."
+        "Microsoft stwierdził, że awaria nie była spowodowana incydentem związanym z bezpieczeństwem cybernetycznym, ale wysiłki mające na celu rozwiązanie tych problemów jak dotąd w dużej mierze zakończyły się niepowodzeniem.",
+        "Poważna globalna awaria firmy Microsoft spowodowała problemy lub w niektórych przypadkach wyłączyła całe usługi, w tym pocztę e-mail i produkty sztucznej inteligencji.",
+        "Szkoły, lekarze pierwszego kontaktu i firmy dotknięte globalną awarią firmy Microsoft, gdy firma stara się rozwiązać problem",
+        "Co się stało? W usługach Microsoft 365, w tym Teams, Outlook i oprogramowaniu Microsoftu do sztucznej inteligencji Copilot, wystąpiły „problemy z łącznością”.",
+        "Klienci zgłaszają różne poziomy dostępu – wielu z nich nie mogło wysyłać ani odbierać e-maili, przeglądać niektórych plików ani szczegółów w swoich aplikacjach kalendarza."
       ]
     },
     {
-      "id": "makro-3-5b844e",
+      "id": "makro-3-53cb2d",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 70 tys.) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "70 tys."
+      ],
+      "title": "Zamieszki we Francji. Demonstrujący szykują „piąty akt”, władze mobilizują służby",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "13:22",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/spoleczenstwo/art45485071-zamieszki-we-francji-demonstrujacy-szykuja-piaty-akt-wladze-mobilizuja-sluzby",
+      "image_url": "https://i.gremicdn.pl/image/free/6acfd840eccc887b43d4c70664f06b88/zamieszki-we-francji-trwaja-z-przerwami-od-17-pazdziernika-francja-paryz-5-listopada-2026-roku",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "W wyniku zamieszek po dotychczasowych demonstracjach we Francji obrabowane zostały dziesiątki sklepów, a spłonął m.in. zabytkowy ratusz w Limoges.",
+        "Teraz protestujący zapowiadają „piąty akt” swoich działań, a francuskie władze mobilizują 70 tys. policjantów i żandarmów.",
+        "Zamieszki we Francji trwają z przerwami od 17 października."
+      ],
+      "extended_paragraphs": [
+        "W wyniku zamieszek po dotychczasowych demonstracjach we Francji obrabowane zostały dziesiątki sklepów, a spłonął m.in. zabytkowy ratusz w Limoges. Teraz protestujący zapowiadają „piąty akt” swoich działań, a francuskie władze mobilizują 70 tys. policjantów i żandarmów.",
+        "Zamieszki we Francji trwają z przerwami od 17 października. Francja, Paryż, 5 listopada 2026 roku.",
+        "We Francji odbędą się w sobotę, już piąty weekend z rzędu, demonstracje pod hasłami protestu przeciwko rosnącym kosztom życia. Szef MSW Laurent Nunez poinformował, że na ten dzień zmobilizowanych zostanie 70 tys. policjantów i żandarmów. W całym kraju ma się odbyć 50-60 demonstracji.",
+        "Do „piątego aktu”, czyli kolejnej odsłony protestów na tle socjalnym, wezwały organizacje młodzieży i grupa koordynująca te akcje, odwołująca się do ruchu „żółtych kamizelek” z lat 2018–19.",
+        "Przestępczość Zamieszki we Francji. Policja ujęła podejrzanego o podpalenie ratusza w Limoges W wyniku zamieszek w całej Francji, które miały miejsce w weekend, spłonął zabytkowy ratusz w miejscowości Limoges. Policja zatrzymała aktywistę sk..."
+      ]
+    },
+    {
+      "id": "makro-5-12f9c6",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Chmura & AI” (Microsoft (NASDAQ: MSFT)) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Awaria Microsoftu zakłóciła turystykę. Problemy z pocztą i potwierdzeniami rezerwacji",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "13:19",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://turystyka.rp.pl/zanim-wyjedziesz/art45485201-awaria-microsoftu-zaklocila-turystyke-problemy-z-poczta-i-potwierdzeniami-rezerwacji",
+      "image_url": "https://i.gremicdn.pl/image/free/854d8d9c2bb0d719af04f9e09055e056/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Globalna awaria Microsoftu utrudniła kontakt z liniami lotniczymi i obsługę rezerwacji.",
+        "Lufthansa i IndiGo ostrzegły przed problemami z pocztą, a Cathay Pacific – przed problemami z dostarczaniem powiadomień o podróży.",
+        "Skutki usterki odczuli również klienci atrakcji turystycznych w Polsce."
+      ],
+      "extended_paragraphs": [
+        "Globalna awaria Microsoftu utrudniła kontakt z liniami lotniczymi i obsługę rezerwacji. Lufthansa i IndiGo ostrzegły przed problemami z pocztą, a Cathay Pacific – przed problemami z dostarczaniem powiadomień o podróży. Skutki usterki odczuli również klienci atrakcji turystycznych w Polsce.",
+        "Problemy z globalnym dostępem do usług Microsoft 365 pojawiły się w nocy z czwartku na piątek, paraliżując działanie między innymi programów Outlook, Teams i Copilot. Koncern Microsoft oświadczył, że usterka wynika z nagłej, nieoczekiwanej niedostępności wielu serwerów, co doprowadziło do przeciążenia pozostałych systemów, i zaznaczył, że na tym etapie nie potwierdzono żadnych przesłanek wskazujących na atak hakerski.",
+        "Lufthansa poinformowała o częściowej niedostępności korespondencji e-mailowej, obejmującej potwierdzenia rezerwacji i zapytania do obsługi klienta. Ostrzegła, że wysyłanie i odbieranie wiadomości może odbywać się ze znacznym opóźnieniem. Pasażerom zaleciła sprawdzanie informacji o lotach w aplikacji i na stronie internetowej.",
+        "Rzecznik przewoźnika zapewnił jednocześnie, że awaria nie wpływa na operacje lotnicze, ponieważ wykorzystywane są w nich inne systemy. Brak wpływu usterki na ruch lotniczy potwierdzili również przedstawiciele lotnisk we Frankfurcie i Berlinie.",
+        "Poza Europą problemy zgłosiła między innymi IndiGo, największa indyjska linia lotnicza. Przewoźnik ostrzegł, że wiadomości pasażerów mogą nie docierać do jego pracowników. Zapewnił, że pozostałe kanały kontaktu pozostają dostępne. W pilnych sprawach skierował klientów do wirtualnego asystenta linii, działającego na stronie internetowej i w aplikacji."
+      ]
+    },
+    {
+      "id": "makro-8-18ea2c",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1355,92 +1421,27 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
       "key_metrics": [],
-      "title": "Paweł Wojciechowski: Demokracja fiskalna",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "05:06",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/opinie-ekonomiczne/art45478761-pawel-wojciechowski-demokracja-fiskalna",
-      "image_url": "https://i.gremicdn.pl/image/free/cbec3449a321d7fe81ba7c6e53ce834d/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Dziś pożyczamy od przyszłych pokoleń nie tylko pieniądze.",
-        "Pożyczamy również część ich prawa do decydowania o przyszłych wydatkach państwa.",
-        "Niemal 20 lat temu ekonomista C."
-      ],
-      "extended_paragraphs": [
-        "Dziś pożyczamy od przyszłych pokoleń nie tylko pieniądze. Pożyczamy również część ich prawa do decydowania o przyszłych wydatkach państwa.",
-        "Niemal 20 lat temu ekonomista C. Eugene Steuerle zwrócił uwagę na niepokojący paradoks: państwa mogą stawać się coraz zamożniejsze, a jednocześnie tracić nie tylko swobodę finansową, ale także część demokracji. Rosnące koszty obsługi długu i sztywne wydatki pochłaniają coraz większą część dochodów publicznych, ograniczając swobodę decyzji kolejnych rządów."
-      ]
-    },
-    {
-      "id": "makro-5-1cf936",
-      "entity_tag": "Azja & Pacyfik",
-      "sector": "Gospodarka Światowa",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Gospodarka Światowa” (kluczowe liczby: 31 mln, 70 proc., 85 proc.) — istotne dla ochrony realnej wartości kapitału.",
-      "key_metrics": [
-        "31 mln",
-        "70 proc.",
-        "85 proc."
-      ],
-      "title": "Toyota chce „Made with Europe” zamiast „Made in Europe” i łagodniejszych norm CO₂",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "05:00",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://moto.rp.pl/tu-i-teraz/art45471151-toyota-chce-made-with-europe-zamiast-made-in-europe-i-lagodniejszych-norm-co2",
-      "image_url": "https://i.gremicdn.pl/image/free/bb0c6c2fcb0093a5daf0e65204c5e1d9/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Toyota Motor Europe po raz kolejny zaapelowała do unijnych ustawodawców, by w nowych przepisach wspierających europejski przemysł auta z Wielkiej Brytanii, Turcji i Japonii były traktowane na równi z samochodami z UE.",
-        "Koncern chce też więcej czasu na osiągnięcie celów redukcji emisji CO₂ na lata 2030 i 2035, zarówno w Unii, jak i w Wielkiej Brytanii.",
-        "Stanowisko dotyczy prac nad aktem w sprawie przyspieszenia rozwoju przemysłu (Industrial Accelerator Act) i nad unijnym pakietem dla sektora motoryzacyjnego."
-      ],
-      "extended_paragraphs": [
-        "Toyota Motor Europe po raz kolejny zaapelowała do unijnych ustawodawców, by w nowych przepisach wspierających europejski przemysł auta z Wielkiej Brytanii, Turcji i Japonii były traktowane na równi z samochodami z UE. Koncern chce też więcej czasu na osiągnięcie celów redukcji emisji CO₂ na lata 2030 i 2035, zarówno w Unii, jak i w Wielkiej Brytanii.",
-        "Stanowisko dotyczy prac nad aktem w sprawie przyspieszenia rozwoju przemysłu (Industrial Accelerator Act) i nad unijnym pakietem dla sektora motoryzacyjnego. Odnosi się też do przeglądu brytyjskiego wymogu sprzedaży pojazdów zeroemisyjnych (ZEV). Toyota deklaruje poparcie dla celów klimatycznych UE. Chce jednak, by nowe przepisy były neutralne technologicznie i uwzględniały rzeczywisty popyt.",
-        "Toyota sprzeciwia się wymogowi montażu samochodów wyłącznie na terenie UE. Proponuje, by preferencjami objąć ograniczoną grupę państw, z którymi Unię łączą umowy o wolnym handlu lub unia celna i w relacjach, z którymi obowiązuje zasada pełnej wzajemności. Wymienia wśród nich Wielką Brytanię, Turcję i Japonię. Według firmy rynek obejmujący tych partnerów to ok. 31 mln pojazdów. Zdaniem koncernu o pochodzeniu auta powinny decydować nie tylko części, ale także prace inżynieryjne, badania i rozwój, montaż i tworzone miejsca pracy.",
-        "Tu i Teraz Dekadę temu Lexus sam zmieniał pas w Tokio. Teraz Toyota szykuje robotaksówkę Toyota i Waymo rozpoczną w 2027 r. w Japonii testy floty autonomicznych SUV-ów bZ4X. Mają one pomóc w uruchomieniu pierwszej w tym kraju w pełni au...",
-        "Toyota proponuje, by wymagany udział europejskich części rósł stopniowo i po trzech latach osiągnął 70 proc. ceny pojazdu na warunkach ex works. Do tego udziału miałaby się wliczać wartość prac inżynieryjnych, prac badawczo-rozwojowych i montażu końcowego. Firma chce, by nowe wymogi nie zaczęły obowiązywać przed 2030 r. Postuluje też próg 70 proc. dla łącznej sprzedaży pojazdów zamiast proponowanych 85 proc. Chce wspólnych zasad dla zamówień publicznych, systemów zachęt i flot firmowych oraz czasowego zwolnienia z tych wymogów aut z wodorowymi ogniwami paliwowymi, dopóki ten rynek się nie rozwinie."
-      ]
-    },
-    {
-      "id": "makro-6-f5e888",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Półprzewodniki & AI” (NVIDIA (NASDAQ: NVDA)) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Kim jest tymczasowa dyrektor generalna Nvidii Colette Kress – i kto mógłby przejąć ją na stałe?",
-      "original_title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "title": "Burnham twierdzi, że Wielka Brytania i UE mogą osiągnąć porozumienie, w którym wygrywają obie strony",
+      "original_title": "Burnham says 'win-win' deal can be agreed between UK and EU",
       "is_foreign": true,
       "lang": "EN",
-      "time": "15:10",
+      "time": "01:17",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Dyrektor finansowy Colette Kress na razie kieruje Nvidią, ale w planach jest kilka innych osób jako potencjalni następcy.",
-        "Nvidia stoi obecnie przed scenariuszem, który do niedawna mało kto rozważał – przyszłość bez Jensena Huanga.",
-        "Wpływowy współzałożyciel giganta produkującego chipy AI złożył w czwartek rezygnację ze stanowiska w związku z doniesieniami o romansach pozamałżeńskich, z których jeden dotyczył kobiety podejrzanej o bycie chińskim szpiegiem."
+        "Premier twierdzi, że porozumienie mogłoby „bardziej przypominać brexit, za którym ludzie głosowali” w 2016 roku.",
+        "Premier rozważa zacieśnienie powiązań z blokiem i oczekuje się, że 20 listopada podpisze nowe umowy w sprawie żywności, energii i mobilności młodzieży na szczycie Wielka Brytania-UE.",
+        "W czwartkowym przemówieniu po spotkaniu z europejskimi przywódcami w Irlandii Burnham wyraził nadzieję, że porozumienie pomoże obniżyć ceny i pobudzić brytyjską gospodarkę."
       ],
       "extended_paragraphs": [
-        "Dyrektor finansowy Colette Kress na razie kieruje Nvidią, ale w planach jest kilka innych osób jako potencjalni następcy.",
-        "Nvidia stoi obecnie przed scenariuszem, który do niedawna mało kto rozważał – przyszłość bez Jensena Huanga.",
-        "Wpływowy współzałożyciel giganta produkującego chipy AI złożył w czwartek rezygnację ze stanowiska w związku z doniesieniami o romansach pozamałżeńskich, z których jeden dotyczył kobiety podejrzanej o bycie chińskim szpiegiem.",
-        "Na razie obowiązki pełni Colette Kress, dyrektor finansowa. Gigant technologiczny stoi przed jednym z największych wyzwań – znalezieniem odpowiedniej osoby, która na stałe pokieruje firmą, którą Huang pomógł stworzyć ponad trzydzieści lat temu i która przekształciła się w jedną z najcenniejszych firm na świecie.",
-        "Źródło zdjęcia, Nvidia Tytuł zdjęcia, Colette Kress jest dyrektorem finansowym w firmie Nvidia"
+        "Premier twierdzi, że porozumienie mogłoby „bardziej przypominać brexit, za którym ludzie głosowali” w 2016 roku.",
+        "Premier rozważa zacieśnienie powiązań z blokiem i oczekuje się, że 20 listopada podpisze nowe umowy w sprawie żywności, energii i mobilności młodzieży na szczycie Wielka Brytania-UE.",
+        "W czwartkowym przemówieniu po spotkaniu z europejskimi przywódcami w Irlandii Burnham wyraził nadzieję, że porozumienie pomoże obniżyć ceny i pobudzić brytyjską gospodarkę. Przewidział, że negocjacje mogą „doprowadzić do finiszu”.",
+        "Konserwatyści powiedzieli już wcześniej, że Partia Pracy „wciąga nas do Unii Europejskiej tylnymi drzwiami poprzez reset UE”.",
+        "Choć Burnham argumentował, że brexit wyrządził „więcej szkody niż pożytku”, wykluczył wprowadzenie poważnych zmian w stosunkach Wielkiej Brytanii z UE przed kolejnymi wyborami powszechnymi."
       ]
     }
   ],
@@ -1516,99 +1517,67 @@
       ]
     },
     {
-      "id": "tech-8-880fea",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "id": "tech-8-cc6c3c",
+      "entity_tag": "Złoto (XAU/USD)",
+      "sector": "Surowce Szlachetne",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Złoto (XAU/USD) (Surowce Szlachetne) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Z drugiej strony American Cancer Society zaleca rutynowe badania przesiewowe w kierunku raka prostaty",
-      "original_title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+      "title": "Raport rakietowy: Statek kosmiczny gotowy do historycznego lotu testowego; stulecie elektronu",
+      "original_title": "Rocket Report: Starship set for historic test flight; a century of Electron",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:59",
+      "time": "12:00",
       "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
+      "source_url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg",
       "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "Mężczyźni w wieku 50–69 lat należący do średniego ryzyka powinni co dwa lata poddawać się badaniom przesiewowym w kierunku PSA.",
-        "Zgodnie z nowymi wytycznymi opublikowanymi w czwartek mężczyźni należący do grupy średniego ryzyka powinni poddawać się badaniu PSA co dwa lata w wieku od 50 do 69 lat.",
-        "Mężczyźni należący do grupy wysokiego ryzyka ze względu na rasę i historię rodzinną powinni rozpocząć badanie wcześniej, w wieku 45 lat, a większości zaleca się poddawać je co roku."
+        "„Można to uprościć jako duży zbiornik zasilający silniki”.",
+        "Jak zawsze czekamy na zgłoszenia czytelników, a jeśli nie chcesz przegapić żadnego numeru, zapisz się, korzystając z poniższego pola (formularz nie będzie wyświetlany w wersjach witryny obsługujących AMP).",
+        "Każdy raport będzie zawierał informacje na temat rakiet małego, średniego i ciężkiego udźwigu, a także szybkie spojrzenie w przyszłość na trzy kolejne starty w kalendarzu."
       ],
       "extended_paragraphs": [
-        "Mężczyźni w wieku 50–69 lat należący do średniego ryzyka powinni co dwa lata poddawać się badaniom przesiewowym w kierunku PSA.",
-        "Zgodnie z nowymi wytycznymi opublikowanymi w czwartek mężczyźni należący do grupy średniego ryzyka powinni poddawać się badaniu PSA co dwa lata w wieku od 50 do 69 lat.",
-        "Mężczyźni należący do grupy wysokiego ryzyka ze względu na rasę i historię rodzinną powinni rozpocząć badanie wcześniej, w wieku 45 lat, a większości zaleca się poddawać je co roku. W szczególności zaleca się coroczne badanie, rozpoczynające się w wieku 45 lat, wszystkim czarnym mężczyznom, u których występuje wyższy wskaźnik raka prostaty. Mężczyźni rasy innej niż czarna powinni również poddawać się corocznym badaniom, począwszy od 45. roku życia, jeśli u ich bliskiego krewnego zdiagnozowano raka prostaty przed 65. rokiem życia lub jeśli więcej niż jeden z ich krewnych chorował na raka prostaty. Z drugiej strony, jeśli tylko u jednego bliskiego krewnego zdiagnozowano raka prostaty i zdiagnozowano go w wieku 65 lat lub więcej, w tym przypadku mężczyźni rasy innej niż czarna powinni rozpocząć badania przesiewowe w kierunku PSA w wieku 45 lat, ale zaleca się poddawanie się badaniom tylko co dwa lata.",
-        "Mężczyźni w wieku od 70 do 74 lat powinni skonsultować się z lekarzem w sprawie kontynuowania badań przesiewowych, natomiast osobom w wieku 75 lat i starszym nie zaleca się poddawania się badaniom przesiewowym.",
-        "Nowe wytyczne odbiegają od poprzedniej wersji ACS opublikowanej w 2010 r., która nie zawierała uniwersalnych zaleceń dotyczących rutynowych badań przesiewowych. Mężczyznom w wieku 50 lat zalecono wspólne podejmowanie z lekarzami decyzji o poddaniu się badaniu. Zalecenie było podobne do zalecenia amerykańskiej grupy zadaniowej ds. usług prewencyjnych – federalnego panelu, który regularnie ocenia dowody i wydaje zalecenia dotyczące takiej profilaktycznej opieki medycznej. (USPSTF pracuje obecnie nad aktualizacją swoich zaleceń dotyczących badań przesiewowych w kierunku raka prostaty, choć należy zauważyć, że panel został niedawno zmieniony przez antyszczepionkowego sekretarza zdrowia Roberta F. Kennedy'ego Jr. i według doniesień wśród nowych członków występuje konflikt interesów.)"
+        "„Można to uprościć jako duży zbiornik zasilający silniki”.",
+        "Jak zawsze czekamy na zgłoszenia czytelników, a jeśli nie chcesz przegapić żadnego numeru, zapisz się, korzystając z poniższego pola (formularz nie będzie wyświetlany w wersjach witryny obsługujących AMP). Każdy raport będzie zawierał informacje na temat rakiet małego, średniego i ciężkiego udźwigu, a także szybkie spojrzenie w przyszłość na trzy kolejne starty w kalendarzu.",
+        "Zestaw elektronów do wystrzelenia kamienia milowego. Następny start pojazdu Electron firmy Rocket Lab ma wystartować z półwyspu Mahia w Nowej Zelandii 14 listopada o godzinie 5:30 czasu UTC. Misja ta będzie setną misją Electrona w sumie i będzie znaczącym kamieniem milowym dla małej rakiety, która po raz pierwszy poleciała w 2017 r., jak podaje NASASpaceflight.com.",
+        "Prawdziwy sukces komercyjny… Ten lot Electrona, nazwany „Bóg gór powstaje”, dostarczy do LEO kolejnego satelitę iQPS dla konstelacji radaru z syntetyczną aperturą iQPS. Rocznicowa rakieta ma specjalne złoto-czarne malowanie, które wygląda fantastycznie. Rocket Lab naprawdę zasługuje na uznanie jako druga na świecie czysto komercyjna firma zajmująca się startami, która odniosła sukces. Wszyscy świętujemy razem z nimi.",
+        "Czy rakieta Vega to ślepy zaułek? W zeszłym miesiącu włoski producent rakiet Avio przedstawił aktualizację rynkową, w której wskazano dodatkowe inwestycje wymagane do zwiększenia rocznej częstotliwości startu rakiety Vega C do sześciu, a docelowo dziewięciu lotów rocznie, podaje European Spaceflight. Potrzeba dodatkowego finansowania rodzi interesujące pytanie o przyszłość rodziny rakiet nośnych Vega we Włoszech. Czy inwestowanie w infrastrukturę niezbędną do zapewnienia do końca dekady zaledwie trzech kolejnych lotów Vega C rocznie do końca dekady stanowi najlepsze wykorzystanie zasobów, zwłaszcza gdy wydaje się, że kilka wschodzących europejskich firm zajmujących się wystrzeliwaniem rakiet jest w stanie zaoferować porównywalną przepustowość?"
       ]
     },
     {
-      "id": "tech-7-3bdfba",
-      "entity_tag": "Microsoft (NASDAQ: MSFT)",
-      "sector": "Chmura & AI",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Microsoft (NASDAQ: MSFT) (Chmura & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Microsoft Outlook padł. Problemy zgłaszają użytkownicy na całym świecie",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:35",
-      "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/microsoft-outlook-padl-problemy-zglaszaja-uzytkownicy-na-calym-swiecie",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/99613028_S.jpg",
-      "image_source": "Fot. / Źródło: Antyweb Innowacje",
-      "lead_story": false,
-      "summary_points": [
-        "Poważna awaria Microsoft 365 daje się we znaki użytkownikom na całym świecie.",
-        "Problemy dotyczą nie tylko poczty Outlook, ale również innych popularnych usług firmy.",
-        "Jeśli pracujesz na Microsoft Outlook i twoje oprogramowanie właśnie zaczęło nawalać, to nie jesteś sam."
-      ],
-      "extended_paragraphs": [
-        "Poważna awaria Microsoft 365 daje się we znaki użytkownikom na całym świecie. Problemy dotyczą nie tylko poczty Outlook, ale również innych popularnych usług firmy.",
-        "Jeśli pracujesz na Microsoft Outlook i twoje oprogramowanie właśnie zaczęło nawalać, to nie jesteś sam. Usługa nabawiła się awarii i niespełna setki zgłoszeń w Downdetector. Lepiej wstrzymać się z ważnymi projektami.",
-        "Microsoft potwierdził awarię na swoim profilu Microsoft 365 Status w serwisie X – firma przyznaje, że użytkownicy mogą mieć kłopot z dostępem do skrzynek Exchange Online, czyli zaplecza firmowych i szkolnych kont pocztowych. Początkowo komunikat dotyczył obu Ameryk, jednak w kolejnym wpisie Microsoft zaznaczył, że problem może dotknąć użytkowników Microsoft 365 w dowolnym regionie, także w Polsce. Incydent oznaczono numerem EX1550543.",
-        "Pierwsze sygnały o awarii pojawiły się około 18:00 czasu polskiego. W szczytowym momencie Downdetector notował blisko 140 tysięcy raportów. Użytkownicy skarżą się na problemy z wysyłaniem i odbieraniem wiadomości, wczytywaniem skrzynek, dostępem do kalendarza oraz logowaniem do usług Microsoft 365. Wzrost zgłoszeń widać też w przypadku Teams i Copilota. Co ciekawe, po szczegóły Microsoft odsyła administratorów do centrum Microsoft 365, które – jak donoszą internauci – również ledwo działa.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Według Microsoftu część infrastruktury w wielu regionach jest przeciążona, co prawdopodobnie powoduje błędy połączenia. Firma restartuje i naprawia problematyczne elementy, zaś obciążenie rozkłada na serwery na całym świecie. Sprawdza też, czy przeciążenia nie wywołał nieoczekiwany skok określonego rodzaju ruchu. Liczba zgłoszeń w Downdetector spadła już poniżej 100 tysięcy , ale Microsoft wciąż nie podał, kiedy usługa wróci do pełnej sprawności."
-      ]
-    },
-    {
-      "id": "tech-1-c5e5fe",
+      "id": "tech-1-94d9a2",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Polacy zrobili to, czego nie potrafił nikt inny. Zaobserwowali nowy stan materii kwantowej",
+      "title": "Smartwatch i AI lepsze od Kinecta. Naukowcy zmienią oblicze treningów?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:53",
+      "time": "12:00",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/nowy-stan-materii-kwantowej-supersolid-polacy",
-      "image_url": "https://konto.chip.pl/uploads/2024/05/kondensat-bosego-einsteina.jpg",
+      "source_url": "https://www.chip.pl/2026/11/smartwatch-wykrywa-pozycje-ciala-cornell",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/zmodyfikowany-smartwatch.png",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Międzynarodowy zespół badawczy z naszymi rodakami w składzie dokonał wielkiego przełomu w badaniach nad kwantową fazą nadstałą.",
-        "Znana również jako nadkrystaliczna, była wcześniej obserwowana jedynie w skrajnie niskich temperaturach.",
-        "Teraz uległo to jednak zmianie."
+        "Smartwatch ma wiele przydatnych funkcji, a jedną z nich jest pomiar aktywności oraz kroków.",
+        "To jednak narzędzia, które mają w sobie sporo umowności.",
+        "Podczas, gdy zegarek skupia się na pomiarze zdrowia, estymuje nasz ruch na bazie akcelorometru i żyroskopu."
       ],
       "extended_paragraphs": [
-        "Międzynarodowy zespół badawczy z naszymi rodakami w składzie dokonał wielkiego przełomu w badaniach nad kwantową fazą nadstałą. Znana również jako nadkrystaliczna, była wcześniej obserwowana jedynie w skrajnie niskich temperaturach. Teraz uległo to jednak zmianie. Przedstawiciele Uniwersytetu Warszawskiego i Wojskowej Akademii Technicznej prowadzili bowiem swoje eksperymenty w temperaturze pokojowej, o czym piszą teraz na łamach Science […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Polacy zrobili to, czego nie potrafił nikt inny. Zaobserwowali nowy stan materii kwantowej \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Przedstawiciele Uniwersytetu Warszawskiego i Wojskowej Akademii Technicznej prowadzili bowiem swoje eksperymenty w temperaturze pokojowej, o czym piszą teraz na łamach Science Advances . Ich sukces stanowi potwierdzenie przewidywań, które po raz pierwszy pojawiły się w świecie nauki już w latach 60. ubiegłego wieku.",
-        "Czytaj też: Fizycy złamali jedną z podstawowych zasad. Dwa elektrony dokonały czegoś, co miało być niemożliwe",
-        "Faza nadstała jest jednym z najbardziej niezwykłych stanów materii przewidywanych przez fizykę kwantową. Łączy dwie właściwości, które na pierwszy rzut oka wydają się wzajemnie wykluczać: uporządkowaną, charakterystyczną dla kryształów strukturę przestrzenną oraz nadciekłość, czyli zdolność do przepływu bez lepkości. Oznacza to, że materia może jednocześnie zachowywać się jak kryształ i jak doskonały płyn kwantowy.",
-        "Pomimo wieloletnich przewidywań tego fenomenu, jego eksperymentalne potwierdzenie pozostawało ogromnym wyzwaniem przez kolejne dekady. Pierwsza obserwacja w ultrazimnych kondensatach atomowych miała miejsce dopiero w 2017 roku. Najnowsze badania pokazują, iż podobne zjawiska można badać również w zupełnie innym układzie fizycznym – wykorzystując światło i materię w mikrownękach optycznych."
+        "Smartwatch ma wiele przydatnych funkcji, a jedną z nich jest pomiar aktywności oraz kroków. To jednak narzędzia, które mają w sobie sporo umowności. Podczas, gdy zegarek skupia się na pomiarze zdrowia, estymuje nasz ruch na bazie akcelorometru i żyroskopu. Naukowcy stworzyli EchoMotion, czyli metodę, dzięki której dałoby się zmierzyć dokładne przemieszczenie się całego ciała. Gdy […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Zmodyfikowany smartwatch Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Gdy na rynku pojawiał się Kinect, jeszcze niewiele osób wiedziało o Time of Flight 3D czy LiDARach. Metody mierzenia ruchów ciała z wykorzystaniem kamery i wiązki laserowej były wtedy czymś rewolucyjnym. I choć Kinect odszedł w niepamięć, tak nadal są użytkownicy, którzy korzystają z niego do zabawy czy ćwiczeń.",
+        "Do tych drugich wykorzystuje się także smartwatche, przy czym te nie mają narzędzi do dokładnego pomiaru ruchu, a przynajmniej nie w tradycyjnym sensie. Mają jednak mikrofony i głośniki, a ten zestaw potrafi działać niczym sonar, także w tak małym urządzeniu. Uczeni z Uniwersytetu Cornella w Nowym Jorku skorzystali z tych rozwiązań do stworzenia EchoMotion.",
+        "Badacze pod przewodnictwem Chenga Zhanga, profesora w Cornell Ann S. Bowers College of Computing and Information Science wzięli na tapet klasyczny smartwatch, posiadający głośnik oraz mikrofon. Postanowili, że to dzięki niemu ustalą pozycję ciała, w tym ruch kończyn. Zaprzęgli do tego celu sztuczną inteligencję i stworzyli EchoMotion.",
+        "Rozwiązanie powstało w oparciu o replikę smartzegarka z wykorzystaniem dwóch głośników na bokach oraz mikrofonów. Te emitują sygnały ultradźwiękowe, których zadaniem ma być otoczenie osoby niesłyszalnymi falami dźwiękowymi. Dwa mikrofony zbierają informacje z otoczenia. Badacze w ten sposób zgromadzili próby od 10 badanych i zmierzyli ich podczas 18 ćwiczeń. Zegarek nosili na niedominującej dłoni."
       ]
     },
     {
@@ -1620,7 +1589,7 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Demokraci wszczynają śledztwo w sprawie Nvidii, piszą zjadliwy list w sprawie „planu” Huanga z Trumpem",
+      "title": "Demokraci wszczynają śledztwo w sprawie Nvidii, piszą zjadliwy list w sprawie „schematu” Huanga z Trumpem",
       "original_title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
       "is_foreign": true,
       "lang": "EN",
@@ -1644,109 +1613,138 @@
       ]
     },
     {
-      "id": "tech-3-fb1d5c",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "id": "tech-3-2b86f5",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Koniec z ryzykowaniem na rowerze? Niemcy znaleźli na to proste rozwiązanie",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:56",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/kierunkowskazy-rowerowe-turntec-t2",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/elektryczny-rower-fiido-nomads-pro-test-recenzja-opinia-kierownica2.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Przy testowaniu rowerów elektrycznych łatwo zachwycać się coraz lepszymi napędami, hamulcami hydraulicznymi czy zaawansowanym oświetleniem, ale wystarczy wjechać do miasta, żeby zrozumieć, że nawet najdroższy osprzęt nie eliminuje wszystkich problemów.",
+        "Dlatego zainteresował mnie pomysł niemieckiej firmy busch+müller, która opracowała system TURNTEC T2.",
+        "Rowerzysta, który zamierza skręcić, musi najpierw zrobić coś, co na chwilę ogranicza jego […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Koniec z ryzykowaniem na rowerze?"
+      ],
+      "extended_paragraphs": [
+        "Przy testowaniu rowerów elektrycznych łatwo zachwycać się coraz lepszymi napędami, hamulcami hydraulicznymi czy zaawansowanym oświetleniem, ale wystarczy wjechać do miasta, żeby zrozumieć, że nawet najdroższy osprzęt nie eliminuje wszystkich problemów. Dlatego zainteresował mnie pomysł niemieckiej firmy busch+müller, która opracowała system TURNTEC T2. Rowerzysta, który zamierza skręcić, musi najpierw zrobić coś, co na chwilę ogranicza jego […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Koniec z ryzykowaniem na rowerze? Niemcy znaleźli na to proste rozwiązanie \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Rowerzysta, który zamierza skręcić, musi najpierw zrobić coś, co na chwilę ogranicza jego kontrolę nad rowerem. Wyciąga rękę, a jeśli akurat jedzie po nierównym asfalcie, hamuje lub omija dziurę, to oto zostaje mu tylko jedna dłoń na kierownicy. Trudno udawać, że taki sposób sygnalizowania manewru jest idealny. Zwłaszcza że w samochodach i motocyklach ten problem inżynierowie rozwiązali już dawno temu, a w rowerach ciągle tego brakuje. Czy TURNTEC T2 ma szanse, aby to zmienić? Nie jest to wprawdzie pierwsze tego typu rozwiązanie na rynku, ale jego konstrukcja jest na tyle ciekawa, że zdobyła właśnie German Design Award 2027 w kategorii rowerów i e-bike’ów.",
+        "TURNTEC T2 to ważący 165 gramów zestaw dwóch kierunkowskazów LED, które montujemy na końcach kierownicy roweru. Ich największą zaletą jest sposób obsługi, bo zamiast sięgać palcem do dodatkowego przełącznika, wystarczy lekko nacisnąć odpowiedni moduł zewnętrzną częścią dłoni. Kierunkowskaz zaczyna migać, a my możemy nadal trzymać kierownicę i mieć pełny dostęp do hamulców. Krótkie naciśnięcie uruchamia domyślnie 15 błysków, ale liczbę tę można zmienić w zakresie od 5 do 30. Dłuższe pozwala z kolei aktywować sygnalizację ciągłą, a do tego producent przewidział funkcję świateł awaryjnych.",
+        "Czytaj też: Test FIIDO Nomads Pro. Elektryczny rower trekkingowy na terenowe przygody",
+        "Najbardziej podoba mi się jednak to, że TURNTEC T2 nie potrzebuje żadnego dodatkowego zasilania, bo wewnątrz kierownicy znajduje się wymienny akumulator o pojemności 700 mAh, a oba kierunkowskazy łączy przewód ukryty w jej wnętrzu. Ładowanie odbywa się przez USB-C w lewym module, a system informuje o niskim poziomie energii. Producent postawił również na aluminiowe obudowy, odporność na deszcz i możliwość wymiany poszczególnych części."
+      ]
+    },
+    {
+      "id": "tech-5-ad7762",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "WhatsApp dokłada nową warstwę prywatności. Koniec ze zrzutami ekranu na pamiątkę?",
+      "title": "Naukowcy dorobili człowiekowi szósty palec i nawet nie trzeba nim świadomie sterować",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:00",
+      "time": "09:53",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/whatsapp-doklada-nowa-warstwe-prywatnosci-koniec-ze-zrzutami-ekranu-na-pamiatke",
-      "image_url": "https://konto.chip.pl/uploads/2022/11/whatsapp-ikona.jpg",
+      "source_url": "https://www.chip.pl/2026/11/szosty-palec-czlowieka-robotyczny-kciuk-ai",
+      "image_url": "https://konto.chip.pl/uploads/2021/05/robotyczny-kciuk.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Wysyłanie komuś numeru karty płatniczej czy po prostu wrażliwej informacji w oknie zwykłego komunikatora zawsze wiąże się z pewnym ryzykiem.",
-        "Nawet jeśli ufamy rozmówcy, taka wiadomość zostaje w historii czatu na zawsze, dopóki ktoś ręcznie jej nie wykasuje.",
-        "WhatsApp od dawna pozwala wysyłać zdjęcia, filmy oraz wiadomości głosowe w trybie „wyświetl raz”, które znikają z […] Pod tym względem nowa opcja działa identycznie jak jej odpowiednik znany ze zdjęć czy nagrań głosowych."
+        "Możemy dorobić człowiekowi kolejny robotyczny palec, ale jak właściwie mielibyśmy nim sterować?",
+        "Nasze mózgi nie mają przecież przygotowanego zestawu poleceń dla szóstej kończyny, a angażowanie stopy, głosu czy drugiej ręki do sterowania mechanicznym dodatkiem mija się trochę z celem.",
+        "W końcu dodatkowy palec powinien ułatwiać pracę, a nie zmuszać nas do opanowania kolejnej umiejętności."
       ],
       "extended_paragraphs": [
-        "Wysyłanie komuś numeru karty płatniczej czy po prostu wrażliwej informacji w oknie zwykłego komunikatora zawsze wiąże się z pewnym ryzykiem. Nawet jeśli ufamy rozmówcy, taka wiadomość zostaje w historii czatu na zawsze, dopóki ktoś ręcznie jej nie wykasuje. WhatsApp od dawna pozwala wysyłać zdjęcia, filmy oraz wiadomości głosowe w trybie „wyświetl raz”, które znikają z […]",
-        "Pod tym względem nowa opcja działa identycznie jak jej odpowiednik znany ze zdjęć czy nagrań głosowych. Gdy wyślemy taką wiadomość, a odbiorca ją otworzy i przeczyta, treść trwale znika z jego urządzenia i nie da się do niej wrócić z poziomu historii czatu. Proces nadawania takiej wiadomości została zaprojektowana w intuicyjny sposób i nie wymaga przekopywania się przez ustawienia:",
-        "Warto tu dodać, że ze względów bezpieczeństwa, treść wysłana w tym trybie nie pojawia się bezpośrednio w oknie rozmowy. W wątku widać jedynie specjalny kafelek, który odbiorca musi dotknąć. Wówczas wiadomość otwiera się w osobnym, wydzielonym interfejsie, więc w chwili, gdy użytkownik zamknie to okno, treść ulega skasowaniu bez możliwości ponownego podglądu. Jeśli obie strony mają włączone potwierdzenia odczytu, nadawca zobaczy w czacie stosowny status informujący o tym, że wiadomość została już otwarta.",
-        "Czytaj też: Nowości tylko dla najdroższych modeli. Seria Galaxy S27 idzie w ślady iPhone’ów",
-        "Oprócz tego, takiego tekstu nie będzie można również skopiować, przesłać dalej ani w żaden sposób zapisać. WhatsApp zablokuje też robienie zrzutów ekranu i nagrywanie ekranu w aplikacji, więc to idealny sposób na udostępnianie poufnych danych. Jeśli ktoś chciałby nagrać lub zachować to, co mu wysłaliśmy, musiałby użyć drugiego telefonu by zrobić zdjęcie ekranu. Trochę z tym zachodu, ale dla chcącego nic trudnego, jednak akurat z tym WhatsApp nie bardzo może coś zrobić."
+        "Możemy dorobić człowiekowi kolejny robotyczny palec, ale jak właściwie mielibyśmy nim sterować? Nasze mózgi nie mają przecież przygotowanego zestawu poleceń dla szóstej kończyny, a angażowanie stopy, głosu czy drugiej ręki do sterowania mechanicznym dodatkiem mija się trochę z celem. W końcu dodatkowy palec powinien ułatwiać pracę, a nie zmuszać nas do opanowania kolejnej umiejętności. Naukowcy […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google EgoThumb to dodatkowy robotyczny kciuk, który korzysta ze sztucznej inteligencji, aby samodzielnie pomagać użytkownikowi w wykonywaniu codziennych czynności. Inspiracja do jego stworzenia była zaskakująco przyziemna, bo jeden z naukowców miał zwyczajnie dość problemów podczas lutowania przewodów. Wtedy trzeba przecież jednocześnie przytrzymywać elementy, operować lutownicą i przykładać spoiwo do grotu. Jak tu jednak stworzyć szósty palec, który rzeczywiście pomoże, a nie zacznie przeszkadzać?",
+        "Pod względem konstrukcyjnym EgoThumb nie jest szczególnie skomplikowany. Ma trzy przeguby, z których każdy korzysta z pary cięgien odpowiadających za zginanie i prostowanie. Silniki napędzające cały mechanizm trafiły na przedramię, dzięki czemu sam dodatkowy palec pozostaje stosunkowo lekki. Znacznie ważniejsza jest jednak niewielka, szerokokątna kamera umieszczona przy dłoni, która obserwuje palce użytkownika oraz przedmioty w ich otoczeniu.",
+        "Czytaj też: Pajęczy robot wspina się po ścianach do pracy. Będzie mógł wyręczyć człowieka",
+        "Obraz z kamery trafia do modelu sztucznej inteligencji, który uwzględnia również aktualne położenie przegubów. Naukowcy wykorzystali przy tym uczenie przez naśladowanie, czyli metodę polegającą na analizowaniu demonstracji wykonywanych przez człowieka. Podczas treningu operator sterował mechanicznym palcem za pomocą interfejsu obsługiwanego stopą. Później algorytm sam przewidywał odpowiednie ruchy na podstawie sytuacji widocznej w kamerze."
       ]
     },
     {
-      "id": "tech-5-bcdff6",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
+      "id": "tech-7-61c884",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Starsze Pixele dostają drugie życie. Listopadowy Pixel Drop rozdaje funkcje AI z najnowszych modeli",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) (kluczowe liczby: 80 milionów, 95%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "80 milionów",
+        "95%"
+      ],
+      "title": "Odkryto ósmy kontynent. Mapa świata do poprawki?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/listopad-pixel-drop-lista-nowosci",
-      "image_url": "https://konto.chip.pl/uploads/2025/08/google-pixel-10-premiera-14.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "time": "11:38",
+      "source": "Antyweb Innowacje",
+      "source_url": "https://antyweb.pl/odkryto-osmy-kontynent-mapa-swiata-do-poprawki",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2025/12/ile-wazy-ziemia-1.jpg",
+      "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Najlepsze nowości w oprogramowaniu zarezerwowane są zwykle dla najnowszych generacji flagowców, choć czasem zdarza się, że pozostają one na nich czasowo, by później dotrzeć też na nieco starsze urządzenia.",
-        "Świetnie to widać z w przypadku Pixeli, które cyklicznie dostają ulepszenia w ramach Pixel Drop.",
-        "Zamiast czekać raz do roku na kolejną dużą wersję Androida, użytkownicy […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Starsze Pixele dostają drugie życie."
+        "Aż 95 procent jego powierzchni ukrywa się pod wodą.",
+        "Jeżeli myśleliście że w temacie liczby ziemskich kontynentów nic się już raczej nie zmieni, to...",
+        "Wiele wskazuje na to, że badacze właśnie wyszczególnili nowy, ósmy kontynent na naszej planecie."
       ],
       "extended_paragraphs": [
-        "Najlepsze nowości w oprogramowaniu zarezerwowane są zwykle dla najnowszych generacji flagowców, choć czasem zdarza się, że pozostają one na nich czasowo, by później dotrzeć też na nieco starsze urządzenia. Świetnie to widać z w przypadku Pixeli, które cyklicznie dostają ulepszenia w ramach Pixel Drop. Zamiast czekać raz do roku na kolejną dużą wersję Androida, użytkownicy […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Starsze Pixele dostają drugie życie. Listopadowy Pixel Drop rozdaje funkcje AI z najnowszych modeli \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Najlepsze nowości w oprogramowaniu zarezerwowane są zwykle dla najnowszych generacji flagowców, choć czasem zdarza się, że pozostają one na nich czasowo, by później dotrzeć też na nieco starsze urządzenia. Świetnie to widać z w przypadku Pixeli, które cyklicznie dostają ulepszenia w ramach Pixel Drop. Zamiast czekać raz do roku na kolejną dużą wersję Androida, użytkownicy dostają mniejsze paczki funkcji odświeżające codzienne korzystanie z telefonu.",
-        "Listopadowe wydanie jest o tyle ciekawe, że mocno zaciera granice między najnowszą serią Pixel 11 a starszymi generacjami sprzętu. Najważniejsze jest tu jednak to, co Google przygotował dla posiadaczy serii Pixel 10.",
-        "Pakiet Gemini Intelligence to zestaw funkcji sztucznej inteligencji, zarezerwowany dotychczas tylko da Pixeli 11. Teraz natomiast trafia do poprzedniej generacji, wprowadzając kilka konkretnych ułatwień, które mają zdjąć z użytkownika część codziennego klikania:",
-        "Żeby nie było, że Google jedynie dba o zeszłoroczne modele, listopadowy Pixel Drop zawiera również garść usprawnień dla „jedenastek”, choć w ich przypadku mówimy raczej o szlifowaniu dotychczasowych pomysłów."
+        "Odkryto ósmy kontynent. Aż 95 procent jego powierzchni ukrywa się pod wodą.",
+        "Jeżeli myśleliście że w temacie liczby ziemskich kontynentów nic się już raczej nie zmieni, to... nie mieliście racji. Wiele wskazuje na to, że badacze właśnie wyszczególnili nowy, ósmy kontynent na naszej planecie.",
+        "Nawet najmniej zainteresowani geografią uczniowie wiedzą, że na Ziemi mamy siedem kontynentów - to wiedza, która jest nam przekazywana od pokoleń i stanowi wręcz podstawę podstaw nauki o naszej planecie. Tymczasem okazuje się, że to co wiedzieliśmy my, nasi rodzice i dziadkowie, wreszcie też to co jest w podręcznikach i atlasach może wymagać sporej korekty. Na południowym Pacyfiku spoczywa bowiem potężny blok lądowy większy od połowy Europy, który niemal w całości ukrywa się przed ludzkim wzrokiem pod tonami oceanicznej wody. I wychodzi na to, że jest to nasz nowy, dopiero co wyszczególniony kontynent - mimo, że w 95% skrywa się pod wodą. Mowa o Zelandii, czyli oficjalnie uznawanym przez geologów ósmym kontynencie Ziemi, którego nie sposób zobaczyć z perspektywy mapy.",
+        "Historia Zelandii rozpoczęła się aż 80 milionów lat temu, kiedy ta stanowiła wówczas integralną część pradawnego superkontynentu Gondwana. W wyniku ruchów tektonicznych oderwała się od Antarktydy i Australii, a jej skorupa ziemska zaczęła się gwałtownie rozciągać i robić coraz cieńsza. W efekcie niemal cały kontynent powoli zatonął w wodach Oceanu Spokojnego. Dzisiaj nad poziomem wody możemy obserwować fragmenty tego kontynentu pod postacią Nowej Zelandii i Nowej Kaledonii. Naukowcy od dekad spierali się, czy ten podwodny płaskowyż to jedynie zbiór jakichś wysp i archipelagów, czy pełnoprawny kontynent. Międzynarodowy zespół badaczy pobrał próbki skał z dna oceanicznego i dokonał kluczowego odkrycia - zamiast bazaltu, z którego zbudowane jest typowe dno oceaniczne, wydobyto granit, czyli skałę charakterystyczną wyłącznie dla skorupy kontynentalnej. To zakończyło dyskusję i przesądziło o finalnej klasyfikacji Zelandii.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Z uwagi na wieloletnią izolację wysepek, czyli skrawków lądu wystających ponad wodę, te stanowią unikalne laboratoria ewolucji i nie brak na nich wyjątkowych gatunków niespotykanych nigdzie indziej na świecie:"
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-2-1998fd",
-      "entity_tag": "Rynek Krypto",
-      "sector": "Aktywa Cyfrowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Aktywa Cyfrowe” (Rynek Krypto) (kluczowe liczby: 400 milionów dolarów, 6,3 miliarda dolarów, 4,7 miliarda funtów) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "400 milionów dolarów",
-        "6,3 miliarda dolarów",
-        "4,7 miliarda funtów"
-      ],
-      "title": "FBI twierdzi, że północnokoreańscy hakerzy wykorzystali fałszywe rozmowy wideo w hackowaniu kryptowalut o wartości 400 milionów dolarów",
-      "original_title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "id": "swiat-1-74ffbe",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Chmura & AI” (Microsoft (NASDAQ: MSFT)) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Obejrzyj: Jak spadł poziom usług Microsoft na całym świecie",
+      "original_title": "Watch: How Microsoft services went down around the world",
       "is_foreign": true,
       "lang": "EN",
-      "time": "02:48",
+      "time": "07:18",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+      "source_url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf55/live/6c53e480-df49-11f1-b441-2b33b063138f.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": true,
       "summary_points": [
-        "Uważa się, że w ciągu ostatnich 18 miesięcy ofiarą programu FaceStealer padło ponad 900 ofiar.",
-        "Źródło zdjęcia, FBI Podpis pod zdjęciem, FBI zredagowało przykłady filmów 900 ofiar potajemnie nagranych przez północnokoreańskich hakerów Władze USA twierdzą, że sponsorowani przez państwo hakerzy z Korei Północnej zabrali kryptowalutę o wartości ponad 400 milionów dolarów, wykorzystując fałszywe rozmowy wideo do kradzieży tożsamości ludzi.",
-        "Według biura w ciągu ostatnich 18 miesięcy ofiarą programu, określanego przez FBI mianem FaceStealer, zginęło ponad 900 ofiar."
+        "Firma Microsoft stara się naprawić globalną awarię, a usługi, w tym Teams, Outlook i oprogramowanie AI Copilot, dotknięte są „problemami z łącznością”.",
+        "Co stało się z dnia na dzień w związku z globalną awarią firmy Microsoft?",
+        "Zamknij Firma Microsoft stara się naprawić globalną awarię, a usługi, w tym Teams, Outlook i oprogramowanie AI Copilot, dotknięte są „problemami z łącznością”."
       ],
       "extended_paragraphs": [
-        "Uważa się, że w ciągu ostatnich 18 miesięcy ofiarą programu FaceStealer padło ponad 900 ofiar.",
-        "Źródło zdjęcia, FBI Podpis pod zdjęciem, FBI zredagowało przykłady filmów 900 ofiar potajemnie nagranych przez północnokoreańskich hakerów",
-        "Władze USA twierdzą, że sponsorowani przez państwo hakerzy z Korei Północnej zabrali kryptowalutę o wartości ponad 400 milionów dolarów, wykorzystując fałszywe rozmowy wideo do kradzieży tożsamości ludzi.",
-        "Według biura w ciągu ostatnich 18 miesięcy ofiarą programu, określanego przez FBI mianem FaceStealer, zginęło ponad 900 ofiar.",
-        "„Reżim północnokoreański opiera się na dochodach z kradzieży kryptowalut na dużą skalę w celu finansowania swojego programu nielegalnej broni, w wyniku czego w ostatnich latach kradnął miliardy dolarów” – mówi dyrektor cybernetyczny FBI Brett Leatherman."
+        "Firma Microsoft stara się naprawić globalną awarię, a usługi, w tym Teams, Outlook i oprogramowanie AI Copilot, dotknięte są „problemami z łącznością”.",
+        "Co stało się z dnia na dzień w związku z globalną awarią firmy Microsoft? Zamknij Firma Microsoft stara się naprawić globalną awarię, a usługi, w tym Teams, Outlook i oprogramowanie AI Copilot, dotknięte są „problemami z łącznością”. Witryna monitorująca informuje, że awaria dotyka użytkowników w 74 krajach. Więc co się dzieje? Claire Keenan z BBC wyjaśnia wszystko, co wiemy do tej pory.",
+        "Udostępnij zamknij panel Udostępnij stronę Skopiuj łącze Informacje o udostępnianiu Tematy pokrewne Microsoft Śledź Microsoft"
       ]
     },
     {
-      "id": "swiat-1-e64f0c",
+      "id": "swiat-2-e64f0c",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1761,7 +1759,7 @@
       "time": "02:01",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
@@ -1778,39 +1776,71 @@
       ]
     },
     {
-      "id": "swiat-3-9e3187",
-      "entity_tag": "Ropa Naftowa",
-      "sector": "Surowce Energetyczne",
+      "id": "swiat-3-ed9680",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Surowce Energetyczne” (Ropa Naftowa) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Rosyjski okręt wojenny trafiony przez ukraiński dron w Zatoce Fińskiej",
-      "original_title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:09",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
+      "title": "Decyzja po kolejnej rundzie negocjacji. Jest zgoda Rosji i Ukrainy",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:27",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/decyzja-po-kolejnej-rundzie-negocjacji-jest-zgoda-rosji-i-ukrainy/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/t4/t4p8u8yy5qxu8hvuj5fe6q2obnu3wnzs.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Uważa się, że jest to pierwszy atak ukraińskich dronów na rosyjski statek na otwartym obszarze Morza Bałtyckiego.",
-        "Źródło zdjęcia, rosyjskie wojsko Tytuł zdjęcia: Uważa się, że po ataku „Naro-Fominsk” wrócił do portu w Sankt Petersburgu Fińskie władze potwierdziły, że w środę w Zatoce Fińskiej zaatakowano rosyjski okręt wojenny, choć niewiele wiadomo na temat tego ataku.",
-        "Ukraińska służba bezpieczeństwa SBU oświadczyła, że ​​za cel obrała statek Naro-Fominsk w ramach szerszej operacji dronów przeciwko rosyjskiemu składowi eksportu ropy Ust-Ługa na wybrzeżu Bałtyku."
+        "Ukraina i Rosja zgodziły się, aby w kolejnej rundzie negocjacji wzięli udział także przedstawiciele Europy - ogłosił Jared Kushner po spotkaniu z Wołodymyrem Zełenskim w Dublinie.",
+        "Specjalny wysłannik Donalda Trumpa poinformował również, że po rozmowie z prezydentem Ukrainy konsultował się między innymi z reprezentantem Polski.",
+        "Wysłannik prezydenta Trumpa zaznaczył, że trwały pokój wymaga \"wiarygodnych gwarancji bezpieczeństwa, mechanizmów zapobiegania incydentom i wzajemnych zobowiązań do deeskalacji, które zmniejszą ryzyko przyszłego konfliktu\"."
       ],
       "extended_paragraphs": [
-        "Uważa się, że jest to pierwszy atak ukraińskich dronów na rosyjski statek na otwartym obszarze Morza Bałtyckiego.",
-        "Źródło zdjęcia, rosyjskie wojsko Tytuł zdjęcia: Uważa się, że po ataku „Naro-Fominsk” wrócił do portu w Sankt Petersburgu",
-        "Fińskie władze potwierdziły, że w środę w Zatoce Fińskiej zaatakowano rosyjski okręt wojenny, choć niewiele wiadomo na temat tego ataku.",
-        "Ukraińska służba bezpieczeństwa SBU oświadczyła, że ​​za cel obrała statek Naro-Fominsk w ramach szerszej operacji dronów przeciwko rosyjskiemu składowi eksportu ropy Ust-Ługa na wybrzeżu Bałtyku.",
-        "Atak, uważany za pierwszy atak ukraińskich dronów na rosyjski statek na obszarze Morza Bałtyckiego otwartym dla cywilnego ruchu morskiego, zrodził pytania, czy Ukraina mogłaby rozszerzyć swoje ataki."
+        "Ukraina i Rosja zgodziły się, aby w kolejnej rundzie negocjacji wzięli udział także przedstawiciele Europy - ogłosił Jared Kushner po spotkaniu z Wołodymyrem Zełenskim w Dublinie. Specjalny wysłannik Donalda Trumpa poinformował również, że po rozmowie z prezydentem Ukrainy konsultował się między innymi z reprezentantem Polski.",
+        "Wysłannik prezydenta Trumpa zaznaczył, że trwały pokój wymaga \"wiarygodnych gwarancji bezpieczeństwa, mechanizmów zapobiegania incydentom i wzajemnych zobowiązań do deeskalacji, które zmniejszą ryzyko przyszłego konfliktu\". Kushner poinformował, że po spotkaniu z Zełenskim na lotnisku w Dublinie odbył konsultacje z doradcami ds. bezpieczeństwa narodowego Ukrainy, Niemiec, Włoch, UE, Francji, Irlandii i Polski . Nie uściślił jaką formę miały konsultacje i kto reprezentował Polskę .",
+        "Amerykański wysłannik poinformował też o pracach nad wymianą jeńców, która byłaby największą w czasie tej wojny i mogłaby \"potencjalnie połączyć z rodzinami tysiące ludzi\". Zapowiedział, że wkrótce zostaną ogłoszone ścieżki negocjacyjne, harmonogram i dalsze szczegóły.",
+        "Zełenski po spotkaniu wymienił trzy rezultaty tygodnia rozmów. Pierwszy to według niego \"rezultat humanitarny\" , czyli uwolnienie jeńców w ramach wymiany, która ma być największa od początku wojny. Drugi to aktywniejsze włączenie przedstawicieli Europy \"aby mogli mieć równe miejsce przy stole negocjacyjnym\". \"Ukraina zawsze broni interesów całej Europy\" - stwierdził. Trzeci rezultat to przygotowania do kolejnych wielostronnych spotkań . W wystąpieniu dla mediów wspomniał, że kolejna runda będzie mieć miejsce w przyszłym tygodniu .",
+        "Spotkanie amerykańskich negocjatorów z Zełenskim w Dublinie zwieńczyło trzy dni negocjacji . Po dwóch dniach rozmów trójstronnych w Abu Zabi, Witkoff i Kushner spotkali się z Władimirem Putinem w Rosji , po czym polecieli bezpośrednio do Dublina na spotkanie z Zełenskim, który brał tam udział w spotkaniu Europejskiej Wspólnoty Politycznej. Trójstronne negocjacje w Abu Zabi poprzedziły rozmowy z przedstawicielami Niemiec, Francji, Włoch, Wielkiej Brytanii, NATO i Komisji Europejskiej."
       ]
     },
     {
-      "id": "swiat-4-2faefc",
+      "id": "swiat-4-d51ebd",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Trump nie wyklucza kolejnej operacji militarnej. \"To w zasadzie upadłe miejsce\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "05:54",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/trump-nie-wyklucza-kolejnej-operacji-militarnej-to-w-zasadzie-upadle-miejsce/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/mx/mxbi3ecae3bxh21veg3oopjn3g4dm2x7.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Donald Trump nie wyklucza operacji wojskowej na Kubie przed odejściem z urzędu - taką wiadomość przekazał podczas jednego z wywiadów.",
+        "- Radzi sobie bardzo słabo.",
+        "To w zasadzie upadłe miejsce, państwo, jakkolwiek chcesz to nazwać - ocenił prezydent USA."
+      ],
+      "extended_paragraphs": [
+        "Donald Trump nie wyklucza operacji wojskowej na Kubie przed odejściem z urzędu - taką wiadomość przekazał podczas jednego z wywiadów. - Radzi sobie bardzo słabo. To w zasadzie upadłe miejsce, państwo, jakkolwiek chcesz to nazwać - ocenił prezydent USA.",
+        "Zapytany podczas wywiadu w Fox News z konserwatywnym komentatorem Hugh Hewittem, czy użyłby w razie konieczności siły, by wyzwolić Kubę, Trump odpowiedział twierdząco.",
+        "- Tak, chcę załatwić sprawę Kuby, zanim odejdę. I mamy bardzo dobrego, utalentowanego człowieka na Kubie o imieniu Marco - powiedział prezydent, odnosząc się do sekretarza stanu Marka Rubia.",
+        "- On bardzo chciałby to zrobić. Więc bardzo uważnie to obserwujemy. Kuba radzi sobie bardzo słabo. To w zasadzie upadłe miejsce, państwo, jakkolwiek chcesz to nazwać. Chciałbym móc to zrobić - powiedział.",
+        "Dopytywany chwilę potem, czy użyłby siły, gdyby przewrót na Kubie wymagał \"tygodniowej kampanii\" wojskowej , Trump ponownie odpowiedział twierdząco, dodając, że \"na pewno by to rozważył\" ."
+      ]
+    },
+    {
+      "id": "swiat-5-2faefc",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1840,75 +1870,11 @@
         "Zebrana na schodach grupa rozmawiała i robiła sobie wspólne zdjęcia. W pewnym momencie z tego miejsca rozległ się głośny śmiech. Niestosowne zachowanie spotkało się z natychmiastową reakcją wartownika, który, nie bacząc, że ma do czynienia z sekretarzem wojny, wykrzyczał: \"Wszyscy odwiedzający mają obowiązek zachowywać ciszę i szacunek przez cały czas\" .",
         "Jak podał CNN, Hegseth przyjął w siedzibie resortu żołnierzy 3. Pułku Piechoty , znanego jako \"The Old Guard\" (\"Stara Gwardia\") i \"z dumą wręczył starszemu szeregowemu Iglesiasowi medal Joint Service Commendation Medal za wzorowe wypełnianie obowiązków przy Grobie Nieznanego Żołnierza w dniu 11 listopada 2026 roku\"."
       ]
-    },
-    {
-      "id": "swiat-5-71b542",
-      "entity_tag": "Microsoft (NASDAQ: MSFT)",
-      "sector": "Chmura & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Chmura & AI” (Microsoft (NASDAQ: MSFT)) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Globalna awaria Microsoftu. Nie działają aplikacje i usługi",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:11",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/globalna-awaria-microsoftu-nie-dzialaja-aplikacje-i-uslugi/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/fn/fny1zvj2y65bczkay1nrbvqdynm32i1c.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Microsoft potwierdził, że awaria usług odnotowana w pierwszej kolejności w regionie Ameryki Północnej rozlała się na cały świat.",
-        "Chociaż podejmujemy działania mające na celu złagodzenie skutków tej sytuacji, potwierdziliśmy, że problem ten może wpływać na łączność z usługami Microsoft 365 u użytkowników we wszystkich regionach - przekazała korporacja.",
-        "\"Chociaż podejmujemy działania mające na celu złagodzenie skutków tej sytuacji, potwierdziliśmy, że problem ten może wpływać na łączność z usługami Microsoft 365 u użytkowników we wszystkich regionach\" - przekazała korporacja."
-      ],
-      "extended_paragraphs": [
-        "Microsoft potwierdził, że awaria usług odnotowana w pierwszej kolejności w regionie Ameryki Północnej rozlała się na cały świat. Chociaż podejmujemy działania mające na celu złagodzenie skutków tej sytuacji, potwierdziliśmy, że problem ten może wpływać na łączność z usługami Microsoft 365 u użytkowników we wszystkich regionach - przekazała korporacja.",
-        "Początkowo problemy z działaniem składników pakietu Microsoft 365 zgłaszali użytkownicy z Ameryki Północnej, następnie także z Ameryki Południowej. W końcu Microsoft potwierdził, że zasięg problemów jest globalny .",
-        "\"Stwierdziliśmy, że część infrastruktury jest obciążona ponad miarę w wielu regionach, co prawdopodobnie przyczynia się do występowania błędów w łączności\" - podał Microsoft.",
-        "ZOBACZ: Szef NVIDII Jensen Huang zrezygnował ze stanowiska. W tle romanse i afera szpiegowska",
-        "\"Aktywnie wykorzystujemy wszystkie dostępne sposoby, aby zminimalizować skutki tej sytuacji. Wstrzymaliśmy wszystkie wdrożenia , przekierowujemy dodatkowy ruch z infrastruktury, której dotyczy awaria, oraz ponownie uruchamiamy serwery, na których wystąpiła awaria, aby przywrócić ich działanie\" - przekazała korporacja."
-      ]
-    },
-    {
-      "id": "swiat-6-f42a68",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Papież zaniepokojony toksyczną męskością. Leon XIV o \"mentalności macho\"",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:46",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/papiez-mowil-o-kulturze-macho/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/2u/2uaob72t6ojbsbi7zci94ih95zcphvt6.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "- Państwo musi dbać o rodzinę, trzeba głośno głosić, że Bóg stworzył człowieka jako mężczyznę i kobietę, należy odrzucić kulturę macho, chronić kobiety i dziewczynki, potrzeba ludzi sprawiedliwych - powiedział Leon XIV podczas pielgrzymki w Peru.",
-        "Jak podaje Vatican News, papież podkreślił ponadto, że zasoby społeczeństwa nie mogą służyć wyłącznie korzyściom nielicznych.",
-        "Jana Ewangelisty w Limie papież Leon XIV mówił, że w centrum życia społecznego musi znajdować się człowiek, stworzony na podobieństwo Boga."
-      ],
-      "extended_paragraphs": [
-        "- Państwo musi dbać o rodzinę, trzeba głośno głosić, że Bóg stworzył człowieka jako mężczyznę i kobietę, należy odrzucić kulturę macho, chronić kobiety i dziewczynki, potrzeba ludzi sprawiedliwych - powiedział Leon XIV podczas pielgrzymki w Peru. Jak podaje Vatican News, papież podkreślił ponadto, że zasoby społeczeństwa nie mogą służyć wyłącznie korzyściom nielicznych.",
-        "Przed katedrą św. Jana Ewangelisty w Limie papież Leon XIV mówił, że w centrum życia społecznego musi znajdować się człowiek, stworzony na podobieństwo Boga. - Na tej podstawie dobro osobiste, rodzinne i społeczne łączą się w jedną rzeczywistość - głosił Leon XIV.",
-        "- Życie ludzkie nie zaczyna się w próżni - rodzi się z miłości mężczyzny i kobiety, którzy oddając się sobie nawzajem, otwierają się na dar nowego życia - mówił.",
-        "Wyraził zaniepokojenie utrzymującą się w społeczeństwie \" mentalnością macho \" i przemocą wobec kobiet.",
-        "Ojciec Święty wskazał, że rodzina \"istnieje wcześniej niż jakiekolwiek prawo pisane\", więc ono powinno ją chronić, a instytucje publiczne powinny ją wspierać, a nie zastępować."
-      ]
     }
   ],
   "sport": [
     {
-      "id": "sport-4-5a51b0",
+      "id": "sport-4-57058c",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1916,291 +1882,288 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Które miejsce Kane zajmuje wśród najlepszych zawodników Anglii wszechczasów?",
-      "original_title": "Where does Kane rank among all-time England greats?",
+      "title": "Surfujący speedster Beardman rzuca okiem na przyszłość Ashes",
+      "original_title": "Surfing speedster Beardman gives a glimpse of Ashes future",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:09",
+      "time": "11:39",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7913/live/d3e15120-df51-11f1-b441-2b33b063138f.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": true,
       "summary_points": [
-        "Harry Kane jest najlepszym strzelcem wszechczasów Anglii i rekordzistą pod względem występów, ale gdzie plasuje się wśród najlepszych zawodników Trzech Lwów?",
-        "Autor: Alex Bysouth Starszy dziennikarz BBC Sport Opublikowano 5 godzin temu Harry Kane jest obecnie najczęściej występującym w reprezentacji Anglii zawodnikiem, a także rekordzistą strzelców swojego kraju, ale trudniej jest określić ilościowo, czy te osiągnięcia plasują go wśród najlepszych zawodników Trzech Lwów w historii.",
-        "To trudna debata, w której występuje tak wiele zmiennych i która obejmuje skalę czasową tak starą jak sama gra i, moim zdaniem, nie tylko określenie indywidualnych zdolności gracza, ale także miarę jego wpływu na psychikę narodu."
+        "Mahli Beardman daje Anglii wgląd w możliwą przyszłość Ashes, dziesiątkując ich liczbę uderzeń w Perth.",
+        "Jak byś świętował po opublikowaniu rekordowych wyników w grze w kręgle podczas debiutu w wieku zaledwie 21 lat?",
+        "Jeśli jesteś Mahli Beardmanem, obecnie najbardziej ekscytującym szybkim melonikiem australijskiego krykieta, to proste: „Spróbuj dostać się na plażę!” W swoim pierwszym jednodniowym meczu międzynarodowym, który był jednocześnie jego pierwszym meczem dla Australii na własnym boisku, Beardman uzyskał wynik 6-24, co stanowi najlepszy wynik Australijczyka w jednodniowym debiucie."
       ],
       "extended_paragraphs": [
-        "Harry Kane jest najlepszym strzelcem wszechczasów Anglii i rekordzistą pod względem występów, ale gdzie plasuje się wśród najlepszych zawodników Trzech Lwów?",
-        "Autor: Alex Bysouth Starszy dziennikarz BBC Sport Opublikowano 5 godzin temu Harry Kane jest obecnie najczęściej występującym w reprezentacji Anglii zawodnikiem, a także rekordzistą strzelców swojego kraju, ale trudniej jest określić ilościowo, czy te osiągnięcia plasują go wśród najlepszych zawodników Trzech Lwów w historii.",
-        "To trudna debata, w której występuje tak wiele zmiennych i która obejmuje skalę czasową tak starą jak sama gra i, moim zdaniem, nie tylko określenie indywidualnych zdolności gracza, ale także miarę jego wpływu na psychikę narodu.",
-        "Zdobywcy Złotej Piłki, Stanley Matthews, Kevin Keegan i Michael Owen, z pewnością wpadliby w szał, gdyby kryteria były takie, nie wspominając o genialnych technikach, takich jak Glenn Hoddle, Chris Waddle i John Barnes.",
-        "Podobnie, gdyby któremukolwiek menadżerowi Anglii udało się wydobyć to, co najlepsze z Paula Scholesa, Stevena Gerrarda i Franka Lamparda, z pewnością wykonałby klasyczny strzał w końcówce ze środka pola."
+        "Mahli Beardman daje Anglii wgląd w możliwą przyszłość Ashes, dziesiątkując ich liczbę uderzeń w Perth.",
+        "Jak byś świętował po opublikowaniu rekordowych wyników w grze w kręgle podczas debiutu w wieku zaledwie 21 lat?",
+        "Jeśli jesteś Mahli Beardmanem, obecnie najbardziej ekscytującym szybkim melonikiem australijskiego krykieta, to proste: „Spróbuj dostać się na plażę!”",
+        "W swoim pierwszym jednodniowym meczu międzynarodowym, który był jednocześnie jego pierwszym meczem dla Australii na własnym boisku, Beardman uzyskał wynik 6-24, co stanowi najlepszy wynik Australijczyka w jednodniowym debiucie.",
+        "W ten sposób kochający surfing pokonał Anglię i odniósł miażdżące zwycięstwo w Perth."
       ]
     },
     {
-      "id": "sport-6-98681e",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
+      "id": "sport-6-a4787d",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako HIGH.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "„Kłamstwo” – Palmer oddany Anglii, mówi Rogers",
-      "original_title": "'A lie' - Palmer committed to England, says Rogers",
+      "title": "Fernandes odrzuca drugą ofertę kontraktu z Man Utd",
+      "original_title": "Fernandes rejects second Man Utd contract offer",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:09",
+      "time": "09:55",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Morgan Rogers twierdzi, że wszelkie sugestie, że Cole Palmer nie jest związany z Anglią, „to kłamstwo” i „nonsens”.",
-        "Rogers strzelił pierwszego gola w środowym zwycięstwie 2:1 Ligi Narodów UEFA nad Chorwacją, a Harry Kane dołożył rzut karny w swoim rekordowym 126.",
-        "występie w męskiej drużynie."
+        "Kapitan Manchesteru United Bruno Fernandes odrzuca ofertę klubu dotyczącą drugiego kontraktu, a jego obecna umowa wygasa z końcem sezonu.",
+        "Kapitan Manchesteru United Bruno Fernandes odrzucił ofertę klubu dotyczącą drugiego kontraktu.",
+        "Kontrakt portugalskiego pomocnika wygasa z końcem sezonu, choć klub ma opcję przedłużenia o 12 miesięcy do 2028 roku."
       ],
       "extended_paragraphs": [
-        "Morgan Rogers twierdzi, że wszelkie sugestie, że Cole Palmer nie jest związany z Anglią, „to kłamstwo” i „nonsens”.",
-        "Rogers strzelił pierwszego gola w środowym zwycięstwie 2:1 Ligi Narodów UEFA nad Chorwacją, a Harry Kane dołożył rzut karny w swoim rekordowym 126. występie w męskiej drużynie.",
-        "Jednak jego kolega z drużyny Chelsea i przyjaciel z dzieciństwa Palmer został wykluczony ze składu po tym, jak menadżer Thomas Tuchel powiedział, że „traci zbyt wiele okazji, by zaimponować”.",
-        "24-letni Palmer, który również nie został powołany na mistrzostwa świata, wycofał się z poprzedniego obozu w Anglii we wrześniu ze względu na drobną kontuzję.",
-        "Napastnik Rogers, również 24-letni, został zapytany o krytykę Palmera po zwycięstwie na Wembley i powiedział BBC Radio 5 Live: „Chce tu być."
+        "Kapitan Manchesteru United Bruno Fernandes odrzuca ofertę klubu dotyczącą drugiego kontraktu, a jego obecna umowa wygasa z końcem sezonu.",
+        "Kapitan Manchesteru United Bruno Fernandes odrzucił ofertę klubu dotyczącą drugiego kontraktu.",
+        "Kontrakt portugalskiego pomocnika wygasa z końcem sezonu, choć klub ma opcję przedłużenia o 12 miesięcy do 2028 roku.",
+        "United chcą uniknąć takiej ewentualności, przedłużając obecną umowę 32-latka i w ostatnich miesiącach prowadzili rozmowy z przedstawicielami Portugalczyka.",
+        "Źródła poinformowały jednak BBC Sport, że Fernandes odrzucił drugą propozycję klubu w sprawie nowego kontraktu na Old Trafford."
       ]
     },
     {
-      "id": "sport-1-ddd6c4",
-      "entity_tag": "Sport Światowy",
+      "id": "sport-8-4c4ede",
+      "entity_tag": "Formuła 1",
+      "sector": "Motorsport",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Co się stało z diamentem, który zaginął w wypadku F1?",
+      "original_title": "Whatever happened to the diamond that went missing in F1 crash?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "06:12",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Co się stało z diamentem, który zaginął po rozbiciu się samochodu Formuły 1, do którego był przymocowany?",
+        "Jeśli byłeś w Monako, uważaj się za podejrzanego – lub przynajmniej świadka – największej nierozwiązanej tajemnicy Formuły 1.",
+        "Ostatni raz widziano diament o wartości 300 000 dolarów przyklejony do przodu samochodu F1, zanim ten rozbił się na pierwszym okrążeniu Grand Prix, a 22 lata później nadal go nie odnaleziono."
+      ],
+      "extended_paragraphs": [
+        "Co się stało z diamentem, który zaginął po rozbiciu się samochodu Formuły 1, do którego był przymocowany?",
+        "Jeśli byłeś w Monako, uważaj się za podejrzanego – lub przynajmniej świadka – największej nierozwiązanej tajemnicy Formuły 1.",
+        "Ostatni raz widziano diament o wartości 300 000 dolarów przyklejony do przodu samochodu F1, zanim ten rozbił się na pierwszym okrążeniu Grand Prix, a 22 lata później nadal go nie odnaleziono.",
+        "Czy ktoś to odebrał? Czy został zamieciony ze wszystkimi gruzami? Czy spadło do kanalizacji? Czy to w ogóle był prawdziwy diament?",
+        "Powód, dla którego 1,4-karatowy diament przymocowano do najdelikatniejszej części samochodu, który podczas wyścigu osiąga prędkość 200 mil na godzinę, był prosty: reklama."
+      ]
+    },
+    {
+      "id": "sport-5-11d220",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
+      "key_metrics": [],
+      "title": "Polowanie na rzuty rożne. Singiel z kursem 2.00 w Lidze Narodów!",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "12:00",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/bukmacherzy/1283977/polowanie-na-rzuty-rozne-singiel-z-kursem-200-w-lidze-narodow",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/68443617acb746_06577846.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Znów zaglądamy do Ligi Narodów i skupiłem się na jednym spotkaniu w Holandii.",
+        "Czy Grecy znów będą w stanie zatrzymać Oranje?",
+        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów Znów zaglądamy do Ligi Narodów i skupiłem się na jednym spotkaniu w Holandii."
+      ],
+      "extended_paragraphs": [
+        "Znów zaglądamy do Ligi Narodów i skupiłem się na jednym spotkaniu w Holandii. Czy Grecy znów będą w stanie zatrzymać Oranje? Zapraszam do lektury!",
+        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów",
+        "Dwie reprezentacje, które zmierzą się ze sobą w Amsterdamie mają tę samą liczbę punktów i walczą o pierwsze miejsce w grupie. Patrząc na kalendarz, to przyjezdni mają łatwiejszego przeciwnika w ostatniej kolejce, wszak u siebie zmierzą się z Serbią, a Holandię czeka wyjazd do Niemiec. Dzisiejsza konfrontacja jest więc bardzo ważna w końcowym rozrachunku.",
+        "Oranje mogą się podobać pod przewodnictwem Xaviego. Przede wszystkim ofensywnie wygląda to bardzo dobrze. Holandia strzeliła w pierwszych 4 spotkaniach 7 goli i to zdecydowanie najlepsza nacja w swojej grupie pod tym względem. Niestety nie idzie to w parze z defensywą i jest co poprawiać.",
+        "Grecja za to rośnie nam jak na drożdżach i jeszcze kilka lat temu nie stawialibyśmy tej reprezentacji jako czarny koń najbliższego turnieju. Nowe pokolenie piłkarzy pozwala myśleć, że nadejdą świetne czasy dla gości. Tacy zawodnicy jak Konstantinos Karetsas, Christos Tzolis, Vangelis Pavlidis, Charalampos Kostoulas, czy też Giannis Konstantelias będą stanowić o sile w najbliższych latach. Ivan Jovanovic stara się wyciągnąć ze swojej drużyny wszystko co najlepsze. Czy doczekamy się niespodzianki ze strony Greków?"
+      ]
+    },
+    {
+      "id": "sport-1-e217bd",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Ostatni trening za Polakami. Wiadomo, co z Zielińskim",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "12:06",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1283987/ostatni-trening-za-polakami-wiadomo-co-z-zielinskim",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af6faf2e99c57_62443950.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Piotr Zieliński będzie do dyspozycji Jana Urbana na mecz z Rumunią - informuje TVP Sport.",
+        "Zieliński, a także Marcel Reguła trenowali w piątek.",
+        "Reprezentacja Polski zakończyła przygotowania w kraju i poleciała do Bukaresztu."
+      ],
+      "extended_paragraphs": [
+        "Piotr Zieliński będzie do dyspozycji Jana Urbana na mecz z Rumunią - informuje TVP Sport. Zieliński, a także Marcel Reguła trenowali w piątek. Reprezentacja Polski zakończyła przygotowania w kraju i poleciała do Bukaresztu.",
+        "1 Komentarz Piotr Zieliński będzie do dyspozycji Jana Urbana na mecz z Rumunią - informuje TVP Sport. Zieliński, a także Marcel Reguła trenowali w piątek. Reprezentacja Polski zakończyła przygotowania w kraju i poleciała do Bukaresztu.",
+        "Reprezentacja Polski ma za sobą ostatni trening przed sobotnim spotkaniem z Rumunią w Lidze Narodów UEFA (godzina 20:45). Biało-Czerwoni przygotowywali się do meczu na obiektach ZWAR-u Międzylesie. Selekcjoner Jan Urban zrezygnował z oficjalnych zajęć na stadionie w Bukareszcie . Po zakończeniu treningu drużyna udała się na lotnisko Chopina, skąd poleciała czarterem do stolicy Rumunii .",
+        "Najważniejszą informacją dla selekcjonera jest powrót do zajęć Piotra Zielińskiego . Pomocnik Interu Mediolan nie trenował jeszcze w czwartek z powodu lekkiego przeziębienia. Podobne problemy miał Marcel Reguła . Obaj zawodnicy wrócili jednak na boisko podczas piątkowych zajęć i są do dyspozycji sztabu szkoleniowego. Poinformował o tym portal TVP Sport.",
+        "Nie wszystkie informacje z obozu Biało-Czerwonych są jednak pozytywne. Z powodu problemów z mięśniem dwugłowym uda zgrupowanie musiał opuścić Przemysław Frankowski . W jego miejsce selekcjoner dodatkowo powołał Arkadiusza Pyrkę z FC St. Pauli . Zawodnik szybko dotarł do drużyny i zdążył uczestniczyć w ostatnim treningu przed wylotem."
+      ]
+    },
+    {
+      "id": "sport-2-e6dbfa",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Jak zainspirowany Fergusonem Pochettino może odnieść sukces tam, gdzie Carrick poniósł porażkę w Man Utd",
+      "original_title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "12:09",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Ponieważ Mauricio Pochettino ma zostać menedżerem Man Utd, analizujemy, czy uda mu się pokonać taktyczne przeszkody, których inni nie potrafią.",
+        "taktyki piłkarskiej Opublikowano 13 listopada 2026 r., 09:16 GMT Zaktualizowano 14 minut temu Kiedy Mauricio Pochettino został zapytany o trzech menedżerów Premier League, dla których chciałby grać, nie miał wątpliwości.",
+        "„Sir Alex Ferguson, Sir Alex Ferguson, Sir Alex Ferguson” – odpowiedział Pochettino, który w piątek został mianowany menadżerem Manchesteru United."
+      ],
+      "extended_paragraphs": [
+        "Ponieważ Mauricio Pochettino ma zostać menedżerem Man Utd, analizujemy, czy uda mu się pokonać taktyczne przeszkody, których inni nie potrafią.",
+        "Korespondent ds. taktyki piłkarskiej Opublikowano 13 listopada 2026 r., 09:16 GMT Zaktualizowano 14 minut temu Kiedy Mauricio Pochettino został zapytany o trzech menedżerów Premier League, dla których chciałby grać, nie miał wątpliwości.",
+        "„Sir Alex Ferguson, Sir Alex Ferguson, Sir Alex Ferguson” – odpowiedział Pochettino, który w piątek został mianowany menadżerem Manchesteru United.",
+        "W 2023 roku Argentyńczyk – wówczas zawodnik Chelsea i ubrany w pełny strój treningowy do bluesa – udzielał wywiadu Sky Sports. Mimo to czuł potrzebę wyrażenia swojego uwielbienia dla Fergusona.",
+        "Sześć lat przed tym wywiadem, zarządzając Tottenhamem, jadł lunch z legendarnym byłym menadżerem United."
+      ]
+    },
+    {
+      "id": "sport-3-9260be",
+      "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "To się porobiło w tabeli! Oto trzecia półfinalistka WTA Finals",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "01:57",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1283920/to-sie-porobilo-w-tabeli-oto-trzecia-polfinalistka-wta-finals",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af66ae1004c79_49311884.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "W czwartek zakończyła się rywalizacja grupie 1 prestiżowego turnieju WTA Finals 2026.",
-        "Awans do półfinału wywalczyły Linda Noskova i Jessica Pegula.",
-        "Z imprezą w Indian Wells pożegnały się Coco Gauff i Marta Kostiuk."
-      ],
-      "extended_paragraphs": [
-        "W czwartek zakończyła się rywalizacja grupie 1 prestiżowego turnieju WTA Finals 2026. Awans do półfinału wywalczyły Linda Noskova i Jessica Pegula. Z imprezą w Indian Wells pożegnały się Coco Gauff i Marta Kostiuk.",
-        "Skomentuj W czwartek zakończyła się rywalizacja grupie 1 prestiżowego turnieju WTA Finals 2026. Awans do półfinału wywalczyły Linda Noskova i Jessica Pegula. Z imprezą w Indian Wells pożegnały się Coco Gauff i Marta Kostiuk.",
-        "Przed ostatnią kolejką w grupie 1 sytuacja była interesująca, co zapowiadało emocje. Najpierw Amerykanka Coco Gauff wygrała z Ukrainką Martą Kostiuk 6:4, 7:5. Następnie Amerykanka Jessica Pegula zwyciężyła Czeszkę Lindę Noskovą 7:6(2), 4:6, 7:5.",
-        "Tym samym po trzech seriach gier trzy tenisistki miały na koncie po dwie wygrane. W takiej sytuacji o kolejności przesądził procent wygranych setów. Awans do półfinału z pierwszej pozycji wywalczyła Noskova. Natomiast na drugim miejscu uplasowała się Pegula.",
-        "Trzecie miejsce w grupie 1 zajęła Gauff. Amerykanka wygrała bezpośredni mecz z Pegulą, ale układ pozostałych wyników sprawił, że to młodsza z reprezentantek USA pożegnała się z Turniejem Mistrzyń. Występ zakończyła także Kostiuk, która w swoim debiucie nie zdobyła nawet seta."
-      ]
-    },
-    {
-      "id": "sport-2-e0c412",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Jak Pochettino znalazł się na radarze Man Utd i co powiedziano Carrickowi, kiedy",
-      "original_title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:12",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b6bd/live/ff1daf40-dead-11f1-8253-3f203a001288.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
+      "title": "20-letnia Polka odpaliła w Pekinie. Jest podium PŚ",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "12:03",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/lyzwiarstwo-szybkie/1283988/20-letnia-polka-odpalila-w-pekinie-jest-podium-ps",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af6fc5b74ba04_09125449.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
-        "Starszy korespondent piłkarski Opublikowano 12 listopada 2026 Michael Carrick musiał wiedzieć, co się wydarzy.",
-        "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United."
+        "Wiktoria Dąbrowska zapowiadała, że po sukcesach wśród juniorek chce na dobre wejść do seniorskiego łyżwiarstwa.",
+        "I już na starcie Pucharu Świata pokazała moc: zajęła w Pekinie trzecie miejsce w wyścigu na 1000 metrów.",
+        "1 Komentarz Wiktoria Dąbrowska zapowiadała, że po sukcesach wśród juniorek chce na dobre wejść do seniorskiego łyżwiarstwa."
       ],
       "extended_paragraphs": [
-        "Jak Man Utd zidentyfikował Mauricio Pochettino jako swojego nowego głównego trenera i co wydarzyło się w tygodniu, w którym Michael Carrick czekał.",
-        "Starszy korespondent piłkarski Opublikowano 12 listopada 2026 Michael Carrick musiał wiedzieć, co się wydarzy.",
-        "Nie tylko dlatego, że szeroko rozpowszechniły się doniesienia o jego rychłym zwolnieniu – po nich pojawiła się informacja o tym, kto zastąpi go na stanowisku menadżera Manchesteru United.",
-        "Ale ponieważ w rzeczywistości on i jego przedstawiciele otrzymali wystarczająco wyraźne wskazówki dotyczące tego, co miało nastąpić.",
-        "Według dobrze poinformowanych źródeł w poniedziałek dyrektor generalny Omar Berrada skontaktował się z agentem Carricka i powiedział mu, że on i dyrektor sportowy Jason Wilcox udają się do Monako na zaplanowane spotkanie ze współwłaścicielem Sir Jimem Ratcliffe’em, które będzie obejmować dyskusję na temat przyszłości głównego trenera."
+        "Wiktoria Dąbrowska zapowiadała, że po sukcesach wśród juniorek chce na dobre wejść do seniorskiego łyżwiarstwa. I już na starcie Pucharu Świata pokazała moc: zajęła w Pekinie trzecie miejsce w wyścigu na 1000 metrów.",
+        "1 Komentarz Wiktoria Dąbrowska zapowiadała, że po sukcesach wśród juniorek chce na dobre wejść do seniorskiego łyżwiarstwa. I już na starcie Pucharu Świata pokazała moc: zajęła w Pekinie trzecie miejsce w wyścigu na 1000 metrów.",
+        "Wiktoria Dąbrowska ma za sobą bardzo mocny okres w rywalizacji juniorskiej. W lutym podczas mistrzostw świata juniorów w Inzell zdobyła brązowy medal na 500 metrów, ustępując jedynie Kristinie Shumekovej i Julii Snelgrove.",
+        "Jeszcze wyraźniejszy sygnał wysłała jesienią podczas mistrzostw Polski w Tomaszowie Mazowieckim. Wygrała zarówno na 500, jak i 1000 metrów, a na dłuższym z tych dystansów uzyskała 1:15,05. Polski związek przed inauguracją PŚ wskazywał ją jako jedną z najbardziej interesujących młodych zawodniczek nowej kadry.",
+        "Dąbrowska nie jest debiutantką w samym Pucharze Świata, bo startowała już w zawodach tego cyklu w Tomaszowie Mazowieckim w 2023 roku. Teraz jednak zaczyna pierwszy sezon, w którym ma regularnie rywalizować z seniorską czołówką. Sama przed wylotem do Pekinu podkreślała, że chce przede wszystkim przyzwyczaić się do poziomu i emocji związanych z PŚ."
       ]
     },
     {
-      "id": "sport-3-1dcb3e",
-      "entity_tag": "Sport Światowy",
+      "id": "sport-7-4d7857",
+      "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Istny thriller. Wyrzuciła Gauff z WTA Finals",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "01:14",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1283919/istny-thriller-wyrzucila-gauff-z-wta-finals",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af663c235efe2_59227442.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Coco Gauff wygrała dwa mecze, ale nie awansowała do półfinału WTA Finals.",
-        "Przesądziło o tym trzysetowe zwycięstwo Jessiki Peguli nad Lindą Noskovą.",
-        "Choć Pegula wcześniej przegrała z rodaczką, zakończyła fazę grupową z lepszym bilansem setów."
-      ],
-      "extended_paragraphs": [
-        "Coco Gauff wygrała dwa mecze, ale nie awansowała do półfinału WTA Finals. Przesądziło o tym trzysetowe zwycięstwo Jessiki Peguli nad Lindą Noskovą. Choć Pegula wcześniej przegrała z rodaczką, zakończyła fazę grupową z lepszym bilansem setów.",
-        "1 Komentarz Coco Gauff wygrała dwa mecze, ale nie awansowała do półfinału WTA Finals. Przesądziło o tym trzysetowe zwycięstwo Jessiki Peguli nad Lindą Noskovą. Choć Pegula wcześniej przegrała z rodaczką, zakończyła fazę grupową z lepszym bilansem setów.",
-        "Rywalizacja w grupie A WTA Finals miała wyjątkowo emocjonujące zakończenie. Coco Gauff pokonała Martę Kostiuk i zakończyła fazę grupową z dwoma zwycięstwami, ale nadal nie mogła być pewna awansu. Wszystko zależało od wyniku spotkania Jessiki Peguli z Lindą Noskovą. Czeszka miała już zapewnione miejsce w półfinale, natomiast Amerykanka musiała wygrać, aby wyprzedzić rodaczkę.",
-        "Pojedynek Peguli z Noskovą trwał blisko trzy godziny i rozstrzygnął się dopiero w trzecim secie. Lepsza okazała się Amerykanka, która obroniła piłkę meczową i zwyciężyła 7:6(2), 4:6, 7:5, dzięki czemu awansowała do półfinału WTA Finals kosztem Gauff.",
-        "Czeszka jako pierwsza stanęła przed szansą na przełamanie, ale rywalka posłała wygrywający bekhend po linii i ostatecznie utrzymała podanie. W czwartym gemie to Pegula wypracowała break pointa i wówczas jej przeciwniczka wpakowała forhend w siatkę (3:1)."
-      ]
-    },
-    {
-      "id": "sport-5-d5dc46",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Nie mieli litości dla Francuzów. \"Trójkolorowi utonęli\"",
+      "title": "Sąd rozstrzygnął spór. Kwota robi wrażenie",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:33",
+      "time": "11:35",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1283917/nie-mieli-litosci-dla-francuzow-trojkolorowi-utoneli",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af63e408b17a6_12103190.jpg",
+      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1283880/sad-rozstrzygnal-spor-kwota-robi-wrazenie",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/678cabe1b6de40_67683545.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Reprezentacja Włoch pokonała przed własną publicznością Francję w ramach Ligi Narodów.",
-        "Francuskie media nie kryją rozgoryczenia po pierwszej porażce w erze Zinedine'a Zidane'a.",
-        "Skomentuj Reprezentacja Włoch pokonała przed własną publicznością Francję w ramach Ligi Narodów."
+        "Johann Andre Forfang ma za sobą ważne zwycięstwo, ale tym razem nie chodzi o rywalizację na skoczni.",
+        "Norweski skoczek wygrał sądowy spór dotyczący remontu domu w Trondheim.",
+        "Skomentuj Johann Andre Forfang ma za sobą ważne zwycięstwo, ale tym razem nie chodzi o rywalizację na skoczni."
       ],
       "extended_paragraphs": [
-        "Reprezentacja Włoch pokonała przed własną publicznością Francję w ramach Ligi Narodów. Francuskie media nie kryją rozgoryczenia po pierwszej porażce w erze Zinedine'a Zidane'a.",
-        "Skomentuj Reprezentacja Włoch pokonała przed własną publicznością Francję w ramach Ligi Narodów. Francuskie media nie kryją rozgoryczenia po pierwszej porażce w erze Zinedine'a Zidane'a.",
-        "Październikowe spotkanie tych drużyn zakończyło się remisem 1:1, co mogło zwiastować emocjonującą walkę również na San Siro. Wynik już w 10. minucie otworzył Michael Olise, który wykorzystał koszmarny błąd Gianluigiego Donnarummy (więcej TUTAJ ). Wpadka bramkarza zadziałała jednak bardzo mobilizująco na reprezentację Włoch .",
-        "Jeszcze przed przerwą wyrównał Francesco Pio Esposito. W drugiej połowie do bramki Trójkolorowych trafili Davide Frattesi i ponownie Esposito, który w 75. minucie wykorzystał rzut karny. Włosi wygrali tym samym przed własną publicznością 3:1, notując bardzo cenne zwycięstwo nad Francją .",
-        "ZOBACZ WIDEO: Nie miał litości dla \"Lewego\". \"Z nim kadra może więcej stracić, niż zyskać\""
-      ]
-    },
-    {
-      "id": "sport-7-2077ee",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Hit nie odbył się. Sztokholm znów pechowy dla wielkiego talentu",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:28",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1283912/hit-nie-odbyl-sie-sztokholm-znow-pechowy-dla-wielkiego-talentu",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af63c397115e5_35455924.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Holger Rune oddał walkowerem mecz z Taylorem Fritzem w ćwierćfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie.",
-        "W 1/2 finału Amerykanin zmierzy się z Lorenzo Musettim.",
-        "Skomentuj Holger Rune oddał walkowerem mecz z Taylorem Fritzem w ćwierćfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie."
-      ],
-      "extended_paragraphs": [
-        "Holger Rune oddał walkowerem mecz z Taylorem Fritzem w ćwierćfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie. W 1/2 finału Amerykanin zmierzy się z Lorenzo Musettim.",
-        "Skomentuj Holger Rune oddał walkowerem mecz z Taylorem Fritzem w ćwierćfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie. W 1/2 finału Amerykanin zmierzy się z Lorenzo Musettim.",
-        "Turniej ATP 250 w Sztokholmie znów okazał się niezwykle pechowy dla Holgera Rune . Podczas poprzedniej edycji tej imprezy utalentowany Duńczyk doznał koszmarnej kontuzji ścięgna Achillesa, po której pauzował przez 11 miesięcy. Z kolei w tegorocznej edycji dotarł do ćwierćfinału, ale na tym etapie znów na przeszkodzie stanęło mu zdrowie.",
-        "W czwartek Rune miał zmierzyć się z najwyżej rozstawionym Taylorem Fritzem . Ten mecz jednak się nie odbył, bo 23-latek z Gentofte oddał mecz walkowerem z powodu kontuzji prawej nogi.",
-        "Kiedy piłkarska reprezentacja Włoch niespodziewanie wygrała z Francją (3:1) w Lidze Narodów, w Sztokholmie zmierzyło się dwóch tenisistów z tych krajów - Lorenzo Musetti i Ugo Humbert . I, podobnie jak po spotkaniu piłkarzy, powody do radości mieli kibice Italii. Oznaczony numerem trzecim Musetti ograł bowiem Humberta, turniejową \"siódemkę\", 7:6(5), 3:6, 6:4."
-      ]
-    },
-    {
-      "id": "sport-8-01fd3b",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 100%) o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [
-        "100%"
-      ],
-      "title": "„Źle” i „bzdury” – twierdzi Cummins o papierze ściernym Khawaja",
-      "original_title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "03:19",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/39bd/live/e5ecf350-deee-11f1-99c8-f59e65cb7a51.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Kapitan Australii Pat Cummins odpowiada na twierdzenia byłego kolegi z drużyny Usmana Khawaji dotyczące skandalu z papierem ściernym, nazywając je „w 100% błędnymi” i „całkowitymi bzdurami”.",
-        "Korespondent krykieta Opublikowano 12 listopada 2026 r. Zaktualizowano 51 minut temu Kapitan Australii Pat Cummins odniósł się do twierdzeń byłego kolegi z drużyny Usmana Khawaji w związku ze skandalem z papierem ściernym, nazywając je „w stu procentach błędnymi” i „całkowitymi bzdurami”.",
-        "W 2018 roku Steve Smith, David Warner i Cameron Bancroft zostali ukarani za spisek mający na celu manipulowanie piłką za pomocą papieru ściernego podczas australijskiego testu przeciwko Republice Południowej Afryki w Cape Town."
-      ],
-      "extended_paragraphs": [
-        "Kapitan Australii Pat Cummins odpowiada na twierdzenia byłego kolegi z drużyny Usmana Khawaji dotyczące skandalu z papierem ściernym, nazywając je „w 100% błędnymi” i „całkowitymi bzdurami”.",
-        "Korespondent krykieta Opublikowano 12 listopada 2026 r. Zaktualizowano 51 minut temu Kapitan Australii Pat Cummins odniósł się do twierdzeń byłego kolegi z drużyny Usmana Khawaji w związku ze skandalem z papierem ściernym, nazywając je „w stu procentach błędnymi” i „całkowitymi bzdurami”.",
-        "W 2018 roku Steve Smith, David Warner i Cameron Bancroft zostali ukarani za spisek mający na celu manipulowanie piłką za pomocą papieru ściernego podczas australijskiego testu przeciwko Republice Południowej Afryki w Cape Town.",
-        "Khawaja opublikował w tym tygodniu swoją autobiografię, a były pałkarz powiedział, że cała australijska drużyna, w tym Cummins, wiedziała o programie dotyczącym papieru ściernego i powinna była wziąć na siebie odpowiedzialność.",
-        "Jednak w niezwykłym, 68-minutowym przemówieniu do mediów w Sydney Cummins odpowiedział: „Kiedy mówi, że wszyscy wiedzieliśmy, jeśli ma przez to na myśli, że wiedzieliśmy, że papier ścierny wychodzi na boisko, jest w 100% w błędzie."
+        "Johann Andre Forfang ma za sobą ważne zwycięstwo, ale tym razem nie chodzi o rywalizację na skoczni. Norweski skoczek wygrał sądowy spór dotyczący remontu domu w Trondheim.",
+        "Skomentuj Johann Andre Forfang ma za sobą ważne zwycięstwo, ale tym razem nie chodzi o rywalizację na skoczni. Norweski skoczek wygrał sądowy spór dotyczący remontu domu w Trondheim.",
+        "Johann Andre Forfang i jego żona Kristin wygrali sprawę przed sądem rejonowym w Troendelag. Spór dotyczył przebudowy ich domu w Trondheim, a jego stawką były znaczne pieniądze. Jak poinformowała norweska telewizja TV 2, sąd przyznał małżeństwu 528 983,50 koron norweskich, czyli około 50 tysięcy euro . To jednak nie jedyna konsekwencja rozstrzygnięcia.",
+        "Konflikt rozpoczął się od roszczeń firmy budowlanej, która domagała się od Forfangów ponad 306 tysięcy koron (około 29 tysięcy euro) za prace, za które - według wykonawcy - nie otrzymała zapłaty.",
+        "ZOBACZ WIDEO: Atak piłkarza na chłopca od podawania piłek. Sędzia wyrzucił go z boiska"
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-cd367c",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
+      "id": "rynki-1-c63868",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 550 mld dolarów, 30%) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [
-        "3,38 mld zł",
-        "2,87 mld zł",
-        "1,69%"
+        "550 mld dolarów",
+        "30%"
       ],
-      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
+      "title": "Upadek szefa Nvidii. Romanse i Chiny zatopiły króla AI, a rynek pyta: co dalej?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:30",
+      "time": "11:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-po-dymisji-Huanga-Co-dalej-z-kursem-i-rynkiem-AI-9228235.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/d/c/be73f565329c72-948-568-827-0-2323-1394.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
-        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
-        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
+        "Nvidia traci swojego architekta.",
+        "W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie.",
+        "Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki."
       ],
       "extended_paragraphs": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
-        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
-        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
-        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
-        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
+        "Nvidia traci swojego architekta. W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie. Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki. Kryzys w Nvidii może nieść poważne konsekwencje dla całej branży AI oraz administracji Donalda Trumpa.",
+        "fot. Lisi Niesner / Reuters / / FORUM W czwartek 12 listopada 2026 r. zarząd Nvidii ogłosił, że Jensen Huang ze skutkiem natychmiastowym zrezygnował ze stanowiska prezesa oraz opuścił radę dyrektorów. Obowiązki szefa giganta tymczasowo przejęła dyrektor finansowa Colette Kress. Decyzja zapadła po nadzwyczajnym posiedzeniu rady.",
+        "Afera zaczęła się od ujawnienia romansu Huanga z Alice Huang - menedżerką singapurskiej firmy Megaspeed - podejrzewaną przez amerykański wywiad o szpiegostwo na rzecz Pekinu. Gdy wydawało się, że prezes przetrwa wizerunkowy kryzys, na jaw wyszły jego kolejne relacje intymne, tym razem z podwładnymi wewnątrz spółki i to one ostatecznie go pogrążyły.",
+        "Odejście Jensena Huanga ze stanowisk prezesa, prezydenta oraz z rady dyrektorów Nvidii, którą założył 33 lata temu, kończy w firmie epokę władzy absolutnej jednego człowieka. Pod jego rządami spółka urosła do monstrualnej wyceny 5,8 bln dolarów w październiku 2026 roku.",
+        "5 ostatnich sesji wystarczyło jednak, żeby kapitalizacja stopniała o 550 mld dolarów, notowania znalazły się 30% poniżej szczytu, a analitycy z Wall Street obniżyli swoje rekomendacje."
       ]
     },
     {
@@ -2236,39 +2199,39 @@
       ]
     },
     {
-      "id": "rynki-3-4a4a64",
-      "entity_tag": "Fed (USA)",
-      "sector": "Banki Centralne",
+      "id": "rynki-3-cd367c",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA) (kluczowe liczby: 145 mld dolarów, 887 mld, 30 proc.).",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "145 mld dolarów",
-        "887 mld",
-        "30 proc."
+        "3,38 mld zł",
+        "2,87 mld zł",
+        "1,69%"
       ],
-      "title": "Jensen Huang na wylocie, a na jego miejsce córka, syn lub nawet zdradzona żona. Kto mógłby przejąć władzę w Nvidii?",
+      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "09:36",
+      "time": "17:30",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/1/18821403f3d186-948-568-5-101-2382-1429.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin.",
-        "Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa.",
-        "Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk."
+        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
+        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
+        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
       ],
       "extended_paragraphs": [
-        "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin. Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa. Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk.",
-        "fot. Lisi Niesner / / Reuters / Forum Jensen Huang stoi na czele Nvidii nieprzerwanie od momentu jej założenia w 1993 roku, budując absolutnego hegemona rynku układów scalonych dla sztucznej inteligencji. Teraz jednak jego pozycja zawisła na włosku. Prezes przyznał się do romansu pozamałżeńskiego , choć nie sprecyzował jakiej kobiety dotyczyło wyznanie.",
-        "Według najnowszych doniesień „The New York Times” , jedną z partnerek była Kimberly Powell , menedżerka wyższego szczebla podlegająca bezpośrednio prezesowi . Choć to w korporacyjnej Ameryce poważna sprawa, znacznie poważniejszy ciężar gatunkowy dla akcjonariuszy ma jednak relacja z Alice Huang , która oficjalnie pełniła funkcję dyrektor generalnej Megaspeed – singapurskiej firmy z branży centrów danych, która na LinkedInie wciąż tytułuje się „głównym partnerem biznesowym Nvidii”.",
-        "To właśnie ją amerykański wywiad oskarża o współpracę z chińskim Ministerstwem Bezpieczeństwa Państwowego . Nawet jeśli rada dyrektorów, której członkowie zawdzięczają Huangowi ogromne majątki, zdecyduje się odsunąć go od sterów, niewykluczone jest utworzenie dla niego stanowiska przewodniczącego rady – funkcji, której obecnie w strukturze Nvidii nie ma.",
-        "Huang może liczyć na ofertę ze strony Elona Muska. Po doniesieniach o spotkaniu zarządu Nvidii w sprawie Huanga popularny na platformie X profil agregujący infomacje ze świata finansów i biznesu @zerohedge dodał wpis o treści: „Elon, proszę, zatrudnij Jensena”. Na co najbogatszy człowiek świata odpisał: „To byłby zaszczyt” ."
+        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
+        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
+        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
+        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
+        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
       ]
     },
     {
@@ -2304,35 +2267,39 @@
       ]
     },
     {
-      "id": "rynki-5-eaaace",
-      "entity_tag": "Złoto (XAU/USD)",
-      "sector": "Surowce Szlachetne",
+      "id": "rynki-5-4a4a64",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Złoto (XAU/USD) (Surowce Szlachetne) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Singapur rozpycha się na złotym podwórku. Poluje na sztaby, którym nie po drodze z Londynem i Nowym Jorkiem",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny Fed (USA) (kluczowe liczby: 145 mld dolarów, 887 mld, 30 proc.).",
+      "key_metrics": [
+        "145 mld dolarów",
+        "887 mld",
+        "30 proc."
+      ],
+      "title": "Jensen Huang na wylocie, a na jego miejsce córka, syn lub nawet zdradzona żona. Kto mógłby przejąć władzę w Nvidii?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "06:00",
+      "time": "09:36",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Singapur-rozpycha-sie-na-zlotym-podworku-Poluje-na-sztaby-ktorym-nie-po-drodze-z-Londynem-i-Nowym-Jorkiem-9226738.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/d/35a7ee82910681-948-568-17-8-3482-2089.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/7/1/18821403f3d186-948-568-5-101-2382-1429.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Azjatyckie Miasto-Lew ma coraz większe złote zakusy.",
-        "Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu.",
-        "To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA."
+        "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin.",
+        "Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa.",
+        "Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk."
       ],
       "extended_paragraphs": [
-        "Azjatyckie Miasto-Lew ma coraz większe złote zakusy. Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu. To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA.",
-        "fot. Edgar Su / Reuters / / FORUM Banki centralne na całym świecie od kilku lat biją rekordy zakupów złota, szukając tarczy przed inflacją, eksplodującym zadłużeniem mocarstw oraz ryzykiem sankcyjnym. Monopol Zachodu na fizyczne zabezpieczanie tych rezerw zaczyna jednak pękać. Monetary Authority of Singapore (MAS), czyli bank centralny i regulator finansowy Singapuru, ogłosił oficjalne otwarcie narodowego skarbca walutowego dla zagranicznych instytucji oficjalnych.",
-        "Projekt zakłada udostępnienie przestrzeni mogącej pomieścić do 500 ton złota, z możliwością dalszej rozbudowy wraz ze wzrostem popytu. Przedstawiciele MAS podkreślają, że zainteresowanie ze strony zagranicznych banków centralnych pojawiło się jeszcze przed oficjalnym startem programu, choć tożsamość tych instytucji pozostaje objęta tajemnicą.",
-        "– Singapur nie stawia sobie za cel zastąpienia innych centrów handlu i przechowywania kruszcu. Wraz z rosnącą rolą złota jako aktywa rezerwowego, banki centralne szukają jednak alternatyw i kolejnych opcji, aby zwiększyć odporność swoich rezerw - zaznaczył Gan Kim Yong, wicepremier Singapuru i przewodniczący MAS. –",
-        "Inicjatywa depozytowa jest częścią szerszego planu Singapuru. Miasto-państwo buduje bowiem kompleksowy ekosystem, w którym obok nowego „złotego portu” stawia na trzy kluczowe filary: potężną infrastrukturę rozliczeniową, nowe instrumenty giełdowe oraz zachęty podatkowe. We współpracy z gigantami pokroju JPMorgana czy Deutsche Banku uruchamia nową platformę rozliczeń pozagiełdowych (OTC), wprowadza kontrakty futures na fizyczne sztaby oraz rozszerza ulgi podatkowe dla kapitału instytucjonalnego."
+        "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin. Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa. Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk.",
+        "fot. Lisi Niesner / / Reuters / Forum Jensen Huang stoi na czele Nvidii nieprzerwanie od momentu jej założenia w 1993 roku, budując absolutnego hegemona rynku układów scalonych dla sztucznej inteligencji. Teraz jednak jego pozycja zawisła na włosku. Prezes przyznał się do romansu pozamałżeńskiego , choć nie sprecyzował jakiej kobiety dotyczyło wyznanie.",
+        "Według najnowszych doniesień „The New York Times” , jedną z partnerek była Kimberly Powell , menedżerka wyższego szczebla podlegająca bezpośrednio prezesowi . Choć to w korporacyjnej Ameryce poważna sprawa, znacznie poważniejszy ciężar gatunkowy dla akcjonariuszy ma jednak relacja z Alice Huang , która oficjalnie pełniła funkcję dyrektor generalnej Megaspeed – singapurskiej firmy z branży centrów danych, która na LinkedInie wciąż tytułuje się „głównym partnerem biznesowym Nvidii”.",
+        "To właśnie ją amerykański wywiad oskarża o współpracę z chińskim Ministerstwem Bezpieczeństwa Państwowego . Nawet jeśli rada dyrektorów, której członkowie zawdzięczają Huangowi ogromne majątki, zdecyduje się odsunąć go od sterów, niewykluczone jest utworzenie dla niego stanowiska przewodniczącego rady – funkcji, której obecnie w strukturze Nvidii nie ma.",
+        "Huang może liczyć na ofertę ze strony Elona Muska. Po doniesieniach o spotkaniu zarządu Nvidii w sprawie Huanga popularny na platformie X profil agregujący infomacje ze świata finansów i biznesu @zerohedge dodał wpis o treści: „Elon, proszę, zatrudnij Jensena”. Na co najbogatszy człowiek świata odpisał: „To byłby zaszczyt” ."
       ]
     },
     {
@@ -2371,37 +2338,35 @@
       ]
     },
     {
-      "id": "rynki-7-349aa3",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 13 proc., 7,94 proc.) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [
-        "13 proc.",
-        "7,94 proc."
-      ],
-      "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
+      "id": "rynki-7-eaaace",
+      "entity_tag": "Złoto (XAU/USD)",
+      "sector": "Surowce Szlachetne",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Złoto (XAU/USD) (Surowce Szlachetne) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Singapur rozpycha się na złotym podwórku. Poluje na sztaby, którym nie po drodze z Londynem i Nowym Jorkiem",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "23:26",
+      "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/0/f/c054fce945dcfc-thumb-1000.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Singapur-rozpycha-sie-na-zlotym-podworku-Poluje-na-sztaby-ktorym-nie-po-drodze-z-Londynem-i-Nowym-Jorkiem-9226738.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/7/d/35a7ee82910681-948-568-17-8-3482-2089.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
-        "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.",
-        "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji."
+        "Azjatyckie Miasto-Lew ma coraz większe złote zakusy.",
+        "Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu.",
+        "To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA."
       ],
       "extended_paragraphs": [
-        "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.",
-        "Projekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.",
-        "Upoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji.",
-        "Akcje nabyte przez spółkę w ramach programu nabywania akcji własnych mają być przeznaczone do umorzenia. (PAP Biznes)"
+        "Azjatyckie Miasto-Lew ma coraz większe złote zakusy. Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu. To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA.",
+        "fot. Edgar Su / Reuters / / FORUM Banki centralne na całym świecie od kilku lat biją rekordy zakupów złota, szukając tarczy przed inflacją, eksplodującym zadłużeniem mocarstw oraz ryzykiem sankcyjnym. Monopol Zachodu na fizyczne zabezpieczanie tych rezerw zaczyna jednak pękać. Monetary Authority of Singapore (MAS), czyli bank centralny i regulator finansowy Singapuru, ogłosił oficjalne otwarcie narodowego skarbca walutowego dla zagranicznych instytucji oficjalnych.",
+        "Projekt zakłada udostępnienie przestrzeni mogącej pomieścić do 500 ton złota, z możliwością dalszej rozbudowy wraz ze wzrostem popytu. Przedstawiciele MAS podkreślają, że zainteresowanie ze strony zagranicznych banków centralnych pojawiło się jeszcze przed oficjalnym startem programu, choć tożsamość tych instytucji pozostaje objęta tajemnicą.",
+        "– Singapur nie stawia sobie za cel zastąpienia innych centrów handlu i przechowywania kruszcu. Wraz z rosnącą rolą złota jako aktywa rezerwowego, banki centralne szukają jednak alternatyw i kolejnych opcji, aby zwiększyć odporność swoich rezerw - zaznaczył Gan Kim Yong, wicepremier Singapuru i przewodniczący MAS. –",
+        "Inicjatywa depozytowa jest częścią szerszego planu Singapuru. Miasto-państwo buduje bowiem kompleksowy ekosystem, w którym obok nowego „złotego portu” stawia na trzy kluczowe filary: potężną infrastrukturę rozliczeniową, nowe instrumenty giełdowe oraz zachęty podatkowe. We współpracy z gigantami pokroju JPMorgana czy Deutsche Banku uruchamia nową platformę rozliczeń pozagiełdowych (OTC), wprowadza kontrakty futures na fizyczne sztaby oraz rozszerza ulgi podatkowe dla kapitału instytucjonalnego."
       ]
     },
     {

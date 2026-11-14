@@ -3,10 +3,10 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.318",
-    "last_updated": "2026-11-14 00:33",
+    "last_updated": "2026-11-14 07:10",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
-    "foreign_translated_count": 18,
+    "foreign_translated_count": 19,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$68,234",
-      "change": "-4.10%",
+      "price": "$67,369",
+      "change": "-2.57%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,931",
-      "change": "-3.98%",
+      "price": "$1,904",
+      "change": "-2.04%",
       "is_positive": false
     },
     {
@@ -1081,42 +1081,6 @@
       ]
     },
     {
-      "id": "rynki-7-cd367c",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,38 mld zł",
-        "2,87 mld zł",
-        "1,69%"
-      ],
-      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:30",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
-        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
-        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
-      ],
-      "extended_paragraphs": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
-        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
-        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
-        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
-        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
-      ]
-    },
-    {
       "id": "rynki-2-50a2e0",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
@@ -1148,6 +1112,38 @@
         "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z dnia 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
         "Jednak firma, wcześniej prowadzona przez Sekretarza Handlu Howarda Lutnicka, a obecnie kierowana przez jego synów, Brandona i Kyle’a, odnotowała prawie 50% spadek liczby akcji Nvidii posiadanych w okresie od września 2025 r. do marca 2026 r., wynika z analizy CNBC dokumentów dotyczących papierów wartościowych, z wyłączeniem opcji. Nvidia była jedną z największych pozycji na akcjach zgłoszonych w dokumentach Cantora.",
         "Spadek zbiegł się w czasie z naciskami Białego Domu i wywiadu USA na Lutnicka, aby rozprawił się z Megaspeed, singapurską firmą podejrzaną o wysyłanie zaawansowanych chipów sztucznej inteligencji Nvidii do Chin. Jak poinformowała 11 listopada Axios, Lutnick wielokrotnie stawiał opór tym wysiłkom."
+      ]
+    },
+    {
+      "id": "rynki-7-72c231",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [],
+      "title": "Nvidia bez steru, Anthropic z potężną stratą i wyceną w kosmos. Wall Street ostrzega przed \"drenażem mózgów\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-bez-steru-Anthropic-z-potezna-strata-i-wycena-w-kosmos-Wall-Street-ostrzega-przed-drenazem-mozgow-9228586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/0/9/5ca8bfcbc825c6-948-568-262-358-2966-1779.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Fala wyprzedaży wstrząsnęła akcjami Nvidii po niespodziewanej rezygnacji J.",
+        "Huanga w związku ze skandalem obyczajowym.",
+        "Odejście dotychczasowego lidera podzieliło Wall Street – część rynku ostro rewiduje wycenę giganta, podczas gdy inni szukają okazji na tańsze wejście w sektor AI."
+      ],
+      "extended_paragraphs": [
+        "Fala wyprzedaży wstrząsnęła akcjami Nvidii po niespodziewanej rezygnacji J. Huanga w związku ze skandalem obyczajowym. Odejście dotychczasowego lidera podzieliło Wall Street – część rynku ostro rewiduje wycenę giganta, podczas gdy inni szukają okazji na tańsze wejście w sektor AI. Równolegle uwaga analityków przenosi się na nadchodzące debiuty w branży sztucznej inteligencji.",
+        "fot. Lev Radin / / Zuma Press / Forum Pierwszą falę obniżek zapoczątkował bank inwestycyjny Oppenheimer, który zmienił rekomendację z „outperform” na „market perform” i całkowicie wycofał swoją docelową cenę akcji Nvidii. Instytucja ostrzegła przed możliwym zjawiskiem „drenażu mózgów”, z którego prawdopodobnie skorzystają najwięksi rynkowi rywale: AMD, Marvell Technologies i Broadcom.",
+        "Odejście charyzmatycznego lidera to wydarzenie o charakterze przełomowym - określa analityk Ricka Schafera .",
+        "Równie ostre cięcie zastosowała grupa Bernstein, która zrewidowała cenę docelową o połowę, z 400 USD na 200 USD, a także obniżyła rating. Mimo że po pierwszej reakcji inwestorów akcje odbiły do poziomu 170 USD, analitycy z Bernstein twierdzą, że nie dostrzegają już w Nvidii dużego potencjału wzrostu.",
+        "Stacy Rasgon otwarcie przyznał, że rynek prawdopodobnie nie poznał jeszcze pełnego obrazu sytuacji, dlatego firma zdecydowała się stanąć z boku i obrać pozycję wyczekującą."
       ]
     },
     {
@@ -1185,69 +1181,70 @@
   ],
   "makro": [
     {
-      "id": "makro-1-a9deeb",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-1-4e4c07",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Wszystkie starty samolotów w Stanach Zjednoczonych wstrzymane. Awaria systemu łączności",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe (kluczowe liczby: 14 proc., 4 proc.).",
+      "key_metrics": [
+        "14 proc.",
+        "4 proc."
+      ],
+      "title": "Jak Jensen Huang stracił stanowisko przez rywalizację supermocarstw",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "01:29",
+      "time": "08:02",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://turystyka.rp.pl/lotniska/art45487881-wszystkie-starty-samolotow-w-stanach-zjednoczonych-wstrzymane-awaria-systemu-lacznosci",
-      "image_url": "https://i.gremicdn.pl/image/free/fb38d8b3d73a79e42e7c1a93fb80ce80/",
+      "source_url": "https://cyfrowa.rp.pl/globalne-interesy/art45484551-jak-jensen-huang-stracil-stanowisko-przez-rywalizacje-supermocarstw",
+      "image_url": "https://i.gremicdn.pl/image/free/6fe80470f65726cdb6589cae12cd4fbe/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": true,
       "summary_points": [
-        "Federalna Administracja Lotnictwa (FAA) wstrzymała w piątek starty samolotów na lotniskach w całym kraju z powodu problemów technicznych systemów kontroli lotu - poinformował minister transportu Sean Duffy.",
-        "To trzecia taka decyzja w historii.",
-        "Jak napisał Duffy na platformie X, FAA wydała nakaz wstrzymania lotów „w związku z problemem komunikacyjnym, który dotknął wszystkie Centra Kontroli Ruchu Lotniczego”."
+        "Upadek prezesa Nvidii może przynieść Stanom Zjednoczonym większe szkody niż jego pozamałżeński romans z chińską bizneswoman podejrzewaną o łamanie sankcji.",
+        "Poważne problemy może mieć też administracja Trumpa oskarżana o tolerowanie powiązań Huanga.",
+        "Chiny mówią o oszczerstwach."
       ],
       "extended_paragraphs": [
-        "Federalna Administracja Lotnictwa (FAA) wstrzymała w piątek starty samolotów na lotniskach w całym kraju z powodu problemów technicznych systemów kontroli lotu - poinformował minister transportu Sean Duffy. To trzecia taka decyzja w historii.",
-        "Jak napisał Duffy na platformie X, FAA wydała nakaz wstrzymania lotów „w związku z problemem komunikacyjnym, który dotknął wszystkie Centra Kontroli Ruchu Lotniczego”. Dodał, że „technicy FAA badają tę sprawę”.",
-        "Szef Ministerstwa Bezpieczeństwa Krajowego (DHS) Markwayne Mullin określił problem jako „awarię telekomunikacyjną” i zapewnił, że nie ma powodu do lęków, a nikomu nie grozi niebezpieczeństwo. Podczas rozmowy z dziennikarzami oznajmił, że nie ma żadnych informacji wskazujących, że przyczyną był cyberatak ani żadne „złowrogie działania”. Jednocześnie przyznał, że na obecnym etapie nie może niczego wykluczyć.",
-        "Dodał też, że nie ma powodów, by łączyć awarię z wdrożeniem opartego na sztuczną inteligencję nowego narzędzia do kontroli lotów, SMART, ani z awarią usług Microsoftu.",
-        "Mullin powiedział, że awaria łączności nie jest całkowita, a poszczególne elementy systemu kontroli lotu są w stanie się komunikować „na pewnym poziomie”."
+        "Upadek prezesa Nvidii może przynieść Stanom Zjednoczonym większe szkody niż jego pozamałżeński romans z chińską bizneswoman podejrzewaną o łamanie sankcji. Poważne problemy może mieć też administracja Trumpa oskarżana o tolerowanie powiązań Huanga.",
+        "Prezydent mu wierzy. Chiny mówią o oszczerstwach. Komisja Izby Reprezentantów chce wyjaśnień",
+        "Rezygnacja Jensena Huanga z kierowania Nvidią to koniec pewnej ery. Na wieść o niej, akcje Nvidii traciły w czwartek nawet 14 proc., by zamknąć się 4 proc. na minusie. Huanga najpierw obciążała sprawa zbyt bliskich relacji z Alice Huang, bizneswoman z Singapuru podejrzewaną o bycie agentką chińskich tajnych służb. Potem wyszedł na jaw jego pozamałżeński romans z Kimberly Powell, wiceszefową działu Nvidii odpowiedzialnego za produkty ochrony zdrowia, a później też związek z kolejną podwładną. Znalezienie godnego następcy dla Huanga będzie zadaniem tytanicznym. Colette Kress, dyrektor finansowa Nvidii, która została tymczasową prezes, była porównywana przez Huanga do jelenia zdezorientowanego światłami samochodu...",
+        "Jensen Huang i jego kochanka zostali po raz pierwszy sfotografowani razem w czerwcu 2024 r. w Tajpej, na afterparty po konferencji technologicznej. Kolejne ich wspólne zdjęcie powstało w maju 2025 r., również w Tajpej, na prywatnej kolacji po innej konferencji. Najprawdopodobniej poznał ich ze sobą Kang Wei, chiński finansista będący mężem Alice Huang. Później chwalił się tym, że jego żona jest bardzo blisko prezesa Nvidii.",
+        "W październiku 2025 r. „The New York Times” donosił natomiast, że amerykańscy śledczy przyglądają się firmie Megaspeed oraz relacjom pomiędzy Jensenem Huangiem oraz Alice Huang. „NYT” niedawno napisał również o tym, że wiosną 2026 r. Marco Rubio, sekretarz stanu USA, napisał tajny dokument, w którym ostrzegał amerykańskich oficjeli, że prezes Nvidii utrzymuje bliskie relacje z chińską agentką. To miał być powód tego, że początkowo pominięto Huanga na liście prezesów koncernów towarzyszących prezydentowi Trumpowi podczas wizyty w Pekinie."
       ]
     },
     {
-      "id": "makro-3-291014",
+      "id": "makro-3-2dded0",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 30 tys.) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "30 tys."
-      ],
-      "title": "USA wstrzymują wszystkie starty samolotów. FAA wydała nadzwyczajny nakaz",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Republika Sotoa kontra Federacja Centra Usea. Kolejna odsłona podniebnej ofensywy",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:10",
+      "time": "07:23",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/transport/art45487771-usa-wstrzymuja-wszystkie-starty-samolotow-faa-wydala-nadzwyczajny-nakaz",
-      "image_url": "https://i.gremicdn.pl/image/free/3acc33cc00612afcb8fab37dbca1ef7d/",
+      "source_url": "https://www.rp.pl/plus-minus/art45484791-republika-sotoa-kontra-federacja-centra-usea-kolejna-odslona-podniebnej-ofensywy",
+      "image_url": "https://i.gremicdn.pl/image/free/6dc79df9c0a31bf1efbe4f0eaae2408c/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Nadzwyczajna sytuacja na amerykańskich lotniskach.",
-        "FAA wstrzymała starty samolotów w całych Stanach Zjednoczonych z powodu rozległej awarii łączności.",
-        "Do końca dnia zaplanowano jeszcze ponad 30 tys. startów i lądowań."
+        "Kto żyw, broni stolicy przed myśliwcami wroga!",
+        "Miłośnicy zręcznościowych symulatorów lotniczych musieli aż siedem lat czekać na nową odsłonę serii „Ace Combat”.",
+        "Teraz jednak mają powody do zadowolenia – powstała ciekawa, dopracowana produkcja, która nie tylko wygląda efektownie, ale też gwarantuje wiele emocji."
       ],
       "extended_paragraphs": [
-        "Nadzwyczajna sytuacja na amerykańskich lotniskach. FAA wstrzymała starty samolotów w całych Stanach Zjednoczonych z powodu rozległej awarii łączności. Do końca dnia zaplanowano jeszcze ponad 30 tys. startów i lądowań. Nie wiadomo, kiedy ruch lotniczy wróci do normy.",
-        "Federalna Administracja Lotnictwa USA (FAA) wydała nakaz wstrzymania startów samolotów na wszystkich lotniskach w Stanach Zjednoczonych. Oznacza to, że żadne samoloty nie mogą obecnie wystartować w kierunku amerykańskich lotnisk. Przyczyną ograniczeń jest awaria urządzeń FAA – informuje CNN.",
-        "Sekretarz bezpieczeństwa krajowego USA Markwayne Mullin oświadczył, że czwartkowa, rozległa awaria usług Microsoftu na całym świecie nie ma związku z problemami z łącznością, które w piątek doprowadziły do wstrzymania startów samolotów w całych Stanach Zjednoczonych. – Nie widzę absolutnie żadnego powodu, by łączyć te dwa zdarzenia – powiedział Mullin dziennikarzom w Białym Domu w piątek po południu. – To dwie odrębne sprawy – podkreślił.",
-        "FAA nakazała wstrzymanie startów samolotów „w związku z problemami z łącznością, które dotknęły wszystkie regionalne centra kontroli ruchu lotniczego” – poinformował sekretarz transportu USA Sean Duffy we wpisie w mediach społecznościowych. – Technicy FAA badają przyczyny awarii – dodał.",
-        "Regionalne centra kontroli ruchu lotniczego (Air Route Traffic Control Centers) odpowiadają za nadzorowanie lotów odbywających się na dużych obszarach przestrzeni powietrznej Stanów Zjednoczonych."
+        "Kto żyw, broni stolicy przed myśliwcami wroga!",
+        "Miłośnicy zręcznościowych symulatorów lotniczych musieli aż siedem lat czekać na nową odsłonę serii „Ace Combat”. Teraz jednak mają powody do zadowolenia – powstała ciekawa, dopracowana produkcja, która nie tylko wygląda efektownie, ale też gwarantuje wiele emocji.",
+        "Akcja gry toczy się w znanej już graczom alternatywnej rzeczywistości o nazwie Strangereal. Republika Sotoa atakuje Federację Central Usea (FCU), a jej wojska rozbijają przeciwnika w pył i zajmują stolicę Theve. Kiedy ginie jeden z najbardziej znanych pilotów, gracz decyduje się przejąć jego tożsamość i swoimi podniebnymi zwycięstwami nieść nadzieję rodakom.",
+        "Sprowadza się to do wykonywania kolejnych misji lotniczych. W ich trakcie główny bohater toczy pojedynki z innymi myśliwcami, niszczy cele naziemne i atakuje jednostki morskie. Do dyspozycji ma wiele różnych maszyn inspirowanych prawdziwymi konstrukcjami. Akcja toczy się szybko, samoloty łatwo się kontroluje, a wymiany ognia podnoszą poziom adrenaliny we krwi. Inny poziom – trudności – został idealnie dobrany i zadania stanowią wyzwanie, lecz nie wywołują frustracji.",
+        "VAT Waluta w grze komputerowej to tylko element jej fabuły. Trzeba zapłacić podatek Obrót wirtualnymi walutami używanymi jedynie w grach komputerowych podlega VAT. Waluty te bowiem nie są środkiem płatniczym, nawet alternatywnym, z..."
       ]
     },
     {
@@ -1283,6 +1280,38 @@
       ]
     },
     {
+      "id": "makro-7-45b444",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Loty samolotów w USA. FAA odwołała zakaz startu, koniec przerwy",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:10",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/transport/art45487771-loty-samolotow-w-usa-faa-odwolala-zakaz-startu-koniec-przerwy",
+      "image_url": "https://i.gremicdn.pl/image/free/3acc33cc00612afcb8fab37dbca1ef7d/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Nadzwyczajna sytuacja trwała na amerykańskich lotniskach: FAA wstrzymała starty samolotów w całych Stanach Zjednoczonych z powodu rozległej awarii łączności.",
+        "Z nowego komunikatu wynika, że zakaz startowania samolotów został już odwołany.",
+        "Federalna Administracja Lotnictwa USA (FAA) wydała nakaz wstrzymania startów samolotów na wszystkich lotniskach w Stanach Zjednoczonych."
+      ],
+      "extended_paragraphs": [
+        "Nadzwyczajna sytuacja trwała na amerykańskich lotniskach: FAA wstrzymała starty samolotów w całych Stanach Zjednoczonych z powodu rozległej awarii łączności. Z nowego komunikatu wynika, że zakaz startowania samolotów został już odwołany.",
+        "Federalna Administracja Lotnictwa USA (FAA) wydała nakaz wstrzymania startów samolotów na wszystkich lotniskach w Stanach Zjednoczonych. Oznaczało to, że żadne samoloty nie mogły wystartować w kierunku amerykańskich lotnisk. Przyczyną ograniczeń była awaria urządzeń FAA – informuje CNN.",
+        "O godz. 2.16 czasu środkowoeuropejskiego FAA opublikowała komunikat, w którym odwołała zakaz startów i przywróciła ruch na lotniskach.",
+        "Sekretarz bezpieczeństwa krajowego USA Markwayne Mullin oświadczył, że czwartkowa, rozległa awaria usług Microsoftu na całym świecie nie ma związku z problemami z łącznością, które w piątek doprowadziły do wstrzymania startów samolotów w całych Stanach Zjednoczonych. – Nie widzę absolutnie żadnego powodu, by łączyć te dwa zdarzenia – powiedział Mullin dziennikarzom w Białym Domu w piątek po południu. – To dwie odrębne sprawy – podkreślił.",
+        "FAA nakazała wstrzymanie startów samolotów „w związku z problemami z łącznością, które dotknęły wszystkie regionalne centra kontroli ruchu lotniczego” – poinformował sekretarz transportu USA Sean Duffy we wpisie w mediach społecznościowych. – Technicy FAA badają przyczyny awarii – dodał."
+      ]
+    },
+    {
       "id": "makro-8-ac900e",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
@@ -1311,11 +1340,11 @@
         "Sekretarz skarbu USA Scott Bessent obwinia Departament Handlu Howarda Lutnicka za brak odpowiedniego nadzorowania eksportu zaawansowanych chipów AI, w miarę jak skutki skandalu związanego z Nvidią rozszerzają się na gabinet prezydenta Donalda Trumpa.",
         "Na Lutnicka ze strony całego spektrum politycznego wywierana jest presja, aby wyjaśnił działania swojego departamentu.",
         "Jensen Huang został usunięty ze stanowiska dyrektora generalnego Nvidii po ujawnieniu informacji, że miał romans z bizneswoman, która była rzekomo chińskim szpiegiem.",
-        "Z raportów wynika, że ​​Megaspeed, dla której pracowała, była badana przez agencje rządowe USA w związku z podejrzeniami, że przemyca chipy Nvidia do Chin, ale nie ma jej na liście firm, z którymi amerykańskie firmy nie mogą współpracować."
+        "Z raportów wynika, że ​​Megaspeed, dla której pracowała, była badana przez agencje rządowe USA w związku z podejrzeniami, że przemyca chipy Nvidia do Chin, ale nie znalazła się na liście firm, z którymi amerykańskie firmy nie mogą współpracować."
       ]
     },
     {
-      "id": "makro-2-930cc1",
+      "id": "makro-2-ea5818",
       "entity_tag": "Microsoft (NASDAQ: MSFT)",
       "sector": "Chmura & AI",
       "market_impact": "LOW",
@@ -1325,27 +1354,27 @@
       "key_metrics": [
         "430 milionów"
       ],
-      "title": "Firma Microsoft „głęboko przeprasza” za globalną awarię po prawie 24 godzinach zakłóceń",
-      "original_title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Microsoft twierdzi, że usługi zostały w pełni przywrócone po całodniowej globalnej przerwie",
+      "original_title": "Microsoft says services fully restored after for day-long global outage",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:14",
+      "time": "06:42",
       "source": "BBC Business",
       "source_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Eksperci twierdzą, że wydarzenie to „wyraźnie przypomina” o tym, jak bardzo świat jest zależny od małej grupy dużych dostawców technologii.",
-        "Microsoft oświadczył, że „bardzo mu przykro” z powodu przerwy w świadczeniu usług dla swoich produktów, w tym Outlooka i Teams, która spowodowała zakłócenia na całym świecie.",
-        "Usługi powróciły do ​​normalnego funkcjonowania w piątkowe popołudnie, prawie 24 godziny po rozpoczęciu problemów."
+        "Firma technologiczna twierdzi, że wysiłki mające na celu rozwiązanie podstawowego problemu z programami Outlook, Teams i Copilot zostały zakończone.",
+        "Microsoft oświadczył, że świadczone przez niego usługi zostały w pełni przywrócone po ogólnoświatowej awarii kilku narzędzi, powodując zakłócenia.",
+        "W sobotę rano firma technologiczna poinformowała, że ​​zakończono wysiłki mające na celu rozwiązanie podstawowego problemu i nie powinno to już mieć wpływu na klientów korzystających z programów Outlook, Teams i Copilot."
       ],
       "extended_paragraphs": [
-        "Eksperci twierdzą, że wydarzenie to „wyraźnie przypomina” o tym, jak bardzo świat jest zależny od małej grupy dużych dostawców technologii.",
-        "Microsoft oświadczył, że „bardzo mu przykro” z powodu przerwy w świadczeniu usług dla swoich produktów, w tym Outlooka i Teams, która spowodowała zakłócenia na całym świecie.",
-        "Usługi powróciły do ​​normalnego funkcjonowania w piątkowe popołudnie, prawie 24 godziny po rozpoczęciu problemów. Microsoft stwierdził, że czyni „zachęcające postępy”, ale dodał, że nie wie, kiedy usługi zostaną w pełni przywrócone.",
+        "Firma technologiczna twierdzi, że wysiłki mające na celu rozwiązanie podstawowego problemu z programami Outlook, Teams i Copilot zostały zakończone.",
+        "Microsoft oświadczył, że świadczone przez niego usługi zostały w pełni przywrócone po ogólnoświatowej awarii kilku narzędzi, powodując zakłócenia.",
+        "W sobotę rano firma technologiczna poinformowała, że ​​zakończono wysiłki mające na celu rozwiązanie podstawowego problemu i nie powinno to już mieć wpływu na klientów korzystających z programów Outlook, Teams i Copilot.",
         "Awaria dotknęła ponad 70 krajów, zakłócając wszystko, od działalności biznesowej po usługi rządowe i użytkowników osobistych. Ponad 430 milionów ludzi na całym świecie korzysta z dotkniętych produktów.",
-        "Microsoft stwierdził, że jest to problem techniczny wprowadzony podczas „zwiększania przepustowości sieci” i niezwiązany z agentami cybernetycznymi ani sztuczną inteligencją."
+        "Microsoft przeprosił za problem techniczny, który, jak stwierdził, pojawił się podczas „zwiększania przepustowości sieci” i nie był spowodowany cyberatakiem ani agentem sztucznej inteligencji."
       ]
     },
     {
@@ -1357,7 +1386,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Chmura & AI” (Microsoft (NASDAQ: MSFT)) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Dlaczego przerwa w działaniu Microsoftu trwa tak długo i czy e-maile zostaną utracone?",
+      "title": "Dlaczego przestój Microsoftu trwa tak długo i czy e-maile zostaną utracone?",
       "original_title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "is_foreign": true,
       "lang": "EN",
@@ -1381,67 +1410,35 @@
       ]
     },
     {
-      "id": "makro-5-6f4858",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
+      "id": "makro-5-643644",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Sport Międzynarodowy” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
       "key_metrics": [],
-      "title": "Liga Narodów. Grecka tragedia w Amsterdamie, Portugalia odda hołd Cristiano Ronaldo",
+      "title": "„Fascynacja skrajnie prawicowymi ideologiami”. Sondaż: Polacy źle oceniają słowa Marcina Kierwińskiego",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "00:11",
+      "time": "07:13",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://sport.rp.pl/pilka-nozna/art45487841-liga-narodow-grecka-tragedia-w-amsterdamie-portugalia-odda-hold-cristiano-ronaldo",
-      "image_url": "https://i.gremicdn.pl/image/free/fa4d8154031b292c6581c2af3d818acb/",
+      "source_url": "https://www.rp.pl/spoleczenstwo/art45487891-fascynacja-skrajnie-prawicowymi-ideologiami-sondaz-polacy-zle-oceniaja-slowa-marcina-kierwinskiego",
+      "image_url": "https://i.gremicdn.pl/image/free/b2766fffb0c201d75e8526a71b27cccd/marcin-kierwinski-w-czasie-konferencji-w-krakowie-z-7-listopada",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Grecy ponieśli pierwszą porażkę w Lidze Narodów.",
-        "Przegrali w Amsterdamie aż 0:7 z Holendrami.",
-        "Kiedy już do przerwy przegrywasz 0:5, masz dwa wyjścia: albo się poddać i przyjmować kolejne ciosy, albo spróbować zaatakować, skoro i tak nie masz już nic do stracenia."
+        "Ponad połowa Polaków negatywnie ocenia wypowiedź szefa MSWiA Marcina Kierwińskiego, który w dniu zamachu, do którego doszło 7 listopada w Krakowie, wskazał, że sprawca mógł fascynować się „ideologiami prawicowymi”.",
+        "7 listopada 24-letni Michał Oksiński, mieszkaniec Ostrowca Świętokrzyskiego, wjechał samochodem na krakowski Rynek Główny i zaczął strzelać z karabinu samopowtarzalnego AR-15 do przypadkowych ludzi.",
+        "zginęło sześć osób, a 15 zostało rannych."
       ],
       "extended_paragraphs": [
-        "Grecy ponieśli pierwszą porażkę w Lidze Narodów. I to jak bolesną. Przegrali w Amsterdamie aż 0:7 z Holendrami.",
-        "Kiedy już do przerwy przegrywasz 0:5, masz dwa wyjścia: albo się poddać i przyjmować kolejne ciosy, albo spróbować zaatakować, skoro i tak nie masz już nic do stracenia.",
-        "Grekom musiało zajrzeć w oczy widmo dwucyfrowej porażki. Skończyło się na siedmiu straconych bramkach, ale i tak nikt nie mógł spodziewać się tak wysokiego wyniku. Przecież Grecy pokonali wcześniej Niemców (1:0) na wyjeździe i prowadzili u siebie już 2:0 z Holandią (ostatecznie był remis 2:2).",
-        "Mimo tej klęski Grecy mają cały czas w swoich rękach sprawę awansu do ćwierćfinału Ligi Narodów. W ostatniej kolejce podejmą Serbów, którzy nie zdobyli dotąd nawet punktu, a Niemcy (w piątek zwycięstwo 3:1 nad Serbią) zmierzą się w Berlinie z Holendrami.",
-        "Bohaterem Holandii został w piątkowy wieczór autor hat tricka Tijjani Reijnders, który stał się tym samym najlepszym strzelcem (w tych rozgrywkach UEFA) drużyny prowadzonej od niedawna przez Xaviego. Nowy selekcjoner miał udane wejście do zespołu, jego bilans to trzy zwycięstwa i dwa remisy."
-      ]
-    },
-    {
-      "id": "makro-7-9fdafe",
-      "entity_tag": "USA & Bezpieczeństwo",
-      "sector": "Geopolityka",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Geopolityka” (USA & Bezpieczeństwo) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Niepokojący incydent w bazie USA. Drony nad jednym z najważniejszych obiektów NATO",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "23:41",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/konflikty-zbrojne/art45487821-niepokojacy-incydent-w-bazie-usa-drony-nad-jednym-z-najwazniejszych-obiektow-nato",
-      "image_url": "https://i.gremicdn.pl/image/free/1bb804b94934a034dcf28fc84ce822dd/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Podejrzane drony nad jedną z najważniejszych amerykańskich baz myśliwskich w Europie.",
-        "Wojsko USA potwierdziło incydent w RAF Lakenheath w Wielkiej Brytanii.",
-        "Mieszkańcy pobliskiej miejscowości informowali o syrenach alarmowych."
-      ],
-      "extended_paragraphs": [
-        "Podejrzane drony nad jedną z najważniejszych amerykańskich baz myśliwskich w Europie. Wojsko USA potwierdziło incydent w RAF Lakenheath w Wielkiej Brytanii. Mieszkańcy pobliskiej miejscowości informowali o syrenach alarmowych. W tle pojawiają się obawy o bezpieczeństwo baz USA.",
-        "Główne wejście do bazy lotniczej RAF Lakenheath, w której stacjonują żołnierze Sił Powietrznych Stanów Zjednoczonych (USAF)",
-        "Siły Powietrzne Stanów Zjednoczonych poinformowały, że w piątek wieczorem podjęły działania w związku z „podejrzeniem nieautoryzowanej aktywności dronów” nad bazą RAF Lakenheath w hrabstwie Suffolk we wschodniej Anglii. Rzecznik amerykańskich sił powietrznych zapewnił, że w wyniku incydentu nikt nie ucierpiał, a samoloty i infrastruktura bazy nie zostały uszkodzone.",
-        "Wcześniej pojawiły się niepotwierdzone doniesienia o uruchomieniu syren alarmowych na terenie bazy. Jak informuje BBC, mieszkańcy pobliskiej miejscowości twierdzili, że słyszeli alarm.",
-        "Brytyjski parlamentarzysta Nick Timothy, reprezentujący okręg West Suffolk, poinformował, że skontaktował się z władzami bazy. Zapewniono go, że „nie ma zagrożenia dla ludności, a incydent został już zakończony”."
+        "Ponad połowa Polaków negatywnie ocenia wypowiedź szefa MSWiA Marcina Kierwińskiego, który w dniu zamachu, do którego doszło 7 listopada w Krakowie, wskazał, że sprawca mógł fascynować się „ideologiami prawicowymi”.",
+        "7 listopada 24-letni Michał Oksiński, mieszkaniec Ostrowca Świętokrzyskiego, wjechał samochodem na krakowski Rynek Główny i zaczął strzelać z karabinu samopowtarzalnego AR-15 do przypadkowych ludzi. Od kul Michała O. zginęło sześć osób, a 15 zostało rannych. Sprawca został zneutralizowany przez dwóch policjantów – Jakuba Kulika i Artura Morańskiego, którzy w wymianie ognia również zostali ciężko ranni. W wyniku doznanych obrażeń Oksiński zmarł w szpitalu nad ranem 9 listopada.",
+        "Przed dokonaniem zamachu w Krakowie sprawca – jak się okazało – zabił też członków najbliższej rodziny: ciała ojca, matki i 21-letniej siostry Oksińskiego znaleziono w mieszkaniu w Ostrowcu Świętokrzyskim. Motywy działania zamachowca do dziś pozostają nieznane i są przedmiotem śledztwa.",
+        "Na konferencji prasowej zorganizowanej w dniu zamachu szef MSWiA Marcin Kierwiński mówiąc o sprawcy ataku, podkreślił, że miał on „bardzo radykalne poglądy”. – Wszystko wskazuje, że zafascynowany był ideologiami skrajnie prawicowymi, choć będzie to podlegało sprawdzeniu – dodał.",
+        "Słowa te ściągnęły na ministra krytykę ze strony prawicowej opozycji, która uznała je za próbę upolitycznienia zamachu i obarczenia jej jakąś częścią odpowiedzialności za tragedię w Krakowie. Prezes PiS Jarosław Kaczyński nazwał słowa Kierwińskiego „ordynarnym kłamstwem” i zwrócił uwagę, że szef MSWiA podał tę informację jako „jedną z pierwszych”."
       ]
     }
   ],
@@ -1470,46 +1467,14 @@
       "summary_points": [
         "Nvidia przelała dziesiątki miliardów na start-upy AI pod rządami Huanga.",
         "Bez niego na czele założyciele i VC przygotowują się na mniejsze czeki i niższe wyceny.",
-        "Odejście Jensena Huanga powoduje dużą dziurę w finansowaniu startupów AI, VC i założyciele twierdzą, że Marina Temkin Dominic-Madori Davis 14:43 PST · 13 listopada 2026 r. To była rezygnacja, którą usłyszano na całym świecie."
+        "Odejście Jensena Huanga powoduje dużą dziurę w finansowaniu start-upów AI, VC i założyciele twierdzą, że Marina Temkin Dominic-Madori Davis 14:43 PST · 13 listopada 2026 r. To była rezygnacja, którą usłyszano na całym świecie."
       ],
       "extended_paragraphs": [
         "Nvidia przelała dziesiątki miliardów na start-upy AI pod rządami Huanga. Bez niego na czele założyciele i VC przygotowują się na mniejsze czeki i niższe wyceny.",
-        "Odejście Jensena Huanga powoduje dużą dziurę w finansowaniu startupów AI, VC i założyciele twierdzą, że Marina Temkin Dominic-Madori Davis 14:43 PST · 13 listopada 2026 r. To była rezygnacja, którą usłyszano na całym świecie. Jensen Huang, dyrektor generalny Nvidii, który był współzałożycielem i liderem firmy przez 33 lata, oficjalnie ustąpił ze stanowiska. „To jakby wybuchła bomba” – powiedział TechCrunch jeden z założycieli neocloud, kiedy po raz pierwszy usłyszał tę wiadomość.",
+        "Odejście Jensena Huanga powoduje dużą dziurę w finansowaniu start-upów AI, VC i założyciele twierdzą, że Marina Temkin Dominic-Madori Davis 14:43 PST · 13 listopada 2026 r. To była rezygnacja, którą usłyszano na całym świecie. Jensen Huang, dyrektor generalny Nvidii, który był współzałożycielem i liderem firmy przez 33 lata, oficjalnie ustąpił ze stanowiska. „To jakby wybuchła bomba” – powiedział TechCrunch jeden z założycieli neocloud, kiedy po raz pierwszy usłyszał tę wiadomość.",
         "Według PitchBook przez ostatnie kilka lat Nvidia była płodnym inwestorem, co roku wpompowując dziesiątki miliardów w start-upy i uczestnicząc w 105 rundach tylko w tym roku, często jako największy inwestor. „Jeśli ten kierunek się zmieni, będzie to duży cios dla wielu młodych firm” – powiedziała Maria Davidson, założycielka Relational Capital.",
         "Nieobecność Huanga pozostawia ekosystem startupów bez jednego z największych liderów i na razie ze znacznie mniejszym kapitałem, twierdzą inwestorzy, co może mieć ogromny wpływ na zawieranie transakcji, wyceny, finansowanie, a nawet konkurencję.",
         "„Nvidia przenosi prawie każdy start-up oparty na sztucznej inteligencji z aplikacji do neocloud” – powiedziała TechCrunch Shamillah Bankiya z Dawn Capital."
-      ]
-    },
-    {
-      "id": "tech-5-75856a",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Po sześciu latach Huawei rusza z nową submarką. Osta wypełni lukę po Honorze?",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/po-szesciu-latach-huawei-rusza-z-nowa-submarka-osta-wypelni-luke-po-honorze",
-      "image_url": "https://konto.chip.pl/uploads/2026/10/huawei-pura-90s-pro-max-8.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Pod koniec 2020 roku, przyciśnięty amerykańskimi sankcjami handlowymi odcinającymi dostęp do kluczowych podzespołów, Huawei podjął trudną decyzję o sprzedaży swojej submarki Honor konsorcjum kilkudziesięciu partnerów biznesowych.",
-        "Przez kolejne lata chiński gigant walczył o przetrwanie na rynku mobilnym, by po głośnym powrocie z własnymi układami Kirin w serii Mate 60 Pro znów wspiąć się na szczyt […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Po sześciu latach Huawei rusza z nową submarką.",
-        "Osta wypełni lukę po Honorze?"
-      ],
-      "extended_paragraphs": [
-        "Pod koniec 2020 roku, przyciśnięty amerykańskimi sankcjami handlowymi odcinającymi dostęp do kluczowych podzespołów, Huawei podjął trudną decyzję o sprzedaży swojej submarki Honor konsorcjum kilkudziesięciu partnerów biznesowych. Przez kolejne lata chiński gigant walczył o przetrwanie na rynku mobilnym, by po głośnym powrocie z własnymi układami Kirin w serii Mate 60 Pro znów wspiąć się na szczyt […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Po sześciu latach Huawei rusza z nową submarką. Osta wypełni lukę po Honorze? \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Mając ugruntowaną pozycję lidera w Chinach, Huawei uznał najwyraźniej, że nadszedł czas na wypełnienie luki po dawnym oddziale. Firma oficjalnie potwierdziła, że 20 listopada 2026 roku zadebiutuje jej zupełnie nowa submarka urządzeń – znana w Chinach jako Xingmang, a na rynkach międzynarodowych pod nazwą Osta.",
-        "Informację o premierze przekazał w mediach społecznościowych sam Richard Yu, szef działu konsumenckiego Huawei, więc nie ma już mowy o żadnych plotkach. Wydarzenie odbędzie się równolegle z prezentacją najnowszych samochodów elektrycznych i choć w swoim wpisie na platformie Weibo menedżer nie wymienił nazw konkretnych modeli telefonów, to w zasadzie nie musiał tego robić. Post został bowiem opublikowany z urządzenia podpisanego jako Osta O1 Pro.",
-        "Jeśli chodzi o specyfikację, ta też nie jest wielką tajemnicą, bo zdradziły nam ją przecieki. Ciekawy jest na pewno fakt, że Huawei w ramach tej submarki postawi przede wszystkim na szersze ekrany, które znamy już z serii Pura. Co prawda nie ma pewności, że szczegóły dotyczą na pewno Osta O1 Pro, ale to najbardziej prawdopodobne.",
-        "Plotkowany smartfon ma zostać wyposażony w płaski ekran LTPS OLED o przekątnej 6,39 cala, rozdzielczości 1.5K oraz nietypowych proporcjach 16:9.5, otoczony cienkimi ramkami. Będzie więc podobny do Pura X View, ale oczywiście pozbawiony zawiasu. Pod maską spodziewane są procesory z rodziny Kirin 9000, a w sprzedaży mają pojawić się warianty pamięciowe zaczynające się od 12/256 GB, poprzez 12/512 GB i 16/512 GB, aż po konfigurację z 16 GB RAM i 1 TB miejsca na dane. W sieci krążą już nieoficjalne grafiki prezentujące ten model w trzech wariantach kolorystycznych."
       ]
     },
     {
@@ -1545,7 +1510,7 @@
       ]
     },
     {
-      "id": "tech-3-4b60dd",
+      "id": "tech-5-4b60dd",
       "entity_tag": "Apple (NASDAQ: AAPL)",
       "sector": "Big Tech",
       "market_impact": "MEDIUM",
@@ -1577,67 +1542,35 @@
       ]
     },
     {
-      "id": "tech-8-c9f6db",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "FAA zamawia trzeci w swojej historii ogólnokrajowy przystanek naziemny",
-      "original_title": "FAA orders third nationwide ground stop in its history",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:17",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
-      "image_source": "Fot. / Źródło: Ars Technica",
-      "lead_story": false,
-      "summary_points": [
-        "Rzadki ogólnokrajowy postój naziemny może potrwać przez jakiś czas w miarę rozwiązywania problemów przez FAA.",
-        "Sekretarz Departamentu Bezpieczeństwa Wewnętrznego Markwayne Mullin powiedział, że powodem zatrzymania nie było zagrożenie bezpieczeństwa.",
-        "\"To przerwa w telekomunikacji FAA."
-      ],
-      "extended_paragraphs": [
-        "Rzadki ogólnokrajowy postój naziemny może potrwać przez jakiś czas w miarę rozwiązywania problemów przez FAA.",
-        "Sekretarz Departamentu Bezpieczeństwa Wewnętrznego Markwayne Mullin powiedział, że powodem zatrzymania nie było zagrożenie bezpieczeństwa. \"To przerwa w telekomunikacji FAA. Ze względu na zachowanie ostrożności uziemiliśmy wszystkie loty\" - powiedział Mullin. „Na razie nic nie wskazuje na to, że jest to nikczemny atak na nas”.",
-        "Mullin powiedział, że FAA będzie rozpatrywać przychodzące loty międzynarodowe indywidualnie dla każdego przypadku.",
-        "To dopiero trzeci ogólnokrajowy przystanek naziemny wydany przez FAA. Pierwszy i najbardziej pamiętny miał miejsce podczas ataków z 11 września 2001 r., kiedy FAA wstrzymała wszystkie loty cywilne w całym kraju, a następnie nakazała lądowanie wszystkim statkom powietrznym. Loty komercyjne wznowiono dopiero 13 września. Loty zostały również uziemione na niecałe dwie godziny rankiem 11 stycznia 2023 r. po awarii systemu powiadamiania o misjach lotniczych.",
-        "Na nieszczęście dla podróżnych, z dotychczasowych informacji wynika, że ​​będzie to prawdopodobnie długi przystanek naziemny. Linie lotnicze odwołały już loty zaplanowane na późniejszy piątek, a American Airlines ostrzegły, że zakłócenia będą występować przez resztę dnia. „To zajmie trochę czasu” – powiedział Mullin. „Loty są rozliczane i społeczeństwo nie powinno w ogóle budzić strachu”."
-      ]
-    },
-    {
-      "id": "tech-1-89780e",
+      "id": "tech-1-63a8a5",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Chińczycy odkryli ogromne złoże na głębokości niemal 6 kilometrów. Ogłosili przełom w poszukiwaniach w Zatoce Pohaj",
+      "title": "Szyfrowanie bankowe może paść w 90 minut? Tak potężny komputer kwantowy wystarczy",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:57",
+      "time": "05:00",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/chiny-ogromne-zloze-gazu-zatoka-pohaj",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/zatoka-pohaj.jpg",
+      "source_url": "https://www.chip.pl/2026/11/komputery-kwantowe-szyfrowanie-bankowe-algorytm-shora",
+      "image_url": "https://konto.chip.pl/uploads/2023/02/euro-banknoty.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Chiny poinformowały o znaczącym odkryciu dotyczącym gazu ziemnego.",
-        "Jego rozległe złoża znajdują się pod dnem Zatoki Pohaj, będącej częścią Morza Żółtego.",
-        "Tamtejszy koncern China National Offshore Oil Corporation (CNOOC) mówi o odwiercie wykonanym w formacjach skał wulkanicznych, który wskazuje na obecność złóż na głębokości nawet 5770 metrów."
+        "Francuska firma Alice & Bob właśnie przypomniała, jak bardzo kruche jest dzisiejsze bezpieczeństwo.",
+        "Jej nowe wyliczenia sugerują, że zamiast budować kwantowego giganta z milionami kubitów, być może wystarczy skonstruować znacznie mniejszą, ale lepiej zaprojektowaną maszynę, aby uderzyć tam, gdzie zaboli najmocniej.",
+        "Zainteresowało mnie zwłaszcza to, skąd wzięła się tak ogromna różnica."
       ],
       "extended_paragraphs": [
-        "Chiny poinformowały o znaczącym odkryciu dotyczącym gazu ziemnego. Jego rozległe złoża znajdują się pod dnem Zatoki Pohaj, będącej częścią Morza Żółtego. Tamtejszy koncern China National Offshore Oil Corporation (CNOOC) mówi o odwiercie wykonanym w formacjach skał wulkanicznych, który wskazuje na obecność złóż na głębokości nawet 5770 metrów. Wstępne ustalenia wskazują na przepływ około 800 tysięcy […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wstępne ustalenia wskazują na przepływ około 800 tysięcy metrów sześciennych gazu dziennie. Jeśli się to potwierdzi, będziemy mogli mówić o nowym rozdziale w eksploatacji trudno dostępnych złóż. Z punktu widzenia energetyki w grę wchodzi natomiast znaczące zwiększenia bezpieczeństwa paliwowego Państwa Środka.",
-        "Czytaj też: Chiny budują elektrownię jądrową inną niż wszystkie. Jej prawdziwe zadanie może zaskoczyć",
-        "Jak wynika z informacji przekazanych przez CNOOC, odwiert znajduje się w centralnej części Zatoki Pohaj, w pobliżu obszaru bogatego w węglowodory. Według przedstawionych danych w trakcie wiercenia udało się zidentyfikować warstwy gazonośne o łącznej miąższości przekraczającej 120 metrów.",
-        "Wyjątkowo istotna jest wydajność odwiertu. Testy wykazały możliwość uzyskania około 800 tysięcy metrów sześciennych gazu ziemnego na dobę. W grę wchodzi jeszcze możliwość, że faktyczna ilość zasobów będzie nawet większa. Z drugiej strony, nie można wykluczyć, że możliwości ich wydobycia będą ograniczone."
+        "Francuska firma Alice & Bob właśnie przypomniała, jak bardzo kruche jest dzisiejsze bezpieczeństwo. Jej nowe wyliczenia sugerują, że zamiast budować kwantowego giganta z milionami kubitów, być może wystarczy skonstruować znacznie mniejszą, ale lepiej zaprojektowaną maszynę, aby uderzyć tam, gdzie zaboli najmocniej. Zainteresowało mnie zwłaszcza to, skąd wzięła się tak ogromna różnica. 617 cyfr. Tyle liczy […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Szyfrowanie bankowe może paść w 90 minut? Tak potężny komputer kwantowy wystarczy \" ? Dodaj CHIP.pl do preferowanych źródeł w Google 617 cyfr. Tyle liczy dziesiętny zapis liczby, której rozłożenie na dwa czynniki pierwsze stanowi fundament bezpieczeństwa RSA-2048. Pomnożenie takich liczb jest proste, ale odwrócenie tego procesu bez znajomości czynników pozostaje dla klasycznych komputerów praktycznie niewykonalne w rozsądnym czasie.",
+        "Nie potrzeba tu więc żadnego tajnego przepisu. Wystarczy odpowiednio trudny problem matematyczny, na którym opiera się część mechanizmów podpisu cyfrowego i uwierzytelniania. W takim modelu bezpieczeństwa jest jednak pewna słabość: zakładamy, że przeciwnik dysponuje komputerem, dla którego wspomniane obliczenia pozostają skrajnie trudne.",
+        "Algorytm Shora, pozwalający odpowiednio dużemu komputerowi kwantowemu rozkładać wielkie liczby na czynniki pierwsze, znamy już od 1994 roku. Od tego czasu nie pytamy już wyłącznie, czy RSA-2048 da się w ten sposób złamać, ale jak duża i niezawodna musi być maszyna zdolna przeprowadzić taki atak. W 2019 roku szacunki mówiły o około 20 milionach fizycznych kubitów, a w 2025 roku Craig Gidney z Google obniżył wymagania poniżej miliona. Teraz Alice & Bob wspomina o zaledwie 22593 fizyczne kubity i 3,14 dnia obliczeń.",
+        "Nie oznacza to, że w ciągu kilku lat sprzęt stał się niemal tysiąc razy wydajniejszy. Porównujemy tutaj bowiem modele o różnych założeniach i architekturach, a nie kolejne generacje jednego procesora. Sam kierunek jest jednak fascynujący, bo maleje przewidywana skala infrastruktury potrzebnej do rozwiązania konkretnego problemu."
       ]
     },
     {
@@ -1673,6 +1606,38 @@
       ]
     },
     {
+      "id": "tech-3-89780e",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Chińczycy odkryli ogromne złoże na głębokości niemal 6 kilometrów. Ogłosili przełom w poszukiwaniach w Zatoce Pohaj",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:57",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/chiny-ogromne-zloze-gazu-zatoka-pohaj",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/zatoka-pohaj.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Chiny poinformowały o znaczącym odkryciu dotyczącym gazu ziemnego.",
+        "Jego rozległe złoża znajdują się pod dnem Zatoki Pohaj, będącej częścią Morza Żółtego.",
+        "Tamtejszy koncern China National Offshore Oil Corporation (CNOOC) mówi o odwiercie wykonanym w formacjach skał wulkanicznych, który wskazuje na obecność złóż na głębokości nawet 5770 metrów."
+      ],
+      "extended_paragraphs": [
+        "Chiny poinformowały o znaczącym odkryciu dotyczącym gazu ziemnego. Jego rozległe złoża znajdują się pod dnem Zatoki Pohaj, będącej częścią Morza Żółtego. Tamtejszy koncern China National Offshore Oil Corporation (CNOOC) mówi o odwiercie wykonanym w formacjach skał wulkanicznych, który wskazuje na obecność złóż na głębokości nawet 5770 metrów. Wstępne ustalenia wskazują na przepływ około 800 tysięcy […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wstępne ustalenia wskazują na przepływ około 800 tysięcy metrów sześciennych gazu dziennie. Jeśli się to potwierdzi, będziemy mogli mówić o nowym rozdziale w eksploatacji trudno dostępnych złóż. Z punktu widzenia energetyki w grę wchodzi natomiast znaczące zwiększenia bezpieczeństwa paliwowego Państwa Środka.",
+        "Czytaj też: Chiny budują elektrownię jądrową inną niż wszystkie. Jej prawdziwe zadanie może zaskoczyć",
+        "Jak wynika z informacji przekazanych przez CNOOC, odwiert znajduje się w centralnej części Zatoki Pohaj, w pobliżu obszaru bogatego w węglowodory. Według przedstawionych danych w trakcie wiercenia udało się zidentyfikować warstwy gazonośne o łącznej miąższości przekraczającej 120 metrów.",
+        "Wyjątkowo istotna jest wydajność odwiertu. Testy wykazały możliwość uzyskania około 800 tysięcy metrów sześciennych gazu ziemnego na dobę. W grę wchodzi jeszcze możliwość, że faktyczna ilość zasobów będzie nawet większa. Z drugiej strony, nie można wykluczyć, że możliwości ich wydobycia będą ograniczone."
+      ]
+    },
+    {
       "id": "tech-7-c475f1",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
@@ -1703,43 +1668,110 @@
         "I choć AMD nie wskazuje w poprawkowej liście konkretnych kart graficznych, w których rozwiązano ten problem, można domniemywać, że naprawiono ów błąd we wszystkich egzemplarzach, których kłopot się tyczył. Jak wykazywaliśmy wcześniej: niepożądaną aktywność związaną z zapisami skojarzono z komponentem AMD External Events : szczególnie procesem atieclxx.exe działającym w tle.",
         "Hej, obserwuj nas w Google Discover Obserwuj nas → Dysk SSD też się zużywa, ale nieco inaczej Pamięć NAND ma ograniczoną wytrzymałość na zapisy i kasowanie danych. To tzw. parametr TBW, czyli liczbą terabajtów zapisanych danych. Operacje generowane przez wadliwe oprogramowanie niepotrzebne obciążają nośnik, przez co może on \"wyzionąć ducha\" prędzej, niż byśmy tego chcieli. AMD swoimi sterownikami spowodowało taki właśnie stan: n iepotrzebne zapisy wyczerpywały parametr TBW i tym samym mogło doprowadzić w czasie do szybszego zdegenerowania się bardzo istotnej części w komputerach."
       ]
+    },
+    {
+      "id": "tech-8-84b91a",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Lot statku kosmicznego nr 15 na orbitę – ustalanie możliwego połowu w sobotę",
+      "original_title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:49",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+      "image_source": "Fot. / Źródło: Ars Technica",
+      "lead_story": false,
+      "summary_points": [
+        "Tak czy inaczej, spółka pozna więcej danych w sobotę.",
+        "W dużej mierze udany start miał miejsce wczesnym wieczorem; gdy masywna rakieta wzniosła się w atmosferę, Słońce opadło w stronę zachodniego horyzontu.",
+        "Warunki do startu były idealne, a wiatr atmosferyczny był tak spokojny, że biały pióropusz rakiety nie rozwiał się przez wiele minut."
+      ],
+      "extended_paragraphs": [
+        "Tak czy inaczej, spółka pozna więcej danych w sobotę.",
+        "W dużej mierze udany start miał miejsce wczesnym wieczorem; gdy masywna rakieta wzniosła się w atmosferę, Słońce opadło w stronę zachodniego horyzontu. Warunki do startu były idealne, a wiatr atmosferyczny był tak spokojny, że biały pióropusz rakiety nie rozwiał się przez wiele minut. Pogoda w południowym Teksasie nie zawsze jest komfortowa; lato jest długie i gorące. Piątkowy wieczór w Starbase był idealny.",
+        "Pierwszy stopień bezbłędnie wzniósł się w przestrzeń kosmiczną, wypuszczając górny stopień nad Zatoką Meksykańską. Stamtąd górny stopień statku kosmicznego uruchomił silniki Raptora i wjechał na nominalną orbitę. To był drugi raz, kiedy SpaceX umieścił statek Starship na niskiej orbicie okołoziemskiej.",
+        "Kiedy przyszedł czas na powrót pierwszego stopnia na ziemię, spadł on jak kamień. Jednakże z powodu nieokreślonego problemu pojazdowi nakazano skierowanie się do Zatoki Perskiej, zamiast wracać do bazy gwiezdnej, gdzie miał zostać złapany przez wieżę startową. Spowodowało to fantastycznie potężną eksplozję, nawet dla obserwatorów oddalonych o ponad 16 mil.",
+        "Głównym celem piątkowego startu było rozmieszczenie 26 satelitów Starlink V3 z wąskich drzwi u podstawy statku kosmicznego. Miało to miejsce po około 40 minutach lotu statku Starship i wszystkich 26 satelitów, które po całkowitym rozłożeniu mają panele słoneczne rozciągające się na długość 60 metrów, bezpiecznie dotarły na orbitę, gdzie będą teraz korzystać z napędu pokładowego w celu podniesienia wysokości."
+      ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-3-76d10b",
+      "id": "swiat-1-e750f0",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Chmura & AI” (Microsoft (NASDAQ: MSFT)) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Co wiemy o najdłuższym przystanku naziemnym od 11 września",
+      "original_title": "What we know about the longest ground stop since 9/11",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "03:45",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": true,
+      "summary_points": [
+        "Urzędnicy amerykańscy twierdzą, że zakłócenia były spowodowane przeciążeniem starego sprzętu, a nie cyberatakiem lub awarią firmy Microsoft.",
+        "Podpis pod rysunkiem: zatrzymanie naziemne w USA spowodowane przez „niezwykle stary system kontroli ruchu lotniczego” – mówi Duffy Federalna Administracja Lotnictwa Stanów Zjednoczonych zniosła najdłuższy ogólnokrajowy przystanek naziemny lotów od ataków terrorystycznych z 11 września 2001 roku.",
+        "FAA stwierdziła, że ​​piątkowe zatrzymanie, które trwało ponad cztery godziny, było „spowodowane nadzwyczajnymi okolicznościami” wynikającymi z problemów komunikacyjnych wpływających na wszystkie centra kontroli ruchu lotniczego."
+      ],
+      "extended_paragraphs": [
+        "Urzędnicy amerykańscy twierdzą, że zakłócenia były spowodowane przeciążeniem starego sprzętu, a nie cyberatakiem lub awarią firmy Microsoft.",
+        "Podpis pod rysunkiem: zatrzymanie naziemne w USA spowodowane przez „niezwykle stary system kontroli ruchu lotniczego” – mówi Duffy",
+        "Federalna Administracja Lotnictwa Stanów Zjednoczonych zniosła najdłuższy ogólnokrajowy przystanek naziemny lotów od ataków terrorystycznych z 11 września 2001 roku.",
+        "FAA stwierdziła, że ​​piątkowe zatrzymanie, które trwało ponad cztery godziny, było „spowodowane nadzwyczajnymi okolicznościami” wynikającymi z problemów komunikacyjnych wpływających na wszystkie centra kontroli ruchu lotniczego.",
+        "Sekretarz bezpieczeństwa wewnętrznego Markwayne Mullin powiedział, że nic nie wskazuje na atak i że wszyscy są bezpieczni."
+      ]
+    },
+    {
+      "id": "swiat-6-22c106",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Paraliż na lotniskach w Stanach Zjednoczonych. FAA wydała zakaz",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 50 mld dolarów, 12,5 mld) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "50 mld dolarów",
+        "12,5 mld"
+      ],
+      "title": "Tysiące uziemionych samolotów. Paraliż na lotniskach w USA",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
       "time": "22:38",
       "source": "PolsatNews Świat",
       "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/paraliz-na-lotniskach-w-stanach-zjednoczonych-faa-wydala-zakaz/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/v1/v1b6hczcqgdiim5cb8w9vwwh94jhb524.jpg",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/6w/6wgt9169exw3j96fdx2k9omgb6qjmder.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
-        "Amerykańska Federalna Agencja Lotnictwa (FAA) wydała ogólnokrajowy zakaz lotów na wszystkich amerykańskich lotniskach z powodu problemu z komunikacją, który dotknął wszystkie centra kontroli ruchu lotniczego - przekazał amerykański sekretarz transportu Sean Duffy.",
-        "Według doniesień CNN, nic nie wskazuje na to, że doszło do cyberataku.",
-        "Według doniesień CNN nic nie wskazuje na to, że doszło do cyberataku."
+        "Amerykańska Federalna Agencja Lotnictwa (FAA) wydała w piątek ogólnokrajowy zakaz lotów na wszystkich amerykańskich lotniskach.",
+        "Powodem była awaria przestarzałego systemu łączności, który został przeciążony danymi podczas aktualizacji - przekazał amerykański sekretarz transportu Sean Duffy.",
+        "Władze USA wykluczyły cyberatak."
       ],
       "extended_paragraphs": [
-        "Amerykańska Federalna Agencja Lotnictwa (FAA) wydała ogólnokrajowy zakaz lotów na wszystkich amerykańskich lotniskach z powodu problemu z komunikacją, który dotknął wszystkie centra kontroli ruchu lotniczego - przekazał amerykański sekretarz transportu Sean Duffy. Według doniesień CNN, nic nie wskazuje na to, że doszło do cyberataku.",
-        "Jak relacjonowała agencja Reutera, wcześniej FAA wydała komunikat z zakazem wszystkich odlotów przez \"nadzwyczajne okoliczności i względy bezpieczeństwa\", co oznaczało że mogłyby lądować samoloty które już były w powietrzu.",
-        "Przed ogłoszeniem o problemach w całym kraju, wstrzymano ruch na lotnisku w Chicago przez problemy z łącznością kontroli ruchu lotniczego. FAA przekazała wtedy, że wszystkie odloty powinny pozostać wstrzymane do odwołania, a loty międzynarodowe być rozpatrywane indywidualnie.",
-        "ZOBACZ: Były szef NVIDII wezwany do Kongresu. \"Obawy dotyczące bezpieczeństwa narodowego\"",
-        "Kolejne ogłoszenie wprowadziło całkowity zakaz w tej kwestii. \"Technicy FAA badają ten problem. Będziemy dostarczać natychmiastowe aktualizacje, gdy tylko je otrzymamy\" - przekazał Duffy."
+        "Amerykańska Federalna Agencja Lotnictwa (FAA) wydała w piątek ogólnokrajowy zakaz lotów na wszystkich amerykańskich lotniskach. Powodem była awaria przestarzałego systemu łączności, który został przeciążony danymi podczas aktualizacji - przekazał amerykański sekretarz transportu Sean Duffy. Władze USA wykluczyły cyberatak. Zakaz odwołano po kilku godzinach.",
+        "Federalna Administracja Lotnictwa (FAA) odwołała w piątek nałożony kilka godzin wcześniej zakaz startów samolotów w całym kra ju. FAA poinformowała o przywróceniu ruchu na lotniskach tuż po godz. 20.16 czasu wschodnioamerykańskiego, po ponad 4,5 godzinach wstrzymania startów lotów w całym kraju.",
+        "Podczas konferencji prasowej po przywróceniu lotów sekretarz transportu Sean Duffy powiedział, że przyczyną przerwy w ruchu lotniczym była awaria starego, analogowego systemu łączności , w tym urządzeń komunikacyjnych, przełączników i routerów, które zostały przeciążone danymi. Zaznaczył jednocześnie, że wymienione przez administrację cyfrowe urządzenia nie odnotowały problemów.",
+        "Mimo to, występujący obok niego szef Departamentu Bezpieczeństwa Krajowego (DHS) Markwayne Mullin ocenił, że z dostępnych informacji wynika, że do awarii doszło, gdy FAA próbowała załatać system , wprowadzając nowy sprzęt i ten nowy element przeciążył ten starszy. Duffy zapewnił z kolei, że winny nie jest i nie mógł być nowy system AI pomagający w kontroli ruchu.",
+        "Jak zapowiedzieli urzędnicy, prezydent Donald Trump ma ogłosić stan nadzwyczajny , by przyspieszyć modernizację systemu. Duffy apelował jednak do Kongresu o przyznanie dodatkowych środków. W jego ocenie do budowy nowego systemu potrzebne jest łącznie 50 mld dolarów , podczas gdy Kongres dotąd przeznaczył 12,5 mld."
       ]
     },
     {
-      "id": "swiat-1-d4cf9c",
+      "id": "swiat-2-72cee2",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1747,8 +1779,8 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "„Cud na Missisipi” – wszyscy uratowani po uderzeniu tankowca w statek wycieczkowy w Nowym Orleanie",
-      "original_title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "title": "„Cud na Mississippi” – wszyscy pasażerowie uratowani po zderzeniu statku wycieczkowego w Nowym Orleanie",
+      "original_title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "is_foreign": true,
       "lang": "EN",
       "time": "23:40",
@@ -1771,102 +1803,135 @@
       ]
     },
     {
-      "id": "swiat-2-41a65e",
-      "entity_tag": "Microsoft (NASDAQ: MSFT)",
-      "sector": "Chmura & AI",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Chmura & AI” (Microsoft (NASDAQ: MSFT)) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Obejrzyj: Jak awaria serwera spowodowała awarię aplikacji Microsoft Teams i Outlook",
-      "original_title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "11:43",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Awaria firmy Microsoft wpływa na usługi, w tym Teams, Outlook i oprogramowanie AI Copilot.",
-        "Co wiemy do tej pory o awarii firmy Microsoft Zamknij Awaria firmy Microsoft wpływa na usługi, w tym Teams, Outlook i oprogramowanie AI Copilot.",
-        "Microsoft stwierdził, że przyczyną problemu było większe niż zwykle obciążenie serwerów, jednak w miarę kontynuowania prac nad poprawką systemy wykazywały już „wczesne oznaki stabilizacji”."
-      ],
-      "extended_paragraphs": [
-        "Awaria firmy Microsoft wpływa na usługi, w tym Teams, Outlook i oprogramowanie AI Copilot.",
-        "Co wiemy do tej pory o awarii firmy Microsoft Zamknij Awaria firmy Microsoft wpływa na usługi, w tym Teams, Outlook i oprogramowanie AI Copilot.",
-        "Microsoft stwierdził, że przyczyną problemu było większe niż zwykle obciążenie serwerów, jednak w miarę kontynuowania prac nad poprawką systemy wykazywały już „wczesne oznaki stabilizacji”.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj łącze Informacje o udostępnianiu Tematy pokrewne Microsoft Śledź Microsoft"
-      ]
-    },
-    {
-      "id": "swiat-4-9f4480",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
+      "id": "swiat-3-f6cbd4",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
       "market_impact": "LOW",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Głos z Dumy ws. byłego sojusznika. Padła groźba \"wciągnięcia w konflikt\"",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:28",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/rosja-grozi-europejskiemu-panstwu-przyczyna-umowa-z-ukraina/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/zm/zmkpw8qgvmmzu8wvrar6an2j1iamdmfm.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "title": "Biały Dom twierdzi, że Trump, Putin i Xi planują historyczne wspólne spotkanie w Chinach w przyszłym tygodniu",
+      "original_title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "05:52",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Deputowany do rosyjskiej Dumy z okupowanego przez Rosję Krymu Michaił Szeremet skrytykował Mołdawię za podpisanie umowy o współpracy na polu wojskowym i technicznym z Ukrainą.",
-        "Według rosyjskiego polityka, porozumienie ma militarystyczny charakter i może wciągnąć Mołdawię w konflikt zbrojny.",
-        "Podpisana w październiku, a ogłoszona w czwartek umowa między Mołdawią a Ukrainą związana jest m.in. z wymianą informacji technicznych i naukowych, doświadczeń czy informacji technicznych i naukowych."
+        "Rzeczniczka twierdzi, że Trump omówi „redukcję broni nuklearnej” podczas bezprecedensowych rozmów.",
+        "Biały Dom poinformował, że Donald Trump, Władimir Putin i Xi Jinping planują spotkać się na marginesie szczytu w Chinach w przyszłym tygodniu.",
+        "Historyczne spotkanie przywódców Stanów Zjednoczonych, Rosji i Chin odbędzie się w czasie, gdy Trump będzie uczestniczył w szczycie Współpracy Gospodarczej Azji i Pacyfiku (Apec) w Shenzhen na południu, powiedziała reporterom rzeczniczka Olivia Wales."
       ],
       "extended_paragraphs": [
-        "Deputowany do rosyjskiej Dumy z okupowanego przez Rosję Krymu Michaił Szeremet skrytykował Mołdawię za podpisanie umowy o współpracy na polu wojskowym i technicznym z Ukrainą. Według rosyjskiego polityka, porozumienie ma militarystyczny charakter i może wciągnąć Mołdawię w konflikt zbrojny.",
-        "Podpisana w październiku, a ogłoszona w czwartek umowa między Mołdawią a Ukrainą związana jest m.in. z wymianą informacji technicznych i naukowych, doświadczeń czy informacji technicznych i naukowych.",
-        "Jak wskazuje państwowa mołdawska agencja prasowa Moldpres, jest w niej też zawarty transfer wiedzy i technologii w zakresie modernizacji i bezpiecznej eksploatacji sprzętu wojskowego, logistyki, ochrony infrastruktury krytycznej, rozwoju zdolności w zakresie cyberobrony oraz nadzoru przestrzeni powietrznej.",
-        "Na ruch Mołdawii zareagował deputowany do rosyjskiej Dumy z okupowanego przez Rosjan Krymu.",
-        "- Porozumienie o współpracy wojskowo-technicznej między Mołdawią a Ukrainą wyraźnie wskazuje na nieprzyjazny i agresywnie militarystyczny charakter wobec Rosji - stwierdził Michaił Szeremet, cytowany przez kremlowską agencję RIA Novosti."
+        "Rzeczniczka twierdzi, że Trump omówi „redukcję broni nuklearnej” podczas bezprecedensowych rozmów.",
+        "Biały Dom poinformował, że Donald Trump, Władimir Putin i Xi Jinping planują spotkać się na marginesie szczytu w Chinach w przyszłym tygodniu.",
+        "Historyczne spotkanie przywódców Stanów Zjednoczonych, Rosji i Chin odbędzie się w czasie, gdy Trump będzie uczestniczył w szczycie Współpracy Gospodarczej Azji i Pacyfiku (Apec) w Shenzhen na południu, powiedziała reporterom rzeczniczka Olivia Wales.",
+        "„Prezydent dał jasno do zrozumienia, że ​​będzie między innymi omawiał redukcję broni nuklearnej na świecie, której rozprzestrzenianie według prezydenta Trumpa jest bardzo niebezpieczne” – powiedziała.",
+        "Rozumie się, że podczas spotkania największych potęg nuklearnych świata może być mowa także o Iranie, ale nie o Ukrainie. Moskwa i Pekin nie skomentowały jeszcze tej informacji."
       ]
     },
     {
-      "id": "swiat-5-2411e0",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
+      "id": "swiat-4-f87504",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Kłopoty Petera Magyara. Padają poważne oskarżenia",
+      "title": "Rosja postawiła żądania w sprawie wojny. Media: Jedno dotyczy Polski",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:24",
+      "time": "06:40",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-13/klopoty-petera-magyara-padaja-powazne-oskarzenia/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/dy/dyc5ao1cwx3d6vks75w2w16pivjpy3sf.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-14/rosja-postawila-zadania-w-sprawie-wojny-media-jedno-dotyczy-polski/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/8w/8wmwri5jgsyan4qsax2ktj5ynwhhd2be.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Do Centralnego Prokuratora Śledczego wpłynęło zawiadomienie przeciwko Peterowi Magyarowi w związku ze stosowaniem szantażu i przemocy domowej wobec byłej żony Judit Vargi - podają węgierskie media.",
-        "Materiał miał posłużyć politykowi do szantażu m.in. w czasie trwania sprawy rozwodowej.",
-        "Serwis hvg.hu poinformował, że zawiadomienie zostało sformułowane w oparciu o oświadczenia byłej minister sprawiedliwości Judit Vargi , złożone w tym tygodniu przed komisją śledczą Zgromadzenia Narodowego."
+        "Podczas negocjacji w Abu Zabi, Rosja domagała się wycofania wojsk NATO ze wschodniej flanki, w tym z Polski - podaje New York Times.",
+        "Rosyjscy negocjatorzy żądali też, by Francja i Wielka Brytania wykluczyły możliwość użycia broni jądrowej w obronie państw europejskich.",
+        "Wcześniej niemiecki Bild podawał, że Rosja w zamian za pokój w Ukrainie oczekiwała m.in. wyjścia Finlandii z Sojuszu."
       ],
       "extended_paragraphs": [
-        "Do Centralnego Prokuratora Śledczego wpłynęło zawiadomienie przeciwko Peterowi Magyarowi w związku ze stosowaniem szantażu i przemocy domowej wobec byłej żony Judit Vargi - podają węgierskie media. Materiał miał posłużyć politykowi do szantażu m.in. w czasie trwania sprawy rozwodowej.",
-        "Serwis hvg.hu poinformował, że zawiadomienie zostało sformułowane w oparciu o oświadczenia byłej minister sprawiedliwości Judit Vargi , złożone w tym tygodniu przed komisją śledczą Zgromadzenia Narodowego.",
-        "\"Ilona Ekes, była posłanka do Zgromadzenia Narodowego z ramienia partii Fidesz, złożyła zawiadomienie o popełnieniu przestępstwa w Centralnej Prokuraturze Śledczej przeciwko Peterowi Magyarowi pod zarzutem szantażu i przemocy w związku \" - poinformowała w piątek agencję MTI Judit Czunyine Bertalan, szefowa Védvonal, organizacji oferującej pomoc prawną, założonej przez partię Fidesz.",
-        "\"Długotrwałe i systematyczne wywieranie presji doprowadziło do psychicznego terroru i kontroli w związku małżeńskim\" - podano w komunikacie.",
-        "Ekes zwróciła się w zawiadomieniu o wszczęcie postępowania przygotowawczego . Uzyskała też dowody dotyczące sprawy - dokumenty i nagranie audio ze stycznia 2023 roku. Jak zaznaczono, zbadała też okoliczności powstania nagrania, ewentualną manipulację nim oraz stopień naruszenia praw osobistych."
+        "Podczas negocjacji w Abu Zabi, Rosja domagała się wycofania wojsk NATO ze wschodniej flanki, w tym z Polski - podaje New York Times. Rosyjscy negocjatorzy żądali też, by Francja i Wielka Brytania wykluczyły możliwość użycia broni jądrowej w obronie państw europejskich. Wcześniej niemiecki Bild podawał, że Rosja w zamian za pokój w Ukrainie oczekiwała m.in. wyjścia Finlandii z Sojuszu.",
+        "Podczas negocjacji w Abu Zabi Rosja przedstawiła żądania podobne do postulatów ze swojego ultimatum przed agresją na Ukrainę - podał \"New York Times\".",
+        "Gazeta opisuje złożony przez Rosjan dokument, tzw. non-paper, w którym nieoficjalnie przedstawiła swoje żądania powojennej \"architektury bezpieczeństwa\" w Europie . Wiele z rosyjskich żądań pokrywało się z tym, czego Kreml domagał się przed pełnoskalową napaścią na Ukrainę.",
+        "Chodzi m.in. o wycofanie wojsk i baz NATO do granic sojuszu z 1997 roku, czyli przed przystąpieniem Polski i innych krajów regionu .",
+        "Rosyjscy negocjatorzy domagali się, by NATO wykluczyło dalszą ekspansję sojuszu, a także \"jakąkolwiek działalność militarną\" w Ukrainie i w innych częściach \"Europy Wschodniej, Kaukazu Południowego i Azji Środkowej\" ."
+      ]
+    },
+    {
+      "id": "swiat-5-2d5b25",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Donald Trump spotka się z Xi i Putinem. Biały Dom potwierdza, jest termin",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "05:53",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-14/donald-trump-spotka-sie-z-xi-i-putinem-bialy-dom-potwierdza-jest-termin/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/vn/vnkzzgyjhgkxkddororxr7vt42r1vs2z.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Podczas wizyty w chińskim Shenzhen prezydent USA Donald Trump weźmie udział w spotkaniu z przywódcami Rosji i Chin, Władimirem Putinem i Xi Jinpingiem - potwierdził Biały Dom.",
+        "Według zapowiedzi amerykański polityk nie zamierza poruszać tematu wojny w Ukrainie.",
+        "- Będzie rozmawiał między innymi o redukcji zbrojeń nuklearnych - zaznaczyła rzeczniczka Białego Domu Olivia Wales."
+      ],
+      "extended_paragraphs": [
+        "Podczas wizyty w chińskim Shenzhen prezydent USA Donald Trump weźmie udział w spotkaniu z przywódcami Rosji i Chin, Władimirem Putinem i Xi Jinpingiem - potwierdził Biały Dom. Według zapowiedzi amerykański polityk nie zamierza poruszać tematu wojny w Ukrainie. - Będzie rozmawiał między innymi o redukcji zbrojeń nuklearnych - zaznaczyła rzeczniczka Białego Domu Olivia Wales.",
+        "Prezydent USA Donald Trump weźmie udział w czwartek w spotkaniu trójstronnym z przywódcami Rosji i Chin, Władimirem Putinem i Xi Jinpingiem podczas wizyty w chińskim Shenzhen - podał Biały Dom.",
+        "Jak powiedziała podczas telekonferencji prasowej rzeczniczka Białego Domu Olivia Wales, do spotkania Trumpa z Putinem i Xi dojdzie na koniec wizyty prezydenta USA w Shenzhen na szczycie Wspólnoty Gospodarczej Azji i Pacyfiku (APEC). Wcześniej Trump spotka się też osobno z samym Xi.",
+        "- Prezydent jasno dał do zrozumienia, że będzie rozmawiał między innymi o redukcji broni jądrowej na świecie , której rozprzestrzenianie uważa za bardzo niebezpieczne - powiedziała Wales.",
+        "Jak powiedzieli wysocy rangą przedstawiciele Białego Domu, Trump zamierza podczas spotkania poruszyć temat wojny w Iranie, lecz nie zamierza omawiać wojny w Ukrainie , uważając to za \"niestosowne\" w obliczu tego, że Chiny nie biorą udziału w negocjacjach w tej sprawie."
       ]
     }
   ],
   "sport": [
+    {
+      "id": "sport-1-f61a18",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Nokaut 0:7. Internet aż płonie. \"Mecz hańby\", \"koszmar bez końca\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:44",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/fototemat/1284094/nokaut-07-internet-az-plonie-mecz-hanby-koszmar-bez-konca",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af802df285445_78506576.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": true,
+      "summary_points": [
+        "Reprezentacja Holandii rozbiła Greków w meczu Ligi Narodów.",
+        "Spotkanie zakończyło się wynikiem 7:0.",
+        "Greckie media ostro reagują na kompromitację swojej drużyny narodowej."
+      ],
+      "extended_paragraphs": [
+        "Reprezentacja Holandii rozbiła Greków w meczu Ligi Narodów. Spotkanie zakończyło się wynikiem 7:0. Greckie media ostro reagują na kompromitację swojej drużyny narodowej. Piszą o kompromitacji i hańbie.",
+        "Skomentuj Reprezentacja Holandii rozbiła Greków w meczu Ligi Narodów. Spotkanie zakończyło się wynikiem 7:0. Greckie media ostro reagują na kompromitację swojej drużyny narodowej. Piszą o kompromitacji i hańbie.",
+        "\"Panie Jovanović, za bardzo uwierzył pan w siebie. Czas beztroskiej reprezentacji na szczęście się skończył\" - pisze autor mocnego materiału opublikowanego na sport24.gr. W tym samym artykule czytamy, że \" Holandia upokorzyła reprezentację Grecji i zakończyła pewien etap drużyny oraz trenera, którym dotychczas wybaczano wszystko. Czas odważnych decyzji coraz mocniej puka do drzwi greckiej federacji piłkarskiej\".",
+        "\"Koszmar bez końca i bez precedensu!\" - w ten sposób dotkliwą porażkę z Holendrami podsumowano na Gazzetta.gr. Mocnych słów nie brakuje również w treści.",
+        "\"W najczarniejszą noc greckiego futbolu od zakończenia II wojny światowej reprezentacja została upokorzona i rozbita w Amsterdamie, przegrywając 0:7 z grającą kosmiczny futbol Holandią, która nie przestawała strzelać goli\" - podkreślił korespondent greckie gazety."
+      ]
+    },
     {
       "id": "sport-2-4dfc71",
       "entity_tag": "Piłka Nożna",
@@ -1885,7 +1950,7 @@
       "source_url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Czego fani Manchesteru United mogą oczekiwać od nowego menedżera Mauricio Pochettino?",
         "BBC Sport otrzymuje informacje od Toby’ego Alderweirelda, który grał pod jego okiem w Spurs.",
@@ -1900,7 +1965,7 @@
       ]
     },
     {
-      "id": "sport-6-4fd16c",
+      "id": "sport-8-4fd16c",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1932,101 +1997,35 @@
       ]
     },
     {
-      "id": "sport-8-cc1d99",
+      "id": "sport-3-8ff90a",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 7,4 miliona funtów) o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [
-        "7,4 miliona funtów"
-      ],
-      "title": "Zapłakany Pochettino o „trudnej” decyzji o opuszczeniu USA i przejściu do Man Utd",
-      "original_title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:28",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Wzruszony Mauricio Pochettino załamał się, gdy wyjaśnił, dlaczego opuszcza USA, aby objąć posadę w Manchesterze United.",
-        "Mauricio Pochettino mówi, że decyzja o porzuceniu roli selekcjonera reprezentacji USA i objęciu funkcji głównego trenera Manchesteru United była „jedną z najtrudniejszych” w jego karierze.",
-        "W piątek na Old Trafford ogłoszono, że Argentyńczyk będzie następcą Michaela Carricka, a źródła podają BBC Sport, że podpisał dwuipółletni kontrakt."
-      ],
-      "extended_paragraphs": [
-        "Wzruszony Mauricio Pochettino załamał się, gdy wyjaśnił, dlaczego opuszcza USA, aby objąć posadę w Manchesterze United.",
-        "Mauricio Pochettino mówi, że decyzja o porzuceniu roli selekcjonera reprezentacji USA i objęciu funkcji głównego trenera Manchesteru United była „jedną z najtrudniejszych” w jego karierze.",
-        "W piątek na Old Trafford ogłoszono, że Argentyńczyk będzie następcą Michaela Carricka, a źródła podają BBC Sport, że podpisał dwuipółletni kontrakt.",
-        "United zapłaciło klauzulę odstępnego w wysokości około 7,4 miliona funtów, aby wyrwać Pochettino z jego kontraktu w USA, a także zapłacić dalszą kwotę na rzecz jego personelu zaplecza.",
-        "Pochettino podpisał nowy czteroletni kontrakt z USA dopiero latem, ale odejdzie do Manchesteru po tym, jak poprowadził drużynę narodową w meczach z Haiti 14 i 18 listopada."
-      ]
-    },
-    {
-      "id": "sport-1-054bf2",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Sensacja! Ukrainka wyeliminowała Arynę Sabalenkę",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "23:30",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284083/sensacja-ukrainka-wyeliminowala-aryne-sabalenke",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af79d85c53408_15516860.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Aryna Sabalenka, główna faworytka do triumfu w WTA Finals po wycofaniu się Jeleny Rybakiny, odpadła już w fazie grupowej.",
-        "Białorusinka poniosła drugą porażkę z rzędu, ulegając tym razem Elinie Switolinie po trzech setach 3:6, 6:3, 1:6.",
-        "6 Komentarzy Aryna Sabalenka, główna faworytka do triumfu w WTA Finals po wycofaniu się Jeleny Rybakiny, odpadła już w fazie grupowej."
-      ],
-      "extended_paragraphs": [
-        "Aryna Sabalenka, główna faworytka do triumfu w WTA Finals po wycofaniu się Jeleny Rybakiny, odpadła już w fazie grupowej. Białorusinka poniosła drugą porażkę z rzędu, ulegając tym razem Elinie Switolinie po trzech setach 3:6, 6:3, 1:6.",
-        "6 Komentarzy Aryna Sabalenka, główna faworytka do triumfu w WTA Finals po wycofaniu się Jeleny Rybakiny, odpadła już w fazie grupowej. Białorusinka poniosła drugą porażkę z rzędu, ulegając tym razem Elinie Switolinie po trzech setach 3:6, 6:3, 1:6.",
-        "Aryna Sabalenka rozpoczęła tegoroczne WTA Finals od zwycięstwa nad Karoliną Muchovą, ale później została rozbita przez Mirrę Andriejewą. Przed ostatnim meczem grupowym Białorusinka wciąż miała szansę na awans do półfinału. Musiała jednak pokonać Elinę Switolinę, która również walczyła o miejsce w najlepszej czwórce turnieju. Stawka bezpośredniego pojedynku była więc ogromna.",
-        "Choć Sabalenka była faworytką tego spotkania, nieoczekiwanie pożegnała się z turniejem. Białorusinka przegrała z Ukrainką 3:6, 6:3, 1:6. Tym samym straci drugie miejsce w rankingu WTA na rzecz Andriejewej, a jeśli Jessica Pegula wygra turniej, spadnie nawet na czwartą pozycję.",
-        "Pierwszy set lepiej rozpoczęła Sabalenka, która szybko przełamała rywalkę i objęła prowadzenie 2:0. Switolina zdołała jednak odpowiedzieć, wykorzystując błędy Białorusinki. W czwartym gemie odebrała jej podanie do zera i doprowadziła do remisu 2:2."
-      ]
-    },
-    {
-      "id": "sport-3-bb4183",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Mocny rewanż Taylora Fritza. O tytuł zagra z rewelacją turnieju",
+      "title": "Gdzie oglądać Puchar Świata kobiet w Levi? Czy będzie stream online?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:48",
+      "time": "06:31",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284079/mocny-rewanz-taylora-fritza-o-tytul-zagra-z-rewelacja-turnieju",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af792672babe8_85676317.jpg",
+      "source_url": "https://sportowefakty.wp.pl/narciarstwo-alpejskie/1283956/gdzie-ogladac-puchar-swiata-kobiet-w-levi-czy-bedzie-stream-online",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/5c35118a541822_87527089.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Taylor Fritz pewnie pokonał Lorenzo Musettiego w półfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie.",
-        "Najwyżej rozstawiony Amerykanin o tytuł zmierzy się z Thiago Agustinem Tirante.",
-        "Skomentuj Taylor Fritz pewnie pokonał Lorenzo Musettiego w półfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie."
+        "Najlepsze alpejki rozpoczną walkę o punkty w slalomowym Pucharze Świata.",
+        "Pod nieobecność Mikaeli Shiffrin rywalizacja w Levi zapowiada się wyjątkowo ciekawie.",
+        "Oglądaj na żywo na Eurosporcie 1 i online w Pilocie WP."
       ],
       "extended_paragraphs": [
-        "Taylor Fritz pewnie pokonał Lorenzo Musettiego w półfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie. Najwyżej rozstawiony Amerykanin o tytuł zmierzy się z Thiago Agustinem Tirante.",
-        "Skomentuj Taylor Fritz pewnie pokonał Lorenzo Musettiego w półfinale rozgrywanego na kortach twardych w hali turnieju ATP 250 w Sztokholmie. Najwyżej rozstawiony Amerykanin o tytuł zmierzy się z Thiago Agustinem Tirante.",
-        "W październiku, w finale imprezy w Lyonie, Lorenzo Musetti niespodziewanie pokonał Taylora Fritza , czym utrudnił Amerykaninowi i tak w końcowym rozrachunku nieudaną walkę o kwalifikację do ATP Finals. W piątek ci tenisiści znów się zmierzyli, tym razem w półfinale turnieju ATP 250 w Sztokholmie. 29-latek z Kalifornii wziął rewanż za porażkę sprzed tygodni i zwyciężył 6:4, 6:2.",
-        "Najwyżej rozstawiony Fritz od początku meczu przejął inicjatywę. Amerykanin przewyższał oznaczonego \"trójką\" Musettiego siłą, jakością i precyzją zagrań. Wspaniale serwował (posłał siedem asów i przy własnym podaniu zdobył 36 z 45 rozegranych punktów), był skuteczny w wymianach (zagrał 26 uderzeń kończących i popełnił tylko 12 niewymuszonych błędów), do tego ani razu nie musiał bronić się przed przełamaniem, podczas gdy sam wykorzystał trzy z czterech break pointów. To wszystko złożyło się na jego pewne zwycięstwo.",
-        "- Niedawno z nim przegrałem, więc wiedziałem, że muszę zagrać inaczej. Zrealizowałem swój plan i zaprezentowałem się z naprawdę dobrej strony - ocenił Fritz, który awansował do 25. w karierze, a szóstego w obecnym sezonie, finału w głównym cyklu i stanie przed szansą na zdobycie 11. tytułu, w tym drugiego w 2026 roku."
+        "Najlepsze alpejki rozpoczną walkę o punkty w slalomowym Pucharze Świata. Pod nieobecność Mikaeli Shiffrin rywalizacja w Levi zapowiada się wyjątkowo ciekawie. Oglądaj na żywo na Eurosporcie 1 i online w Pilocie WP.",
+        "Skomentuj Najlepsze alpejki rozpoczną walkę o punkty w slalomowym Pucharze Świata. Pod nieobecność Mikaeli Shiffrin rywalizacja w Levi zapowiada się wyjątkowo ciekawie. Oglądaj na żywo na Eurosporcie 1 i online w Pilocie WP.",
+        "Po trzytygodniowej przerwie zawodniczki wracają do rywalizacji w alpejskim Pucharze Świata. Drugim przystankiem sezonu 2026/2027 będzie fińskie Levi. W sobotę, 14 listopada, odbędzie się tam pierwszy slalom kobiet tej zimy.",
+        "Zawody odbędą się na trasie Levi Black. Pierwszy przejazd rozpocznie się o godzinie 10:00 czasu polskiego. Do drugiego awansuje 30 najlepszych zawodniczek. Decydująca część rywalizacji ruszy o 13:00.",
+        "ZOBACZ WIDEO: Dawid Góra: Pół roku i bez zmian. Obrzydliwy świat rosyjskich sprzymierzeńców"
       ]
     },
     {
@@ -2062,7 +2061,39 @@
       ]
     },
     {
-      "id": "sport-5-dadd9c",
+      "id": "sport-5-10fb09",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Żużel. \"Nie sądzę, żebym jeszcze kiedyś wsiadł na motocykl\". Zaskakujące wyznanie byłego mistrza",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:30",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/zuzel/1283604/zuzel-nie-sadze-zebym-jeszcze-kiedys-wsiadl-na-motocykl-zaskakujace-wyznanie-byl",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/61edb946f38318_75945290.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Po czterech latach przerwy ponownie pojawił się na torze, ale jego powrót zakończył się groźnie wyglądającym upadkiem.",
+        "Dziś Theo Pijper większość czasu poświęca jednak żużlowym karierom swoich dzieci.",
+        "Skomentuj Po czterech latach przerwy ponownie pojawił się na torze, ale jego powrót zakończył się groźnie wyglądającym upadkiem."
+      ],
+      "extended_paragraphs": [
+        "Po czterech latach przerwy ponownie pojawił się na torze, ale jego powrót zakończył się groźnie wyglądającym upadkiem. Dziś Theo Pijper większość czasu poświęca jednak żużlowym karierom swoich dzieci.",
+        "Skomentuj Po czterech latach przerwy ponownie pojawił się na torze, ale jego powrót zakończył się groźnie wyglądającym upadkiem. Dziś Theo Pijper większość czasu poświęca jednak żużlowym karierom swoich dzieci.",
+        "Theo Pijper przez lata należał do rozpoznawalnych postaci europejskiego żużla. Holender, który dwukrotnie zdobywał mistrzostwo Europy w wyścigach na trawie i reprezentował swój kraj w Drużynowych Mistrzostwach Świata na długim torze, po czteroletniej przerwie postanowił ponownie spróbować swoich sił na motocyklu.",
+        "Po czteroletniej przerwie ponownie pojawił się na torze podczas turnieju Teesside Silver Helmet w Redcar. Powrót 46-letniego Holendra zakończył się jednak groźnie wyglądającym upadkiem i uderzeniem w bandę powietrzną. Co ciekawe, identyczne zawody były również miejscem jego poprzedniego występu w 2022 roku, kiedy złamał obojczyk. Tym razem obyło się bez złamań, ale sam zawodnik nie ukrywał, że ponowne wsiadanie na motocykl może już nie wchodzić w grę.",
+        "Żużel od lat jest nieodłączną częścią życia rodziny Pijperów. Theo i jego żona Carrie doczekali się trójki dzieci, a dwaj synowie poszli w ślady ojca. Ace systematycznie przebija się do podstawowego składu Redcar Bears , natomiast Stene regularnie występuje w rozgrywkach National Development League w barwach Middlesbrough . W 2025 roku młodszy z braci sięgnął po tytuł Młodzieżowego Mistrza Wielkiej Brytanii w klasie 500cc, mimo że przez cały sezon zmagał się z dokuczliwą kontuzją barku i miał za sobą kilka poważnych upadków."
+      ]
+    },
+    {
+      "id": "sport-6-55772a",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2070,59 +2101,59 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Jest córką byłego reprezentanta Polski. Błyszczy w sieci",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:44",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/sportowybar/1284080/jest-corka-bylego-reprezentanta-polski-byla-w-top-model",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af79535f1c1c0_98938283.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
+      "title": "Jak ponowne spotkanie ze skautem Bompastorem rozwiązało problem napastnika Chelsea",
+      "original_title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "06:37",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5264/live/26ec7c50-deb7-11f1-93e1-3b657b665bcf.png",
+      "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Julia Zając jest bardzo aktywna w mediach społecznościowych.",
-        "Na Instagramie opublikowała już ponad 1700 postów.",
-        "Nazwisko Juli nie jest przypadkowe - to córka byłego reprezentanta Polski w piłce nożnej - Marcina."
+        "Napastnik Chelsea Melvine Malard i menadżerka Sonia Bompastor opowiadają historię swojego 12-letniego związku piłkarskiego.",
+        "Źródło zdjęcia, Melvine Malard / Chelsea FC Tytuł zdjęcia, Sonia Bompastor pracowała jako szefowa ds.",
+        "rozwoju młodzieży w Lyonie, gdy Melvine Malard grał w Clairfontaine Tysiące mil od domu 14-latka przeżyła spotkanie, które odmieniło jej życie."
       ],
       "extended_paragraphs": [
-        "Julia Zając jest bardzo aktywna w mediach społecznościowych. Na Instagramie opublikowała już ponad 1700 postów. Nazwisko Juli nie jest przypadkowe - to córka byłego reprezentanta Polski w piłce nożnej - Marcina.",
-        "Skomentuj Julia Zając jest bardzo aktywna w mediach społecznościowych. Na Instagramie opublikowała już ponad 1700 postów. Nazwisko Juli nie jest przypadkowe - to córka byłego reprezentanta Polski w piłce nożnej - Marcina.",
-        "Jej partnerem jest Jan Balawejder, który od 1,5 roku nie ma klubu piłkarskiego. Wygląda jednak na to, że rzucił futbol. Na swoim profilu na Instagramie ma podpis \"założył i dyrektor generalny\" w firmie, która zajmuje się projektowaniem luksusowych rezydencji. Co ciekawe, w \"zespole\" znajduje się także profil Juli Zając, która jest \"specjalistką ds. sprzedaży\".",
-        "Jan Balawejder przez wiele lat był piłkarzem. Zaczynał w Legii Warszawa, ale nie zadebiutował w pierwszej drużynie. Występował w Polonii Warszawa, Wigrach Suwałki, Hutniku Warszawa, a jego ostatnim klubem był MKS Piaseczno.",
-        "W 2021 roku Julia zasłynęła z kolei w programie \"Top Model\", gdzie wystąpiła w sumie w dwóch odcinkach. \"Od lat oglądam ten program i w tym roku wiem, że jestem po prostu na niego gotowa i psychicznie i fizycznie, także jeżeli zobaczymy się w kolejnym etapie, to pokażę na co mnie stać i zawalczę o finał\" - powiedziała wówczas."
+        "Napastnik Chelsea Melvine Malard i menadżerka Sonia Bompastor opowiadają historię swojego 12-letniego związku piłkarskiego.",
+        "Źródło zdjęcia, Melvine Malard / Chelsea FC Tytuł zdjęcia, Sonia Bompastor pracowała jako szefowa ds. rozwoju młodzieży w Lyonie, gdy Melvine Malard grał w Clairfontaine",
+        "Tysiące mil od domu 14-latka przeżyła spotkanie, które odmieniło jej życie.",
+        "W lesie, około godziny drogi od Paryża, znajduje się francuska narodowa akademia piłkarska w Clairefontaine. Słynące z rozwoju światowych gwiazd, takich jak Kylian Mbappe i Thierry Henry, to także miejsce, w którym w 2014 roku nastoletni Melvine Malard po raz pierwszy spotkał Sonię Bompastor.",
+        "Malard przyjechał z wyspy Reunion, francuskiego terytorium zamorskiego na Oceanie Indyjskim, aby wziąć udział w turnieju piłki nożnej. Z boku obserwował tytana francuskiego futbolu."
       ]
     },
     {
-      "id": "sport-7-65f174",
-      "entity_tag": "Sport Światowy",
+      "id": "sport-7-fbd8ae",
+      "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Sprawiła lanie przyjaciółce. \"To było stresujące\"",
+      "title": "Usłyszał, że może umrzeć na boisku. Trzy dni później lekarz powiedział mu coś zupełnie innego",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:33",
+      "time": "06:25",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284076/sprawila-lanie-przyjaciolce-to-bylo-stresujace",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af78e105003d5_28296570.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1276820/uslyszal-ze-moze-umrzec-na-boisku-trzy-dni-pozniej-lekarz-powiedzial-mu-cos-zupe",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6abd8d68c32aa5_47076222.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Gra przeciwko przyjaciółce okazała się dla Mirry Andriejewej bardziej stresującym przeżyciem, niż mogłoby się wydawać.",
-        "Rosjanka opowiedziała o swoich odczuciach po spotkaniu z Dianą Sznaider w WTA Finals.",
-        "1 Komentarz Gra przeciwko przyjaciółce okazała się dla Mirry Andriejewej bardziej stresującym przeżyciem, niż mogłoby się wydawać."
+        "Damian Gorawski był już w kadrze na mundial w 2006 roku, gdy lekarze zatrzymali jego wyjazd.",
+        "Usłyszał, że dalsza gra może grozić nawet śmiercią.",
+        "Kilka dni później w Monachium dowiedział się czegoś zupełnie innego."
       ],
       "extended_paragraphs": [
-        "Gra przeciwko przyjaciółce okazała się dla Mirry Andriejewej bardziej stresującym przeżyciem, niż mogłoby się wydawać. Rosjanka opowiedziała o swoich odczuciach po spotkaniu z Dianą Sznaider w WTA Finals.",
-        "1 Komentarz Gra przeciwko przyjaciółce okazała się dla Mirry Andriejewej bardziej stresującym przeżyciem, niż mogłoby się wydawać. Rosjanka opowiedziała o swoich odczuciach po spotkaniu z Dianą Sznaider w WTA Finals.",
-        "Mirra Andriejewa zakończyła fazę grupową WTA Finals z kompletem trzech zwycięstw. W piątek 19-letnia Rosjanka pokonała Dianę Sznaider 6:2, 6:1, choć samo spotkanie miało dla niej nieco inny wymiar niż dwa wcześniejsze pojedynki przeciwko Elinie Switolinie i Arynie Sabalence . Obie tenisistki dobrze się znają, a ponadto wspólnie występują w deblu.",
-        "- Nie wiem, jak bardzo mi się to podobało. Miło jest dzielić kort z przyjaciółką. Dla mnie osobiście to bardziej stresujące, bo dobrze ją znam - powiedziała Mirra Andriejewa w rozmowie na korcie bezpośrednio po meczu.",
-        "Rosjanka, mistrzyni Rolanda Garrosa , wcześniej bez większych problemów wygrała dwa pierwsze mecze turnieju. Każdy z nich zajął jej nieco ponad godzinę. Tym razem dodatkowym utrudnieniem były warunki atmosferyczne. W piątek znacznie nasilił się wiatr, co utrudniało grę."
+        "Damian Gorawski był już w kadrze na mundial w 2006 roku, gdy lekarze zatrzymali jego wyjazd. Usłyszał, że dalsza gra może grozić nawet śmiercią. Kilka dni później w Monachium dowiedział się czegoś zupełnie innego.",
+        "Skomentuj Damian Gorawski był już w kadrze na mundial w 2006 roku, gdy lekarze zatrzymali jego wyjazd. Usłyszał, że dalsza gra może grozić nawet śmiercią. Kilka dni później w Monachium dowiedział się czegoś zupełnie innego.",
+        "Jeszcze chwilę wcześniej był na sportowym szczycie. Strzelał Realowi Madryt na Santiago Bernabeu, grał w reprezentacji Polski i występował w Rosji. Mistrzostwa świata miały być spełnieniem dziecięcego marzenia.",
+        "ZOBACZ WIDEO: Dawid Góra: Pół roku i bez zmian. Obrzydliwy świat rosyjskich sprzymierzeńców",
+        "Dla skrzydłowego był to moment szczególny. Po latach wspominał, że od dzieciństwa marzył o tym, by podczas mistrzostw świata stanąć w reprezentacyjnej koszulce i zaśpiewać hymn."
       ]
     }
   ],
@@ -2299,42 +2330,6 @@
       ]
     },
     {
-      "id": "rynki-7-cd367c",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,38 mld zł",
-        "2,87 mld zł",
-        "1,69%"
-      ],
-      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:30",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
-        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
-        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
-      ],
-      "extended_paragraphs": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
-        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
-        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
-        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
-        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
-      ]
-    },
-    {
       "id": "rynki-2-50a2e0",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
@@ -2366,6 +2361,38 @@
         "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z dnia 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
         "Jednak firma, wcześniej prowadzona przez Sekretarza Handlu Howarda Lutnicka, a obecnie kierowana przez jego synów, Brandona i Kyle’a, odnotowała prawie 50% spadek liczby akcji Nvidii posiadanych w okresie od września 2025 r. do marca 2026 r., wynika z analizy CNBC dokumentów dotyczących papierów wartościowych, z wyłączeniem opcji. Nvidia była jedną z największych pozycji na akcjach zgłoszonych w dokumentach Cantora.",
         "Spadek zbiegł się w czasie z naciskami Białego Domu i wywiadu USA na Lutnicka, aby rozprawił się z Megaspeed, singapurską firmą podejrzaną o wysyłanie zaawansowanych chipów sztucznej inteligencji Nvidii do Chin. Jak poinformowała 11 listopada Axios, Lutnick wielokrotnie stawiał opór tym wysiłkom."
+      ]
+    },
+    {
+      "id": "rynki-7-72c231",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [],
+      "title": "Nvidia bez steru, Anthropic z potężną stratą i wyceną w kosmos. Wall Street ostrzega przed \"drenażem mózgów\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-bez-steru-Anthropic-z-potezna-strata-i-wycena-w-kosmos-Wall-Street-ostrzega-przed-drenazem-mozgow-9228586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/0/9/5ca8bfcbc825c6-948-568-262-358-2966-1779.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Fala wyprzedaży wstrząsnęła akcjami Nvidii po niespodziewanej rezygnacji J.",
+        "Huanga w związku ze skandalem obyczajowym.",
+        "Odejście dotychczasowego lidera podzieliło Wall Street – część rynku ostro rewiduje wycenę giganta, podczas gdy inni szukają okazji na tańsze wejście w sektor AI."
+      ],
+      "extended_paragraphs": [
+        "Fala wyprzedaży wstrząsnęła akcjami Nvidii po niespodziewanej rezygnacji J. Huanga w związku ze skandalem obyczajowym. Odejście dotychczasowego lidera podzieliło Wall Street – część rynku ostro rewiduje wycenę giganta, podczas gdy inni szukają okazji na tańsze wejście w sektor AI. Równolegle uwaga analityków przenosi się na nadchodzące debiuty w branży sztucznej inteligencji.",
+        "fot. Lev Radin / / Zuma Press / Forum Pierwszą falę obniżek zapoczątkował bank inwestycyjny Oppenheimer, który zmienił rekomendację z „outperform” na „market perform” i całkowicie wycofał swoją docelową cenę akcji Nvidii. Instytucja ostrzegła przed możliwym zjawiskiem „drenażu mózgów”, z którego prawdopodobnie skorzystają najwięksi rynkowi rywale: AMD, Marvell Technologies i Broadcom.",
+        "Odejście charyzmatycznego lidera to wydarzenie o charakterze przełomowym - określa analityk Ricka Schafera .",
+        "Równie ostre cięcie zastosowała grupa Bernstein, która zrewidowała cenę docelową o połowę, z 400 USD na 200 USD, a także obniżyła rating. Mimo że po pierwszej reakcji inwestorów akcje odbiły do poziomu 170 USD, analitycy z Bernstein twierdzą, że nie dostrzegają już w Nvidii dużego potencjału wzrostu.",
+        "Stacy Rasgon otwarcie przyznał, że rynek prawdopodobnie nie poznał jeszcze pełnego obrazu sytuacji, dlatego firma zdecydowała się stanąć z boku i obrać pozycję wyczekującą."
       ]
     },
     {

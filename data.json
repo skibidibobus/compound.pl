@@ -2,10 +2,10 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.318",
-    "last_updated": "2026-11-14 23:12",
+    "edition": "#2026.319",
+    "last_updated": "2026-11-15 02:54",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
-    "polish_articles_count": 20,
+    "polish_articles_count": 17,
     "foreign_translated_count": 19,
     "breaking_banner": {
       "enabled": false,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$63,504",
-      "change": "-6.56%",
+      "price": "$64,693",
+      "change": "-4.40%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,743",
-      "change": "-9.19%",
+      "price": "$1,807",
+      "change": "-5.46%",
       "is_positive": false
     },
     {
@@ -1013,35 +1013,39 @@
       ]
     },
     {
-      "id": "rynki-7-1bcd75",
-      "entity_tag": "GPW w Warszawie",
-      "sector": "Rynek Kapitałowy",
+      "id": "rynki-7-c58f6f",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Energetyka, przemysł i handel z potencjałem. Ekspert ocenia perspektywy GPW",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 781 mln zł, 492,1 mld zł, 491,7 mld zł) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "781 mln zł",
+        "492,1 mld zł",
+        "491,7 mld zł"
+      ],
+      "title": "Polacy gromadzą coraz więcej w PPK. Aktywa funduszy biją rekordy",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
       "time": "14:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Energetyka-przemysl-i-handel-z-potencjalem-Ekspert-ocenia-perspektywy-GPW-9227833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/6/8/1288b01e0a034a-948-568-12-75-987-592.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Polacy-gromadza-coraz-wiecej-w-PPK-Aktywa-funduszy-bija-rekordy-9227957.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/d/4/f1e3e1e3ddf88d-945-560-517-270-3960-2375.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Mimo bardzo wysokich wzrostów w tym roku, warszawska giełda ma szanse na dalsze zwyżki.",
-        "Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU.",
-        "Jego zdaniem, in plus mogą wyróżniać się m."
+        "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł.",
+        "Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
+        "fot. Tomasz Ras / / Puls Biznesu Po wrześniowym spadku polski rynek funduszy inwestycyjnych powrócił na ścieżkę wzrostu i na koniec października krajowe fundusze zarządzały aktywami netto o wartości 492,1 mld zł, czyli o 781 mln zł (0,2 proc.) większymi niż miesiąc wcześniej."
       ],
       "extended_paragraphs": [
-        "Mimo bardzo wysokich wzrostów w tym roku, warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać się m. in. spółki energetyczne, przemysłowe, konsumenckie i surowcowe.",
-        "fot. Mateusz Szymański / / Shutterstock „Jeśli chodzi o to, jak będzie wyglądała sytuacja na warszawskiej giełdzie w kolejnych kwartałach, to jesteśmy umiarkowanie optymistyczni. Ten optymizm jest już mniejszy niż jeszcze rok temu, bo jesteśmy po roku bardzo wysokich wzrostów na giełdzie, natomiast cały czas uważamy, że fundamenty polskiej gospodarki są dosyć dobre. Dynamika PKB jest na tyle wysoka, że wyróżniamy się pozytywnie na tle innych krajów europejskich, więc to na pewno nam pomaga” – powiedział Tomasz Matras.",
-        "„Polski rynek wyceniany jest z delikatną premią do innych rynków rozwijających się, ale wydaje nam się, że ta premia jest uzasadniona patrząc na to, gdzie jest polska gospodarka, że bardziej pretendujemy do kraju rozwiniętego, niż rozwijającego się” - dodał.",
-        "Jego zdaniem, na korzyść polskiej giełdy przemawia też napływ kapitału na GPW z różnych źródeł.",
-        "„Nie chodzi tylko o napływy do TFI, bo tych w części akcyjnej aż tak bardzo nie widać, ale środki na różnego rodzaju programy emerytalne, jak np. PPE, PPK, IKE, IKZE. Tym kanałem sporo pieniędzy trafia na naszą giełdę” - powiedział."
+        "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł. Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
+        "fot. Tomasz Ras / / Puls Biznesu Po wrześniowym spadku polski rynek funduszy inwestycyjnych powrócił na ścieżkę wzrostu i na koniec października krajowe fundusze zarządzały aktywami netto o wartości 492,1 mld zł, czyli o 781 mln zł (0,2 proc.) większymi niż miesiąc wcześniej. Tym samym nieznacznie pobity został dotychczasowy rekord z sierpnia, kiedy aktywa sięgnęły 491,7 mld zł.",
+        "Jak podano, bilans całego roku pozostaje bardzo dobry. Od końca grudnia 2025 r. aktywa funduszy wzrosły o blisko 57 mld zł, czyli 13 proc. W ujęciu rocznym przyrost sięga 74,4 mld zł (17,8 proc.). Do przekroczenia symbolicznej granicy 500 mld zł brakuje już niespełna 8 mld zł.",
+        "W październiku saldo wpłat i wypłat wyniosło 1,25 mld zł, wobec 0,23 mld zł we wrześniu. Jednocześnie szacowany wynik zarządzania był ujemny i sięgnął ok. -500 mln zł.",
+        "\"Był to drugi z rzędu miesiąc, w którym wyniki inwestycyjne obniżały wartość aktywów krajowych funduszy\" - dodano."
       ]
     },
     {
@@ -1182,39 +1186,39 @@
   ],
   "makro": [
     {
-      "id": "makro-6-dcf488",
-      "entity_tag": "USA & Bezpieczeństwo",
-      "sector": "Geopolityka",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Geopolityka” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "id": "makro-2-2ba0dc",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Jak skandal seksualny w Nvidii wywiera presję na Biały Dom",
-      "original_title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "title": "Uroda kalendarze adwentowe mogą kosztować setki - ale czy są warte swojej ceny?",
+      "original_title": "Beauty advent calendars can cost hundreds - but are they value for money?",
       "is_foreign": true,
       "lang": "EN",
-      "time": "12:22",
+      "time": "00:01",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": true,
       "summary_points": [
-        "Być może przyczyną kryzysu było życie osobiste Jensena Huanga, ale pytania sięgają teraz samego Białego Domu.",
-        "Korespondent biznesowy z Nowego Jorku Opublikowano 13 listopada 2026 Jak blisko Donalda Trumpa jest Jensena Huanga?",
-        "Szef Nvidii był jednym z niewielu liderów biznesu, który miał bezpośredni dostęp do prezydenta USA."
+        "Kalendarze kosmetyczne stały się obowiązkowym elementem świątecznym i cieszą się szczególną popularnością wśród kobiet robiących zakupy.",
+        "„Zawsze patrzę na to, co w nich jest.",
+        "Jeśli zapachy mi się dostatecznie spodobają, to je kupię” – mówi 39-latka, która pracuje jako starszy menedżer handlowy w dziale inżynierii."
       ],
       "extended_paragraphs": [
-        "Być może przyczyną kryzysu było życie osobiste Jensena Huanga, ale pytania sięgają teraz samego Białego Domu.",
-        "Korespondent biznesowy z Nowego Jorku Opublikowano 13 listopada 2026 Jak blisko Donalda Trumpa jest Jensena Huanga?",
-        "Szef Nvidii był jednym z niewielu liderów biznesu, który miał bezpośredni dostęp do prezydenta USA. Wielokrotnie spotykał się z Trumpem, podróżował z nim do Wielkiej Brytanii, a w maju dołączył do niego samolotem Air Force One podczas jego podróży do Chin.",
-        "Jensen Huang nie był kolejnym miliarderem z branży technologicznej, który zabiegał o ucho prezydenta. Stał się ważnym głosem w jednym z największych sporów wewnątrz administracji: jaka część najbardziej zaawansowanej technologii Ameryki powinna dotrzeć do Chin.",
-        "Nvidia produkuje chipy, które napędzają rewolucję AI. Waszyngton od 2022 roku ogranicza eksport swoich najbardziej zaawansowanych procesorów do Chin, wierząc, że mogą one pomóc Pekinowi w rozwoju jego potencjału militarnego i technologicznego."
+        "Kalendarze kosmetyczne stały się obowiązkowym elementem świątecznym i cieszą się szczególną popularnością wśród kobiet robiących zakupy.",
+        "„Zawsze patrzę na to, co w nich jest. Jeśli zapachy mi się dostatecznie spodobają, to je kupię” – mówi 39-latka, która pracuje jako starszy menedżer handlowy w dziale inżynierii.",
+        "Luksusowe kalendarze adwentowe mają dawać dreszczyk niespodzianki, ale dla Julii ważniejsze jest, czy rzeczywiście chce, aby przedmioty były w środku – ta myśl uderza także coraz większą liczbę klientów po skandalu wokół kalendarza Skims.",
+        "W tym tygodniu marka kosmetyczna Kim Kardashian zaoferowała wszystkim swoim klientom zwrot pieniędzy za kalendarz o wartości 148 dolarów (110 funtów) po tym, jak została szeroko skrytykowana w mediach społecznościowych za jakość jego zawartości, a niektórzy klienci porównali spinki do włosów, gumki i breloczki do kluczy znajdujące się w środku do rzeczy, które można znaleźć na oparciu sofy.",
+        "Julia twierdzi, że zarabia nieźle, ale zależy jej na dobrym stosunku jakości do ceny i nie chce ich marnować na przedmioty, których nie będzie używać."
       ]
     },
     {
-      "id": "makro-5-7b99ab",
+      "id": "makro-7-7b99ab",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "MEDIUM",
@@ -1246,39 +1250,40 @@
       ]
     },
     {
-      "id": "makro-8-ac900e",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Półprzewodniki & AI” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Na sekretarza handlu Trumpa Lutnicka rośnie presja w związku ze skandalem z Nvidią",
-      "original_title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:53",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
+      "id": "makro-1-74cd72",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 60%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "60%"
+      ],
+      "title": "Stefan Szczepłek: Zobaczyliśmy reprezentację, jakiej przeciętny kibic nie zna",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "00:21",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/komentarze/art45489451-stefan-szczeplek-zobaczylismy-reprezentacje-jakiej-przecietny-kibic-nie-zna",
+      "image_url": "https://i.gremicdn.pl/image/free/d50c9ccea7bbf18b893b2e3baa564e08/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Scott Bessent powiedział CNBC, że kilka agencji rządowych „opowiadało się za umieszczeniem Megaspeed na liście podmiotów na miesiące”.",
-        "Sekretarz skarbu USA Scott Bessent obwinia Departament Handlu Howarda Lutnicka za brak odpowiedniego nadzorowania eksportu zaawansowanych chipów AI, w miarę jak skutki skandalu związanego z Nvidią rozszerzają się na gabinet prezydenta Donalda Trumpa.",
-        "Na Lutnicka ze strony całego spektrum politycznego wywierana jest presja, aby wyjaśnił działania swojego departamentu."
+        "Jeśli ktoś liczy na to, że któregoś dnia Polacy wniosą się na wyżyny i pokonają Hiszpanię, to oczywiście po takim meczu jak ten z Rumunią nie będzie zadowolony.",
+        "Ale nasza reprezentacja zalicza się do przeciętnych, więc takie wyżyny są dla niej nieosiągalne.",
+        "I bardziej należy porównywać ją z Rumunią, niż z Hiszpanią, Francją czy Anglią."
       ],
       "extended_paragraphs": [
-        "Scott Bessent powiedział CNBC, że kilka agencji rządowych „opowiadało się za umieszczeniem Megaspeed na liście podmiotów na miesiące”.",
-        "Sekretarz skarbu USA Scott Bessent obwinia Departament Handlu Howarda Lutnicka za brak odpowiedniego nadzorowania eksportu zaawansowanych chipów AI, w miarę jak skutki skandalu związanego z Nvidią rozszerzają się na gabinet prezydenta Donalda Trumpa.",
-        "Na Lutnicka ze strony całego spektrum politycznego wywierana jest presja, aby wyjaśnił działania swojego departamentu.",
-        "Jensen Huang został usunięty ze stanowiska dyrektora generalnego Nvidii po ujawnieniu informacji, że miał romans z bizneswoman, która była rzekomo chińskim szpiegiem.",
-        "Z raportów wynika, że ​​Megaspeed, dla której pracowała, była badana przez agencje rządowe USA w związku z podejrzeniami, że przemyca chipy Nvidia do Chin, ale nie znalazła się na liście firm, z którymi amerykańskie firmy nie mogą współpracować."
+        "Jeśli ktoś liczy na to, że któregoś dnia Polacy wniosą się na wyżyny i pokonają Hiszpanię, to oczywiście po takim meczu jak ten z Rumunią nie będzie zadowolony. Ale nasza reprezentacja zalicza się do przeciętnych, więc takie wyżyny są dla niej nieosiągalne. I bardziej należy porównywać ją z Rumunią, niż z Hiszpanią, Francją czy Anglią.",
+        "Niedawno w Warszawie pokonaliśmy Rumunię 6:0 , teraz przegraliśmy 1:2. Z tamtego meczu trener Gheorghe Hagi pozostawił sześciu zawodników, a Jan Urban siedmiu. Mimo to gra wyglądała zupełnie inaczej. Na Stadionie Narodowym Rumuni grali od 23. minuty w dziesiątkę. Polacy prowadzili tylko 1:0, a spotkanie było bardzo wyrównane. Worek z bramkami rozwiązał się dopiero po przerwie.",
+        "W Bukareszcie nikt czerwonej kartki nie dostał, siły po obydwu stronach były równe, gospodarze czuli się bardzo pewnie i tylko w pierwszym kwadransie pozwolili sobie narzucić styl gry Polaków. Jeśli któryś z naszych piłkarzy nie zetknął się jeszcze ze sposobem gry Rumunów, to szybko się o tym przekonał: dobra technika i bardzo dużo złośliwości. Tym razem Marcel Reguła już w pierwszych minutach odczuł korki przeciwnika na swoim kolanie.",
+        "Czytaj dalej w najniższej cenie w roku. Aż 60% rabatu na cały rok z „Rzeczpospolitą”."
       ]
     },
     {
-      "id": "makro-1-479384",
+      "id": "makro-3-479384",
       "entity_tag": "Tesla / SpaceX",
       "sector": "Motoryzacja & Tech",
       "market_impact": "LOW",
@@ -1310,7 +1315,73 @@
       ]
     },
     {
-      "id": "makro-2-45305e",
+      "id": "makro-4-b388d6",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 1%) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "1%"
+      ],
+      "title": "Jak skandal Jensena Huanga przyprawiał o ból głowy przyjazny biznesowi Singapur",
+      "original_title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:00",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Skandal rzucił światło na sukces Singapuru jako centrum chipów i miejsca rzekomego nielegalnego handlu.",
+        "W czwartek Huang ustąpił z funkcji amerykańskiego giganta chipowego po tym, jak przyznał się, że miał romans.",
+        "Według doniesień był powiązany z kobietą o imieniu Alice Huang, która zarządzała singapurską firmą Megaspeed zajmującą się centrami danych, głównym nabywcą chipów Nvidii."
+      ],
+      "extended_paragraphs": [
+        "Skandal rzucił światło na sukces Singapuru jako centrum chipów i miejsca rzekomego nielegalnego handlu.",
+        "W czwartek Huang ustąpił z funkcji amerykańskiego giganta chipowego po tym, jak przyznał się, że miał romans. Według doniesień był powiązany z kobietą o imieniu Alice Huang, która zarządzała singapurską firmą Megaspeed zajmującą się centrami danych, głównym nabywcą chipów Nvidii.",
+        "Przez dziesięciolecia Singapur pieczołowicie pielęgnował reputację otwartej, przyjaznej biznesowi gospodarki, oferującej łatwy dostęp do rynku amerykańskiego i chińskiego.",
+        "Wraz z boomem na sztuczną inteligencję stał się w ostatnich latach głównym ośrodkiem handlu wysokiej klasy chipami półprzewodnikowymi.",
+        "W ubiegłym roku Singapur był dla Nvidii drugim co do wielkości centrum rozliczeniowym na świecie, generując prawie jedną piątą zarobków amerykańskiego giganta chipowego."
+      ]
+    },
+    {
+      "id": "makro-5-aa0d98",
+      "entity_tag": "Złoto (XAU/USD)",
+      "sector": "Surowce Szlachetne",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Surowce Szlachetne” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Złota Żaba dla Łukasza Żala. Czarno-białe kadry z „Ojczyzny” podbiły jury Camerimage",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "23:06",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/film/art45489291-zlota-zaba-dla-lukasza-zala-czarno-biale-kadry-z-ojczyzny-podbily-jury-camerimage",
+      "image_url": "https://i.gremicdn.pl/image/free/aef3762701963735abb91a335130be00/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Łukasz Żal zdobył Złotą Żabę festiwalu ToruńCamerimage za czarno-białe zdjęcia do „Ojczyzny” Pawła Pawlikowskiego.",
+        "To już jego czwarta statuetka z Torunia.",
+        "Srebro i brąz trafiły do autorów zdjęć do „Woman Unknown” i „Minotaura”, a nagrody za całokształt odebrali Maja Komorowska i Jan Englert."
+      ],
+      "extended_paragraphs": [
+        "Łukasz Żal zdobył Złotą Żabę festiwalu ToruńCamerimage za czarno-białe zdjęcia do „Ojczyzny” Pawła Pawlikowskiego. To już jego czwarta statuetka z Torunia. Srebro i brąz trafiły do autorów zdjęć do „Woman Unknown” i „Minotaura”, a nagrody za całokształt odebrali Maja Komorowska i Jan Englert.",
+        "Operator Łukasz Żal odbiera Złotą Żabę za film „Ojczyzna” odczas gali zamknięcia 34. Międzynarodowego Festiwalu Filmowego Toruń CAMERIMAGE",
+        "Ma dwie nominacje do Oscara, trzy nominacje do brytyjskich BAFTA, polskie Orły, nagrodę festiwalu w Gdyni, wyróżnienie na prestiżowym festiwalu w Toronto. Ma też Europejską Nagrodę Filmową za zdjęcia do „Idy”, a właśnie ogłoszono, że w tym roku Europejska Akademia uhonorowała go kolejną nominacją, tym razem za zdjęcia do „Ojczyzny”. Wśród nagród Łukasza Żala są również trzy Żaby festiwalu Camerimage. Dwie złote – za „Idę” i dokument „Paparazzi” oraz srebrna za „Zimną wojnę”. Teraz do tej żabiej kolekcji doszła kolejna – znów złota – za czarno-białe zdjęcia do „Ojczyzny” – opowieści o pierwszej po wojnie podróży Thomasa Manna do podzielonych Niemiec.",
+        "– To film piękny i pełen blasku. Tak autentycznego, że widz może odnieść wrażenie, że odbył podróż w czasie – powiedział przewodniczący jury głównego, Brytyjczyk Joe Walker, laureat Oscara za montaż „Diuny”.",
+        "– Jestem bardzo szczęśliwy, że w tym głośnym, krzykliwym świecie nasz cichy film tak się pięknie przebija – powiedział na scenie Łukasz Żal, odbierając nagrodę. Wzruszony podziękował Pawłowi Pawlikowskiemu „za przyjaźń, za wszystkie rozmowy, za cały proces twórczy” i całej ekipie."
+      ]
+    },
+    {
+      "id": "makro-6-45305e",
       "entity_tag": "Microsoft (NASDAQ: MSFT)",
       "sector": "Chmura & AI",
       "market_impact": "LOW",
@@ -1344,39 +1415,7 @@
       ]
     },
     {
-      "id": "makro-3-aa0d98",
-      "entity_tag": "Złoto (XAU/USD)",
-      "sector": "Surowce Szlachetne",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Surowce Szlachetne” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Złota Żaba dla Łukasza Żala. Czarno-białe kadry z „Ojczyzny” podbiły jury Camerimage",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "23:06",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/film/art45489291-zlota-zaba-dla-lukasza-zala-czarno-biale-kadry-z-ojczyzny-podbily-jury-camerimage",
-      "image_url": "https://i.gremicdn.pl/image/free/aef3762701963735abb91a335130be00/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Łukasz Żal zdobył Złotą Żabę festiwalu ToruńCamerimage za czarno-białe zdjęcia do „Ojczyzny” Pawła Pawlikowskiego.",
-        "To już jego czwarta statuetka z Torunia.",
-        "Srebro i brąz trafiły do autorów zdjęć do „Woman Unknown” i „Minotaura”, a nagrody za całokształt odebrali Maja Komorowska i Jan Englert."
-      ],
-      "extended_paragraphs": [
-        "Łukasz Żal zdobył Złotą Żabę festiwalu ToruńCamerimage za czarno-białe zdjęcia do „Ojczyzny” Pawła Pawlikowskiego. To już jego czwarta statuetka z Torunia. Srebro i brąz trafiły do autorów zdjęć do „Woman Unknown” i „Minotaura”, a nagrody za całokształt odebrali Maja Komorowska i Jan Englert.",
-        "Operator Łukasz Żal odbiera Złotą Żabę za film „Ojczyzna” odczas gali zamknięcia 34. Międzynarodowego Festiwalu Filmowego Toruń CAMERIMAGE",
-        "Ma dwie nominacje do Oscara, trzy nominacje do brytyjskich BAFTA, polskie Orły, nagrodę festiwalu w Gdyni, wyróżnienie na prestiżowym festiwalu w Toronto. Ma też Europejską Nagrodę Filmową za zdjęcia do „Idy”, a właśnie ogłoszono, że w tym roku Europejska Akademia uhonorowała go kolejną nominacją, tym razem za zdjęcia do „Ojczyzny”. Wśród nagród Łukasza Żala są również trzy Żaby festiwalu Camerimage. Dwie złote – za „Idę” i dokument „Paparazzi” oraz srebrna za „Zimną wojnę”. Teraz do tej żabiej kolekcji doszła kolejna – znów złota – za czarno-białe zdjęcia do „Ojczyzny” – opowieści o pierwszej po wojnie podróży Thomasa Manna do podzielonych Niemiec.",
-        "– To film piękny i pełen blasku. Tak autentycznego, że widz może odnieść wrażenie, że odbył podróż w czasie – powiedział przewodniczący jury głównego, Brytyjczyk Joe Walker, laureat Oscara za montaż „Diuny”.",
-        "– Jestem bardzo szczęśliwy, że w tym głośnym, krzykliwym świecie nasz cichy film tak się pięknie przebija – powiedział na scenie Łukasz Żal, odbierając nagrodę. Wzruszony podziękował Pawłowi Pawlikowskiemu „za przyjaźń, za wszystkie rozmowy, za cały proces twórczy” i całej ekipie."
-      ]
-    },
-    {
-      "id": "makro-4-a502cd",
+      "id": "makro-8-a502cd",
       "entity_tag": "Microsoft (NASDAQ: MSFT)",
       "sector": "Chmura & AI",
       "market_impact": "LOW",
@@ -1406,71 +1445,39 @@
         "Microsoft stwierdził, że awaria nie była incydentem związanym z bezpieczeństwem cybernetycznym i była spowodowana problemem technicznym. Przeprosił za zakłócenia.",
         "Szkoły, lekarze pierwszego kontaktu i firmy dotknięte globalną awarią firmy Microsoft, gdy firma stara się rozwiązać problem"
       ]
-    },
-    {
-      "id": "makro-7-23f445",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
-      "key_metrics": [],
-      "title": "Portugalczycy podziękowali Cristiano Ronaldo. Specjalna oprawa i koszulki z numerem 7",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:40",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://sport.rp.pl/pilka-nozna/art45489111-portugalczycy-podziekowali-cristiano-ronaldo-specjalna-oprawa-i-koszulki-z-numerem-7",
-      "image_url": "https://i.gremicdn.pl/image/free/c7567b3857fcd242e2926b3287c81a80/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Przed meczem z Danią (1:4) w Lidze Narodów piłkarze reprezentacji Portugalii wyszli na boisko w koszulkach z numerem 7, z którym przez lata grał Cristiano Ronaldo.",
-        "W siódmej minucie cały stadion w Bradze oklaskiwał swojego byłego kapitana.",
-        "Ronaldo pożegnał się z kadrą w atmosferze skandalu, skonfliktowany z Jorge Jesusem."
-      ],
-      "extended_paragraphs": [
-        "Przed meczem z Danią (1:4) w Lidze Narodów piłkarze reprezentacji Portugalii wyszli na boisko w koszulkach z numerem 7, z którym przez lata grał Cristiano Ronaldo. W siódmej minucie cały stadion w Bradze oklaskiwał swojego byłego kapitana.",
-        "Ronaldo pożegnał się z kadrą w atmosferze skandalu, skonfliktowany z Jorge Jesusem. Miesiąc temu obraził się na selekcjonera, że ten zostawił go na ławce rezerwowych, i przed meczem w Kopenhadze postanowił opuścić zgrupowanie.",
-        "Gdy wydawało się, że dojdzie do pojednania, Cristiano ogłosił, że jednak kończy karierę reprezentacyjną . Siedząc na kanapie w swoim domu, odczytał z kartki oświadczenie. Nagranie opublikował w mediach społecznościowych.",
-        "Oficjalne pożegnanie z Ronaldo w roli głównej na pewno jeszcze będzie. W sobotę wieczorem podczas odgrywania hymnu wszyscy piłkarze Jesusa (także wyprowadzające ich na murawę dzieci) ubrani byli w koszulki z nr 7. Na trybunach pojawiła się okolicznościowa oprawa z podziękowaniami dla Ronaldo, a w siódmej minucie spotkania kibice bili mu brawo.",
-        "W sobotę siódemkę na plecach nosił skrzydłowy Club Brugge Carlos Forbs, który zaczął mecz na ławce rezerwowych, a na boisko wszedł w drugiej połowie. Według portugalskich mediów w przyszłości numer ten przejmie Rafael Leao, który obecnie leczy kontuzję. Ale będzie to już inna siódemka, bo jej dotychczasowy wzór został zastrzeżony. Opaskę kapitana odziedziczył z kolei po Ronaldo Bruno Fernandes."
-      ]
     }
   ],
   "tech": [
     {
-      "id": "tech-8-1ba032",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "id": "tech-2-0edb4e",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Teleskop Jamesa Webba odkrył lód starszy niż gwiazda, wokół której krąży",
-      "original_title": "James Webb telescope finds ice older than the star it orbits",
+      "title": "Gdzie był zespół ds. bezpieczeństwa Nvidii?",
+      "original_title": "Where was Nvidia’s security team?",
       "is_foreign": true,
       "lang": "EN",
-      "time": "12:15",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
-      "image_source": "Fot. / Źródło: Ars Technica",
+      "time": "00:08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": true,
       "summary_points": [
-        "Promieniowanie i zderzenia zmieniają kształt planetarnych materiałów budowlanych.",
-        "Lód wodny jest raczej szklisty niż krystaliczny i zmieszany z dwutlenkiem węgla w mniej więcej takich samych proporcjach, jakie obserwujemy w kometach naszego Układu Słonecznego.",
-        "Sugeruje to, że składniki niezbędne do utworzenia światów bogatych w wodę mogą być powszechne wokół młodych gwiazd."
+        "Szef bezpieczeństwa Nvidii po cichu odszedł w sierpniu, a teraz, gdy dyrektor generalny Jensen Huang ustąpił ze swoich relacji, w tym z dyrektorem w firmie podejrzanej o wysyłanie chipów do Chin, były oficer wywiadu twierdzi, że jest to rodzaj wycieku, który pojawia się w codziennych rozmowach, a do wyłapania go większość korporacyjnych zespołów ds.",
+        "bezpieczeństwa jest słabo przygotowana.",
+        "Connie Loizos 16:08 PST · 14 listopada 2026 Osoby z zewnątrz nie miały powodu, aby zauważyć, że w sierpniu wieloletni dyrektor ds."
       ],
       "extended_paragraphs": [
-        "Promieniowanie i zderzenia zmieniają kształt planetarnych materiałów budowlanych.",
-        "Lód wodny jest raczej szklisty niż krystaliczny i zmieszany z dwutlenkiem węgla w mniej więcej takich samych proporcjach, jakie obserwujemy w kometach naszego Układu Słonecznego. Sugeruje to, że składniki niezbędne do utworzenia światów bogatych w wodę mogą być powszechne wokół młodych gwiazd.",
-        "Beta Pictoris to jedna z najlepiej zbadanych gwiazd na niebie. Jej dysk był jednym z pierwszych sfotografowanych w 1984 roku i widzimy go niemal dokładnie od strony krawędzi, co czyni go naturalnym laboratorium do badania wzrostu układów planetarnych. Jest to coś, co astronomowie nazywają dyskiem gruzu, w którym pył jest stale uzupełniany w wyniku zderzeń komet i planetozymali, małych ciał będących elementami budulcowymi planet.",
-        "Zewnętrzne części dysku znajdują się na tyle daleko od gwiazdy, że woda i inne lotne cząsteczki powinny zamarznąć, tworząc stały lód. Dysk zawiera duży zbiornik gazowego tlenku węgla, który światło ultrafioletowe gwiazdy powinno zniszczyć w ciągu 50 do 300 lat. Aby ten gaz nadal tam był, coś musi go stale uzupełniać — najprawdopodobniej zostaje uwolniony z lodu podczas zderzenia komet bogatych w substancje lotne. Właściwości planety Beta Pictoris b również sugerują, że powstała ona z materiału bogatego w lód.",
-        "Jednak pomimo wielu powodów, by podejrzewać, że system jest pełen lodu, wcześniejsze poszukiwania nie wykazały go. Próby wykrycia pary wodnej nie przyniosły żadnych rezultatów, a poszukiwania charakterystycznego spadku, jaki pozostawia lód wodny w świetle gwiazd na długości fali 3 mikrometrów, również nie powiodły się."
+        "Szef bezpieczeństwa Nvidii po cichu odszedł w sierpniu, a teraz, gdy dyrektor generalny Jensen Huang ustąpił ze swoich relacji, w tym z dyrektorem w firmie podejrzanej o wysyłanie chipów do Chin, były oficer wywiadu twierdzi, że jest to rodzaj wycieku, który pojawia się w codziennych rozmowach, a do wyłapania go większość korporacyjnych zespołów ds. bezpieczeństwa jest słabo przygotowana.",
+        "Gdzie był zespół ds. bezpieczeństwa Nvidii? Connie Loizos 16:08 PST · 14 listopada 2026 Osoby z zewnątrz nie miały powodu, aby zauważyć, że w sierpniu wieloletni dyrektor ds. bezpieczeństwa firmy Nvidia i szef ds. bezpieczeństwa produktów ustąpił ze stanowiska. Zaledwie dwa i pół miesiąca później sam dyrektor generalny Jensen Huang opuścił firmę z powodu rosnących pytań na temat jego związków pozamałżeńskich – zaczynając od dyrektora Megaspeed, singapurskiej firmy zajmującej się centrami danych, którą amerykańscy śledczy podejrzewają o wysyłanie chipów Nvidia do Chin, a następnie rozszerzywszy się na raporty dotyczące dwóch odrębnych spraw z pracownikami Nvidii.",
+        "W tamtym czasie David Reber, który spędził cztery lata jako CSO i siedem w sumie w Nvidii, powiedział, że odchodzi ze względów zdrowotnych. „To nie był taki zwrot, jaki planowałem. Ale wiem, co musi być najważniejsze: rodzina i zdrowie” – napisał pod koniec sierpnia na LinkedIn, ujawniając, że ponad dwa lata temu zdiagnozowano u niego chorobę Parkinsona o młodym początku.",
+        "Zastępca Rebera, Saša Zdjelar, wcześniej przez 17 lat pracował w ExxonMobil w Houston, odchodząc jako starszy menedżer IT, a następnie spędził rok w Salesforce i kilka lat w firmie ReversingLabs zajmującej się bezpieczeństwem cybernetycznym. Zdjelar nie odpowiedział na czwartkowe pytania dotyczące przejścia ani tego, co wiedział zespół ds. bezpieczeństwa.",
+        "Nic publicznego nie łączy zmian ról Rebera lub Zdjelara ze sprawą Megaspeed, ale wydaje się rozsądne, aby zastanowić się, co zespół ds. bezpieczeństwa Nvidii wiedział na temat rządowej kontroli Megaspeed i relacji Huanga oraz czy ktoś zgłosił wątpliwości. W czwartek Reber nie odpowiedział na pytania. Nvidia również nie odpowiedziała na nasze powiązane pytania."
       ]
     },
     {
@@ -1506,38 +1513,6 @@
       ]
     },
     {
-      "id": "tech-2-22137f",
-      "entity_tag": "Tesla / SpaceX",
-      "sector": "Motoryzacja & Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Elon Musk i inni dyrektorzy techniczni podpisują petycję wzywającą Nvidię do przywrócenia Jensena Huanga na stanowisko",
-      "original_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:41",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Do sobotniego popołudnia pod petycją zebrano ponad 115 000 podpisów.",
-        "Wydaje się, że do sobotniego popołudnia petycja wzywająca Nvidię do przywrócenia na stanowisko niedawno usuniętego dyrektora generalnego firmy, Jensena Huanga, zebrała ponad 115 000 podpisów.",
-        "Na stronie internetowej petycji podano, że wśród sygnatariuszy znajduje się 5965 obecnych pracowników Nvidii, 1108 byłych pracowników i 63 063 akcjonariuszy."
-      ],
-      "extended_paragraphs": [
-        "Do sobotniego popołudnia pod petycją zebrano ponad 115 000 podpisów.",
-        "Wydaje się, że do sobotniego popołudnia petycja wzywająca Nvidię do przywrócenia na stanowisko niedawno usuniętego dyrektora generalnego firmy, Jensena Huanga, zebrała ponad 115 000 podpisów.",
-        "Na stronie internetowej petycji podano, że wśród sygnatariuszy znajduje się 5965 obecnych pracowników Nvidii, 1108 byłych pracowników i 63 063 akcjonariuszy. Do znaczących zwolenników należą dyrektor generalny Tesli i SpaceX Elon Musk, dyrektor generalny Replit Amjad Masad, dyrektor generalny Epic Games Tim Sweeney i dyrektor generalny Y Combinator Garry Tan.",
-        "W petycji stwierdza się, że jej sygnatariusze „obawiają się, że Jensena usunięto bez należytego i należytego procesu” i żądają, aby zarząd „sprowadził go z powrotem do czasu ustalenia faktów przez niezależne dochodzenie”. Wzywa także zarząd do zapewnienia uczciwego śledztwa i przekazania społeczeństwu większej ilości informacji.",
-        "Huang złożył rezygnację ze stanowiska w czwartek, cztery dni po tym, jak przyznał się do romansu z dyrektorem ds. chipów podejrzanym przez wywiad USA o bycie chińskim szpiegiem. Były dyrektor generalny zgodził się zeznawać przed Kongresem, a doniesienia prasowe sugerują również, że Huang był zaangażowany w liczne romanse pozamałżeńskie."
-      ]
-    },
-    {
       "id": "tech-3-f389c9",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
@@ -1570,35 +1545,35 @@
       ]
     },
     {
-      "id": "tech-4-ed6be2",
+      "id": "tech-4-22137f",
       "entity_tag": "Tesla / SpaceX",
       "sector": "Motoryzacja & Tech",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Tesla otwiera zamówienia przedsprzedażowe Cybercab „na użytek osobisty”, z ograniczeniami geograficznymi i miesięczną opłatą w wysokości 299 dolarów",
-      "original_title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "title": "Elon Musk i inni dyrektorzy techniczni podpisują petycję wzywającą Nvidię do przywrócenia Jensena Huanga na stanowisko",
+      "original_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:04",
+      "time": "21:41",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Nawet Elon Musk stwierdził, że miesięczna opłata jest „zbyt wysoka”.",
-        "Tesla powiedziała w piątkowy wieczór, że „wybrani klienci” mają teraz możliwość zamówienia w przedsprzedaży autonomicznego, złotego Cybercaba firmy „do użytku osobistego”.",
-        "Więcej szczegółów stało się jasnych, gdy wybrani klienci spojrzeli na stronę zamówienia."
+        "Do sobotniego popołudnia pod petycją zebrano ponad 115 000 podpisów.",
+        "Wydaje się, że do sobotniego popołudnia petycja wzywająca Nvidię do przywrócenia na stanowisko niedawno usuniętego dyrektora generalnego firmy, Jensena Huanga, zebrała ponad 115 000 podpisów.",
+        "Na stronie internetowej petycji podano, że wśród sygnatariuszy znajduje się 5965 obecnych pracowników Nvidii, 1108 byłych pracowników i 63 063 akcjonariuszy."
       ],
       "extended_paragraphs": [
-        "Nawet Elon Musk stwierdził, że miesięczna opłata jest „zbyt wysoka”.",
-        "Tesla powiedziała w piątkowy wieczór, że „wybrani klienci” mają teraz możliwość zamówienia w przedsprzedaży autonomicznego, złotego Cybercaba firmy „do użytku osobistego”.",
-        "Więcej szczegółów stało się jasnych, gdy wybrani klienci spojrzeli na stronę zamówienia. Recenzent technologii, Marques Brownlee, napisał, że kupujący „muszą przyjąć dostawę” w jednym z kilku miast w Teksasie i że Cybercab będzie działać tylko w niektórych obszarach geofence. Przewidywany termin dostawy to grudzień 2026.",
-        "Oprócz ceny wynoszącej 29 990 dolarów właściciele Cybercab będą musieli płacić 299 dolarów miesięcznie za użytkowanie swojego pojazdu.",
-        "W odpowiedzi na post Brownlee dyrektor generalny Tesli, Elon Musk, powiedział, że Cybercab „będzie dostępny w całym kraju, po uzyskaniu zgody organów regulacyjnych”. Dodał, że miesięczna opłata jest „zbyt wysoka”: „Powinna odpowiadać kosztowi Tesli [w pełni autonomicznej jazdy] i łączności w przypadku innych modeli, czyli około 115 dolarów miesięcznie”."
+        "Do sobotniego popołudnia pod petycją zebrano ponad 115 000 podpisów.",
+        "Wydaje się, że do sobotniego popołudnia petycja wzywająca Nvidię do przywrócenia na stanowisko niedawno usuniętego dyrektora generalnego firmy, Jensena Huanga, zebrała ponad 115 000 podpisów.",
+        "Na stronie internetowej petycji podano, że wśród sygnatariuszy znajduje się 5965 obecnych pracowników Nvidii, 1108 byłych pracowników i 63 063 akcjonariuszy. Do znaczących zwolenników należą dyrektor generalny Tesli i SpaceX Elon Musk, dyrektor generalny Replit Amjad Masad, dyrektor generalny Epic Games Tim Sweeney i dyrektor generalny Y Combinator Garry Tan.",
+        "W petycji stwierdza się, że jej sygnatariusze „obawiają się, że Jensena usunięto bez należytego i należytego procesu” i żądają, aby zarząd „sprowadził go z powrotem do czasu ustalenia faktów przez niezależne dochodzenie”. Wzywa także zarząd do zapewnienia uczciwego śledztwa i przekazania społeczeństwu większej ilości informacji.",
+        "Huang złożył rezygnację ze stanowiska w czwartek, cztery dni po tym, jak przyznał się do romansu z dyrektorem ds. chipów podejrzanym przez wywiad USA o bycie chińskim szpiegiem. Były dyrektor generalny zgodził się zeznawać przed Kongresem, a doniesienia prasowe sugerują również, że Huang był zaangażowany w liczne romanse pozamałżeńskie."
       ]
     },
     {
@@ -1634,35 +1609,35 @@
       ]
     },
     {
-      "id": "tech-6-4f7ec8",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
+      "id": "tech-6-ed6be2",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Masz iPhone'a Duo? Te 9 ustawień ułatwia korzystanie",
-      "original_title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "title": "Tesla otwiera zamówienia przedsprzedażowe Cybercab „na użytek osobisty”, z ograniczeniami geograficznymi i miesięczną opłatą w wysokości 299 dolarów",
+      "original_title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:00",
+      "time": "20:04",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
+      "source_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Od skrótów Touch ID po inteligentniejsze przyciski regulacji głośności i triki aparatu — te ulepszenia sprawiają, że składany iPhone firmy Apple jest łatwiejszy w codziennym użytkowaniu.",
-        "Te 9 ustawień ułatwia korzystanie z Sarah Perez 10:00 PST · 14 listopada 2026 r. Nowy składany Apple, iPhone Duo, okazał się na tyle popularny, że firma nie może przechowywać go w magazynie.",
-        "Chociaż Duo wprowadza nowy sposób korzystania z iPhone'a, maksymalne wykorzystanie tej początkowej wersji może wymagać dostosowania kilku ustawień, aby działał lepiej w codziennych zadaniach, takich jak odblokowywanie urządzenia za pomocą Touch ID, nawigacja w interfejsie i robienie zdjęć."
+        "Nawet Elon Musk stwierdził, że miesięczna opłata jest „zbyt wysoka”.",
+        "Tesla powiedziała w piątkowy wieczór, że „wybrani klienci” mają teraz możliwość zamówienia w przedsprzedaży autonomicznego, złotego Cybercaba firmy „do użytku osobistego”.",
+        "Więcej szczegółów stało się jasnych, gdy wybrani klienci spojrzeli na stronę zamówienia."
       ],
       "extended_paragraphs": [
-        "Od skrótów Touch ID po inteligentniejsze przyciski regulacji głośności i triki aparatu — te ulepszenia sprawiają, że składany iPhone firmy Apple jest łatwiejszy w codziennym użytkowaniu.",
-        "Masz iPhone'a Duo? Te 9 ustawień ułatwia korzystanie z Sarah Perez 10:00 PST · 14 listopada 2026 r. Nowy składany Apple, iPhone Duo, okazał się na tyle popularny, że firma nie może przechowywać go w magazynie. Chociaż Duo wprowadza nowy sposób korzystania z iPhone'a, maksymalne wykorzystanie tej początkowej wersji może wymagać dostosowania kilku ustawień, aby działał lepiej w codziennych zadaniach, takich jak odblokowywanie urządzenia za pomocą Touch ID, nawigacja w interfejsie i robienie zdjęć.",
-        "Po spędzeniu czasu z Duo zalecamy wprowadzenie następujących zmian, aby uczynić nowego iPhone'a nieco łatwiejszym w obsłudze, zwłaszcza jeśli chodzi o korzystanie z Touch ID.",
-        "W przeciwieństwie do nowoczesnych iPhone'ów, Duo nie obsługuje funkcji Face ID. Oznacza to, że musisz przyzwyczaić się do ponownego naciskania palcem na bok urządzenia, aby uwierzytelnić się w aplikacjach, odblokować urządzenie i skorzystać z Apple Pay. Jest jednak kilka rzeczy, które możesz zrobić, aby powrót do starszej technologii był nieco mniej bolesny.",
-        "Istnieje kilka ustawień, które mogą również poprawić jakość korzystania z iPhone'a Duo, ponieważ mogą ułatwić wykonywanie niektórych codziennych zadań, takich jak między innymi robienie zrzutów ekranu lub docieranie do różnych części ekranu."
+        "Nawet Elon Musk stwierdził, że miesięczna opłata jest „zbyt wysoka”.",
+        "Tesla powiedziała w piątkowy wieczór, że „wybrani klienci” mają teraz możliwość zamówienia w przedsprzedaży autonomicznego, złotego Cybercaba firmy „do użytku osobistego”.",
+        "Więcej szczegółów stało się jasnych, gdy wybrani klienci spojrzeli na stronę zamówienia. Recenzent technologii, Marques Brownlee, napisał, że kupujący „muszą przyjąć dostawę” w jednym z kilku miast w Teksasie i że Cybercab będzie działać tylko w niektórych obszarach geofence. Przewidywany termin dostawy to grudzień 2026.",
+        "Oprócz ceny wynoszącej 29 990 dolarów właściciele Cybercab będą musieli płacić 299 dolarów miesięcznie za użytkowanie swojego pojazdu.",
+        "W odpowiedzi na post Brownlee dyrektor generalny Tesli, Elon Musk, powiedział, że Cybercab „będzie dostępny w całym kraju, po uzyskaniu zgody organów regulacyjnych”. Dodał, że miesięczna opłata jest „zbyt wysoka”: „Powinna odpowiadać kosztowi Tesli [w pełni autonomicznej jazdy] i łączności w przypadku innych modeli, czyli około 115 dolarów miesięcznie”."
       ]
     },
     {
@@ -1696,73 +1671,41 @@
         "Kluczowa faza misji rozpocznie się około godziny 21:22 polskiego czasu. Wtedy jeden silnik statku wykonają trwające zaledwie dziesięć sekund odpalenie, które zainicjuje manewr deorbitacji i skieruje pojazd w stronę ziemskiej atmosfery. Ten krótki impuls wystarczy, aby wytracić prędkość orbitalną i precyzyjnie ustawić trajektorię lotu nad Maksykiem w kierunku wybrzeża Teksasu. Około godziny 21:55 Starship wejdzie w górne warstwy atmosfery, rozpoczynając najbardziej wymagającą termicznie część powrotu. Tarcie o coraz gęstsze powietrze wygeneruje gigantyczne ilości ciepła, które musi bezpiecznie rozproszyć osłona termiczna statku. Inżynierowie SpaceX są jednak dobrej myśli, ponieważ po analizie licznych zdjęć wykonanych na orbicie stan płytek termicznych określono jako wzorowy.",
         "Udane przechwycenie drugiego stopnia rakiety to moment, który otwiera zupełnie nowy rozdział w podboju kosmosu przez człowieka. Możliwość ponownego wykorzystania najpotężniejszego systemu nośnego w historii to fundament, na którym opierają się przyszłe loty na Księżyc oraz załogowe misje na Marsa. Dzisiejszy wieczór to doskonała okazja, aby na żywo zobaczyć technologię, która jeszcze kilka lat temu wydawała się czystą fantastyką naukową, a dzisiaj jest na wyciągnięcie ręki."
       ]
+    },
+    {
+      "id": "tech-8-95d271",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "W sobotę SpaceX zwróciło swoją rakietę Starship, ale jest pewien haczyk",
+      "original_title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:40",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+      "image_source": "Fot. / Źródło: Ars Technica",
+      "lead_story": false,
+      "summary_points": [
+        "Miałem wrażenie, że wkroczyłem w przyszłość.",
+        "Powoli, delikatnie, z wahaniem, górny stopień Starshipa posuwał się w stronę oczekującej wieży, gdzie dwa ramiona wyciągnęły się na zewnątrz, czekając.",
+        "Marginesy są niesamowicie wąskie."
+      ],
+      "extended_paragraphs": [
+        "Miałem wrażenie, że wkroczyłem w przyszłość.",
+        "Powoli, delikatnie, z wahaniem, górny stopień Starshipa posuwał się w stronę oczekującej wieży, gdzie dwa ramiona wyciągnęły się na zewnątrz, czekając. Marginesy są niesamowicie wąskie. Dwa wypustki po obu stronach rakiety, każdy wystający tylko na jedną stopę, były jedynym oparciem, jakie rakieta miała na ramionach.",
+        "Następnie, niecałą minutę po tym, jak pojawił się w polu widzenia, górny stopień Starship został zaczepiony o wieżę startową, tak ciasno, jak tylko chcesz. I tak wszystko się skończyło. SpaceX, prawie ćwierć wieku od swojego powstania, właśnie zrobiło niezwykle znaczący krok w kierunku opracowania i optymalizacji masywnej rakiety nadającej się do szybkiego ponownego użycia.",
+        "To był zapierający dech w piersiach wyczyn; genialne osiągnięcie techniczne, które wymagało od najlepszych inżynierów przemyślenia miliona różnych, trudnych problemów. A w sobotni wieczór, po kilku próbnych wbiegach do Oceanu Indyjskiego, dokonali tego przed całym światem.",
+        "Obserwowanie startu statku kosmicznego nieco niecały dzień wcześniej i świadomość, że wielokrotnie okrążał planetę, potęgowało poczucie nierzeczywistości, gdy zobaczyłem, jak ten statek kosmiczny powraca na Ziemię o własnych siłach i zostaje przechwycony przez wieżę."
+      ]
     }
   ],
   "swiat": [
-    {
-      "id": "swiat-5-a5fc7b",
-      "entity_tag": "USA & Bezpieczeństwo",
-      "sector": "Geopolityka",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Ukraina w NATO? Jednoznaczne stanowisko Emmanuela Macrona",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:52",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-14/ukraina-w-nato-jednoznaczne-stanowisko-emmanuela-macrona/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/59/59ycf8fnsq2ka95s4ebfog1nhh86avjt.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": true,
-      "summary_points": [
-        "W strukturach NATO jest miejsce dla Ukrainy, a państwo to ma do odegrania kluczową rolę u boku Sojuszu - oświadczył w sobotę prezydent Francji Emmanuel Macron.",
-        "Dodał, że Europa musi jasno określić również wobec Rosji i USA.",
-        "W obszernym wpisie na portalu X Macron przedstawił Francuzom wyniki szczytu przywódców UE , który w piątek zakończył się w stolicy Irlandii, Dublinie."
-      ],
-      "extended_paragraphs": [
-        "W strukturach NATO jest miejsce dla Ukrainy, a państwo to ma do odegrania kluczową rolę u boku Sojuszu - oświadczył w sobotę prezydent Francji Emmanuel Macron. Dodał, że Europa musi jasno określić również wobec Rosji i USA.",
-        "W obszernym wpisie na portalu X Macron przedstawił Francuzom wyniki szczytu przywódców UE , który w piątek zakończył się w stolicy Irlandii, Dublinie. Po raz kolejny wyraził wsparcie dla broniącej się przed rosyjską agresją Ukrainy .",
-        "\"Chodzi o bezpieczeństwo nas wszystkich. Pomagając Ukrainie się bronić, chronimy Francję i Francuzów \" - podkreślił prezydent Francji. Jak dodał, \"ci, którzy chcą ograniczać środki przekazywane Ukrainie, w gruncie rzeczy dążą do zmuszenia jej do zaakceptowania niesprawiedliwego pokoju, trwałego osłabienia jej, a tym samym także Europy\".",
-        "Według Macrona, Europa musi jasno określić, również wobec Rosji i USA , jakiego porządku oczekuje po zakończeniu wojny, w tym w kwestii długoterminowego bezpieczeństwa Europy.",
-        "\"Ostatnie rozmowy z amerykańskimi wysłannikami pokazały, że (przywódca Rosji) Władimir Putin nie chce negocjować . Jego armia nie posuwa się naprzód. Wręcz przeciwnie, cofa się i ponosi ogromne straty. Jest jednak jasne, że Putin liczy na złamanie Ukrainy poprzez nasilanie ataków na ludność cywilną i próbę pogrążenia kraju tej zimy w ciemnościach\" - napisał prezydent Francji."
-      ]
-    },
-    {
-      "id": "swiat-7-3e31b8",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Mistrz świata kandydatem na prezydenta. AfD sięga po legendę piłki",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:01",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-14/mistrz-swiata-kandydatem-na-prezydenta-afd-siega-po-legende-pilki/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/63/63rswttrfj9ywb4zn4un69fn5cah56yi.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Thomas Berthold, były reprezentant Niemiec w piłce nożnej i mistrz świata został kandydatem prawicowo-populistycznej Alternatywy dla Niemiec (AfD) na prezydenta kraju.",
-        "Faworytką do objęcia tego urzędu po Franku-Walterze Steinmeierze pozostaje jednak Ilse Aigner z CSU.",
-        "62-letni Thomas Berthold jest bezpartyjny."
-      ],
-      "extended_paragraphs": [
-        "Thomas Berthold, były reprezentant Niemiec w piłce nożnej i mistrz świata został kandydatem prawicowo-populistycznej Alternatywy dla Niemiec (AfD) na prezydenta kraju. Faworytką do objęcia tego urzędu po Franku-Walterze Steinmeierze pozostaje jednak Ilse Aigner z CSU.",
-        "62-letni Thomas Berthold jest bezpartyjny. W ostatnich latach zwracał na siebie uwagę krytyką restrykcji wprowadzonych podczas pandemii Covid-19.",
-        "\" W osobie Thomasa Bertholda znaleźliśmy kandydata wywodzącego się ze środka społeczeństwa , który naprawdę może reprezentować wszystkich Niemców. Świadomie stawiamy na kandydata bez legitymacji partyjnej, ponieważ chcemy umożliwić prawdziwy nowy początek na szczycie naszego państwa\" - oświadczyli współprzewodniczący AfD Alice Weidel i Tino Chrupalla . Wyrazili przy tym przekonanie, że Berthold może zdobyć poparcie także poza ich ugrupowaniem.",
-        "W odpowiedzi Berthold podziękował za nominację i zaufanie, podkreślając, że startuje jako nieżelazny kandydat. \"Moim celem jest bycie prezydentem federalnym dla wszystkich obywateli , niezależnie od tego, gdzie żyją i na kogo głosują\" - napisał na platformie X.",
-        "Były obrońca rozegrał 62 spotkania w pierwszej reprezentacji Niemiec, w 1990 roku zdobył mistrzostwo świata na mundialu we Włoszech. Berthold występował m.in. w Eintrachcie Frankfurt, Bayernie Monachium, VfB Stuttgart oraz AS Romie. Po zakończeniu kariery piłkarskiej pracował jako menedżer w Fortunie Duesseldorf oraz ekspert medialny. W 2020 r. podczas demonstracji w Stuttgarcie mówił, że jego zaufanie do politycznego kierownictwa kraju „spadło poniżej zera”."
-      ]
-    },
     {
       "id": "swiat-1-f21c84",
       "entity_tag": "Wydarzenia Globalne",
@@ -1781,7 +1724,7 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
       "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
         "Rząd USA próbuje ustalić, czy przyczyną chaosu była „niekompetencja”, czy wadliwy sprzęt.",
         "Podpis pod rysunkiem, Obejrzyj: Zatrzymanie naziemne w USA spowodowane problemem podczas aktualizacji przewodu miedzianego, mówi sekretarz transportu Ogólnokrajowy przystanek naziemny w USA, który spowodował tysiące odwołań lotów, był spowodowany problemem po modernizacji przewodu miedzianego, powiedział Sekretarz Transportu Sean Duffy.",
@@ -1811,7 +1754,7 @@
       "time": "22:37",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
@@ -1893,43 +1836,43 @@
         "Firma miała nadzieję złapać zarówno dolny, jak i górny stopień rakiety za pomocą mechanicznych ramion – zwanych pałeczkami – na wieży startowej.",
         "Jednak pierwsze wyłapanie wzmacniacza rakiety zostało przerwane kilka minut po wystrzeleniu w piątek. Wzmacniacz został skierowany do oceanu, stając w płomieniach tuż nad poziomem morza."
       ]
-    },
-    {
-      "id": "swiat-6-a5d0b0",
-      "entity_tag": "USA & Bezpieczeństwo",
-      "sector": "Geopolityka",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Trump, Putin i Xi Jinping spotkają się przy jednym stole. Kreml potwierdza",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:58",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-14/trump-putin-i-xi-jinping-spotkaja-sie-przy-jednym-stole-kreml-potwierdza/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/6s/6s2e5a41r1yefmr4ygi6jphg3sbj1oao.png",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Przywódcy USA, Rosji i Chin spotkają się 19 listopada w chińskim Shenzhen.",
-        "Termin trójstronnych rozmów Donalda Trumpa, Władimira Putina i Xi Jinpinga potwierdził w sobotę rzecznik Kremla Dmitrij Pieskow.",
-        "Biały Dom przekazał jednak, że nie przewidziano osobnego spotkania prezydentów USA i Rosji."
-      ],
-      "extended_paragraphs": [
-        "Przywódcy USA, Rosji i Chin spotkają się 19 listopada w chińskim Shenzhen. Termin trójstronnych rozmów Donalda Trumpa, Władimira Putina i Xi Jinpinga potwierdził w sobotę rzecznik Kremla Dmitrij Pieskow. Biały Dom przekazał jednak, że nie przewidziano osobnego spotkania prezydentów USA i Rosji.",
-        "\" Osiągnięto porozumienie w sprawie zorganizowania 19 listopada trójstronnego spotkania z udziałem prezydenta Władimira Putina , przewodniczącego ChRL Xi Jinpinga i prezydenta Donalda Trumpa \" – przekazał Pieskow, cytowany przez agencję RIA Novosti.",
-        "Do spotkania Trumpa z Putinem i Xi dojdzie pod koniec wizyty prezydenta USA w Shenzhen , podczas której weźmie też udział w szczycie Wspólnoty Gospodarczej Azji i Pacyfiku (APEC). Wcześniej Trump spotka się też osobno z samym Xi.",
-        "ZOBACZ: Trump zgadza się na propozycję Putina. Przy okazji uderza w Zełenskiego. \"Może nadszedł czas\"",
-        "Biały Dom podał, że nie zaplanowano dwustronnego spotkania Trumpa z Putinem , ani nie ma w planach spotkania z przywódcą Korei Płn. Kim Dzong Unem."
-      ]
     }
   ],
   "sport": [
     {
-      "id": "sport-2-d1a55b",
+      "id": "sport-7-6469c8",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Urban przemówił po klęsce w Rumunii. \"Nie ja decyduję\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "23:42",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284150/urban-przemowil-po-klesce-w-rumunii-nie-ja-decyduje",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af8da6f5bf458_96356974.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": true,
+      "summary_points": [
+        "- Czy mnie zwolnią czy nie - to nie ode mnie zależy - mówił Jan Urban po sobotnim meczu Rumunia - Polska w Lidze Narodów (2:1).",
+        "Selekcjoner nie chciał obwiniać zawodników za niepowodzenie w Bukareszcie.",
+        "14 Komentarzy - Czy mnie zwolnią czy nie - to nie ode mnie zależy - mówił Jan Urban po sobotnim meczu Rumunia - Polska w Lidze Narodów (2:1)."
+      ],
+      "extended_paragraphs": [
+        "- Czy mnie zwolnią czy nie - to nie ode mnie zależy - mówił Jan Urban po sobotnim meczu Rumunia - Polska w Lidze Narodów (2:1). Selekcjoner nie chciał obwiniać zawodników za niepowodzenie w Bukareszcie.",
+        "14 Komentarzy - Czy mnie zwolnią czy nie - to nie ode mnie zależy - mówił Jan Urban po sobotnim meczu Rumunia - Polska w Lidze Narodów (2:1). Selekcjoner nie chciał obwiniać zawodników za niepowodzenie w Bukareszcie.",
+        "Rumunia 2, Polska 1. Takim wynikiem zakończył się sobotni mecz Ligi Narodów. Reprezentacja Polski straciła matematyczne szanse na awans do dywizji A. W tej chwili trzeba bronić się przed spadkiem do dywizji C. Pozytywy? Niestety brak. To był beznadziejny mecz w wykonaniu polskiego zespołu. Naród po raz kolejny zadaje sobie pytanie: czy Jan Urban powinien być dalej selekcjonerem? Nie zabrakło tego typu pytania na konferencji prasowej.",
+        "- Widzieliśmy czego się spodziewać w dzisiejszym spotkaniu: drużyna, która przegrała wszystkie wcześniejsze mecze gra przed własną publicznością i będzie miała cechy wolicjonalne na najwyższym poziomie. Straciliśmy dwie bramki, pomagając przeciwnikowi - pierwsza po rykoszecie, druga w wyniku złego zachowania naszych zawodników przy aucie, gdzie po prostu zostawiamy przeciwnika bez krycia - mówił Urban.",
+        "- Dzisiaj od samego początku mieliśmy czterech młodych zawodników. Oskar - wydaje mi się - zagrał dobre spotkanie, ale miał swoje błędy, co jest dla mnie rzeczą normalną. Kacper Potulski? Dobre spotkanie, a stawia swoje pierwsze kroki w reprezentacji. Podobnie możemy powiedzieć o Marcelu Regule - zaczyna, zostawił zdrowie na boisku. Dostał za to nagrodę, strzelił gola. A Wiktor Nowak nie zaczyna swojej przygody w reprezentacji? Oczywiście, że tak. Później jeszcze wszedł Bartosz Mazurek. Tak się poznaje zawodników, których możesz mieć do dyspozycji w przyszłości - stwierdził selekcjoner."
+      ]
+    },
+    {
+      "id": "sport-4-d1a55b",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "MEDIUM",
@@ -1946,7 +1889,7 @@
       "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5668/live/7585ebc0-e05c-11f1-9e26-b3b65586122f.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Walia kończy 73-letnią passę z Nową Zelandią zwycięstwem okrzykniętym najlepszym w historii.",
         "Tak były kapitan Sam Warburton opisał monumentalny wynik sobotniego meczu przeciwko Nowej Zelandii w Cardiff.",
@@ -1956,44 +1899,12 @@
         "Walia kończy 73-letnią passę z Nową Zelandią zwycięstwem okrzykniętym najlepszym w historii.",
         "Tak były kapitan Sam Warburton opisał monumentalny wynik sobotniego meczu przeciwko Nowej Zelandii w Cardiff.",
         "W momencie rozpoczęcia meczu All Blacks byli w rzeczywistości czołową drużyną na świecie po pełnej napięcia porażce Republiki Południowej Afryki z Francją w piątkowy wieczór.",
-        "Dlatego nikt nie dał Walii nadziei – nawet Warburton – a niektórzy bukmacherzy oferowali kursy 30-1 w ciągu tygodnia.",
+        "Dlatego nikt nie dał Walii choćby promyka nadziei – nawet Warburton – a niektórzy bukmacherzy oferowali kursy 30-1 w ciągu tygodnia.",
         "Pytanie nie o to, kiedy, ale czy Walia ponownie pokona All Blacks, nęka ich od 1953 roku."
       ]
     },
     {
-      "id": "sport-1-6b620f",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "1:2 z Rumunią. Lewandowski wskazał, co zawiodło",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "23:06",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284259/12-z-rumunia-lewandowski-wskazal-co-zawiodlo",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af8e1c7cbe517_79822303.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Reprezentanci Polski nie wywalczyli ani jednego punktu w Rumunii.",
-        "- Był to mecz do wyciągnięcia przynajmniej na remis - podkreślił w rozmowie z TVP Sport kapitan kadry Robert Lewandowski.",
-        "Skomentuj Reprezentanci Polski nie wywalczyli ani jednego punktu w Rumunii."
-      ],
-      "extended_paragraphs": [
-        "Reprezentanci Polski nie wywalczyli ani jednego punktu w Rumunii. - Był to mecz do wyciągnięcia przynajmniej na remis - podkreślił w rozmowie z TVP Sport kapitan kadry Robert Lewandowski.",
-        "Skomentuj Reprezentanci Polski nie wywalczyli ani jednego punktu w Rumunii. - Był to mecz do wyciągnięcia przynajmniej na remis - podkreślił w rozmowie z TVP Sport kapitan kadry Robert Lewandowski.",
-        "W sobotni wieczór kibice reprezentacji Polski musieli przełknąć gorzką pigułkę. Na wyjeździe drużyna prowadzona przez Jana Urbana poniosła niespodziewaną porażkę 1:2 z Rumunią w ramach Ligi Narodów UEFA .",
-        "Robert Lewandowski spędził 70 minut na placu gry i oddał tylko jeden celny strzał na bramkę Otto Hindricha. Kapitan Biało-Czerwonych zabrał głos w pomeczowej rozmowie z reporterem stacji TVP Sport.",
-        "- W pierwszej połowie mieliśmy praktycznie mecz pod kontrolą. Próbowaliśmy stwarzać sytuacje, ale może zabrakło też jakiejś klarownej sytuacji do strzelenia bramki. W drugiej przestaliśmy zbierać drugie piłki. Rumuni chcieli grać te długie piłki, utrzymywać się, zgrywać i my tego nie robiliśmy. Trochę wprowadziliśmy sami pewien chaos zamiast utrzymać piłkę, przegrać na drugą stronę, trochę zdobyć terenu. Popełniliśmy błędy, po których później Rumuni stworzyli sobie sytuacje i strzelili bramki. Trochę za łatwo to wszystko wyglądało, szczególnie przy drugim straconym golu. Czasami nawet jak się straciło bramkę, to byliśmy w stanie to wyrównać, ale dzisiaj zabrakło tej kropki nad \"i\", chociaż sytuacje mieliśmy - tłumaczył."
-      ]
-    },
-    {
-      "id": "sport-3-0210ea",
+      "id": "sport-1-d25692",
       "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2001,31 +1912,130 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Domaga się dyskwalifikacji Sabalenki. \"Hańba dla narodu białoruskiego\"",
+      "title": "Andriejewa odjechała Sabalence. Tak wygląda ranking WTA",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:59",
+      "time": "01:30",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284257/domaga-sie-dyskwalifikacji-sabalenki-hanba-dla-narodu-bialoruskiego",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af8e70fda5c10_77518103.jpg",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1284264/andriejewa-odjechala-sabalence-tak-wyglada-ranking-wta",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af8ff6a480ba3_42800573.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "\"Jest hańbą dla narodu białoruskiego\" - tak ostro skandaliczne słowa Aryny Sabalenki skomentował Paweł Łatuszka.",
-        "Białoruski opozycjonista domaga się surowego ukarania byłej liderki rankingu WTA.",
-        "Skomentuj \"Jest hańbą dla narodu białoruskiego\" - tak ostro skandaliczne słowa Aryny Sabalenki skomentował Paweł Łatuszka."
+        "Mirra Andriejewa powiększyła przewagę nad Aryną Sabalenką w rankingu WTA \"na żywo\" po półfinałach WTA Finals.",
+        "Rosjanka ma już o 621 punktów więcej od Białorusinki, a w niedzielnym finale może jeszcze zwiększyć dystans.",
+        "Skomentuj Mirra Andriejewa powiększyła przewagę nad Aryną Sabalenką w rankingu WTA \"na żywo\" po półfinałach WTA Finals."
       ],
       "extended_paragraphs": [
-        "\"Jest hańbą dla narodu białoruskiego\" - tak ostro skandaliczne słowa Aryny Sabalenki skomentował Paweł Łatuszka. Białoruski opozycjonista domaga się surowego ukarania byłej liderki rankingu WTA.",
-        "Skomentuj \"Jest hańbą dla narodu białoruskiego\" - tak ostro skandaliczne słowa Aryny Sabalenki skomentował Paweł Łatuszka. Białoruski opozycjonista domaga się surowego ukarania byłej liderki rankingu WTA.",
-        "Nie milkną echa wydarzeń z Aryną Sabalenką w roli głównej. Wiceliderka rankingu zakończyła udział w tegorocznej edycji WTA Finals na etapie fazy grupowej, ale nie to wywołało olbrzymie kontrowersje. Chodzi bowiem o zachowanie Białorusinki podczas jej meczu z Eliną Switoliną (relacja TUTAJ>> ).",
-        "Tenisistka z Mińska wypowiedziała obraźliwe słowa pod adresem Ukraińców. Początkowo sugerowano nawet, że mogły one odnosić się wprost do Switoliny (więcej TUTAJ>> ).",
-        "\"Ci pier****** Ukraińcy, ja pier****!\" A może: Ta pier****** ukraińska su**, ja pier****\"? - takie słowa zdaje się wypowiadać po rosyjsku Aryna Sabalenka, sądząc po ruchu jej ust podczas meczu WTA Finals z Eliną Switoliną\" - tak materiał z opisywaną zawodniczką podsumował administrator konta \"Ukrainian Tennis BTU\" na platformie X."
+        "Mirra Andriejewa powiększyła przewagę nad Aryną Sabalenką w rankingu WTA \"na żywo\" po półfinałach WTA Finals. Rosjanka ma już o 621 punktów więcej od Białorusinki, a w niedzielnym finale może jeszcze zwiększyć dystans.",
+        "Skomentuj Mirra Andriejewa powiększyła przewagę nad Aryną Sabalenką w rankingu WTA \"na żywo\" po półfinałach WTA Finals. Rosjanka ma już o 621 punktów więcej od Białorusinki, a w niedzielnym finale może jeszcze zwiększyć dystans.",
+        "Sobotnie półfinały w Indian Wells umocniły pozycję Mirry Andriejewej w rankingu WTA \"na żywo\". Rosjanka pokonała Jessicę Pegulę 6:3, 6:4 i powiększyła swój dorobek do 7306 punktów. Aryna Sabalenka , która zakończyła udział w turnieju w fazie grupowej, ma ich 6685. Przewaga młodszej z tenisistek wynosi więc 621 \"oczek\".",
+        "Przed rozpoczęciem WTA Finals Sabalenka zajmowała drugie miejsce z dorobkiem 6485 punktów, wyprzedzając Rosjankę o 179 \"oczek\". Ich bezpośrednie starcie Andriejewa wygrała 6:4, 6:0, a następnie pokonała Dianę Sznaider 6:2, 6:1. W sobotę 19-latka zapewniła sobie udział w finale.",
+        "Andriejewa wygrała wszystkie trzy spotkania fazy grupowej oraz półfinał, zdobywając łącznie 1000 punktów. Sabalenka uzbierała ich zaledwie 200, ponieważ odniosła tylko jedno zwycięstwo. Jeśli Rosjanka sięgnie po tytuł, otrzyma dodatkowe 500 \"oczek\", co zwiększy jej dorobek do 7806. Wówczas przewaga nad Białorusinką wyniesie aż 1121 punktów."
       ]
     },
     {
-      "id": "sport-4-e04117",
+      "id": "sport-2-1a7e64",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Test w Hiszpanii pokaże, czy Tuchel i Anglia wyciągnęli wnioski z lekcji Pucharu Świata",
+      "original_title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "20:22",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Mecz Anglii z mistrzami świata Hiszpanią pokaże, czy główny trener Thomas Tuchel wyciągnął wnioski z letnich rozczarowań, mówi główny pisarz piłkarski Phil McNulty.",
+        "Główny pisarz piłkarski w Madrycie Opublikowano 6 godzin temu Dowody postępu Anglii i wnioski wyciągnięte przez głównego trenera Thomasa Tuchela od czasu rozczarowania porażką z Argentyną w półfinale Pucharu Świata zostaną wystawione na najsurowszą próbę, gdy w Madrycie zmierzą się z obrońcą tytułu Hiszpanią.",
+        "Hiszpania stawia przed Anglią najcięższe zadanie, przed którym stoi passa mistrzów świata bez porażki, podczas której zdobyli największą nagrodę w sporcie, pokonując Argentynę w New Jersey latem, trwającą obecnie 43 mecze."
+      ],
+      "extended_paragraphs": [
+        "Mecz Anglii z mistrzami świata Hiszpanią pokaże, czy główny trener Thomas Tuchel wyciągnął wnioski z letnich rozczarowań, mówi główny pisarz piłkarski Phil McNulty.",
+        "Główny pisarz piłkarski w Madrycie Opublikowano 6 godzin temu Dowody postępu Anglii i wnioski wyciągnięte przez głównego trenera Thomasa Tuchela od czasu rozczarowania porażką z Argentyną w półfinale Pucharu Świata zostaną wystawione na najsurowszą próbę, gdy w Madrycie zmierzą się z obrońcą tytułu Hiszpanią.",
+        "Hiszpania stawia przed Anglią najcięższe zadanie, przed którym stoi passa mistrzów świata bez porażki, podczas której zdobyli największą nagrodę w sporcie, pokonując Argentynę w New Jersey latem, trwającą obecnie 43 mecze.",
+        "Podopieczni Luisa de la Fuente ostatni raz przegrali – z Kolumbią – w marcu 2024 r., wygrywając 34 mecze i w międzyczasie remisując 9, a w międzyczasie zostali także mistrzami Europy, pokonując Anglię w finale Euro 2024 w Berlinie.",
+        "Nic więc dziwnego, że kapitan reprezentacji Anglii i zdobywca Złotej Piłki Harry Kane opisuje niedzielną wizytę na stadionie Metropolitano jako: „Doskonałą okazję, aby spróbować się wykazać”."
+      ]
+    },
+    {
+      "id": "sport-3-37d118",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 48 proc., 82 proc.) o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [
+        "48 proc.",
+        "82 proc."
+      ],
+      "title": "25 bramek różnicy. Orlen Wisła Płock zdemolowała rywala",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "00:46",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-reczna/1284265/25-bramek-roznicy-orlen-wisla-plock-zdemolowala-rywala",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af900056a2d53_53957887.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Orlen Wisła Płock rozbiła Piotrkowianina Piotrków Trybunalski 40:15 w 9.",
+        "Gospodarze zaczęli od prowadzenia 6:0, a w końcówce zdobyli 11 bramek z rzędu.",
+        "W ich szeregach wyróżnił się też 17-letni debiutant."
+      ],
+      "extended_paragraphs": [
+        "Orlen Wisła Płock rozbiła Piotrkowianina Piotrków Trybunalski 40:15 w 9. serii Lotto Superligi. Gospodarze zaczęli od prowadzenia 6:0, a w końcówce zdobyli 11 bramek z rzędu. W ich szeregach wyróżnił się też 17-letni debiutant.",
+        "Skomentuj Orlen Wisła Płock rozbiła Piotrkowianina Piotrków Trybunalski 40:15 w 9. serii Lotto Superligi. Gospodarze zaczęli od prowadzenia 6:0, a w końcówce zdobyli 11 bramek z rzędu. W ich szeregach wyróżnił się też 17-letni debiutant.",
+        "Przed sobotnim spotkaniem Orlen Wisła Płock miała komplet ośmiu zwycięstw w Lotto Superlidze. Piotrkowianin Piotrków Trybunalski pozostawał natomiast jedyną drużyną bez punktów. Podopieczni Xaviego Sabate byli zdecydowanymi faworytami i od pierwszych minut potwierdzali swoją wyższość. Goście nie potrafili znaleźć sposobu na dobrze zorganizowaną defensywę gospodarzy.",
+        "Wynik już w pierwszej minucie otworzył Dawid Dawydzik. Nafciarze szybko odskoczyli na 6:0, a trener gości Ivo Vavra poprosił o przerwę. Piotrkowianin odpowiedział dopiero po dziewięciu minutach i 50 sekundach za sprawą Adriana Trójniaka. Po 20 minutach Płocczanie prowadzili 11:5, a do szatni schodzili przy wyniku 18:9.",
+        "Po przerwie Wisła systematycznie powiększała przewagę. W 38. minucie prowadziła 25:10, a w 50. już 33:14. Od stanu 29:14 gospodarze zdobyli 11 bramek z rzędu, zwiększając prowadzenie do 40:14. Dopiero trzy sekundy przed końcem Trójniak przerwał tę serię i ustalił rezultat."
+      ]
+    },
+    {
+      "id": "sport-5-249d49",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Switolina kontra Andriejewa. Jest godzina finału WTA Finals",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "00:23",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1284263/switolina-kontra-andriejewa-jest-godzina-finalu-wta-finals",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af82a4479cc00_52146053.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Elina Switolina i Mirra Andriejewa powalczą w niedzielę (15 listopada) o tytuł w prestiżowym turnieju WTA Finals 2026.",
+        "Ukrainka i Rosjanka wyjdą na kort w Indian Wells o godz. 21:00 czasu polskiego.",
+        "Skomentuj Elina Switolina i Mirra Andriejewa powalczą w niedzielę (15 listopada) o tytuł w prestiżowym turnieju WTA Finals 2026."
+      ],
+      "extended_paragraphs": [
+        "Elina Switolina i Mirra Andriejewa powalczą w niedzielę (15 listopada) o tytuł w prestiżowym turnieju WTA Finals 2026. Ukrainka i Rosjanka wyjdą na kort w Indian Wells o godz. 21:00 czasu polskiego.",
+        "Skomentuj Elina Switolina i Mirra Andriejewa powalczą w niedzielę (15 listopada) o tytuł w prestiżowym turnieju WTA Finals 2026. Ukrainka i Rosjanka wyjdą na kort w Indian Wells o godz. 21:00 czasu polskiego.",
+        "Z ośmiu tenisistek pozostały już tylko dwie. Do finału Turnieju Mistrzyń dotarły rozstawiona z trzecim numerem Rosjanka Mirra Andriejewa (bilans gier 4-0) i oznaczona \"szóstką\" Ukrainka Elina Switolina (bilans gier 3-1).",
+        "Organizatorzy WTA Finals 2026 już wcześniej poinformowali, że finał singla odbędzie się w niedzielę (15 listopada). Andriejewa i Switolina wyjdą na kort w Indian Wells o godz. 21:00 czasu polskiego .",
+        "Co ciekawe, będzie to rewanż za spotkanie w fazie grupowej . Wówczas Rosjanka pokonała Ukrainkę 6:4, 6:0. Ostatecznie obie tenisistki awansowały do półfinału z grupy 2."
+      ]
+    },
+    {
+      "id": "sport-6-e04117",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2046,114 +2056,18 @@
       "summary_points": [
         "Warto było czekać na powrót Willa Josepha po czterech latach nieobecności na scenie Test.",
         "A gdzie indziej było mnóstwo powodów do podtrzymania Anglii w porażce Japonii.",
-        "Podpis pod rysunkiem, Najważniejsze momenty: Joseph zdobywa pięć przyłożeń, a Anglia cieszy się ogromnym zwycięstwem nad Japonią Reporter wiadomości o związku rugby BBC Sport Opublikowano 2 godziny temu Eddie Jones wyemitował skargę dotyczącą doświadczeń Twickenhama na stadionie, kiedy pojawił się w tym tygodniu w BBC Radio 5 Live."
+        "Podpis pod rysunkiem, Najważniejsze momenty: Joseph zdobywa pięć przyłożeń, a Anglia cieszy się ogromnym zwycięstwem nad Japonią Reporter wiadomości o związku rugby BBC Sport Opublikowano 5 godzin temu Eddie Jones wyemitował skargę dotyczącą doświadczeń Twickenhama na stadionie, kiedy pojawił się w tym tygodniu w BBC Radio 5 Live."
       ],
       "extended_paragraphs": [
         "Warto było czekać na powrót Willa Josepha po czterech latach nieobecności na scenie Test. A gdzie indziej było mnóstwo powodów do podtrzymania Anglii w porażce Japonii.",
         "Podpis pod rysunkiem, Najważniejsze momenty: Joseph zdobywa pięć przyłożeń, a Anglia cieszy się ogromnym zwycięstwem nad Japonią",
-        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 2 godziny temu Eddie Jones wyemitował skargę dotyczącą doświadczeń Twickenhama na stadionie, kiedy pojawił się w tym tygodniu w BBC Radio 5 Live.",
+        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 5 godzin temu Eddie Jones wyemitował skargę dotyczącą doświadczeń Twickenhama na stadionie, kiedy pojawił się w tym tygodniu w BBC Radio 5 Live.",
         "„Bycie widzem i słuchanie, kiedy należy hałasować, jest trochę zabawne” – powiedział japoński szef, sprzeciwiając się wyświetlanej na dużym ekranie prośbie o zwiększenie głośności.",
         "Jones siedział z kamienną twarzą na stanowisku trenerskim, gdy wiadomość pojawiła się ponownie w sobotnim meczu, w którym jego zespół pokonał Anglię 78-15."
       ]
     },
     {
-      "id": "sport-5-56604e",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "To już pewne. Spore konsekwencje porażki Polaków",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:57",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284258/to-juz-pewne-spore-konsekwencje-porazki-polakow",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af8e749452b34_46625858.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Porażka reprezentacji Polski z Rumunią 1:2 przyniosła konsekwencje wykraczające poza Ligę Narodów.",
-        "Biało-Czerwoni stracili szansę na lepsze rozstawienie w eliminacjach Euro 2028.",
-        "To oznacza trudniejsze losowanie."
-      ],
-      "extended_paragraphs": [
-        "Porażka reprezentacji Polski z Rumunią 1:2 przyniosła konsekwencje wykraczające poza Ligę Narodów. Biało-Czerwoni stracili szansę na lepsze rozstawienie w eliminacjach Euro 2028. To oznacza trudniejsze losowanie.",
-        "Skomentuj Porażka reprezentacji Polski z Rumunią 1:2 przyniosła konsekwencje wykraczające poza Ligę Narodów. Biało-Czerwoni stracili szansę na lepsze rozstawienie w eliminacjach Euro 2028. To oznacza trudniejsze losowanie.",
-        "Sobotni wieczór w Bukareszcie przyniósł kolejne rozczarowanie. Reprezentacja Polski przegrała z Rumunią 1:2, choć w pierwszym spotkaniu obu drużyn zwyciężyła aż 6:0. Zespół Jana Urbana ma cztery punkty po pięciu kolejkach Ligi Narodów UEFA. Ten wynik przekreślił szanse na powrót do dywizji A i skomplikował sytuację przed eliminacjami Euro 2028.",
-        "Polacy nie mają już szans na drugi koszyk podczas losowania grup eliminacyjnych mistrzostw Europy . Przed sobotnią kolejką Bośnia i Hercegowina miała osiem punktów, a Biało-Czerwoni cztery. Po przegranej w Bukareszcie mogą zakończyć rywalizację z dorobkiem najwyżej siedmiu. Nawet zwycięstwo ze Szwecją nie pozwoli im więc zająć jednego z dwóch czołowych miejsc.",
-        "Do potencjalnych rywali Biało-Czerwonych należą potęgi z pierwszego koszyka, takie jak Hiszpania, Francja czy Anglia. W drugim mogą znaleźć się między innymi Szwajcaria, Austria, Turcja i Szwecja. Niewykluczone więc, że losowanie przydzieli naszej drużynie dwóch wymagających przeciwników. Ostateczny podział poznamy po zakończeniu fazy grupowej Ligi Narodów UEFA."
-      ]
-    },
-    {
-      "id": "sport-6-2425e6",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Ryzyko Bompastora się opłaciło, gdy Chelsea awansowała na szczyt WSL",
-      "original_title": "Bompastor's risks pay off as Chelsea go top of WSL",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:55",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8119/live/c11a1b50-e05d-11f1-b441-2b33b063138f.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Podczas każdego ważnego spotkania często słyszy się, jak menedżerowie mówią, że o wyniku decydują „drobne marginesy”.",
-        "W tym przypadku była to decyzja Soni Bompastor.",
-        "Reporterka BBC Sport zajmująca się wiadomościami dotyczącymi kobiecej piłki nożnej na Stamford Bridge Opublikowano 4 godziny temu Podczas każdego ważnego spotkania często można usłyszeć, jak menedżerowie mówią, że o meczu piłkarskim decydują „drobne marginesy”."
-      ],
-      "extended_paragraphs": [
-        "Podczas każdego ważnego spotkania często słyszy się, jak menedżerowie mówią, że o wyniku decydują „drobne marginesy”. W tym przypadku była to decyzja Soni Bompastor.",
-        "Reporterka BBC Sport zajmująca się wiadomościami dotyczącymi kobiecej piłki nożnej na Stamford Bridge Opublikowano 4 godziny temu Podczas każdego ważnego spotkania często można usłyszeć, jak menedżerowie mówią, że o meczu piłkarskim decydują „drobne marginesy”.",
-        "Czasami jest to szczęście. Czasami jest to indywidualny geniusz. Jednak w sobotę to odważne decyzje Soni Bompastor pomogły Chelsea pokonać Manchester City 1:0.",
-        "Pojedynek na szczycie tabeli Women's Super League był tak intrygujący, jak można było się spodziewać, i obaj menedżerowie musieli być czujni.",
-        "Trener Chelsea Bompastor „wziął na siebie odpowiedzialność” i w 12. minucie sprowadził walczącą obrońcę Kadeishę Buchanan, co przyniosło pożądany efekt."
-      ]
-    },
-    {
-      "id": "sport-7-cc01da",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Zachwyt w Rumunii. Piszą też o odzyskanym honorze",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:57",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/fototemat/1284250/zachwyt-w-rumunii-pisza-tez-o-odzyskanym-honorze",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af8e040def946_59986191.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Rumuńskie media nie kryją euforii po zwycięstwie ich kadry z Polską (2:1) w Bukareszcie.",
-        "Piszą o odzyskanym honorze i poprawie nastrojów.",
-        "\"Cała Rumunia tego potrzebowała\"."
-      ],
-      "extended_paragraphs": [
-        "Rumuńskie media nie kryją euforii po zwycięstwie ich kadry z Polską (2:1) w Bukareszcie. Piszą o odzyskanym honorze i poprawie nastrojów. \"Cała Rumunia tego potrzebowała\".",
-        "Skomentuj Rumuńskie media nie kryją euforii po zwycięstwie ich kadry z Polską (2:1) w Bukareszcie. Piszą o odzyskanym honorze i poprawie nastrojów. \"Cała Rumunia tego potrzebowała\".",
-        "Dramat Biało-Czerwonych w Bukareszcie. Reprezentacja Polski nie wywiozła z Rumunii nawet punktu.",
-        "\"Rumunia pokonała Polskę 2:1 w piątej kolejce Ligi Narodów, zdobywając swoje pierwsze punkty w grupie po czterech porażkach z rzędu (1:2 i 0:1 ze Szwecją, 2:4 z Bośnią oraz 0:6 z Polską)\" - pisze portal Digi Sport, podkreślając, że to pierwsze zwycięstwo Rumunii w tej edycji Ligi Narodów UEFA .",
-        "Bramki dla Rumunii strzelali w 68. minucie Alexandru Cicaldau oraz cztery minuty później Dennis Man . Rumuński ekspert telewizyjny Gabi Balint wyróżnił jednak kogoś innego."
-      ]
-    },
-    {
-      "id": "sport-8-43b992",
+      "id": "sport-8-aaa39f",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2161,27 +2075,27 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Irlandia otrząsnęła się z powolnego początku, odsuwając na bok Fidżi",
-      "original_title": "Ireland shake off sluggish start to brush aside Fiji",
+      "title": "Fidżi „wyświadczyło Irlandii przysługę” przed meczem z Republiką Południowej Afryki",
+      "original_title": "Fiji 'did Ireland a favour' before South Africa game",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:22",
+      "time": "00:29",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckzd95n6e4g3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/abe0/live/b3635a50-e07e-11f1-ad8f-c7361b83fb03.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e85d7mm0myo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bdda/live/ffe90a40-e089-11f1-87c6-ab9cb7f2aab2.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Irlandia podnosi się po słabym występie w pierwszej połowie, osłabiając porywającego Fidżi i podtrzymując nadzieję na pierwsze miejsce w tabeli Mistrzostw Narodów półkuli północnej.",
-        "Próby: O'Brien 2, Baloucoune 2, Kelleher, Porter, Timoney Wady: Prendergast 3, Frawley Irlandia otrząsnęła się po słabym występie w pierwszej połowie, osłabiając porywającego Fidżi i podtrzymując nadzieję na pierwsze miejsce w tabeli Mistrzostw Narodów półkuli północnej dzięki zwycięstwu w Dublinie za dodatkowe punkty.",
-        "Po tym, jak w zeszłym tygodniu pokonała Argentynę, Irlandii nie udało się stworzyć nieprzekonującego otwarcia, a wczesna próba Tommy'ego O'Briena i dublet Roberta Baloucoune wystarczyły na prowadzenie 17-15."
+        "Były główny trener Republiki Południowej Afryki Jake White mówi, że jego drużyna z Fidżi „wyświadczyła Irlandii przysługę” w sobotnim meczu o Mistrzostwo Narodów, zanim w przyszłym tygodniu zmierzy się ze Springboksem w Dublinie.",
+        "Fidżi przegrało z Irlandią 43-15 na stadionie Aviva po frustracji drużyny Andy'ego Farrella w zaciętej pierwszej połowie.",
+        "Podczas gdy Irlandia zdobyła 26 punktów bez odpowiedzi w drugiej połowie, White – który poprowadził RPA do zwycięstwa w Pucharze Świata w 2007 roku – powiedział, że zespół Andy’ego Farrella nie może sobie pozwolić na podobnie powolne okresy przeciwko kolejnym mistrzom świata."
       ],
       "extended_paragraphs": [
-        "Irlandia podnosi się po słabym występie w pierwszej połowie, osłabiając porywającego Fidżi i podtrzymując nadzieję na pierwsze miejsce w tabeli Mistrzostw Narodów półkuli północnej.",
-        "Próby: O'Brien 2, Baloucoune 2, Kelleher, Porter, Timoney Wady: Prendergast 3, Frawley",
-        "Irlandia otrząsnęła się po słabym występie w pierwszej połowie, osłabiając porywającego Fidżi i podtrzymując nadzieję na pierwsze miejsce w tabeli Mistrzostw Narodów półkuli północnej dzięki zwycięstwu w Dublinie za dodatkowe punkty.",
-        "Po tym, jak w zeszłym tygodniu pokonała Argentynę, Irlandii nie udało się stworzyć nieprzekonującego otwarcia, a wczesna próba Tommy'ego O'Briena i dublet Roberta Baloucoune wystarczyły na prowadzenie 17-15.",
-        "Fidżi przybyło do Dublina bez zwycięstwa w dziewięciu poprzednich spotkaniach z gospodarzami, a w zeszłym tygodniu zostało pokonane przez Francję 54:17."
+        "Były główny trener Republiki Południowej Afryki Jake White mówi, że jego drużyna z Fidżi „wyświadczyła Irlandii przysługę” w sobotnim meczu o Mistrzostwo Narodów, zanim w przyszłym tygodniu zmierzy się ze Springboksem w Dublinie.",
+        "Fidżi przegrało z Irlandią 43-15 na stadionie Aviva po frustracji drużyny Andy'ego Farrella w zaciętej pierwszej połowie.",
+        "Podczas gdy Irlandia zdobyła 26 punktów bez odpowiedzi w drugiej połowie, White – który poprowadził RPA do zwycięstwa w Pucharze Świata w 2007 roku – powiedział, że zespół Andy’ego Farrella nie może sobie pozwolić na podobnie powolne okresy przeciwko kolejnym mistrzom świata.",
+        "„Pozwolę sobie to ująć w ten sposób, ponieważ myślę, że Irlandia w głębi duszy wie, że jeśli zagra w taki sposób przeciwko Republice Południowej Afryki, będzie przeciwko niej”.",
+        "Opublikowano 4 godziny temu White, który w zeszłym miesiącu został mianowany trenerem Fidżi, był sfrustrowany faktem, że jego zespół zdecydował się przyjąć karę z kranu zamiast scruma, gdy gra była wyrównana w drugiej połowie."
       ]
     }
   ],
@@ -2290,35 +2204,39 @@
       ]
     },
     {
-      "id": "rynki-7-1bcd75",
-      "entity_tag": "GPW w Warszawie",
-      "sector": "Rynek Kapitałowy",
+      "id": "rynki-7-c58f6f",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Energetyka, przemysł i handel z potencjałem. Ekspert ocenia perspektywy GPW",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 781 mln zł, 492,1 mld zł, 491,7 mld zł) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "781 mln zł",
+        "492,1 mld zł",
+        "491,7 mld zł"
+      ],
+      "title": "Polacy gromadzą coraz więcej w PPK. Aktywa funduszy biją rekordy",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
       "time": "14:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Energetyka-przemysl-i-handel-z-potencjalem-Ekspert-ocenia-perspektywy-GPW-9227833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/6/8/1288b01e0a034a-948-568-12-75-987-592.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Polacy-gromadza-coraz-wiecej-w-PPK-Aktywa-funduszy-bija-rekordy-9227957.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/d/4/f1e3e1e3ddf88d-945-560-517-270-3960-2375.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Mimo bardzo wysokich wzrostów w tym roku, warszawska giełda ma szanse na dalsze zwyżki.",
-        "Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU.",
-        "Jego zdaniem, in plus mogą wyróżniać się m."
+        "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł.",
+        "Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
+        "fot. Tomasz Ras / / Puls Biznesu Po wrześniowym spadku polski rynek funduszy inwestycyjnych powrócił na ścieżkę wzrostu i na koniec października krajowe fundusze zarządzały aktywami netto o wartości 492,1 mld zł, czyli o 781 mln zł (0,2 proc.) większymi niż miesiąc wcześniej."
       ],
       "extended_paragraphs": [
-        "Mimo bardzo wysokich wzrostów w tym roku, warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać się m. in. spółki energetyczne, przemysłowe, konsumenckie i surowcowe.",
-        "fot. Mateusz Szymański / / Shutterstock „Jeśli chodzi o to, jak będzie wyglądała sytuacja na warszawskiej giełdzie w kolejnych kwartałach, to jesteśmy umiarkowanie optymistyczni. Ten optymizm jest już mniejszy niż jeszcze rok temu, bo jesteśmy po roku bardzo wysokich wzrostów na giełdzie, natomiast cały czas uważamy, że fundamenty polskiej gospodarki są dosyć dobre. Dynamika PKB jest na tyle wysoka, że wyróżniamy się pozytywnie na tle innych krajów europejskich, więc to na pewno nam pomaga” – powiedział Tomasz Matras.",
-        "„Polski rynek wyceniany jest z delikatną premią do innych rynków rozwijających się, ale wydaje nam się, że ta premia jest uzasadniona patrząc na to, gdzie jest polska gospodarka, że bardziej pretendujemy do kraju rozwiniętego, niż rozwijającego się” - dodał.",
-        "Jego zdaniem, na korzyść polskiej giełdy przemawia też napływ kapitału na GPW z różnych źródeł.",
-        "„Nie chodzi tylko o napływy do TFI, bo tych w części akcyjnej aż tak bardzo nie widać, ale środki na różnego rodzaju programy emerytalne, jak np. PPE, PPK, IKE, IKZE. Tym kanałem sporo pieniędzy trafia na naszą giełdę” - powiedział."
+        "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł. Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
+        "fot. Tomasz Ras / / Puls Biznesu Po wrześniowym spadku polski rynek funduszy inwestycyjnych powrócił na ścieżkę wzrostu i na koniec października krajowe fundusze zarządzały aktywami netto o wartości 492,1 mld zł, czyli o 781 mln zł (0,2 proc.) większymi niż miesiąc wcześniej. Tym samym nieznacznie pobity został dotychczasowy rekord z sierpnia, kiedy aktywa sięgnęły 491,7 mld zł.",
+        "Jak podano, bilans całego roku pozostaje bardzo dobry. Od końca grudnia 2025 r. aktywa funduszy wzrosły o blisko 57 mld zł, czyli 13 proc. W ujęciu rocznym przyrost sięga 74,4 mld zł (17,8 proc.). Do przekroczenia symbolicznej granicy 500 mld zł brakuje już niespełna 8 mld zł.",
+        "W październiku saldo wpłat i wypłat wyniosło 1,25 mld zł, wobec 0,23 mld zł we wrześniu. Jednocześnie szacowany wynik zarządzania był ujemny i sięgnął ok. -500 mln zł.",
+        "\"Był to drugi z rzędu miesiąc, w którym wyniki inwestycyjne obniżały wartość aktywów krajowych funduszy\" - dodano."
       ]
     },
     {

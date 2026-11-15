@@ -3,7 +3,7 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.319",
-    "last_updated": "2026-11-15 17:18",
+    "last_updated": "2026-11-15 21:55",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
     "foreign_translated_count": 19,
@@ -81,17 +81,17 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$64,764",
-      "change": "-0.68%",
-      "is_positive": false
+      "price": "$65,172",
+      "change": "+1.21%",
+      "is_positive": true
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,815",
-      "change": "-0.16%",
-      "is_positive": false
+      "price": "$1,823",
+      "change": "+2.93%",
+      "is_positive": true
     },
     {
       "symbol": "WIG20",
@@ -1113,7 +1113,7 @@
       ]
     },
     {
-      "id": "rynki-6-50a2e0",
+      "id": "rynki-6-565d68",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "MEDIUM",
@@ -1123,11 +1123,11 @@
       "key_metrics": [
         "50%"
       ],
-      "title": "Lutnick staje w obliczu pytań w związku ze skandalem szpiegowskim Nvidii. Firma jego synów jest głęboko powiązana z producentem chipów",
-      "original_title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "title": "Lutnick staje w obliczu pytań w związku ze skandalem szpiegowskim Nvidii. Firma jego synów jest powiązana z producentem chipów",
+      "original_title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:42",
+      "time": "19:58",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&amp;w=1920&amp;h=1080",
@@ -1141,7 +1141,7 @@
       "extended_paragraphs": [
         "Rezygnacja Jensena Huanga ze stanowiska dyrektora generalnego Nvidii spowodowała ponowne przyjrzenie się sekretarzowi handlu Howardowi Lutnickowi i powiązaniom finansowym jego rodziny z producentem chipów.",
         "Jak wynika z raportu badawczego Cantor zweryfikowanego przez CNBC, pod koniec września Cantor Fitzgerald gościł dyrektora generalnego Nvidii, Jensena Huanga i innych członków kadry kierowniczej tego producenta chipów na spotkaniach z inwestorami w Nowym Jorku.",
-        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z dnia 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
+        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
         "Jednak firma, wcześniej prowadzona przez Sekretarza Handlu Howarda Lutnicka, a obecnie kierowana przez jego synów, Brandona i Kyle’a, odnotowała prawie 50% spadek liczby akcji Nvidii posiadanych w okresie od września 2025 r. do marca 2026 r., wynika z analizy CNBC dokumentów dotyczących papierów wartościowych, z wyłączeniem opcji. Nvidia była jedną z największych pozycji na akcjach zgłoszonych w dokumentach Cantora.",
         "Spadek zbiegł się w czasie z naciskami Białego Domu i wywiadu USA na Lutnicka, aby rozprawił się z Megaspeed, singapurską firmą podejrzaną o wysyłanie zaawansowanych chipów sztucznej inteligencji Nvidii do Chin. Jak poinformowała 11 listopada Axios, Lutnick wielokrotnie stawiał opór tym wysiłkom."
       ]
@@ -1183,106 +1183,37 @@
   ],
   "makro": [
     {
-      "id": "makro-1-ee062b",
-      "entity_tag": "USA & Bezpieczeństwo",
-      "sector": "Geopolityka",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Geopolityka” (USA & Bezpieczeństwo) (kluczowe liczby: 70 proc.) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "70 proc."
-      ],
-      "title": "W poniedziałek koniec utrudnień w ruchu lotniczym w USA",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:06",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/swiat/art45491311-w-poniedzialek-koniec-utrudnien-w-ruchu-lotniczym-w-usa",
-      "image_url": "https://i.gremicdn.pl/image/free/4e14c8659c00c299b5c985ab92acc6ee/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": true,
-      "summary_points": [
-        "Jeszcze w niedzielę wróci do normy sytuacja z systemem łączności, którego awaria sparaliżowała w weekend ruch lotniczy w USA, - zapowiedział minister transportu USA Sean Duffyw rozmowie ze stacją ABC.",
-        "Jego zdaniem pełna normalizacja na lotniskach nastąpi prawdopodobnie dopiero w poniedziałek rano.",
-        "Samoloty uziemione po tym, jak amerykańska Federalna Administracja Lotnictwa wydała nakaz ogólnokrajowego postoju „z powodu nadzwyczajnych okoliczności i względów bezpieczeństwa” po wcześniejszym raporcie agencji o poważnych problemach z komunikacją kontroli ruchu lotniczego na międzynarodowym lotnisku Seattle-Tacoma w SeaTac w stanie Waszyngton ."
-      ],
-      "extended_paragraphs": [
-        "Jeszcze w niedzielę wróci do normy sytuacja z systemem łączności, którego awaria sparaliżowała w weekend ruch lotniczy w USA, - zapowiedział minister transportu USA Sean Duffyw rozmowie ze stacją ABC. Jego zdaniem pełna normalizacja na lotniskach nastąpi prawdopodobnie dopiero w poniedziałek rano.",
-        "Samoloty uziemione po tym, jak amerykańska Federalna Administracja Lotnictwa wydała nakaz ogólnokrajowego postoju „z powodu nadzwyczajnych okoliczności i względów bezpieczeństwa” po wcześniejszym raporcie agencji o poważnych problemach z komunikacją kontroli ruchu lotniczego na międzynarodowym lotnisku Seattle-Tacoma w SeaTac w stanie Waszyngton .",
-        "Słowa te padły dzień po komunikatach Federalnej Administracji Lotnictwa (FAA), według których ruch lotniczy w Stanach Zjednoczonych miał wrócić do normy w niedzielę w nocy. W piątek FAA wstrzymała wszystkie odloty w USA na ponad cztery godziny z powodu awarii systemu łączności.",
-        "Transport Zaskakująca przyczyna gigantycznego chaosu w USA? Paraliż lotniczy mógł wywołać jeden router Poważna awaria amerykańskiego systemu kontroli ruchu lotniczego doprowadziła do niemal pięciogodzinnego wstrzymania startów samolotów w całych Stan...",
-        "Według Duffy'ego system został przeciążony danymi podczas aktualizacji. Minister informował w sobotę, że usterka systemu jest związana z pracami wykonywanymi na zlecenie FAA przez amerykańską firmę L3Harris, która działa w branży lotniczej, telekomunikacyjnej i obronnej."
-      ]
-    },
-    {
-      "id": "makro-5-5e9016",
-      "entity_tag": "KNF",
-      "sector": "Nadzór Finansowy",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Nadzór Finansowy” (KNF) (kluczowe liczby: 10 tys., 30 tys. zł) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "10 tys.",
-        "30 tys. zł"
-      ],
-      "title": "OIPE, czyli Europejska Emerytura: komu się opłaca i co dała przez trzy lata",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:44",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/projekty-specjalne/art45491221-oipe-czyli-europejska-emerytura-komu-sie-oplaca-i-co-dala-przez-trzy-lata",
-      "image_url": "https://i.gremicdn.pl/image/free/0f8d75bb2dabb5e78f9c9ebfd9f0c2af/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Polacy coraz częściej boją się, że publiczna emerytura nie wystarczy.",
-        "Od trzech lat mają do dyspozycji Europejską Emeryturę (OIPE): unijny produkt, w którym można inwestować na starość bez podatku Belki.",
-        "Oszczędza w nim już ok. 10 tys. osób, a w 2027 r. pierwsi z nich skorzystają ze zwolnienia podatkowego.Materiał przygotowany przez firmę finax Z naszego badania Financial Wellness Index wynika, że brak pieniędzy na starość to najczęstsze zmartwienie finansowe osób w wieku 45–54 lat."
-      ],
-      "extended_paragraphs": [
-        "Polacy coraz częściej boją się, że publiczna emerytura nie wystarczy. Od trzech lat mają do dyspozycji Europejską Emeryturę (OIPE): unijny produkt, w którym można inwestować na starość bez podatku Belki. Oszczędza w nim już ok. 10 tys. osób, a w 2027 r. pierwsi z nich skorzystają ze zwolnienia podatkowego.Materiał przygotowany przez firmę finax",
-        "Z naszego badania Financial Wellness Index wynika, że brak pieniędzy na starość to najczęstsze zmartwienie finansowe osób w wieku 45–54 lat. Mimo to wciąż przeceniamy możliwości publicznego systemu emerytalnego i zbyt późno zaczynamy odkładać. A w oszczędzaniu na emeryturę najcenniejszy jest czas: im wcześniej wpłacone pieniądze, tym dłużej pracują.",
-        "OIPE, czyli Ogólnoeuropejski Indywidualny Produkt Emerytalny, to unijne rozwiązanie do dobrowolnego, samodzielnego inwestowania na przyszłość. W Polsce działa od października 2023 r. i daje preferencje podobne do IKE: kto wypłaci środki po 60. roku życia (lub po 55., mając uprawnienia emerytalne) i spełni pozostałe warunki ustawy, na przykład wpłacał w co najmniej pięciu latach kalendarzowych, nie zapłaci 19-proc. podatku Belki. Oczywiście, opodatkowanie zależy od indywidualnej sytuacji inwestującego i może ulec zmianie w przyszłości.",
-        "To propozycja dla każdego, kto nie chce polegać wyłącznie na państwowej emeryturze: dla zaczynających oszczędzać, dla samozatrudnionych i dla osób, które pracują lub chcą pracować w innym kraju Unii. Dla każdego, kto myśli o swojej finansowej przyszłości.",
-        "Po pierwsze, mobilność: po przeprowadzce do innego państwa UE oszczędności można bez podatku przenieść na subkonto w nowym kraju. Po drugie, osobny limit, niezależny od IKE i IKZE. W 2026 r. wynosi 28 260 zł, a w 2027 r. po raz pierwszy przekroczy 30 tys. zł. Po trzecie, automatyczne ograniczanie ryzyka: przez większość czasu pieniądze są inwestowane w fundusze ETF na akcje, a na dziesięć lat przed wiekiem emerytalnym część trafia stopniowo do funduszy obligacji. Po czwarte, to idealne narzędzie do regularnego i automatycznego inwestowania małych kwot. Zacząć można od 50 zł. Po piąte? Prostota. Poświęcasz kilka minut i masz portfel ustawiony na lata."
-      ]
-    },
-    {
-      "id": "makro-3-623c62",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-3-c90527",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
       "market_impact": "MEDIUM",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 60%) przy planowaniu budżetu i inwestycji.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Surowce Energetyczne” (Ropa Naftowa) (kluczowe liczby: 55 proc.) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [
-        "60%"
+        "55 proc."
       ],
-      "title": "„Rzecz o idei”: Kapitan państwo czy spółka akcyjna?",
+      "title": "Zełenski: unieruchomiliśmy ponad 55 proc. mocy przerobowych rafinerii w Rosji",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:00",
+      "time": "22:03",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/kraj/art45486241-rzecz-o-idei-kapitan-panstwo-czy-spolka-akcyjna",
-      "image_url": "https://i.gremicdn.pl/image/free/b4986f749d2f9177588cfe3cdfb6a9d1/podcast-rzecz-o-idei-kapitan-panstwo-czy-spolka-akcyjna",
+      "source_url": "https://www.rp.pl/konflikty-zbrojne/art45491621-zelenski-unieruchomilismy-ponad-55-proc-mocy-przerobowych-rafinerii-w-rosji",
+      "image_url": "https://i.gremicdn.pl/image/free/72edcc8d2956044174075907cff5a811/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
-        "Policjant na każdym rogu i bramki w szkołach czy społeczne więzi?",
-        "Tematem nowego odcinka „Rzeczy o idei” jest sprawność państwa oraz poszukiwanie odpowiedzi na nowy rodzaj przemocy.",
-        "– Zbudujmy wokół niej instytucje, dostosowując je w ten sposób do naszego charakteru narodowego – o cechującej Polaków samorzutności mówi Michał Płociński."
+        "- Obecnie niemal każdego dnia odnosimy kolejne sukcesy.",
+        "Łącznie do tej pory unieruchomiliśmy już ponad 55 proc. rosyjskich mocy przerobowych w sektorze rafineryjnym – poinformował w niedzielę prezydent Ukrainy Wołodymyr Zełenski.",
+        "Kłęby dymu unoszą się z pożarów w rafinerii ropy naftowej w Rosji - zdjęcie archiwalne – To nasza uzasadniona odpowiedź na odmowę Rosji w kwestii deeskalacji oraz jej ataki na ukraińską infrastrukturę energetyczną – dodał Zełenski."
       ],
       "extended_paragraphs": [
-        "Policjant na każdym rogu i bramki w szkołach czy społeczne więzi? Tematem nowego odcinka „Rzeczy o idei” jest sprawność państwa oraz poszukiwanie odpowiedzi na nowy rodzaj przemocy.",
-        "– Zbudujmy wokół niej instytucje, dostosowując je w ten sposób do naszego charakteru narodowego – o cechującej Polaków samorzutności mówi Michał Płociński. Po zamachu w Krakowie Polacy zjednoczyli się w działaniach. Badanie CBOS („Z czego Polacy mogą być dumni, a czego mogą się wstydzić”) pokazuje, że tę zdolność oceniamy pozytywnie.",
-        "Czytaj dalej w najniższej cenie w roku. Aż 60% rabatu na cały rok z „Rzeczpospolitą”.",
-        "Kraj Pogoda w listopadzie szykuje niespodzianki. Wiemy, kiedy Polskę nawiedzą śnieg i mróz Kraj „Rzecz w tym”: Radykalizacja bez ideologii. „Posługują się czystą przemocą” 32 min. 0 sek.",
-        "Kraj Czy w Boże Narodzenie spadnie śnieg? Są już prognozy na grudzień Kraj Marsz Niepodległości w cieniu tragedii w Krakowie. „Polska klasa polityczna nie zdaje egzaminu” 18 min. 47 sek."
+        "- Obecnie niemal każdego dnia odnosimy kolejne sukcesy. Łącznie do tej pory unieruchomiliśmy już ponad 55 proc. rosyjskich mocy przerobowych w sektorze rafineryjnym – poinformował w niedzielę prezydent Ukrainy Wołodymyr Zełenski.",
+        "Kłęby dymu unoszą się z pożarów w rafinerii ropy naftowej w Rosji - zdjęcie archiwalne",
+        "– To nasza uzasadniona odpowiedź na odmowę Rosji w kwestii deeskalacji oraz jej ataki na ukraińską infrastrukturę energetyczną – dodał Zełenski.",
+        "W wieczornym przemówieniu wideo prezydent Ukrainy przekazał, że naczelny dowódca Sił Zbrojnych Ukrainy Mychajło Drapaty złożył mu w niedzielę raport na temat ukraińskich uderzeń dalekiego zasięgu. Przekazał też, że w październiku w wyniku działań wojennych Rosja poniosła ogromne straty w ludziach – ponad 50 000 zabitych i rannych.",
+        "Konflikty zbrojne „Odległość już nie chroni”. Ukraina uderzyła w kluczowy węzeł naftowy Ukraińskie drony dalekiego zasięgu zaatakowały węzeł naftowy Samara w środkowej Rosji w pobliżu miejscowości Proswiet w obwodzie samarskim - poinfo..."
       ]
     },
     {
@@ -1315,6 +1246,38 @@
         "Luksusowe kalendarze adwentowe mają dawać dreszczyk niespodzianki, ale dla Julii ważniejsze jest, czy rzeczywiście chce, aby przedmioty były w środku – ta myśl uderza także coraz większą liczbę klientów po skandalu wokół kalendarza Skims.",
         "W tym tygodniu marka kosmetyczna Kim Kardashian zaoferowała wszystkim swoim klientom zwrot pieniędzy za kalendarz o wartości 148 dolarów (110 funtów) po tym, jak została szeroko skrytykowana w mediach społecznościowych za jakość jego zawartości, a niektórzy klienci porównali spinki do włosów, gumki i breloczki do kluczy znajdujące się w środku do rzeczy, które można znaleźć na oparciu sofy.",
         "Julia twierdzi, że zarabia nieźle, ale zależy jej na dobrym stosunku jakości do ceny i nie chce ich marnować na przedmioty, których nie będzie używać."
+      ]
+    },
+    {
+      "id": "makro-1-53d2be",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Geopolityka” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Zmiany w NATO. Sojusz rezygnuje ze szczytu w Albanii w 2027 roku",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:22",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/polityka/art45491641-zmiany-w-nato-sojusz-rezygnuje-ze-szczytu-w-albanii-w-2027-roku",
+      "image_url": "https://i.gremicdn.pl/image/free/6c5556e13988d7100446bd4e2c8e3107/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "NATO nie zorganizuje w Albanii szczytu przywódców w 2027 roku – informuje Associated Press.",
+        "Agencja wskazuje na spory o wydatki obronne, napięcia polityczne i rosnące koszty organizacji spotkań.",
+        "Prezydent USA Donald Trump I sekretarz generalny NATO Mark Rutte podczas szczytu w Ankarze NATO nie zorganizuje w 2027 r. szczytu przywódców w Albanii, choć Tirana została wcześniej wskazana jako gospodarz."
+      ],
+      "extended_paragraphs": [
+        "NATO nie zorganizuje w Albanii szczytu przywódców w 2027 roku – informuje Associated Press. Agencja wskazuje na spory o wydatki obronne, napięcia polityczne i rosnące koszty organizacji spotkań.",
+        "Prezydent USA Donald Trump I sekretarz generalny NATO Mark Rutte podczas szczytu w Ankarze",
+        "NATO nie zorganizuje w 2027 r. szczytu przywódców w Albanii, choć Tirana została wcześniej wskazana jako gospodarz. Jak informuje Associated Press (AP), Sojusz ogranicza również liczbę spotkań ministerialnych. Zmiany następują w czasie napięć dotyczących wydatków obronnych, wojny w Ukrainie i konfliktu z Iranem.",
+        "Sekretarz generalny NATO Mark Rutte podkreślił w rozmowie z AP, że szczyty są organizowane wtedy, gdy są potrzebne. W ostatnich latach odbywały się rokrocznie: w 2026 r. w Ankarze, rok wcześniej w Hadze, a w 2024 r. w Waszyngtonie.",
+        "Spotkanie ministrów obrony, zwykle organizowane w październiku, nie odbyło się w tym roku. Nie zaplanowano go również na październik 2027 r. Ministrowie spraw zagranicznych mają natomiast spotkać się w przyszłym roku raz, zamiast dwóch razy. NATO określa te zmiany jako pakiet reorganizacyjny."
       ]
     },
     {
@@ -1382,35 +1345,69 @@
       ]
     },
     {
-      "id": "makro-7-258714",
-      "entity_tag": "CD Projekt (GPW: CDR)",
-      "sector": "Gaming & Tech",
+      "id": "makro-5-85b1e3",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Gaming & Tech” (CD Projekt (GPW: CDR)) przy planowaniu budżetu i inwestycji.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
       "key_metrics": [],
-      "title": "„Men-Nefer” - planszówka dla doświadczonych graczy i fanów starożytnego Egiptu",
+      "title": "Drony znów zaatakowały statki na Morzu Czarnym. Wybuchły pożary",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:44",
+      "time": "21:20",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/plus-minus/art45486271-men-nefer-planszowka-dla-doswiadczonych-graczy-i-fanow-starozytnego-egiptu",
-      "image_url": "https://i.gremicdn.pl/image/free/f7895f84c37e9f45f258044f75edfdd9/",
+      "source_url": "https://www.rp.pl/konflikty-zbrojne/art45491581-drony-znow-zaatakowaly-statki-na-morzu-czarnym-wybuchly-pozary",
+      "image_url": "https://i.gremicdn.pl/image/free/3ee9b2cb96e0c5d2fb0c192f50ac9d3d/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "„Men-Nefer” jest grą dla doświadczonych graczy, którzy zjedli zęby na poważnych tytułach.",
-        "Nie okazuje się jednak aż tak skomplikowana, jak wydawałoby się podczas czytania instrukcji.",
-        "Starożytny Egipt od dawna fascynuje popkulturę, ale w ostatnich latach zadomowił się także na stołach miłośników planszówek."
+        "Ponownie zagrożone zostało bezpieczeństwo morskie na Morzu Czarnym - napisał w niedzielę na X premier Rumunii Luca Niculescu.",
+        "Chodzi o sobotnie ataki dronów na trzy statki handlowe w pobliżu delty Dunaju.",
+        "To kolejne takie incydenty."
       ],
       "extended_paragraphs": [
-        "„Men-Nefer” jest grą dla doświadczonych graczy, którzy zjedli zęby na poważnych tytułach. Nie okazuje się jednak aż tak skomplikowana, jak wydawałoby się podczas czytania instrukcji.",
-        "Starożytny Egipt od dawna fascynuje popkulturę, ale w ostatnich latach zadomowił się także na stołach miłośników planszówek. Piramidy, świątynie, mumie i tajemnicze rytuały to wdzięczna sceneria dla projektantów gier, którzy chętnie zabierają nas nad Nil, byśmy wcielili się w budowniczych monumentalnych konstrukcji, kapłanów albo władców rywalizujących o przychylność bogów. Egipska moda nie jest zresztą wyłącznie kwestią efektownej oprawy – pozwala tworzyć rozbudowane mechanizmy związane z handlem, religią, rozwojem cywilizacji i walką o wpływy.",
-        "Do tego nurtu dołącza „Men-Nefer”, gra, która zaprasza nas do świata jednej z najpotężniejszych cywilizacji starożytności. Pytanie tylko, czy za imponującą tematyką idzie równie interesująca rozgrywka? Zanim przejdziemy do konkluzji, zerknijmy w stronę zasad. Nie wgłębiajmy się w szczegóły, lecz oddajmy ogólnego ducha rozgrywki.",
-        "W „Men-Nefer” gracze przenoszą się do starożytnego Egiptu, a konkretnie do Memfis – miasta założonego ok. 3100 r. p.n.e., które przez dziewięć dynastii pełniło funkcję stolicy państwa faraonów. Wcielają się w przedstawicieli egipskiej społeczności, którzy starają się zdobyć prestiż, rozwijając różne dziedziny życia cywilizacji nad Nilem. Mogą zgłębiać wiedzę w Domach Życia, handlować na rzece, składać ofiary w świątyni boga Ptaha, balsamować ciała zmarłych i urządzać im pochówki w nekropolii, a także uczestniczyć w budowie Wielkiej Piramidy i mniejszych piramid królowych.",
-        "Plus Minus „Wiedźmin: Legacy”. Własny rozdział wiedźmińskiej historii „Wiedźmin” to wdzięczny materiał na grę planszową i zarazem pułapka. Wystarczy kilka znajomych nazw, garść potworów i charakterystyczny medalion, b..."
+        "Ponownie zagrożone zostało bezpieczeństwo morskie na Morzu Czarnym - napisał w niedzielę na X premier Rumunii Luca Niculescu. Chodzi o sobotnie ataki dronów na trzy statki handlowe w pobliżu delty Dunaju. To kolejne takie incydenty.",
+        "Statki handlowe na Morzu Czarnym od początku października były celem dronów już 11 razy",
+        "Do ataków doszło w sobotę wieczorem. Premier Niculescu przekazał we wpisie w X, że radary Ministerstwa Obrony wykryły statki powietrzne, co skłoniło rumuńskie siły powietrzne do dwukrotnego poderwania myśliwców.",
+        "W sobotę dron uderzył w statek pływający pod banderą Palau na rumuńskich wodach terytorialnych; jednostka zmierzała do Suliny, a jej ostatecznym celem była Ukraina - przekazał portal Ukrainska Prawda.",
+        "Tego samego dnia grecki tankowiec Evia Petrol V został trafiony dronem około 4 mil morskich na południowy wschód od Suliny, co wywołało pożar na pokładzie. Taki sam skutek miał trzeci sobotni atak na jednostkę znajdującą się około 5 mil morskich na południowy wschód od kanału Sulina."
+      ]
+    },
+    {
+      "id": "makro-7-467a12",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 100 tys.) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "100 tys."
+      ],
+      "title": "Leon XIV w Andach. Papież zwrócił się do chorych i mieszkańców Peru",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:01",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/kosciol/art45491531-leon-xiv-w-andach-papiez-zwrocil-sie-do-chorych-i-mieszkancow-peru",
+      "image_url": "https://i.gremicdn.pl/image/free/357459b68e24cfa38b3aac6744bfe78a/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Papież Leon XIV odwiedził Cusco, historyczną stolicę Imperium Inków, gdzie spotkał się z tysiącami wiernych i modlił przed katedrą.",
+        "Podczas wizyty mówił o jedności, godności osób chorych i chrześcijańskiej nadziei, a także przekazał dar dla wizerunku Chrystusa od Trzęsień Ziemi.",
+        "W dziesiątym dniu podróży po Ameryce Południowej Leon XIV przyleciał w niedzielę do Cusco, położonego w peruwiańskich Andach."
+      ],
+      "extended_paragraphs": [
+        "Papież Leon XIV odwiedził Cusco, historyczną stolicę Imperium Inków, gdzie spotkał się z tysiącami wiernych i modlił przed katedrą. Podczas wizyty mówił o jedności, godności osób chorych i chrześcijańskiej nadziei, a także przekazał dar dla wizerunku Chrystusa od Trzęsień Ziemi.",
+        "W dziesiątym dniu podróży po Ameryce Południowej Leon XIV przyleciał w niedzielę do Cusco, położonego w peruwiańskich Andach. Według lokalnych władz na ulicach miasta papieża powitało pół miliona osób. W spotkaniu z wiernymi uczestniczyło natomiast około 100 tys. ludzi.",
+        "Uroczystość odbyła się na terenie parku archeologicznego Sacsayhuaman, rozległego kompleksu inkaskich budowli obronnych, świątyń i systemów wodnych. Obiekt, podobnie jak historyczne centrum Cusco, znajduje się na liście światowego dziedzictwa UNESCO.",
+        "Miasto położone jest na wysokości około 3400 m n.p.m. Leon XIV przybył tam miesiąc i dwa dni po operacji usunięcia nowotworu płuca. Wcześniej przez dwa dni przebywał w Chiclayo, swojej dawnej diecezji.",
+        "Podczas spotkania w Sacsayhuaman papież zwrócił uwagę na wyjątkowe znaczenie miejsca, w którym zgromadzili się wierni. Jak mówił, kompleks przypomina kamienny ołtarz wznoszący się ku andyjskiemu niebu, do którego niegdyś zwracali się przodkowie mieszkańców, poszukując tego, co boskie."
       ]
     },
     {
@@ -1450,7 +1447,73 @@
   ],
   "tech": [
     {
-      "id": "tech-1-8b8fe4",
+      "id": "tech-1-196269",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 10 miliardów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "10 miliardów"
+      ],
+      "title": "Fizycy znaleźli ślady niezwykle rzadkiego rozpadu cząstki. To sytuacja jedna na 10 miliardów",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:57",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/rozpad-czastki-1-na-10-miliardow-cern",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/lhcb-cern.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": true,
+      "summary_points": [
+        "Naukowcy poszukiwali dowodów rozpadu pewnej cząstki przez ponad czterdzieści lat.",
+        "Badania prowadzone przy Wielkim Zderzaczu Hadronów w CERN wreszcie dokonali przełomu w tym zakresie.",
+        "Wyniki pochodzą z eksperymentu LHCb, który doprowadził do identyfikacji sygnału rozpadu cząstki oznaczonej jako B⁰, zawierającej kwark piękny."
+      ],
+      "extended_paragraphs": [
+        "Naukowcy poszukiwali dowodów rozpadu pewnej cząstki przez ponad czterdzieści lat. Badania prowadzone przy Wielkim Zderzaczu Hadronów w CERN wreszcie dokonali przełomu w tym zakresie. Wyniki pochodzą z eksperymentu LHCb, który doprowadził do identyfikacji sygnału rozpadu cząstki oznaczonej jako B⁰, zawierającej kwark piękny. Rozpadła się ona na parę mionów, czyli cząstek podobnych do elektronów, lecz znacznie […]",
+        "Czytaj też: Na styku ogólnej teorii względności i mechaniki kwantowej. Chińscy fizycy zmierzyli przyciąganie grawitacyjne obiektów o masie 7,6 miligrama",
+        "Szacuje się, że występuje on zaledwie raz na około 10 miliardów rozpadów cząstek zawierających kwark piękny. Właśnie dlatego jego zaobserwowanie stanowiło tak duże wyzwanie. Pomimo wieloletnich poszukiwań, dopiero najnowsze możliwości detektora LHCb pozwoliły uzyskać wystarczająco silny sygnał.",
+        "Warto odnotować, iż kwarki to jedne z podstawowych składników materii. Kwarki górne i dolne budują protony oraz neutrony, z których składają się jądra atomowe. Kwark piękny należy do cięższej rodziny kwarków i powstaje między innymi podczas zderzeń wysokoenergetycznych protonów w Wielkim Zderzaczu Hadronów. Cząstki zawierające taki kwark są wyjątkowo krótkotrwałe. Istnieją zaledwie około 1,5 bilionowej części sekundy, zanim ulegną rozpadowi na inne cząstki.",
+        "W badanym procesie mezon B⁰ przekształca się w dwa miony: jeden o ładunku dodatnim, drugi o ujemnym. To właśnie identyfikacja tej pary, ukrytej w ogromnej liczbie innych produktów zderzeń, stanowiła główną trudność eksperymentalną. Ogromną rolę w uzyskaniu wyniku odegrała modernizacja eksperymentu LHCb. Od 2024 roku ulepszony detektor może rejestrować dane nawet pięć razy szybciej niż wcześniej, co znacząco zwiększyło liczbę analizowanych zderzeń."
+      ]
+    },
+    {
+      "id": "tech-3-051ce3",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Robot dokonał historycznego wyczynu w kosmosie. Człowiek nie jest już potrzebny",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "18:02",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/robot-samodzielnie-zbudowal-strukture-w-kosmosie",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/robot-struktura.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Nie zdążyliśmy się jeszcze przyzwyczaić do rosnącej obecności robotów w naszym codziennym użyciu, a okazuje się, że wkrótce mogą one podbić także przestrzeń kosmiczną.",
+        "Wszystko, co trafia na orbitę, musi zmieścić się wewnątrz rakiety lub jej osłony aerodynamicznej.",
+        "Inżynierowie radzili sobie z tym problemem, projektując konstrukcje składane, które po dotarciu w przestrzeń kosmiczną się rozkładały."
+      ],
+      "extended_paragraphs": [
+        "Nie zdążyliśmy się jeszcze przyzwyczaić do rosnącej obecności robotów w naszym codziennym użyciu, a okazuje się, że wkrótce mogą one podbić także przestrzeń kosmiczną. Najlepszym tego dowodem jest eksperyment przeprowadzony przez naukowców z California Institute of Technology, którzy przy wsparciu amerykańskiej agencji DARPA doprowadzili do rekordowego wyniku Dotychczas budowa dużych obiektów kosmicznych wiązała się z […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Dotychczas budowa dużych obiektów kosmicznych wiązała się z poważnymi ograniczeniami technologicznymi. Wszystko, co trafia na orbitę, musi zmieścić się wewnątrz rakiety lub jej osłony aerodynamicznej. Inżynierowie radzili sobie z tym problemem, projektując konstrukcje składane, które po dotarciu w przestrzeń kosmiczną się rozkładały. Alternatywnie, wysyłali poszczególne elementy do późniejszego montażu przez astronautów. Teraz pojawiła się trzecia możliwość: wykorzystanie robotów, które samodzielnie budują większe obiekty już na orbicie.",
+        "Czytaj też: Humanoidalny robot nauczył się chodzić i pracować rękami osobno. Później zrobił coś wyjątkowego",
+        "Dokonał tego system ASTRA (Autonomous In-Space Tensioned Reflector Assembly), będący częścią programu NOM4D. Celem tego przedsięwzięcia jest rozwój technologii umożliwiających produkcję i montaż dużych konstrukcji poza Ziemią. Zadaniem ASTRA było zmontowanie fragmentu anteny reflektorowej o średnicy 1,4 metra. Robot wykorzystuje specjalne ramię manipulacyjne, które pobiera elementy konstrukcyjne z zasobników, a następnie łączy kompozytowe rurki z aluminiowymi złączami. W ten sposób powstają kolejne moduły tworzące przestrzenną kratownicę, czyli szkielet przyszłej anteny.",
+        "Oczywiście jest to nie lada wyzwaniem, wszak każdy element musi zostać odpowiednio uchwycony, ustawiony i połączony, a robot nie może liczyć na bezpośrednią pomoc człowieka. Konstrukcja miała również wykorzystywać cienką, refleksyjną folię Kapton, stosowaną w technologii kosmicznej. Materiał ten jest lekki i odporny na trudne warunki panujące poza atmosferą. Inżynierowie przewidzieli zastosowanie specjalnej powierzchni napinanej za pomocą systemu sprężyn, co pozwala ograniczyć masę całej konstrukcji."
+      ]
+    },
+    {
+      "id": "tech-5-8b8fe4",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "HIGH",
@@ -1469,7 +1532,7 @@
       "source_url": "https://www.chip.pl/2026/11/kostka-rubika-przechodzi-pierwszy-tak-powazny-lifting",
       "image_url": "https://konto.chip.pl/uploads/2026/11/kostka-rubika-fot-pexels-1600x1067.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Niepozorny, kolorowy sześcian wymyślony przez węgierskiego architekta i rzeźbiarza Ernő Rubika stał się na przestrzeni dekad przedmiotem kultowym.",
         "Z wynikiem przekraczającym 500 milionów sprzedanych egzemplarzy kostka Rubika dzierży tytuł najlepiej sprzedającej się zabawki w historii ludzkości.",
@@ -1484,135 +1547,71 @@
       ]
     },
     {
-      "id": "tech-3-2a12d1",
-      "entity_tag": "Miedź (LME)",
-      "sector": "Surowce Przemysłowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Miedź (LME) (Surowce Przemysłowe) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Rekrystalizacja molibdenu. Przypadkowe odkrycie otwiera drogę do miniaturyzacji procesorów nowej generacji",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "15:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/rekrystalizacja-molibdenu-przypadkowe-odkrycie-otwiera-droge-do-miniaturyzacji-procesorow-nowej-generacji",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/a-molybdenite-mos2-min.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Współczesny przemysł półprzewodnikowy, napędzany rosnącym zapotrzebowaniem systemów sztucznej inteligencji na moc obliczeniową, intensywnie poszukuje materiałów zdolnych zastąpić miedź w roli mikroskopijnych połączeń integrujących miliony komponentów na pojedynczym chipie.",
-        "W nanoskali miedź wykazuje gwałtowny wzrost rezystancji, co dławi przepływ ładunków elektrycznych.",
-        "Ograniczenia tego pozbawiony jest molibden, metal znany dotąd głównie z ekstremalnej odporności termicznej i wykorzystywany w osłonach reaktorów jądrowych, łopatkach […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Rekrystalizacja molibdenu."
-      ],
-      "extended_paragraphs": [
-        "Współczesny przemysł półprzewodnikowy, napędzany rosnącym zapotrzebowaniem systemów sztucznej inteligencji na moc obliczeniową, intensywnie poszukuje materiałów zdolnych zastąpić miedź w roli mikroskopijnych połączeń integrujących miliony komponentów na pojedynczym chipie. W nanoskali miedź wykazuje gwałtowny wzrost rezystancji, co dławi przepływ ładunków elektrycznych. Ograniczenia tego pozbawiony jest molibden, metal znany dotąd głównie z ekstremalnej odporności termicznej i wykorzystywany w osłonach reaktorów jądrowych, łopatkach […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Rekrystalizacja molibdenu. Przypadkowe odkrycie otwiera drogę do miniaturyzacji procesorów nowej generacji \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Ograniczenia tego pozbawiony jest molibden, metal znany dotąd głównie z ekstremalnej odporności termicznej i wykorzystywany w osłonach reaktorów jądrowych, łopatkach turbin silników odrzutowych czy dyszach rakietowych dzięki temperaturze topnienia przekraczającej 2600°C.",
-        "Barierą technologiczną blokującą jego szerszą ekspansję w mikroelektronice pozostaje jednak wysoka kruchość w temperaturze otoczenia, gdzie metal potrafi pękać nagle i bez wcześniejszych odkształceń plastycznych, a kontrolowana modyfikacja jego mikrostruktury krystalicznej wymagała dotychczas energochłonnego wyżarzania w piecach hutniczych.",
-        "Przełomowe rozwiązanie tego problemu nastąpiło w wyniku nieoczekiwanego odkrycia dokonanego przez inżynierów mechaników z University of Rochester oraz Technion–Israel Institute of Technology. Wyniki badań, opublikowane na łamach prestiżowego czasopisma Proceedings of the National Academy of Sciences (PNAS) , udowodniły, że wewnętrzną architekturę ziaren krystalicznych molibdenu można zreorganizować w temperaturze pokojowej.",
-        "Pod mikroskopem metal ten składa się z odrębnych domen atomowych, których kształt, orientacja i rozmiar bezpośrednio definiują twardość oraz kowalność materiału. O ile standardowo zjawisko rekrystalizacji – czyli przebudowy granic i powstawania nowych ziaren – zachodzi w molibdenie dopiero po przekroczeniu temperatury około 1000°C, o tyle zespół pod kierunkiem prof. Niaz Abdolrahim z University of Rochester natrafił na zjawisko indukowane czysto mechanicznym naprężeniem."
-      ]
-    },
-    {
-      "id": "tech-5-2f5f80",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Chińczycy pobili rekord zimna. Schłodzili atomy do temperatury niewiele wyższej niż zero absolutne",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "13:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/rekord-zimna-atomy-chinska-stacja-kosmiczna",
-      "image_url": "https://konto.chip.pl/uploads/2026/05/stacja-tiangong.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Czy można stworzyć coś zimniejszego niż przestrzeń kosmiczna?",
-        "Chińscy fizycy przeprowadzili niezwykły eksperyment na pokładzie stacji kosmicznej Tiangong, schładzając chmurę atomów do temperatury minimalnie powyżej zera absolutnego.",
-        "Wyniki eksperymentu są dostępne w Science."
-      ],
-      "extended_paragraphs": [
-        "Czy można stworzyć coś zimniejszego niż przestrzeń kosmiczna? Okazuje się, że tak. Chińscy fizycy przeprowadzili niezwykły eksperyment na pokładzie stacji kosmicznej Tiangong, schładzając chmurę atomów do temperatury minimalnie powyżej zera absolutnego. Wyniki eksperymentu są dostępne w Science. Autorzy zamieszczonej tam publikacji wykorzystali warunki mikrograwitacji panujące na chińskiej stacji orbitalnej, aby uzyskać temperaturę, której osiągnięcie na […]",
-        "Czytaj też: Zwyczajny metal może rozwiązać jeden z największych problemów energetyki. Kto by się tego spodziewał?",
-        "Badacze wykorzystali około 20 tysięcy atomów rubidu-87. Pierwiastki te szczególnie dobrze nadają się do eksperymentów z chłodzeniem laserowym i badania zjawisk kwantowych. Najpierw atomy zostały uwięzione w specjalnej pułapce optycznej, wykorzystującej wiązki światła laserowego. Następnie naukowcy zastosowali tzw. chłodzenie ewaporacyjne, które ppolega na usuwaniu najbardziej energetycznych atomów z układu, dzięki czemu pozostała chmura stopniowo się ochładza.",
-        "Na Ziemi podobne eksperymenty napotykają jednak istotne ograniczenie: grawitację. Kiedy pułapka staje się zbyt słaba, atomy zaczynają opadać i trudno utrzymać je w odpowiednich warunkach. Na orbicie problem ten jest znacznie mniejszy, ponieważ urządzenia i znajdujące się w nich atomy pozostają w stanie ciągłego swobodnego spadania. Paradoksalnie, mikrograwitacja stworzyła nowe wyzwanie. Bez wpływu grawitacji najgorętsze atomy nie opuszczały pułapki tak łatwo, jak na Ziemi. Aby rozwiązać ten problem, naukowcy wykorzystali dodatkowe pole magnetyczne, które pomogło usprawnić proces chłodzenia.",
-        "W trakcie eksperymentu uzyskali kondensat Bosego-Einsteina, czyli stan materii powstający w ekstremalnie niskich temperaturach. W takich warunkach atomy zaczynają zachowywać się zbiorowo, jakby tworzyły jeden wielki obiekt kwantowy. Zjawisko to jest niezwykle interesujące dla fizyków, ponieważ pozwala obserwować efekty mechaniki kwantowej w skali znacznie większej niż pojedyncze atomy."
-      ]
-    },
-    {
-      "id": "tech-6-0edb4e",
+      "id": "tech-2-9c250c",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
-      "market_impact": "HIGH",
+      "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Gdzie był zespół ds. bezpieczeństwa Nvidii?",
-      "original_title": "Where was Nvidia’s security team?",
+      "title": "SNL gromadzi wszystkich potentatów technologicznych na lekcji randkowania i szpiegostwa",
+      "original_title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
       "is_foreign": true,
       "lang": "EN",
-      "time": "00:08",
+      "time": "20:20",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "source_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Szef bezpieczeństwa Nvidii po cichu odszedł w sierpniu, a teraz, gdy dyrektor generalny Jensen Huang ustąpił ze swoich relacji, w tym z dyrektorem w firmie podejrzanej o wysyłanie chipów do Chin, były oficer wywiadu twierdzi, że jest to rodzaj wycieku, który pojawia się w codziennych rozmowach, a do wyłapania go większość korporacyjnych zespołów ds.",
-        "bezpieczeństwa jest słabo przygotowana.",
-        "Connie Loizos 16:08 PST · 14 listopada 2026 Osoby z zewnątrz nie miały powodu, aby zauważyć, że w sierpniu wieloletni dyrektor ds."
+        "Chociaż niezręczni, przerażający dyrektorzy techniczni stali się powracającym tematem w Saturday Night Live, w tym tygodniu odcinek dał obsadzie szansę na podzielenie się wszystkimi wrażeniami naraz.",
+        "SNL gromadzi wszystkich potentatów technologicznych na lekcji randkowania i szpiegostwa Anthony Ha 23:20 PST · 15 listopada 2026 Chociaż niezręczni, przerażający dyrektorzy techniczni stali się powracającym tematem w Saturday Night Live, w tym tygodniu odcinek dał obsadzie szansę pochwalenia się wszystkimi wrażeniami na raz.",
+        "W jednym szkicu mamy Jamesa Austina Johnsona jako Petera Thiela, Bena Marshalla jako Sama Altmana, Jane Wickline jako Dario Amodei, Jeremy’ego Culhane’a jako Elona Muska, Andrew Dismukesa jako Marka Zuckerberga – a ostatecznie do zabawy dołączył niedawno zmarły Bowen Yang jako Jensen Huang."
       ],
       "extended_paragraphs": [
-        "Szef bezpieczeństwa Nvidii po cichu odszedł w sierpniu, a teraz, gdy dyrektor generalny Jensen Huang ustąpił ze swoich relacji, w tym z dyrektorem w firmie podejrzanej o wysyłanie chipów do Chin, były oficer wywiadu twierdzi, że jest to rodzaj wycieku, który pojawia się w codziennych rozmowach, a do wyłapania go większość korporacyjnych zespołów ds. bezpieczeństwa jest słabo przygotowana.",
-        "Gdzie był zespół ds. bezpieczeństwa Nvidii? Connie Loizos 16:08 PST · 14 listopada 2026 Osoby z zewnątrz nie miały powodu, aby zauważyć, że w sierpniu wieloletni dyrektor ds. bezpieczeństwa firmy Nvidia i szef ds. bezpieczeństwa produktów ustąpił ze stanowiska. Zaledwie dwa i pół miesiąca później sam dyrektor generalny Jensen Huang opuścił firmę z powodu rosnących pytań na temat jego związków pozamałżeńskich – zaczynając od dyrektora Megaspeed, singapurskiej firmy zajmującej się centrami danych, którą amerykańscy śledczy podejrzewają o wysyłanie chipów Nvidia do Chin, a następnie rozszerzywszy się na raporty dotyczące dwóch odrębnych spraw z pracownikami Nvidii.",
-        "W tamtym czasie David Reber, który spędził cztery lata jako CSO i siedem w sumie w Nvidii, powiedział, że odchodzi ze względów zdrowotnych. „To nie był taki zwrot, jaki planowałem. Ale wiem, co musi być najważniejsze: rodzina i zdrowie” – napisał pod koniec sierpnia na LinkedIn, ujawniając, że ponad dwa lata temu zdiagnozowano u niego chorobę Parkinsona o młodym początku.",
-        "Zastępca Rebera, Saša Zdjelar, wcześniej przez 17 lat pracował w ExxonMobil w Houston, odchodząc jako starszy menedżer IT, a następnie spędził rok w Salesforce i kilka lat w firmie ReversingLabs zajmującej się bezpieczeństwem cybernetycznym. Zdjelar nie odpowiedział na czwartkowe pytania dotyczące przejścia ani tego, co wiedział zespół ds. bezpieczeństwa.",
-        "Nic publicznego nie łączy zmian ról Rebera lub Zdjelara ze sprawą Megaspeed, ale wydaje się rozsądne, aby zastanowić się, co zespół ds. bezpieczeństwa Nvidii wiedział na temat rządowej kontroli Megaspeed i relacji Huanga oraz czy ktoś zgłosił wątpliwości. W czwartek Reber nie odpowiedział na pytania. Nvidia również nie odpowiedziała na nasze powiązane pytania."
+        "Chociaż niezręczni, przerażający dyrektorzy techniczni stali się powracającym tematem w Saturday Night Live, w tym tygodniu odcinek dał obsadzie szansę na podzielenie się wszystkimi wrażeniami naraz.",
+        "SNL gromadzi wszystkich potentatów technologicznych na lekcji randkowania i szpiegostwa Anthony Ha 23:20 PST · 15 listopada 2026 Chociaż niezręczni, przerażający dyrektorzy techniczni stali się powracającym tematem w Saturday Night Live, w tym tygodniu odcinek dał obsadzie szansę pochwalenia się wszystkimi wrażeniami na raz.",
+        "W jednym szkicu mamy Jamesa Austina Johnsona jako Petera Thiela, Bena Marshalla jako Sama Altmana, Jane Wickline jako Dario Amodei, Jeremy’ego Culhane’a jako Elona Muska, Andrew Dismukesa jako Marka Zuckerberga – a ostatecznie do zabawy dołączył niedawno zmarły Bowen Yang jako Jensen Huang.",
+        "wyrzucenie Huanga z Nvidii (po przyznaniu się do romansu z podejrzanym chińskim szpiegiem) mogłoby mieć poważne konsekwencje dla branży technologicznej; dostarczył także okazji do kilku oczywistych żartów o bogatych kujonach, którzy są łatwym celem dla kobiet (lub mężczyzn), którzy są poza ich ligą.",
+        "W skeczu agent CIA grany przez gospodarza programu Johna Mulaneya (jak zawsze zabawny, choć nie do końca pewny, jak wymawia się „Palantir” lub „Nvidia”) próbuje skrupulatnie wyjaśnić, dlaczego ci dyrektorzy powinni być podejrzliwi, gdy ktoś atrakcyjny nagle wydaje się nimi romantycznie zainteresowany. Ze względu na Altmana i Thiela dodał: „Mam nadzieję, że to jest oczywiste: nawet jeśli jesteś gejem, szpieg może cię oszukać”."
       ]
     },
     {
-      "id": "tech-7-7eda7a",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "id": "tech-4-7fbd17",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Jak odblokować Macbooka szczoteczką do zębów? Właśnie tak",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:02",
-      "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/philips-sonicare-odblokowanie-macbooka-szczoteczka",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/sonicare.jpeg",
-      "image_source": "Fot. / Źródło: Antyweb Innowacje",
+      "title": "Nowa kampania Flaming Hydra na Kickstarterze na nowo zastanawia się nad posiadaniem e-booków i pożyczkami cyfrowymi",
+      "original_title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Piątek, czyli dzień idealny na takie teksty, był dwa dni temu.",
-        "Ale niedziela też jest w porządku.",
-        "Dziś warto powiedzieć sobie o tym, czy da się komputer (tu dokładniej Macbooka) odblokować końcówką szczoteczki Philips Sonicare."
+        "Nowa kampania na Kickstarterze ma na celu zapoczątkowanie „powrotu ludzkiego Internetu”.",
+        "Nowa kampania Flaming Hydra na Kickstarterze zmienia podejście do posiadania e-booków i wypożyczeń cyfrowych Anthony Ha 10:29 PST · 15 listopada 2026 Oto wielka obietnica: nowa kampania na Kickstarterze ma na celu zapoczątkowanie „powrotu ludzkiego Internetu”.",
+        "Według redaktorki naczelnej Flaming Hydra, Marii Bustillos, te odmienne projekty to „w zasadzie wszystko jedno”, połączone celem „ochrony wolności informacji” i spełnienia „obietnicy wczesnego Internetu, w którym udostępnia się informacje jak największej liczbie osób, jednocześnie chroniąc prawo artystów i autorów do zarabiania na życie”."
       ],
       "extended_paragraphs": [
-        "Piątek, czyli dzień idealny na takie teksty, był dwa dni temu. Ale niedziela też jest w porządku. Dziś warto powiedzieć sobie o tym, czy da się komputer (tu dokładniej Macbooka) odblokować końcówką szczoteczki Philips Sonicare. Oczywiście: autor kanału na YouTube Circuit Helper odczytał pamięć znajdującego się w niej chipa, a następnie, już z czytnikiem NFC, odblokował nią Macbooka.",
-        "Końcówki szczoteczek do zębów mają do siebie to, że gdy włosie im się zużyje, to je wyrzucamy. Wielu z Was pewnie się nawet nie śniło to, że mogą się kryć w nich elementy ciekawe, a może nawet przydatne. Tymczasem, w niektórych końcówkach Sonicare znajduje się ich \"wewnętrzna pamięć\" w formie czipu NFC: zbiera ona dane diagnostyczne w kwestii ich wykorzystania. Czujecie już tę szansę?",
-        "Znany w zagranicznym YouTube'ie Circuit Helper postanowił sprawdzić, co dokładnie można stamtąd wyczytać i jak zmienić zapisane tam wartości. Co więcej, w ramach swoich eksperymentów doprowadził do sytuacji, w której czip był w stanie odblokować Macbooka.",
-        "Philips stosuje tam niewielki czip NFC NXP NTAG213: bardzo niewielki i przeznaczony między innymi do identyfikacji produktów. Ma \"aż\" 144 bajty pamięci użytkownika: to dość miejsca na bardzo krótkie znaczniki i rekordy. Sam w sobie energii nie generuje, ani nie \"ciągnie\" jej z żadnego własnego zasilania: pobiera ją za to z pola elektromagnetycznego czytnika pracującego z częstotliwością 13,56 MHz. Działa też jak antena, która uczestniczy w zasilaniu układu i wymianie danych.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → W pamięci znajdują się przeróżne informacje: począwszy od tego, co to jest za końcówka, jak długo ją używano i jak długo jeszcze podziała. Tu trzeba sobie powiedzieć nieco więcej o systemie BrushSync: ten bierze pod uwagę zarówno łączny czas szczotkowania, jak i nacisk wywierany podczas mycia zębów. I tak oto rękojeść szczoteczki Philipsa powie Ci, że czas na wymianę końcówki."
+        "Nowa kampania na Kickstarterze ma na celu zapoczątkowanie „powrotu ludzkiego Internetu”.",
+        "Nowa kampania Flaming Hydra na Kickstarterze zmienia podejście do posiadania e-booków i wypożyczeń cyfrowych Anthony Ha 10:29 PST · 15 listopada 2026 Oto wielka obietnica: nowa kampania na Kickstarterze ma na celu zapoczątkowanie „powrotu ludzkiego Internetu”.",
+        "Według redaktorki naczelnej Flaming Hydra, Marii Bustillos, te odmienne projekty to „w zasadzie wszystko jedno”, połączone celem „ochrony wolności informacji” i spełnienia „obietnicy wczesnego Internetu, w którym udostępnia się informacje jak największej liczbie osób, jednocześnie chroniąc prawo artystów i autorów do zarabiania na życie”.",
+        "Bustillos powiedział mi, że problemy te zostały uwypuklone w samej Flaming Hydra, na przykład gdy Tal Levin napisał o znalezieniu na Amazon niezliczonych klonów swojej książki generowanych przez sztuczną inteligencję. „Tworząc ekosystem oparty na współpracujących ze sobą ludziach, którzy oferują swoje rzeczy w kontrolowanym kontekście, który nie pozwala” innym na tworzenie i sprzedawanie klonów generowanych przez sztuczną inteligencję, Bustillos powiedział, że Płonąca Hydra jest „częścią ludzkiego projektu”.",
+        "„Sztuczna inteligencja nie jest siłą nie do powstrzymania” – dodała. „Jeśli ludzie po prostu utworzą kanały, sieci i organizacje wydawnicze zajmujące się ludzkim Internetem, ludzie, którzy chcą czytać, będą mogli do nich dotrzeć, a internet będzie w rzeczywistości całkowicie odizolowany od zakłóceń mechanicznych”."
       ]
     },
     {
-      "id": "tech-2-e0533c",
+      "id": "tech-6-e0533c",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "LOW",
@@ -1644,35 +1643,35 @@
       ]
     },
     {
-      "id": "tech-4-930708",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
+      "id": "tech-7-b2bdde",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
       "market_impact": "LOW",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Produkty technologiczne, które z entuzjazmem polecamy w okresie świątecznym",
-      "original_title": "The tech products we enthusiastically recommend this holiday season",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:00",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1350065490.jpg?resize=1200,800",
-      "image_source": "Fot. / Źródło: TechCrunch",
+      "title": "\"Promocja\" na Black Weeks może być pułapką. Jak w 30 sekund sprawdzić najniższą cenę z 30 dni?",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:30",
+      "source": "Antyweb Innowacje",
+      "source_url": "https://antyweb.pl/promocje-black-weeks-jak-sprawdzic",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/blackweek.jpeg",
+      "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "W tym roku sprawdziliśmy na TechCrunch kilka nowych gadżetów i mamy kilka wyraźnych faworytów, którymi możemy się podzielić z Tobą podczas zakupów w Czarny Piątek i nie tylko.",
-        "Produkty technologiczne, które z entuzjazmem polecamy w okresie świątecznym Amanda Silberling 8:00 czasu PST · 15 listopada 2026 r. W tym roku w TechCrunch sprawdziliśmy kilka nowych gadżetów i sprzętu: głupie telefony, karmniki dla ptaków, urządzenia monitorujące stan zdrowia, maszyny do błota pośniegowego, podkładki pod materace AI, co tylko chcesz.",
-        "Czasami wydaje nam się, że są niepotrzebne i drogie, a innym razem testujemy urządzenia, które tak nam się podobają, że sami je kupujemy."
+        "Black Week zbliża się wielkimi krokami, ale uważaj na pewne praktyki sprzedawców: bo możesz za produkty zapłacić nawet więcej, niż w październiku: i to nawet jeśli sklep prawidłowo, zgodnie z prawem, obrazuje obniżkę.",
+        "Jak nie wpaść w pułapkę tygodnia promocji?",
+        "Od 1 stycznia 2023 roku polscy sprzedawcy wskazujący na obniżkę cen, mają obowiązek pokazywać minimum cenowe z poprzednich 30 dni przed jej zastosowaniem."
       ],
       "extended_paragraphs": [
-        "W tym roku sprawdziliśmy na TechCrunch kilka nowych gadżetów i mamy kilka wyraźnych faworytów, którymi możemy się podzielić z Tobą podczas zakupów w Czarny Piątek i nie tylko.",
-        "Produkty technologiczne, które z entuzjazmem polecamy w okresie świątecznym Amanda Silberling 8:00 czasu PST · 15 listopada 2026 r. W tym roku w TechCrunch sprawdziliśmy kilka nowych gadżetów i sprzętu: głupie telefony, karmniki dla ptaków, urządzenia monitorujące stan zdrowia, maszyny do błota pośniegowego, podkładki pod materace AI, co tylko chcesz. Czasami wydaje nam się, że są niepotrzebne i drogie, a innym razem testujemy urządzenia, które tak nam się podobają, że sami je kupujemy.",
-        "Jeśli te produkty mogą zaimponować grupie (czasami) zrzędliwych reporterów technologicznych, z pewnością zadowolą każdego, komu zrobisz zakupy w okresie świątecznym.",
-        "W tym roku sprawdziliśmy wiele czytników e-booków. Co możemy powiedzieć? Jesteśmy kujonami. Pracujemy dla serwisu technicznego. Jednak po wypróbowaniu urządzeń od zwykłych podejrzanych, a także niektórych symboli wieloznacznych, mamy rekomendacje. Najwyraźniej rok 2026 był rokiem, w którym zakochaliśmy się w kieszonkowym e-czytniku.",
-        "To e-czytnik tak mały, że zmieści się w portfelu, a nawet przymocuje się do tylnej części telefonu. Marzysz o świecie, w którym zamiast przeglądać Instagrama, czekając w kolejce po kawę, wolisz czytać książki? Jest naprawdę coś wyjątkowego w X3, a podczas wyprzedaży Xteink w Czarny Piątek kosztuje tylko 55 dolarów. Uczciwe ostrzeżenie, konfiguracja wymaga pewnych manipulacji i nie ma integracji z Kindle, Libby ani żadnymi innymi aplikacjami, więc kupuj to tylko dla kogoś, kto chce trochę przeglądać Reddit i majsterkować, aby go uruchomić."
+        "Black Week zbliża się wielkimi krokami, ale uważaj na pewne praktyki sprzedawców: bo możesz za produkty zapłacić nawet więcej, niż w październiku: i to nawet jeśli sklep prawidłowo, zgodnie z prawem, obrazuje obniżkę. Jak nie wpaść w pułapkę tygodnia promocji?",
+        "Od 1 stycznia 2023 roku polscy sprzedawcy wskazujący na obniżkę cen, mają obowiązek pokazywać minimum cenowe z poprzednich 30 dni przed jej zastosowaniem. Ta zmiana w legislacji wynika z dostosowywania się do dyrektywy Omnibus . Prawo obejmuje sklepy internetowe i stacjonarne: do tego minimum należy odnosić też deklarowany rabat.",
+        "Jak wielka może być różnica w tym względzie? Spójrzmy do jednego z zarzutów wobec Black Red White na stronie UOKiK-u. Urząd podaje tam informację dot. ceny promocyjnej 989 zł, obok której przekreślono 1439 zł, choć minimum sprzed obniżki wynosiło 899 zł. Niby oszczędzamy 450 złotych, ale... wobec minimum klient płacił o 90 zł więcej. UOKiK zakwestionował ten sposób przedstawiania \"korzyści\" konsumentowi.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → W październiku mogło być taniej Okres 30 dni liczy się wstecz od wprowadzenia danej obniżki, a nie od dnia, w którym produkt oglądasz: o tym też wielu zapomina. Ale: oferta z początku października może znaleźć się poza okresem uwzględnianym przy listopadowej przecenie. Nie jest to więc stuprocentowa gwarancja uzyskania zdecydowanie najniższej ceny z całego okresu.",
+        "Prosty przykład: wyobraźcie sobie, że słuchawki kosztują na początku października 1000 zł. Przez całe 30 dni poprzedzające przecenę pod koniec listopada ich cena wynosi już 1200 zł, ale już na Black Week spada do 1100 zł. Rabat, to \"niby\" stówka, ale tyle samo dopłacasz wobec ceny z początku października. Słaba to okazja, prawda?"
       ]
     },
     {
@@ -1710,7 +1709,7 @@
   ],
   "swiat": [
     {
-      "id": "swiat-3-b07165",
+      "id": "swiat-2-b07165",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
@@ -1742,137 +1741,41 @@
       ]
     },
     {
-      "id": "swiat-6-707723",
-      "entity_tag": "Ropa Naftowa",
-      "sector": "Surowce Energetyczne",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Surowce Energetyczne” (Ropa Naftowa) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Zagrożenie dla światowego handlu. Huti przejęli jedną z najważniejszych cieśnin",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "16:14",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/rebelianci-przejeli-strategiczna-ciesnine/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/9w/9wqz57a7c2au9rszxj5a9v5b5jfvkaw5.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Bab al-Mandab, jedna z najważniejszych dla światowego handlu cieśnina została przejęta przez bojowników Huti.",
-        "To poważne zagrożenie dla jednego z najważniejszych morskich szlaków na globie.",
-        "O utracie strategicznego obszaru poinformowały w niedzielę jemeńskie sił rządowe."
-      ],
-      "extended_paragraphs": [
-        "Bab al-Mandab, jedna z najważniejszych dla światowego handlu cieśnina została przejęta przez bojowników Huti. To poważne zagrożenie dla jednego z najważniejszych morskich szlaków na globie. O utracie strategicznego obszaru poinformowały w niedzielę jemeńskie sił rządowe.",
-        "Cytowane przez agencję Reutera jemeńskie Południowe Siły Zbrojne przekazały w komunikacie, że oddziały zostały wycofane z lotniska Dhubab oraz okolic Bab al-Mandab . Są one przegrupowywane w kierunku Adenu.",
-        "Decyzja ma na celu zabezpieczenie tymczasowej siedziby uznawanego na arenie międzynarodowej rządu oraz wzmocnienie linii frontu wobec rosnącej presji ze strony Huti, którzy kontrolują już większość północy kraju wraz z jego stolicą, Saną.",
-        "Przejęcie kontroli nad rejonem cieśniny daje proirańskim bojownikom bezpośredni wpływ na jeden z najważniejszych szlaków żeglugowych świata , łączący Azję z Europą przez Kanał Sueski - podkreślił Reuters.",
-        "W sytuacji, gdy Iran jednocześnie zakłóca ruch w cieśninie Ormuz po drugiej stronie Półwyspu Arabskiego, może to oznaczać podwójną blokadę i odcięcie producentów ropy naftowej z Zatoki Perskiej od głównych szlaków eksportowych."
-      ]
-    },
-    {
-      "id": "swiat-1-9bbdd7",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Iran atakuje bazę wojskową USA w Bahrajnie",
-      "original_title": "Iran targets US military base in Bahrain with drone attack",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:42",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Oznacza to drugi atak na ten kraj w ciągu trzech dni i ma miejsce w czasie, gdy Stany Zjednoczone i Iran pozostają w konflikcie nad Cieśniną Ormuz.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Iran i USA rywalizują o kontrolę nad Cieśniną Ormuz Iran przeprowadził w niedzielę atak dronem na amerykańską bazę wojskową w Bahrajnie, co było jego drugą próbą wycelowania w ten kraj w ciągu trzech dni.",
-        "Korpus Strażników Rewolucji Islamskiej (IRGC) oświadczył, że za pomocą sześciu dronów wycelował w amerykański radar obrony powietrznej w bazie lotniczej al-Riffa w Bahrajnie."
-      ],
-      "extended_paragraphs": [
-        "Oznacza to drugi atak na ten kraj w ciągu trzech dni i ma miejsce w czasie, gdy Stany Zjednoczone i Iran pozostają w konflikcie nad Cieśniną Ormuz.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Iran i USA rywalizują o kontrolę nad Cieśniną Ormuz",
-        "Iran przeprowadził w niedzielę atak dronem na amerykańską bazę wojskową w Bahrajnie, co było jego drugą próbą wycelowania w ten kraj w ciągu trzech dni.",
-        "Korpus Strażników Rewolucji Islamskiej (IRGC) oświadczył, że za pomocą sześciu dronów wycelował w amerykański radar obrony powietrznej w bazie lotniczej al-Riffa w Bahrajnie.",
-        "Wojsko Bahrajnu oświadczyło, że jego systemy obrony powietrznej przechwyciły i zniszczyły irańskie ataki powietrzne, „zanim udało im się osiągnąć swoje cele”."
-      ]
-    },
-    {
-      "id": "swiat-2-485cf1",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Trzech mężczyzn skazanych w Jordanii na śmierć w związku ze śmiertelną strzelaniną w kościele",
-      "original_title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "11:06",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "W zeszłym miesiącu w ataku na pogrzeb w greckokatolickiej cerkwi zginęło 9 osób, a 34 zostały ranne.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia: W zeszłym miesiącu w strzelaninie w greckiej cerkwi zginęło dziewięć osób Jordański sąd skazał trzech mężczyzn na śmierć przez powieszenie za przeprowadzenie w zeszłym miesiącu śmiertelnej masowej strzelaniny w kościele.",
-        "W ataku, który miał miejsce 23 października, zginęło dziewięć osób, a 34 raniły inne osoby, które uczestniczyły w chrześcijańskim pogrzebie w greckokatolickiej cerkwi w prowincji Karak."
-      ],
-      "extended_paragraphs": [
-        "W zeszłym miesiącu w ataku na pogrzeb w greckokatolickiej cerkwi zginęło 9 osób, a 34 zostały ranne.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia: W zeszłym miesiącu w strzelaninie w greckiej cerkwi zginęło dziewięć osób",
-        "Jordański sąd skazał trzech mężczyzn na śmierć przez powieszenie za przeprowadzenie w zeszłym miesiącu śmiertelnej masowej strzelaniny w kościele.",
-        "W ataku, który miał miejsce 23 października, zginęło dziewięć osób, a 34 raniły inne osoby, które uczestniczyły w chrześcijańskim pogrzebie w greckokatolickiej cerkwi w prowincji Karak.",
-        "Siły Zbrojne Jordanii podały w niedzielnym oświadczeniu, że mężczyźni zostali skazani za popełnienie „aktów terrorystycznych”, a także za posiadanie broni, „promowanie idei organizacji terrorystycznej” i „spisek mający na celu popełnienie aktów terrorystycznych”."
-      ]
-    },
-    {
-      "id": "swiat-4-578fe4",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
+      "id": "swiat-4-439e2c",
+      "entity_tag": "Unia Europejska",
+      "sector": "Gospodarka & Regulacje",
+      "market_impact": "MEDIUM",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 2,2 mln dolarów) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Gospodarka & Regulacje” (Unia Europejska) (kluczowe liczby: 55 proc.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [
-        "2,2 mln dolarów"
+        "55 proc."
       ],
-      "title": "Amerykanie musieli oddać skarby. Turcja odzyskała 100 zabytków",
+      "title": "Zełenski ogłasza sukces ukraińskiej armii. Dotkliwy cios w głębi Rosji",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:04",
+      "time": "22:47",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/amerykanie-musieli-oddac-skarby-turcja-odzyskala-100-zabytkow/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/yb/ybkgy2shjn6w5kpnyexikmoomqdpzhn4.jpeg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/zelenski-oglasza-sukces-ukrainskiej-armii-dotkliwy-cios-w-glebi-rosji/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/d8/d87ioc2otantswf1rwyo66sswhq71hub.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Przez dziesięciolecia bezcenne zabytki z terenów dzisiejszej Turcji znajdowały się w amerykańskich muzeach i prywatnych kolekcjach.",
-        "Teraz 100 z nich wróciło do kraju pochodzenia.",
-        "Wśród odzyskanych przedmiotów są skarby sprzed ponad czterech tysięcy lat, a także dzieła związane z rzymskimi cesarzami."
+        "Ukraina unieruchomiła już ponad 55 proc. mocy przerobowych rosyjskich rafinerii ropy naftowej - poinformował prezydent Wołodymyr Zełenski.",
+        "Jak podkreślił, ukraińskie uderzenia dalekiego zasięgu przynoszą niemal codziennie kolejne sukcesy.",
+        "- To całkowicie uzasadniona odpowiedź - ocenił, odnosząc się do rosyjskich ataków na ukraińską infrastrukturę energetyczną."
       ],
       "extended_paragraphs": [
-        "Przez dziesięciolecia bezcenne zabytki z terenów dzisiejszej Turcji znajdowały się w amerykańskich muzeach i prywatnych kolekcjach. Teraz 100 z nich wróciło do kraju pochodzenia. Wśród odzyskanych przedmiotów są skarby sprzed ponad czterech tysięcy lat, a także dzieła związane z rzymskimi cesarzami. Kulisy ich odnalezienia przypominają śledztwo kryminalne.",
-        "W Muzeach Archeologicznych w Stambule zaprezentowano 100 zabytków odzyskanych ze Stanów Zjednoczonych. Uroczystość odbyła się 2 listopada z udziałem tureckiego ministra kultury i turystyki Mehmeta Nuriego Ersoya oraz przedstawiciela prokuratury na Manhattanie Matthew Bogdanosa.",
-        "Jak poinformowały tureckie władze, powrót cennych eksponatów był efektem wieloletnich badań archeologicznych, analiz dokumentów i współpracy z amerykańskimi organami ścigania.",
-        "Wśród odzyskanych przedmiotów znalazły się między innymi starożytna broń, ceremonialne instrumenty muzyczne, naczynia, elementy dekoracji budowli, maski teatralne i figurki bogiń . Niektóre z nich powstały jeszcze w III tysiącleciu przed naszą erą.",
-        "Szczegóły operacji ujawniła prokuratura okręgowa na Manhattanie . Jak wynika z komunikatu opublikowanego 18 września, wartość 100 zabytków przekazanych Turcji przekroczyła 2,2 mln dolarów. Aż 52 przedmioty zostały zabezpieczone w zbiorach Metropolitan Museum of Art w Nowym Jorku ."
+        "Ukraina unieruchomiła już ponad 55 proc. mocy przerobowych rosyjskich rafinerii ropy naftowej - poinformował prezydent Wołodymyr Zełenski. Jak podkreślił, ukraińskie uderzenia dalekiego zasięgu przynoszą niemal codziennie kolejne sukcesy. - To całkowicie uzasadniona odpowiedź - ocenił, odnosząc się do rosyjskich ataków na ukraińską infrastrukturę energetyczną.",
+        "- Obecnie niemal każdego dnia odnosimy kolejne sukcesy . Łącznie do tej pory unieruchomiliśmy już ponad 55 proc. rosyjskich mocy przerobowych w sektorze rafineryjnym. To całkowicie uzasadniona odpowiedź, gdy Rosja odmawia deeskalacji i atakuje naszą infrastrukturę energetyczną - powiedział w wieczornym przemówieniu wideo Zełenski.",
+        "Prezydent przekazał, że w niedzielę naczelny dowódca Sił Zbrojnych Ukrainy Mychajło Drapaty złożył mu raport na temat ukraińskich uderzeń dalekiego zasięgu.",
+        "Według Zełenskiego Rosja wybiera jeden region jako cel i przez kilka dni koncentruje ataki na jego systemie energetycznym. Zaznaczył, że od początku września najwięcej uderzeń i trafień odnotowano w obwodzie dniepropietrowskim - 131. Kolejne 125 ataków przeprowadzono na obwód kijowski , a ponad 100 trafień odnotowano w obwodach żytomierskim i sumskim.",
+        "W czwartek von der Leyen i przewodniczący Rady Europejskiej Antonio Costa po spotkaniu z Zełenskim w Dublinie oświadczyli, że Unia Europejska będzie nadal wspierać Ukrainę finansowo i militarnie oraz uczestniczyć w działaniach na rzecz osiągnięcia sprawiedliwego i trwałego pokoju."
       ]
     },
     {
-      "id": "swiat-5-fc68df",
+      "id": "swiat-1-421a6c",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1880,27 +1783,123 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Niepokojące doniesienia wywiadów. Media: Donald Trump celem zamachu",
+      "title": "Zełenski wzywa USA i Muska do zniesienia ograniczeń Starlink i stania po „właściwej stronie historii”",
+      "original_title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "19:32",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Prezydent Ukrainy twierdzi, że spowolnienie Internetu utrudnia powstrzymanie rosyjskich ataków.",
+        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Ograniczenia wpłynęły na zdolność Ukrainy do przechwytywania rosyjskich rakiet i dronów Prezydent Wołodymyr Zełenski stwierdził, że kluczowa amerykańska usługa Internetu satelitarnego w dalszym ciągu działa zbyt wolno i wpływa na zdolność Ukrainy do powstrzymywania rosyjskich ataków.",
+        "„Liczymy na zniesienie tych obostrzeń."
+      ],
+      "extended_paragraphs": [
+        "Prezydent Ukrainy twierdzi, że spowolnienie Internetu utrudnia powstrzymanie rosyjskich ataków.",
+        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Ograniczenia wpłynęły na zdolność Ukrainy do przechwytywania rosyjskich rakiet i dronów",
+        "Prezydent Wołodymyr Zełenski stwierdził, że kluczowa amerykańska usługa Internetu satelitarnego w dalszym ciągu działa zbyt wolno i wpływa na zdolność Ukrainy do powstrzymywania rosyjskich ataków.",
+        "„Liczymy na zniesienie tych obostrzeń. Od tego bezpośrednio zależy ochrona życia i infrastruktury energetycznej Ukrainy przed zimą” – powiedział.",
+        "Kwestia szybkości systemu Starshield – wojskowej usługi Starlink należącej do Elona Muska i świadczonej Ukrainie przez rząd USA – toczy się od tygodni."
+      ]
+    },
+    {
+      "id": "swiat-3-fd7a4d",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Papież Leon w kokpicie helikoptera podczas podróży do Peru",
+      "original_title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:38",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Papież wzbił się w przestworza przed przybyciem do Cusco przedostatniego dnia swojej podróży po Ameryce Łacińskiej.",
+        "Papież Leon w kokpicie helikoptera podczas podróży do Peru Zamknij Papież Leon XIV dzielił kokpit z pilotami Peruwiańskich Sił Powietrznych podczas swojej podróży po Ameryce Łacińskiej.",
+        "Udostępniając wideo w mediach społecznościowych, siły zbrojne stwierdziły, że fakt, że w sobotę papież dołączył do pilotów, był „zaszczytem i niezapomnianym wspomnieniem”."
+      ],
+      "extended_paragraphs": [
+        "Papież wzbił się w przestworza przed przybyciem do Cusco przedostatniego dnia swojej podróży po Ameryce Łacińskiej.",
+        "Papież Leon w kokpicie helikoptera podczas podróży do Peru Zamknij Papież Leon XIV dzielił kokpit z pilotami Peruwiańskich Sił Powietrznych podczas swojej podróży po Ameryce Łacińskiej.",
+        "Udostępniając wideo w mediach społecznościowych, siły zbrojne stwierdziły, że fakt, że w sobotę papież dołączył do pilotów, był „zaszczytem i niezapomnianym wspomnieniem”.",
+        "W niedzielę papież przybył do Cusco, miasta w południowych Andach, które niegdyś było sercem imperium Inków.",
+        "Tam papież odwiedził starożytną fortecę Inków, gdzie stwierdził, że tradycje religijne mogą pomóc przeciwstawić się epoce naznaczonej „podziałami, ranami i nieufnością”, podkreślając, że wiara powinna jednoczyć ludzi i zbliżać ich „w świetle wiary i miłości”."
+      ]
+    },
+    {
+      "id": "swiat-5-95ea53",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Tarcia w NATO. Media: Szczytu przywódców w Albanii nie będzie",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:38",
+      "time": "22:06",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/zamach-na-trumpa-niepokojace-doniesienia-wywiadow/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/rp/rpaq12icd86jc6eskaaiv6qycc7u3z6m.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/tarcia-w-nato-media-szczytu-w-albanii-nie-bedzie/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/cq/cqfns8471xk85piavtuc4cn29rdu5cwj.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Doniesienia Mossadu o irańskich planach zamachu na prezydenta USA Donalda Trumpa i najwyższych urzędników jego administracji zostały potwierdzone przez inną zachodnią agencję wywiadowczą - ustalił dziennik Israel Hayom, powołując się na wysokich rangą izraelskich i amerykańskich urzędników.",
-        "Według doniesień \"Israel Hayom\" w związku z niepokojącymi ustaleniami wywiadów wprowadzono specjalne środki bezpieczeństwa , a Donald Trump miał ograniczyć wystąpienia publiczne.",
-        "CIA miała otrzymać od Mossadu dane wskazujące na to, że Iran planuje przeprowadzić zamach na życie amerykańskiego prezydenta oraz kluczowych członków jego administracji."
+        "NATO zrezygnuje z przyszłorocznego szczytu przywódców w Albanii w związku z ograniczeniem spotkań na wysokim szczeblu - podała agencja AP.",
+        "Powodem mają być napięcia w Sojuszu wynikające ze sporów w podejściu do kwestii Ukrainy, Iranu oraz wydatków na obronność.",
+        "Agencja AP poinformowała w niedzielę, że \" NATO ogranicza liczbę spotkań na wysokim szczeblu i nie zorganizuje w przyszłym roku szczytu przywódców w Albanii\"."
       ],
       "extended_paragraphs": [
-        "Doniesienia Mossadu o irańskich planach zamachu na prezydenta USA Donalda Trumpa i najwyższych urzędników jego administracji zostały potwierdzone przez inną zachodnią agencję wywiadowczą - ustalił dziennik Israel Hayom, powołując się na wysokich rangą izraelskich i amerykańskich urzędników.",
-        "Według doniesień \"Israel Hayom\" w związku z niepokojącymi ustaleniami wywiadów wprowadzono specjalne środki bezpieczeństwa , a Donald Trump miał ograniczyć wystąpienia publiczne.",
-        "CIA miała otrzymać od Mossadu dane wskazujące na to, że Iran planuje przeprowadzić zamach na życie amerykańskiego prezydenta oraz kluczowych członków jego administracji. Według amerykańskich i izraelskich urzędników, którzy z zachowaniem anonimowości mieli rozmawiać z \"Israel Hayom\", doniesienia o zagrożeniu dla życia Trumpa i jego ludzi miały zaważyć na zamienie podejścia do negocjacji z Teheranem .",
-        "Jeden z informatorów izraelskiego dziennika podkreślił, że Amerykanie już wcześniej byli świadomi tego rodzaju zagrożenia, szczególnie po tym, jak podczas amerykańsko-izraelskiej ofensywie zginął najwyższy przywódca Iranu ajatollah Ali Chamenei .",
-        "\"Informacje wywiadowcze przekazane przez Izrael wskazują na konkretne, niedawne zagrożenia , w tym możliwość ataków z wykorzystaniem dronów wyposażonych w ładunki wybuchowe - metodę, której trudno przeciwdziałać za pomocą konwencjonalnych środków bezpieczeństwa\" - czytamy."
+        "NATO zrezygnuje z przyszłorocznego szczytu przywódców w Albanii w związku z ograniczeniem spotkań na wysokim szczeblu - podała agencja AP. Powodem mają być napięcia w Sojuszu wynikające ze sporów w podejściu do kwestii Ukrainy, Iranu oraz wydatków na obronność.",
+        "Agencja AP poinformowała w niedzielę, że \" NATO ogranicza liczbę spotkań na wysokim szczeblu i nie zorganizuje w przyszłym roku szczytu przywódców w Albanii\".",
+        "Jeszcze w czwartek albański premier Edi Rama mówił, że \"nie ma jeszcze wspólnego stanowiska co do terminu szczytu, na pewno nie odbędzie się on w 2027 roku\". Dodał, że jeżeli w przyszłym roku zostanie on zorganizowany, to odbędzie się w Tiranie.",
+        "Sekretarz generalny NATO Mark Rutte w rozmowie z AP powiedział, że \"jesteśmy elastyczni, jeśli chodzi o szczyty NATO\", a spotkania na najwyższym szczeblu organizuje się wtedy, \"kiedy są potrzebne\".",
+        "Powodem tarć w Sojuszu są nieporozumienia w kwestii wokół Iranu, wojny na Ukrainie i wydatków na obronność."
+      ]
+    },
+    {
+      "id": "swiat-6-8032aa",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Leon XIV zabrał głos w sprawie chorób. \"To wielkie kłamstwo\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:32",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/leon-xiv-zabral-glos-w-sprawie-chorob-to-wielkie-klamstwo/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/kg/kgu55ko18a3yoy69id5e11cqdxwu261g.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "- Choroba jest postrzegana jako nieszczęście, które umniejsza wartość człowieka.",
+        "- powiedział papież Leon XIV podczas niedzielnej modlitwy Anioł Pański w peruwiańskim Cusco.",
+        "Ojciec Święty zwrócił się do osób zmagających się z cierpieniem fizycznym i psychicznym, podkreślając, że ich słabość nie odbiera im godności."
+      ],
+      "extended_paragraphs": [
+        "- Choroba jest postrzegana jako nieszczęście, które umniejsza wartość człowieka. To wielkie kłamstwo! - powiedział papież Leon XIV podczas niedzielnej modlitwy Anioł Pański w peruwiańskim Cusco. Ojciec Święty zwrócił się do osób zmagających się z cierpieniem fizycznym i psychicznym, podkreślając, że ich słabość nie odbiera im godności.",
+        "Papież Leon XIV przebywa z wizytą apostolską w Ameryce Południowej . W niedzielę odwiedził peruwiańskie Cusco, dawną stolicę imperium Inków, położoną wysoko w Andach. Przed miejscową katedrą poprowadził modlitwę Anioł Pański, podczas której szczególną uwagę poświęcił osobom chorym i cierpiącym.",
+        "- Myślę o was, drodzy bracia i siostry, którzy cierpicie na ciele i duszy z powodu choroby - zwrócił się do zgromadzonych wiernych.",
+        "W swoim przemówieniu Ojciec Święty skrytykował sposób, w jaki współczesne społeczeństwo postrzega osoby zmagające się z problemami zdrowotnymi.",
+        "- W oczach świata, ukształtowanego przez kulturę odrzucenia i materialną produktywność, choroba jest postrzegana jako nieszczęście, które umniejsza wartość człowieka. To wielkie kłamstwo! - podkreślił papież."
       ]
     }
   ],
@@ -1938,71 +1937,71 @@
       ]
     },
     {
-      "id": "sport-1-fd52a0",
+      "id": "sport-7-189248",
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "\"Klaun\". Przyjaciel Ronaldo ostro o trenerze Portugalii",
+      "title": "Kwadrans, który wstrząsnął Włochami. Belgia dostała cios, ale odpowiedź była brutalna",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:16",
+      "time": "21:43",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/sportowybar/1284365/klaun-przyjaciel-ronaldo-ostro-o-trenerze-portugalii",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af9db577f7d41_21989194.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284396/kwadrans-ktory-wstrzasnal-wlochami-belgia-dostala-cios-ale-odpowiedz-byla-brutal",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa1a6d1aa610_10758213.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Przyjaciel Cristiano Ronaldo Piers Morgan w ostry sposób skrytykował selekcjonera Portugalczyków Jorge Jesusa.",
-        "\"Ten klaun już także nie będzie długo w kadrze\" - napisał brytyjski dziennikarz na X.",
-        "Skomentuj Przyjaciel Cristiano Ronaldo Piers Morgan w ostry sposób skrytykował selekcjonera Portugalczyków Jorge Jesusa."
+        "minucie Włosi objęli prowadzenie w Brukseli, ale już w 26.",
+        "minucie było 3:1 dla Belgii.",
+        "Niszczycielskie przyspieszenie zespołu Marka van Bommela zapewniło mu komplet punktów w Lidze Narodów UEFA, a konfrontacja zakończyła się wynikiem 4:1."
       ],
       "extended_paragraphs": [
-        "Przyjaciel Cristiano Ronaldo Piers Morgan w ostry sposób skrytykował selekcjonera Portugalczyków Jorge Jesusa. \"Ten klaun już także nie będzie długo w kadrze\" - napisał brytyjski dziennikarz na X.",
-        "Skomentuj Przyjaciel Cristiano Ronaldo Piers Morgan w ostry sposób skrytykował selekcjonera Portugalczyków Jorge Jesusa. \"Ten klaun już także nie będzie długo w kadrze\" - napisał brytyjski dziennikarz na X.",
-        "W sobotę nie tylko reprezentacja Polski doznała kompromitującej porażki w Lidze Narodów UEFA . Reprezentacja Portugalii przegrała z kadrą Danii . Samo zwycięstwo Duńczyków nie jest jakąś ogromną sensacją, ale zaskoczył przede wszystkim rozmiar porażki ekipy Jorge Jesusa. Ekipa z Półwyspu Iberyjskiego uległa bowiem rywalom aż 2:5.",
-        "Pojawiły się pytania, czy aż tak wysoka przegrana nie jest efektem braku Cristiano Ronaldo w kadrze. Mocno na ten temat wypowiedział się selekcjoner Portugalczyków Jorge Jesus na konferencji prasowej.",
-        "ZOBACZ WIDEO: Nie miał litości dla \"Lewego\". \"Z nim kadra może więcej stracić, niż zyskać\""
+        "W 11. minucie Włosi objęli prowadzenie w Brukseli, ale już w 26. minucie było 3:1 dla Belgii. Niszczycielskie przyspieszenie zespołu Marka van Bommela zapewniło mu komplet punktów w Lidze Narodów UEFA, a konfrontacja zakończyła się wynikiem 4:1.",
+        "Skomentuj W 11. minucie Włosi objęli prowadzenie w Brukseli, ale już w 26. minucie było 3:1 dla Belgii. Niszczycielskie przyspieszenie zespołu Marka van Bommela zapewniło mu komplet punktów w Lidze Narodów UEFA, a konfrontacja zakończyła się wynikiem 4:1.",
+        "Stawką meczu w Brukseli był awans do turnieju finałowego Ligi Narodów UEFA . Belgia zdążyła już pokonać Włochów na rzymskim Stadio Olimpico . Azzurri mieli doskonałą szansę do odwetu, ale wiadomo już, że nie poradzili sobie z przeciwnikiem z Beneluksu ani na inaugurację, ani na zakończenie zmagań w grupie A1.",
+        "Wcześnie na boisku zrobiło się agresywnie oraz energicznie. W 7. minucie po raz pierwszy zapachniało golem Azzurrich. Nicolo Barella zatrudnił bramkarza Senny'ego Lammensa swoim strzałem. Belg odbił piłkę do przodu i do Nicolo Pisilliego. Wykonujący dobitkę zawodnik spudłował z bardzo dobrej pozycji. Ten fragment spotkania należał jeszcze do podopiecznych Roberto Manciniego .",
+        "Ekipa z Włoch nie zraziła się jednym niepowodzeniem. W jej składzie był Francesco Pio Esposito i kompan Piotra Zielińskiego z Interu Mediolan cieszył się golem w 11. minucie. Napastnik urwał się obrońcom i dostawił stopę do piłki po dośrodkowaniu z prawego skrzydła Michaela Kayode . Nie uratował sytuacji Senne Lammens."
       ]
     },
     {
-      "id": "sport-3-555b50",
+      "id": "sport-1-df7121",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Otylia Swim Tour zakończył cykl. 200 adeptów trenowało z mistrzynią olimpijską",
+      "title": "Anglicy wyśmiewali Yamala. \"Gdzie twoja Złota Piłka?\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:15",
+      "time": "21:50",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/plywanie/1284368/otylia-swim-tour-zakonczyl-cykl-200-adeptow-trenowalo-z-mistrzynia-olimpijska",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af9e85828f399_85770956.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284407/anglicy-wysmiewali-yamala-gdzie-twoja-zlota-pilka",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa1fc26e2522_71783235.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Aż 200 adeptów uczestniczyło w ostatnim tegorocznym przystanku cyklu imprez Otylia Swim Tour.",
-        "Na dzieci czekały treningi w wodzie, zajęcia z przygotowania motorycznego oraz spotkania z mistrzynią Otylią Jędrzejczak i wykwalifikowaną kadrą trenerską.",
-        "Skomentuj Aż 200 adeptów uczestniczyło w ostatnim tegorocznym przystanku cyklu imprez Otylia Swim Tour."
+        "Angielscy kibice obrali Lamine'a Yamala za jeden z głównych celów podczas hitu w Madrycie.",
+        "\"Gdzie jest twoja Złota Piłka?\" - skandowali w kierunku 19-latka.",
+        "Jednocześnie wychwalali Harry'ego Kane'a, nazywając go najlepszym piłkarzem świata."
       ],
       "extended_paragraphs": [
-        "Aż 200 adeptów uczestniczyło w ostatnim tegorocznym przystanku cyklu imprez Otylia Swim Tour. Na dzieci czekały treningi w wodzie, zajęcia z przygotowania motorycznego oraz spotkania z mistrzynią Otylią Jędrzejczak i wykwalifikowaną kadrą trenerską.",
-        "Skomentuj Aż 200 adeptów uczestniczyło w ostatnim tegorocznym przystanku cyklu imprez Otylia Swim Tour. Na dzieci czekały treningi w wodzie, zajęcia z przygotowania motorycznego oraz spotkania z mistrzynią Otylią Jędrzejczak i wykwalifikowaną kadrą trenerską.",
-        "Otylia Swim Tour to ogólnopolski cykl jednodniowych warsztatów pływackich, organizowanych Przez Fundację Otylii Jędrzejczak w różnych miastach Polski. W wydarzeniach uczestniczą młodzi pasjonaci pływania, którzy opanowali już umiejętność poruszania się w wodzie przynajmniej dwoma stylami: grzbietowym i dowolnym. Projekt skierowany jest zarówno do dzieci, jak i ich rodziców oraz opiekunów. Ważnym elementem każdego spotkania są również otwarte warsztaty i konsultacje z psychologiem oraz dietetykiem, które pozwalają zadbać o wszechstronny rozwój młodych sportowców.",
-        "Krakowska impreza, która była zwieńczeniem tegorocznego cyklu, rozpoczęła się od uroczystego powitania uczestników oraz przedstawienia zasad i reguł obowiązujących podczas całego wydarzenia. Ekipa Fundacji Otylii Jędrzejczak podzieliła następnie uczestników na dwie grupy. Dzieci rozpoczęły aktywności na pływalni oraz w sali gimnastycznej, natomiast rodzice mogli w tym czasie uczestniczyć w wykładach i spotkaniach ze specjalistami. Poruszane zagadnienia dotyczyły między innymi budowania relacji z młodymi sportowcami, radzenia sobie z porażkami, wpływu nowych technologii na funkcjonowanie dzieci oraz prawidłowego odżywiania. Partnerem wydarzenia są miasto Kraków, Akademia Kultury Fizycznej w Krakowie, Toyota Bemowo, NILS Aqua, Stokado Self-Storage, EPRO Polska. Projekt odbywa się w ramach programu Ministerstwa Sportu i Turystyki - \"Wielki Mistrz\".",
-        "- Ten projekt pokazuje, jak ważne jest przekazywanie wiedzy młodym adeptom pływania, rodzicom, a być może w przyszłości również studentom, którzy będą kształtowali nasze dzieci w szkołach i uczyli wychowania fizycznego. Dzieciom przekazujemy wiedzę, taki promyczek, a one muszą z tego całego dnia wyciągnąć wielki ogień i rozpalić w sobie tę wiedzę. W Krakowie mieliśmy aż 14 trenerów: siedmiu w wodzie i siedmiu na lądzie, dwie panie psycholog oraz dietetyka. Jako fundacja wychodzimy do dzieci i rodziców, pokazując, jak niezwykle ważna jest aktywność fizyczna. Nie chodzi wyłącznie o sport rozumiany jako mocny wysiłek fizyczny, ale również o aktywność, która buduje w nas zamiłowanie do sportu - podkreśla Otylia Jędrzejczak , prezes fundacji i pomysłodawczyni Otylia Swim Tour."
+        "Angielscy kibice obrali Lamine'a Yamala za jeden z głównych celów podczas hitu w Madrycie. \"Gdzie jest twoja Złota Piłka?\" - skandowali w kierunku 19-latka. Jednocześnie wychwalali Harry'ego Kane'a, nazywając go najlepszym piłkarzem świata.",
+        "Skomentuj Angielscy kibice obrali Lamine'a Yamala za jeden z głównych celów podczas hitu w Madrycie. \"Gdzie jest twoja Złota Piłka?\" - skandowali w kierunku 19-latka. Jednocześnie wychwalali Harry'ego Kane'a, nazywając go najlepszym piłkarzem świata.",
+        "Atmosfera wokół hitu Hiszpania - Anglia była gorąca jeszcze przed pierwszym gwizdkiem. Na boisku spotkały się dwie europejskie potęgi, ale dodatkowego smaku rywalizacji dodawała obecność Lamine'a Yamala i Harry'ego Kane'a . Dwóch piłkarzy, których w ostatnich tygodniach mocno zestawiano ze sobą w kontekście Złotej Piłki. Angielscy kibice postanowili wykorzystać ten temat bardzo szybko. I nie zamierzali być szczególnie subtelni.",
+        "Jak opisuje \"The Sun\", już na początku spotkania Yamal wywalczył rzut wolny po faulu Declana Rice'a. Pomocnik Anglii obejrzał żółtą kartkę, a chwilę później z sektora gości popłynęła przyśpiewka wymierzona bezpośrednio w gwiazdora FC Barcelony .",
+        "\"Where's your Ballon d'Or?\" (\"Gdzie jest twoja Złota Piłka?\") - skandowali Anglicy. Była to oczywista próba dopieczenia 19-latkowi po rozstrzygnięciu jednego z najgłośniejszych indywidualnych plebiscytów w futbolu."
       ]
     },
     {
-      "id": "sport-4-a15b4a",
+      "id": "sport-3-50a3ba",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2010,127 +2009,95 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Banton popycha sprawę, a meloniki błyszczą dla niespójnej Anglii",
-      "original_title": "Banton pushes case and bowlers sparkle for inconsistent England",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "11:56",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/51c6/live/ecf25f10-e0dc-11f1-93e1-3b657b665bcf.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Tom Banton zdobywa stulecie, a Sonny Baker i Gus Atkinson imponują piłką, podczas gdy niezwykle nierówny jednodniowy zespół Anglii uderza Australię.",
-        "Tom Banton strzelił stulecie, a Sonny Baker i Gus Atkinson wywarli wrażenie na piłce, gdy szalenie nierówna jednodniowa drużyna Anglii uderzyła Australię, ustalając decydujący wynik w serii.",
-        "Banton zdobył doskonałe 121 punktów, co popchnęło jego kandydaturę do dalszej selekcji dzięki drugiej setce ODI, a Anglia uzyskała wynik 355-6."
-      ],
-      "extended_paragraphs": [
-        "Tom Banton zdobywa stulecie, a Sonny Baker i Gus Atkinson imponują piłką, podczas gdy niezwykle nierówny jednodniowy zespół Anglii uderza Australię.",
-        "Tom Banton strzelił stulecie, a Sonny Baker i Gus Atkinson wywarli wrażenie na piłce, gdy szalenie nierówna jednodniowa drużyna Anglii uderzyła Australię, ustalając decydujący wynik w serii.",
-        "Banton zdobył doskonałe 121 punktów, co popchnęło jego kandydaturę do dalszej selekcji dzięki drugiej setce ODI, a Anglia uzyskała wynik 355-6.",
-        "Po tym, jak dwa dni temu w Perth przewrócił się na poziomie 131 punktów, wynik Anglii był najwyższy w jednodniowych zawodach międzynarodowych w Australii.",
-        "A potem ich meloniki, którym w zeszłym miesiącu nie udało się obronić 430 punktów w meczu przeciwko Sri Lance i zostali pokonani przez nieprawdopodobną partię przy ostatniej bramce przeciwko Pakistanowi, w ciągu siedmiu overów zredukowali Australię do 29-4 i z łatwością zamknęli zwycięstwo po 135 runach."
-      ]
-    },
-    {
-      "id": "sport-5-ef5c86",
-      "entity_tag": "Formuła 1",
-      "sector": "Motorsport",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Formuła 1 niczym GTA. Film zapowiadający GP Las Vegas hitem sieci",
+      "title": "Był legendą holenderskiej piłki. Zaskakujące wieści o nowej posadzie",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:10",
+      "time": "21:48",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/formula-1/1284366/formula-1-niczym-gta-film-zapowiadajacy-gp-las-vegas-hitem-sieci",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af9e66e855045_99460598.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284400/byl-legenda-holenderskiej-pilki-zaskakujace-wiesci-o-nowej-posadzie",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a5a7d210b0ad1_57643158.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Francuski Canal+ postanowił w nietypowy sposób zapowiedzieć GP Las Vegas.",
-        "Stacja przygotowała materiał inspirowany kultową serią gier GTA, a kreatywne wideo szybko przyciągnęło uwagę kibiców Formuły 1.",
-        "Skomentuj Francuski Canal+ postanowił w nietypowy sposób zapowiedzieć GP Las Vegas."
+        "Grał w Realu Madryt, z Interem wygrał Ligę Mistrzów, a z Holandią dotarł do finału mundialu.",
+        "Dziś Wesley Sneijder rozpoczyna zupełnie nowy rozdział.",
+        "42-latek obejmuje amatorski Eminent Boys, występujący na dziewiątym poziomie rozgrywkowym w Holandii."
       ],
       "extended_paragraphs": [
-        "Francuski Canal+ postanowił w nietypowy sposób zapowiedzieć GP Las Vegas. Stacja przygotowała materiał inspirowany kultową serią gier GTA, a kreatywne wideo szybko przyciągnęło uwagę kibiców Formuły 1.",
-        "Skomentuj Francuski Canal+ postanowił w nietypowy sposób zapowiedzieć GP Las Vegas. Stacja przygotowała materiał inspirowany kultową serią gier GTA, a kreatywne wideo szybko przyciągnęło uwagę kibiców Formuły 1.",
-        "W Formule 1 nie brakuje efektownych zapowiedzi kolejnych wyścigów, ale tym razem francuski Canal+ postanowił pójść o krok dalej. Zamiast tradycyjnego materiału promocyjnego przygotował wideo nawiązujące do jednej z najbardziej rozpoznawalnych serii gier komputerowych - Grand Theft Auto.",
-        "Materiał trwa minutę i 17 sekund. Twórcy zadbali o to, aby jak najwierniej oddać klimat popularnej gry. Początkowo widz obserwuje Las Vegas z perspektywy kierowcy samochodu. Na ekranie pojawiają się charakterystyczne neony, kasyna i hotele, które tworzą niepowtarzalną scenerię amerykańskiego miasta.",
-        "Następnie kamera przechodzi do widoku zza samochodu, doskonale znanego graczom GTA. Pojawia się również charakterystyczne koło wyboru stacji radiowej. Do wyboru są różne gatunki muzyczne, między innymi rap, rock, muzyka elektroniczna i reggaeton."
+        "Grał w Realu Madryt, z Interem wygrał Ligę Mistrzów, a z Holandią dotarł do finału mundialu. Dziś Wesley Sneijder rozpoczyna zupełnie nowy rozdział. 42-latek obejmuje amatorski Eminent Boys, występujący na dziewiątym poziomie rozgrywkowym w Holandii.",
+        "Skomentuj Grał w Realu Madryt, z Interem wygrał Ligę Mistrzów, a z Holandią dotarł do finału mundialu. Dziś Wesley Sneijder rozpoczyna zupełnie nowy rozdział. 42-latek obejmuje amatorski Eminent Boys, występujący na dziewiątym poziomie rozgrywkowym w Holandii.",
+        "Wesley Sneijder przez lata rywalizował na największych europejskich stadionach. Teraz zamieni je na znacznie skromniejsze obiekty. Były reprezentant Holandii zdecydował się rozpocząć karierę trenerską w Eminent Boys, zespole z Utrechtu. Drużyna występuje w czwartej klasie amatorskiej, odpowiadającej dziewiątemu szczeblowi krajowej hierarchii.",
+        "Za wyborem 42-latka stoją również względy rodzinne. W klubie występuje jego młodszy brat Rodney, który jednocześnie zasiada w komisji technicznej. Obaj współpracowali już wcześniej w DHSC, gdzie Wesley pełnił funkcję doradcy technicznego. Tym razem przed byłym pomocnikiem znacznie większa odpowiedzialność.",
+        "Do zmiany szkoleniowca doszło po rozstaniu z Mustafą Talhą. Eminent Boys wywalczył w poprzednim sezonie awans, a w obecnych rozgrywkach zajmował piąte miejsce po siedmiu kolejkach. Sneijder pojawił się na treningu we wtorek, 10 listopada. Działacze liczą, że jego doświadczenie pomoże zespołowi w dalszym rozwoju."
       ]
     },
     {
-      "id": "sport-6-5c01bc",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
+      "id": "sport-4-24a9c3",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Branthwaite, Garner i King nieobecni w meczu z Hiszpanią",
-      "original_title": "Branthwaite, Garner and King omitted for Spain game",
+      "title": "Townsend krytykuje szkocką obronę podczas „siłowania na rękę” w Australii",
+      "original_title": "Townsend hails Scotland's defence in Australia 'arm wrestle'",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:15",
+      "time": "20:53",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png",
+      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6vg25x1zqrro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42df/live/c2043d10-e135-11f1-90e9-e9a285721c5c.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Menedżer reprezentacji Anglii Thomas Tuchel pomija Josha Kinga, Jamesa Garnera i Jarrada Branthwaite’a w swoim składzie na niedzielny mecz z Hiszpanią.",
-        "Starszy korespondent piłkarski Opublikowano 4 godziny temu Menedżer Anglii Thomas Tuchel pominął Josha Kinga, Jamesa Garnera i Jarrada Branthwaite’a w swoim składzie na mecz z mistrzami świata Hiszpanią w niedzielny wieczór w Madrycie.",
-        "Anglia udała się do Hiszpanii z 26 zawodnikami, ale przepisy UEFA stanowią, że tylko 23 zawodników może zostać wybranych do składu meczowego Ligi Narodów Powrót do formy Ezriego Konsy i Djeda Spence’a, którzy opuścili czwartkowe zwycięstwo nad Chorwacją, przyczynił się do zaniedbania tej trójki."
+        "Zwycięstwo Szkocji w Mistrzostwach Narodów nad Australią nie było klasyczne, ale główny trener Gregor Townsend twierdzi, że był to jeden z najlepszych występów w defensywie jego drużyny w ostatnich latach.",
+        "Główny trener Szkocji, Gregor Townsend, pochwalił wysiłki swojej drużyny w defensywie po tym, jak wyprzedziła Australię w „siłowaniu na rękę” o Mistrzostwo Narodów w Murrayfield.",
+        "Po rozbiciu drużyny z Nową Zelandią w zeszły weekend, w której nie udało jej się zdobyć drugiej połowy punktu, w centrum uwagi znalazła się nieszczelna obrona Szkocji."
       ],
       "extended_paragraphs": [
-        "Menedżer reprezentacji Anglii Thomas Tuchel pomija Josha Kinga, Jamesa Garnera i Jarrada Branthwaite’a w swoim składzie na niedzielny mecz z Hiszpanią.",
-        "Starszy korespondent piłkarski Opublikowano 4 godziny temu Menedżer Anglii Thomas Tuchel pominął Josha Kinga, Jamesa Garnera i Jarrada Branthwaite’a w swoim składzie na mecz z mistrzami świata Hiszpanią w niedzielny wieczór w Madrycie.",
-        "Anglia udała się do Hiszpanii z 26 zawodnikami, ale przepisy UEFA stanowią, że tylko 23 zawodników może zostać wybranych do składu meczowego Ligi Narodów",
-        "Powrót do formy Ezriego Konsy i Djeda Spence’a, którzy opuścili czwartkowe zwycięstwo nad Chorwacją, przyczynił się do zaniedbania tej trójki.",
-        "Obrońca Arsenalu Konsa może od razu wrócić do podstawowej jedenastki, a James Trafford zastąpi Jordana Pickforda na bramce."
+        "Zwycięstwo Szkocji w Mistrzostwach Narodów nad Australią nie było klasyczne, ale główny trener Gregor Townsend twierdzi, że był to jeden z najlepszych występów w defensywie jego drużyny w ostatnich latach.",
+        "Główny trener Szkocji, Gregor Townsend, pochwalił wysiłki swojej drużyny w defensywie po tym, jak wyprzedziła Australię w „siłowaniu na rękę” o Mistrzostwo Narodów w Murrayfield.",
+        "Po rozbiciu drużyny z Nową Zelandią w zeszły weekend, w której nie udało jej się zdobyć drugiej połowy punktu, w centrum uwagi znalazła się nieszczelna obrona Szkocji.",
+        "Jednak w chłodny i wilgotny dzień w Edynburgu, gdzie królowała fizyczność, odnieśli bardzo potrzebne zwycięstwo i pokazali, że potrafią wygrywać brzydko.",
+        "Dobra bramka Maxa Jorgensena w końcówce dała Wallabies nadzieję, a przy remisie goście wyszli z własnej połowy."
       ]
     },
     {
-      "id": "sport-7-2a841e",
+      "id": "sport-5-1f3067",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Kiepski weekend Polek w Japonii. Jedna z nich szybko opuściła boisko",
+      "title": "Spektakl w Madrycie. Anglicy przerwali fantastyczną serię Hiszpanów",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:09",
+      "time": "21:46",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/siatkowka/1284367/kiepski-weekend-polek-w-japonii-jedna-z-nich-szybko-opuscila-boisko",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/68455b70d289f9_28413084.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284348/spektakl-w-madrycie-anglicy-przerwali-fantastyczna-serie-hiszpanow",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa27a04dc258_43681995.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Nie był to udany weekend dla polskich siatkarek występujących w Japonii.",
-        "Izabella Rapacz i Weronika Szlagowska nie zachwyciły na parkietach SV.League, natomiast Olivia Różański tym razem nie miała okazji do gry.",
-        "Skomentuj Nie był to udany weekend dla polskich siatkarek występujących w Japonii."
+        "Anglia wygrała z Hiszpanią 3:2 w Lidze Narodów, tym samym przerywając imponującą serię drużyny Luisa de la Fuente (43 mecze bez porażki).",
+        "Było już 3:0 dla gości, ale po czerwonej kartce Elliota Andersona mieliśmy nieprawdopodobną końcówkę.",
+        "2 Komentarze Anglia wygrała z Hiszpanią 3:2 w Lidze Narodów, tym samym przerywając imponującą serię drużyny Luisa de la Fuente (43 mecze bez porażki)."
       ],
       "extended_paragraphs": [
-        "Nie był to udany weekend dla polskich siatkarek występujących w Japonii. Izabella Rapacz i Weronika Szlagowska nie zachwyciły na parkietach SV.League, natomiast Olivia Różański tym razem nie miała okazji do gry.",
-        "Skomentuj Nie był to udany weekend dla polskich siatkarek występujących w Japonii. Izabella Rapacz i Weronika Szlagowska nie zachwyciły na parkietach SV.League, natomiast Olivia Różański tym razem nie miała okazji do gry.",
-        "To nie był udany weekend dla Izabelli Rapacz. Sobotnie spotkanie Polka rozpoczęła w kwadracie dla rezerwowych, jednak pojawiła się na boisku w każdym z czterech setów wygranego przez Saitama Ageo Medics 3:1 meczu z Osaka Marvelous.",
-        "Najlepiej zaprezentowała się w ostatniej partii, w której w końcówce zdobyła trzy ważne punkty. Łącznie zapisała na swoim koncie sześć punktów, osiągając 31-procentową skuteczność w ataku i dokładając do tego jeden punktowy blok.",
-        "W niedzielę Rapacz znalazła się już w wyjściowym składzie, ale jej występ nie trwał długo. Przy stanie 9:13 została zmieniona i do końca spotkania nie pojawiła się ponownie na parkiecie. Do tego momentu nie zdołała skończyć żadnego z sześciu ataków, popełniając przy tym jeden błąd. Tym razem słabiej zaprezentował się również cały zespół z Ageo, który przegrał 0:3."
+        "Anglia wygrała z Hiszpanią 3:2 w Lidze Narodów, tym samym przerywając imponującą serię drużyny Luisa de la Fuente (43 mecze bez porażki). Było już 3:0 dla gości, ale po czerwonej kartce Elliota Andersona mieliśmy nieprawdopodobną końcówkę.",
+        "2 Komentarze Anglia wygrała z Hiszpanią 3:2 w Lidze Narodów, tym samym przerywając imponującą serię drużyny Luisa de la Fuente (43 mecze bez porażki). Było już 3:0 dla gości, ale po czerwonej kartce Elliota Andersona mieliśmy nieprawdopodobną końcówkę.",
+        "22 marca 2024 roku. Hiszpania przegrała wtedy 0:1 z Kolumbią w meczu towarzyskim i - jak czas pokazał - było to ostatnie niepowodzenie tej drużyny przez kolejne miesiące. Hiszpanie nie przegrali kolejnych czterdziestu trzech meczów, ustanawiając przy tym najbardziej spektakularną serię w historii światowego futbolu.",
+        "Jednak została ona właśnie przerwana - wydarzyło się to w niedzielę w Madrycie (na stadionie Atletico). Przyjechała reprezentacja Anglii, strzeliła trzy gole i... później sama skomplikowała sobie sprawę czerwoną kartką Elliota Andersona. Hiszpanie wrócili do gry, złapali kontakt, natomiast zabrakło im czasu na zdobycie bramki wyrównującej.",
+        "Przyjezdni narzucili wysokie tempo od początku, choć na pierwszego gola czekaliśmy do końcówki pierwszej połowy - wtedy z rzutu karnego nie pomylił się Harry Kane. Jednak dopiero po przerwie nastąpił szturm i w kilka minut goście zdobyli dwie bramki. Miejscowi kibice byli w szoku, zanosiło się na totalną klęskę. Ale później wcale nie brakowało wiele, by zdobyć przynajmniej punkt."
       ]
     },
     {
-      "id": "sport-8-1d0f89",
+      "id": "sport-6-462f31",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2138,27 +2105,59 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Australijska firma Sayers „wzięła papier ścierny z pola” i odrzuca twierdzenia Cumminsa",
-      "original_title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+      "title": "Ronaldinho (46 l.) wraca do Rawenny",
+      "original_title": "Ronaldinho, 46, makes comeback for Ravenna",
       "is_foreign": true,
       "lang": "EN",
-      "time": "09:33",
+      "time": "19:31",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c61b/live/4f120640-e0c0-11f1-970d-f5d89da8a1ad.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Australijski melonik Chadd Sayers twierdzi, że pomógł zabrać papier ścierny z boiska podczas meczu przed testem w Cape Town i popiera wspomnienia Usmana Khawaji dotyczące Pata Cumminsa.",
-        "Były australijski melonik Chadd Sayers twierdzi, że podczas meczu przed niesławnym testem w Cape Town pomógł zdjąć papier ścierny z ziemi i poparł wspomnienia Usmana Khawaji dotyczące Pata Cumminsa, twierdząc, że jego zdaniem „wszyscy wiedzieli” o planie manipulowania piłką.",
-        "zawodnikiem podczas drugiego testu serii 2018 przeciwko Republice Południowej Afryki w Gqeberha, wcześniej znanym jako Port Elizabeth, i poparł twierdzenie z książki Khawaji, że tam również użyto papieru ściernego."
+        "Legendarny brazylijski Ronaldinho powraca w wieku 46 lat do barw Rawenny, grając pierwszą połowę derbów trzeciej ligi Włoch przeciwko Forli.",
+        "Legenda Brazylii Ronaldinho powrócił w wieku 46 lat do barw Rawenny w wygranym 2:0 meczu z Forli we włoskich derbach trzeciej ligi.",
+        "46-latek zakończył karierę w klubie Serie C, do którego dołączył jako inwestor w sierpniu, a ostatni raz grał w 2015 roku w barwach Fluminense."
       ],
       "extended_paragraphs": [
-        "Australijski melonik Chadd Sayers twierdzi, że pomógł zabrać papier ścierny z boiska podczas meczu przed testem w Cape Town i popiera wspomnienia Usmana Khawaji dotyczące Pata Cumminsa.",
-        "Były australijski melonik Chadd Sayers twierdzi, że podczas meczu przed niesławnym testem w Cape Town pomógł zdjąć papier ścierny z ziemi i poparł wspomnienia Usmana Khawaji dotyczące Pata Cumminsa, twierdząc, że jego zdaniem „wszyscy wiedzieli” o planie manipulowania piłką.",
-        "39-letni Sayers był 12. zawodnikiem podczas drugiego testu serii 2018 przeciwko Republice Południowej Afryki w Gqeberha, wcześniej znanym jako Port Elizabeth, i poparł twierdzenie z książki Khawaji, że tam również użyto papieru ściernego.",
-        "Sayers powiedział również, że w australijskiej szatni odbyło się „60–90-minutowe” spotkanie po tym, jak Bancroft został przyłapany na używaniu papieru ściernego w Kapsztadzie, podczas którego gracze dyskutowali o wzięciu zbiorowej odpowiedzialności – coś, co twierdzi Khawaja, ale Cummins powiedział, że nie pamięta tego na swojej nadzwyczajnej konferencji prasowej w piątek.",
-        "„Czuję się komfortowo, siedząc tutaj i wierzę, że wszyscy po tej stronie wiedzieli, co się dzieje i czego używano” – powiedział Sayers, którego jedyny test był ostatnim meczem w tej serii."
+        "Legendarny brazylijski Ronaldinho powraca w wieku 46 lat do barw Rawenny, grając pierwszą połowę derbów trzeciej ligi Włoch przeciwko Forli.",
+        "Legenda Brazylii Ronaldinho powrócił w wieku 46 lat do barw Rawenny w wygranym 2:0 meczu z Forli we włoskich derbach trzeciej ligi.",
+        "46-latek zakończył karierę w klubie Serie C, do którego dołączył jako inwestor w sierpniu, a ostatni raz grał w 2015 roku w barwach Fluminense.",
+        "Rozpoczął niedzielny mecz, pokazał kilka dobrych akcji i miał udział w zdobyciu pierwszego gola.",
+        "Była supergwiazda Barcelony zatrzymała obrońcę, a następnie wykonała podanie, które nastąpiło przed asystą po strzale Giulio Donatiego zza pola karnego."
+      ]
+    },
+    {
+      "id": "sport-8-3fe836",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Triumf czy klapa? Puchar Świata Ligi Rugby, który podzielił opinie",
+      "original_title": "Triumph or flop? The Rugby League World Cup that split opinion",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "15:07",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/cwdr1dl21l1vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f50d/live/69bd40e0-e106-11f1-93e1-3b657b665bcf.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Czy Puchar Świata Ligi Rugby wyznaczył nowy punkt odniesienia w międzynarodowych rozgrywkach?",
+        "BBC Sport odkrywa, że ​​odpowiedź na to pytanie różni się na półkuli północnej i południowej.",
+        "Turnieje mężczyzn, kobiet i osób na wózkach inwalidzkich dostarczyły wielu historii – od powrotu Kalyn Pongi po złamanej ręce w 23 dni, przez zmiażdżone ucho Jodie Cunningham, poza złotą drabiną angielskiej drużyny na wózkach inwalidzkich, po format grupowy mężczyzn, który wywołał powszechne zdziwienie."
+      ],
+      "extended_paragraphs": [
+        "Czy Puchar Świata Ligi Rugby wyznaczył nowy punkt odniesienia w międzynarodowych rozgrywkach? BBC Sport odkrywa, że ​​odpowiedź na to pytanie różni się na półkuli północnej i południowej.",
+        "Turnieje mężczyzn, kobiet i osób na wózkach inwalidzkich dostarczyły wielu historii – od powrotu Kalyn Pongi po złamanej ręce w 23 dni, przez zmiażdżone ucho Jodie Cunningham, poza złotą drabiną angielskiej drużyny na wózkach inwalidzkich, po format grupowy mężczyzn, który wywołał powszechne zdziwienie.",
+        "Ale czy Puchar Świata był triumfem? Perspektywy półkuli północnej i południowej dostarczają kontrastujących odpowiedzi.",
+        "Australia po raz czwarty z rzędu zdobyła tytuły mistrzowskie mężczyzn i kobiet, a Nowa Zelandia nie była w stanie zapewnić zwrotów akcji w żadnym z finałów.",
+        "Tonga i Samoa wniosły energię i pasję, występując na poziomie, który podkreślał, dlaczego awansują do statusu Tier One. Duża populacja Polinezyjczyków w USA, które będą współgospodarzami Mistrzostw Świata mężczyzn i kobiet w 2030 r., będzie prawdopodobnie kluczem do dalszego rozpowszechniania informacji o lidze rugby na całym świecie."
       ]
     }
   ],
@@ -2367,7 +2366,7 @@
       ]
     },
     {
-      "id": "rynki-6-50a2e0",
+      "id": "rynki-6-565d68",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "MEDIUM",
@@ -2377,11 +2376,11 @@
       "key_metrics": [
         "50%"
       ],
-      "title": "Lutnick staje w obliczu pytań w związku ze skandalem szpiegowskim Nvidii. Firma jego synów jest głęboko powiązana z producentem chipów",
-      "original_title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "title": "Lutnick staje w obliczu pytań w związku ze skandalem szpiegowskim Nvidii. Firma jego synów jest powiązana z producentem chipów",
+      "original_title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:42",
+      "time": "19:58",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&amp;w=1920&amp;h=1080",
@@ -2395,7 +2394,7 @@
       "extended_paragraphs": [
         "Rezygnacja Jensena Huanga ze stanowiska dyrektora generalnego Nvidii spowodowała ponowne przyjrzenie się sekretarzowi handlu Howardowi Lutnickowi i powiązaniom finansowym jego rodziny z producentem chipów.",
         "Jak wynika z raportu badawczego Cantor zweryfikowanego przez CNBC, pod koniec września Cantor Fitzgerald gościł dyrektora generalnego Nvidii, Jensena Huanga i innych członków kadry kierowniczej tego producenta chipów na spotkaniach z inwestorami w Nowym Jorku.",
-        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z dnia 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
+        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
         "Jednak firma, wcześniej prowadzona przez Sekretarza Handlu Howarda Lutnicka, a obecnie kierowana przez jego synów, Brandona i Kyle’a, odnotowała prawie 50% spadek liczby akcji Nvidii posiadanych w okresie od września 2025 r. do marca 2026 r., wynika z analizy CNBC dokumentów dotyczących papierów wartościowych, z wyłączeniem opcji. Nvidia była jedną z największych pozycji na akcjach zgłoszonych w dokumentach Cantora.",
         "Spadek zbiegł się w czasie z naciskami Białego Domu i wywiadu USA na Lutnicka, aby rozprawił się z Megaspeed, singapurską firmą podejrzaną o wysyłanie zaawansowanych chipów sztucznej inteligencji Nvidii do Chin. Jak poinformowała 11 listopada Axios, Lutnick wielokrotnie stawiał opór tym wysiłkom."
       ]

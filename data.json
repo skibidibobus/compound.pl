@@ -3,7 +3,7 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.319",
-    "last_updated": "2026-11-15 02:54",
+    "last_updated": "2026-11-15 10:07",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 17,
     "foreign_translated_count": 19,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$64,693",
-      "change": "-4.40%",
+      "price": "$65,449",
+      "change": "-2.81%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,807",
-      "change": "-5.46%",
+      "price": "$1,826",
+      "change": "-4.40%",
       "is_positive": false
     },
     {
@@ -1049,38 +1049,38 @@
       ]
     },
     {
-      "id": "rynki-8-2e3da6",
-      "entity_tag": "NBP / RPP",
-      "sector": "Polityka Pieniężna",
+      "id": "rynki-8-a23ff4",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
       "market_impact": "HIGH",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe (kluczowe liczby: 70 tys. dolarów, 3,5%).",
+      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe (kluczowe liczby: 0,5 proc. m/m, 1,1 proc.).",
       "key_metrics": [
-        "70 tys. dolarów",
-        "3,5%"
+        "0,5 proc. m/m",
+        "1,1 proc."
       ],
-      "title": "Gospodarka hamuje, upadek szefa Nvidii, a cena Drwala zamrożona",
+      "title": "Za chwilę Nvidia ujawni swoje tajemnice, a Fed kulisy swojej decyzji. W planie także polski przemysł i inflacja",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "06:00",
+      "time": "11:38",
       "source": "Bankier Rynki",
-      "source_url": "https://www.bankier.pl/wiadomosc/Gospodarka-hamuje-upadek-szefa-Nvidii-a-cena-Drwala-zamrozona-Tydzien-na-wykresach-9228305.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "image_url": "https://galeria.bankier.pl/p/3/c/81b9228b8157a7-948-568-276-10-3819-2291.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Kalendarz-ekonomiczny-16-22-11-2026-Nvidia-KGHM-i-PZU-pokaza-wyniki-W-planie-takze-Warsh-polski-przemysl-i-inflacja-9228369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "image_url": "https://galeria.bankier.pl/p/6/e/d04d5376016882-948-568-0-95-3456-2073.jpg",
       "image_source": "Fot. / Źródło: Bankier Rynki",
       "lead_story": false,
       "summary_points": [
-        "Cześć, tu Inwestor Wojtek.",
-        "Polska gospodarka nieco zdejmuje nogę z gazu, inflacja spada do 3,5%, a Burger Drwala niespodziewanie trzyma cenę z poprzedniego sezonu.",
-        "W tym samym czasie za oceanem Fed szykuje kolejną podwyżkę stóp, miedź drożeje na fali boomu na centra danych, a na polskim rynku nieruchomości deweloperzy notują najlepszy miesiąc w tym roku."
+        "Nadchodzący tydzień na rynkach finansowych zapowiada się wyjątkowo gorąco zarówno za oceanem, jak i na warszawskim parkiecie.",
+        "Inwestorzy z całego świata będą w napięciu wyczekiwać raportu kwartalnego Nvidii, która mierzy się z kryzysem wizerunkowym po głośnym odejściu Jensena Huanga.",
+        "Na krajowym podwórku uwagę przyciągną odczyty inflacji bazowej NBP, październikowe dane o produkcji przemysłowej oraz prawdziwy wysyp raportów wynikowych spółek z GPW i NewConnect."
       ],
       "extended_paragraphs": [
-        "Cześć, tu Inwestor Wojtek. Polska gospodarka nieco zdejmuje nogę z gazu, inflacja spada do 3,5%, a Burger Drwala niespodziewanie trzyma cenę z poprzedniego sezonu. W tym samym czasie za oceanem Fed szykuje kolejną podwyżkę stóp, miedź drożeje na fali boomu na centra danych, a na polskim rynku nieruchomości deweloperzy notują najlepszy miesiąc w tym roku. Jak co tydzień, zebrałem dla Was najważniejsze wykresy mijającego tygodnia.",
-        "fot. AI Generator / / Shutterstock Hamowanie polskiej gospodarki w trzecim kwartale. Tempo jednak wciąż wysokie Gospodarka w Polsce zwalnia wynika z najnowszych danych Głównego Urzędu Statystycznego, choć ciągle ma się dobrze i jest na dobrej drodze do spełnienia całorocznych prognoz wzrostu na poziomie co najmniej 3,5 proc. Dane mają charakter wstępny i jeszcze mogą ulec rewizji.",
-        "Upadek szefa Nvidii. Romanse i Chiny zatopiły króla AI, a rynek pyta: co dalej? Nvidia traci swojego architekta. W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie. Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki. Kryzys w Nvidii może nieść poważne konsekwencje dla całej branży AI oraz administracji Donalda Trumpa.",
-        "Bankier.pl Inflacja CPI w USA zwalnia, ale nie aż tak jak prognozowano. Chaos sprzed roku odbił się na statystyce danych Październikowa inflacja CPI w USA była wyższa, niż oczekiwano wynika z komunikatu rządowego Biura Statystyki Pracy. Z uwagi na zeszłoroczny paraliż rządu federalnego biuro opublikowało tylko dane w ujęciu miesięcznym. Nie mniej pokazane statystyki wskakują, że Fed raczej nie ma innego wyjścia jak po raz drugi w tym roku podnieść stopy procentowe. Tego z resztą oczekuje rynek.",
-        "Bitcoin najniżej od sierpnia. Kurs spada poniżej 70 tys. dolarów Bitcoin spadł poniżej psychologicznej bariery 70 tys. dolarów, osiągając najniższy poziom notowań od sierpnia. Wyprzedaż na rynku kryptowalut napędziły odpływy kapitału z amerykańskich funduszy ETF, które w ujęciu od początku roku znalazły się na ponad 1,5-miliardowym minusie. Nie bez znaczenia dla cyfrowych aktywów pozostaje również umacniający się dolar."
+        "Nadchodzący tydzień na rynkach finansowych zapowiada się wyjątkowo gorąco zarówno za oceanem, jak i na warszawskim parkiecie. Inwestorzy z całego świata będą w napięciu wyczekiwać raportu kwartalnego Nvidii, która mierzy się z kryzysem wizerunkowym po głośnym odejściu Jensena Huanga. Na krajowym podwórku uwagę przyciągną odczyty inflacji bazowej NBP, październikowe dane o produkcji przemysłowej oraz prawdziwy wysyp raportów wynikowych spółek z GPW i NewConnect.",
+        "fot. Muhammad Alimaki / / Shutterstock Poniedziałek, 16 listopada Nowy tydzień na rynkach rozpoczniemy w Azji. Już o godz. 00:50 poznamy wstępne wyliczenia japońskiego PKB za III kwartał. O godz. 02:30 i 03:00 napłynie natomiast pakiet październikowych danych z Chin obejmujący ceny nieruchomości, sprzedaż detaliczną, produkcję przemysłową oraz inwestycje w aglomeracjach miejskich. Nad ranem (05:30) poznamy jeszcze finalne wrześniowe dane o produkcji przemysłowej w Japonii.",
+        "W Europie dzień rozpoczniemy od sygnału z naszego regionu – o godz. 09:00 opublikowana zostanie październikowa inflacja producencka (PPI) w Czechach. O godz. 11:00 Eurostat przedstawi wrześniowe dane o produkcji przemysłowej w strefie euro – europejski przemysł wciąż zmaga się ze słabym popytem, co potwierdził poprzedni odczyt pokazujący spadek o 0,5 proc. m/m oraz o 1,1 proc. w ujęciu rocznym.",
+        "O godz. 14:00 oczy krajowych inwestorów zwrócą się na Narodowy Bank Polski, który opublikuje październikowe miary inflacji bazowej (obok głównego wskaźnika bez cen żywności i energii poznamy także 15-procentową średnią obciętą oraz wskaźniki po wyłączeniu cen najbardziej zmiennych i administrowanych).",
+        "Po południu przeniesiemy się do USA, gdzie o godz. 14:30 poznamy listopadowy indeks aktywności wytwórczej NY Empire State. Znacznie ważniejsze mogą być jednak popołudniowe wystąpienia bankierów centralnych: szefa nowojorskiego oddziału Fed Johna Williamsa (15:05) oraz samego prezesa Rezerwy Federalnej Kevina Warsha (18:00), w których inwestorzy będą szukać wskazówek co do dalszej ścieżki stóp procentowych za oceanem."
       ]
     },
     {
@@ -1144,7 +1144,7 @@
       "extended_paragraphs": [
         "Rezygnacja Jensena Huanga ze stanowiska dyrektora generalnego Nvidii spowodowała ponowne przyjrzenie się sekretarzowi handlu Howardowi Lutnickowi i powiązaniom finansowym jego rodziny z producentem chipów.",
         "Jak wynika z raportu badawczego Cantor zweryfikowanego przez CNBC, pod koniec września Cantor Fitzgerald gościł dyrektora generalnego Nvidii, Jensena Huanga i innych członków kadry kierowniczej tego producenta chipów na spotkaniach z inwestorami w Nowym Jorku.",
-        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z dnia 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
+        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
         "Jednak firma, wcześniej prowadzona przez Sekretarza Handlu Howarda Lutnicka, a obecnie kierowana przez jego synów, Brandona i Kyle’a, odnotowała prawie 50% spadek liczby akcji Nvidii posiadanych w okresie od września 2025 r. do marca 2026 r., wynika z analizy CNBC dokumentów dotyczących papierów wartościowych, z wyłączeniem opcji. Nvidia była jedną z największych pozycji na akcjach zgłoszonych w dokumentach Cantora.",
         "Spadek zbiegł się w czasie z naciskami Białego Domu i wywiadu USA na Lutnicka, aby rozprawił się z Megaspeed, singapurską firmą podejrzaną o wysyłanie zaawansowanych chipów sztucznej inteligencji Nvidii do Chin. Jak poinformowała 11 listopada Axios, Lutnick wielokrotnie stawiał opór tym wysiłkom."
       ]
@@ -1160,7 +1160,7 @@
       "key_metrics": [
         "4,6 miliona dolarów"
       ],
-      "title": "Wspierany przez Erica Trumpa start-up-robot-żołnierz nie może płacić pracownikom po tym, jak założyciel pożyczył od firmy 4,6 miliona dolarów na zakup domu",
+      "title": "Wspierany przez Erica Trumpa startup-robot-żołnierz nie może płacić pracownikom po tym, jak założyciel pożyczył od firmy 4,6 miliona dolarów na zakup domu",
       "original_title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
       "is_foreign": true,
       "lang": "EN",
@@ -1172,12 +1172,12 @@
       "lead_story": false,
       "summary_points": [
         "Wspierany przez Erica Trumpa start-up zajmujący się robotami Foundation Future Industries boryka się z brakami w gotówce i zaległymi płacami, ponieważ dyrektor generalny Sankaet Pathak staje pod lupą w związku z pożyczką firmową o wartości 4,6 miliona dolarów.",
-        "Według osób mających bezpośrednią wiedzę w tej sprawie Foundation Future Industries, producent wojskowych robotów humanoidalnych, któremu doradzał i wspierał Eric Trump, nie wypłacił pracownikom wynagrodzeń w zeszłym miesiącu ze względu na wyczerpanie się jej rezerw gotówkowych.",
+        "Według osób posiadających bezpośrednią wiedzę w tej sprawie Foundation Future Industries, producent wojskowych robotów humanoidalnych, któremu doradzał i wspierał Eric Trump, nie wypłacił pracownikom wynagrodzeń w zeszłym miesiącu ze względu na wyczerpanie się jej rezerw gotówkowych.",
         "Pracownicy nie otrzymali jeszcze wypłat po tym, jak Fundacja z siedzibą w San Francisco nie przekazała wynagrodzeń 30 października, twierdzą osoby, które prosiły o anonimowość, aby szczerze wypowiadać się na temat prywatnej firmy."
       ],
       "extended_paragraphs": [
         "Wspierany przez Erica Trumpa start-up zajmujący się robotami Foundation Future Industries boryka się z brakami w gotówce i zaległymi płacami, ponieważ dyrektor generalny Sankaet Pathak staje pod lupą w związku z pożyczką firmową o wartości 4,6 miliona dolarów.",
-        "Według osób mających bezpośrednią wiedzę w tej sprawie Foundation Future Industries, producent wojskowych robotów humanoidalnych, któremu doradzał i wspierał Eric Trump, nie wypłacił pracownikom wynagrodzeń w zeszłym miesiącu ze względu na wyczerpanie się jej rezerw gotówkowych.",
+        "Według osób posiadających bezpośrednią wiedzę w tej sprawie Foundation Future Industries, producent wojskowych robotów humanoidalnych, któremu doradzał i wspierał Eric Trump, nie wypłacił pracownikom wynagrodzeń w zeszłym miesiącu ze względu na wyczerpanie się jej rezerw gotówkowych.",
         "Pracownicy nie otrzymali jeszcze wypłat po tym, jak Fundacja z siedzibą w San Francisco nie przekazała wynagrodzeń 30 października, twierdzą osoby, które prosiły o anonimowość, aby szczerze wypowiadać się na temat prywatnej firmy.",
         "Sytuacja szczególnie rozgniewała część członków startupu, ponieważ jego dyrektor generalny i współzałożyciel, Sankaet Pathak, pożyczył od firmy w zeszłym roku 4,6 miliona dolarów na zakup luksusowego domu. Pieniądze te można było przeznaczyć na opłacenie pracowników – twierdzą ludzie.",
         "Z publicznych rejestrów wynika, że spółka LLC, której jedynym dyrektorem jest Pathak, zakupiła w październiku 2025 r. nieruchomość w Sausalito w Kalifornii o wartości 4,6 miliona dolarów z „rozległymi, kinowymi widokami” na Zatokę San Francisco."
@@ -1185,6 +1185,41 @@
     }
   ],
   "makro": [
+    {
+      "id": "makro-1-163148",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 90 proc., 95 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "90 proc.",
+        "95 proc."
+      ],
+      "title": "Dla Chin to priorytet strategiczny. Badania nad chimerami zwierzęco-ludzkimi bez barier",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "11:05",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/plus-minus/art45486221-dla-chin-to-priorytet-strategiczny-badania-nad-chimerami-zwierzeco-ludzkimi-bez-barier",
+      "image_url": "https://i.gremicdn.pl/image/free/f7aeb06f22b68f0f5ead5692a2fca31b/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": true,
+      "summary_points": [
+        "Jeśli mimo obrzydzenia i odrazy moralnej przeczytają Państwo ten tekst o wyhodowanych właśnie myszach z ludzkim mózgiem i innych chimerach ludzko-zwierzęcych, dowiedzą się, że naukowcy mają dobre powody, by prowadzić takie eksperymenty.",
+        "Mózg – mysz o tym imieniu z kreskówki „Pinky and the Brain” (ta z wielkim łbem) – jest przekonana, że rządziłaby światem lepiej niż ludzie.",
+        "Czy w świecie realnym zastąpienie kory mózgowej gryzonia ludzką tkanką nerwową da w efekcie „supermysz”?"
+      ],
+      "extended_paragraphs": [
+        "Jeśli mimo obrzydzenia i odrazy moralnej przeczytają Państwo ten tekst o wyhodowanych właśnie myszach z ludzkim mózgiem i innych chimerach ludzko-zwierzęcych, dowiedzą się, że naukowcy mają dobre powody, by prowadzić takie eksperymenty.",
+        "Mózg – mysz o tym imieniu z kreskówki „Pinky and the Brain” (ta z wielkim łbem) – jest przekonana, że rządziłaby światem lepiej niż ludzie. Czy w świecie realnym zastąpienie kory mózgowej gryzonia ludzką tkanką nerwową da w efekcie „supermysz”? Nie. Ale eksperyment naukowca ze Stanfordu i tak jest gigantycznym sukcesem",
+        "„Uczeni amerykańscy zrobili myszy z ludzkim mózgiem” – takie klikbajtowe zdanie na ogół wystarczy, by wciągnąć czytelników do lektury. Będą się Państwo nieco brzydzić, a także czuć odrazę moralną. Nie tylko bowiem mamy w sobie pierwotny, instynktowny wstręt wobec przekraczania barier gatunkowych (tzw. syndrom Frankensteina), ale też, jak postulował amerykański lekarz i myśliciel Leon Kass, bywa ta odraza traktowana w debatach publicznych jako niepisana społeczna norma etyczna. Myślimy sobie zatem: „to obrzydliwe i niedopuszczalne” i wolelibyśmy, aby uczeni takich eksperymentów nie przeprowadzali. Jednocześnie jednak ciekawi nas, co wyszło i jak to w ogóle zrobiono. Czy nam się to podoba, czy nie, coraz częściej korzystamy w medycynie z owoców tych badań.",
+        "Oczywiście, ciekawość wygrywa tu z obrzydzeniem. Nawet jeśli zrozumienie wyszukanych eksperymentalnych metod pozwalających na powołanie do życia gryzoni, których nawet 90 proc. mózgu składa się z ludzkich neuronów, nie jest łatwe, to niezależnie od stopnia wniknięcia w technikalia, możemy sobie bowiem zadać w tym momencie pytania filozoficzne. Chociażby o to, czy tworząc zwierzę z ludzkimi emocjonalnymi lub poznawczymi obwodami nerwowymi, nie stwarzamy bytu zdolnego do zupełnie nowego rodzaju poznania czy cierpienia psychicznego. Umysły bardziej ścisłe, a mniej empatyczne mogą zapytać o to, jaki odsetek ludzkich komórek w mózgowiu zwierzęcia lub jaki poziom zhumanizowania struktury neuronalnej nadaje chimerze status moralny wymagający ochrony prawnej przysługującej ludziom.",
+        "Zanim jednak zaczniemy filozofować, fakty są takie, że zespół badawczy pod kierunkiem Sergiu P. Pasca ze Stanford University, o czym można było przeczytać dzięki niedawnej publikacji na łamach „Nature”, wyhodował myszy z korą mózgową utworzoną w ponad 90 proc. z ludzkiej tkanki nerwowej. Nauka określa taki byt „chimerą z kserokorą ludzką”. Żeby go uzyskać, badacze użyli myszy z ciężkim złożonym niedoborem odporności (SCID) oraz inżynierii genetycznej. Uszkodzili gen ESCO2 w komórkach, które z czasem dojrzałyby w korę mózgową, i tak otrzymali myszy pozbawione własnej kory mózgowej i hipokampu (ponad 95 proc. ubytku tkanki nerwowej w mózgu)."
+      ]
+    },
     {
       "id": "makro-2-2ba0dc",
       "entity_tag": "Gospodarka & Makro",
@@ -1194,8 +1229,8 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Uroda kalendarze adwentowe mogą kosztować setki - ale czy są warte swojej ceny?",
-      "original_title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "title": "Kalendarze adwentowe kosmetyczne mogą kosztować setki, ale czy są warte swojej ceny?",
+      "original_title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "is_foreign": true,
       "lang": "EN",
       "time": "00:01",
@@ -1203,7 +1238,7 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Kalendarze kosmetyczne stały się obowiązkowym elementem świątecznym i cieszą się szczególną popularnością wśród kobiet robiących zakupy.",
         "„Zawsze patrzę na to, co w nich jest.",
@@ -1214,104 +1249,39 @@
         "„Zawsze patrzę na to, co w nich jest. Jeśli zapachy mi się dostatecznie spodobają, to je kupię” – mówi 39-latka, która pracuje jako starszy menedżer handlowy w dziale inżynierii.",
         "Luksusowe kalendarze adwentowe mają dawać dreszczyk niespodzianki, ale dla Julii ważniejsze jest, czy rzeczywiście chce, aby przedmioty były w środku – ta myśl uderza także coraz większą liczbę klientów po skandalu wokół kalendarza Skims.",
         "W tym tygodniu marka kosmetyczna Kim Kardashian zaoferowała wszystkim swoim klientom zwrot pieniędzy za kalendarz o wartości 148 dolarów (110 funtów) po tym, jak została szeroko skrytykowana w mediach społecznościowych za jakość jego zawartości, a niektórzy klienci porównali spinki do włosów, gumki i breloczki do kluczy znajdujące się w środku do rzeczy, które można znaleźć na oparciu sofy.",
-        "Julia twierdzi, że zarabia nieźle, ale zależy jej na dobrym stosunku jakości do ceny i nie chce ich marnować na przedmioty, których nie będzie używać."
+        "Julia twierdzi, że zarabia nieźle, ale zależy jej na dobrym stosunku jakości do ceny i nie chce ich marnować na rzeczy, których nie będzie używać."
       ]
     },
     {
-      "id": "makro-7-7b99ab",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-3-074f7a",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
       "market_impact": "MEDIUM",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Gospodarka Światowa” — istotne dla ochrony realnej wartości kapitału.",
       "key_metrics": [],
-      "title": "Rumunia – Polska 2:1. Katastrofa w Bukareszcie, elita Ligi Narodów nie dla Polaków",
+      "title": "Tajemniczy Smok i jego morski brat, czyli chińskie drony stealth do walki z Tajwanem i Indiami",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:51",
+      "time": "11:00",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://sport.rp.pl/pilka-nozna/art45489201-rumunia-polska-2-1-katastrofa-w-bukareszcie-elita-ligi-narodow-nie-dla-polakow",
-      "image_url": "https://i.gremicdn.pl/image/free/e8680468d11ae42a2fb6e0f1e0cd4015/",
+      "source_url": "https://radar.rp.pl/przemysl-zbrojeniowy/art45485151-tajemniczy-smok-i-jego-morski-brat-czyli-chinskie-drony-stealth-do-walki-z-tajwanem-i-indiami",
+      "image_url": "https://i.gremicdn.pl/image/free/f9746e15a4d8a32fdbbbf9e777655912/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Reprezentacja Polski skompromitowała się w Bukareszcie.",
-        "Rumuni nie grali dobrze, ale wykorzystali fatalne błędy naszych obrońców.",
-        "Porażka 1:2 przybliża Polaków do spadku z Dywizji B."
+        "Chiny wprowadziły do służby drona stealth GJ-11, a jego morska wersja GJ-21 wykonała pierwszy start i lądowanie na okręcie desantowym Syczuan typu 076.",
+        "Zdaniem analityków to wyraźny sygnał dla Indii i Tajwanu.",
+        "GJ-11 jest chińskim bezzałogowym samolotem bojowym o obniżonej wykrywalności, przeznaczonym m.in. do uderzeń i obezwładniania obrony przeciwlotniczej (OPL)."
       ],
       "extended_paragraphs": [
-        "Reprezentacja Polski skompromitowała się w Bukareszcie. Rumuni nie grali dobrze, ale wykorzystali fatalne błędy naszych obrońców. Porażka 1:2 przybliża Polaków do spadku z Dywizji B.",
-        "Ostatnie w tym roku zgrupowanie od początku nie przebiegało spokojnie. Tradycyjnie już powracały plotki o tym, że Jan Urban gra o swoją posadę, bo, jeśli kadra nie pokona Rumunii i Szwecji, to prezes PZPN Cezary Kulesza może uznać, że misja selekcjonera zakończyła się niepowodzeniem i poszukać nowego otwarcia.",
-        "Potknięcia w dwóch listopadowych meczach oznaczałyby też koniec marzeń o awansie do Dywizji A, a nawet mogły zepchnąć nas na czwartą pozycję w tabeli i zmusić do gry w barażach o utrzymanie. Stawka była jeszcze większa niż samo miejsce w Lidze Narodów. Pierwsza lub druga pozycja w grupie dawała biało-czerwonym drugi koszyk w losowaniu grup eliminacji do Euro 2028. Niższe miejsce oznaczało spadek do trzeciego koszyka i potencjalnie dużo trudniejszą drogę na kolejny wielki turniej.",
-        "Tymczasem przed tak ważnymi meczami kłopotów Polakom nie brakowało. Przede wszystkim w Bukareszcie nie mógł wystąpić Piotr Zieliński, czyli jeden z liderów. Jego wpływ na grę polskiej kadry jest ogromny. Dość powiedzieć, że Zieliński najczęściej wykonuje groźne dryblingi i podania zagrażające bramce przeciwników – i jest pod tym względem w czołówce piłkarzy w Lidze Narodów. Sztab reprezentacji Polski do końca sugerował, że zawodnik Interu Mediolan może być gotowy, ale to była chyba tylko gra obliczona na zmylenie przeciwnika.",
-        "To nie były jedyne kłopoty Urbana i jego sztabu. W linii obrony brakowało Jana Bednarka (pauzował za żółte kartki), a z powodu urazu wypadł Przemysław Frankowski. Jeszcze gorzej wyglądała sytuacja wśród bramkarzy. Urban konsekwentnie nie powołuje Łukasza Skorupskiego, a kontuzjowani są Marcin Bułka i Kamil Grabara, którzy ostatnio wychodzili w podstawowym składzie."
-      ]
-    },
-    {
-      "id": "makro-1-74cd72",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 60%) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "60%"
-      ],
-      "title": "Stefan Szczepłek: Zobaczyliśmy reprezentację, jakiej przeciętny kibic nie zna",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "00:21",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/komentarze/art45489451-stefan-szczeplek-zobaczylismy-reprezentacje-jakiej-przecietny-kibic-nie-zna",
-      "image_url": "https://i.gremicdn.pl/image/free/d50c9ccea7bbf18b893b2e3baa564e08/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Jeśli ktoś liczy na to, że któregoś dnia Polacy wniosą się na wyżyny i pokonają Hiszpanię, to oczywiście po takim meczu jak ten z Rumunią nie będzie zadowolony.",
-        "Ale nasza reprezentacja zalicza się do przeciętnych, więc takie wyżyny są dla niej nieosiągalne.",
-        "I bardziej należy porównywać ją z Rumunią, niż z Hiszpanią, Francją czy Anglią."
-      ],
-      "extended_paragraphs": [
-        "Jeśli ktoś liczy na to, że któregoś dnia Polacy wniosą się na wyżyny i pokonają Hiszpanię, to oczywiście po takim meczu jak ten z Rumunią nie będzie zadowolony. Ale nasza reprezentacja zalicza się do przeciętnych, więc takie wyżyny są dla niej nieosiągalne. I bardziej należy porównywać ją z Rumunią, niż z Hiszpanią, Francją czy Anglią.",
-        "Niedawno w Warszawie pokonaliśmy Rumunię 6:0 , teraz przegraliśmy 1:2. Z tamtego meczu trener Gheorghe Hagi pozostawił sześciu zawodników, a Jan Urban siedmiu. Mimo to gra wyglądała zupełnie inaczej. Na Stadionie Narodowym Rumuni grali od 23. minuty w dziesiątkę. Polacy prowadzili tylko 1:0, a spotkanie było bardzo wyrównane. Worek z bramkami rozwiązał się dopiero po przerwie.",
-        "W Bukareszcie nikt czerwonej kartki nie dostał, siły po obydwu stronach były równe, gospodarze czuli się bardzo pewnie i tylko w pierwszym kwadransie pozwolili sobie narzucić styl gry Polaków. Jeśli któryś z naszych piłkarzy nie zetknął się jeszcze ze sposobem gry Rumunów, to szybko się o tym przekonał: dobra technika i bardzo dużo złośliwości. Tym razem Marcel Reguła już w pierwszych minutach odczuł korki przeciwnika na swoim kolanie.",
-        "Czytaj dalej w najniższej cenie w roku. Aż 60% rabatu na cały rok z „Rzeczpospolitą”."
-      ]
-    },
-    {
-      "id": "makro-3-479384",
-      "entity_tag": "Tesla / SpaceX",
-      "sector": "Motoryzacja & Tech",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Motoryzacja & Tech” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Po raz pierwszy w historii rakieta Starship wylądowała przechwycona przez wieżę startową",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "23:17",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/kosmos/art45489361-po-raz-pierwszy-w-historii-rakieta-starship-wyladowala-przechwycona-przez-wieze-startowa",
-      "image_url": "https://i.gremicdn.pl/image/free/cdf9953b1420befa50299eede62fc381/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Po raz pierwszy w historii rakieta Starship wylądowała przechwycona przez robotyczne ramiona wieży startowej - ogłosiła w sobotę amerykańska firma SpaceX.",
-        "Z powodu eksplozji pierwszego stopnia rakiety nie udało się zrealizować założonego celu.",
-        "Starship powrócił w sobotę na Ziemię, dokładnie w to samo miejsce, z którego 22 godziny wcześniej rozpoczął swoją podróż."
-      ],
-      "extended_paragraphs": [
-        "Po raz pierwszy w historii rakieta Starship wylądowała przechwycona przez robotyczne ramiona wieży startowej - ogłosiła w sobotę amerykańska firma SpaceX. Z powodu eksplozji pierwszego stopnia rakiety nie udało się zrealizować założonego celu.",
-        "Starship powrócił w sobotę na Ziemię, dokładnie w to samo miejsce, z którego 22 godziny wcześniej rozpoczął swoją podróż.",
-        "Z powodu eksplozji pierwszego stopnia rakiety (boostera) krótko po piątkowym starcie, firmie nie udało się zrealizować założonego celu, jakim było podwójne przechwycenie - zaznaczyła AP.",
-        "Przedstawiciele SpaceX stwierdzili, że lądowanie dowodzi pełnej możliwości wielokrotnego wykorzystania systemu Starship, który ma służyć do podróży na Księżyc i Marsa. Choć piątkowa próba odzyskania boostera zakończyła się niepowodzeniem, firma ma już na koncie trzy udane przechwycenia tego elementu, co potwierdza skuteczność przyjętej techniki - zauważyła AP.",
-        "Agencja przypomniała, że właściciel firmy, Elon Musk, planuje wysłanie floty statków Starship, aby zbudować miasto na Marsie."
+        "Chiny wprowadziły do służby drona stealth GJ-11, a jego morska wersja GJ-21 wykonała pierwszy start i lądowanie na okręcie desantowym Syczuan typu 076. Zdaniem analityków to wyraźny sygnał dla Indii i Tajwanu.",
+        "GJ-11 jest chińskim bezzałogowym samolotem bojowym o obniżonej wykrywalności, przeznaczonym m.in. do uderzeń i obezwładniania obrony przeciwlotniczej (OPL). Chińskie lotnictwo ogłosiło jego wejście do służby, pokazało współdziałanie z samolotami załogowymi i poinformowało o udanej próbie użycia uzbrojenia. Jego morski brat, GJ-21, ma realizować podobne zadania z pokładów chińskich okrętów. Według oficjalnego komunikatu wykonał już pierwszy start i lądowanie na pokładzie Syczuana, uniwersalnego okrętu desantowego typu 076. Skala wdrożenia, osiągi i poziom autonomii obu konstrukcji pozostają jednak tajemnicą.",
+        "Dron GJ-11 wywodzi się z programu demonstratora technologii Sharp Sword (Ostry Miecz). Analitycy wiążą jego rozwój z Hongdu Aviation Industry Group, należącą do koncernu AVIC. Mocno dopracowaną wersję Pekin pokazał światu 1 października 2019 r. podczas defilady w stolicy z okazji 70-lecia ChRL. Dwa lata później AVIC zaprezentował model ujawniający rozmieszczenie dwóch wewnętrznych komór uzbrojenia. Dziś maszyna nosi imię Siuanlung, czyli „Tajemniczy Smok”.",
+        "Modernizacja Sił Zbrojnych F-35 trafiają do odbiorców bez radarów. Problem istnieje Od pewnego czasu regularnie powraca temat amerykańskich F-35, które mają trafiać do odbiorców bez radarów, czyli wyposażenia kluczowego dla ich zdo...",
+        "Według Janes, wydawcy specjalistycznych analiz wojskowych, chińskie siły powietrzne ogłosiły wejście GJ-11 do służby w listopadzie 2025 r. W tym samym miesiącu lotnictwo opublikowało nagranie jego lotu razem z myśliwcem piątej generacji J-20 i samolotem walki elektronicznej J-16D. Zdjęcia satelitarne analizowane przez The War Zone, amerykański serwis poświęcony tematyce wojskowej, już wcześniej odsłaniały intensywne próby w ośrodku Malan w Sinciangu. Między sierpniem a wrześniem 2025 r. trzy maszyny pojawiły się także w Szigace w Tybecie, co wskazywało na rozszerzenie prób o działania z wysuniętej bazy."
       ]
     },
     {
@@ -1337,47 +1307,48 @@
       "lead_story": false,
       "summary_points": [
         "Skandal rzucił światło na sukces Singapuru jako centrum chipów i miejsca rzekomego nielegalnego handlu.",
-        "W czwartek Huang ustąpił z funkcji amerykańskiego giganta chipowego po tym, jak przyznał się, że miał romans.",
-        "Według doniesień był powiązany z kobietą o imieniu Alice Huang, która zarządzała singapurską firmą Megaspeed zajmującą się centrami danych, głównym nabywcą chipów Nvidii."
+        "W czwartek Huang ustąpił ze stanowiska amerykańskiego giganta chipowego po tym, jak przyznał się, że miał romans.",
+        "Według doniesień był związany z kobietą o imieniu Alice Huang, która zarządzała singapurską firmą Megaspeed zajmującą się centrami danych, głównym nabywcą chipów Nvidii."
       ],
       "extended_paragraphs": [
         "Skandal rzucił światło na sukces Singapuru jako centrum chipów i miejsca rzekomego nielegalnego handlu.",
-        "W czwartek Huang ustąpił z funkcji amerykańskiego giganta chipowego po tym, jak przyznał się, że miał romans. Według doniesień był powiązany z kobietą o imieniu Alice Huang, która zarządzała singapurską firmą Megaspeed zajmującą się centrami danych, głównym nabywcą chipów Nvidii.",
+        "W czwartek Huang ustąpił ze stanowiska amerykańskiego giganta chipowego po tym, jak przyznał się, że miał romans. Według doniesień był związany z kobietą o imieniu Alice Huang, która zarządzała singapurską firmą Megaspeed zajmującą się centrami danych, głównym nabywcą chipów Nvidii.",
         "Przez dziesięciolecia Singapur pieczołowicie pielęgnował reputację otwartej, przyjaznej biznesowi gospodarki, oferującej łatwy dostęp do rynku amerykańskiego i chińskiego.",
         "Wraz z boomem na sztuczną inteligencję stał się w ostatnich latach głównym ośrodkiem handlu wysokiej klasy chipami półprzewodnikowymi.",
-        "W ubiegłym roku Singapur był dla Nvidii drugim co do wielkości centrum rozliczeniowym na świecie, generując prawie jedną piątą zarobków amerykańskiego giganta chipowego."
+        "W zeszłym roku Singapur był dla Nvidii drugim co do wielkości centrum rozliczeniowym na świecie, generując prawie jedną piątą zarobków amerykańskiego giganta chipowego."
       ]
     },
     {
-      "id": "makro-5-aa0d98",
-      "entity_tag": "Złoto (XAU/USD)",
-      "sector": "Surowce Szlachetne",
+      "id": "makro-5-597fcb",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Surowce Szlachetne” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Złota Żaba dla Łukasza Żala. Czarno-białe kadry z „Ojczyzny” podbiły jury Camerimage",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 60%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "60%"
+      ],
+      "title": "Dobra szkoła wyposaża nas w takie cudowne bezsensowne rzeczy. To „tajemne barykady”",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "23:06",
+      "time": "10:28",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/film/art45489291-zlota-zaba-dla-lukasza-zala-czarno-biale-kadry-z-ojczyzny-podbily-jury-camerimage",
-      "image_url": "https://i.gremicdn.pl/image/free/aef3762701963735abb91a335130be00/",
+      "source_url": "https://www.rp.pl/plus-minus/art45486111-dobra-szkola-wyposaza-nas-w-takie-cudowne-bezsensowne-rzeczy-to-tajemne-barykady",
+      "image_url": "https://i.gremicdn.pl/image/free/d67a5f2561a46b74ea82f4df54f29d79/jestem-dzis-wdzieczny-za-doskonale-nieuzyteczne-szkolne-lekcje-za-te-poswiecone-zachwytowi-nad-budowa-liscia-pisze-aleksander-pawlicki",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Łukasz Żal zdobył Złotą Żabę festiwalu ToruńCamerimage za czarno-białe zdjęcia do „Ojczyzny” Pawła Pawlikowskiego.",
-        "To już jego czwarta statuetka z Torunia.",
-        "Srebro i brąz trafiły do autorów zdjęć do „Woman Unknown” i „Minotaura”, a nagrody za całokształt odebrali Maja Komorowska i Jan Englert."
+        "Słuchając porad o tym, jak reagować na dezinformację po krakowskim zamachu, pomyślałem o utworze Françoisa Couperina.",
+        "Jestem dziś wdzięczny za doskonale nieużyteczne szkolne lekcje.",
+        "Za te poświęcone zachwytowi nad budową liścia - pisze Aleksander Pawlicki Couperin nie odkrył nam znaczenia tytułu swojej klawesynowej miniatury „Les Barricades Mysterieuses”."
       ],
       "extended_paragraphs": [
-        "Łukasz Żal zdobył Złotą Żabę festiwalu ToruńCamerimage za czarno-białe zdjęcia do „Ojczyzny” Pawła Pawlikowskiego. To już jego czwarta statuetka z Torunia. Srebro i brąz trafiły do autorów zdjęć do „Woman Unknown” i „Minotaura”, a nagrody za całokształt odebrali Maja Komorowska i Jan Englert.",
-        "Operator Łukasz Żal odbiera Złotą Żabę za film „Ojczyzna” odczas gali zamknięcia 34. Międzynarodowego Festiwalu Filmowego Toruń CAMERIMAGE",
-        "Ma dwie nominacje do Oscara, trzy nominacje do brytyjskich BAFTA, polskie Orły, nagrodę festiwalu w Gdyni, wyróżnienie na prestiżowym festiwalu w Toronto. Ma też Europejską Nagrodę Filmową za zdjęcia do „Idy”, a właśnie ogłoszono, że w tym roku Europejska Akademia uhonorowała go kolejną nominacją, tym razem za zdjęcia do „Ojczyzny”. Wśród nagród Łukasza Żala są również trzy Żaby festiwalu Camerimage. Dwie złote – za „Idę” i dokument „Paparazzi” oraz srebrna za „Zimną wojnę”. Teraz do tej żabiej kolekcji doszła kolejna – znów złota – za czarno-białe zdjęcia do „Ojczyzny” – opowieści o pierwszej po wojnie podróży Thomasa Manna do podzielonych Niemiec.",
-        "– To film piękny i pełen blasku. Tak autentycznego, że widz może odnieść wrażenie, że odbył podróż w czasie – powiedział przewodniczący jury głównego, Brytyjczyk Joe Walker, laureat Oscara za montaż „Diuny”.",
-        "– Jestem bardzo szczęśliwy, że w tym głośnym, krzykliwym świecie nasz cichy film tak się pięknie przebija – powiedział na scenie Łukasz Żal, odbierając nagrodę. Wzruszony podziękował Pawłowi Pawlikowskiemu „za przyjaźń, za wszystkie rozmowy, za cały proces twórczy” i całej ekipie."
+        "Słuchając porad o tym, jak reagować na dezinformację po krakowskim zamachu, pomyślałem o utworze Françoisa Couperina.",
+        "Jestem dziś wdzięczny za doskonale nieużyteczne szkolne lekcje. Za te poświęcone zachwytowi nad budową liścia - pisze Aleksander Pawlicki",
+        "Couperin nie odkrył nam znaczenia tytułu swojej klawesynowej miniatury „Les Barricades Mysterieuses”. „Tytuły odpowiadają myślom, jakie miałem; niech mi będzie darowane zdawanie z nich sprawy…”",
+        "Czytaj dalej w najniższej cenie w roku. Aż 60% rabatu na cały rok z „Rzeczpospolitą”."
       ]
     },
     {
@@ -1391,7 +1362,7 @@
       "key_metrics": [
         "430 milionów"
       ],
-      "title": "Microsoft twierdzi, że usługi zostały w pełni przywrócone po całodniowej globalnej przerwie",
+      "title": "Microsoft twierdzi, że usługi zostały w pełni przywrócone po całodniowej globalnej awarii",
       "original_title": "Microsoft says services fully restored after day-long global outage",
       "is_foreign": true,
       "lang": "EN",
@@ -1412,6 +1383,39 @@
         "W sobotę rano firma technologiczna poinformowała, że ​​zakończono wysiłki mające na celu rozwiązanie podstawowego problemu i nie powinno to już mieć wpływu na klientów korzystających z programów Outlook, Teams i Copilot.",
         "Awaria dotknęła ponad 70 krajów, zakłócając wszystko, od działalności biznesowej po usługi rządowe i użytkowników osobistych. Ponad 430 milionów ludzi na całym świecie korzysta z dotkniętych produktów.",
         "Microsoft przeprosił za problem techniczny, który, jak stwierdził, pojawił się podczas „zwiększania przepustowości sieci” i nie był spowodowany cyberatakiem ani agentem sztucznej inteligencji."
+      ]
+    },
+    {
+      "id": "makro-7-cf003d",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 60%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "60%"
+      ],
+      "title": "Badanie: Dodatkowy czas i przerwy nie pomagają dzieciom z ADHD w nauce",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:14",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/psychologia/art45489741-badanie-dodatkowy-czas-i-przerwy-nie-pomagaja-dzieciom-z-adhd-w-nauce",
+      "image_url": "https://i.gremicdn.pl/image/free/cfdc473728038a3e15812c967d5ca186/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Dłuższy czas na wykonanie zadań, częste przerwy, możliwość pracy na stojąco i wyciszone miejsce w ławce to jedne z najczęściej stosowanych w szkołach form wsparcia uczniów z ADHD.",
+        "Nowe amerykańskie badanie wskazuje, że metody te mogą być w najlepszym razie bez znaczenia, a w najgorszym szkodliwe.",
+        "Co działa na uczniów z ADHD?"
+      ],
+      "extended_paragraphs": [
+        "Dłuższy czas na wykonanie zadań, częste przerwy, możliwość pracy na stojąco i wyciszone miejsce w ławce to jedne z najczęściej stosowanych w szkołach form wsparcia uczniów z ADHD. Nowe amerykańskie badanie wskazuje, że metody te mogą być w najlepszym razie bez znaczenia, a w najgorszym szkodliwe.",
+        "Co działa na uczniów z ADHD? Leki i terapia behawioralna, nie udogodnienia takie, jak np. częstsze przerwy",
+        "W amerykańskich szkołach uczniowie z ADHD mogą liczyć np. na wydłużenie czasu na wykonanie zadania i sprawdziany. Dzieci mogą też robić częstsze, krótkie przerwy w pracy albo siedzieć w spokojniejszym miejscu, z dala od okna, drzwi i innych „rozpraszaczy”, czasem ze słuchawkami wygłuszającymi. Inne dostosowania to np. specjalne krzesło, na którym można się ruszać, albo możliwość pracy na stojąco. Podobne rozwiązania stosuje się w Polsce. Uczeń z ADHD może dostać opinię poradni psychologiczno-pedagogicznej z zaleceniami dla szkoły, dotyczącymi np. dostosowania wymagań, metod pracy czy organizacji lekcji, a przed egzaminem ósmoklasisty czy maturą rodzice mogą starać się m.in. o wydłużenie czasu pisania.",
+        "Czytaj dalej w najniższej cenie w roku. Aż 60% rabatu na cały rok z „Rzeczpospolitą”."
       ]
     },
     {
@@ -1477,71 +1481,108 @@
         "Gdzie był zespół ds. bezpieczeństwa Nvidii? Connie Loizos 16:08 PST · 14 listopada 2026 Osoby z zewnątrz nie miały powodu, aby zauważyć, że w sierpniu wieloletni dyrektor ds. bezpieczeństwa firmy Nvidia i szef ds. bezpieczeństwa produktów ustąpił ze stanowiska. Zaledwie dwa i pół miesiąca później sam dyrektor generalny Jensen Huang opuścił firmę z powodu rosnących pytań na temat jego związków pozamałżeńskich – zaczynając od dyrektora Megaspeed, singapurskiej firmy zajmującej się centrami danych, którą amerykańscy śledczy podejrzewają o wysyłanie chipów Nvidia do Chin, a następnie rozszerzywszy się na raporty dotyczące dwóch odrębnych spraw z pracownikami Nvidii.",
         "W tamtym czasie David Reber, który spędził cztery lata jako CSO i siedem w sumie w Nvidii, powiedział, że odchodzi ze względów zdrowotnych. „To nie był taki zwrot, jaki planowałem. Ale wiem, co musi być najważniejsze: rodzina i zdrowie” – napisał pod koniec sierpnia na LinkedIn, ujawniając, że ponad dwa lata temu zdiagnozowano u niego chorobę Parkinsona o młodym początku.",
         "Zastępca Rebera, Saša Zdjelar, wcześniej przez 17 lat pracował w ExxonMobil w Houston, odchodząc jako starszy menedżer IT, a następnie spędził rok w Salesforce i kilka lat w firmie ReversingLabs zajmującej się bezpieczeństwem cybernetycznym. Zdjelar nie odpowiedział na czwartkowe pytania dotyczące przejścia ani tego, co wiedział zespół ds. bezpieczeństwa.",
-        "Nic publicznego nie łączy zmian ról Rebera lub Zdjelara ze sprawą Megaspeed, ale wydaje się rozsądne, aby zastanowić się, co zespół ds. bezpieczeństwa Nvidii wiedział na temat rządowej kontroli Megaspeed i relacji Huanga oraz czy ktoś zgłosił wątpliwości. W czwartek Reber nie odpowiedział na pytania. Nvidia również nie odpowiedziała na nasze powiązane pytania."
+        "Nic publicznego nie łączy zmian ról Rebera lub Zdjelara ze sprawą Megaspeed, ale wydaje się rozsądne, aby zastanowić się, co zespół ds. bezpieczeństwa Nvidii wiedział na temat rządowej kontroli Megaspeed i relacji Huanga oraz czy ktoś zgłosił wątpliwości. Reber nie odpowiedział na pytania w czwartek. Nvidia również nie odpowiedziała na nasze powiązane pytania."
       ]
     },
     {
-      "id": "tech-1-f91a41",
+      "id": "tech-3-91e0bb",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Na styku ogólnej teorii względności i mechaniki kwantowej. Chińscy fizycy zmierzyli przyciąganie grawitacyjne obiektów o masie 7,6 miligrama",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "09:08",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/na-styku-ogolnej-teorii-wzglednosci-i-mechaniki-kwantowej-chinscy-fizycy-zmierzyli-przyciaganie-grawitacyjne-obiektow-o-masie-76-miligrama",
+      "image_url": "https://konto.chip.pl/uploads/2026/09/materia-komputer-kwantowy.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Ostatecznym celem współczesnej fizyki fundamentalnej pozostaje zaobserwowanie oddziaływania grawitacyjnego pomiędzy obiektami znajdującymi się w stanach ściśle kwantowych, co pozwoliłoby rozstrzygnąć, czy sama grawitacja podlega prawom kwantowania.",
+        "Choć ogólna teoria względności Einsteina bezbłędnie opisuje zakrzywienie czasoprzestrzeni przez wielkie masy, a mechanika kwantowa z niebywałą precyzją operuje rachunkiem prawdopodobieństwa w mikroświecie, ich aparaty matematyczne wykluczają się wzajemnie, uniemożliwiając stworzenie spójnej teorii kwantowej grawitacji.",
+        "W najnowszej pracy opublikowanej na łamach czasopisma Nature Communications zespół fizyków pod kierunkiem prof. Shan-Qinga Yanga z Uniwersytetu Sun Jat-sena w Chinach wykazał, że klasyczne prawo powszechnego ciążenia Newtona zachowuje pełną ważność nawet na poziomie submiligramowych sił, wyznaczając stałą grawitacji G z niepewnością pomiarową wynoszącą 5,3 procent."
+      ],
+      "extended_paragraphs": [
+        "Ostatecznym celem współczesnej fizyki fundamentalnej pozostaje zaobserwowanie oddziaływania grawitacyjnego pomiędzy obiektami znajdującymi się w stanach ściśle kwantowych, co pozwoliłoby rozstrzygnąć, czy sama grawitacja podlega prawom kwantowania. Choć ogólna teoria względności Einsteina bezbłędnie opisuje zakrzywienie czasoprzestrzeni przez wielkie masy, a mechanika kwantowa z niebywałą precyzją operuje rachunkiem prawdopodobieństwa w mikroświecie, ich aparaty matematyczne wykluczają się wzajemnie, uniemożliwiając stworzenie spójnej teorii kwantowej grawitacji. […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Aby zbliżyć się do tej nieuchwytnej granicy, laboratoria na całym świecie rozwijają alternatywne metody lewitacji optycznej i magnetycznej, a także miniaturyzują klasyczne układy mechaniczne. W najnowszej pracy opublikowanej na łamach czasopisma Nature Communications zespół fizyków pod kierunkiem prof. Shan-Qinga Yanga z Uniwersytetu Sun Jat-sena w Chinach wykazał, że klasyczne prawo powszechnego ciążenia Newtona zachowuje pełną ważność nawet na poziomie submiligramowych sił, wyznaczając stałą grawitacji G z niepewnością pomiarową wynoszącą 5,3 procent.",
+        "Pomiar ten nawiązuje bezpośrednio do słynnego doświadczenia z wagą skręceń, przeprowadzonego pod koniec XVIII wieku przez angielskiego uczonego Henry’ego Cavendisha w celu wyizolowania przyciągania niewielkich ołowianych kul od przytłaczającej grawitacji Ziemi. W 2021 roku międzynarodowa grupa badaczy pobiła ówczesny rekord miniaturyzacji tego eksperymentu, mierząc oddziaływanie grawitacyjne dwóch złotych kulek o masie około 92 miligramów każda i rzucając wyzwanie środowisku naukowemu, by przesunąć tę barierę jeszcze dalej.",
+        "Zespół z Uniwersytetu Sun Jat-sena podjął to wyzwanie, wykorzystując technologię głębokiego trawienia krzemu do skonstruowania miniaturowego ramienia wagi skręceń, na którego końcu umieszczono pojedynczą krzemową płytkę testową o masie zaledwie 7,6 miligrama, zrównoważoną przeciwwagą po przeciwnej stronie.",
+        "Aby wyodrębnić skrajnie nikły sygnał z szumu sejsmicznego i termicznego, autorzy zrezygnowali z pojedynczej masy przyciągającej na rzecz obracającego się koła, na obwodzie którego rozmieszczono 16 identycznych płytek krzemowych. Koło wykonywało pełen obrót w czasie 10 minut, dzięki czemu każda z płytek mijała masę testową w regularnych odstępach, generując powtarzalny 16-krotny impuls siły na każdy cykl obrotowy."
+      ]
+    },
+    {
+      "id": "tech-5-09e80d",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) (kluczowe liczby: 4,5 miliarda) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "4,5 miliarda"
+      ],
+      "title": "Naukowcy zbadali kosmiczny pył i odkryli niezwykłe ślady na krańcach Układu Słonecznego",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:59",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/kosmiczny-pyl-slady-wody-uklad-sloneczny",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/pyl-uklad-sloneczny.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Badacze zajmujący się obrzeżami naszego układu znaleźli nowe dowody na istnienie ogromnego rezerwuaru pierwotnej wody ukryte daleko od Ziemi.",
+        "Ślady tej substancji zachowały się w mikroskopijnych ziarnach kosmicznego pyłu, które dotarły na Ziemię z okolic Pasa Kuipera, co tworzy wyjątkowo ciekawy scenariusz.",
+        "Mówimy bowiem o obszarze położonym daleko za orbitą Neptuna."
+      ],
+      "extended_paragraphs": [
+        "Badacze zajmujący się obrzeżami naszego układu znaleźli nowe dowody na istnienie ogromnego rezerwuaru pierwotnej wody ukryte daleko od Ziemi. Ślady tej substancji zachowały się w mikroskopijnych ziarnach kosmicznego pyłu, które dotarły na Ziemię z okolic Pasa Kuipera, co tworzy wyjątkowo ciekawy scenariusz. Mówimy bowiem o obszarze położonym daleko za orbitą Neptuna. Analiza zaledwie 12 takich […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Mówimy bowiem o obszarze położonym daleko za orbitą Neptuna. Analiza zaledwie 12 takich drobin pozwoliła zidentyfikować nietypowy skład izotopowy tlenu, wskazujący na istnienie odrębnego zbiornika wody, który przez miliardy lat pozostawał w dużej mierze odizolowany od materii znajdującej się bliżej Słońca.",
+        "Czytaj też: Kosmiczny świat rodem z horroru. Na tej planecie padają deszcze stopionych minerałów",
+        "Odkrycie jest istotne, ponieważ dostarcza nowych informacji o warunkach panujących podczas formowania się Układu Słonecznego około 4,5 miliarda lat temu. Badania przeprowadził zespół kierowany przez Lindsay Keller z NASA Johnson Space Center, a kulisy tych eksperymentów są dostępne w Science Advances . Zbadane próbki nie pochodziły z misji kosmicznej ani z powierzchni odległej planety. Naukowcy wykorzystali mikroskopijne cząstki pyłu międzyplanetarnego zebrane w ziemskiej stratosferze przez samoloty NASA przystosowane do badań na dużych wysokościach.",
+        "Każda z 12 analizowanych drobin miała od 10 do 30 mikrometrów średnicy. Ustalenie ich pochodzenia wymagało szczegółowego zbadania śladów pozostawionych przez wysokoenergetyczne cząstki emitowane przez Słońce. Podczas wieloletniej podróży przez przestrzeń międzyplanetarną promieniowanie stopniowo uszkadza strukturę krystaliczną minerałów. Powstają w ten sposób charakterystyczne ślady, których liczbę można wykorzystać do oszacowania czasu przebywania pyłu w przestrzeni kosmicznej."
+      ]
+    },
+    {
+      "id": "tech-1-141181",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Jedna cząstka promieniowania wystarczy, by zniszczyć elektronikę. Naukowcy wreszcie odkryli, dlaczego tak się dzieje",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) (kluczowe liczby: 10%, 15%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "10%",
+        "15%"
+      ],
+      "title": "Magura chce zmienić rowerowe hamulce. Nowa klamka daje trzy regulacje i nawet 10% więcej siły",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:58",
+      "time": "10:00",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/jak-czastka-promieniowania-niszczy-elektronike",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/promieniowanie-elektronika.jpg",
+      "source_url": "https://www.chip.pl/2026/11/magura-gustav-ultra-rowerowa-dzwignia-hamulcowa",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/magura-gustav-ultra-rowerowa-dzwignia-hamulcowa-7.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Nawet pojedyncza cząstka promieniowania może doprowadzić do całkowitego zniszczenia układu elektronicznego.",
-        "A wszystko to w ułamku sekundy!",
-        "I choć zjawisko to jest znane od lat, to wciąż stanowi poważne wyzwanie dla inżynierów projektujących elektronikę wykorzystywaną w kosmosie, reaktorach jądrowych i innych środowiskach narażonych na intensywne promieniowanie."
+        "Z hamulcem rowerowym można dojść do dość absurdalnej sytuacji.",
+        "Mamy mocny zacisk, dobre klocki i dużą tarczę, a mimo to na zjeździe nadal czegoś może brakować.",
+        "Niekoniecznie siły, bo tę często da się wykrzesać jednym palcem, ale wyczucia, kiedy hamowanie się zacznie i jak gwałtownie narasta."
       ],
       "extended_paragraphs": [
-        "Nawet pojedyncza cząstka promieniowania może doprowadzić do całkowitego zniszczenia układu elektronicznego. A wszystko to w ułamku sekundy! I choć zjawisko to jest znane od lat, to wciąż stanowi poważne wyzwanie dla inżynierów projektujących elektronikę wykorzystywaną w kosmosie, reaktorach jądrowych i innych środowiskach narażonych na intensywne promieniowanie. Naukowcy z Uniwersytetu Stanowego Karoliny Północnej opracowali jednak model, […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Jedna cząstka promieniowania wystarczy, by zniszczyć elektronikę. Naukowcy wreszcie odkryli, dlaczego tak się dzieje \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Problem dotyczy zjawiska SEB ( single-event burnout ), czyli zniszczenia urządzenia elektronicznego wskutek pojedynczego zdarzenia wywołanego przez wysokoenergetyczną cząstkę. Dochodzi do niego, gdy promieniowanie oddziałuje z półprzewodnikiem pracującym pod wysokim napięciem. W takich warunkach pojedyncza cząstka może zapoczątkować gwałtowny proces prowadzący do nieodwracalnego uszkodzenia elementu.",
-        "Czytaj też: Dyspozycyjna energia słoneczna na dachu świata. Hybrydowy kompleks w Tybecie stabilizuje sieć za pomocą stopionych soli",
-        "Mechanizm ten przez lata stanowił obiekt obserwacji podczas eksperymentów, jednak naukowcy nie dysponowali pełnym wyjaśnieniem fizycznym tego, dlaczego dochodzi do tak gwałtownej awarii. Badania zespołu ze Stanów Zjednoczonych pozwoliły odtworzyć cały proces. Co więc się dzieje? Kiedy wysokoenergetyczny jon przelatuje przez materiał półprzewodnikowy, wytwarza w nim nośniki ładunku elektrycznego. Pod wpływem przyłożonego napięcia dodatnie i ujemne ładunki zaczynają się rozdzielać. W rezultacie w bardzo niewielkim obszarze materiału powstaje silne, lokalne pole elektryczne.",
-        "Jeżeli jego natężenie przekroczy wartość krytyczną, dochodzi do tzw. przebicia lawinowego. Elektrony zaczynają gwałtownie namnażać się w materiale, uwalniając ogromną ilość energii na bardzo małej przestrzeni. Skoncentrowane wydzielanie energii prowadzi do poważnego uszkodzenia struktury półprzewodnika, a urządzenie przestaje działać. W praktyce oznacza to, że do zniszczenia elementu nie jest potrzebna długotrwała ekspozycja na promieniowanie. Wystarczy pojedyncza wysokoenergetyczna cząstka, jeśli urządzenie pracuje w odpowiednich warunkach elektrycznych."
-      ]
-    },
-    {
-      "id": "tech-3-f389c9",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Hisense UR9S ma nowy sposób na lepszy obraz. Wszystko za sprawą RGB MiniLED",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/hisense-ur9s-rgb-miniled",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/hisense-ur9s-4.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Telewizory od dawna próbują nas przekonać, że większy ekran, więcej pikseli i jeszcze wyższa jasność wystarczą, żeby zamienić nasz salon w prywatną salę kinową.",
-        "Problem w tym, że samymi liczbami zwyczajnie coraz trudniej zrobić na kimkolwiek wrażenie.",
-        "Rozdzielczość 4K stała się dziś już absolutnym standardem, a przekątne, które jeszcze niedawno wydawały się absurdalnie duże, dzisiaj […] powrót Tech Testy Moto Nauka Publicystyka To flagowy model z segmentu premium, który wykorzystuje technologię RGB MiniLED, oferującą zupełnie nowe możliwości sterowania podświetleniem."
-      ],
-      "extended_paragraphs": [
-        "Telewizory od dawna próbują nas przekonać, że większy ekran, więcej pikseli i jeszcze wyższa jasność wystarczą, żeby zamienić nasz salon w prywatną salę kinową. Problem w tym, że samymi liczbami zwyczajnie coraz trudniej zrobić na kimkolwiek wrażenie. Rozdzielczość 4K stała się dziś już absolutnym standardem, a przekątne, które jeszcze niedawno wydawały się absurdalnie duże, dzisiaj […]",
-        "powrót Tech Testy Moto Nauka Publicystyka To flagowy model z segmentu premium, który wykorzystuje technologię RGB MiniLED, oferującą zupełnie nowe możliwości sterowania podświetleniem. W 75-calowej wersji dostajemy również odświeżanie do 180 Hz, zaawansowane funkcje gamingowe i rozbudowany system audio. Największe ambicje producenta dotyczą jednak kolorów, jasności i kontrastu — warto więc przyjrzeć się temu, co właściwie zmienia RGB MiniLED i dlaczego może mieć znaczenie również dla kogoś, kto nie spędza wieczorów na analizowaniu parametrów telewizorów.",
-        "Żeby zrozumieć, na czym polega pomysł Hisense, trzeba najpierw przypomnieć sobie, jak działają klasyczne telewizory MiniLED. W dużym uproszczeniu: za matrycą LCD znajduje się rozbudowany system podświetlenia złożony z wielu niewielkich diod. Telewizor może regulować ich jasność w poszczególnych strefach, rozświetlając fragmenty obrazu, które tego wymagają, i przyciemniając pozostałe. Dzięki temu możliwe jest uzyskanie wysokiego kontrastu oraz znacznie lepszej kontroli nad światłem niż w prostszych konstrukcjach LCD.",
-        "Hisense UR9S rozwija ten pomysł, wykorzystując podświetlenie z osobnymi czerwonymi, zielonymi i niebieskimi diodami. To właśnie pełne RGB Hisense, czyli technologia RGB MiniLED. Zamiast sterować wyłącznie intensywnością światła, elektronika zyskuje również możliwość kontrolowania jego składowych kolorystycznych — nadal mamy więc do czynienia z telewizorem LCD, ale sposób zarządzania światłem staje się zdecydowanie bardziej zaawansowany.",
-        "Istotną rolę odgrywa tutaj serce telewizora w postaci procesora Hi-View AI Engine RGB, który analizuje wyświetlane treści i odpowiednio zarządza pracą podświetlenia. Jego zadaniem jest precyzyjne dopasowywanie jasności, kolorów i kontrastu do konkretnej sceny. To ważne, ponieważ nawet najbardziej zaawansowana konstrukcja ekranu potrzebuje odpowiedniego przetwarzania obrazu, żeby wykorzystać swoje możliwości."
+        "Z hamulcem rowerowym można dojść do dość absurdalnej sytuacji. Mamy mocny zacisk, dobre klocki i dużą tarczę, a mimo to na zjeździe nadal czegoś może brakować. Niekoniecznie siły, bo tę często da się wykrzesać jednym palcem, ale wyczucia, kiedy hamowanie się zacznie i jak gwałtownie narasta. Tak się składa, że niedawno przyglądałem się hamulcom Race […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Magura chce zmienić rowerowe hamulce. Nowa klamka daje trzy regulacje i nawet 10% więcej siły \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Tym razem zamiast wymieniać zacisk, przewody czy tarczę, właściciel hamulców Gustav Pro lub Gustav Elite może zmienić samą dźwignię. Nowa Gustav Ultra ma pozwolić dostroić reakcję hamulca do dłoni i terenu, a przy okazji wycisnąć z istniejącego układu nieco więcej siły.",
+        "Najważniejszą cechą Gustav Ultra jest możliwość niezależnego regulowania trzech parametrów, które decydują o zachowaniu hamulca pod palcem. Pierwszy, Reach Adjust , odpowiada za odległość klamki od kierownicy. Dzięki konstrukcji przeznaczonej do obsługi jednym palcem Ultra można dosunąć bliżej chwytu niż standardowe dźwignie Gustav Pro i Elite, co docenią zwłaszcza osoby o mniejszych dłoniach.",
+        "Czytaj też: Czym jest Pivot Pravia? Ten rower szosowy za ponad 50 tysięcy złotych dostał błotniki",
+        "Znacznie ciekawszy jest jednak Power Adjust , który zmienia mechaniczne przełożenie dźwigni, a więc relację między naciskiem palca a siłą przekazywaną do hydraulicznego układu hamulcowego. Zakres regulacji wynosi 15%, natomiast według Magury najmocniejsze ustawienie pozwala uzyskać do 10% większą siłę hamowania względem seryjnej dźwigni Gustav Pro. Pamiętajcie jednak, że nie jest to wynik niezależnego pomiaru ani obietnica skrócenia drogi hamowania o jedną dziesiątą. Zresztą z fizyką nie wygramy, bo większa siła uzyskana dzięki zmianie przełożenia wymaga kompromisu w zakresie ruchu dźwigni potrzebnego do przemieszczenia tłoka."
       ]
     },
     {
@@ -1577,38 +1618,6 @@
       ]
     },
     {
-      "id": "tech-5-1a56b5",
-      "entity_tag": "Ropa Naftowa",
-      "sector": "Surowce Energetyczne",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Ropa Naftowa (Surowce Energetyczne) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Przełomowe odkrycie u wybrzeży Ghany. Węglowodory kryją się tam w zupełnie innym typie skał",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:57",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/ghana-weglowodory-w-niespodziewanym-typie-skal",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/ghana.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Czy Ghana otworzy nowy rozdział w historii swojego przemysłu naftowego?",
-        "Na to wygląda, ponieważ podczas odwiertów prowadzonych na wodach Atlantyku udało się zidentyfikować węglowodory w skałach węglanowych, które dotychczas nie były potwierdzonym celem poszukiwawczym dla komercyjnych złóż ropy i gazu w tym kraju.",
-        "Odwiert Nya Gyidie-1X może więc znacząco poszerzyć możliwości dalszych poszukiwań surowców energetycznych […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Przełomowe odkrycie u wybrzeży Ghany."
-      ],
-      "extended_paragraphs": [
-        "Czy Ghana otworzy nowy rozdział w historii swojego przemysłu naftowego? Na to wygląda, ponieważ podczas odwiertów prowadzonych na wodach Atlantyku udało się zidentyfikować węglowodory w skałach węglanowych, które dotychczas nie były potwierdzonym celem poszukiwawczym dla komercyjnych złóż ropy i gazu w tym kraju. Odwiert Nya Gyidie-1X może więc znacząco poszerzyć możliwości dalszych poszukiwań surowców energetycznych […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Przełomowe odkrycie u wybrzeży Ghany. Węglowodory kryją się tam w zupełnie innym typie skał \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Odwiert znajduje się w obszarze Deepwater Cape Three Points (DWCTP), około 150 kilometrów od wybrzeża. Prace odbywały się na wodach o głębokości 2289 metrów, co oznacza, że całe przedsięwzięcie wymagało wykorzystania zaawansowanych technologii stosowanych podczas wierceń głębokowodnych.",
-        "Czytaj też: Dyspozycyjna energia słoneczna na dachu świata. Hybrydowy kompleks w Tybecie stabilizuje sieć za pomocą stopionych soli",
-        "Najważniejszą nowiną jest rodzaj formacji geologicznej, w której inżynierowie wykryli węglowodory. W odwiercie Nya Gyidie-1X zidentyfikowali je w skałach węglanowych na głębokości mierzonej wzdłuż otworu wiertniczego od 3364 do 3499 metrów. Dotychczas wszystkie najważniejsze komercyjne złoża ropy i gazu w Ghanie, w tym Jubilee, TEN oraz Sankofa, były związane ze skałami piaskowcowymi. Nowe odkrycie potwierdza natomiast możliwość występowania węglowodorów również w systemach skał węglanowych.",
-        "Dla geologów oznacza to pojawienie się nowego kierunku poszukiwań. Jeśli dalsze badania potwierdzą odpowiednie właściwości zbiornikowe tych skał, podobne formacje mogą stać się przedmiotem kolejnych projektów eksploracyjnych na wodach Ghany. Według przedstawicieli GNPC ( Ghana National Petroleum Corporation ) odkrycie ma szczególne znaczenie w kontekście konieczności odbudowy krajowych zasobów ropy i gazu. Ghana zmaga się bowiem z problemem spadku wydobycia z dotychczas eksploatowanych złóż. Nowe perspektywy geologiczne mogą pomóc w odwróceniu tego trendu i zwiększeniu zainteresowania zagranicznych przedsiębiorstw sektorem naftowym."
-      ]
-    },
-    {
       "id": "tech-6-ed6be2",
       "entity_tag": "Tesla / SpaceX",
       "sector": "Motoryzacja & Tech",
@@ -1641,39 +1650,39 @@
       ]
     },
     {
-      "id": "tech-7-5122c0",
-      "entity_tag": "Tesla / SpaceX",
-      "sector": "Motoryzacja & Tech",
+      "id": "tech-7-b7a205",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Starship wraca na Ziemię i wylądował w ramionach wieży!",
+      "title": "Moje ulubione akcesoria do smartfona, które czynią go po prostu lepszym",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:32",
+      "time": "07:56",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/starship-wraca-na-ziemie-i-wyladuje-w-ramionach-wiezy-oto-plan-na-dzisiejszy-wieczor",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/starship-laduje.jpg",
+      "source_url": "https://antyweb.pl/moje-ulubione-akcesoria-do-smartfona-ktore-czynia-go-po-prostu-lepszym",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/10/iphone-18-pro.jpeg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Po ponad 20 godzinach spędzonych na orbicie statek Starship jest gotowy do najważniejszego etapu swojej misji.",
-        "Starship złapany przez wieżę!",
-        "Stało się, historia napisała się na naszych oczach."
+        "Prawdopodobnie jak większość użytkowników - nie wyobrażam sobie korzystania ze smartfona bez kilku dodatkowych akcesoriów.",
+        "Staram się nie kombinować za dużo - jednak w zależności od sytuacji - mam kilka z nich po które sięgam na co dzień oraz...",
+        "kilka po których sięgam w określonych sytuacjach."
       ],
       "extended_paragraphs": [
-        "Po ponad 20 godzinach spędzonych na orbicie statek Starship jest gotowy do najważniejszego etapu swojej misji.",
-        "Sukces! Starship złapany przez wieżę! Stało się, historia napisała się na naszych oczach. Około godziny 22:20 Starship precyzyjnie wyhamował nad stanowiskiem startowym w Starbase i bezpiecznie spoczął w mechanicznych ramionach wieży. Osłona termiczna bez problemu wytrzymała ekstremalne temperatury podczas przejścia przez atmosferę, a sam manewr podejścia przebiegł z zegarmistrzowską precyzją. SpaceX właśnie udowodniło, że pełna wielokrotność użytku najpotężniejszej rakiety w dziejach przestała być wizją z prezentacji, a stała się faktem.",
-        "Zespół SpaceX potwierdził, że wszystkie systemy pokładowe działają bez zarzutu, co otwiera drogę do najbardziej widowiskowego manewru w historii współczesnej astronautyki. Zamiast wodowania w oceanie, gigantyczny statek podejmie próbę powrotu bezpośrednio na miejsce startu w kompleksie Starbase w Teksasie, gdzie mają go przechwycić mechaniczne ramiona wieży startowej.",
-        "Kluczowa faza misji rozpocznie się około godziny 21:22 polskiego czasu. Wtedy jeden silnik statku wykonają trwające zaledwie dziesięć sekund odpalenie, które zainicjuje manewr deorbitacji i skieruje pojazd w stronę ziemskiej atmosfery. Ten krótki impuls wystarczy, aby wytracić prędkość orbitalną i precyzyjnie ustawić trajektorię lotu nad Maksykiem w kierunku wybrzeża Teksasu. Około godziny 21:55 Starship wejdzie w górne warstwy atmosfery, rozpoczynając najbardziej wymagającą termicznie część powrotu. Tarcie o coraz gęstsze powietrze wygeneruje gigantyczne ilości ciepła, które musi bezpiecznie rozproszyć osłona termiczna statku. Inżynierowie SpaceX są jednak dobrej myśli, ponieważ po analizie licznych zdjęć wykonanych na orbicie stan płytek termicznych określono jako wzorowy.",
-        "Udane przechwycenie drugiego stopnia rakiety to moment, który otwiera zupełnie nowy rozdział w podboju kosmosu przez człowieka. Możliwość ponownego wykorzystania najpotężniejszego systemu nośnego w historii to fundament, na którym opierają się przyszłe loty na Księżyc oraz załogowe misje na Marsa. Dzisiejszy wieczór to doskonała okazja, aby na żywo zobaczyć technologię, która jeszcze kilka lat temu wydawała się czystą fantastyką naukową, a dzisiaj jest na wyciągnięcie ręki."
+        "Prawdopodobnie jak większość użytkowników - nie wyobrażam sobie korzystania ze smartfona bez kilku dodatkowych akcesoriów. Staram się nie kombinować za dużo - jednak w zależności od sytuacji - mam kilka z nich po które sięgam na co dzień oraz... kilka po których sięgam w określonych sytuacjach.",
+        "Kilka miesięcy temu korzystałem z dwóch różnych etui, które miały wbudowane podstawki. Jedna była obrotowa (pozwalała na pełną kontrolę nachylenia), druga: wyłącznie odchylana. Było to rozwiązanie sprytne, ale niekoniecznie dla mnie - bo na co dzień do wideorozmów korzystam przede wszystkim z tabletu. Jednak brak podstawki okazał się... dość irytujący w podróży - gdy w pociągu czy samolocie chciałem wygodnie postawić smartfon by cieszyć się multimediami, musiałem kombinować. Z pomocą przyszedł mi montowany magnetycznie pierścień, który nie zajmuje miejsca - i naprawdę fajnie wypada w praktyce.",
+        "Opcjonalnie, kiedy mam więcej miejsca w bagażu, chętnie pakuję do plecaka również specjalny, magnetyczny, uchwyt. Niby pierdółka, niby gadżet, niby nic wielkiego. W praktyce jednak uchwyt MagSafe jest dla mnie jednym z tych gadżetów, który faktycznie się przydaje. Można go zamontować na krawędzi biurka, ale też nie ma najmniejszego problemu by przyczepić go do blatu w samolocie czy pociągu. To sprzęt który pozwala nie tylko na wyjątkowo wygodne korzystanie ze smartfona - dają wiele kątów nachylenia. Sam korzystam z dość leciwego modelu i myślę, że niebawem przyjdzie czas na aktualizację o nowszy model - taki z jeszcze większym zakresem ruchów.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Smyczka na nadgarstek. Wyjątkowo sprytna Kilka miesięcy temu recenzowałem etui ze smyczyką na nadgarstek , którego zalety doceniałem - ale nie było to coś, co zachwycało mnie na co dzień. Jednak przy wszystkich długich lotach niezwykle mocno cenię sobie takie rozwiązanie. Część etui posiada specjalne otwory w których można zamontować (uniwersalne) smyczki, inne można włożyć pod etui. I właśnie z tego drugiego rodzaju korzystam - zakupiłem je w popularnej azjatyckiej sieciówce. Co w tym tak niezwykłego? Otóż jest to uchwyt, który jednocześnie jest kablem USB-C - USB-C, co w przypadku mojego używania w podróży jest prawdziwym strzałem w dziesiątkę. Bowiem coraz więcej samolotów oferuje już wbudowane gniazda USB-C. Mała rzecz, a cieszy!",
+        "Akcesoriów dla wielu nieoczywiste, ale dla mnie będące nieodłączną częścią smartfonowego doświadczenia. Wspominałem już wielokrotnie, że jak zdjęcia: to przede wszystkim aparatem fotograficznym. I to właśnie to niewielkie akcesorium, które można już dostać za kilka złotówek jest dla mnie idealnym uzupełnieniem. Waży tyle co nic, nie zajmuje miejsca: a często ratuje życie. Jasne: nowoczesne aparaty pozwalają zrobić hot spot i skopiować zdjęcia, ale... no właśnie. O ile w przypadku aparatu Fuji i pomniejszonych JPG ma to sens, o tyle w przypadku RAWów - czy to z Fuji czy Sony - trwa to wieki, jest niewygodne, a większość producentów aparatów wciąż jeszcze nie nauczyła się jak robi się porządne aplikacje, by korzystało się z tego bez problemów. Dlatego też czytnik kart SD to takie akcesorium, które po prostu działa -- i raczej się z nim nie rozstaję."
       ]
     },
     {
-      "id": "tech-8-95d271",
+      "id": "tech-8-cf1294",
       "entity_tag": "Tesla / SpaceX",
       "sector": "Motoryzacja & Tech",
       "market_impact": "LOW",
@@ -1681,8 +1690,8 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "W sobotę SpaceX zwróciło swoją rakietę Starship, ale jest pewien haczyk",
-      "original_title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "title": "Dzięki złapaniu statku kosmicznego SpaceX nadal pokazuje, że może olśnić świat",
+      "original_title": "With Starship catch, SpaceX still shows it can dazzle the world",
       "is_foreign": true,
       "lang": "EN",
       "time": "00:40",
@@ -1707,39 +1716,39 @@
   ],
   "swiat": [
     {
-      "id": "swiat-1-f21c84",
+      "id": "swiat-4-e1ebaa",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Modernizacja drutu miedzianego spowodowała zawieszenie lotów w całym kraju, twierdzi sekretarz transportu USA",
-      "original_title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "title": "Sędzia tymczasowo uniemożliwia Trumpowi zamknięcie pola golfowego w Waszyngtonie z powodu remontu",
+      "original_title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
       "is_foreign": true,
       "lang": "EN",
-      "time": "19:12",
+      "time": "03:21",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": true,
       "summary_points": [
-        "Rząd USA próbuje ustalić, czy przyczyną chaosu była „niekompetencja”, czy wadliwy sprzęt.",
-        "Podpis pod rysunkiem, Obejrzyj: Zatrzymanie naziemne w USA spowodowane problemem podczas aktualizacji przewodu miedzianego, mówi sekretarz transportu Ogólnokrajowy przystanek naziemny w USA, który spowodował tysiące odwołań lotów, był spowodowany problemem po modernizacji przewodu miedzianego, powiedział Sekretarz Transportu Sean Duffy.",
-        "Duffy powiedział na konferencji prasowej, że rząd próbuje dowiedzieć się, czy przyczyną problemu jest „niekompetencja” firmy przeprowadzającej modernizację, czy też wadliwy sprzęt."
+        "Jest to najnowsze osiągnięcie w trwającym od miesięcy wyzwaniem dla planów amerykańskiego prezydenta dotyczących East Potomac Golf Links.",
+        "Źródło zdjęcia, EPA Autor: Tabby Wilson Opublikowano 6 godzin temu Sędzia federalny tymczasowo zablokował na mocy decyzji rządu USA zamknięcie historycznego pola golfowego i parku w Waszyngtonie.",
+        "Sędzia okręgowy USA Ana Reyes nadzorowała trwające od miesięcy kwestionowanie planów prezydenta dotyczących East Potomac Golf Links, które, jego zdaniem, będzie zamknięte od 15 listopada z powodu gruntownego remontu."
       ],
       "extended_paragraphs": [
-        "Rząd USA próbuje ustalić, czy przyczyną chaosu była „niekompetencja”, czy wadliwy sprzęt.",
-        "Podpis pod rysunkiem, Obejrzyj: Zatrzymanie naziemne w USA spowodowane problemem podczas aktualizacji przewodu miedzianego, mówi sekretarz transportu",
-        "Ogólnokrajowy przystanek naziemny w USA, który spowodował tysiące odwołań lotów, był spowodowany problemem po modernizacji przewodu miedzianego, powiedział Sekretarz Transportu Sean Duffy.",
-        "Duffy powiedział na konferencji prasowej, że rząd próbuje dowiedzieć się, czy przyczyną problemu jest „niekompetencja” firmy przeprowadzającej modernizację, czy też wadliwy sprzęt.",
-        "Rząd USA nie wierzy, że stało się to w wyniku cyberataku, chociaż dochodzenie jest nadal w toku, powiedział Duffy."
+        "Jest to najnowsze osiągnięcie w trwającym od miesięcy wyzwaniem dla planów amerykańskiego prezydenta dotyczących East Potomac Golf Links.",
+        "Źródło zdjęcia, EPA Autor: Tabby Wilson Opublikowano 6 godzin temu Sędzia federalny tymczasowo zablokował na mocy decyzji rządu USA zamknięcie historycznego pola golfowego i parku w Waszyngtonie.",
+        "Sędzia okręgowy USA Ana Reyes nadzorowała trwające od miesięcy kwestionowanie planów prezydenta dotyczących East Potomac Golf Links, które, jego zdaniem, będzie zamknięte od 15 listopada z powodu gruntownego remontu.",
+        "Reyes powiedział, że Donald Trump nie może zamknąć parku ani pola golfowego, ale dodał, że jego administracja nie jest zobowiązana do aktywnego zarządzania nimi.",
+        "Trump, zapalony golfista, powiedział, że dzięki planom modernizacji 106-letniego pola powstanie „jedno z najlepszych i najbardziej spektakularnych pól golfowych na świecie”. BBC skontaktowało się z Białym Domem w celu uzyskania komentarza."
       ]
     },
     {
-      "id": "swiat-2-f96c53",
+      "id": "swiat-1-f96c53",
       "entity_tag": "USA & Bezpieczeństwo",
       "sector": "Geopolityka",
       "market_impact": "LOW",
@@ -1758,89 +1767,88 @@
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Stany Zjednoczone nie potwierdziły komentarzy ukraińskiego prezydenta – amerykański urzędnik powiedział BBC, że „nadal dyskutuje się o wielu pomysłach”.",
-        "Stany Zjednoczone nie potwierdziły komentarzy Zełenskiego, a amerykański urzędnik powiedział BBC „wiele pomysłów jest w dalszym ciągu omawianych, ale ostateczne porozumienie będzie musiało zostać uzgodnione przez obie strony”.",
-        "Wypowiedź ukraińskiego przywódcy pojawiła się po spotkaniu amerykańskich wysłanników z prezydentami Rosji Władimirem Putinem i Zełenskim w ramach amerykańskich wysiłków na rzecz zakończenia wojny między Rosją a Ukrainą."
+        "Stany Zjednoczone nie potwierdziły komentarzy ukraińskiego prezydenta - amerykański urzędnik powiedział BBC, że „nadal dyskutuje się o wielu pomysłach”.",
+        "USA nie potwierdziły komentarzy ukraińskiego prezydenta.",
+        "Urzędnik amerykański powiedział BBC „wciąż dyskutuje się o wielu pomysłach, ale ostateczna umowa będzie musiała zostać uzgodniona przez obie strony”."
       ],
       "extended_paragraphs": [
-        "Stany Zjednoczone nie potwierdziły komentarzy ukraińskiego prezydenta – amerykański urzędnik powiedział BBC, że „nadal dyskutuje się o wielu pomysłach”.",
-        "Stany Zjednoczone nie potwierdziły komentarzy Zełenskiego, a amerykański urzędnik powiedział BBC „wiele pomysłów jest w dalszym ciągu omawianych, ale ostateczne porozumienie będzie musiało zostać uzgodnione przez obie strony”.",
-        "Wypowiedź ukraińskiego przywódcy pojawiła się po spotkaniu amerykańskich wysłanników z prezydentami Rosji Władimirem Putinem i Zełenskim w ramach amerykańskich wysiłków na rzecz zakończenia wojny między Rosją a Ukrainą.",
-        "Kijów od dawna zabiegał o członkostwo w sojuszu wojskowym, ale wcześniej sprzeciwiały się temu Stany Zjednoczone i inne kraje, a Rosja stwierdziła, że ​​inny członek NATO na jej granicy jest nie do przyjęcia.",
-        "Rosja rozpoczęła inwazję na Ukrainę na pełną skalę w lutym 2022 r. Kontroluje większość regionu przemysłowego Donbasu, a Zełenski konsekwentnie powtarza, że ​​Ukraina nie chce oddać suwerennego terytorium."
+        "Stany Zjednoczone nie potwierdziły komentarzy ukraińskiego prezydenta - amerykański urzędnik powiedział BBC, że „nadal dyskutuje się o wielu pomysłach”.",
+        "USA nie potwierdziły komentarzy ukraińskiego prezydenta. Urzędnik amerykański powiedział BBC „wciąż dyskutuje się o wielu pomysłach, ale ostateczna umowa będzie musiała zostać uzgodniona przez obie strony”.",
+        "Uwagi Zełenskiego pojawiły się po spotkaniu wysłanników USA z nim i prezydentem Rosji Władimirem Putinem w ramach wysiłków USA na rzecz zakończenia wojny między obydwoma krajami.",
+        "Kijów od dawna zabiegał o członkostwo w sojuszu wojskowym, ale wcześniej sprzeciwiały się temu Stany Zjednoczone i inne kraje, a Rosja stwierdziła, że ​​obecność innego członka NATO na jej granicy jest nie do przyjęcia.",
+        "Rosja rozpoczęła inwazję na Ukrainę na pełną skalę w lutym 2022 r. i obecnie kontroluje większość przemysłowego regionu Donbasu. Zełenski konsekwentnie powtarzał, że Ukraina nie chce oddać suwerennego terytorium."
       ]
     },
     {
-      "id": "swiat-3-e85f65",
-      "entity_tag": "Meta Platforms (NASDAQ: META)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Big Tech” (Meta Platforms (NASDAQ: META)) (kluczowe liczby: 805 mln euro, 20 milionów) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "805 mln euro",
-        "20 milionów"
-      ],
-      "title": "Włochy nakładają na Meta karę w wysokości 805 mln euro za dostęp do zdjęć użytkowników",
-      "original_title": "Italy fines Meta €805m over accessing users' photos",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:28",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Gigant mediów społecznościowych oskarżany jest o niepoinformowanie 20 milionów użytkowników, że miał dostęp do ich zdjęć.",
-        "Włoski organ ochrony danych stwierdził, że Meta nie poinformowała prawidłowo około 20 milionów użytkowników smartfonów o tym, że ma dostęp do ich zdjęć i filmów za pośrednictwem aplikacji Facebook.",
-        "Dało Meta 60 dni na domyślne wyłączenie tej funkcji i osobne uzyskanie zgody użytkowników."
-      ],
-      "extended_paragraphs": [
-        "Gigant mediów społecznościowych oskarżany jest o niepoinformowanie 20 milionów użytkowników, że miał dostęp do ich zdjęć.",
-        "Włoski organ ochrony danych stwierdził, że Meta nie poinformowała prawidłowo około 20 milionów użytkowników smartfonów o tym, że ma dostęp do ich zdjęć i filmów za pośrednictwem aplikacji Facebook.",
-        "Dało Meta 60 dni na domyślne wyłączenie tej funkcji i osobne uzyskanie zgody użytkowników.",
-        "Opłata jest powiązana z funkcją podpowiadającą zdjęcia i filmy z galerii telefonu użytkownika jako pomysły na posty.",
-        "Facebook zażądał dostępu do galerii zdjęć użytkowników za pomocą jednej autoryzacji obejmującej całą aplikację. Według włoskiego organu regulacyjnego z poprzedniego zawiadomienia nie wynikało jasno, że umożliwi to także Facebookowi generowanie sugestii na podstawie zdjęć w jego galerii."
-      ]
-    },
-    {
-      "id": "swiat-4-5f3ccd",
-      "entity_tag": "Tesla / SpaceX",
-      "sector": "Motoryzacja & Tech",
+      "id": "swiat-2-f8d64b",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Motoryzacja & Tech” (Tesla / SpaceX) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "„Czy możesz w to uwierzyć?”: SpaceX łapie część rakiety Starship wracającej na Ziemię",
-      "original_title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "title": "Ulepszenie drutu miedzianego za zawieszeniem lotów w USA, mówi sekretarz transportu",
+      "original_title": "Copper wire upgrade behind US flight suspension, transport secretary says",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:09",
+      "time": "07:10",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "SpaceX dokonało historycznego połowu przy użyciu mechanicznych ramion zwanych „pałeczkami”.",
-        "„Czy możesz w to uwierzyć?”: SpaceX łapie część swojej rakiety Starship podczas powrotu na Ziemię.",
-        "Close SpaceX po raz pierwszy z powodzeniem złapał górną część swojej ogromnej rakiety Starship podczas jej powrotu na Ziemię."
+        "Rząd USA próbuje ustalić, czy przyczyną chaosu była „niekompetencja”, czy wadliwy sprzęt.",
+        "Podpis pod rysunkiem, Obejrzyj: Zatrzymanie naziemne w USA spowodowane problemem podczas aktualizacji przewodu miedzianego, mówi sekretarz transportu Sekretarz transportu powiedział, że ogólnokrajowy przystanek naziemny w USA, który spowodował tysiące odwołań lotów i chaos w podróży, był spowodowany problemem technicznym wynikającym z modernizacji przewodu miedzianego.",
+        "Sean Duffy powiedział na konferencji prasowej, że rząd próbuje ustalić, czy problem, który doprowadził w piątek kontrolerów ruchu lotniczego do zawieszenia startów na cztery godziny, wynikał z „niekompetencji” przedsiębiorstwa przeprowadzającego modernizację lub wadliwego sprzętu."
       ],
       "extended_paragraphs": [
-        "SpaceX dokonało historycznego połowu przy użyciu mechanicznych ramion zwanych „pałeczkami”.",
-        "„Czy możesz w to uwierzyć?”: SpaceX łapie część swojej rakiety Starship podczas powrotu na Ziemię. Close SpaceX po raz pierwszy z powodzeniem złapał górną część swojej ogromnej rakiety Starship podczas jej powrotu na Ziemię.",
-        "„Czy możesz w to uwierzyć?” – powiedział komentator, gdy na miejscu startu w Teksasie wiwatowały tłumy.",
-        "Firma miała nadzieję złapać zarówno dolny, jak i górny stopień rakiety za pomocą mechanicznych ramion – zwanych pałeczkami – na wieży startowej.",
-        "Jednak pierwsze wyłapanie wzmacniacza rakiety zostało przerwane kilka minut po wystrzeleniu w piątek. Wzmacniacz został skierowany do oceanu, stając w płomieniach tuż nad poziomem morza."
+        "Rząd USA próbuje ustalić, czy przyczyną chaosu była „niekompetencja”, czy wadliwy sprzęt.",
+        "Podpis pod rysunkiem, Obejrzyj: Zatrzymanie naziemne w USA spowodowane problemem podczas aktualizacji przewodu miedzianego, mówi sekretarz transportu",
+        "Sekretarz transportu powiedział, że ogólnokrajowy przystanek naziemny w USA, który spowodował tysiące odwołań lotów i chaos w podróży, był spowodowany problemem technicznym wynikającym z modernizacji przewodu miedzianego.",
+        "Sean Duffy powiedział na konferencji prasowej, że rząd próbuje ustalić, czy problem, który doprowadził w piątek kontrolerów ruchu lotniczego do zawieszenia startów na cztery godziny, wynikał z „niekompetencji” przedsiębiorstwa przeprowadzającego modernizację lub wadliwego sprzętu.",
+        "Chociaż przystanek naziemny został zniesiony w piątek wieczorem, wywarło to efekt domina na podróże lotnicze w sobotę, ponieważ linie lotnicze próbowały nadrobić zaległości w lotach."
+      ]
+    },
+    {
+      "id": "swiat-3-5c275e",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 40%) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "40%"
+      ],
+      "title": "Papież Leon podczas wizyty w odległym mieście w Andach mówi o „cierpieniu” społeczności",
+      "original_title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "09:57",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Santa Cruz de Succhabamba jest częścią diecezji Chiclayo, w której papież sprawował funkcję biskupa w latach 2015–2023.",
+        "Podpis pod rysunkiem, Obejrzyj: Ludzie wiwatują, gdy papież Leon wraca do odległego miasta w Andach, na terenie byłej diecezji Podczas wizyty w odizolowanej andyjskiej wiosce w jego byłej diecezji papież Leon XIV mówił o „cierpieniach tych, którzy są zmuszeni opuścić swoją ojczyznę w poszukiwaniu lepszej przyszłości”, które, jego zdaniem, naraziły społeczności na zagrożenie.",
+        "W Santa Cruz de Succhabamba, położonym w odległej części Andów w północnym Peru, mieszka około 6000 osób, ale według Watykanu wizyta papieża i tak przyciągnęła około 20 000 osób."
+      ],
+      "extended_paragraphs": [
+        "Santa Cruz de Succhabamba jest częścią diecezji Chiclayo, w której papież sprawował funkcję biskupa w latach 2015–2023.",
+        "Podpis pod rysunkiem, Obejrzyj: Ludzie wiwatują, gdy papież Leon wraca do odległego miasta w Andach, na terenie byłej diecezji",
+        "Podczas wizyty w odizolowanej andyjskiej wiosce w jego byłej diecezji papież Leon XIV mówił o „cierpieniach tych, którzy są zmuszeni opuścić swoją ojczyznę w poszukiwaniu lepszej przyszłości”, które, jego zdaniem, naraziły społeczności na zagrożenie.",
+        "W Santa Cruz de Succhabamba, położonym w odległej części Andów w północnym Peru, mieszka około 6000 osób, ale według Watykanu wizyta papieża i tak przyciągnęła około 20 000 osób.",
+        "Podczas Mszy św. na świeżym powietrzu Papież mówił o „spadającym wskaźniku urodzeń, który powoduje pustoszenie wiosek” i nierównym podziale zasobów ziemi."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-7-6469c8",
+      "id": "sport-5-0cb420",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1848,95 +1856,223 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Urban przemówił po klęsce w Rumunii. \"Nie ja decyduję\"",
+      "title": "\"Na litość boską\". Jest zdruzgotany tym, co pokazała kadra Urbana",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "23:42",
+      "time": "09:45",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284150/urban-przemowil-po-klesce-w-rumunii-nie-ja-decyduje",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af8da6f5bf458_96356974.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284303/na-litosc-boska-jest-zdruzgotany-tym-co-pokazala-kadra-urbana",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af97dfaa53594_55992936.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "- Czy mnie zwolnią czy nie - to nie ode mnie zależy - mówił Jan Urban po sobotnim meczu Rumunia - Polska w Lidze Narodów (2:1).",
-        "Selekcjoner nie chciał obwiniać zawodników za niepowodzenie w Bukareszcie.",
-        "14 Komentarzy - Czy mnie zwolnią czy nie - to nie ode mnie zależy - mówił Jan Urban po sobotnim meczu Rumunia - Polska w Lidze Narodów (2:1)."
+        "Mateusz Święcicki nie krył rozczarowania po porażce reprezentacji Polski z Rumunią 1:2.",
+        "Komentator Eleven Sports na kanale Meczyki ostro ocenił grę kadry Jana Urbana, wskazując na fatalne statystyki i problemy.",
+        "Padły wyjątkowo mocne słowa."
       ],
       "extended_paragraphs": [
-        "- Czy mnie zwolnią czy nie - to nie ode mnie zależy - mówił Jan Urban po sobotnim meczu Rumunia - Polska w Lidze Narodów (2:1). Selekcjoner nie chciał obwiniać zawodników za niepowodzenie w Bukareszcie.",
-        "14 Komentarzy - Czy mnie zwolnią czy nie - to nie ode mnie zależy - mówił Jan Urban po sobotnim meczu Rumunia - Polska w Lidze Narodów (2:1). Selekcjoner nie chciał obwiniać zawodników za niepowodzenie w Bukareszcie.",
-        "Rumunia 2, Polska 1. Takim wynikiem zakończył się sobotni mecz Ligi Narodów. Reprezentacja Polski straciła matematyczne szanse na awans do dywizji A. W tej chwili trzeba bronić się przed spadkiem do dywizji C. Pozytywy? Niestety brak. To był beznadziejny mecz w wykonaniu polskiego zespołu. Naród po raz kolejny zadaje sobie pytanie: czy Jan Urban powinien być dalej selekcjonerem? Nie zabrakło tego typu pytania na konferencji prasowej.",
-        "- Widzieliśmy czego się spodziewać w dzisiejszym spotkaniu: drużyna, która przegrała wszystkie wcześniejsze mecze gra przed własną publicznością i będzie miała cechy wolicjonalne na najwyższym poziomie. Straciliśmy dwie bramki, pomagając przeciwnikowi - pierwsza po rykoszecie, druga w wyniku złego zachowania naszych zawodników przy aucie, gdzie po prostu zostawiamy przeciwnika bez krycia - mówił Urban.",
-        "- Dzisiaj od samego początku mieliśmy czterech młodych zawodników. Oskar - wydaje mi się - zagrał dobre spotkanie, ale miał swoje błędy, co jest dla mnie rzeczą normalną. Kacper Potulski? Dobre spotkanie, a stawia swoje pierwsze kroki w reprezentacji. Podobnie możemy powiedzieć o Marcelu Regule - zaczyna, zostawił zdrowie na boisku. Dostał za to nagrodę, strzelił gola. A Wiktor Nowak nie zaczyna swojej przygody w reprezentacji? Oczywiście, że tak. Później jeszcze wszedł Bartosz Mazurek. Tak się poznaje zawodników, których możesz mieć do dyspozycji w przyszłości - stwierdził selekcjoner."
+        "Mateusz Święcicki nie krył rozczarowania po porażce reprezentacji Polski z Rumunią 1:2. Komentator Eleven Sports na kanale Meczyki ostro ocenił grę kadry Jana Urbana, wskazując na fatalne statystyki i problemy. Padły wyjątkowo mocne słowa.",
+        "1 Komentarz Mateusz Święcicki nie krył rozczarowania po porażce reprezentacji Polski z Rumunią 1:2. Komentator Eleven Sports na kanale Meczyki ostro ocenił grę kadry Jana Urbana, wskazując na fatalne statystyki i problemy. Padły wyjątkowo mocne słowa.",
+        "Reprezentacja Polski zawiodła w Bukareszcie. Biało-Czerwoni przegrali z Rumunią 1:2 w spotkaniu Ligi Narodów, a ich występ wywołał falę krytyki. Jednym z najbardziej stanowczych komentatorów był Mateusz Święcicki , który na kanale Meczyki nie ukrywał ogromnego rozczarowania postawą drużyny Jana Urbana.",
+        "Dziennikarz zwrócił uwagę przede wszystkim na przebieg spotkania. Polacy długo nie potrafili zagrozić bramce rywali, a w pewnym fragmencie meczu ich gra obronna wyglądała szczególnie niepokojąco. Święcicki podkreślił, że rozmiary problemów reprezentacji są znacznie większe, niż mógłby sugerować sam wynik.",
+        "- Katastrofa. Pierwszy celny strzał po godzince... Tracimy dwa gole, wcześniej bramka anulowana, możemy stracić gola na 3:0. Okno minutowe, w którym wyglądamy katastrofalnie. Bramka na 2:0 - kuriozum i dramat. Skala tej porażki jest przygniatająca - to jest koszmar. Z kim my mamy na litość boską wygrać, jak nie z Rumunią?! Jestem tym meczem zdruzgotany - powiedział komentator Eleven Sports."
       ]
     },
     {
-      "id": "sport-4-d1a55b",
+      "id": "sport-1-e3d0c4",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Prześwietlili problemy Sabalenki. Nagle padły słowa o Świątek",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:07",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1284304/przeswietlili-problemy-sabalenki-nagle-padly-slowa-o-swiatek",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af981e8e4cb65_71936283.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "\"The Athletic\" przygotował dokładną analizę sezonu w wykonaniu Aryny Sabalenki.",
+        "Autorka zauważa analogię do sytuacji również borykającej się z kryzysem Igi Świątek.",
+        "Jej zdaniem Polka ma jednak ważną przewagę nad wielką rywalką."
+      ],
+      "extended_paragraphs": [
+        "\"The Athletic\" przygotował dokładną analizę sezonu w wykonaniu Aryny Sabalenki. Autorka zauważa analogię do sytuacji również borykającej się z kryzysem Igi Świątek. Jej zdaniem Polka ma jednak ważną przewagę nad wielką rywalką.",
+        "Skomentuj \"The Athletic\" przygotował dokładną analizę sezonu w wykonaniu Aryny Sabalenki. Autorka zauważa analogię do sytuacji również borykającej się z kryzysem Igi Świątek. Jej zdaniem Polka ma jednak ważną przewagę nad wielką rywalką.",
+        "Sezon Aryny Sabalenki w głównym tourze dobiegł końca w piątek, gdy sensacyjnie przegrała z Eliną Switoliną w fazie grupowej turnieju WTA Finals. Tym samym Białorusinka zaprzepaściła szansę na awans do półfinału.",
+        "Rok 2026 nie był zbyt udany w wykonaniu Sabalenki. Co prawda wygrała trzy turnieje - rangi WTA 500 w Brisbane i tysięczniki w Indian Wells i Miami - jednak po raz pierwszy od 2022 roku nie triumfowała w żadnej imprezie wielkoszlemowej. Mało tego, po 99 tygodniach straciła też prowadzenie w rankingu. W trakcie US Open zdetronizowała ją Jelena Rybakina, która wkrótce potem pokonała też Białorusinkę w finale turnieju.",
+        "Dokładną analizę sezonu w wykonaniu Sabalenki przeprowadził \"The Athletic\". Autorka materiału, Ava Wallace, stawia ciekawą tezę i pisze o tym, że dwa ostatnie lata były dla tenisistki \"okresem niewykorzystanych szans\" na zupełne zdominowanie rywalizacji w kobiecym tenisie. Wydawało się, że Białorusinka będzie mogła zastąpić w tej roli Igę Świątek, która we wcześniejszych sezonach była niekwestionowaną dominatorką touru."
+      ]
+    },
+    {
+      "id": "sport-2-1d0f89",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "„Jedno z największych zwycięstw” – Walia ogłuszyła drużynę All Blacks i z piłkarzy, którzy nie mieli nadziei, stali się bohaterami",
-      "original_title": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+      "title": "Australijska firma Sayers „wzięła papier ścierny z pola” i odrzuca twierdzenia Cumminsa",
+      "original_title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
       "is_foreign": true,
       "lang": "EN",
-      "time": "19:33",
+      "time": "09:33",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5668/live/7585ebc0-e05c-11f1-9e26-b3b65586122f.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c61b/live/4f120640-e0c0-11f1-970d-f5d89da8a1ad.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Walia kończy 73-letnią passę z Nową Zelandią zwycięstwem okrzykniętym najlepszym w historii.",
-        "Tak były kapitan Sam Warburton opisał monumentalny wynik sobotniego meczu przeciwko Nowej Zelandii w Cardiff.",
-        "W momencie rozpoczęcia meczu All Blacks byli w rzeczywistości czołową drużyną na świecie po pełnej napięcia porażce Republiki Południowej Afryki z Francją w piątkowy wieczór."
+        "Australijski melonik Chadd Sayers twierdzi, że pomógł zabrać papier ścierny z boiska podczas meczu przed testem w Cape Town i popiera wspomnienia Usmana Khawaji dotyczące Pata Cumminsa.",
+        "Były australijski melonik Chadd Sayers twierdzi, że podczas meczu przed niesławnym testem w Cape Town pomógł zdjąć papier ścierny z ziemi i poparł wspomnienia Usmana Khawaji dotyczące Pata Cumminsa, twierdząc, że jego zdaniem „wszyscy wiedzieli” o planie manipulowania piłką.",
+        "zawodnikiem podczas drugiego testu serii 2018 przeciwko Republice Południowej Afryki w Gqeberha, wcześniej znanym jako Port Elizabeth, i poparł twierdzenie z książki Khawaji, że tam również użyto papieru ściernego."
       ],
       "extended_paragraphs": [
-        "Walia kończy 73-letnią passę z Nową Zelandią zwycięstwem okrzykniętym najlepszym w historii.",
-        "Tak były kapitan Sam Warburton opisał monumentalny wynik sobotniego meczu przeciwko Nowej Zelandii w Cardiff.",
-        "W momencie rozpoczęcia meczu All Blacks byli w rzeczywistości czołową drużyną na świecie po pełnej napięcia porażce Republiki Południowej Afryki z Francją w piątkowy wieczór.",
-        "Dlatego nikt nie dał Walii choćby promyka nadziei – nawet Warburton – a niektórzy bukmacherzy oferowali kursy 30-1 w ciągu tygodnia.",
-        "Pytanie nie o to, kiedy, ale czy Walia ponownie pokona All Blacks, nęka ich od 1953 roku."
+        "Australijski melonik Chadd Sayers twierdzi, że pomógł zabrać papier ścierny z boiska podczas meczu przed testem w Cape Town i popiera wspomnienia Usmana Khawaji dotyczące Pata Cumminsa.",
+        "Były australijski melonik Chadd Sayers twierdzi, że podczas meczu przed niesławnym testem w Cape Town pomógł zdjąć papier ścierny z ziemi i poparł wspomnienia Usmana Khawaji dotyczące Pata Cumminsa, twierdząc, że jego zdaniem „wszyscy wiedzieli” o planie manipulowania piłką.",
+        "39-letni Sayers był 12. zawodnikiem podczas drugiego testu serii 2018 przeciwko Republice Południowej Afryki w Gqeberha, wcześniej znanym jako Port Elizabeth, i poparł twierdzenie z książki Khawaji, że tam również użyto papieru ściernego.",
+        "Sayers powiedział również, że w australijskiej szatni odbyło się „60–90-minutowe” spotkanie po tym, jak Bancroft został przyłapany na używaniu papieru ściernego w Kapsztadzie, podczas którego gracze dyskutowali o wzięciu zbiorowej odpowiedzialności – coś, co twierdzi Khawaja, ale Cummins powiedział, że nie pamięta tego na swojej nadzwyczajnej konferencji prasowej w piątek.",
+        "„Czuję się komfortowo, siedząc tutaj i wierzę, że wszyscy po tej stronie wiedzieli, co się dzieje i czego używano” – powiedział Sayers, którego jedyny test był ostatnim meczem w tej serii."
       ]
     },
     {
-      "id": "sport-1-d25692",
-      "entity_tag": "Sport Światowy",
+      "id": "sport-3-a8c488",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Kolejne osłabienie reprezentacji Polski. Piłkarz opuszcza zgrupowanie",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:05",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284307/kolejne-oslabienie-reprezentacji-polski-pilkarz-opuszcza-zgrupowanie",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af983abef18e6_74613137.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Polska przegrała 1:2 z Rumunią w meczu Ligi Narodów UEFA.",
+        "Do rozegrania pozostało Biało-Czerwonym jeszcze spotkanie ze Szwecją.",
+        "W oficjalnym komunikacie przekazano, że nie zagra w nim Matty Cash."
+      ],
+      "extended_paragraphs": [
+        "Polska przegrała 1:2 z Rumunią w meczu Ligi Narodów UEFA. Do rozegrania pozostało Biało-Czerwonym jeszcze spotkanie ze Szwecją. W oficjalnym komunikacie przekazano, że nie zagra w nim Matty Cash.",
+        "Skomentuj Polska przegrała 1:2 z Rumunią w meczu Ligi Narodów UEFA. Do rozegrania pozostało Biało-Czerwonym jeszcze spotkanie ze Szwecją. W oficjalnym komunikacie przekazano, że nie zagra w nim Matty Cash.",
+        "Obrońca Aston Villi już w pierwszej połowie sobotniego starcia miał problemy zdrowotne. Ostatecznie zagrał 75 minut meczu, a następnie został zmieniony przez Arkadiusza Pyrkę.",
+        "Po zakończonym meczu Matty Cash przekazał Mateuszowi Borkowi, że nie będzie w stanie wystąpić w potyczce ze Szwecją (więcej TUTAJ ). Te złe informacje znalazły potwierdzenie w oficjalnym komunikacie.",
+        "ZOBACZ WIDEO: Kibice nie zawiedli. Tylko rozbrzmiał \"Mazurek Dąbrowskiego\" w Bukareszcie"
+      ]
+    },
+    {
+      "id": "sport-4-de16e9",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Jak skromna gwiazda Hiszpanii Simon został najlepszym bramkarzem na świecie",
+      "original_title": "How Spain's humble superstar Simon became world's best keeper",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "07:29",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Podczas gdy Hiszpania przygotowuje się do gościnia Anglii w Lidze Narodów, felietonista BBC Sport Guillem Balague opisuje drogę Unai Simona do pozycji najlepszego bramkarza na świecie.",
+        "Autor: Guillem Balague Felietonista BBC Sport Opublikowano 2 godziny temu Peter Schmeichel wręczył Unai Simonowi trofeum Yashin, a sala nagrodziła go gorącymi brawami.",
+        "Potem najlepszy bramkarz świata rozmawiał o wszystkich innych."
+      ],
+      "extended_paragraphs": [
+        "Podczas gdy Hiszpania przygotowuje się do gościnia Anglii w Lidze Narodów, felietonista BBC Sport Guillem Balague opisuje drogę Unai Simona do pozycji najlepszego bramkarza na świecie.",
+        "Autor: Guillem Balague Felietonista BBC Sport Opublikowano 2 godziny temu Peter Schmeichel wręczył Unai Simonowi trofeum Yashin, a sala nagrodziła go gorącymi brawami. Potem najlepszy bramkarz świata rozmawiał o wszystkich innych.",
+        "Szymon podziękował rodzicom i bratu. Podziękował swojej dziewczynie za bycie „oazą spokoju” i przyjaciołom z domu, którzy przypominają mu, że „wielu z nas na tej sali jest uprzywilejowanych”.",
+        "„La cuadrilla”, gang przyjaciół na całe życie, będący tradycyjną częścią kultury baskijskiej, ma własną grupę na WhatsApp i każdego lata zabiera ich na wakacje.",
+        "Podziękował trenerowi i kolegom z drużyny. Podobnie jak Simon, żaden z nich nie pojawia się regularnie na okładkach mediów."
+      ]
+    },
+    {
+      "id": "sport-6-f1cbed",
+      "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Andriejewa odjechała Sabalence. Tak wygląda ranking WTA",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "01:30",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284264/andriejewa-odjechala-sabalence-tak-wyglada-ranking-wta",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af8ff6a480ba3_42800573.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
+      "title": "Anglia jest faworytem w meczu przeciwko All Blacks, a nieustraszona Walia jest inspiracją",
+      "original_title": "England are favourites against All Blacks, and fearless Wales are an inspiration",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "08:47",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy41738nv7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png",
+      "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Mirra Andriejewa powiększyła przewagę nad Aryną Sabalenką w rankingu WTA \"na żywo\" po półfinałach WTA Finals.",
-        "Rosjanka ma już o 621 punktów więcej od Białorusinki, a w niedzielnym finale może jeszcze zwiększyć dystans.",
-        "Skomentuj Mirra Andriejewa powiększyła przewagę nad Aryną Sabalenką w rankingu WTA \"na żywo\" po półfinałach WTA Finals."
+        "W swoim najnowszym felietonie w BBC Sport zwycięzca Pucharu Świata Anglii Matt Dawson wspomina dobitne zwycięstwo drużyny Steve'a Borthwicka nad Japonią 78-15 i patrzy w przyszłość na mecz z Nową Zelandią w przyszły weekend.",
+        "Opublikowano godzinę temu W swoim najnowszym felietonie w BBC Sport zwycięzca Pucharu Świata Anglii Matt Dawson wspomina zdecydowane zwycięstwo drużyny Steve'a Borthwicka nad Japonią 78-15 i patrzy w przyszłość na mecz z Nową Zelandią w przyszły weekend.",
+        "Bardzo chciałbym zobaczyć, jak reprezentanci Anglii są dosłownie bombardowani etykietą faworytów przed spotkaniem z Nową Zelandią w przyszłym tygodniu."
       ],
       "extended_paragraphs": [
-        "Mirra Andriejewa powiększyła przewagę nad Aryną Sabalenką w rankingu WTA \"na żywo\" po półfinałach WTA Finals. Rosjanka ma już o 621 punktów więcej od Białorusinki, a w niedzielnym finale może jeszcze zwiększyć dystans.",
-        "Skomentuj Mirra Andriejewa powiększyła przewagę nad Aryną Sabalenką w rankingu WTA \"na żywo\" po półfinałach WTA Finals. Rosjanka ma już o 621 punktów więcej od Białorusinki, a w niedzielnym finale może jeszcze zwiększyć dystans.",
-        "Sobotnie półfinały w Indian Wells umocniły pozycję Mirry Andriejewej w rankingu WTA \"na żywo\". Rosjanka pokonała Jessicę Pegulę 6:3, 6:4 i powiększyła swój dorobek do 7306 punktów. Aryna Sabalenka , która zakończyła udział w turnieju w fazie grupowej, ma ich 6685. Przewaga młodszej z tenisistek wynosi więc 621 \"oczek\".",
-        "Przed rozpoczęciem WTA Finals Sabalenka zajmowała drugie miejsce z dorobkiem 6485 punktów, wyprzedzając Rosjankę o 179 \"oczek\". Ich bezpośrednie starcie Andriejewa wygrała 6:4, 6:0, a następnie pokonała Dianę Sznaider 6:2, 6:1. W sobotę 19-latka zapewniła sobie udział w finale.",
-        "Andriejewa wygrała wszystkie trzy spotkania fazy grupowej oraz półfinał, zdobywając łącznie 1000 punktów. Sabalenka uzbierała ich zaledwie 200, ponieważ odniosła tylko jedno zwycięstwo. Jeśli Rosjanka sięgnie po tytuł, otrzyma dodatkowe 500 \"oczek\", co zwiększy jej dorobek do 7806. Wówczas przewaga nad Białorusinką wyniesie aż 1121 punktów."
+        "W swoim najnowszym felietonie w BBC Sport zwycięzca Pucharu Świata Anglii Matt Dawson wspomina dobitne zwycięstwo drużyny Steve'a Borthwicka nad Japonią 78-15 i patrzy w przyszłość na mecz z Nową Zelandią w przyszły weekend.",
+        "Opublikowano godzinę temu W swoim najnowszym felietonie w BBC Sport zwycięzca Pucharu Świata Anglii Matt Dawson wspomina zdecydowane zwycięstwo drużyny Steve'a Borthwicka nad Japonią 78-15 i patrzy w przyszłość na mecz z Nową Zelandią w przyszły weekend.",
+        "Bardzo chciałbym zobaczyć, jak reprezentanci Anglii są dosłownie bombardowani etykietą faworytów przed spotkaniem z Nową Zelandią w przyszłym tygodniu.",
+        "Ostatecznie pokonanie Nowej Zelandii lub Republiki Południowej Afryki będzie prawdopodobnie wymogiem, jeśli chcesz wygrać Puchar Świata w Rugby.",
+        "Choć zwycięstwa nad Australią i Japonią napawały optymizmem, to epickie zwycięstwo Walii nad All Blacks w sobotę dało mi prawdziwą wiarę, że ta angielska drużyna jest wystarczająco dobra, aby rywalizować na najwyższym poziomie."
       ]
     },
     {
-      "id": "sport-2-1a7e64",
+      "id": "sport-7-6ccd05",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Ironiczna odpowiedź Haalanda. \"Mam wymieniać dalej?\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "09:41",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284302/ironiczna-odpowiedz-haalanda-mam-wymieniac-dalej",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af97e02a447c8_25842049.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Bardzo duże kary grożą Manchesterowi City za złamanie aż 115 przepisów regulaminu finansowego Premier League.",
+        "O sprawę zapytany został Erling Haaland, który wcześniej nie odnosił się do tematu.",
+        "Napastnik zabrał głos po zwycięstwie Norwegii nad Walią 3:1."
+      ],
+      "extended_paragraphs": [
+        "Bardzo duże kary grożą Manchesterowi City za złamanie aż 115 przepisów regulaminu finansowego Premier League. O sprawę zapytany został Erling Haaland, który wcześniej nie odnosił się do tematu.",
+        "Napastnik zabrał głos po zwycięstwie Norwegii nad Walią 3:1. Według brytyjskiego dziennika \"The Sun\", zawodnik został zapytany o postępowanie dotyczące Manchesteru City i zarzutów naruszenia regulacji finansowych.",
+        "- W 2009 r. grałem w drużynie Bryne do lat dziewięciu, w 2010 r. w zespole do lat dziesięciu, a w 2011 r. w drużynie do lat jedenastu. Mam wymieniać dalej? Nie musimy mówić o wszystkim - odpowiedział Erling Haaland , odnosząc się do okresu objętego postępowaniem.",
+        "ZOBACZ WIDEO: Kibice nie zawiedli. Tylko rozbrzmiał \"Mazurek Dąbrowskiego\" w Bukareszcie",
+        "Norweg wymienił następnie kolejne zespoły, w których występował. Wspomniał m.in. Bryne, Molde oraz ich drużyny seniorskie i młodzieżowe. Dodał, że w tamtym czasie w Manchesterze City grało także kilku Norwegów, wśród nich Abdisalam Ibrahim, Martin Samuelsen, Omar Elabdellaoui i Kjetil Haug."
+      ]
+    },
+    {
+      "id": "sport-8-f110ce",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -1944,158 +2080,27 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Test w Hiszpanii pokaże, czy Tuchel i Anglia wyciągnęli wnioski z lekcji Pucharu Świata",
-      "original_title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+      "title": "Rzeczywistość budzi się, gdy Wales odważył się marzyć",
+      "original_title": "Reality dawns after Wales dared to dream",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:22",
+      "time": "08:58",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx2xnyxl85ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e30a/live/ce179f00-e0ab-11f1-93e1-3b657b665bcf.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Mecz Anglii z mistrzami świata Hiszpanią pokaże, czy główny trener Thomas Tuchel wyciągnął wnioski z letnich rozczarowań, mówi główny pisarz piłkarski Phil McNulty.",
-        "Główny pisarz piłkarski w Madrycie Opublikowano 6 godzin temu Dowody postępu Anglii i wnioski wyciągnięte przez głównego trenera Thomasa Tuchela od czasu rozczarowania porażką z Argentyną w półfinale Pucharu Świata zostaną wystawione na najsurowszą próbę, gdy w Madrycie zmierzą się z obrońcą tytułu Hiszpanią.",
-        "Hiszpania stawia przed Anglią najcięższe zadanie, przed którym stoi passa mistrzów świata bez porażki, podczas której zdobyli największą nagrodę w sporcie, pokonując Argentynę w New Jersey latem, trwającą obecnie 43 mecze."
+        "Gdy walijscy kibice rugby obudzą się w niedzielny poranek, dotrze do nich świadomość, że Walia pokonała Nową Zelandię po raz pierwszy od 73 lat.",
+        "Po raz pierwszy od 73 lat – po 34 porażkach – do dnia 19 grudnia 1953 r. dołączył dzień 14 listopada 2026 r., który jest datą decydującą w historii walijskiego rugby.",
+        "Tysiące małych dzieci pojawi się dziś rano na treningu lub meczach rugby, napędzane przez rodziców, którzy odczuwają lekki ból głowy, mając świeżo w pamięci ten magiczny dzień."
       ],
       "extended_paragraphs": [
-        "Mecz Anglii z mistrzami świata Hiszpanią pokaże, czy główny trener Thomas Tuchel wyciągnął wnioski z letnich rozczarowań, mówi główny pisarz piłkarski Phil McNulty.",
-        "Główny pisarz piłkarski w Madrycie Opublikowano 6 godzin temu Dowody postępu Anglii i wnioski wyciągnięte przez głównego trenera Thomasa Tuchela od czasu rozczarowania porażką z Argentyną w półfinale Pucharu Świata zostaną wystawione na najsurowszą próbę, gdy w Madrycie zmierzą się z obrońcą tytułu Hiszpanią.",
-        "Hiszpania stawia przed Anglią najcięższe zadanie, przed którym stoi passa mistrzów świata bez porażki, podczas której zdobyli największą nagrodę w sporcie, pokonując Argentynę w New Jersey latem, trwającą obecnie 43 mecze.",
-        "Podopieczni Luisa de la Fuente ostatni raz przegrali – z Kolumbią – w marcu 2024 r., wygrywając 34 mecze i w międzyczasie remisując 9, a w międzyczasie zostali także mistrzami Europy, pokonując Anglię w finale Euro 2024 w Berlinie.",
-        "Nic więc dziwnego, że kapitan reprezentacji Anglii i zdobywca Złotej Piłki Harry Kane opisuje niedzielną wizytę na stadionie Metropolitano jako: „Doskonałą okazję, aby spróbować się wykazać”."
-      ]
-    },
-    {
-      "id": "sport-3-37d118",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 48 proc., 82 proc.) o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [
-        "48 proc.",
-        "82 proc."
-      ],
-      "title": "25 bramek różnicy. Orlen Wisła Płock zdemolowała rywala",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "00:46",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-reczna/1284265/25-bramek-roznicy-orlen-wisla-plock-zdemolowala-rywala",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af900056a2d53_53957887.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Orlen Wisła Płock rozbiła Piotrkowianina Piotrków Trybunalski 40:15 w 9.",
-        "Gospodarze zaczęli od prowadzenia 6:0, a w końcówce zdobyli 11 bramek z rzędu.",
-        "W ich szeregach wyróżnił się też 17-letni debiutant."
-      ],
-      "extended_paragraphs": [
-        "Orlen Wisła Płock rozbiła Piotrkowianina Piotrków Trybunalski 40:15 w 9. serii Lotto Superligi. Gospodarze zaczęli od prowadzenia 6:0, a w końcówce zdobyli 11 bramek z rzędu. W ich szeregach wyróżnił się też 17-letni debiutant.",
-        "Skomentuj Orlen Wisła Płock rozbiła Piotrkowianina Piotrków Trybunalski 40:15 w 9. serii Lotto Superligi. Gospodarze zaczęli od prowadzenia 6:0, a w końcówce zdobyli 11 bramek z rzędu. W ich szeregach wyróżnił się też 17-letni debiutant.",
-        "Przed sobotnim spotkaniem Orlen Wisła Płock miała komplet ośmiu zwycięstw w Lotto Superlidze. Piotrkowianin Piotrków Trybunalski pozostawał natomiast jedyną drużyną bez punktów. Podopieczni Xaviego Sabate byli zdecydowanymi faworytami i od pierwszych minut potwierdzali swoją wyższość. Goście nie potrafili znaleźć sposobu na dobrze zorganizowaną defensywę gospodarzy.",
-        "Wynik już w pierwszej minucie otworzył Dawid Dawydzik. Nafciarze szybko odskoczyli na 6:0, a trener gości Ivo Vavra poprosił o przerwę. Piotrkowianin odpowiedział dopiero po dziewięciu minutach i 50 sekundach za sprawą Adriana Trójniaka. Po 20 minutach Płocczanie prowadzili 11:5, a do szatni schodzili przy wyniku 18:9.",
-        "Po przerwie Wisła systematycznie powiększała przewagę. W 38. minucie prowadziła 25:10, a w 50. już 33:14. Od stanu 29:14 gospodarze zdobyli 11 bramek z rzędu, zwiększając prowadzenie do 40:14. Dopiero trzy sekundy przed końcem Trójniak przerwał tę serię i ustalił rezultat."
-      ]
-    },
-    {
-      "id": "sport-5-249d49",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Switolina kontra Andriejewa. Jest godzina finału WTA Finals",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "00:23",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284263/switolina-kontra-andriejewa-jest-godzina-finalu-wta-finals",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af82a4479cc00_52146053.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Elina Switolina i Mirra Andriejewa powalczą w niedzielę (15 listopada) o tytuł w prestiżowym turnieju WTA Finals 2026.",
-        "Ukrainka i Rosjanka wyjdą na kort w Indian Wells o godz. 21:00 czasu polskiego.",
-        "Skomentuj Elina Switolina i Mirra Andriejewa powalczą w niedzielę (15 listopada) o tytuł w prestiżowym turnieju WTA Finals 2026."
-      ],
-      "extended_paragraphs": [
-        "Elina Switolina i Mirra Andriejewa powalczą w niedzielę (15 listopada) o tytuł w prestiżowym turnieju WTA Finals 2026. Ukrainka i Rosjanka wyjdą na kort w Indian Wells o godz. 21:00 czasu polskiego.",
-        "Skomentuj Elina Switolina i Mirra Andriejewa powalczą w niedzielę (15 listopada) o tytuł w prestiżowym turnieju WTA Finals 2026. Ukrainka i Rosjanka wyjdą na kort w Indian Wells o godz. 21:00 czasu polskiego.",
-        "Z ośmiu tenisistek pozostały już tylko dwie. Do finału Turnieju Mistrzyń dotarły rozstawiona z trzecim numerem Rosjanka Mirra Andriejewa (bilans gier 4-0) i oznaczona \"szóstką\" Ukrainka Elina Switolina (bilans gier 3-1).",
-        "Organizatorzy WTA Finals 2026 już wcześniej poinformowali, że finał singla odbędzie się w niedzielę (15 listopada). Andriejewa i Switolina wyjdą na kort w Indian Wells o godz. 21:00 czasu polskiego .",
-        "Co ciekawe, będzie to rewanż za spotkanie w fazie grupowej . Wówczas Rosjanka pokonała Ukrainkę 6:4, 6:0. Ostatecznie obie tenisistki awansowały do półfinału z grupy 2."
-      ]
-    },
-    {
-      "id": "sport-6-e04117",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Powracający dzieciak Joseph jest podekscytowany, gdy Anglia przygląda się drużynie All Blacks",
-      "original_title": "Comeback kid Joseph thrills as England eye All Blacks",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:06",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq0l3pn5z20xo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/db18/live/8214b140-e06c-11f1-99e6-531f8829f5a3.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Warto było czekać na powrót Willa Josepha po czterech latach nieobecności na scenie Test.",
-        "A gdzie indziej było mnóstwo powodów do podtrzymania Anglii w porażce Japonii.",
-        "Podpis pod rysunkiem, Najważniejsze momenty: Joseph zdobywa pięć przyłożeń, a Anglia cieszy się ogromnym zwycięstwem nad Japonią Reporter wiadomości o związku rugby BBC Sport Opublikowano 5 godzin temu Eddie Jones wyemitował skargę dotyczącą doświadczeń Twickenhama na stadionie, kiedy pojawił się w tym tygodniu w BBC Radio 5 Live."
-      ],
-      "extended_paragraphs": [
-        "Warto było czekać na powrót Willa Josepha po czterech latach nieobecności na scenie Test. A gdzie indziej było mnóstwo powodów do podtrzymania Anglii w porażce Japonii.",
-        "Podpis pod rysunkiem, Najważniejsze momenty: Joseph zdobywa pięć przyłożeń, a Anglia cieszy się ogromnym zwycięstwem nad Japonią",
-        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 5 godzin temu Eddie Jones wyemitował skargę dotyczącą doświadczeń Twickenhama na stadionie, kiedy pojawił się w tym tygodniu w BBC Radio 5 Live.",
-        "„Bycie widzem i słuchanie, kiedy należy hałasować, jest trochę zabawne” – powiedział japoński szef, sprzeciwiając się wyświetlanej na dużym ekranie prośbie o zwiększenie głośności.",
-        "Jones siedział z kamienną twarzą na stanowisku trenerskim, gdy wiadomość pojawiła się ponownie w sobotnim meczu, w którym jego zespół pokonał Anglię 78-15."
-      ]
-    },
-    {
-      "id": "sport-8-aaa39f",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Fidżi „wyświadczyło Irlandii przysługę” przed meczem z Republiką Południowej Afryki",
-      "original_title": "Fiji 'did Ireland a favour' before South Africa game",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "00:29",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e85d7mm0myo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bdda/live/ffe90a40-e089-11f1-87c6-ab9cb7f2aab2.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Były główny trener Republiki Południowej Afryki Jake White mówi, że jego drużyna z Fidżi „wyświadczyła Irlandii przysługę” w sobotnim meczu o Mistrzostwo Narodów, zanim w przyszłym tygodniu zmierzy się ze Springboksem w Dublinie.",
-        "Fidżi przegrało z Irlandią 43-15 na stadionie Aviva po frustracji drużyny Andy'ego Farrella w zaciętej pierwszej połowie.",
-        "Podczas gdy Irlandia zdobyła 26 punktów bez odpowiedzi w drugiej połowie, White – który poprowadził RPA do zwycięstwa w Pucharze Świata w 2007 roku – powiedział, że zespół Andy’ego Farrella nie może sobie pozwolić na podobnie powolne okresy przeciwko kolejnym mistrzom świata."
-      ],
-      "extended_paragraphs": [
-        "Były główny trener Republiki Południowej Afryki Jake White mówi, że jego drużyna z Fidżi „wyświadczyła Irlandii przysługę” w sobotnim meczu o Mistrzostwo Narodów, zanim w przyszłym tygodniu zmierzy się ze Springboksem w Dublinie.",
-        "Fidżi przegrało z Irlandią 43-15 na stadionie Aviva po frustracji drużyny Andy'ego Farrella w zaciętej pierwszej połowie.",
-        "Podczas gdy Irlandia zdobyła 26 punktów bez odpowiedzi w drugiej połowie, White – który poprowadził RPA do zwycięstwa w Pucharze Świata w 2007 roku – powiedział, że zespół Andy’ego Farrella nie może sobie pozwolić na podobnie powolne okresy przeciwko kolejnym mistrzom świata.",
-        "„Pozwolę sobie to ująć w ten sposób, ponieważ myślę, że Irlandia w głębi duszy wie, że jeśli zagra w taki sposób przeciwko Republice Południowej Afryki, będzie przeciwko niej”.",
-        "Opublikowano 4 godziny temu White, który w zeszłym miesiącu został mianowany trenerem Fidżi, był sfrustrowany faktem, że jego zespół zdecydował się przyjąć karę z kranu zamiast scruma, gdy gra była wyrównana w drugiej połowie."
+        "Gdy walijscy kibice rugby obudzą się w niedzielny poranek, dotrze do nich świadomość, że Walia pokonała Nową Zelandię po raz pierwszy od 73 lat.",
+        "Po raz pierwszy od 73 lat – po 34 porażkach – do dnia 19 grudnia 1953 r. dołączył dzień 14 listopada 2026 r., który jest datą decydującą w historii walijskiego rugby.",
+        "Tysiące małych dzieci pojawi się dziś rano na treningu lub meczach rugby, napędzane przez rodziców, którzy odczuwają lekki ból głowy, mając świeżo w pamięci ten magiczny dzień.",
+        "Bohaterowie Steve’a Tandy’ego zawsze będą mieli ten moment, a inspirujący kapitan Dewi Lake i zawodnik meczu James Botham ronią łzy.",
+        "Wynik ten wstrząsnął całą Walią, ale także całym sportowym światem."
       ]
     }
   ],
@@ -2240,38 +2245,38 @@
       ]
     },
     {
-      "id": "rynki-8-2e3da6",
-      "entity_tag": "NBP / RPP",
-      "sector": "Polityka Pieniężna",
+      "id": "rynki-8-a23ff4",
+      "entity_tag": "Fed (USA)",
+      "sector": "Banki Centralne",
       "market_impact": "HIGH",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe (kluczowe liczby: 70 tys. dolarów, 3,5%).",
+      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe (kluczowe liczby: 0,5 proc. m/m, 1,1 proc.).",
       "key_metrics": [
-        "70 tys. dolarów",
-        "3,5%"
+        "0,5 proc. m/m",
+        "1,1 proc."
       ],
-      "title": "Gospodarka hamuje, upadek szefa Nvidii, a cena Drwala zamrożona",
+      "title": "Za chwilę Nvidia ujawni swoje tajemnice, a Fed kulisy swojej decyzji. W planie także polski przemysł i inflacja",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "06:00",
+      "time": "11:38",
       "source": "Bankier Rynki",
-      "source_url": "https://www.bankier.pl/wiadomosc/Gospodarka-hamuje-upadek-szefa-Nvidii-a-cena-Drwala-zamrozona-Tydzien-na-wykresach-9228305.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "image_url": "https://galeria.bankier.pl/p/3/c/81b9228b8157a7-948-568-276-10-3819-2291.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Kalendarz-ekonomiczny-16-22-11-2026-Nvidia-KGHM-i-PZU-pokaza-wyniki-W-planie-takze-Warsh-polski-przemysl-i-inflacja-9228369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "image_url": "https://galeria.bankier.pl/p/6/e/d04d5376016882-948-568-0-95-3456-2073.jpg",
       "image_source": "Fot. / Źródło: Bankier Rynki",
       "lead_story": false,
       "summary_points": [
-        "Cześć, tu Inwestor Wojtek.",
-        "Polska gospodarka nieco zdejmuje nogę z gazu, inflacja spada do 3,5%, a Burger Drwala niespodziewanie trzyma cenę z poprzedniego sezonu.",
-        "W tym samym czasie za oceanem Fed szykuje kolejną podwyżkę stóp, miedź drożeje na fali boomu na centra danych, a na polskim rynku nieruchomości deweloperzy notują najlepszy miesiąc w tym roku."
+        "Nadchodzący tydzień na rynkach finansowych zapowiada się wyjątkowo gorąco zarówno za oceanem, jak i na warszawskim parkiecie.",
+        "Inwestorzy z całego świata będą w napięciu wyczekiwać raportu kwartalnego Nvidii, która mierzy się z kryzysem wizerunkowym po głośnym odejściu Jensena Huanga.",
+        "Na krajowym podwórku uwagę przyciągną odczyty inflacji bazowej NBP, październikowe dane o produkcji przemysłowej oraz prawdziwy wysyp raportów wynikowych spółek z GPW i NewConnect."
       ],
       "extended_paragraphs": [
-        "Cześć, tu Inwestor Wojtek. Polska gospodarka nieco zdejmuje nogę z gazu, inflacja spada do 3,5%, a Burger Drwala niespodziewanie trzyma cenę z poprzedniego sezonu. W tym samym czasie za oceanem Fed szykuje kolejną podwyżkę stóp, miedź drożeje na fali boomu na centra danych, a na polskim rynku nieruchomości deweloperzy notują najlepszy miesiąc w tym roku. Jak co tydzień, zebrałem dla Was najważniejsze wykresy mijającego tygodnia.",
-        "fot. AI Generator / / Shutterstock Hamowanie polskiej gospodarki w trzecim kwartale. Tempo jednak wciąż wysokie Gospodarka w Polsce zwalnia wynika z najnowszych danych Głównego Urzędu Statystycznego, choć ciągle ma się dobrze i jest na dobrej drodze do spełnienia całorocznych prognoz wzrostu na poziomie co najmniej 3,5 proc. Dane mają charakter wstępny i jeszcze mogą ulec rewizji.",
-        "Upadek szefa Nvidii. Romanse i Chiny zatopiły króla AI, a rynek pyta: co dalej? Nvidia traci swojego architekta. W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie. Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki. Kryzys w Nvidii może nieść poważne konsekwencje dla całej branży AI oraz administracji Donalda Trumpa.",
-        "Bankier.pl Inflacja CPI w USA zwalnia, ale nie aż tak jak prognozowano. Chaos sprzed roku odbił się na statystyce danych Październikowa inflacja CPI w USA była wyższa, niż oczekiwano wynika z komunikatu rządowego Biura Statystyki Pracy. Z uwagi na zeszłoroczny paraliż rządu federalnego biuro opublikowało tylko dane w ujęciu miesięcznym. Nie mniej pokazane statystyki wskakują, że Fed raczej nie ma innego wyjścia jak po raz drugi w tym roku podnieść stopy procentowe. Tego z resztą oczekuje rynek.",
-        "Bitcoin najniżej od sierpnia. Kurs spada poniżej 70 tys. dolarów Bitcoin spadł poniżej psychologicznej bariery 70 tys. dolarów, osiągając najniższy poziom notowań od sierpnia. Wyprzedaż na rynku kryptowalut napędziły odpływy kapitału z amerykańskich funduszy ETF, które w ujęciu od początku roku znalazły się na ponad 1,5-miliardowym minusie. Nie bez znaczenia dla cyfrowych aktywów pozostaje również umacniający się dolar."
+        "Nadchodzący tydzień na rynkach finansowych zapowiada się wyjątkowo gorąco zarówno za oceanem, jak i na warszawskim parkiecie. Inwestorzy z całego świata będą w napięciu wyczekiwać raportu kwartalnego Nvidii, która mierzy się z kryzysem wizerunkowym po głośnym odejściu Jensena Huanga. Na krajowym podwórku uwagę przyciągną odczyty inflacji bazowej NBP, październikowe dane o produkcji przemysłowej oraz prawdziwy wysyp raportów wynikowych spółek z GPW i NewConnect.",
+        "fot. Muhammad Alimaki / / Shutterstock Poniedziałek, 16 listopada Nowy tydzień na rynkach rozpoczniemy w Azji. Już o godz. 00:50 poznamy wstępne wyliczenia japońskiego PKB za III kwartał. O godz. 02:30 i 03:00 napłynie natomiast pakiet październikowych danych z Chin obejmujący ceny nieruchomości, sprzedaż detaliczną, produkcję przemysłową oraz inwestycje w aglomeracjach miejskich. Nad ranem (05:30) poznamy jeszcze finalne wrześniowe dane o produkcji przemysłowej w Japonii.",
+        "W Europie dzień rozpoczniemy od sygnału z naszego regionu – o godz. 09:00 opublikowana zostanie październikowa inflacja producencka (PPI) w Czechach. O godz. 11:00 Eurostat przedstawi wrześniowe dane o produkcji przemysłowej w strefie euro – europejski przemysł wciąż zmaga się ze słabym popytem, co potwierdził poprzedni odczyt pokazujący spadek o 0,5 proc. m/m oraz o 1,1 proc. w ujęciu rocznym.",
+        "O godz. 14:00 oczy krajowych inwestorów zwrócą się na Narodowy Bank Polski, który opublikuje październikowe miary inflacji bazowej (obok głównego wskaźnika bez cen żywności i energii poznamy także 15-procentową średnią obciętą oraz wskaźniki po wyłączeniu cen najbardziej zmiennych i administrowanych).",
+        "Po południu przeniesiemy się do USA, gdzie o godz. 14:30 poznamy listopadowy indeks aktywności wytwórczej NY Empire State. Znacznie ważniejsze mogą być jednak popołudniowe wystąpienia bankierów centralnych: szefa nowojorskiego oddziału Fed Johna Williamsa (15:05) oraz samego prezesa Rezerwy Federalnej Kevina Warsha (18:00), w których inwestorzy będą szukać wskazówek co do dalszej ścieżki stóp procentowych za oceanem."
       ]
     },
     {
@@ -2335,7 +2340,7 @@
       "extended_paragraphs": [
         "Rezygnacja Jensena Huanga ze stanowiska dyrektora generalnego Nvidii spowodowała ponowne przyjrzenie się sekretarzowi handlu Howardowi Lutnickowi i powiązaniom finansowym jego rodziny z producentem chipów.",
         "Jak wynika z raportu badawczego Cantor zweryfikowanego przez CNBC, pod koniec września Cantor Fitzgerald gościł dyrektora generalnego Nvidii, Jensena Huanga i innych członków kadry kierowniczej tego producenta chipów na spotkaniach z inwestorami w Nowym Jorku.",
-        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z dnia 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
+        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
         "Jednak firma, wcześniej prowadzona przez Sekretarza Handlu Howarda Lutnicka, a obecnie kierowana przez jego synów, Brandona i Kyle’a, odnotowała prawie 50% spadek liczby akcji Nvidii posiadanych w okresie od września 2025 r. do marca 2026 r., wynika z analizy CNBC dokumentów dotyczących papierów wartościowych, z wyłączeniem opcji. Nvidia była jedną z największych pozycji na akcjach zgłoszonych w dokumentach Cantora.",
         "Spadek zbiegł się w czasie z naciskami Białego Domu i wywiadu USA na Lutnicka, aby rozprawił się z Megaspeed, singapurską firmą podejrzaną o wysyłanie zaawansowanych chipów sztucznej inteligencji Nvidii do Chin. Jak poinformowała 11 listopada Axios, Lutnick wielokrotnie stawiał opór tym wysiłkom."
       ]
@@ -2351,7 +2356,7 @@
       "key_metrics": [
         "4,6 miliona dolarów"
       ],
-      "title": "Wspierany przez Erica Trumpa start-up-robot-żołnierz nie może płacić pracownikom po tym, jak założyciel pożyczył od firmy 4,6 miliona dolarów na zakup domu",
+      "title": "Wspierany przez Erica Trumpa startup-robot-żołnierz nie może płacić pracownikom po tym, jak założyciel pożyczył od firmy 4,6 miliona dolarów na zakup domu",
       "original_title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
       "is_foreign": true,
       "lang": "EN",
@@ -2363,12 +2368,12 @@
       "lead_story": false,
       "summary_points": [
         "Wspierany przez Erica Trumpa start-up zajmujący się robotami Foundation Future Industries boryka się z brakami w gotówce i zaległymi płacami, ponieważ dyrektor generalny Sankaet Pathak staje pod lupą w związku z pożyczką firmową o wartości 4,6 miliona dolarów.",
-        "Według osób mających bezpośrednią wiedzę w tej sprawie Foundation Future Industries, producent wojskowych robotów humanoidalnych, któremu doradzał i wspierał Eric Trump, nie wypłacił pracownikom wynagrodzeń w zeszłym miesiącu ze względu na wyczerpanie się jej rezerw gotówkowych.",
+        "Według osób posiadających bezpośrednią wiedzę w tej sprawie Foundation Future Industries, producent wojskowych robotów humanoidalnych, któremu doradzał i wspierał Eric Trump, nie wypłacił pracownikom wynagrodzeń w zeszłym miesiącu ze względu na wyczerpanie się jej rezerw gotówkowych.",
         "Pracownicy nie otrzymali jeszcze wypłat po tym, jak Fundacja z siedzibą w San Francisco nie przekazała wynagrodzeń 30 października, twierdzą osoby, które prosiły o anonimowość, aby szczerze wypowiadać się na temat prywatnej firmy."
       ],
       "extended_paragraphs": [
         "Wspierany przez Erica Trumpa start-up zajmujący się robotami Foundation Future Industries boryka się z brakami w gotówce i zaległymi płacami, ponieważ dyrektor generalny Sankaet Pathak staje pod lupą w związku z pożyczką firmową o wartości 4,6 miliona dolarów.",
-        "Według osób mających bezpośrednią wiedzę w tej sprawie Foundation Future Industries, producent wojskowych robotów humanoidalnych, któremu doradzał i wspierał Eric Trump, nie wypłacił pracownikom wynagrodzeń w zeszłym miesiącu ze względu na wyczerpanie się jej rezerw gotówkowych.",
+        "Według osób posiadających bezpośrednią wiedzę w tej sprawie Foundation Future Industries, producent wojskowych robotów humanoidalnych, któremu doradzał i wspierał Eric Trump, nie wypłacił pracownikom wynagrodzeń w zeszłym miesiącu ze względu na wyczerpanie się jej rezerw gotówkowych.",
         "Pracownicy nie otrzymali jeszcze wypłat po tym, jak Fundacja z siedzibą w San Francisco nie przekazała wynagrodzeń 30 października, twierdzą osoby, które prosiły o anonimowość, aby szczerze wypowiadać się na temat prywatnej firmy.",
         "Sytuacja szczególnie rozgniewała część członków startupu, ponieważ jego dyrektor generalny i współzałożyciel, Sankaet Pathak, pożyczył od firmy w zeszłym roku 4,6 miliona dolarów na zakup luksusowego domu. Pieniądze te można było przeznaczyć na opłacenie pracowników – twierdzą ludzie.",
         "Z publicznych rejestrów wynika, że spółka LLC, której jedynym dyrektorem jest Pathak, zakupiła w październiku 2025 r. nieruchomość w Sausalito w Kalifornii o wartości 4,6 miliona dolarów z „rozległymi, kinowymi widokami” na Zatokę San Francisco."

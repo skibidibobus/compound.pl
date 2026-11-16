@@ -3,7 +3,7 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.320",
-    "last_updated": "2026-11-16 01:28",
+    "last_updated": "2026-11-16 08:19",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
     "foreign_translated_count": 19,
@@ -73,24 +73,24 @@
       "symbol": "ZŁOTO (g)",
       "name": "Złoto NBP (PLN/g)",
       "group": "commodities",
-      "price": "503.01 zł",
-      "change": "-2.09%",
+      "price": "499.82 zł",
+      "change": "-0.63%",
       "is_positive": false
     },
     {
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$64,717",
-      "change": "+3.43%",
+      "price": "$64,667",
+      "change": "+1.25%",
       "is_positive": true
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,808",
-      "change": "+4.75%",
+      "price": "$1,810",
+      "change": "+1.83%",
       "is_positive": true
     },
     {
@@ -910,142 +910,67 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-767a18",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
+      "id": "rynki-1-37e06b",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 2,64 mld zł, 2,22 mld zł, 0,44 proc.) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "2,64 mld zł",
-        "2,22 mld zł",
-        "0,44 proc."
-      ],
-      "title": "Rekord hossy ale bez fajerwerków. KGHM i Orlen znów najmocniej ciążą WIG20",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Nvidia może przywrócić Jensena Huanga? Dolina Krzemowa lobbuje, Waszyngton stawia ultimatum",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:10",
+      "time": "08:10",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Rekord-hossy-ale-bez-fajerwerkow-KGHM-i-Orlen-znow-najmocniej-ciaza-WIG20-9228614.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/0/62d855390f6cf3-945-560-540-540-3960-2375.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-moze-przywrocic-Jensena-Huanga-Dolina-Krzemowa-lobbuje-Waszyngton-stawia-ultimatum-9229161.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/c/5/94b25846b982db-948-568-0-6-2468-1480.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Piątkowa sesja na Giełdzie Papierów Wartościowych w przyniosła nowe rekordy hossy.",
-        "Choć za oceanem nastroje psuła wyprzedaż spółek technologicznych wywołana trzęsieniem ziemi w Nvidii oraz wysokim odczytem inflacji producenckiej, indeksy WIG i WIG20 ustanowiły w trakcie dnia nowe historyczne szczyty.",
-        "Wzrostom przy Książęcej przewodził sektor handlowy na czele z Allegro, który skutecznie zrównoważył słabszą postawę banków, Orlenu oraz surowcowego KGHM-u."
+        "Nvidia może stanąć przed próbą przywrócenia założyciela na fotel prezesa - według \"Financial Times\" Jensen Huang rozmawiał z sojusznikami w Dolinie Krzemowej o powrocie do spółki zaledwie kilka dni po dymisji.",
+        "Planom może jednak przeszkodzić Waszyngton.",
+        "Sekretarz skarbu Scott Bessent wezwał do gruntownej przebudowy władz koncernu i dał mu 10 dni na wyjaśnienie sprawy omijania zakazów eksportowych do Chin."
       ],
       "extended_paragraphs": [
-        "Piątkowa sesja na Giełdzie Papierów Wartościowych w przyniosła nowe rekordy hossy. Choć za oceanem nastroje psuła wyprzedaż spółek technologicznych wywołana trzęsieniem ziemi w Nvidii oraz wysokim odczytem inflacji producenckiej, indeksy WIG i WIG20 ustanowiły w trakcie dnia nowe historyczne szczyty. Wzrostom przy Książęcej przewodził sektor handlowy na czele z Allegro, który skutecznie zrównoważył słabszą postawę banków, Orlenu oraz surowcowego KGHM-u.",
-        "fot. Tomasz Ras / / Puls Biznesu Na zamknięciu piątkowego handlu WIG20 wzrósł o 0,44 proc. Skala wzrostów w ciągu dnia była dwa razy większa dzięki czemu po raz pierwszy w historii WIG20 przekroczył psychologiczną barierę 4300 pkt , ustanawiając nowy rekord wszechczasów na poziomie 4320,05 pkt. Na plusie dzień zakończył również szeroki WIG, który zyskał 0,24 proc. , a w szczytowym momencie dnia wyśrubował swój historyczny rekord do 162 576,13 pkt.",
-        "Nieco słabiej na tle dużych podmiotów wypadły indeksy małych i średnich spółek – mWIG40 spadł o 0,44 proc. , natomiast sWIG80 stracił 0,04 proc. , kończąc dzień minimalnie pod kreską. Wartość obrotów na całym rynku wyniosła 2,64 mld zł z czego 2,22 mld zł dotyczyło segmentu blue chipów.",
-        "Warszawski parkiet zaprezentował się w piątek znacznie lepiej niż większość głównych rynków bazowych. W momencie zakończenia notowań przy Książęcej na giełdach Starego Kontynentu dominowały umiarkowane nastroje lub lekka realizacja zysków. Londyński FTSE 100 rósł o niespełna 0,1 proc. , paryski CAC 40 oscylował w granicach poziomu odniesienia , a niemiecki DAX tracił 0,4 proc. , korygując czwartkowe wybicie na nowe historyczne maksima. Popołudniowe pogorszenie koniunktury w Europie Zachodniej było bezpośrednią reakcją na słaby początek sesji na Wall Street. W pierwszych godzinach amerykańskiego handlu indeks S&P 500 tracił 0,8 proc. , a technologiczny Nasdaq spadał o 1,5 proc.",
-        "\"Dzisiaj jesteśmy jednym z najsilniejszych indeksów w Europie, ale to też nieduża szarża ze strony popytowej. Wynika to z tego, że rynki bazowe są dość mocno słabsze w ostatnim czasie\" – powiedział w komentarzu dla PAP Biznes Konrad Ryczko, analityk i makler DM BOŚ."
+        "Nvidia może stanąć przed próbą przywrócenia założyciela na fotel prezesa - według \"Financial Times\" Jensen Huang rozmawiał z sojusznikami w Dolinie Krzemowej o powrocie do spółki zaledwie kilka dni po dymisji. Planom może jednak przeszkodzić Waszyngton. Sekretarz skarbu Scott Bessent wezwał do gruntownej przebudowy władz koncernu i dał mu 10 dni na wyjaśnienie sprawy omijania zakazów eksportowych do Chin.",
+        "fot. Evan Vucci / / Reuters / Forum Jak ustalił \"Financial Times\", wpływowi menedżerowie z branży technologicznej zorganizowali nieformalny sztab kryzysowy, by przywrócić Jensena Huanga na stanowisko szefa Nvidii. W tym celu mają wywierać presję na radę dyrektorów spółki oraz usiłują zdobyć poparcie Białego Domu. Działania te odbywają się za wiedzą i aprobatą samego założyciela.",
+        "W weekend tempa nabrała też publiczna kampania pod hasłem \"Bring Jensen Back\", gdzie petycję w sprawie przywrócenia byłego prezesa Nvidii poparli m.in. Elon Musk, prezes Epic Games Tim Sweeney oraz grupa pracowników Nvidii.",
+        "Musk ostrzegł w serwisie X, że wiele kluczowych umów w łańcuchu dostaw Nvidii opierało się na uścisku dłoni z Huangiem, a bez niego część tych kontraktów może przepaść.",
+        "Nacisk na radę dyrektorów płynie również ze strony dużych akcjonariuszy. Założyciel funduszu Altimeter Capital Brad Gerstner oraz szef Atreides Management Gavin Baker opublikowali list otwarty, w którym wzywają do pozostawienia \"wszystkich opcji na stole, włącznie z potencjalnym powrotem Jensena Huanga\", argumentując to ogromną niepewnością rynkową."
       ]
     },
     {
-      "id": "rynki-3-a0f922",
-      "entity_tag": "Allegro (GPW: ALE)",
-      "sector": "E-commerce",
+      "id": "rynki-5-de7a73",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Allegro (GPW: ALE) (E-commerce) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [],
-      "title": "Ile zarobi XTB i optymistyczna wycena Allegro? O potencjalnej dystrybucji na GPW, premierze GTA VI i skandalu w Nvidii",
+      "title": "Erste podtrzymuje \"kupuj\" dla Artifex Mundi, ale obniża cenę docelową",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "15:00",
+      "time": "08:32",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/O-potencjalnej-dystrybucji-na-GPW-premierze-GTA-VI-i-skandalu-w-Nvidii-Rewolucja-bedzie-szla-do-przodu-9228477.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/1/b/662d89c2d3f4e6-948-568-450-302-2053-1232.png",
+      "source_url": "https://www.bankier.pl/wiadomosc/Erste-podtrzymuje-kupuj-dla-Artifex-Mundi-obniza-cene-docelowa-do-26-5-zl-9229193.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/b/f/0411fbcacd313f-948-568-20-50-3980-2387.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Wall Street żyje odejściem legendarnego prezesa Nvidii Jensena Huanga, gracze odliczają dni do premiery GTA 6, a warszawski indeks WIG20 po raz pierwszy w historii przebił poziom 4300 punktów.",
-        "Czy zmiana na szczycie technologicznego giganta przekłuje bańkę AI i co napędza ostatnie ruchy na akcjach Allegro, Ten Square Games oraz XTB?",
-        "W najnowszym odcinku „Bankier Weekly” rynek akcji analizuje Mateusz Chrzanowski z DM Noble Securities."
+        "Analitycy Erste Group, w raporcie z 16 listopada, podtrzymali rekomendację \"kupuj\" dla spółki Artifex Mundi, obniżając cenę docelową do 26,5 zł z 28,2 wcześniej.",
+        "\"Dotychczasowy wpływ metagry na wyniki Unsolved pozostaje ograniczony, przede wszystkim ze względu na jej stopniowe wdrażanie wśród nowych graczy, bez migracji dotychczasowej bazy użytkowników.",
+        "Dodatkowo naszym zdaniem spółka nie zwiększała istotnie nakładów na UA, oczekując na bardziej wiarygodne potwierdzenie poprawy LTV oraz dalszą kalibrację ekonomii i balansu gry\" - napisano."
       ],
       "extended_paragraphs": [
-        "Wall Street żyje odejściem legendarnego prezesa Nvidii Jensena Huanga, gracze odliczają dni do premiery GTA 6, a warszawski indeks WIG20 po raz pierwszy w historii przebił poziom 4300 punktów. Czy zmiana na szczycie technologicznego giganta przekłuje bańkę AI i co napędza ostatnie ruchy na akcjach Allegro, Ten Square Games oraz XTB? W najnowszym odcinku „Bankier Weekly” rynek akcji analizuje Mateusz Chrzanowski z DM Noble Securities.",
-        "/ Gemini Najważniejsze wątki rozmowy 🤖 Trzęsienie ziemi w Nvidii. Jak wycenić spółkę po odejściu charyzmatycznego lidera i czy rewolucja AI poradzi sobie bez Jensena Huanga?",
-        "🎮 Efekt GTA 6 na giełdzie. Przedsprzedaż gry bije rekordy \"Cyberpunka 2077\". Dlaczego zyska na tym CD Projekt, a mniejsze studia walczą o przetrwanie?",
-        "📦 Wielki sojusz Allegro i InPostu. Co kryje się za podwyższeniem prognoz giganta e-commerce",
-        "🔍Omówienie wyników spółek Ten Square Games i Artifex Mundi. Kto pozytywnie zaskakuje strategią?"
-      ]
-    },
-    {
-      "id": "rynki-5-c63868",
-      "entity_tag": "Azja & Pacyfik",
-      "sector": "Gospodarka Światowa",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 550 mld dolarów, 30%) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "550 mld dolarów",
-        "30%"
-      ],
-      "title": "Upadek szefa Nvidii. Romanse i Chiny zatopiły króla AI, a rynek pyta: co dalej?",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "11:00",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-po-dymisji-Huanga-Co-dalej-z-kursem-i-rynkiem-AI-9228235.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/c/be73f565329c72-948-568-827-0-2323-1394.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Nvidia traci swojego architekta.",
-        "W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie.",
-        "Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki."
-      ],
-      "extended_paragraphs": [
-        "Nvidia traci swojego architekta. W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie. Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki. Kryzys w Nvidii może nieść poważne konsekwencje dla całej branży AI oraz administracji Donalda Trumpa.",
-        "fot. Lisi Niesner / Reuters / / FORUM W czwartek 12 listopada 2026 r. zarząd Nvidii ogłosił, że Jensen Huang ze skutkiem natychmiastowym zrezygnował ze stanowiska prezesa oraz opuścił radę dyrektorów. Obowiązki szefa giganta tymczasowo przejęła dyrektor finansowa Colette Kress. Decyzja zapadła po nadzwyczajnym posiedzeniu rady.",
-        "Afera zaczęła się od ujawnienia romansu Huanga z Alice Huang - menedżerką singapurskiej firmy Megaspeed - podejrzewaną przez amerykański wywiad o szpiegostwo na rzecz Pekinu. Gdy wydawało się, że prezes przetrwa wizerunkowy kryzys, na jaw wyszły jego kolejne relacje intymne, tym razem z podwładnymi wewnątrz spółki i to one ostatecznie go pogrążyły.",
-        "Odejście Jensena Huanga ze stanowisk prezesa, prezydenta oraz z rady dyrektorów Nvidii, którą założył 33 lata temu, kończy w firmie epokę władzy absolutnej jednego człowieka. Pod jego rządami spółka urosła do monstrualnej wyceny 5,8 bln dolarów w październiku 2026 roku.",
-        "5 ostatnich sesji wystarczyło jednak, żeby kapitalizacja stopniała o 550 mld dolarów, notowania znalazły się 30% poniżej szczytu, a analitycy z Wall Street obniżyli swoje rekomendacje."
-      ]
-    },
-    {
-      "id": "rynki-7-cd367c",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,38 mld zł",
-        "2,87 mld zł",
-        "1,69%"
-      ],
-      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:30",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
-        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
-        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
-      ],
-      "extended_paragraphs": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
-        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
-        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
-        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
-        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
+        "Analitycy Erste Group, w raporcie z 16 listopada, podtrzymali rekomendację \"kupuj\" dla spółki Artifex Mundi, obniżając cenę docelową do 26,5 zł z 28,2 wcześniej.",
+        "\"Dotychczasowy wpływ metagry na wyniki Unsolved pozostaje ograniczony, przede wszystkim ze względu na jej stopniowe wdrażanie wśród nowych graczy, bez migracji dotychczasowej bazy użytkowników. Dodatkowo naszym zdaniem spółka nie zwiększała istotnie nakładów na UA, oczekując na bardziej wiarygodne potwierdzenie poprawy LTV oraz dalszą kalibrację ekonomii i balansu gry\" - napisano.",
+        "\"Pierwsze obserwacje wskazują na poprawę wybranych KPI, w szczególności retencji i zaangażowania użytkowników, choć wyniki różnią się między platformami. Najbardziej obiecujące rezultaty widoczne są na iOS, podczas gdy wyniki na Androidzie pozostają mniej jednoznaczne. Co istotne, ceny i struktura ofert pozostają niezmienione zarówno pomiędzy wersjami Unsolved z metagrą i bez niej, jak i między platformami\" - wskazano.",
+        "Dodano, że potencjalna poprawa monetyzacji powinna wynikać przede wszystkim z większego zaangażowania i retencji graczy, sprzyjających częstszym zakupom, a dalsza rozbudowa sklepu w grze o oferty dedykowane metagrze powinna stanowić dodatkowy czynnik wspierający wzrost LTV.",
+        "Depesza jest skrótem rekomendacji. Materiał został opracowany przez Erste Group na zlecenie GPW w ramach Programu Wsparcia Pokrycia Analitycznego."
       ]
     },
     {
@@ -1081,7 +1006,78 @@
       ]
     },
     {
-      "id": "rynki-2-79e16a",
+      "id": "rynki-2-63b83b",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 0,4%, 0,8%, 1,1%) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "0,4%",
+        "0,8%",
+        "1,1%"
+      ],
+      "title": "Spowolnienie w Chinach pogłębia się w październiku, gdy produkcja przemysłowa, sprzedaż detaliczna i inwestycje nie spełniają szacunków",
+      "original_title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "03:53",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108551664-1794786973563-gettyimages-2299353111-img_6622.jpeg?v=1794787492&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Analitycy twierdzą, że pogłębiająca się zależność od popytu zewnętrznego sprawia, że Chiny są bardziej narażone na wstrząsy za granicą w miarę słabnięcia dynamiki krajowej.",
+        "Spowolnienie gospodarcze w Chinach pogorszyło się w październiku, a sprzedaż detaliczna, inwestycje i produkcja przemysłowa nie spełniły szacunków ekonomistów, ponieważ analitycy ostrzegają, że rosnące uzależnienie od popytu zewnętrznego sprawia, że ​​wzrost gospodarczy jest bardziej narażony na wstrząsy za granicą.",
+        "Poniedziałkowe dane pokazały, że załamanie inwestycyjne pogłębiło się, a sprzedaż detaliczna ponownie pozostawała w tyle za produkcją przemysłową, w związku ze spadkiem wydatków konsumenckich w związku z pogorszeniem koniunktury na rynku nieruchomości, które już piąty rok zmniejszało majątek gospodarstw domowych."
+      ],
+      "extended_paragraphs": [
+        "Analitycy twierdzą, że pogłębiająca się zależność od popytu zewnętrznego sprawia, że Chiny są bardziej narażone na wstrząsy za granicą w miarę słabnięcia dynamiki krajowej.",
+        "Spowolnienie gospodarcze w Chinach pogorszyło się w październiku, a sprzedaż detaliczna, inwestycje i produkcja przemysłowa nie spełniły szacunków ekonomistów, ponieważ analitycy ostrzegają, że rosnące uzależnienie od popytu zewnętrznego sprawia, że ​​wzrost gospodarczy jest bardziej narażony na wstrząsy za granicą.",
+        "Poniedziałkowe dane pokazały, że załamanie inwestycyjne pogłębiło się, a sprzedaż detaliczna ponownie pozostawała w tyle za produkcją przemysłową, w związku ze spadkiem wydatków konsumenckich w związku z pogorszeniem koniunktury na rynku nieruchomości, które już piąty rok zmniejszało majątek gospodarstw domowych.",
+        "Sprzedaż detaliczna, będąca miernikiem konsumpcji, wzrosła o 0,4% w porównaniu z rokiem ubiegłym w październiku, rozczarowując prognozę analityków zakładającą wzrost o 0,8%, spowalniając z najwyższego od sześciu miesięcy poziomu 1,1% we wrześniu.",
+        "Produkcja przemysłowa wzrosła o 4,8% w porównaniu z rokiem poprzednim w zeszłym miesiącu, mijając się z szacunkami analityków mówiącymi o wzroście na 5,3% i gwałtownie spowalniając z 5,5% we wrześniu, najwyższego poziomu od pięciu miesięcy."
+      ]
+    },
+    {
+      "id": "rynki-3-dc3c4e",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 25,3 mln zł, 32,2 proc.) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "25,3 mln zł",
+        "32,2 proc."
+      ],
+      "title": "GPW spodziewa się w IV kw. CAPEX-u zbliżonego do III kw.",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:40",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/GPW-spodziewa-sie-w-IV-kw-CAPEX-u-zblizonego-do-III-kw-9229196.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/3/8/adf19d5e8cffad-945-560-0-116-1732-1039.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Grupa GPW spodziewa się, że w IV kwartale CAPEX będzie zbliżony do III kwartału, a dynamika wzrostu OPEX rdr będzie istotnie wyższa wobec poziomu po 9 miesiącach - podała GPW w prezentacji.",
+        "fot. Krystian Maj / / FORUM Jak podała spółka, IV kwartał to sezonowy wzrost CAPEX oraz jednocześnie niższe wydatki na GPW WATS.",
+        "Jeśli chodzi o OPEX w IV kwartale, to spółka spodziewa się skokowego wzrostu amortyzacji po wdrożeniu GPW WATS, zakłada przeniesienie do P&L części dotychczas kapitalizowanych kosztów GPW WATS."
+      ],
+      "extended_paragraphs": [
+        "Grupa GPW spodziewa się, że w IV kwartale CAPEX będzie zbliżony do III kwartału, a dynamika wzrostu OPEX rdr będzie istotnie wyższa wobec poziomu po 9 miesiącach - podała GPW w prezentacji.",
+        "fot. Krystian Maj / / FORUM Jak podała spółka, IV kwartał to sezonowy wzrost CAPEX oraz jednocześnie niższe wydatki na GPW WATS.",
+        "Jeśli chodzi o OPEX w IV kwartale, to spółka spodziewa się skokowego wzrostu amortyzacji po wdrożeniu GPW WATS, zakłada przeniesienie do P&L części dotychczas kapitalizowanych kosztów GPW WATS. Jak podano, zmiana rdr częściowo będzie kompensowana spadkiem amortyzacji poza WATS oraz niższą opłatą KNF.",
+        "W trzecim kwartale nakłady inwestycyjne GK GPW wyniosły 25,3 mln zł, co oznacza wzrost o 32,2 proc. rdr.",
+        "Giełda podała w prezentacji, że w 2027 roku CAPEX grupy będzie niższy rdr ze względu na obniżenie wydatków na GPW WATS."
+      ]
+    },
+    {
+      "id": "rynki-4-79e16a",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "MEDIUM",
@@ -1113,41 +1109,43 @@
       ]
     },
     {
-      "id": "rynki-6-565d68",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
+      "id": "rynki-7-832fcc",
+      "entity_tag": "Miedź (LME)",
+      "sector": "Surowce Przemysłowe",
       "market_impact": "MEDIUM",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 50%) — wymaga obserwacji marż i wsparć cenowych.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Miedź (LME) (Surowce Przemysłowe) (kluczowe liczby: 0,1 proc., 1,11 proc., 6,1 proc.) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [
-        "50%"
+        "0,1 proc.",
+        "1,11 proc.",
+        "6,1 proc."
       ],
-      "title": "Lutnick staje w obliczu pytań w związku ze skandalem szpiegowskim Nvidii. Firma jego synów jest powiązana z producentem chipów",
-      "original_title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:58",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
+      "title": "Miedź najtańsza od ponad czterech miesięcy. Chiny rozczarowały",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:10",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Miedz-najtansza-od-ponad-czterech-miesiecy-Chiny-rozczarowaly-9229179.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/7/9/76753393cac90d-948-568-18-181-2485-1491.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Rezygnacja Jensena Huanga ze stanowiska dyrektora generalnego Nvidii spowodowała ponowne przyjrzenie się sekretarzowi handlu Howardowi Lutnickowi i powiązaniom finansowym jego rodziny z producentem chipów.",
-        "Jak wynika z raportu badawczego Cantor zweryfikowanego przez CNBC, pod koniec września Cantor Fitzgerald gościł dyrektora generalnego Nvidii, Jensena Huanga i innych członków kadry kierowniczej tego producenta chipów na spotkaniach z inwestorami w Nowym Jorku.",
-        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J."
+        "Notowania miedzi na giełdzie metali LME w Londynie spadają i są na najniższym poziomie od ponad 4 miesięcy w reakcji na wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin - informują maklerzy.",
+        "fot. Flegere / / Shutterstock Miedź w dostawach 3-miesięcznych na LME jest wyceniana niżej o 0,1 proc. - po 13 240,00 USD za tonę.",
+        "Na Comex w Nowym Jorku miedź kosztuje 6,1160 USD za funt, niżej o 1,11 proc. Metal zyskał w tym roku na Comex 6,1 proc. Na giełdzie metali SHF w Szanghaju miedź jest wyceniana po 103 500 juanów za tonę, po zniżce o 1,47 proc. Inwestorzy oceniają wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin."
       ],
       "extended_paragraphs": [
-        "Rezygnacja Jensena Huanga ze stanowiska dyrektora generalnego Nvidii spowodowała ponowne przyjrzenie się sekretarzowi handlu Howardowi Lutnickowi i powiązaniom finansowym jego rodziny z producentem chipów.",
-        "Jak wynika z raportu badawczego Cantor zweryfikowanego przez CNBC, pod koniec września Cantor Fitzgerald gościł dyrektora generalnego Nvidii, Jensena Huanga i innych członków kadry kierowniczej tego producenta chipów na spotkaniach z inwestorami w Nowym Jorku.",
-        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
-        "Jednak firma, wcześniej prowadzona przez Sekretarza Handlu Howarda Lutnicka, a obecnie kierowana przez jego synów, Brandona i Kyle’a, odnotowała prawie 50% spadek liczby akcji Nvidii posiadanych w okresie od września 2025 r. do marca 2026 r., wynika z analizy CNBC dokumentów dotyczących papierów wartościowych, z wyłączeniem opcji. Nvidia była jedną z największych pozycji na akcjach zgłoszonych w dokumentach Cantora.",
-        "Spadek zbiegł się w czasie z naciskami Białego Domu i wywiadu USA na Lutnicka, aby rozprawił się z Megaspeed, singapurską firmą podejrzaną o wysyłanie zaawansowanych chipów sztucznej inteligencji Nvidii do Chin. Jak poinformowała 11 listopada Axios, Lutnick wielokrotnie stawiał opór tym wysiłkom."
+        "Notowania miedzi na giełdzie metali LME w Londynie spadają i są na najniższym poziomie od ponad 4 miesięcy w reakcji na wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin - informują maklerzy.",
+        "fot. Flegere / / Shutterstock Miedź w dostawach 3-miesięcznych na LME jest wyceniana niżej o 0,1 proc. - po 13 240,00 USD za tonę.",
+        "Na Comex w Nowym Jorku miedź kosztuje 6,1160 USD za funt, niżej o 1,11 proc. Metal zyskał w tym roku na Comex 6,1 proc.",
+        "Na giełdzie metali SHF w Szanghaju miedź jest wyceniana po 103 500 juanów za tonę, po zniżce o 1,47 proc.",
+        "Inwestorzy oceniają wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin."
       ]
     },
     {
-      "id": "rynki-4-9900e5",
+      "id": "rynki-6-9900e5",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "LOW",
@@ -1183,106 +1181,73 @@
   ],
   "makro": [
     {
-      "id": "makro-7-14ff5d",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-1-c20ccc",
+      "entity_tag": "NBP / RPP",
+      "sector": "Polityka Pieniężna",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 28 tys., -30 proc.) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "28 tys.",
-        "-30 proc."
-      ],
-      "title": "Wielkie liczby lekkiej logistyki",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe.",
+      "key_metrics": [],
+      "title": "Balcerowicz o finansach: Politycy niczego nie dają. Mocne ostrzeżenie przed zadłużeniem",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "00:00",
+      "time": "09:15",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://logistyka.rp.pl/drogowy/art45491121-wielkie-liczby-lekkiej-logistyki",
-      "image_url": "https://i.gremicdn.pl/image/free/7345ba649a97a0556433c48eabfca04f/",
+      "source_url": "https://www.rp.pl/budzet-i-podatki/art45492351-balcerowicz-o-finansach-politycy-niczego-nie-daja-mocne-ostrzezenie-przed-zadluzeniem",
+      "image_url": "https://i.gremicdn.pl/image/free/3866bd5fae5b9485c7b5abd01630109b/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": true,
       "summary_points": [
-        "System TMS pozwala DPD Polska okiełznać codziennie milionowe potoki przesyłek i tysiące samochodów.",
-        "Codziennie na drogi wyruszają prawie 2 tysiące samochodów obsługujących operacje prowadzone przez DPD Polska Każdej nocy blisko dwa tysiące samochodów ciężarowych wyrusza z magazynów DPD Polska, łącząc je między sobą oraz odbierając przesyłki od klientów.",
-        "– Zamawiający składa zlecenie na transport do (powiedzmy) godziny 20.00 i spodziewa się dostawy przesyłek do klientów następnego dnia."
+        "Leszek Balcerowicz ostro krytykuje politykę finansową rządu i ostrzega przed kryzysem fiskalnym w Polsce.",
+        "W rozmowie z TOK FM zarzucił politykom rozdawnictwo pieniędzy i nadmierne zadłużanie państwa.",
+        "Nie szczędził też ostrych słów pod adresem Bogdana Święczkowskiego i prezesa NBP Adama Glapińskiego."
       ],
       "extended_paragraphs": [
-        "System TMS pozwala DPD Polska okiełznać codziennie milionowe potoki przesyłek i tysiące samochodów.",
-        "Codziennie na drogi wyruszają prawie 2 tysiące samochodów obsługujących operacje prowadzone przez DPD Polska",
-        "Każdej nocy blisko dwa tysiące samochodów ciężarowych wyrusza z magazynów DPD Polska, łącząc je między sobą oraz odbierając przesyłki od klientów. – Zamawiający składa zlecenie na transport do (powiedzmy) godziny 20.00 i spodziewa się dostawy przesyłek do klientów następnego dnia. Podstawienie zestawu nie jest problemem. Wyzwanie zaczyna się wtedy, gdy trzeba to robić systematycznie bądź wprowadzać zmiany: sezonowe, kwartalne lub tygodniowe i reagować na nagłe zdarzenia – wskazuje dyrektor operacyjny i członek zarządu DPD Polska, Maciej Głowacki.",
-        "Podkreśla, że zarządza trzema sieciami przewozów: liniowymi połączeniami pięciu sortowni z oddziałami w kraju i za granicą, oddziałami między sobą i do tego wysyłką samochodów do klientów. – Kontaktowaliśmy się telefonicznie, mailami, CB radiem, a wszystkie kanały były związane bezpośrednio z człowiekiem. W 2016 roku zabrakło nam czasu, wypełniliśmy nawet całą tabelę Excel, który ma 28 tys. linii – podkreśla Głowacki.",
-        "Zaczął szukać ratunku u programistów. – Wiedzieliśmy czego chcemy, ale wybór dostawcy nie był łatwy, pojawiało się coraz więcej tematów do zagospodarowania, rosły koszty. Zarazem ręczne zarządzanie operacjami stawało się nie do przyjęcia i wymagało pilnego rozwiązania – przyznaje dyrektor operacyjny w DPD Polska."
+        "Leszek Balcerowicz ostro krytykuje politykę finansową rządu i ostrzega przed kryzysem fiskalnym w Polsce. W rozmowie z TOK FM zarzucił politykom rozdawnictwo pieniędzy i nadmierne zadłużanie państwa. Nie szczędził też ostrych słów pod adresem Bogdana Święczkowskiego i prezesa NBP Adama Glapińskiego.",
+        "– To są podejrzane sygnały – powiedział Leszek Balcerowicz, zapytany o przemówienie prezydenta Karola Nawrockiego wygłoszone 11 listopada. Prezydent powiedział zwrócił się do generałów Wojska Polskiego, podkreślając, że odpowiadają oni przed narodem, a za ciągłość państwa polskiego odpowiada prezydent wspólnie z generałami i narodem, co wywołało poruszenie i komentarze o probę właćzenia do rządzenia panstwem wojska.",
+        "Społeczeństwo Zagraniczne media piszą o „skrajnie prawicowym Marszu Niepodległości w Polsce” 11 listopada obchodzimy w Polsce Narodowe Święto Niepodległości. Tego dnia przypada 108. rocznica odzyskania przez Polskę niepodległości po I wojni...",
+        "„Chcę też, żebyście mieli głębokie przekonanie, że za ciągłość państwa polskiego, za trwanie narodu polskiego odpowiada Prezydent Polski, Zwierzchnik Sił Zbrojnych z generałami Wojska Polskiego i z polskim narodem” - powiedział prezydent RP.",
+        "– Święczkowski to jedna z najbardziej odrażających postaci w polskiej polityce – powiedział prof. Balcerowicz. Jego zdaniem Święczkowski wyrządził ogromne szkody, współpracując ze Zbigniewem Ziobrą oraz pełniąc funkcję prokuratora krajowego. – To, co się działo w prokuraturze za PiS, było pełzającym zamachem stanu na wymiar sprawiedliwości – dodał Balcerowicz. Profesor Balcerowicz uważa, że uchylenie immunitetu Święczkowskiemu jest właściwe."
       ]
     },
     {
-      "id": "makro-1-18d42c",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Sztuczna Inteligencja” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Jak będzie rola AI w rezerwowaniu biletów lotniczych? Cztery scenariusze dla linii lotniczych",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "01:00",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://turystyka.rp.pl/linie-lotnicze/art45491861-jak-bedzie-rola-ai-w-rezerwowaniu-biletow-lotniczych-cztery-scenariusze-dla-linii-lotniczych",
-      "image_url": "https://i.gremicdn.pl/image/free/35c5bed9667c53fcc71ba3426f7d6d0d/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "id": "makro-4-6200ab",
+      "entity_tag": "Półprzewodniki",
+      "sector": "Hardware & Chipy",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Hardware & Chipy” (Półprzewodniki) (kluczowe liczby: 29%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "29%"
+      ],
+      "title": "Inwestorzy pozywają giganta chipów Intela po spadku akcji spółki o 29%.",
+      "original_title": "Investors sue chip giant Intel after 29% stock plunge",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "03:04",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Sztuczna inteligencja może zmienić sposób wyszukiwania i rezerwowania biletów lotniczych.",
-        "Nie wiadomo jednak, czy pasażerowie powierzą jej wszystkie czynności, czy przewoźnicy utrzymają bezpośredni kontakt z klientami i czy na nowym modelu sprzedaży najwięcej zyskają internetowe biura podróży.",
-        "Raport przedstawia cztery scenariusze rozwoju sprzedaży biletów lotniczych z wykorzystaniem agentów opartych na sztucznej inteligencji Raport firmy TNMT przedstawia cztery możliwe scenariusze rozwoju rynku sprzedąży biletów lotniczych w najbliższych latach."
+        "Z proponowanego pozwu zbiorowego wynika, że Intel ukrył wpływ spowolnienia sprzedaży, zawyżając swoje akcje.",
+        "Akcjonariusze pozywają amerykańskiego giganta chipowego Intel, oskarżając go o ukrywanie powagi spadku sprzedaży komputerów osobistych (PC), który ich zdaniem doprowadził do jednodniowego spadku akcji firmy o prawie 29%.",
+        "W proponowanym pozwu zbiorowym w San Jose w Kalifornii stwierdzono, że Intel spóźnił się, aby ostrzec akcjonariuszy o tym, jak spowolnienie sprzedaży może wpłynąć na jego zyski, rzekomo sztucznie zawyżając cenę akcji."
       ],
       "extended_paragraphs": [
-        "Sztuczna inteligencja może zmienić sposób wyszukiwania i rezerwowania biletów lotniczych. Nie wiadomo jednak, czy pasażerowie powierzą jej wszystkie czynności, czy przewoźnicy utrzymają bezpośredni kontakt z klientami i czy na nowym modelu sprzedaży najwięcej zyskają internetowe biura podróży.",
-        "Raport przedstawia cztery scenariusze rozwoju sprzedaży biletów lotniczych z wykorzystaniem agentów opartych na sztucznej inteligencji",
-        "Raport firmy TNMT przedstawia cztery możliwe scenariusze rozwoju rynku sprzedąży biletów lotniczych w najbliższych latach.",
-        "Linie lotnicze dopiero rozpoczynają wdrażanie sztucznej inteligencji opartej na agentach, czyli rozwiązań, które mogą samodzielnie wykonywać zadania w imieniu użytkownika. Podczas konferencji Elevate w Atlancie organizacja ATPCO poinformowała, że aktywne programy AI ma 37 procent przewoźników, ale rozwiązania oparte na agentach wdrożyło zaledwie 11 procent – pisze portal Phocuswire.",
-        "Linie Lotnicze Kiedy wyjechać na lotnisko? Aplikacja ustali to za pasażera Amerykański startup SkySpot stworzył aplikację, która pomaga podróżnym ustalić, kiedy powinni wyjechać na lotnisko, aby zdążyć na samolot. Narzędzi..."
+        "Z proponowanego pozwu zbiorowego wynika, że Intel ukrył wpływ spowolnienia sprzedaży, zawyżając swoje akcje.",
+        "Akcjonariusze pozywają amerykańskiego giganta chipowego Intel, oskarżając go o ukrywanie powagi spadku sprzedaży komputerów osobistych (PC), który ich zdaniem doprowadził do jednodniowego spadku akcji firmy o prawie 29%.",
+        "W proponowanym pozwu zbiorowym w San Jose w Kalifornii stwierdzono, że Intel spóźnił się, aby ostrzec akcjonariuszy o tym, jak spowolnienie sprzedaży może wpłynąć na jego zyski, rzekomo sztucznie zawyżając cenę akcji.",
+        "Akcje Intela spadły 30 października, wymazując dziesiątki miliardów dolarów z jego wartości rynkowej dzień po tym, jak w nadchodzącym raporcie o wynikach spółka prognozowała rozczarowujące przychody.",
+        "Pozew złożony przez kancelarię prawną Robbins Geller Rudman & Dowd w imieniu właścicieli akcji zwykłych Intela w okresie od 23 lipca do 29 października tego roku został złożony przeciwko producentowi chipów, jego dyrektorowi generalnemu Tan Lip-Bu i innym liderom firmy."
       ]
     },
     {
-      "id": "makro-3-32f451",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Tygodniowy flesz - terminy, wskaźniki, stawki: 16-22 listopada 2026 r.",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "00:07",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://pro.rp.pl/kalendarium/art45491351-tygodniowy-flesz-terminy-wskazniki-stawki-16-22-listopada-2026-r",
-      "image_url": "https://i.gremicdn.pl/image/free/7399f4e2139916b4719b2cc2b3bfa673/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Najważniejsze terminy na ten tydzień.",
-        "Aktualne wskaźniki i stawki - informacje przydatne dla księgowych, podatników i kadrowych.",
-        "Jakie akty prawne wchodzą w życie."
-      ],
-      "extended_paragraphs": [
-        "Najważniejsze terminy na ten tydzień. Aktualne wskaźniki i stawki - informacje przydatne dla księgowych, podatników i kadrowych. Jakie akty prawne wchodzą w życie.",
-        "- od nieruchomości i podatku leśnego za listopad 2026 r. przez osoby prawne, jednostki organizacyjne oraz spółki niemające osobowości prawnej",
-        "- IV raty podatku rolnego przez osoby prawne, jednostki organizacyjne oraz spółki niemające osobowości prawnej",
-        "- IV raty podatku od nieruchomości, podatku leśnego oraz podatku rolnego przez osoby fizyczne",
-        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych. Poznaj fakty, które kształtują biznes, prawo oraz społeczeństwo."
-      ]
-    },
-    {
-      "id": "makro-4-abdb3f",
+      "id": "makro-2-abdb3f",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "MEDIUM",
@@ -1290,61 +1255,160 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
       "key_metrics": [],
-      "title": "Jak wynika z raportu Milburna, obciąć ubezpieczenie społeczne osób poniżej 25. roku życia, aby stworzyć miejsca pracy",
-      "original_title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "title": "Według raportu Milburna obniży się składki na ubezpieczenie społeczne osób poniżej 25. roku życia, aby stworzyć miejsca pracy",
+      "original_title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
       "is_foreign": true,
       "lang": "EN",
       "time": "22:30",
       "source": "BBC Business",
       "source_url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69ea/live/b856ca50-e18d-11f1-93e1-3b657b665bcf.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
         "Publikowany w tym tygodniu raport będzie sugerował stopniowe obniżanie kosztów zatrudnienia w ciągu pięciu lat.",
-        "Podpis pod zdjęciem: raport Alana Milburna będzie zawierał także zalecenia dotyczące obniżenia rachunku za świadczenia Ubezpieczenie społeczne (NI) płacone przez przedsiębiorstwa pracownikom poniżej 25.",
+        "Źródło zdjęcia, Stowarzyszenie Prasowe Tytuł zdjęcia, raport Alana Milburna zawiera również zalecenia dotyczące obniżenia rachunku za świadczenia (zdjęcie pliku) Ubezpieczenie społeczne (NI) płacone przez przedsiębiorstwa pracownikom poniżej 25.",
         "roku życia powinno być stopniowo obniżane, aby zachęcić firmy do tworzenia miejsc pracy dla młodych ludzi, jak wynika z obszernego przeglądu bezrobocia wśród młodych osób."
       ],
       "extended_paragraphs": [
         "Publikowany w tym tygodniu raport będzie sugerował stopniowe obniżanie kosztów zatrudnienia w ciągu pięciu lat.",
-        "Podpis pod zdjęciem: raport Alana Milburna będzie zawierał także zalecenia dotyczące obniżenia rachunku za świadczenia",
+        "Źródło zdjęcia, Stowarzyszenie Prasowe Tytuł zdjęcia, raport Alana Milburna zawiera również zalecenia dotyczące obniżenia rachunku za świadczenia (zdjęcie pliku)",
         "Ubezpieczenie społeczne (NI) płacone przez przedsiębiorstwa pracownikom poniżej 25. roku życia powinno być stopniowo obniżane, aby zachęcić firmy do tworzenia miejsc pracy dla młodych ludzi, jak wynika z obszernego przeglądu bezrobocia wśród młodych osób.",
         "Raport byłego ministra pracy Alana Milburna będzie sugerował, że rząd powinien obniżyć koszty ubezpieczenia społecznego w ciągu pięciu lat dla osób w wieku od 21 do 24 lat, zaczynając od handlu detalicznego i hotelarstwa.",
         "Pod rządami Sir Keira Starmera rząd podniósł NI dla firm. Milburn powie, że liczba młodych ludzi, którzy nie pracują, nie kształcą się ani nie szkolą – znanych jako Neets – nie zaczęła się od podwyżki w Irlandii Północnej."
       ]
     },
     {
-      "id": "makro-5-cc28c0",
-      "entity_tag": "Rynek Długu / MF",
-      "sector": "Obligacje & Budżet",
+      "id": "makro-5-cf5e75",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
       "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Obligacje & Budżet” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Surowce Energetyczne” (Ropa Naftowa) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Niezbędnik przedsiębiorcy: e-księga i JPK * czy ograniczyć prawo do liniowego i ryczałtu? * odliczenie VAT od alkoholu * jaka umowa dla programisty * nowy obowiązek deweloperów",
+      "title": "Walczymy z oszustwami w sieci",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "00:07",
+      "time": "09:14",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://pro.rp.pl/niezbednik-przedsiebiorcy/art45491841-niezbednik-przedsiebiorcy-e-ksiega-i-jpk-czy-ograniczyc-prawo-do-liniowego-i-ryczaltu-odliczenie-vat-od-alkoholu-jaka-umowa-dla-programisty-nowy-obowiazek-deweloperow",
-      "image_url": "https://i.gremicdn.pl/image/free/4a3636f37790c94485454e1a592475ff/",
+      "source_url": "https://www.rp.pl/multimedia/art45472731-walczymy-z-oszustwami-w-sieci",
+      "image_url": "https://i.gremicdn.pl/image/free/a5117f46b2300ee475e492c694651f59/zdjecie-rzecz-o-biznesie-nathaniel-gleicher-globalny-szef-mety-ds-zwalczania-oszustw",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "• E-księga i JPK dla małych firm.",
-        "MF zrezygnowało z wyjątku dla zwolnionych z VAT • Ekonomiści odpowiedzieli na pytanie, czy należy ograniczyć dostępność podatku liniowego i ryczałtu dla przedsiębiorców • Czy można odliczyć VAT od alkoholu dla uczestników konferencji czy firmowego eventu?",
-        "• Programista na etacie czy B2B?"
+        "Nowe metody walki z oszustami i odpowiedź na doniesienia Rafała Brzoski o rosyjskich tropach w internetowym scamie – o bezpieczeństwie na Facebooku i Instagramie mówi Nathaniel Gleicher, globalny szef Mety ds.",
+        "Multimedia Węglowodory nadal potrzebne.",
+        "Ropa i gaz kluczem do stabilności 7 min. 0 sek."
       ],
       "extended_paragraphs": [
-        "• E-księga i JPK dla małych firm. MF zrezygnowało z wyjątku dla zwolnionych z VAT • Ekonomiści odpowiedzieli na pytanie, czy należy ograniczyć dostępność podatku liniowego i ryczałtu dla przedsiębiorców • Czy można odliczyć VAT od alkoholu dla uczestników konferencji czy firmowego eventu? • Programista na etacie czy B2B? GIP wyjaśnia, co przesądza o stosunku pracy • Ministerstwo Cyfryzacji zaskoczyło deweloperów • Ważne terminy na ten tydzień",
-        "Ministerstwo Finansów zrezygnowało z wcześniej planowanego odroczenia obowiązku prowadzenia pkpir przy użyciu programów komputerowych oraz przesyłania skarbówce e-księgi w postaci Jednolitego Pliku Kontrolnego. Od 1 stycznia 2026 r. taki obowiązek dotyczy większości małych przedsiębiorców na skali i liniowym PIT, od przyszłego roku czeka pozostałych.",
-        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych. Poznaj fakty, które kształtują biznes, prawo oraz społeczeństwo."
+        "Nowe metody walki z oszustami i odpowiedź na doniesienia Rafała Brzoski o rosyjskich tropach w internetowym scamie – o bezpieczeństwie na Facebooku i Instagramie mówi Nathaniel Gleicher, globalny szef Mety ds. zwalczania oszustw.",
+        "Multimedia Węglowodory nadal potrzebne. Ropa i gaz kluczem do stabilności 7 min. 0 sek.",
+        "Multimedia Daniel Obajtek: Tusk musi się wycofać. W Polsce mamy zamach stanu Multimedia Ubezpieczyciele gwarantują inwestycje 22 min. 37 sek.",
+        "Multimedia Czy można pomóc mózgowi bez operacji? Nowa nadzieja dla chorych na Alzheimera 25 min. 29 sek."
       ]
     },
     {
-      "id": "makro-2-6cf682",
+      "id": "makro-3-8d2c13",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Pożar w kurorcie turystycznym w Tajlandii. 11 osób nie żyje",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "05:25",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/wypadki/art45491961-pozar-w-kurorcie-turystycznym-w-tajlandii-11-osob-nie-zyje",
+      "image_url": "https://i.gremicdn.pl/image/free/9509af43804cb7a04e478702353d5669/ogien-objal-ciag-sklepikow-i-jeden-wielorodzinny-budynek-mieszkalny",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "W mieście Patong, popularnym tajlandzkim kurorcie turystycznym położonym na zachodnim wybrzeżu wyspy Phuket doszło do pożaru, w którym zginęło co najmniej 11 osób, a ponad 30 zostało rannych.",
+        "Pożar wybuchł ok. 3.15 czasu lokalnego i objął ciąg sklepików, a także wielorodzinny budynek mieszkalny przy ulicy Pang Muang Sai Kor.",
+        "Zanim strażacy opanowali pożar po około dwóch godzinach, w płomieniach stanęło kilka budynków."
+      ],
+      "extended_paragraphs": [
+        "W mieście Patong, popularnym tajlandzkim kurorcie turystycznym położonym na zachodnim wybrzeżu wyspy Phuket doszło do pożaru, w którym zginęło co najmniej 11 osób, a ponad 30 zostało rannych.",
+        "Pożar wybuchł ok. 3.15 czasu lokalnego i objął ciąg sklepików, a także wielorodzinny budynek mieszkalny przy ulicy Pang Muang Sai Kor. Zanim strażacy opanowali pożar po około dwóch godzinach, w płomieniach stanęło kilka budynków.",
+        "Jak informowały lokalne władze, w wyniku pożaru wiele osób zatruło się dymem i zostało przewiezionych do szpitali.",
+        "Reuters podaje, że pożar wybuchł w budynku, w którym znajduje się firma wynajmująca samochody, po czym rozprzestrzenił się na sąsiednie budynki. Wśród ofiar śmiertelnych i rannych nie ma turystów – informuje lokalna policja. Wśród rannych jest jeden obywatel Mjanmy (d. Birma).",
+        "Dziennik „Bangkok Post” relacjonuje, że niektóre z ofiar pożaru tuż przed śmiercią dzwoniły do przyjaciół i krewnych , informując ich o pożarze i próbując wydostać się z płomieni."
+      ]
+    },
+    {
+      "id": "makro-6-e93ca2",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Megaspeed twierdzi, że podejrzany chiński szpieg powiązany z byłym szefem Nvidii odejdzie w 2025 roku",
+      "original_title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:47",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Skandal Nvidii wzbudził pytania, czy pomimo amerykańskich ograniczeń zaawansowane chipy AI trafiły do Chin.",
+        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Skandal Nvidii wywołał falę uderzeniową w Dolinie Krzemowej, a także w establishmentu politycznym Jak podaje firma, Alice Huang, podejrzana o szpiegostwo w Chinach, powiązana z byłym szefem Nvidii, Jensenem Huangiem, odeszła ze stanowiska kierowniczego w Megaspeed w sierpniu ubiegłego roku.",
+        "Jensen Huang zrezygnował ze stanowiska dyrektora generalnego giganta produkującego chipy AI, Nvidii, po tym, jak wyszło na jaw, że rzekomo miał romans z Alice Huang, a także z jednym ze swoich pracowników."
+      ],
+      "extended_paragraphs": [
+        "Skandal Nvidii wzbudził pytania, czy pomimo amerykańskich ograniczeń zaawansowane chipy AI trafiły do Chin.",
+        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Skandal Nvidii wywołał falę uderzeniową w Dolinie Krzemowej, a także w establishmentu politycznym",
+        "Jak podaje firma, Alice Huang, podejrzana o szpiegostwo w Chinach, powiązana z byłym szefem Nvidii, Jensenem Huangiem, odeszła ze stanowiska kierowniczego w Megaspeed w sierpniu ubiegłego roku.",
+        "Jensen Huang zrezygnował ze stanowiska dyrektora generalnego giganta produkującego chipy AI, Nvidii, po tym, jak wyszło na jaw, że rzekomo miał romans z Alice Huang, a także z jednym ze swoich pracowników.",
+        "Megaspeed jest największym nabywcą chipów Nvidii w Azji Południowo-Wschodniej, a skandal w Nvidii wzbudził pytania o możliwość, że wysokiej klasy chipy AI mogły trafić do Chin pomimo amerykańskich ograniczeń eksportowych."
+      ]
+    },
+    {
+      "id": "makro-7-dab98b",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 40 proc.) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "40 proc."
+      ],
+      "title": "Wiceszef KO: Sprawa Trybunału Konstytucyjnego została zamknięta",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:44",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/polityka/art45492101-wiceszef-ko-sprawa-trybunalu-konstytucyjnego-zostala-zamknieta",
+      "image_url": "https://i.gremicdn.pl/image/free/b3c3fc70d23a5a09d58cf1c52ffa1922/sprawa-trybunalu-konstytucyjnego-jest-wedlug-cezarego-tomczyka-zamknieta",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Nie mam takich informacji, żebyśmy mieli iść - mówił w rozmowie z TVN24 wiceminister obrony narodowej, a zarazem wiceprzewodniczący KO Cezary Tomczyk pytany o to, czy przedstawiciele Koalicji Obywatelskiej pojawią się w Belwederze na konsultacjach w sprawie Trybunału Konstytucyjnego organizowanych przez prezydenta Karola Nawrockiego.",
+        "W czasie konsultacji, które odbędą się 16 listopada, stronę prezydencką będzie reprezentował szef Kancelarii Prezydenta Zbigniew Bogucki .",
+        "Z partii koalicji rządzącej udział w konsultacjach zapowiedziały PSL i Polska 2050."
+      ],
+      "extended_paragraphs": [
+        "Nie mam takich informacji, żebyśmy mieli iść - mówił w rozmowie z TVN24 wiceminister obrony narodowej, a zarazem wiceprzewodniczący KO Cezary Tomczyk pytany o to, czy przedstawiciele Koalicji Obywatelskiej pojawią się w Belwederze na konsultacjach w sprawie Trybunału Konstytucyjnego organizowanych przez prezydenta Karola Nawrockiego.",
+        "W czasie konsultacji, które odbędą się 16 listopada, stronę prezydencką będzie reprezentował szef Kancelarii Prezydenta Zbigniew Bogucki . Z partii koalicji rządzącej udział w konsultacjach zapowiedziały PSL i Polska 2050.",
+        "Tomczyk pytany o ewentualny udział KO w konsultacjach stwierdził, że „nie ma informacji, żebyśmy mieli iść”. – Podam jeden konkretny argument: sprawa Trybunału Konstytucyjnego, czy to się panu prezydentowi podoba, czy nie, została zamknięta. Sędziowie są w Trybunale Konstytucyjnym, orzekają, spotykają się, wydają zarządzenia, Trybunał funkcjonuje normalnie – przekonywał Tomczyk.",
+        "Sądy i trybunały Większość Polaków za resetem w TK. Wyborcy koalicji są podzieleni Reset w TK popiera większość Polaków i co najważniejsze, ponad 40 proc. wyborców obozu władzy – wynika z sondażu IBRiS dla „Rzeczpospolitej”. To mo...",
+        "Na uwagę, że do Trybunału Konstytucyjnego nie mogą obecnie wejść Bogdan Święczkowski, prezes TK i Bartłomiej Sochański, wiceprezes TK, czasowo odsunięci od pełnienia obowiązków, Tomczyk odparł, że to „sam Trybunał Konstytucyjny będzie decydował, jak wygląda jego działanie”."
+      ]
+    },
+    {
+      "id": "makro-8-6cf682",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1374,75 +1438,111 @@
         "Reset nie wiązałby się z żadnymi płatnościami z góry, dodał Falconer, ale dał jasno do zrozumienia, że ​​może istnieć „klauzula wyjścia” na wypadek, gdyby przyszły rząd Wielkiej Brytanii wycofał się z bliższego dostosowania.",
         "Falconer stwierdził, że „rozsądne” jest rozważenie, co by się stało, gdyby przyszły rząd konserwatystów lub reformowany chciał cofnąć nowe ustalenia."
       ]
-    },
-    {
-      "id": "makro-6-e93ca2",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Megaspeed twierdzi, że podejrzany chiński szpieg powiązany z byłym szefem Nvidii odejdzie w 2025 roku",
-      "original_title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "22:24",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Skandal Nvidii wzbudził pytania, czy pomimo amerykańskich ograniczeń zaawansowane chipy AI trafiły do Chin.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Skandal Nvidii wywołał falę uderzeniową w Dolinie Krzemowej, a także w establishmentu politycznym Jak podaje firma, Alice Huang, podejrzana o szpiegostwo w Chinach, powiązana z byłym szefem Nvidii, Jensenem Huangiem, odeszła ze stanowiska kierowniczego w Megaspeed w sierpniu ubiegłego roku.",
-        "Jensen Huang zrezygnował ze stanowiska dyrektora generalnego giganta produkującego chipy AI, Nvidii, po tym, jak wyszło na jaw, że rzekomo miał romans z Alice Huang, a także z jednym ze swoich pracowników."
-      ],
-      "extended_paragraphs": [
-        "Skandal Nvidii wzbudził pytania, czy pomimo amerykańskich ograniczeń zaawansowane chipy AI trafiły do Chin.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Skandal Nvidii wywołał falę uderzeniową w Dolinie Krzemowej, a także w establishmentu politycznym",
-        "Jak podaje firma, Alice Huang, podejrzana o szpiegostwo w Chinach, powiązana z byłym szefem Nvidii, Jensenem Huangiem, odeszła ze stanowiska kierowniczego w Megaspeed w sierpniu ubiegłego roku.",
-        "Jensen Huang zrezygnował ze stanowiska dyrektora generalnego giganta produkującego chipy AI, Nvidii, po tym, jak wyszło na jaw, że rzekomo miał romans z Alice Huang, a także z jednym ze swoich pracowników.",
-        "Megaspeed jest największym nabywcą chipów Nvidii w Azji Południowo-Wschodniej, a skandal w Nvidii wzbudził pytania o możliwość, że wysokiej klasy chipy AI mogły trafić do Chin pomimo amerykańskich ograniczeń eksportowych."
-      ]
-    },
-    {
-      "id": "makro-8-53a22f",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Czarny piątek i oszustwa związane ze zwrotem podatku – nie dajcie się nabrać",
-      "original_title": "Black Friday and tax return scams - don't fall for these",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "00:50",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Do HMRC zgłaszanych jest dziesiątki tysięcy oszustw – HMRC ma więc porady, jak rozpoznać fałszywe żądanie i zwrócić pieniądze.",
-        "Dzieje się tak dlatego, że o tej porze roku ludzie częściej oczekują e-maili, SMS-ów i innej korespondencji.",
-        "Oszuści wykorzystają te daty do podszywania się pod prawdziwe organizacje i sprzedawców detalicznych, popychając ofiary do fałszywych witryn internetowych w celu kradzieży danych osobowych."
-      ],
-      "extended_paragraphs": [
-        "Do HMRC zgłaszanych jest dziesiątki tysięcy oszustw – HMRC ma więc porady, jak rozpoznać fałszywe żądanie i zwrócić pieniądze.",
-        "Dzieje się tak dlatego, że o tej porze roku ludzie częściej oczekują e-maili, SMS-ów i innej korespondencji.",
-        "Oszuści wykorzystają te daty do podszywania się pod prawdziwe organizacje i sprzedawców detalicznych, popychając ofiary do fałszywych witryn internetowych w celu kradzieży danych osobowych.",
-        "Jeśli prowadzisz działalność na własny rachunek lub masz więcej niż jedno źródło dochodu, musisz złożyć zeznanie podatkowe do końca stycznia.",
-        "Oszuści wykorzystują ten termin, aby zaatakować ludzi wiadomościami, które wyglądają jak oficjalne i pochodzą od brytyjskiego organu podatkowego, HMRC."
-      ]
     }
   ],
   "tech": [
     {
-      "id": "tech-1-196269",
+      "id": "tech-2-e63799",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 1,1 miliarda dolarów, 1 miliarda euro, 1 miliard euro) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "1,1 miliarda dolarów",
+        "1 miliarda euro",
+        "1 miliard euro"
+      ],
+      "title": "Zwolennik Helsingu, Plural, zbiera 1,1 miliarda dolarów na sfinansowanie kolejnych europejskich lotów na księżyc",
+      "original_title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "07:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": true,
+      "summary_points": [
+        "Prowadzona przez operatora firma VC Plural pozyskała nowy kapitał w wysokości 1 miliarda euro (1,1 miliarda dolarów), dołączając do rosnącej grupy większych funduszy europejskich, do której zalicza się także fundusz Kembara i zarządzany przez EQT fundusz Scaleup Europe z Mundi Ventures.",
+        "Plural, twórca Helsingu, zbiera 1,1 miliarda dolarów na sfinansowanie kolejnych europejskich szczytów Anna Heim 23:00 PST · 15 listopada 2026 r. Kierowana przez operatora firma VC Plural zebrała 1 miliard euro (1,1 miliarda dolarów) nowego kapitału, dołączając do rosnącej grupy większych funduszy europejskich, do której zalicza się także zarządzany przez Mundi Ventures fundusz Scaleup Europe Fund Kembara i EQT.",
+        "Pomimo swojej wielkości zbiórka funduszy Plural nie jest (tylko) przeznaczona na fundusz wzrostu: dwie trzecie trafi do trzeciego funduszu na wczesnym etapie, a jedna trzecia do nowego funduszu „możliwości” dokonującego wybranych dalszych inwestycji, jak dowiedział się TechCrunch od partnerów Plural, Khaleda Helioui i Cariny Namih."
+      ],
+      "extended_paragraphs": [
+        "Prowadzona przez operatora firma VC Plural pozyskała nowy kapitał w wysokości 1 miliarda euro (1,1 miliarda dolarów), dołączając do rosnącej grupy większych funduszy europejskich, do której zalicza się także fundusz Kembara i zarządzany przez EQT fundusz Scaleup Europe z Mundi Ventures.",
+        "Plural, twórca Helsingu, zbiera 1,1 miliarda dolarów na sfinansowanie kolejnych europejskich szczytów Anna Heim 23:00 PST · 15 listopada 2026 r. Kierowana przez operatora firma VC Plural zebrała 1 miliard euro (1,1 miliarda dolarów) nowego kapitału, dołączając do rosnącej grupy większych funduszy europejskich, do której zalicza się także zarządzany przez Mundi Ventures fundusz Scaleup Europe Fund Kembara i EQT.",
+        "Pomimo swojej wielkości zbiórka funduszy Plural nie jest (tylko) przeznaczona na fundusz wzrostu: dwie trzecie trafi do trzeciego funduszu na wczesnym etapie, a jedna trzecia do nowego funduszu „możliwości” dokonującego wybranych dalszych inwestycji, jak dowiedział się TechCrunch od partnerów Plural, Khaleda Helioui i Cariny Namih.",
+        "Obydwa czerpaki są stałe, ale wielkość czeku nie jest. Namih stwierdziła, że ​​liczba mnoga „nadal jest bardzo zaangażowana w bycie funduszem na wczesnym etapie rozwoju”. Helioui dodał jednak, że niektóre z „rzutów księżycowych”, które planuje wesprzeć, na wczesnym etapie, mogą wymagać „zebrania kilkuset milionów”, aby ruszyć z miejsca.",
+        "„Moonshot” to odpowiedni termin do opisania niektórych najważniejszych pozycji w portfelu firmy Plural, takich jak Proxima Fusion i The Exploration Company – a jej nowy fundusz będzie poszukiwał równie obiecujących możliwości w obszarach energii, infrastruktury sztucznej inteligencji, obronności, zdrowia i nie tylko."
+      ]
+    },
+    {
+      "id": "tech-3-a16df2",
+      "entity_tag": "Rynek Krypto",
+      "sector": "Aktywa Cyfrowe",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Rynek Krypto (Aktywa Cyfrowe) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Pękająca stal wytrzymała czterokrotnie dłużej. Wszystko dzięki drukarce 3D",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "05:09",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/druk-3d-naprawa-pekajacej-stali",
+      "image_url": "https://konto.chip.pl/uploads/2023/06/worker-5736096_1920.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Dospawanie kolejnego kawałka metalu do pękającej stalowej konstrukcji wydaje się najprostszym sposobem na jej wzmocnienie.",
+        "W końcu więcej stali powinno oznaczać większą wytrzymałość, prawda?",
+        "Niestety niekoniecznie, bo takie podejście potrafi jedynie przesunąć problem w inne miejsce."
+      ],
+      "extended_paragraphs": [
+        "Dospawanie kolejnego kawałka metalu do pękającej stalowej konstrukcji wydaje się najprostszym sposobem na jej wzmocnienie. W końcu więcej stali powinno oznaczać większą wytrzymałość, prawda? Niestety niekoniecznie, bo takie podejście potrafi jedynie przesunąć problem w inne miejsce. Stal nadal pęka, tyle że tym razem przy krawędzi nowego wzmocnienia, gdzie kumulują się naprężenia. Szwajcarscy naukowcy postanowili więc […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Zdjęcie poglądowe",
+        "Chcesz czytać więcej treści jak „ Pękająca stal wytrzymała czterokrotnie dłużej. Wszystko dzięki drukarce 3D \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Zacznijmy od najważniejszego – dlaczego w ogóle ma to znaczenie? Według Amerykańskiego Stowarzyszenia Inżynierów Budownictwa (ASCE), przy obecnym tempie wymiany mosty budowane dziś w USA musiałyby służyć aż 126 lat, a więc znacznie dłużej, niż zakłada ich typowy projekt. Nic więc dziwnego, że inżynierowie szukają sposobów na wydłużanie życia istniejących konstrukcji. Tym razem to badacze ze szwajcarskiego instytutu Empa oraz Politechniki Federalnej w Zurychu (ETH Zurich) pokazali, że druk 3D może być jednym z takich rozwiązań i to bez konieczności opracowywania zupełnie nowego stopu metalu.",
+        "Podstawą rozwiązania jest technologia WAAM ( Wire Arc Additive Manufacturing ), czyli odmiana druku 3D wykorzystująca łuk elektryczny oraz metalowy drut. W jej ramach robot przemysłowy stapia podawany drut i nakłada kolejne warstwy metalu na istniejący element. W odróżnieniu od typowego spawania, taki sposób pozwala budować trójwymiarowe wzmocnienia o konkretnie dobranym kształcie, zamiast jedynie łączyć ze sobą gotowe części.",
+        "Czytaj też: Rekrystalizacja molibdenu. Przypadkowe odkrycie otwiera drogę do miniaturyzacji procesorów nowej generacji"
+      ]
+    },
+    {
+      "id": "tech-4-b51749",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Apple uruchamia nową aplikację do badania, w jaki sposób ludzie wykorzystują sztuczną inteligencję do dbania o zdrowie",
+      "original_title": "Apple launches new app to study how people use AI for health",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Nowa aplikacja Apple do badań odpowie na codzienne pytania medyczne Apple uruchamia nową aplikację do badania, w jaki sposób ludzie wykorzystują sztuczną inteligencję do dbania o zdrowie Ivan Mehta 17:30 PST · 15 listopada 2026 r. Duże laboratoria AI, takie jak OpenAI i Anthropic, postawiły na chatboty, które mogą odpowiadać na pytania związane ze zdrowiem za pomocą specjalistycznych funkcji.",
+        "Apple debiutuje z nowym badaniem, które ma pomóc zrozumieć, w jaki sposób ludzie korzystają ze sztucznej inteligencji w trosce o zdrowie.",
+        "Jednak nie podąża jeszcze śladem innych start-upów zajmujących się sztuczną inteligencją; chce zbadać, w jaki sposób odpowiedzi oparte na badaniach klinicznych mogą pomóc ludziom."
+      ],
+      "extended_paragraphs": [
+        "Nowa aplikacja Apple do badań odpowie na codzienne pytania medyczne",
+        "Apple uruchamia nową aplikację do badania, w jaki sposób ludzie wykorzystują sztuczną inteligencję do dbania o zdrowie Ivan Mehta 17:30 PST · 15 listopada 2026 r. Duże laboratoria AI, takie jak OpenAI i Anthropic, postawiły na chatboty, które mogą odpowiadać na pytania związane ze zdrowiem za pomocą specjalistycznych funkcji. Apple debiutuje z nowym badaniem, które ma pomóc zrozumieć, w jaki sposób ludzie korzystają ze sztucznej inteligencji w trosce o zdrowie. Jednak nie podąża jeszcze śladem innych start-upów zajmujących się sztuczną inteligencją; chce zbadać, w jaki sposób odpowiedzi oparte na badaniach klinicznych mogą pomóc ludziom.",
+        "Producent iPhone'a współpracuje z firmą OpenEvidence zajmującą się sztuczną inteligencją, zajmującą się opieką zdrowotną, aby uruchomić nową aplikację do nauki. Apple zaprasza użytkowników w USA, którzy ukończyli 21 lat, korzystają z iPhone'a 15 lub nowszego i systemu iOS 26 lub nowszego z włączoną funkcją Apple Intelligence. Firma zamierza prowadzić to badanie z udziałem maksymalnie 200 000 uczestników przez ponad 12 miesięcy.",
+        "Nowa aplikacja umożliwi użytkownikom zadawanie pytań związanych ze zdrowiem, podobnie jak w przypadku ChatGPT lub Claude, z odpowiedziami opartymi na danych klinicznych, pochodzących ze źródeł takich jak The New England Journal of Medicine, Journal of the American Medical Association i Nature. Apple zapowiedział, że aplikacja będzie starała się udzielać uproszczonych odpowiedzi na codzienne pytania medyczne. Użytkownicy mogą oceniać te odpowiedzi i przekazywać opinie na temat odpowiedzi; zostaną również poproszeni o udział w comiesięcznych ankietach.",
+        "Uczestnicy mogą udostępniać dane z HealthKit, takie jak tętno spoczynkowe, aktywność, sen lub wyniki badań laboratoryjnych, aby uzyskać bardziej spersonalizowane i konkretne sugestie z aplikacji. Firma twierdzi, że aplikacja może również pomóc lepiej przygotować uczestników na wizytę lekarską i poprowadzi użytkowników do konkretnych dostawców, aby uzyskać odpowiedzi dotyczące problemów medycznych."
+      ]
+    },
+    {
+      "id": "tech-5-196269",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
       "market_impact": "HIGH",
@@ -1461,7 +1561,7 @@
       "source_url": "https://www.chip.pl/2026/11/rozpad-czastki-1-na-10-miliardow-cern",
       "image_url": "https://konto.chip.pl/uploads/2026/11/lhcb-cern.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Naukowcy poszukiwali dowodów rozpadu pewnej cząstki przez ponad czterdzieści lat.",
         "Badania prowadzone przy Wielkim Zderzaczu Hadronów w CERN wreszcie dokonali przełomu w tym zakresie.",
@@ -1476,7 +1576,7 @@
       ]
     },
     {
-      "id": "tech-2-6547fd",
+      "id": "tech-6-6547fd",
       "entity_tag": "Półprzewodniki",
       "sector": "Hardware & Chipy",
       "market_impact": "HIGH",
@@ -1512,72 +1612,6 @@
       ]
     },
     {
-      "id": "tech-3-051ce3",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Robot dokonał historycznego wyczynu w kosmosie. Człowiek nie jest już potrzebny",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:02",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/robot-samodzielnie-zbudowal-strukture-w-kosmosie",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/robot-struktura.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Nie zdążyliśmy się jeszcze przyzwyczaić do rosnącej obecności robotów w naszym codziennym użyciu, a okazuje się, że wkrótce mogą one podbić także przestrzeń kosmiczną.",
-        "Wszystko, co trafia na orbitę, musi zmieścić się wewnątrz rakiety lub jej osłony aerodynamicznej.",
-        "Inżynierowie radzili sobie z tym problemem, projektując konstrukcje składane, które po dotarciu w przestrzeń kosmiczną się rozkładały."
-      ],
-      "extended_paragraphs": [
-        "Nie zdążyliśmy się jeszcze przyzwyczaić do rosnącej obecności robotów w naszym codziennym użyciu, a okazuje się, że wkrótce mogą one podbić także przestrzeń kosmiczną. Najlepszym tego dowodem jest eksperyment przeprowadzony przez naukowców z California Institute of Technology, którzy przy wsparciu amerykańskiej agencji DARPA doprowadzili do rekordowego wyniku Dotychczas budowa dużych obiektów kosmicznych wiązała się z […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Dotychczas budowa dużych obiektów kosmicznych wiązała się z poważnymi ograniczeniami technologicznymi. Wszystko, co trafia na orbitę, musi zmieścić się wewnątrz rakiety lub jej osłony aerodynamicznej. Inżynierowie radzili sobie z tym problemem, projektując konstrukcje składane, które po dotarciu w przestrzeń kosmiczną się rozkładały. Alternatywnie, wysyłali poszczególne elementy do późniejszego montażu przez astronautów. Teraz pojawiła się trzecia możliwość: wykorzystanie robotów, które samodzielnie budują większe obiekty już na orbicie.",
-        "Czytaj też: Humanoidalny robot nauczył się chodzić i pracować rękami osobno. Później zrobił coś wyjątkowego",
-        "Dokonał tego system ASTRA (Autonomous In-Space Tensioned Reflector Assembly), będący częścią programu NOM4D. Celem tego przedsięwzięcia jest rozwój technologii umożliwiających produkcję i montaż dużych konstrukcji poza Ziemią. Zadaniem ASTRA było zmontowanie fragmentu anteny reflektorowej o średnicy 1,4 metra. Robot wykorzystuje specjalne ramię manipulacyjne, które pobiera elementy konstrukcyjne z zasobników, a następnie łączy kompozytowe rurki z aluminiowymi złączami. W ten sposób powstają kolejne moduły tworzące przestrzenną kratownicę, czyli szkielet przyszłej anteny.",
-        "Oczywiście jest to nie lada wyzwaniem, wszak każdy element musi zostać odpowiednio uchwycony, ustawiony i połączony, a robot nie może liczyć na bezpośrednią pomoc człowieka. Konstrukcja miała również wykorzystywać cienką, refleksyjną folię Kapton, stosowaną w technologii kosmicznej. Materiał ten jest lekki i odporny na trudne warunki panujące poza atmosferą. Inżynierowie przewidzieli zastosowanie specjalnej powierzchni napinanej za pomocą systemu sprężyn, co pozwala ograniczyć masę całej konstrukcji."
-      ]
-    },
-    {
-      "id": "tech-5-8b8fe4",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) (kluczowe liczby: 500 milionów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "500 milionów"
-      ],
-      "title": "Pół wieku bez większych zmian i wreszcie czas na postęp. Kostka Rubika przechodzi pierwszy tak poważny lifting",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/kostka-rubika-przechodzi-pierwszy-tak-powazny-lifting",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/kostka-rubika-fot-pexels-1600x1067.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Niepozorny, kolorowy sześcian wymyślony przez węgierskiego architekta i rzeźbiarza Ernő Rubika stał się na przestrzeni dekad przedmiotem kultowym.",
-        "Z wynikiem przekraczającym 500 milionów sprzedanych egzemplarzy kostka Rubika dzierży tytuł najlepiej sprzedającej się zabawki w historii ludzkości.",
-        "Jej obecność dawno wykroczyła jednak poza sklepy z grami i szkolne plecaki, bo stała się pełnoprawnym symbolem popkultury, pojawiając […] Chcesz czytać więcej treści jak „ Pół wieku bez większych zmian i wreszcie czas na postęp."
-      ],
-      "extended_paragraphs": [
-        "Niepozorny, kolorowy sześcian wymyślony przez węgierskiego architekta i rzeźbiarza Ernő Rubika stał się na przestrzeni dekad przedmiotem kultowym. Z wynikiem przekraczającym 500 milionów sprzedanych egzemplarzy kostka Rubika dzierży tytuł najlepiej sprzedającej się zabawki w historii ludzkości. Jej obecność dawno wykroczyła jednak poza sklepy z grami i szkolne plecaki, bo stała się pełnoprawnym symbolem popkultury, pojawiając […]",
-        "Chcesz czytać więcej treści jak „ Pół wieku bez większych zmian i wreszcie czas na postęp. Kostka Rubika przechodzi pierwszy tak poważny lifting \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Najciekawszy jest jednak fakt, że przez cały ten czas kostka Rubika w zasadzie nie przechodziła żadnych zmian. To naprawdę dziwne zważywszy na fakt, że lubimy ulepszać wszystko i nawet szachy ciągle dostają jakieś nowe, wymyślne wersje. Cóż, o ile przez pół wieku kostka pozostawała praktycznie nietknięta, teraz się to skończyło i nadeszły zmiany.",
-        "Sekret nieprzemijającej popularności kostki leży w tym, że pomimo pozornej prostoty, w środku kryje się matematyczna głębia. Z zewnątrz widzimy jedynie sześć ścianek i dziewięć kolorowych pól na każdej z nich, jednak liczba możliwych konfiguracji przekracza 43 tryliony. Oznacza to, że za każdym razem, gdy dokładnie wymieszamy ścianki, istnieje ogromne prawdopodobieństwo, iż trzymamy w dłoniach układ, którego nikt inny wcześniej nie widział na oczy. To właśnie to połączenie minimalistycznej, łatwej do zrozumienia formy z niemal nieskończoną liczbą wariantów wyniosło węgierski wynalazek na szczyt międzynarodowej sławy.",
-        "Skala wyzwania bywa przy tym zdradliwa, o czym doskonale przekonał się sam konstruktor. Jak przypomina George Scholey – menedżer marki w firmie Spin Master, a prywatnie wielokrotny rekordzista Guinnessa w układaniu kostki (posiadający na koncie między innymi rekord w liczbie ułożonych sześcianów podczas biegu maratońskiego) – samemu Ernő Rubikowi pierwsze ułożenie własnego dzieła zajęło około miesiąca.",
-        "Z perspektywy kogoś, kto próbuje rozgryźć mechanikę obrotów całkowicie samodzielnie, bez podpierania się gotowymi algorytmami z sieci czy podręczników, ten wynik jest w pełni zrozumiały. Bez znajomości odpowiednich sekwencji ruchów (bo na tym teraz większość osób się opiera) uporządkowanie jednego rzędu niemal zawsze burzy to, co udało się już ułożyć na sąsiedniej ściance."
-      ]
-    },
-    {
       "id": "tech-8-cedf28",
       "entity_tag": "Tesla / SpaceX",
       "sector": "Motoryzacja & Tech",
@@ -1610,137 +1644,173 @@
       ]
     },
     {
-      "id": "tech-4-5ac015",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
+      "id": "tech-7-6eeb19",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
       "market_impact": "MEDIUM",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Czy zła wiadomość dla Jensena Huanga to także zła wiadomość dla branży AI?",
-      "original_title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:56",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "„Jensen to Nvidia, prawda?",
-        "A znaczna część tej gospodarki opiera się na Nvidii”.",
-        "Czy zła wiadomość dla Jensena Huanga to także zła wiadomość dla branży AI?"
-      ],
-      "extended_paragraphs": [
-        "„Jensen to Nvidia, prawda? A znaczna część tej gospodarki opiera się na Nvidii”.",
-        "Czy zła wiadomość dla Jensena Huanga to także zła wiadomość dla branży AI? Anthony Ha 13:56 PST · 15 listopada 2026 r. Nie spodziewaliśmy się, że to nadejdzie. A przynajmniej ja nie – tydzień temu, gdy pisałem, że zarząd Nvidii wszczął śledztwo w sprawie ówczesnego dyrektora generalnego Jensena Huanga, założyłem, że jego praca jest bezpieczna.",
-        "W najnowszym odcinku podcastu Equity TechCrunch Rebecca Bellan, Tim De Chant i ja rozmawialiśmy o tym, jak doszło do obalenia Huanga i co to oznacza dla szerszej gospodarki opartej na sztucznej inteligencji. Podczas gdy Tim stwierdził, że spodziewa się tego (choć nie tak szybko), Rebecca stwierdziła: „Nie sądziłam, że to w ogóle nastąpi”.",
-        "„Jensen to Nvidia, prawda?” dodała. „I znaczna część tej ekonomii opiera się na Nvidii.”",
-        "Podobnie zadziwiło mnie, jak szybko wydawało się, że poparcie dla Huanga się rozpadnie, a z każdym dniem pojawiało się coraz więcej skandalów. (Jednocześnie wiele osób nadal chciałoby jego powrotu). Poświęciliśmy także chwilę na zastanowienie się, co stanie się z inwestycjami Nvidii w większy ekosystem sztucznej inteligencji."
-      ]
-    },
-    {
-      "id": "tech-6-9c250c",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "SNL gromadzi wszystkich potentatów technologicznych na lekcji randkowania i szpiegostwa",
-      "original_title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:20",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Chociaż niezręczni, przerażający dyrektorzy techniczni stali się powracającym tematem w Saturday Night Live, w tym tygodniu odcinek dał obsadzie szansę na podzielenie się wszystkimi wrażeniami naraz.",
-        "SNL gromadzi wszystkich potentatów technologicznych na lekcji randkowania i szpiegostwa Anthony Ha 23:20 PST · 15 listopada 2026 Chociaż niezręczni, przerażający dyrektorzy techniczni stali się powracającym tematem w Saturday Night Live, w tym tygodniu odcinek dał obsadzie szansę pochwalenia się wszystkimi wrażeniami na raz.",
-        "W jednym szkicu mamy Jamesa Austina Johnsona jako Petera Thiela, Bena Marshalla jako Sama Altmana, Jane Wickline jako Dario Amodei, Jeremy’ego Culhane’a jako Elona Muska, Andrew Dismukesa jako Marka Zuckerberga – a ostatecznie do zabawy dołączył niedawno zmarły Bowen Yang jako Jensen Huang."
-      ],
-      "extended_paragraphs": [
-        "Chociaż niezręczni, przerażający dyrektorzy techniczni stali się powracającym tematem w Saturday Night Live, w tym tygodniu odcinek dał obsadzie szansę na podzielenie się wszystkimi wrażeniami naraz.",
-        "SNL gromadzi wszystkich potentatów technologicznych na lekcji randkowania i szpiegostwa Anthony Ha 23:20 PST · 15 listopada 2026 Chociaż niezręczni, przerażający dyrektorzy techniczni stali się powracającym tematem w Saturday Night Live, w tym tygodniu odcinek dał obsadzie szansę pochwalenia się wszystkimi wrażeniami na raz.",
-        "W jednym szkicu mamy Jamesa Austina Johnsona jako Petera Thiela, Bena Marshalla jako Sama Altmana, Jane Wickline jako Dario Amodei, Jeremy’ego Culhane’a jako Elona Muska, Andrew Dismukesa jako Marka Zuckerberga – a ostatecznie do zabawy dołączył niedawno zmarły Bowen Yang jako Jensen Huang.",
-        "wyrzucenie Huanga z Nvidii (po przyznaniu się do romansu z podejrzanym chińskim szpiegiem) mogłoby mieć poważne konsekwencje dla branży technologicznej; dostarczył także okazji do kilku oczywistych żartów o bogatych kujonach, którzy są łatwym celem dla kobiet (lub mężczyzn), którzy są poza ich ligą.",
-        "W skeczu agent CIA grany przez gospodarza programu Johna Mulaneya (jak zawsze zabawny, choć nie do końca pewny, jak wymawia się „Palantir” lub „Nvidia”) próbuje skrupulatnie wyjaśnić, dlaczego ci dyrektorzy powinni być podejrzliwi, gdy ktoś atrakcyjny nagle wydaje się nimi romantycznie zainteresowany. Ze względu na Altmana i Thiela dodał: „Mam nadzieję, że to jest oczywiste: nawet jeśli jesteś gejem, szpieg może cię oszukać”."
-      ]
-    },
-    {
-      "id": "tech-7-b2bdde",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "\"Promocja\" na Black Weeks może być pułapką. Jak w 30 sekund sprawdzić najniższą cenę z 30 dni?",
+      "title": "Tak ma wyglądać Galaxy S27 Ultra. Fani wściekli",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:30",
+      "time": "08:07",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/promocje-black-weeks-jak-sprawdzic",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/blackweek.jpeg",
+      "source_url": "https://antyweb.pl/tak-ma-wygladac-galaxy-s27-ultra-fani-wsciekli",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/02/S26-Ultra-Now-Nudge-scaled.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Black Week zbliża się wielkimi krokami, ale uważaj na pewne praktyki sprzedawców: bo możesz za produkty zapłacić nawet więcej, niż w październiku: i to nawet jeśli sklep prawidłowo, zgodnie z prawem, obrazuje obniżkę.",
-        "Jak nie wpaść w pułapkę tygodnia promocji?",
-        "Od 1 stycznia 2023 roku polscy sprzedawcy wskazujący na obniżkę cen, mają obowiązek pokazywać minimum cenowe z poprzednich 30 dni przed jej zastosowaniem."
+        "Samsung porzuca swój znak rozpoznawczy.",
+        "Tak ma wyglądać Galaxy S27 Ultra i fani są wściekli!",
+        "W sieci pojawiły się nowe rendery przedstawiające najpewniej finalną wersję Samsunga Galaxy S27 Ultra."
       ],
       "extended_paragraphs": [
-        "Black Week zbliża się wielkimi krokami, ale uważaj na pewne praktyki sprzedawców: bo możesz za produkty zapłacić nawet więcej, niż w październiku: i to nawet jeśli sklep prawidłowo, zgodnie z prawem, obrazuje obniżkę. Jak nie wpaść w pułapkę tygodnia promocji?",
-        "Od 1 stycznia 2023 roku polscy sprzedawcy wskazujący na obniżkę cen, mają obowiązek pokazywać minimum cenowe z poprzednich 30 dni przed jej zastosowaniem. Ta zmiana w legislacji wynika z dostosowywania się do dyrektywy Omnibus . Prawo obejmuje sklepy internetowe i stacjonarne: do tego minimum należy odnosić też deklarowany rabat.",
-        "Jak wielka może być różnica w tym względzie? Spójrzmy do jednego z zarzutów wobec Black Red White na stronie UOKiK-u. Urząd podaje tam informację dot. ceny promocyjnej 989 zł, obok której przekreślono 1439 zł, choć minimum sprzed obniżki wynosiło 899 zł. Niby oszczędzamy 450 złotych, ale... wobec minimum klient płacił o 90 zł więcej. UOKiK zakwestionował ten sposób przedstawiania \"korzyści\" konsumentowi.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → W październiku mogło być taniej Okres 30 dni liczy się wstecz od wprowadzenia danej obniżki, a nie od dnia, w którym produkt oglądasz: o tym też wielu zapomina. Ale: oferta z początku października może znaleźć się poza okresem uwzględnianym przy listopadowej przecenie. Nie jest to więc stuprocentowa gwarancja uzyskania zdecydowanie najniższej ceny z całego okresu.",
-        "Prosty przykład: wyobraźcie sobie, że słuchawki kosztują na początku października 1000 zł. Przez całe 30 dni poprzedzające przecenę pod koniec listopada ich cena wynosi już 1200 zł, ale już na Black Week spada do 1100 zł. Rabat, to \"niby\" stówka, ale tyle samo dopłacasz wobec ceny z początku października. Słaba to okazja, prawda?"
+        "Samsung porzuca swój znak rozpoznawczy. Tak ma wyglądać Galaxy S27 Ultra i fani są wściekli!",
+        "W sieci pojawiły się nowe rendery przedstawiające najpewniej finalną wersję Samsunga Galaxy S27 Ultra. Flagowiec zaskakuje, ale niekoniecznie w pozytywny sposób. Wiele osób nie kryje swojego rozczarowania, przyrównując urządzenie do... mniej prestiżowych modeli.",
+        "Przez lata Samsungowi udało się wypracowanie swojego własnego stylu, który urządzenia z serii Galaxy S bardzo mocno wyróżniał - zwłaszcza topowe flagowce z dopiskiem Ultra, które z uwagi na oszczędny, minimalistyczny design dało się rozpoznać już z daleka. I nie chodzi tu tylko o charakterystyczny rysik, bo głównym elementem wizerunku tych urządzeń na pewno była linia minimalistycznych pierścieni aparatów, która w specyficzny i dość wyjątkowy sposób potwierdzała, z jakim urządzeniem mamy do czynienia. Wiele wskazuje jednak na to, że pewna epoka dobiega właśnie końca. Do sieci trafiły bowiem nowe rendery mające przedstawiać nadchodzący model Galaxy S27 Ultra i... nie jest to coś, co fani chcieli zobaczyć. Grafiki opublikował Universe, zaznaczając, że jest w stu procentach pewien autentyczności finalnego projektu. Jeśli przecieki się potwierdzą, Samsung szykuje najbardziej radykalną zmianę wizualną od lat.",
+        "Koreański producent ma całkowicie zrezygnować z dotychczasowego układu kamer na rzecz jednej masywnej wyspy umieszczonej w górnej części plecków urządzenia. Nie jest to w żaden sposób nowatorskie ani kreujące nowy trend, bowiem Samsung wydaje się iść po prostu śladami Apple i Google, które w swoich modelach postawiły już na \"poziome\" belki obiektywów. W przypadku Samsunga mamy do czynienia z układem, w którym po lewej stronie (patrząc z naszej perspektywy) umieszczono dwa największe oczka ułożone pionowo jedno pod drugim, a po prawej jest kolumna mniejszych sensorów (teleobiektyw, mikrofon oraz diodę doświetlającą LED).",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Co ciekawe, w ofercie Samsunga ma również dojść do przetasowania - pojawi się bowiem Samsung Galaxy S27 Pro, który wizualnie ma oferować ten sam układ obiektywów i czujników (wraz z charakterystyczną wyspą), ale być mniejszy nawet od wariantu z Plusem. Według przecieków ma zostać wyposażony w ekran o przekątnej 6,5 cala (wobec 6,7 cala w Plusie). Opcja Pro nie będzie jednak posiadać takich samych możliwości co Ultra, zwłaszcza w temacie fotografii. Oba modele współdzielą główną matrycę 200 MP (Samsung S5KHP6) oraz aparat ultraszerokokątny 50 MP. Wariant Ultra zachowa jednak przewagę w postaci teleobiektywu z 5-krotnym przybliżeniem optycznym, podczas gdy Pro otrzyma prostszy zoom 3x. W przypadku procesora edycja Ultra otrzyma Qualcomm Snapdragon 8 Elite Extreme Gen 6, a wariantowi Pro przypadnie Snapdragon 8 Elite Gen 6."
+      ]
+    },
+    {
+      "id": "tech-1-e1aabd",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Obiekt z naszej galaktyki wysyła do nas sygnał, który powtarza się co 62 minuty",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/powtarzajacy-sie-sygnal-obiekt-droga-mleczna",
+      "image_url": "https://konto.chip.pl/uploads/2023/09/kosmos-niebo.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Astronomowie wykryli zagadkowe źródło, które nie dość, że z zadziwiającą regularnością wysyła sygnały docierające do naszej planety, to dodatkowo w pewnym momencie… całkowicie zniknęło z obserwacji.",
+        "LPT J1555-5631, bo o nim mówimy, znajduje się w Drodze Mlecznej.",
+        "Astronomowie zidentyfikowali je dzięki analizie archiwalnych danych z radioteleskopów MeerKAT i ASKAP."
+      ],
+      "extended_paragraphs": [
+        "Astronomowie wykryli zagadkowe źródło, które nie dość, że z zadziwiającą regularnością wysyła sygnały docierające do naszej planety, to dodatkowo w pewnym momencie… całkowicie zniknęło z obserwacji. LPT J1555-5631, bo o nim mówimy, znajduje się w Drodze Mlecznej. Astronomowie zidentyfikowali je dzięki analizie archiwalnych danych z radioteleskopów MeerKAT i ASKAP. Szczególną uwagę badaczy zwróciła niezwykła regularność […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Obiekt z naszej galaktyki wysyła do nas sygnał, który powtarza się co 62 minuty \" ? Dodaj CHIP.pl do preferowanych źródeł w Google LPT J1555-5631, bo o nim mówimy, znajduje się w Drodze Mlecznej. Astronomowie zidentyfikowali je dzięki analizie archiwalnych danych z radioteleskopów MeerKAT i ASKAP. Szczególną uwagę badaczy zwróciła niezwykła regularność emitowanych sygnałów. Obiekt wysyłał silne impulsy co około 62 minuty, a w pewnym momencie w ogóle nie dało się go już wykryć.",
+        "Czytaj też: Teleskop wykrył coś krążącego wokół czarnej dziury w centrum Drogi Mlecznej. Astronomowie mają więcej pytań niż odpowiedzi",
+        "Odkrycie wiąże się z badaniami prowadzonymi przez Scotta Hymana z Sweet Briar College. Astronom zetknął się z podobną zagadką już we wrześniu 2002 roku. Wówczas zaobserwował pięć intensywnych rozbłysków fal radiowych pochodzących z okolic centrum Drogi Mlecznej. Pojawiały się one w odstępach wynoszących 77 minut, a następnie źródło sygnału zamilkło. Przez kolejne lata naukowcy bezskutecznie próbowali znaleźć podobny obiekt.",
+        "Przełom nastąpił dopiero w 2022 roku, kiedy zespół Hymana analizował dane zebrane podczas poszukiwań pulsarów milisekundowych. W archiwum radioteleskopu MeerKAT dostrzegł nietypowy sygnał przypominający emisję pulsara, jednak impulsy pojawiały się w odstępach znacznie dłuższych niż zwykle. Dodatkowa analiza obserwacji wykonanych przez ASKAP pozwoliła potwierdzić, iż obiekt emituje sygnały w regularnym cyklu wynoszącym około 62,2 minuty."
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-3-b07165",
+      "id": "swiat-3-f35aa9",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Najlepszy wynik w Korei Południowej na egzaminie z zakresu księgowości podatkowej przyznaje się do oszustwa",
-      "original_title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "title": "Australijski poseł „pełen wdzięczności” opuszcza szpital po rzekomym ataku samochodowym",
+      "original_title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:37",
+      "time": "03:09",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": true,
       "summary_points": [
-        "Han Won-seok, lat 34, przyznał się, że użył ukrytej kamery i sztucznej inteligencji, aby uzyskać niemal idealny wynik w ważnym teście.",
-        "Źródło zdjęcia, Lee Don-Ho/YouTube Podpis pod zdjęciem: Han Won-seok przyznał się w filmie na kanale YouTube swojego prawnika Kandydat, który zajął pierwsze miejsce na certyfikowanym egzaminie z zakresu księgowości podatkowej w Korei Południowej, przyznał się do oszustwa przy użyciu miniaturowego aparatu, telefonu komórkowego i narzędzi sztucznej inteligencji.",
-        "Han Won-seok przyznał się w filmie opublikowanym na koncie YouTube swojego prawnika Lee Don-Ho, dodając, że przyznał się funkcjonariuszom policji miejskiej w Seulu i przedstawił szczegółowe informacje na temat tego, jak oszukiwał."
+        "Posłanka straciła obie nogi po rzekomym ataku przed jej biurem wyborczym cztery tygodnie temu.",
+        "Australijska polityk Helen Haines stwierdziła, że ​​jest „pełna wdzięczności” po wypisaniu ze szpitala, cztery tygodnie po rzekomym zaatakowaniu samochodem i wyniku podwójnej amputacji.",
+        "Niezależna posłanka została uderzona przed swoim biurem elektoratu w Wangaratta, na północny wschód od Melbourne, 19 października."
       ],
       "extended_paragraphs": [
-        "Han Won-seok, lat 34, przyznał się, że użył ukrytej kamery i sztucznej inteligencji, aby uzyskać niemal idealny wynik w ważnym teście.",
-        "Źródło zdjęcia, Lee Don-Ho/YouTube Podpis pod zdjęciem: Han Won-seok przyznał się w filmie na kanale YouTube swojego prawnika",
-        "Kandydat, który zajął pierwsze miejsce na certyfikowanym egzaminie z zakresu księgowości podatkowej w Korei Południowej, przyznał się do oszustwa przy użyciu miniaturowego aparatu, telefonu komórkowego i narzędzi sztucznej inteligencji.",
-        "Han Won-seok przyznał się w filmie opublikowanym na koncie YouTube swojego prawnika Lee Don-Ho, dodając, że przyznał się funkcjonariuszom policji miejskiej w Seulu i przedstawił szczegółowe informacje na temat tego, jak oszukiwał.",
-        "34-latek w pierwszej turze uzyskał 397,5 z 400 punktów, błędnie odpowiadając tylko na jedno ze 160 pytań, co początkowo wzbudziło podejrzenia i wywołało internetowe spekulacje."
+        "Posłanka straciła obie nogi po rzekomym ataku przed jej biurem wyborczym cztery tygodnie temu.",
+        "Australijska polityk Helen Haines stwierdziła, że ​​jest „pełna wdzięczności” po wypisaniu ze szpitala, cztery tygodnie po rzekomym zaatakowaniu samochodem i wyniku podwójnej amputacji.",
+        "Niezależna posłanka została uderzona przed swoim biurem elektoratu w Wangaratta, na północny wschód od Melbourne, 19 października. Incydent ten przeraził Australię.",
+        "Brendan Nugent, lat 43, został oskarżony o niebezpieczną jazdę powodującą poważne obrażenia, umyślne spowodowanie poważnych obrażeń oraz przestępstwo federalne polegające na wyrządzeniu krzywdy funkcjonariuszowi publicznemu. Nie złożył jeszcze wniosków.",
+        "W swoich pierwszych publicznych komentarzach od czasu ataku 65-letnia Haines stwierdziła, że ​​weszła w etap rehabilitacji."
       ]
     },
     {
-      "id": "swiat-1-421a6c",
+      "id": "swiat-5-b0c311",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 17 tys., 3,5 tys., 74,5 tys.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "17 tys.",
+        "3,5 tys.",
+        "74,5 tys."
+      ],
+      "title": "Następstwa lotniczego paraliżu w USA. Tysiące lotów odwołanych i opóźnionych",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:14",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-16/nastepstwa-lotniczego-paralizu-w-usa-tysiace-lotow-odwolanych-i-opoznionych/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/7k/7krn2s4ak6rxxn2x5e12zjuxwbf5pbvu.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "W następstwie piątkowej awarii, po której wstrzymano ruch lotniczy w Stanach Zjednoczonych, w niedzielę ok. 70 proc. rejsów wystartowało z opóźnieniem poniżej 14 minut, a prawie 2 tysiące zostało odwołanych - wynika z danych firmy analitycznej Cirium.",
+        "Od początku lotniczego kryzysu odwołano ponad 17 tys. lotów.",
+        "Według danych firmy analitycznej Cirium, specjalizującej się w monitorowaniu rynku lotniczego, około 70 proc. niedzielnych rejsów wystartowało z opóźnieniem nieprzekraczającym 14 minut."
+      ],
+      "extended_paragraphs": [
+        "W następstwie piątkowej awarii, po której wstrzymano ruch lotniczy w Stanach Zjednoczonych, w niedzielę ok. 70 proc. rejsów wystartowało z opóźnieniem poniżej 14 minut, a prawie 2 tysiące zostało odwołanych - wynika z danych firmy analitycznej Cirium. Od początku lotniczego kryzysu odwołano ponad 17 tys. lotów.",
+        "Według danych firmy analitycznej Cirium, specjalizującej się w monitorowaniu rynku lotniczego, około 70 proc. niedzielnych rejsów wystartowało z opóźnieniem nieprzekraczającym 14 minut.",
+        "Ponad 1900 połączeń zostało odwołanych. Zakłócenia są następstwem awarii, która w piątek zmusiła Federalną Administrację Lotnictwa (FAA) do wstrzymania ruchu lotniczego w całych Stanach Zjednoczonych na ponad cztery godziny. Było to trzecie całkowite uziemienie lotów w USA w tym stuleciu. W momencie wydania polecenia w powietrzu znajdowało się około 3,5 tys. samolotów.",
+        "Jak podkreśla Cirium, od początku kryzysu odwołano ponad 17 tys. lotów , a niemal 40 proc. z ponad 74,5 tys. zaplanowanych rejsów zostało opóźnionych. W piątek odwołano około 9 tys. lotów, a blisko 30 proc. pozostałych połączeń było opóźnionych.",
+        "W piątek po południu wstrzymano loty między Kanadą a USA, sytuacja w ograniczonym stopniu dotknęła również Europę . Na największym lotnisku w Wielkiej Brytanii, Heathrow, część lotów do USA odwołano lub opóźniono. Kilka rejsów odwołano na lotniskach w Niemczech, Hiszpanii i we Włoszech."
+      ]
+    },
+    {
+      "id": "swiat-1-4caf25",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Surowce Energetyczne” (Ropa Naftowa) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Wycofanie się sił jemeńskich pozostawia Huti pod kontrolą kluczowego obszaru na wybrzeżu Morza Czerwonego",
+      "original_title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "07:23",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Siły wspierane przez Arabię ​​Saudyjską mówią, że przemieszczają wojska z Cieśniny Bab al-Mandab, aby bronić tymczasowej stolicy Adenu.",
+        "Jemeńskie siły prorządowe wspierane przez Arabię ​​Saudyjską oświadczyły, że wycofują się z obszaru z widokiem na strategicznie ważną cieśninę Bab al-Mandab, pozostawiając go pod kontrolą wspieranego przez Iran ruchu Houthi.",
+        "Jemeńskie wojsko oświadczyło, że przerzuca wojska z kluczowego szlaku żeglugowego na południowym krańcu Morza Czerwonego, aby bronić swojej tymczasowej stolicy, Adenu."
+      ],
+      "extended_paragraphs": [
+        "Siły wspierane przez Arabię ​​Saudyjską mówią, że przemieszczają wojska z Cieśniny Bab al-Mandab, aby bronić tymczasowej stolicy Adenu.",
+        "Jemeńskie siły prorządowe wspierane przez Arabię ​​Saudyjską oświadczyły, że wycofują się z obszaru z widokiem na strategicznie ważną cieśninę Bab al-Mandab, pozostawiając go pod kontrolą wspieranego przez Iran ruchu Houthi.",
+        "Jemeńskie wojsko oświadczyło, że przerzuca wojska z kluczowego szlaku żeglugowego na południowym krańcu Morza Czerwonego, aby bronić swojej tymczasowej stolicy, Adenu.",
+        "Ta zmiana kończy tygodniową ofensywę mającą na celu zabezpieczenie obszaru w pobliżu drogi wodnej po tym, jak Houthi zajęli go w niespodziewanej ofensywie we wrześniu, ograniczając światowy eksport ropy i zmuszając tysiące ludzi do ucieczki.",
+        "W niedzielę media kierowane przez Huti doniosły, że grupa przejęła kontrolę nad terytorium. Arabia Saudyjska nie skomentowała tej sytuacji."
+      ]
+    },
+    {
+      "id": "swiat-2-421a6c",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1755,7 +1825,7 @@
       "time": "19:32",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
@@ -1768,43 +1838,43 @@
         "Źródło zdjęcia, Reuters Tytuł zdjęcia, Ograniczenia wpłynęły na zdolność Ukrainy do przechwytywania rosyjskich rakiet i dronów",
         "Prezydent Wołodymyr Zełenski stwierdził, że kluczowa amerykańska usługa Internetu satelitarnego w dalszym ciągu działa zbyt wolno i wpływa na zdolność Ukrainy do powstrzymywania rosyjskich ataków.",
         "„Liczymy na zniesienie tych obostrzeń. Od tego bezpośrednio zależy ochrona życia i infrastruktury energetycznej Ukrainy przed zimą” – powiedział.",
-        "Kwestia szybkości systemu Starshield – wojskowej usługi Starlink należącej do Elona Muska i świadczonej Ukrainie przez rząd USA – toczy się od tygodni."
+        "Kwestia szybkości systemu Starshield – usługi wojskowej opracowanej przez Starlink Elona Muska i dostarczanej Ukrainie przez rząd USA – toczy się od tygodni."
       ]
     },
     {
-      "id": "swiat-2-c0545b",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
+      "id": "swiat-4-ae0a86",
+      "entity_tag": "Amazon (NASDAQ: AMZN)",
+      "sector": "E-commerce & Chmura",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „E-commerce & Chmura” (Amazon (NASDAQ: AMZN)) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Meksykański baron narkotykowy Miguel Angel Felix Gallardo umiera w wieku 80 lat",
-      "original_title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:52",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a295/live/b9635e50-e14b-11f1-93e1-3b657b665bcf.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
+      "title": "Awaria rakiety niedługo po starcie. Amazon stracił dziesiątki satelitów",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:11",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-16/awaria-rakiety-niedlugo-po-starcie-amazon-stracil-dziesiatki-satelitow/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/hb/hbea2wnb8c8dj65k851vjdk1ewz42pqw.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Znany jako „Szef szefów” był w latach 80.",
-        "szefem wszechpotężnego kartelu Guadalajara, zanim jego aresztowanie rozbiło jego organizację narkotykową.",
-        "Źródło zdjęcia, EPA Tytuł zdjęcia, meksykańska policja więzienna zabezpieczyła szpital, w którym na początku tygodnia przyjęto Miguela Ángela Félixa Gallardo W wieku 80 lat zmarł w szpitalu słynny meksykański baron narkotykowy Miguel Ángel Félix Gallardo."
+        "Dwustopniowa rakieta nośna Vulcan Centaur uległa awarii około 10 minut po starcie i nie zdołała wejść na orbitę.",
+        "W wyniku zdarzenia 40 satelitów Amazon Leo - sieci internetowej mającej być konkurentem Starlinka firmy SpaceX - zostało utraconych.",
+        "Przyczyny awarii nie są jasne."
       ],
       "extended_paragraphs": [
-        "Znany jako „Szef szefów” był w latach 80. szefem wszechpotężnego kartelu Guadalajara, zanim jego aresztowanie rozbiło jego organizację narkotykową.",
-        "Źródło zdjęcia, EPA Tytuł zdjęcia, meksykańska policja więzienna zabezpieczyła szpital, w którym na początku tygodnia przyjęto Miguela Ángela Félixa Gallardo",
-        "W wieku 80 lat zmarł w szpitalu słynny meksykański baron narkotykowy Miguel Ángel Félix Gallardo.",
-        "Félix Gallardo był powszechnie uważany za jednego z największych przemytników narkotyków w historii i przypisuje się mu budowanie sojuszu pomiędzy grupami przestępczymi w Kolumbii a własnym meksykańskim kartelem.",
-        "Znany jako Ojciec chrzestny lub „Szef szefów”, Félix Gallardo był szefem wszechpotężnego kartelu Guadalajara, który panował nad meksykańskim handlem narkotykami u szczytu boomu kokainowego w latach 80. XX wieku."
+        "Dwustopniowa rakieta nośna Vulcan Centaur uległa awarii około 10 minut po starcie i nie zdołała wejść na orbitę. W wyniku zdarzenia 40 satelitów Amazon Leo - sieci internetowej mającej być konkurentem Starlinka firmy SpaceX - zostało utraconych. Przyczyny awarii nie są jasne. Przykro to słyszeć - uznał Elon Musk.",
+        "Rakieta wystartowała z Przylądka Canaveral na Florydzie, a awarii uległa około 10 minut po starcie . Podczas transmisji z początku lotu nie widać było poważnych problemów, lecz materiał wideo został ucięty przed czasem.",
+        "Jak podała spółka United Launch Alliance , do której należała rakieta, nie dysponuje ona jeszcze \"żadnymi konkretnymi danymi, które pozwoliłyby zrozumieć, co się wydarzyło\". Wiadomo jedynie, iż Vulcan Centaur nie zdołał wejść na orbitę , ponieważ \"doświadczył anomalii i nie zdołał wynieść misji Amazona na orbitę\".",
+        "And LIFTOFF of the first Vulcan Amazon Leo mission, carrying 40 broadband satellites to low Earth orbit! https://t.co/dv1MSjJUMF",
+        "Rakieta miała wynieść na niską orbitę okołoziemską 40 satelitów Amazon Leo - sieci internetowej mającej być konkurentem Starlinka firmy SpaceX. Sieć, początkowo zwana Project Kuipers , ma składać się docelowo z 3200 satelitów, a dotąd umieszczono w kosmosie około 400."
       ]
     },
     {
-      "id": "swiat-4-95ea53",
+      "id": "swiat-6-78460e",
       "entity_tag": "USA & Bezpieczeństwo",
       "sector": "Geopolityka",
       "market_impact": "LOW",
@@ -1812,159 +1882,123 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Tarcia w NATO. Media: Szczytu przywódców w Albanii nie będzie",
+      "title": "Spotkanie światowych przywódców w Shenzhen. Chińskie MSZ potwierdza",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:06",
+      "time": "05:40",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/tarcia-w-nato-media-szczytu-w-albanii-nie-bedzie/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/cq/cqfns8471xk85piavtuc4cn29rdu5cwj.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-16/spotkanie-swiatowych-przywodcow-w-shenzhen-chinskie-msz-potwierdza/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/34/34mx4ugbfdmmxhnig5bxauuqwsj8o2a9.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "NATO zrezygnuje z przyszłorocznego szczytu przywódców w Albanii w związku z ograniczeniem spotkań na wysokim szczeblu - podała agencja AP.",
-        "Powodem mają być napięcia w Sojuszu wynikające ze sporów w podejściu do kwestii Ukrainy, Iranu oraz wydatków na obronność.",
-        "Agencja AP poinformowała w niedzielę, że \" NATO ogranicza liczbę spotkań na wysokim szczeblu i nie zorganizuje w przyszłym roku szczytu przywódców w Albanii\"."
+        "W czwartek w Shenzhen dojdzie do trójstronnego spotkania Xi Jinpinga, Władimira Putina i Donalda Trumpa - potwierdziło chińskie MSZ.",
+        "Będzie to pierwsza rozmowa przywódców trzech czołowych światowych mocarstw nuklearnych w takim formacie.",
+        "Japońskie media wskazują, że najwięcej korzyści z tego wydarzenia może osiągnąć Xi Jinping."
       ],
       "extended_paragraphs": [
-        "NATO zrezygnuje z przyszłorocznego szczytu przywódców w Albanii w związku z ograniczeniem spotkań na wysokim szczeblu - podała agencja AP. Powodem mają być napięcia w Sojuszu wynikające ze sporów w podejściu do kwestii Ukrainy, Iranu oraz wydatków na obronność.",
-        "Agencja AP poinformowała w niedzielę, że \" NATO ogranicza liczbę spotkań na wysokim szczeblu i nie zorganizuje w przyszłym roku szczytu przywódców w Albanii\".",
-        "Jeszcze w czwartek albański premier Edi Rama mówił, że \"nie ma jeszcze wspólnego stanowiska co do terminu szczytu, na pewno nie odbędzie się on w 2027 roku\". Dodał, że jeżeli w przyszłym roku zostanie on zorganizowany, to odbędzie się w Tiranie.",
-        "Sekretarz generalny NATO Mark Rutte w rozmowie z AP powiedział, że \"jesteśmy elastyczni, jeśli chodzi o szczyty NATO\", a spotkania na najwyższym szczeblu organizuje się wtedy, \"kiedy są potrzebne\".",
-        "Powodem tarć w Sojuszu są nieporozumienia w kwestii wokół Iranu, wojny na Ukrainie i wydatków na obronność."
-      ]
-    },
-    {
-      "id": "swiat-5-8032aa",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Leon XIV zabrał głos w sprawie chorób. \"To wielkie kłamstwo\"",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:32",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/leon-xiv-zabral-glos-w-sprawie-chorob-to-wielkie-klamstwo/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/kg/kgu55ko18a3yoy69id5e11cqdxwu261g.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "- Choroba jest postrzegana jako nieszczęście, które umniejsza wartość człowieka.",
-        "- powiedział papież Leon XIV podczas niedzielnej modlitwy Anioł Pański w peruwiańskim Cusco.",
-        "Ojciec Święty zwrócił się do osób zmagających się z cierpieniem fizycznym i psychicznym, podkreślając, że ich słabość nie odbiera im godności."
-      ],
-      "extended_paragraphs": [
-        "- Choroba jest postrzegana jako nieszczęście, które umniejsza wartość człowieka. To wielkie kłamstwo! - powiedział papież Leon XIV podczas niedzielnej modlitwy Anioł Pański w peruwiańskim Cusco. Ojciec Święty zwrócił się do osób zmagających się z cierpieniem fizycznym i psychicznym, podkreślając, że ich słabość nie odbiera im godności.",
-        "Papież Leon XIV przebywa z wizytą apostolską w Ameryce Południowej . W niedzielę odwiedził peruwiańskie Cusco, dawną stolicę imperium Inków, położoną wysoko w Andach. Przed miejscową katedrą poprowadził modlitwę Anioł Pański, podczas której szczególną uwagę poświęcił osobom chorym i cierpiącym.",
-        "- Myślę o was, drodzy bracia i siostry, którzy cierpicie na ciele i duszy z powodu choroby - zwrócił się do zgromadzonych wiernych.",
-        "W swoim przemówieniu Ojciec Święty skrytykował sposób, w jaki współczesne społeczeństwo postrzega osoby zmagające się z problemami zdrowotnymi.",
-        "- W oczach świata, ukształtowanego przez kulturę odrzucenia i materialną produktywność, choroba jest postrzegana jako nieszczęście, które umniejsza wartość człowieka. To wielkie kłamstwo! - podkreślił papież."
-      ]
-    },
-    {
-      "id": "swiat-6-b58112",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 450 tys.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "450 tys."
-      ],
-      "title": "Wrze u naszych sąsiadów. Nawet 450 tys. osób na proteście przeciwko rządowi",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:51",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/wrze-u-naszych-sasiadow-nawet-450-tys-osob-na-protescie-przeciwko-rzadowi/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/bx/bxjrjpq5h9kzn7wd71ugv2v335u7kvkb.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Setki tysięcy Czechów wyszły na ulice Pragi, by zaprotestować przeciwko planowanym przez rząd Andreja Babisza zmianom w finansowaniu mediów publicznych.",
-        "Według organizatorów w demonstracji mogło uczestniczyć nawet 450 tys. osób, co oznaczałoby największe zgromadzenie w historii Republiki Czeskiej.",
-        "Demonstrację zwołaną przez inicjatywę Milion Chwil dla Demokracji nazwano \" Nigdy więcej 4.36 \"."
-      ],
-      "extended_paragraphs": [
-        "Setki tysięcy Czechów wyszły na ulice Pragi, by zaprotestować przeciwko planowanym przez rząd Andreja Babisza zmianom w finansowaniu mediów publicznych. Według organizatorów w demonstracji mogło uczestniczyć nawet 450 tys. osób, co oznaczałoby największe zgromadzenie w historii Republiki Czeskiej.",
-        "Demonstrację zwołaną przez inicjatywę Milion Chwil dla Demokracji nazwano \" Nigdy więcej 4.36 \". To nawiązanie do nocnej godziny przyjęcia w pierwszym czytaniu i skierowania do dalszych prac parlamentarnych rządowego projektu likwidacji abonamentu i finansowania publicznego radia i telewizji z budżetu państwa. Głosowanie przeprowadzono, mimo że na głos w debacie czekało jeszcze 65 posłów.",
-        "Zdaniem protestujących zmiany prowadzą do upaństwowienia publicznych nadawców i zagrażają ich niezależności.",
-        "Lider Miliona Chwil Mikulasz Minarz podkreślił, że protest skierowany jest przeciwko siłowemu stylowi sprawowania rządów przez premiera Andreja Babisza . Ustawa o mediach jest jego zdaniem przykładem podejmowania decyzji bez wcześniejszych otwartych dyskusji. Krytycy rządu zwracają także uwagę na ich zdaniem błędne i podejmowane nagle decyzje personalne.",
-        "Podczas niedzielnego zgromadzenia odczytano petycję, w której m.in. domagano się dyskusji członków rządu z ekspertami. Zwrócono się z żądaniem przeprosin za nocne głosowanie o godz. 4.36. Kolejnym żądaniem jest odwołanie lidera skrajnie prawicowego ruchu Wolność i Demokracja Bezpośrednia (SPD) Tomia Okamury ze stanowiska przewodniczącego Izby Deputowanych oraz odebranie przedstawicielowi SPD wpływu na resort obrony."
+        "W czwartek w Shenzhen dojdzie do trójstronnego spotkania Xi Jinpinga, Władimira Putina i Donalda Trumpa - potwierdziło chińskie MSZ. Będzie to pierwsza rozmowa przywódców trzech czołowych światowych mocarstw nuklearnych w takim formacie. Japońskie media wskazują, że najwięcej korzyści z tego wydarzenia może osiągnąć Xi Jinping.",
+        "Chińskie ministerstwo spraw zagranicznych potwierdziło, że w czwartek w Shenzhen na południu Chin odbędzie się bezprecedensowe, trójstronne spotkanie przywódców Chin, Rosji i USA: Xi Jinpinga, Władimira Putina oraz Donalda Trumpa. Do rozmów dojdzie w kuluarach szczytu APEC.",
+        "\"19 listopada przywódca Chin Xi Jinping spotka się w Shenzhen z prezydentem Rosji Władimirem Putinem i prezydentem Stanów Zjednoczonych Donaldem Trumpem w ramach trójstronnego szczytu przywódców\" – poinformował chiński resort dyplomacji w komunikacie, w którym nie podano żadnych szczegółów",
+        "W ubiegłym tygodniu o planowanym spotkaniu liderów Chin, Rosji i USA podczas dwudniowego szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC) poinformował zarówno Biały Dom, jak i Kreml. Będzie to pierwsza okazja, kiedy przywódcy trzech czołowych światowych mocarstw nuklearnych i geopolitycznych spotkają się w formacie trójstronnym.",
+        "Według Białego Domu Trump wcześniej spotka się z samym przewodniczącym Xi, choć strona chińska dotychczas nie potwierdziła tej informacji. Biały Dom podał, że nie zaplanowano dwustronnego spotkania Trumpa z Putinem."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-6-3f44a1",
+      "id": "sport-1-c57568",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Tearful McIlroy dedykuje rekordowe zwycięstwo choremu ojcu",
-      "original_title": "Tearful McIlroy dedicates record-equalling win to ill dad",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:14",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b499/live/ac2a73c0-e107-11f1-b3df-4961589d9b68.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": true,
-      "summary_points": [
-        "Rory McIlroy ociera łzy, dedykując swój rekordowy, ósmy tytuł w wyścigu do Dubaju swojemu choremu ojcu, Gerry'emu.",
-        "-15 Hatton (ang.); -10 McIlroy (NI); -8 Chacarra (Spa), Lindell (Finlandia); -7 Olesen (Den), Reitan (Nor), Laporta (Włochy), Lindberg (Szwecja), Perez (Fra) Wybrani inni: -4 Wallace (ang.); -3 Rahm (Spa), Schaper (SA); Poziom Fleetwwod (angielski), Reed (USA), Fox (Nowa Zelandia); +1 Rai (angielski) Rory McIlroy otarł łzy, dedykując zwycięstwo w ósmym wyścigu do Dubaju swojemu choremu ojcu, Gerry'emu.",
-        "Chwilę po niedzielnym wyrównaniu rekordu Colina Montgomeriego w liczbie tytułów z całorocznych europejskich tournée, Irlandczyka z Irlandii Północnej zapytano o stan zdrowia ojca."
-      ],
-      "extended_paragraphs": [
-        "Rory McIlroy ociera łzy, dedykując swój rekordowy, ósmy tytuł w wyścigu do Dubaju swojemu choremu ojcu, Gerry'emu.",
-        "-15 Hatton (ang.); -10 McIlroy (NI); -8 Chacarra (Spa), Lindell (Finlandia); -7 Olesen (Den), Reitan (Nor), Laporta (Włochy), Lindberg (Szwecja), Perez (Fra)",
-        "Wybrani inni: -4 Wallace (ang.); -3 Rahm (Spa), Schaper (SA); Poziom Fleetwwod (angielski), Reed (USA), Fox (Nowa Zelandia); +1 Rai (angielski)",
-        "Rory McIlroy otarł łzy, dedykując zwycięstwo w ósmym wyścigu do Dubaju swojemu choremu ojcu, Gerry'emu.",
-        "Chwilę po niedzielnym wyrównaniu rekordu Colina Montgomeriego w liczbie tytułów z całorocznych europejskich tournée, Irlandczyka z Irlandii Północnej zapytano o stan zdrowia ojca."
-      ]
-    },
-    {
-      "id": "sport-1-217c68",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Stało się. Wschodząca gwiazda już przed Sabalenką",
+      "title": "Ujawnił, co chce robić po zakończeniu kariery. Kibice będą zaskoczeni",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "23:25",
+      "time": "08:07",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284418/stalo-sie-wschodzaca-gwiazda-juz-przed-sabalenka",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa3eb85a1709_61030496.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284441/ujawnil-co-chce-robic-po-zakonczeniu-kariery-kibice-beda-zaskoczeni",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afab77fa1fae1_68519037.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": true,
+      "summary_points": [
+        "Artur Jędrzejczyk po zakończeniu kariery nie zamierza narzekać na nudę.",
+        "Były reprezentant Polski planuje rozwijać kanał na YouTubie i prowadzić transmisje z własnego garażu.",
+        "W rozmowie z Ekstraklasa TV wspomniał też o składaniu traktorów."
+      ],
+      "extended_paragraphs": [
+        "Artur Jędrzejczyk po zakończeniu kariery nie zamierza narzekać na nudę. Były reprezentant Polski planuje rozwijać kanał na YouTubie i prowadzić transmisje z własnego garażu. W rozmowie z Ekstraklasa TV wspomniał też o składaniu traktorów.",
+        "Skomentuj Artur Jędrzejczyk po zakończeniu kariery nie zamierza narzekać na nudę. Były reprezentant Polski planuje rozwijać kanał na YouTubie i prowadzić transmisje z własnego garażu. W rozmowie z Ekstraklasa TV wspomniał też o składaniu traktorów.",
+        "Artur Jędrzejczyk przez lata był jedną z najbardziej rozpoznawalnych postaci Legii Warszawa . W sierpniu 2026 roku rozegrał pożegnalne spotkanie ze Śląskiem Wrocław, zamykając ważny rozdział swojej piłkarskiej kariery. Teraz były obrońca korzysta z wolnego czasu i zastanawia się nad kolejnymi wyzwaniami.",
+        "W rozmowie z Ekstraklasa TV przyznał, że po odejściu z Legii potrzebował chwili, aby przyzwyczaić się do nowej codzienności. Przez pierwszy miesiąc nadal wstawał o godzinie, o której wcześniej przygotowywał się do klubowych obowiązków. Zmiana wieloletnich nawyków nie przyszła mu więc od razu.",
+        "Jędrzejczyk zdradził również, że obecnie więcej czasu poświęca rodzinie. Nie oznacza to jednak, że zamierza całkowicie zrezygnować z aktywności zawodowej. Ma już pomysły na działalność w internecie, a część przygotowań zdążył nawet zakończyć."
+      ]
+    },
+    {
+      "id": "sport-8-cb26b5",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Zagłosuj na najlepszego męskiego napastnika stulecia w Europie",
+      "original_title": "Vote for the best men's European striker this century",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "07:59",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1253/live/86ce4590-df57-11f1-b441-2b33b063138f.png",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Kto jest najlepszym męskim napastnikiem Europy w tym stuleciu?",
+        "Zagłosuj na swoją trójkę, zanim wyniki zostaną ogłoszone w Ligach Europy.",
+        "Nasz panel Ligi Europy zawęził najlepszych europejskich napastników tego stulecia do 20-osobowej krótkiej listy, ale to Ty musisz wybrać 10 najlepszych."
+      ],
+      "extended_paragraphs": [
+        "Kto jest najlepszym męskim napastnikiem Europy w tym stuleciu? Zagłosuj na swoją trójkę, zanim wyniki zostaną ogłoszone w Ligach Europy.",
+        "Nasz panel Ligi Europy zawęził najlepszych europejskich napastników tego stulecia do 20-osobowej krótkiej listy, ale to Ty musisz wybrać 10 najlepszych.",
+        "Głosowanie kończy się o 23:00 GMT we wtorek, 17 listopada, a wyniki zostaną ogłoszone na żywo w środowej audycji w BBC Radio 5 Live w godzinach 21:00–22:30 GMT."
+      ]
+    },
+    {
+      "id": "sport-7-f76a93",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
+      "key_metrics": [],
+      "title": "Trener nie ukrywa problemów. Tak wygląda sytuacja Polek u progu sezonu",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:30",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1284323/trener-nie-ukrywa-problemow-tak-wyglada-sytuacja-polek-u-progu-sezonu",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a9166bbdc78b5_73486869.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Mirra Andriejewa zakończyła sezon mocnym akcentem.",
-        "Triumf w WTA Finals pozwolił jej awansować na drugie miejsce światowego rankingu.",
-        "Rosjanka wyprzedziła Arynę Sabalenkę."
+        "Polska kadra kobiet przystępuje do nowego sezonu Pucharu Świata z ograniczonymi możliwościami.",
+        "Stefan Hula opowiedział o problemach organizacyjnych, sytuacji nieobecnych zawodniczek i planach na kolejne konkursy.",
+        "1 Komentarz Polska kadra kobiet przystępuje do nowego sezonu Pucharu Świata z ograniczonymi możliwościami."
       ],
       "extended_paragraphs": [
-        "Mirra Andriejewa zakończyła sezon mocnym akcentem. Triumf w WTA Finals pozwolił jej awansować na drugie miejsce światowego rankingu. Rosjanka wyprzedziła Arynę Sabalenkę.",
-        "3 Komentarze Mirra Andriejewa zakończyła sezon mocnym akcentem. Triumf w WTA Finals pozwolił jej awansować na drugie miejsce światowego rankingu. Rosjanka wyprzedziła Arynę Sabalenkę.",
-        "Mirra Andriejewa ma za sobą znakomite zakończenie sezonu. Rosyjska tenisistka zwyciężyła w WTA Finals , a komplet wygranych spotkań pozwolił jej zdobyć 1500 punktów do światowego rankingu. Dzięki temu zanotowała awans w zestawieniu i znalazła się na drugim miejscu rankingu WTA \"na żywo\". Oficjalne zestawienie zostanie opublikowane w poniedziałek.",
-        "Triumf w prestiżowej imprezie przyniósł nastolatce nie tylko cenne trofeum, samochód i nagrodę pieniężną, ale również awans w klasyfikacji najlepszych tenisistek świata. Andriejewa wyprzedziła Arynę Sabalenkę , która nie zdołała awansować z grupy WTA Finals. Białorusinka zakończyła występ w turnieju z dodatkiem 200 punktów, co nie wystarczyło do utrzymania drugiej pozycji.",
-        "Na szczycie klasyfikacji jest Jelena Rybakina . Reprezentantka Kazachstanu zakończyła sezon jako liderka światowego rankingu, a jej pozycja nie uległa zmianie mimo rozstrzygnięć podczas kończącego sezon turnieju. Andriejewa może natomiast cieszyć się z awansu na drugą lokatę, który potwierdza jej coraz mocniejszą pozycję w światowym tenisie."
+        "Polska kadra kobiet przystępuje do nowego sezonu Pucharu Świata z ograniczonymi możliwościami. Stefan Hula opowiedział o problemach organizacyjnych, sytuacji nieobecnych zawodniczek i planach na kolejne konkursy.",
+        "1 Komentarz Polska kadra kobiet przystępuje do nowego sezonu Pucharu Świata z ograniczonymi możliwościami. Stefan Hula opowiedział o problemach organizacyjnych, sytuacji nieobecnych zawodniczek i planach na kolejne konkursy.",
+        "W sobotę w Lillehammer ruszy tegoroczny sezon Pucharu Świata w skokach narciarskich . Do Norwegii udadzą się nie tylko mężczyźni, ale również panie - Anna Twardosz i Kamila Karpiel. Stefan Hula , asystent głównego trenera kadry kobiet Marcina Bachledy w rozmowie z serwisem skijumping.pl wyjaśnił, dlaczego właśnie one.",
+        "- Nicole ( Konderla-Juroszek - dop. red) pracuje i nie jest jej łatwo znaleźć czas na wyjazdy na zawody. To trudna i trochę nietypowa sytuacja. Natalia ( Słowik - dop. red) z kolei musi jeszcze wrócić do dobrej dyspozycji. Na tę chwilę wybór padł na Kamilę i Anię. Wystartujemy też w mikście. Tak jak powiedziałem, jestem dobrej myśli, jeśli chodzi o początek sezonu - powiedział Hula.",
+        "Czy wobec absencji w Pucharze Świata, nieobecne w Norwegii mają szansę na inne starty, choćby w Pucharze Interkontynentalnym? Hula przyznaje, że jest pewien problem, bo w sztabie nie ma osoby, która mogłaby jeździć z dziewczynami na wspomniane zawody."
       ]
     },
     {
@@ -1988,47 +2022,47 @@
       "lead_story": false,
       "summary_points": [
         "W oszałamiającym zwycięstwie Anglii w Hiszpanii było wszystko i było to najlepsze zwycięstwo Anglii pod wodzą Thomasa Tuchela, pisze Phil McNulty.",
-        "Główny pisarz piłkarski w Madrycie Opublikowano godzinę temu Thomas Tuchel odważnie stwierdził, gdy przypomniano mu o ostrożności, która zniweczyła nadzieje Anglii na mistrzostwa świata i pozostawiła im tak wiele do udowodnienia w niedzielnym meczu z Hiszpanią w Lidze Narodów.",
+        "Główny pisarz piłkarski w Madrycie Opublikowano 8 godzin temu Thomas Tuchel odważnie stwierdził, gdy przypomniano mu o ostrożności, która zniweczyła nadzieje Anglii na mistrzostwa świata i pozostawiła im tak wiele do udowodnienia w niedzielnym meczu z Hiszpanią w Lidze Narodów.",
         "W teatrze medialnym w Metropolitano w Madrycie szósty zmysł głównego trenera Tuchela skłonił go do upublicznienia informacji o tym, co według niego Anglia wystawi przeciwko mistrzom świata."
       ],
       "extended_paragraphs": [
         "W oszałamiającym zwycięstwie Anglii w Hiszpanii było wszystko i było to najlepsze zwycięstwo Anglii pod wodzą Thomasa Tuchela, pisze Phil McNulty.",
-        "Główny pisarz piłkarski w Madrycie Opublikowano godzinę temu Thomas Tuchel odważnie stwierdził, gdy przypomniano mu o ostrożności, która zniweczyła nadzieje Anglii na mistrzostwa świata i pozostawiła im tak wiele do udowodnienia w niedzielnym meczu z Hiszpanią w Lidze Narodów.",
+        "Główny pisarz piłkarski w Madrycie Opublikowano 8 godzin temu Thomas Tuchel odważnie stwierdził, gdy przypomniano mu o ostrożności, która zniweczyła nadzieje Anglii na mistrzostwa świata i pozostawiła im tak wiele do udowodnienia w niedzielnym meczu z Hiszpanią w Lidze Narodów.",
         "W teatrze medialnym w Metropolitano w Madrycie szósty zmysł głównego trenera Tuchela skłonił go do upublicznienia informacji o tym, co według niego Anglia wystawi przeciwko mistrzom świata.",
         "Tuchel spojrzał swoim inkwizytorom w oczy i oświadczył: „Mamy do czynienia z czymś spektakularnym”.",
         "Stwierdzenie, że Tuchel i Anglia dotrzymali słowa, było arcydziełem niedopowiedzenia po tym, jak najwspanialszy wieczór za rządów głównego trenera zakończył się zwycięstwem 3:2, które było w dużej mierze wspaniałe, w niektórych szaleństwo, a we wszystkich spektakularne."
       ]
     },
     {
-      "id": "sport-3-d97083",
-      "entity_tag": "Sport Światowy",
+      "id": "sport-3-c9bdc0",
+      "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Najpierw luksusowe auto, później prawo jazdy. \"A może pozostanę księżniczką na miejscu pasażera?\"",
+      "title": "Latami czekał na szansę w kadrze. Punkt zwrotny w karierze Benedyczaka",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:59",
+      "time": "08:00",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284417/najpierw-luksusowe-auto-pozniej-prawo-jazdy-a-moze-pozostane-ksiezniczka-na-miej",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa37c6671a80_73608417.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1283567/latami-czekal-na-szanse-w-kadrze-punkt-zwrotny-w-karierze-benedyczaka",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6af9fa8b05b048_17174336.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Mirra Andriejewa wygrała WTA Finals, a po finale rozbawiła kibiców wypowiedzią o luksusowym samochodzie.",
-        "Rosjanka nie ma jeszcze prawa jazdy, ale znalazła już alternatywę.",
-        "- A może pozostanę księżniczką na miejscu pasażera?"
+        "Za każdym razem, gdy Adrian Benedyczak zbliżał się do debiutu z orłem na piersi, coś stawało na jego drodze.",
+        "Wydawało się, że ciążyło nad nim fatum.",
+        "Napastnik przeszedł długą drogę, by wreszcie - po trzech latach oczekiwania - spełnić marzenie."
       ],
       "extended_paragraphs": [
-        "Mirra Andriejewa wygrała WTA Finals, a po finale rozbawiła kibiców wypowiedzią o luksusowym samochodzie. Rosjanka nie ma jeszcze prawa jazdy, ale znalazła już alternatywę. - A może pozostanę księżniczką na miejscu pasażera? - zastanawiała się.",
-        "1 Komentarz Mirra Andriejewa wygrała WTA Finals, a po finale rozbawiła kibiców wypowiedzią o luksusowym samochodzie. Rosjanka nie ma jeszcze prawa jazdy, ale znalazła już alternatywę. - A może pozostanę księżniczką na miejscu pasażera? - zastanawiała się.",
-        "Mirra Andriejewa po triumfie w WTA Finals nie kryła radości, ale jednocześnie rozbawiła kibiców wypowiedzią na temat nagrody. Rosjanką otrzymała luksusowy samochód poza okazałą premią pieniężną, jednak jest jeden problem - nie ma jeszcze prawa jazdy. W trakcie rozmowy po finale została zapytana, czy zamierza wreszcie zdobyć uprawnienia, aby móc samodzielnie wybrać się na przejażdżkę.",
-        "- Tak! To dla mnie niesamowita motywacja, żeby jak najszybciej zrobić prawo jazdy. Nadal chcę spróbować przejechać się nim chociaż przez kilka metrów. Jestem pewna, że będę w stanie to zrobić, a przynajmniej zatrąbić - powiedziała Andriejewa.",
-        "Na tym jednak nie skończyła. Znalazła również alternatywne rozwiązanie, które najwyraźniej wcale jej nie przeszkadza. - Jeśli mi się nie uda, mam pięć osób w swoim zespole. Może na zawsze pozostanę księżniczką na miejscu pasażera. To też jest jakaś opcja - dodała ze śmiechem."
+        "Za każdym razem, gdy Adrian Benedyczak zbliżał się do debiutu z orłem na piersi, coś stawało na jego drodze. Wydawało się, że ciążyło nad nim fatum. Napastnik przeszedł długą drogę, by wreszcie - po trzech latach oczekiwania - spełnić marzenie.",
+        "Skomentuj Za każdym razem, gdy Adrian Benedyczak zbliżał się do debiutu z orłem na piersi, coś stawało na jego drodze. Wydawało się, że ciążyło nad nim fatum. Napastnik przeszedł długą drogę, by wreszcie - po trzech latach oczekiwania - spełnić marzenie.",
+        "Wyczekiwany debiut nastąpił w sobotnim spotkaniu z Rumunią w ramach Ligi Narodów. Krótko przed swoimi 26. urodzinami (24 listopada) Adrian Benedyczak dostał prezent w postaci występu w Biało-Czerwonych barwach. Zaliczył obiecujące wejście mimo bolesnej porażki 1:2 w Bukareszcie.",
+        "Już we wrześniu 2023 roku Benedyczak otrzymał pierwsze powołanie do kadry. Za kadencji Fernando Santosa obejrzał z ławki rezerwowych mecz z Albanią, ale już wtedy było jasne, że debiut jest kwestią czasu.",
+        "Michał Probierz w październiku, na początku swojej pracy z reprezentacją, nie powołał Benedyczaka, lecz już w listopadzie zaprosił go na zgrupowanie. Pech sprawił, że zawodnik doznał urazu mięśniowego i z tego względu nie mógł przyjechać na zgrupowanie."
       ]
     },
     {
@@ -2064,240 +2098,133 @@
       ]
     },
     {
-      "id": "sport-5-caab4f",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "\"Anglia pożera mistrza\". Hiszpanie wprost o końcu serii",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:38",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284416/anglia-pozera-mistrza-hiszpanie-wprost-o-koncu-serii",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa3469486b41_72639773.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Hiszpania przegrała z Anglią 2:3 i zakończyła serię 43 spotkań bez porażki.",
-        "Tamtejsze media piszą o bolesnym ciosie, ale dostrzegają też ambitną pogoń gospodarzy.",
-        "Stawką było również pierwsze miejsce w grupie Ligi Narodów UEFA."
-      ],
-      "extended_paragraphs": [
-        "Hiszpania przegrała z Anglią 2:3 i zakończyła serię 43 spotkań bez porażki. Tamtejsze media piszą o bolesnym ciosie, ale dostrzegają też ambitną pogoń gospodarzy. Stawką było również pierwsze miejsce w grupie Ligi Narodów UEFA.",
-        "Skomentuj Hiszpania przegrała z Anglią 2:3 i zakończyła serię 43 spotkań bez porażki. Tamtejsze media piszą o bolesnym ciosie, ale dostrzegają też ambitną pogoń gospodarzy. Stawką było również pierwsze miejsce w grupie Ligi Narodów UEFA.",
-        "Reprezentacja Hiszpanii przegrała w niedzielę, 15 listopada, z Anglią 2:3 w ostatniej kolejce fazy grupowej Ligi Narodów UEFA . Podopieczni Luisa de la Fuente przegrywali już 0:3, a mimo gry w przewadze po czerwonej kartce dla Elliota Andersona nie zdołali odrobić strat. Tym samym zakończyła się ich historyczna seria 43 meczów bez porażki. Wynik spotkania odbił się szerokim echem w tamtejszych mediach.",
-        "\"Anglia pożera mistrza\" - tak swoją relację zatytułował dziennik \"AS\". Autor, Hector Martinez, nie pozostawił złudzeń co do postawy gospodarzy. Podkreślił, że rywale byli lepsi, a mistrzowie świata mieli problemy z konstruowaniem akcji i stwarzaniem zagrożenia. Ocenił również, że to najdotkliwsza porażka w dotychczasowej kadencji selekcjonera. Zwrócił przy tym uwagę, że Hiszpanie stracili nie tylko imponującą serię, ale też pierwsze miejsce w grupie.",
-        "Inny akcent położyła rozgłośnia Cadena SER. W podtytule relacji zaznaczono, że Anglia udaremniła próbę odrobienia strat, przez co Hiszpania zakończyła rywalizację na drugiej pozycji. Redakcja szczegółowo opisała wydarzenia z drugiej połowy."
-      ]
-    },
-    {
-      "id": "sport-7-9ac3db",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Koszmarny błąd. A po nim? Tak zachowała się Ukrainka wobec Rosjanki",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:36",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284401/koszmarny-blad-a-po-nim-tak-zachowala-sie-ukrainka-wobec-rosjanki",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa328fd661a9_12618969.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Więcej niż pół kortu było odsłonięte, mimo to Elina Switolina zepsuła ostatnią piłkę w WTA Finals.",
-        "Po swoim błędzie Ukrainka tradycyjnie zeszła z kortu bez podziękowań dla Rosjanki.",
-        "9 Komentarzy Więcej niż pół kortu było odsłonięte, mimo to Elina Switolina zepsuła ostatnią piłkę w WTA Finals."
-      ],
-      "extended_paragraphs": [
-        "Więcej niż pół kortu było odsłonięte, mimo to Elina Switolina zepsuła ostatnią piłkę w WTA Finals. Po swoim błędzie Ukrainka tradycyjnie zeszła z kortu bez podziękowań dla Rosjanki.",
-        "9 Komentarzy Więcej niż pół kortu było odsłonięte, mimo to Elina Switolina zepsuła ostatnią piłkę w WTA Finals. Po swoim błędzie Ukrainka tradycyjnie zeszła z kortu bez podziękowań dla Rosjanki.",
-        "Konfrontacja o tytuł w WTA Finals zakończyła się po dwóch setach. Mirra Andriejewa wygrała w rosyjsko-ukraińskim finale z Eliną Switoliną . Ostatnia piłka meczu została kompletnie zepsuta przez Ukrainkę .",
-        "Triumfatorka turnieju nie była zaskoczona zachowaniem przeciwniczki. Podziękowała sędziemu i rozpoczęła swoje świętowanie sukcesu.",
-        "Pierwszy set był pełen zwrotów akcji i niewykorzystanych szans. Mirra Andriejewa szybko objęła prowadzenie 2:0, przełamując Elinę Switolinę już w pierwszym gemie. Ukrainka odpowiedziała jednak trzema wygranymi gemami z rzędu, a później zrobiło się 3:3. Rosjanka ponownie odskoczyła na 5:3, lecz nie wykorzystała okazji do zamknięcia partii. Switolina doprowadziła do remisu 5:5, ale końcówka należała do Andriejewej, która wygrała dwa kolejne gemy i całego seta 7:5."
-      ]
-    },
-    {
-      "id": "sport-8-24a9c3",
+      "id": "sport-5-31f20e",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Townsend krytykuje szkocką obronę podczas „siłowania na rękę” w Australii",
-      "original_title": "Townsend hails Scotland's defence in Australia 'arm wrestle'",
+      "title": "Awantura w Madrycie. Doszło do spięcia gwiazd Realu",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:44",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284440/awantura-w-madrycie-doszlo-do-spiecia-gwiazd-realu",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afab170428851_90168611.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Działo się podczas meczu Hiszpanii z Anglią w Lidze Narodów.",
+        "W trakcie pierwszej połowy i po jej zakończeniu doszło do spięcia Jude'a Bellinghama z Marcem Cucurellą.",
+        "Anglik miał pretensje do rywala, gdy ten leżał na murawie po starciu."
+      ],
+      "extended_paragraphs": [
+        "Działo się podczas meczu Hiszpanii z Anglią w Lidze Narodów. W trakcie pierwszej połowy i po jej zakończeniu doszło do spięcia Jude'a Bellinghama z Marcem Cucurellą. Anglik miał pretensje do rywala, gdy ten leżał na murawie po starciu.",
+        "Skomentuj Działo się podczas meczu Hiszpanii z Anglią w Lidze Narodów. W trakcie pierwszej połowy i po jej zakończeniu doszło do spięcia Jude'a Bellinghama z Marcem Cucurellą. Anglik miał pretensje do rywala, gdy ten leżał na murawie po starciu.",
+        "Spotkanie na Metropolitano w Madrycie obfitowało w emocje także poza walką o piłkę. Zawodnicy obu drużyn wielokrotnie wdawali się w sprzeczki, a napięcie wzrosło również w drodze do szatni podczas przerwy.",
+        "Jedna z najbardziej komentowanych scen wydarzyła się przy akcji zakończonej rzutem karnym dla Anglii. Marc Cucurella starł się z dwoma rywalami i po zagraniu piłki przez przeciwnika upadł na murawę. W tym czasie VAR analizował sytuację w polu karnym z udziałem Harry'ego Kane'a i Pau Cubarsiego.",
+        "Bellingham podszedł do leżącego kolegi z Realu Madryt. Wskazywał na niego palcem, miał pretensje o pozostawanie na boisku i próbował podnieść Cucurellę. Marc Oyarzabal stanął między piłkarzami, aby nie dopuścić do dalszej eskalacji."
+      ]
+    },
+    {
+      "id": "sport-6-846e9d",
+      "entity_tag": "Formuła 1",
+      "sector": "Motorsport",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Jednowyścigowe cuda Formuły 1",
+      "original_title": "Formula 1's one-race wonders",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:53",
+      "time": "06:53",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6vg25x1zqrro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42df/live/c2043d10-e135-11f1-90e9-e9a285721c5c.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cqp9dr4kedd3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ee4/live/0fa3dfd0-e041-11f1-88e1-eb4e155225b3.png",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Zwycięstwo Szkocji w Mistrzostwach Narodów nad Australią nie było klasyczne, ale główny trener Gregor Townsend twierdzi, że był to jeden z najlepszych występów w defensywie jego drużyny w ostatnich latach.",
-        "Główny trener Szkocji, Gregor Townsend, pochwalił wysiłki swojej drużyny w defensywie po tym, jak wyprzedziła Australię w „siłowaniu na rękę” o Mistrzostwo Narodów w Murrayfield.",
-        "Po rozbiciu drużyny z Nową Zelandią w zeszły weekend, w której nie udało jej się zdobyć drugiej połowy punktu, w centrum uwagi znalazła się nieszczelna obrona Szkocji."
+        "Dotarcie do Formuły 1 to niewątpliwy szczyt kariery każdego kierowcy wyścigowego – ale co stało się z niektórymi z tych, którzy mieli tylko jedną szansę?",
+        "Podpis pod rysunkiem, Klub „Jednego Grand Prix” – historie kierowców Formuły 1, którzy rywalizowali tylko w jednym wyścigu Szansa, aby usiąść w kokpicie, na starcie, przy najwyższym stole sportów motorowych: Formuła 1.",
+        "Szczyt wszystkiego, do czego dążyłeś przez całe życie."
       ],
       "extended_paragraphs": [
-        "Zwycięstwo Szkocji w Mistrzostwach Narodów nad Australią nie było klasyczne, ale główny trener Gregor Townsend twierdzi, że był to jeden z najlepszych występów w defensywie jego drużyny w ostatnich latach.",
-        "Główny trener Szkocji, Gregor Townsend, pochwalił wysiłki swojej drużyny w defensywie po tym, jak wyprzedziła Australię w „siłowaniu na rękę” o Mistrzostwo Narodów w Murrayfield.",
-        "Po rozbiciu drużyny z Nową Zelandią w zeszły weekend, w której nie udało jej się zdobyć drugiej połowy punktu, w centrum uwagi znalazła się nieszczelna obrona Szkocji.",
-        "Jednak w chłodny i wilgotny dzień w Edynburgu, gdzie królowała fizyczność, odnieśli bardzo potrzebne zwycięstwo i pokazali, że potrafią wygrywać brzydko.",
-        "Dobra bramka Maxa Jorgensena w końcówce dała Wallabies nadzieję, a przy remisie goście wyszli z własnej połowy."
+        "Dotarcie do Formuły 1 to niewątpliwy szczyt kariery każdego kierowcy wyścigowego – ale co stało się z niektórymi z tych, którzy mieli tylko jedną szansę?",
+        "Podpis pod rysunkiem, Klub „Jednego Grand Prix” – historie kierowców Formuły 1, którzy rywalizowali tylko w jednym wyścigu",
+        "Szansa, aby usiąść w kokpicie, na starcie, przy najwyższym stole sportów motorowych: Formuła 1. Szczyt wszystkiego, do czego dążyłeś przez całe życie.",
+        "„Śpiewałam piosenkę przewodnią Grand Prix, siedząc na starcie. Wydawało mi się, że oglądam ją w telewizji” – mówi Tiff Needell – jeden ze 166 szczęśliwców lub pechowców, w zależności od pozycji w sporcie motorowym, którzy tylko raz wzięli udział w wyścigu F1.",
+        "Istnieje wiele powodów, dla których kierowca może mieć tylko jedną szansę na ściganie się na najszybszych i najbardziej wyrafinowanych maszynach w elitarnym sporcie i chociaż super łodzie podwodne F1 były bardziej popularne w latach 60. i 70. XX wieku, zjawisko wypożyczania kasków jest wciąż żywe i jeździ w ultraprofesjonalnej, nowoczesnej F1."
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-767a18",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
+      "id": "rynki-1-37e06b",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 2,64 mld zł, 2,22 mld zł, 0,44 proc.) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "2,64 mld zł",
-        "2,22 mld zł",
-        "0,44 proc."
-      ],
-      "title": "Rekord hossy ale bez fajerwerków. KGHM i Orlen znów najmocniej ciążą WIG20",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Nvidia może przywrócić Jensena Huanga? Dolina Krzemowa lobbuje, Waszyngton stawia ultimatum",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:10",
+      "time": "08:10",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Rekord-hossy-ale-bez-fajerwerkow-KGHM-i-Orlen-znow-najmocniej-ciaza-WIG20-9228614.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/0/62d855390f6cf3-945-560-540-540-3960-2375.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-moze-przywrocic-Jensena-Huanga-Dolina-Krzemowa-lobbuje-Waszyngton-stawia-ultimatum-9229161.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/c/5/94b25846b982db-948-568-0-6-2468-1480.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Piątkowa sesja na Giełdzie Papierów Wartościowych w przyniosła nowe rekordy hossy.",
-        "Choć za oceanem nastroje psuła wyprzedaż spółek technologicznych wywołana trzęsieniem ziemi w Nvidii oraz wysokim odczytem inflacji producenckiej, indeksy WIG i WIG20 ustanowiły w trakcie dnia nowe historyczne szczyty.",
-        "Wzrostom przy Książęcej przewodził sektor handlowy na czele z Allegro, który skutecznie zrównoważył słabszą postawę banków, Orlenu oraz surowcowego KGHM-u."
+        "Nvidia może stanąć przed próbą przywrócenia założyciela na fotel prezesa - według \"Financial Times\" Jensen Huang rozmawiał z sojusznikami w Dolinie Krzemowej o powrocie do spółki zaledwie kilka dni po dymisji.",
+        "Planom może jednak przeszkodzić Waszyngton.",
+        "Sekretarz skarbu Scott Bessent wezwał do gruntownej przebudowy władz koncernu i dał mu 10 dni na wyjaśnienie sprawy omijania zakazów eksportowych do Chin."
       ],
       "extended_paragraphs": [
-        "Piątkowa sesja na Giełdzie Papierów Wartościowych w przyniosła nowe rekordy hossy. Choć za oceanem nastroje psuła wyprzedaż spółek technologicznych wywołana trzęsieniem ziemi w Nvidii oraz wysokim odczytem inflacji producenckiej, indeksy WIG i WIG20 ustanowiły w trakcie dnia nowe historyczne szczyty. Wzrostom przy Książęcej przewodził sektor handlowy na czele z Allegro, który skutecznie zrównoważył słabszą postawę banków, Orlenu oraz surowcowego KGHM-u.",
-        "fot. Tomasz Ras / / Puls Biznesu Na zamknięciu piątkowego handlu WIG20 wzrósł o 0,44 proc. Skala wzrostów w ciągu dnia była dwa razy większa dzięki czemu po raz pierwszy w historii WIG20 przekroczył psychologiczną barierę 4300 pkt , ustanawiając nowy rekord wszechczasów na poziomie 4320,05 pkt. Na plusie dzień zakończył również szeroki WIG, który zyskał 0,24 proc. , a w szczytowym momencie dnia wyśrubował swój historyczny rekord do 162 576,13 pkt.",
-        "Nieco słabiej na tle dużych podmiotów wypadły indeksy małych i średnich spółek – mWIG40 spadł o 0,44 proc. , natomiast sWIG80 stracił 0,04 proc. , kończąc dzień minimalnie pod kreską. Wartość obrotów na całym rynku wyniosła 2,64 mld zł z czego 2,22 mld zł dotyczyło segmentu blue chipów.",
-        "Warszawski parkiet zaprezentował się w piątek znacznie lepiej niż większość głównych rynków bazowych. W momencie zakończenia notowań przy Książęcej na giełdach Starego Kontynentu dominowały umiarkowane nastroje lub lekka realizacja zysków. Londyński FTSE 100 rósł o niespełna 0,1 proc. , paryski CAC 40 oscylował w granicach poziomu odniesienia , a niemiecki DAX tracił 0,4 proc. , korygując czwartkowe wybicie na nowe historyczne maksima. Popołudniowe pogorszenie koniunktury w Europie Zachodniej było bezpośrednią reakcją na słaby początek sesji na Wall Street. W pierwszych godzinach amerykańskiego handlu indeks S&P 500 tracił 0,8 proc. , a technologiczny Nasdaq spadał o 1,5 proc.",
-        "\"Dzisiaj jesteśmy jednym z najsilniejszych indeksów w Europie, ale to też nieduża szarża ze strony popytowej. Wynika to z tego, że rynki bazowe są dość mocno słabsze w ostatnim czasie\" – powiedział w komentarzu dla PAP Biznes Konrad Ryczko, analityk i makler DM BOŚ."
+        "Nvidia może stanąć przed próbą przywrócenia założyciela na fotel prezesa - według \"Financial Times\" Jensen Huang rozmawiał z sojusznikami w Dolinie Krzemowej o powrocie do spółki zaledwie kilka dni po dymisji. Planom może jednak przeszkodzić Waszyngton. Sekretarz skarbu Scott Bessent wezwał do gruntownej przebudowy władz koncernu i dał mu 10 dni na wyjaśnienie sprawy omijania zakazów eksportowych do Chin.",
+        "fot. Evan Vucci / / Reuters / Forum Jak ustalił \"Financial Times\", wpływowi menedżerowie z branży technologicznej zorganizowali nieformalny sztab kryzysowy, by przywrócić Jensena Huanga na stanowisko szefa Nvidii. W tym celu mają wywierać presję na radę dyrektorów spółki oraz usiłują zdobyć poparcie Białego Domu. Działania te odbywają się za wiedzą i aprobatą samego założyciela.",
+        "W weekend tempa nabrała też publiczna kampania pod hasłem \"Bring Jensen Back\", gdzie petycję w sprawie przywrócenia byłego prezesa Nvidii poparli m.in. Elon Musk, prezes Epic Games Tim Sweeney oraz grupa pracowników Nvidii.",
+        "Musk ostrzegł w serwisie X, że wiele kluczowych umów w łańcuchu dostaw Nvidii opierało się na uścisku dłoni z Huangiem, a bez niego część tych kontraktów może przepaść.",
+        "Nacisk na radę dyrektorów płynie również ze strony dużych akcjonariuszy. Założyciel funduszu Altimeter Capital Brad Gerstner oraz szef Atreides Management Gavin Baker opublikowali list otwarty, w którym wzywają do pozostawienia \"wszystkich opcji na stole, włącznie z potencjalnym powrotem Jensena Huanga\", argumentując to ogromną niepewnością rynkową."
       ]
     },
     {
-      "id": "rynki-3-a0f922",
-      "entity_tag": "Allegro (GPW: ALE)",
-      "sector": "E-commerce",
+      "id": "rynki-5-de7a73",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Allegro (GPW: ALE) (E-commerce) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [],
-      "title": "Ile zarobi XTB i optymistyczna wycena Allegro? O potencjalnej dystrybucji na GPW, premierze GTA VI i skandalu w Nvidii",
+      "title": "Erste podtrzymuje \"kupuj\" dla Artifex Mundi, ale obniża cenę docelową",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "15:00",
+      "time": "08:32",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/O-potencjalnej-dystrybucji-na-GPW-premierze-GTA-VI-i-skandalu-w-Nvidii-Rewolucja-bedzie-szla-do-przodu-9228477.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/1/b/662d89c2d3f4e6-948-568-450-302-2053-1232.png",
+      "source_url": "https://www.bankier.pl/wiadomosc/Erste-podtrzymuje-kupuj-dla-Artifex-Mundi-obniza-cene-docelowa-do-26-5-zl-9229193.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/b/f/0411fbcacd313f-948-568-20-50-3980-2387.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Wall Street żyje odejściem legendarnego prezesa Nvidii Jensena Huanga, gracze odliczają dni do premiery GTA 6, a warszawski indeks WIG20 po raz pierwszy w historii przebił poziom 4300 punktów.",
-        "Czy zmiana na szczycie technologicznego giganta przekłuje bańkę AI i co napędza ostatnie ruchy na akcjach Allegro, Ten Square Games oraz XTB?",
-        "W najnowszym odcinku „Bankier Weekly” rynek akcji analizuje Mateusz Chrzanowski z DM Noble Securities."
+        "Analitycy Erste Group, w raporcie z 16 listopada, podtrzymali rekomendację \"kupuj\" dla spółki Artifex Mundi, obniżając cenę docelową do 26,5 zł z 28,2 wcześniej.",
+        "\"Dotychczasowy wpływ metagry na wyniki Unsolved pozostaje ograniczony, przede wszystkim ze względu na jej stopniowe wdrażanie wśród nowych graczy, bez migracji dotychczasowej bazy użytkowników.",
+        "Dodatkowo naszym zdaniem spółka nie zwiększała istotnie nakładów na UA, oczekując na bardziej wiarygodne potwierdzenie poprawy LTV oraz dalszą kalibrację ekonomii i balansu gry\" - napisano."
       ],
       "extended_paragraphs": [
-        "Wall Street żyje odejściem legendarnego prezesa Nvidii Jensena Huanga, gracze odliczają dni do premiery GTA 6, a warszawski indeks WIG20 po raz pierwszy w historii przebił poziom 4300 punktów. Czy zmiana na szczycie technologicznego giganta przekłuje bańkę AI i co napędza ostatnie ruchy na akcjach Allegro, Ten Square Games oraz XTB? W najnowszym odcinku „Bankier Weekly” rynek akcji analizuje Mateusz Chrzanowski z DM Noble Securities.",
-        "/ Gemini Najważniejsze wątki rozmowy 🤖 Trzęsienie ziemi w Nvidii. Jak wycenić spółkę po odejściu charyzmatycznego lidera i czy rewolucja AI poradzi sobie bez Jensena Huanga?",
-        "🎮 Efekt GTA 6 na giełdzie. Przedsprzedaż gry bije rekordy \"Cyberpunka 2077\". Dlaczego zyska na tym CD Projekt, a mniejsze studia walczą o przetrwanie?",
-        "📦 Wielki sojusz Allegro i InPostu. Co kryje się za podwyższeniem prognoz giganta e-commerce",
-        "🔍Omówienie wyników spółek Ten Square Games i Artifex Mundi. Kto pozytywnie zaskakuje strategią?"
-      ]
-    },
-    {
-      "id": "rynki-5-c63868",
-      "entity_tag": "Azja & Pacyfik",
-      "sector": "Gospodarka Światowa",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 550 mld dolarów, 30%) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "550 mld dolarów",
-        "30%"
-      ],
-      "title": "Upadek szefa Nvidii. Romanse i Chiny zatopiły króla AI, a rynek pyta: co dalej?",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "11:00",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-po-dymisji-Huanga-Co-dalej-z-kursem-i-rynkiem-AI-9228235.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/c/be73f565329c72-948-568-827-0-2323-1394.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Nvidia traci swojego architekta.",
-        "W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie.",
-        "Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki."
-      ],
-      "extended_paragraphs": [
-        "Nvidia traci swojego architekta. W niespełna dwa tygodnie Jensen Huang z pozycji nietykalnego \"króla sztucznej inteligencji” i prezesa najcenniejszej firmy świata stoczył się do roli obyczajowego skandalisty, który musiał odejść w niesławie. Punktem zapalnym był romans z rzekomą chińską agentką, lecz ostateczny cios przyszedł ze spółki. Kryzys w Nvidii może nieść poważne konsekwencje dla całej branży AI oraz administracji Donalda Trumpa.",
-        "fot. Lisi Niesner / Reuters / / FORUM W czwartek 12 listopada 2026 r. zarząd Nvidii ogłosił, że Jensen Huang ze skutkiem natychmiastowym zrezygnował ze stanowiska prezesa oraz opuścił radę dyrektorów. Obowiązki szefa giganta tymczasowo przejęła dyrektor finansowa Colette Kress. Decyzja zapadła po nadzwyczajnym posiedzeniu rady.",
-        "Afera zaczęła się od ujawnienia romansu Huanga z Alice Huang - menedżerką singapurskiej firmy Megaspeed - podejrzewaną przez amerykański wywiad o szpiegostwo na rzecz Pekinu. Gdy wydawało się, że prezes przetrwa wizerunkowy kryzys, na jaw wyszły jego kolejne relacje intymne, tym razem z podwładnymi wewnątrz spółki i to one ostatecznie go pogrążyły.",
-        "Odejście Jensena Huanga ze stanowisk prezesa, prezydenta oraz z rady dyrektorów Nvidii, którą założył 33 lata temu, kończy w firmie epokę władzy absolutnej jednego człowieka. Pod jego rządami spółka urosła do monstrualnej wyceny 5,8 bln dolarów w październiku 2026 roku.",
-        "5 ostatnich sesji wystarczyło jednak, żeby kapitalizacja stopniała o 550 mld dolarów, notowania znalazły się 30% poniżej szczytu, a analitycy z Wall Street obniżyli swoje rekomendacje."
-      ]
-    },
-    {
-      "id": "rynki-7-cd367c",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,38 mld zł",
-        "2,87 mld zł",
-        "1,69%"
-      ],
-      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:30",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
-        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
-        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
-      ],
-      "extended_paragraphs": [
-        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
-        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
-        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
-        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
-        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
+        "Analitycy Erste Group, w raporcie z 16 listopada, podtrzymali rekomendację \"kupuj\" dla spółki Artifex Mundi, obniżając cenę docelową do 26,5 zł z 28,2 wcześniej.",
+        "\"Dotychczasowy wpływ metagry na wyniki Unsolved pozostaje ograniczony, przede wszystkim ze względu na jej stopniowe wdrażanie wśród nowych graczy, bez migracji dotychczasowej bazy użytkowników. Dodatkowo naszym zdaniem spółka nie zwiększała istotnie nakładów na UA, oczekując na bardziej wiarygodne potwierdzenie poprawy LTV oraz dalszą kalibrację ekonomii i balansu gry\" - napisano.",
+        "\"Pierwsze obserwacje wskazują na poprawę wybranych KPI, w szczególności retencji i zaangażowania użytkowników, choć wyniki różnią się między platformami. Najbardziej obiecujące rezultaty widoczne są na iOS, podczas gdy wyniki na Androidzie pozostają mniej jednoznaczne. Co istotne, ceny i struktura ofert pozostają niezmienione zarówno pomiędzy wersjami Unsolved z metagrą i bez niej, jak i między platformami\" - wskazano.",
+        "Dodano, że potencjalna poprawa monetyzacji powinna wynikać przede wszystkim z większego zaangażowania i retencji graczy, sprzyjających częstszym zakupom, a dalsza rozbudowa sklepu w grze o oferty dedykowane metagrze powinna stanowić dodatkowy czynnik wspierający wzrost LTV.",
+        "Depesza jest skrótem rekomendacji. Materiał został opracowany przez Erste Group na zlecenie GPW w ramach Programu Wsparcia Pokrycia Analitycznego."
       ]
     },
     {
@@ -2333,7 +2260,78 @@
       ]
     },
     {
-      "id": "rynki-2-79e16a",
+      "id": "rynki-2-63b83b",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 0,4%, 0,8%, 1,1%) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "0,4%",
+        "0,8%",
+        "1,1%"
+      ],
+      "title": "Spowolnienie w Chinach pogłębia się w październiku, gdy produkcja przemysłowa, sprzedaż detaliczna i inwestycje nie spełniają szacunków",
+      "original_title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "03:53",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108551664-1794786973563-gettyimages-2299353111-img_6622.jpeg?v=1794787492&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Analitycy twierdzą, że pogłębiająca się zależność od popytu zewnętrznego sprawia, że Chiny są bardziej narażone na wstrząsy za granicą w miarę słabnięcia dynamiki krajowej.",
+        "Spowolnienie gospodarcze w Chinach pogorszyło się w październiku, a sprzedaż detaliczna, inwestycje i produkcja przemysłowa nie spełniły szacunków ekonomistów, ponieważ analitycy ostrzegają, że rosnące uzależnienie od popytu zewnętrznego sprawia, że ​​wzrost gospodarczy jest bardziej narażony na wstrząsy za granicą.",
+        "Poniedziałkowe dane pokazały, że załamanie inwestycyjne pogłębiło się, a sprzedaż detaliczna ponownie pozostawała w tyle za produkcją przemysłową, w związku ze spadkiem wydatków konsumenckich w związku z pogorszeniem koniunktury na rynku nieruchomości, które już piąty rok zmniejszało majątek gospodarstw domowych."
+      ],
+      "extended_paragraphs": [
+        "Analitycy twierdzą, że pogłębiająca się zależność od popytu zewnętrznego sprawia, że Chiny są bardziej narażone na wstrząsy za granicą w miarę słabnięcia dynamiki krajowej.",
+        "Spowolnienie gospodarcze w Chinach pogorszyło się w październiku, a sprzedaż detaliczna, inwestycje i produkcja przemysłowa nie spełniły szacunków ekonomistów, ponieważ analitycy ostrzegają, że rosnące uzależnienie od popytu zewnętrznego sprawia, że ​​wzrost gospodarczy jest bardziej narażony na wstrząsy za granicą.",
+        "Poniedziałkowe dane pokazały, że załamanie inwestycyjne pogłębiło się, a sprzedaż detaliczna ponownie pozostawała w tyle za produkcją przemysłową, w związku ze spadkiem wydatków konsumenckich w związku z pogorszeniem koniunktury na rynku nieruchomości, które już piąty rok zmniejszało majątek gospodarstw domowych.",
+        "Sprzedaż detaliczna, będąca miernikiem konsumpcji, wzrosła o 0,4% w porównaniu z rokiem ubiegłym w październiku, rozczarowując prognozę analityków zakładającą wzrost o 0,8%, spowalniając z najwyższego od sześciu miesięcy poziomu 1,1% we wrześniu.",
+        "Produkcja przemysłowa wzrosła o 4,8% w porównaniu z rokiem poprzednim w zeszłym miesiącu, mijając się z szacunkami analityków mówiącymi o wzroście na 5,3% i gwałtownie spowalniając z 5,5% we wrześniu, najwyższego poziomu od pięciu miesięcy."
+      ]
+    },
+    {
+      "id": "rynki-3-dc3c4e",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 25,3 mln zł, 32,2 proc.) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "25,3 mln zł",
+        "32,2 proc."
+      ],
+      "title": "GPW spodziewa się w IV kw. CAPEX-u zbliżonego do III kw.",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:40",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/GPW-spodziewa-sie-w-IV-kw-CAPEX-u-zblizonego-do-III-kw-9229196.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/3/8/adf19d5e8cffad-945-560-0-116-1732-1039.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Grupa GPW spodziewa się, że w IV kwartale CAPEX będzie zbliżony do III kwartału, a dynamika wzrostu OPEX rdr będzie istotnie wyższa wobec poziomu po 9 miesiącach - podała GPW w prezentacji.",
+        "fot. Krystian Maj / / FORUM Jak podała spółka, IV kwartał to sezonowy wzrost CAPEX oraz jednocześnie niższe wydatki na GPW WATS.",
+        "Jeśli chodzi o OPEX w IV kwartale, to spółka spodziewa się skokowego wzrostu amortyzacji po wdrożeniu GPW WATS, zakłada przeniesienie do P&L części dotychczas kapitalizowanych kosztów GPW WATS."
+      ],
+      "extended_paragraphs": [
+        "Grupa GPW spodziewa się, że w IV kwartale CAPEX będzie zbliżony do III kwartału, a dynamika wzrostu OPEX rdr będzie istotnie wyższa wobec poziomu po 9 miesiącach - podała GPW w prezentacji.",
+        "fot. Krystian Maj / / FORUM Jak podała spółka, IV kwartał to sezonowy wzrost CAPEX oraz jednocześnie niższe wydatki na GPW WATS.",
+        "Jeśli chodzi o OPEX w IV kwartale, to spółka spodziewa się skokowego wzrostu amortyzacji po wdrożeniu GPW WATS, zakłada przeniesienie do P&L części dotychczas kapitalizowanych kosztów GPW WATS. Jak podano, zmiana rdr częściowo będzie kompensowana spadkiem amortyzacji poza WATS oraz niższą opłatą KNF.",
+        "W trzecim kwartale nakłady inwestycyjne GK GPW wyniosły 25,3 mln zł, co oznacza wzrost o 32,2 proc. rdr.",
+        "Giełda podała w prezentacji, że w 2027 roku CAPEX grupy będzie niższy rdr ze względu na obniżenie wydatków na GPW WATS."
+      ]
+    },
+    {
+      "id": "rynki-4-79e16a",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "MEDIUM",
@@ -2365,41 +2363,43 @@
       ]
     },
     {
-      "id": "rynki-6-565d68",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
+      "id": "rynki-7-832fcc",
+      "entity_tag": "Miedź (LME)",
+      "sector": "Surowce Przemysłowe",
       "market_impact": "MEDIUM",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 50%) — wymaga obserwacji marż i wsparć cenowych.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Miedź (LME) (Surowce Przemysłowe) (kluczowe liczby: 0,1 proc., 1,11 proc., 6,1 proc.) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [
-        "50%"
+        "0,1 proc.",
+        "1,11 proc.",
+        "6,1 proc."
       ],
-      "title": "Lutnick staje w obliczu pytań w związku ze skandalem szpiegowskim Nvidii. Firma jego synów jest powiązana z producentem chipów",
-      "original_title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:58",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
+      "title": "Miedź najtańsza od ponad czterech miesięcy. Chiny rozczarowały",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:10",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Miedz-najtansza-od-ponad-czterech-miesiecy-Chiny-rozczarowaly-9229179.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/7/9/76753393cac90d-948-568-18-181-2485-1491.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Rezygnacja Jensena Huanga ze stanowiska dyrektora generalnego Nvidii spowodowała ponowne przyjrzenie się sekretarzowi handlu Howardowi Lutnickowi i powiązaniom finansowym jego rodziny z producentem chipów.",
-        "Jak wynika z raportu badawczego Cantor zweryfikowanego przez CNBC, pod koniec września Cantor Fitzgerald gościł dyrektora generalnego Nvidii, Jensena Huanga i innych członków kadry kierowniczej tego producenta chipów na spotkaniach z inwestorami w Nowym Jorku.",
-        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J."
+        "Notowania miedzi na giełdzie metali LME w Londynie spadają i są na najniższym poziomie od ponad 4 miesięcy w reakcji na wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin - informują maklerzy.",
+        "fot. Flegere / / Shutterstock Miedź w dostawach 3-miesięcznych na LME jest wyceniana niżej o 0,1 proc. - po 13 240,00 USD za tonę.",
+        "Na Comex w Nowym Jorku miedź kosztuje 6,1160 USD za funt, niżej o 1,11 proc. Metal zyskał w tym roku na Comex 6,1 proc. Na giełdzie metali SHF w Szanghaju miedź jest wyceniana po 103 500 juanów za tonę, po zniżce o 1,47 proc. Inwestorzy oceniają wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin."
       ],
       "extended_paragraphs": [
-        "Rezygnacja Jensena Huanga ze stanowiska dyrektora generalnego Nvidii spowodowała ponowne przyjrzenie się sekretarzowi handlu Howardowi Lutnickowi i powiązaniom finansowym jego rodziny z producentem chipów.",
-        "Jak wynika z raportu badawczego Cantor zweryfikowanego przez CNBC, pod koniec września Cantor Fitzgerald gościł dyrektora generalnego Nvidii, Jensena Huanga i innych członków kadry kierowniczej tego producenta chipów na spotkaniach z inwestorami w Nowym Jorku.",
-        "„Nadal postrzegamy NVDA jako najkorzystniejsze w naszej analizie ryzyko/zysk” – napisali analityk Cantor C.J. Muse i jego współpracownicy w raporcie z badania z 3 października, w którym utrzymano cenę docelową akcji na poziomie 350 dolarów i rekomendację „zawyżenie”.",
-        "Jednak firma, wcześniej prowadzona przez Sekretarza Handlu Howarda Lutnicka, a obecnie kierowana przez jego synów, Brandona i Kyle’a, odnotowała prawie 50% spadek liczby akcji Nvidii posiadanych w okresie od września 2025 r. do marca 2026 r., wynika z analizy CNBC dokumentów dotyczących papierów wartościowych, z wyłączeniem opcji. Nvidia była jedną z największych pozycji na akcjach zgłoszonych w dokumentach Cantora.",
-        "Spadek zbiegł się w czasie z naciskami Białego Domu i wywiadu USA na Lutnicka, aby rozprawił się z Megaspeed, singapurską firmą podejrzaną o wysyłanie zaawansowanych chipów sztucznej inteligencji Nvidii do Chin. Jak poinformowała 11 listopada Axios, Lutnick wielokrotnie stawiał opór tym wysiłkom."
+        "Notowania miedzi na giełdzie metali LME w Londynie spadają i są na najniższym poziomie od ponad 4 miesięcy w reakcji na wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin - informują maklerzy.",
+        "fot. Flegere / / Shutterstock Miedź w dostawach 3-miesięcznych na LME jest wyceniana niżej o 0,1 proc. - po 13 240,00 USD za tonę.",
+        "Na Comex w Nowym Jorku miedź kosztuje 6,1160 USD za funt, niżej o 1,11 proc. Metal zyskał w tym roku na Comex 6,1 proc.",
+        "Na giełdzie metali SHF w Szanghaju miedź jest wyceniana po 103 500 juanów za tonę, po zniżce o 1,47 proc.",
+        "Inwestorzy oceniają wyprzedaż na rynkach spółek technologicznych i słabsze dane makro z gospodarki Chin."
       ]
     },
     {
-      "id": "rynki-4-9900e5",
+      "id": "rynki-6-9900e5",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "LOW",

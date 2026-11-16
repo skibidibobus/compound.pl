@@ -2,8 +2,8 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.319",
-    "last_updated": "2026-11-15 21:55",
+    "edition": "#2026.320",
+    "last_updated": "2026-11-16 01:28",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
     "foreign_translated_count": 19,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$65,172",
-      "change": "+1.21%",
+      "price": "$64,717",
+      "change": "+3.43%",
       "is_positive": true
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,823",
-      "change": "+2.93%",
+      "price": "$1,808",
+      "change": "+4.75%",
       "is_positive": true
     },
     {
@@ -1013,39 +1013,39 @@
       ]
     },
     {
-      "id": "rynki-7-c58f6f",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-7-cd367c",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 781 mln zł, 492,1 mld zł, 491,7 mld zł) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "781 mln zł",
-        "492,1 mld zł",
-        "491,7 mld zł"
+        "3,38 mld zł",
+        "2,87 mld zł",
+        "1,69%"
       ],
-      "title": "Polacy gromadzą coraz więcej w PPK. Aktywa funduszy biją rekordy",
+      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "14:00",
+      "time": "17:30",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Polacy-gromadza-coraz-wiecej-w-PPK-Aktywa-funduszy-bija-rekordy-9227957.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/4/f1e3e1e3ddf88d-945-560-517-270-3960-2375.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł.",
-        "Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
-        "fot. Tomasz Ras / / Puls Biznesu Po wrześniowym spadku polski rynek funduszy inwestycyjnych powrócił na ścieżkę wzrostu i na koniec października krajowe fundusze zarządzały aktywami netto o wartości 492,1 mld zł, czyli o 781 mln zł (0,2 proc.) większymi niż miesiąc wcześniej."
+        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
+        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
+        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
       ],
       "extended_paragraphs": [
-        "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł. Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
-        "fot. Tomasz Ras / / Puls Biznesu Po wrześniowym spadku polski rynek funduszy inwestycyjnych powrócił na ścieżkę wzrostu i na koniec października krajowe fundusze zarządzały aktywami netto o wartości 492,1 mld zł, czyli o 781 mln zł (0,2 proc.) większymi niż miesiąc wcześniej. Tym samym nieznacznie pobity został dotychczasowy rekord z sierpnia, kiedy aktywa sięgnęły 491,7 mld zł.",
-        "Jak podano, bilans całego roku pozostaje bardzo dobry. Od końca grudnia 2025 r. aktywa funduszy wzrosły o blisko 57 mld zł, czyli 13 proc. W ujęciu rocznym przyrost sięga 74,4 mld zł (17,8 proc.). Do przekroczenia symbolicznej granicy 500 mld zł brakuje już niespełna 8 mld zł.",
-        "W październiku saldo wpłat i wypłat wyniosło 1,25 mld zł, wobec 0,23 mld zł we wrześniu. Jednocześnie szacowany wynik zarządzania był ujemny i sięgnął ok. -500 mln zł.",
-        "\"Był to drugi z rzędu miesiąc, w którym wyniki inwestycyjne obniżały wartość aktywów krajowych funduszy\" - dodano."
+        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
+        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
+        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
+        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
+        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
       ]
     },
     {
@@ -1183,105 +1183,200 @@
   ],
   "makro": [
     {
-      "id": "makro-3-c90527",
-      "entity_tag": "Ropa Naftowa",
-      "sector": "Surowce Energetyczne",
-      "market_impact": "MEDIUM",
+      "id": "makro-7-14ff5d",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Surowce Energetyczne” (Ropa Naftowa) (kluczowe liczby: 55 proc.) przy planowaniu budżetu i inwestycji.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 28 tys., -30 proc.) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [
-        "55 proc."
+        "28 tys.",
+        "-30 proc."
       ],
-      "title": "Zełenski: unieruchomiliśmy ponad 55 proc. mocy przerobowych rafinerii w Rosji",
+      "title": "Wielkie liczby lekkiej logistyki",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:03",
+      "time": "00:00",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/konflikty-zbrojne/art45491621-zelenski-unieruchomilismy-ponad-55-proc-mocy-przerobowych-rafinerii-w-rosji",
-      "image_url": "https://i.gremicdn.pl/image/free/72edcc8d2956044174075907cff5a811/",
+      "source_url": "https://logistyka.rp.pl/drogowy/art45491121-wielkie-liczby-lekkiej-logistyki",
+      "image_url": "https://i.gremicdn.pl/image/free/7345ba649a97a0556433c48eabfca04f/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": true,
       "summary_points": [
-        "- Obecnie niemal każdego dnia odnosimy kolejne sukcesy.",
-        "Łącznie do tej pory unieruchomiliśmy już ponad 55 proc. rosyjskich mocy przerobowych w sektorze rafineryjnym – poinformował w niedzielę prezydent Ukrainy Wołodymyr Zełenski.",
-        "Kłęby dymu unoszą się z pożarów w rafinerii ropy naftowej w Rosji - zdjęcie archiwalne – To nasza uzasadniona odpowiedź na odmowę Rosji w kwestii deeskalacji oraz jej ataki na ukraińską infrastrukturę energetyczną – dodał Zełenski."
+        "System TMS pozwala DPD Polska okiełznać codziennie milionowe potoki przesyłek i tysiące samochodów.",
+        "Codziennie na drogi wyruszają prawie 2 tysiące samochodów obsługujących operacje prowadzone przez DPD Polska Każdej nocy blisko dwa tysiące samochodów ciężarowych wyrusza z magazynów DPD Polska, łącząc je między sobą oraz odbierając przesyłki od klientów.",
+        "– Zamawiający składa zlecenie na transport do (powiedzmy) godziny 20.00 i spodziewa się dostawy przesyłek do klientów następnego dnia."
       ],
       "extended_paragraphs": [
-        "- Obecnie niemal każdego dnia odnosimy kolejne sukcesy. Łącznie do tej pory unieruchomiliśmy już ponad 55 proc. rosyjskich mocy przerobowych w sektorze rafineryjnym – poinformował w niedzielę prezydent Ukrainy Wołodymyr Zełenski.",
-        "Kłęby dymu unoszą się z pożarów w rafinerii ropy naftowej w Rosji - zdjęcie archiwalne",
-        "– To nasza uzasadniona odpowiedź na odmowę Rosji w kwestii deeskalacji oraz jej ataki na ukraińską infrastrukturę energetyczną – dodał Zełenski.",
-        "W wieczornym przemówieniu wideo prezydent Ukrainy przekazał, że naczelny dowódca Sił Zbrojnych Ukrainy Mychajło Drapaty złożył mu w niedzielę raport na temat ukraińskich uderzeń dalekiego zasięgu. Przekazał też, że w październiku w wyniku działań wojennych Rosja poniosła ogromne straty w ludziach – ponad 50 000 zabitych i rannych.",
-        "Konflikty zbrojne „Odległość już nie chroni”. Ukraina uderzyła w kluczowy węzeł naftowy Ukraińskie drony dalekiego zasięgu zaatakowały węzeł naftowy Samara w środkowej Rosji w pobliżu miejscowości Proswiet w obwodzie samarskim - poinfo..."
+        "System TMS pozwala DPD Polska okiełznać codziennie milionowe potoki przesyłek i tysiące samochodów.",
+        "Codziennie na drogi wyruszają prawie 2 tysiące samochodów obsługujących operacje prowadzone przez DPD Polska",
+        "Każdej nocy blisko dwa tysiące samochodów ciężarowych wyrusza z magazynów DPD Polska, łącząc je między sobą oraz odbierając przesyłki od klientów. – Zamawiający składa zlecenie na transport do (powiedzmy) godziny 20.00 i spodziewa się dostawy przesyłek do klientów następnego dnia. Podstawienie zestawu nie jest problemem. Wyzwanie zaczyna się wtedy, gdy trzeba to robić systematycznie bądź wprowadzać zmiany: sezonowe, kwartalne lub tygodniowe i reagować na nagłe zdarzenia – wskazuje dyrektor operacyjny i członek zarządu DPD Polska, Maciej Głowacki.",
+        "Podkreśla, że zarządza trzema sieciami przewozów: liniowymi połączeniami pięciu sortowni z oddziałami w kraju i za granicą, oddziałami między sobą i do tego wysyłką samochodów do klientów. – Kontaktowaliśmy się telefonicznie, mailami, CB radiem, a wszystkie kanały były związane bezpośrednio z człowiekiem. W 2016 roku zabrakło nam czasu, wypełniliśmy nawet całą tabelę Excel, który ma 28 tys. linii – podkreśla Głowacki.",
+        "Zaczął szukać ratunku u programistów. – Wiedzieliśmy czego chcemy, ale wybór dostawcy nie był łatwy, pojawiało się coraz więcej tematów do zagospodarowania, rosły koszty. Zarazem ręczne zarządzanie operacjami stawało się nie do przyjęcia i wymagało pilnego rozwiązania – przyznaje dyrektor operacyjny w DPD Polska."
       ]
     },
     {
-      "id": "makro-6-2ba0dc",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-1-18d42c",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Sztuczna Inteligencja” wspierający aktywność gospodarczą i siłę nabywczą.",
       "key_metrics": [],
-      "title": "Kalendarze adwentowe kosmetyczne mogą kosztować setki, ale czy są warte swojej ceny?",
-      "original_title": "Beauty advent calendars can cost hundreds but are they value for money?",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "00:01",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Kalendarze kosmetyczne stały się obowiązkowym elementem świątecznym i cieszą się szczególną popularnością wśród kobiet robiących zakupy.",
-        "„Zawsze patrzę na to, co w nich jest.",
-        "Jeśli zapachy mi się dostatecznie spodobają, to je kupię” – mówi 39-latka, która pracuje jako starszy menedżer handlowy w dziale inżynierii."
-      ],
-      "extended_paragraphs": [
-        "Kalendarze kosmetyczne stały się obowiązkowym elementem świątecznym i cieszą się szczególną popularnością wśród kobiet robiących zakupy.",
-        "„Zawsze patrzę na to, co w nich jest. Jeśli zapachy mi się dostatecznie spodobają, to je kupię” – mówi 39-latka, która pracuje jako starszy menedżer handlowy w dziale inżynierii.",
-        "Luksusowe kalendarze adwentowe mają dawać dreszczyk niespodzianki, ale dla Julii ważniejsze jest, czy rzeczywiście chce, aby przedmioty były w środku – ta myśl uderza także coraz większą liczbę klientów po skandalu wokół kalendarza Skims.",
-        "W tym tygodniu marka kosmetyczna Kim Kardashian zaoferowała wszystkim swoim klientom zwrot pieniędzy za kalendarz o wartości 148 dolarów (110 funtów) po tym, jak została szeroko skrytykowana w mediach społecznościowych za jakość jego zawartości, a niektórzy klienci porównali spinki do włosów, gumki i breloczki do kluczy znajdujące się w środku do rzeczy, które można znaleźć na oparciu sofy.",
-        "Julia twierdzi, że zarabia nieźle, ale zależy jej na dobrym stosunku jakości do ceny i nie chce ich marnować na przedmioty, których nie będzie używać."
-      ]
-    },
-    {
-      "id": "makro-1-53d2be",
-      "entity_tag": "USA & Bezpieczeństwo",
-      "sector": "Geopolityka",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Geopolityka” — istotne dla ochrony realnej wartości kapitału.",
-      "key_metrics": [],
-      "title": "Zmiany w NATO. Sojusz rezygnuje ze szczytu w Albanii w 2027 roku",
+      "title": "Jak będzie rola AI w rezerwowaniu biletów lotniczych? Cztery scenariusze dla linii lotniczych",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:22",
+      "time": "01:00",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/polityka/art45491641-zmiany-w-nato-sojusz-rezygnuje-ze-szczytu-w-albanii-w-2027-roku",
-      "image_url": "https://i.gremicdn.pl/image/free/6c5556e13988d7100446bd4e2c8e3107/",
+      "source_url": "https://turystyka.rp.pl/linie-lotnicze/art45491861-jak-bedzie-rola-ai-w-rezerwowaniu-biletow-lotniczych-cztery-scenariusze-dla-linii-lotniczych",
+      "image_url": "https://i.gremicdn.pl/image/free/35c5bed9667c53fcc71ba3426f7d6d0d/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "NATO nie zorganizuje w Albanii szczytu przywódców w 2027 roku – informuje Associated Press.",
-        "Agencja wskazuje na spory o wydatki obronne, napięcia polityczne i rosnące koszty organizacji spotkań.",
-        "Prezydent USA Donald Trump I sekretarz generalny NATO Mark Rutte podczas szczytu w Ankarze NATO nie zorganizuje w 2027 r. szczytu przywódców w Albanii, choć Tirana została wcześniej wskazana jako gospodarz."
+        "Sztuczna inteligencja może zmienić sposób wyszukiwania i rezerwowania biletów lotniczych.",
+        "Nie wiadomo jednak, czy pasażerowie powierzą jej wszystkie czynności, czy przewoźnicy utrzymają bezpośredni kontakt z klientami i czy na nowym modelu sprzedaży najwięcej zyskają internetowe biura podróży.",
+        "Raport przedstawia cztery scenariusze rozwoju sprzedaży biletów lotniczych z wykorzystaniem agentów opartych na sztucznej inteligencji Raport firmy TNMT przedstawia cztery możliwe scenariusze rozwoju rynku sprzedąży biletów lotniczych w najbliższych latach."
       ],
       "extended_paragraphs": [
-        "NATO nie zorganizuje w Albanii szczytu przywódców w 2027 roku – informuje Associated Press. Agencja wskazuje na spory o wydatki obronne, napięcia polityczne i rosnące koszty organizacji spotkań.",
-        "Prezydent USA Donald Trump I sekretarz generalny NATO Mark Rutte podczas szczytu w Ankarze",
-        "NATO nie zorganizuje w 2027 r. szczytu przywódców w Albanii, choć Tirana została wcześniej wskazana jako gospodarz. Jak informuje Associated Press (AP), Sojusz ogranicza również liczbę spotkań ministerialnych. Zmiany następują w czasie napięć dotyczących wydatków obronnych, wojny w Ukrainie i konfliktu z Iranem.",
-        "Sekretarz generalny NATO Mark Rutte podkreślił w rozmowie z AP, że szczyty są organizowane wtedy, gdy są potrzebne. W ostatnich latach odbywały się rokrocznie: w 2026 r. w Ankarze, rok wcześniej w Hadze, a w 2024 r. w Waszyngtonie.",
-        "Spotkanie ministrów obrony, zwykle organizowane w październiku, nie odbyło się w tym roku. Nie zaplanowano go również na październik 2027 r. Ministrowie spraw zagranicznych mają natomiast spotkać się w przyszłym roku raz, zamiast dwóch razy. NATO określa te zmiany jako pakiet reorganizacyjny."
+        "Sztuczna inteligencja może zmienić sposób wyszukiwania i rezerwowania biletów lotniczych. Nie wiadomo jednak, czy pasażerowie powierzą jej wszystkie czynności, czy przewoźnicy utrzymają bezpośredni kontakt z klientami i czy na nowym modelu sprzedaży najwięcej zyskają internetowe biura podróży.",
+        "Raport przedstawia cztery scenariusze rozwoju sprzedaży biletów lotniczych z wykorzystaniem agentów opartych na sztucznej inteligencji",
+        "Raport firmy TNMT przedstawia cztery możliwe scenariusze rozwoju rynku sprzedąży biletów lotniczych w najbliższych latach.",
+        "Linie lotnicze dopiero rozpoczynają wdrażanie sztucznej inteligencji opartej na agentach, czyli rozwiązań, które mogą samodzielnie wykonywać zadania w imieniu użytkownika. Podczas konferencji Elevate w Atlancie organizacja ATPCO poinformowała, że aktywne programy AI ma 37 procent przewoźników, ale rozwiązania oparte na agentach wdrożyło zaledwie 11 procent – pisze portal Phocuswire.",
+        "Linie Lotnicze Kiedy wyjechać na lotnisko? Aplikacja ustali to za pasażera Amerykański startup SkySpot stworzył aplikację, która pomaga podróżnym ustalić, kiedy powinni wyjechać na lotnisko, aby zdążyć na samolot. Narzędzi..."
       ]
     },
     {
-      "id": "makro-2-e93ca2",
+      "id": "makro-3-32f451",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Tygodniowy flesz - terminy, wskaźniki, stawki: 16-22 listopada 2026 r.",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "00:07",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://pro.rp.pl/kalendarium/art45491351-tygodniowy-flesz-terminy-wskazniki-stawki-16-22-listopada-2026-r",
+      "image_url": "https://i.gremicdn.pl/image/free/7399f4e2139916b4719b2cc2b3bfa673/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Najważniejsze terminy na ten tydzień.",
+        "Aktualne wskaźniki i stawki - informacje przydatne dla księgowych, podatników i kadrowych.",
+        "Jakie akty prawne wchodzą w życie."
+      ],
+      "extended_paragraphs": [
+        "Najważniejsze terminy na ten tydzień. Aktualne wskaźniki i stawki - informacje przydatne dla księgowych, podatników i kadrowych. Jakie akty prawne wchodzą w życie.",
+        "- od nieruchomości i podatku leśnego za listopad 2026 r. przez osoby prawne, jednostki organizacyjne oraz spółki niemające osobowości prawnej",
+        "- IV raty podatku rolnego przez osoby prawne, jednostki organizacyjne oraz spółki niemające osobowości prawnej",
+        "- IV raty podatku od nieruchomości, podatku leśnego oraz podatku rolnego przez osoby fizyczne",
+        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych. Poznaj fakty, które kształtują biznes, prawo oraz społeczeństwo."
+      ]
+    },
+    {
+      "id": "makro-4-abdb3f",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Jak wynika z raportu Milburna, obciąć ubezpieczenie społeczne osób poniżej 25. roku życia, aby stworzyć miejsca pracy",
+      "original_title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:30",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Publikowany w tym tygodniu raport będzie sugerował stopniowe obniżanie kosztów zatrudnienia w ciągu pięciu lat.",
+        "Podpis pod zdjęciem: raport Alana Milburna będzie zawierał także zalecenia dotyczące obniżenia rachunku za świadczenia Ubezpieczenie społeczne (NI) płacone przez przedsiębiorstwa pracownikom poniżej 25.",
+        "roku życia powinno być stopniowo obniżane, aby zachęcić firmy do tworzenia miejsc pracy dla młodych ludzi, jak wynika z obszernego przeglądu bezrobocia wśród młodych osób."
+      ],
+      "extended_paragraphs": [
+        "Publikowany w tym tygodniu raport będzie sugerował stopniowe obniżanie kosztów zatrudnienia w ciągu pięciu lat.",
+        "Podpis pod zdjęciem: raport Alana Milburna będzie zawierał także zalecenia dotyczące obniżenia rachunku za świadczenia",
+        "Ubezpieczenie społeczne (NI) płacone przez przedsiębiorstwa pracownikom poniżej 25. roku życia powinno być stopniowo obniżane, aby zachęcić firmy do tworzenia miejsc pracy dla młodych ludzi, jak wynika z obszernego przeglądu bezrobocia wśród młodych osób.",
+        "Raport byłego ministra pracy Alana Milburna będzie sugerował, że rząd powinien obniżyć koszty ubezpieczenia społecznego w ciągu pięciu lat dla osób w wieku od 21 do 24 lat, zaczynając od handlu detalicznego i hotelarstwa.",
+        "Pod rządami Sir Keira Starmera rząd podniósł NI dla firm. Milburn powie, że liczba młodych ludzi, którzy nie pracują, nie kształcą się ani nie szkolą – znanych jako Neets – nie zaczęła się od podwyżki w Irlandii Północnej."
+      ]
+    },
+    {
+      "id": "makro-5-cc28c0",
+      "entity_tag": "Rynek Długu / MF",
+      "sector": "Obligacje & Budżet",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Obligacje & Budżet” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Niezbędnik przedsiębiorcy: e-księga i JPK * czy ograniczyć prawo do liniowego i ryczałtu? * odliczenie VAT od alkoholu * jaka umowa dla programisty * nowy obowiązek deweloperów",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "00:07",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://pro.rp.pl/niezbednik-przedsiebiorcy/art45491841-niezbednik-przedsiebiorcy-e-ksiega-i-jpk-czy-ograniczyc-prawo-do-liniowego-i-ryczaltu-odliczenie-vat-od-alkoholu-jaka-umowa-dla-programisty-nowy-obowiazek-deweloperow",
+      "image_url": "https://i.gremicdn.pl/image/free/4a3636f37790c94485454e1a592475ff/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "• E-księga i JPK dla małych firm.",
+        "MF zrezygnowało z wyjątku dla zwolnionych z VAT • Ekonomiści odpowiedzieli na pytanie, czy należy ograniczyć dostępność podatku liniowego i ryczałtu dla przedsiębiorców • Czy można odliczyć VAT od alkoholu dla uczestników konferencji czy firmowego eventu?",
+        "• Programista na etacie czy B2B?"
+      ],
+      "extended_paragraphs": [
+        "• E-księga i JPK dla małych firm. MF zrezygnowało z wyjątku dla zwolnionych z VAT • Ekonomiści odpowiedzieli na pytanie, czy należy ograniczyć dostępność podatku liniowego i ryczałtu dla przedsiębiorców • Czy można odliczyć VAT od alkoholu dla uczestników konferencji czy firmowego eventu? • Programista na etacie czy B2B? GIP wyjaśnia, co przesądza o stosunku pracy • Ministerstwo Cyfryzacji zaskoczyło deweloperów • Ważne terminy na ten tydzień",
+        "Ministerstwo Finansów zrezygnowało z wcześniej planowanego odroczenia obowiązku prowadzenia pkpir przy użyciu programów komputerowych oraz przesyłania skarbówce e-księgi w postaci Jednolitego Pliku Kontrolnego. Od 1 stycznia 2026 r. taki obowiązek dotyczy większości małych przedsiębiorców na skali i liniowym PIT, od przyszłego roku czeka pozostałych.",
+        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych. Poznaj fakty, które kształtują biznes, prawo oraz społeczeństwo."
+      ]
+    },
+    {
+      "id": "makro-2-6cf682",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Wielka Brytania będzie miała „głos”, ale nie będzie głosować w sprawie unijnych przepisów żywnościowych po zresetowaniu Brexitu",
+      "original_title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:00",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81c7/live/353868b0-6be8-11f1-aa71-afd82ef74c53.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Minister UE Hamish Falconer upiera się, że Wielka Brytania będzie miała pewien wpływ na politykę w ramach nowego porozumienia.",
+        "Premier Andy Burnham ma nadzieję osiągnąć porozumienie na piątkowym szczycie, jednak krytycy twierdzą, że reset sprawi, że Wielka Brytania będzie „przyjmującym zasady”, ale nie twórcą przepisów.",
+        "Falconer powiedział, że Wielka Brytania będzie zaangażowana w proces kształtowania przepisów i stwierdził, że transakcja może pomóc w obniżeniu cen dla kupujących."
+      ],
+      "extended_paragraphs": [
+        "Minister UE Hamish Falconer upiera się, że Wielka Brytania będzie miała pewien wpływ na politykę w ramach nowego porozumienia.",
+        "Premier Andy Burnham ma nadzieję osiągnąć porozumienie na piątkowym szczycie, jednak krytycy twierdzą, że reset sprawi, że Wielka Brytania będzie „przyjmującym zasady”, ale nie twórcą przepisów.",
+        "Falconer powiedział, że Wielka Brytania będzie zaangażowana w proces kształtowania przepisów i stwierdził, że transakcja może pomóc w obniżeniu cen dla kupujących.",
+        "Reset nie wiązałby się z żadnymi płatnościami z góry, dodał Falconer, ale dał jasno do zrozumienia, że ​​może istnieć „klauzula wyjścia” na wypadek, gdyby przyszły rząd Wielkiej Brytanii wycofał się z bliższego dostosowania.",
+        "Falconer stwierdził, że „rozsądne” jest rozważenie, co by się stało, gdyby przyszły rząd konserwatystów lub reformowany chciał cofnąć nowe ustalenia."
+      ]
+    },
+    {
+      "id": "makro-6-e93ca2",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1293,7 +1388,7 @@
       "original_title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "is_foreign": true,
       "lang": "EN",
-      "time": "14:56",
+      "time": "22:24",
       "source": "BBC Business",
       "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
@@ -1313,135 +1408,35 @@
       ]
     },
     {
-      "id": "makro-4-74e24a",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
-      "key_metrics": [],
-      "title": "Minister popiera prawo do wsparcia zawodowego dla młodych ludzi",
-      "original_title": "Minister backs legal right to job support for young people",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:06",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "pracy i emerytur stwierdziła, że poziom oferowanego obecnie wsparcia jest zbyt niejasny.",
-        "Podpis pod rysunkiem, Obejrzyj: Pat McFadden nie wyklucza, że niektórzy młodzi ludzie mogą utracić świadczenia Sekretarz pracy i emerytur poparła pomysł, że rząd powinien prawnie zagwarantować młodym ludziom pomoc w znalezieniu zatrudnienia.",
-        "Pat McFadden powiedział BBC, że wsparcie w zakresie zatrudnienia powinno otrzymać „podstawę legislacyjną”, dodając, że poziom oferowanej pomocy jest obecnie „niejasny”."
-      ],
-      "extended_paragraphs": [
-        "Sekretarz ds. pracy i emerytur stwierdziła, że poziom oferowanego obecnie wsparcia jest zbyt niejasny.",
-        "Podpis pod rysunkiem, Obejrzyj: Pat McFadden nie wyklucza, że niektórzy młodzi ludzie mogą utracić świadczenia",
-        "Sekretarz pracy i emerytur poparła pomysł, że rząd powinien prawnie zagwarantować młodym ludziom pomoc w znalezieniu zatrudnienia.",
-        "Pat McFadden powiedział BBC, że wsparcie w zakresie zatrudnienia powinno otrzymać „podstawę legislacyjną”, dodając, że poziom oferowanej pomocy jest obecnie „niejasny”.",
-        "McFadden potwierdził również, że w wyniku ponownej oceny ich obecne uprawnienia do świadczeń zostaną zmniejszone."
-      ]
-    },
-    {
-      "id": "makro-5-85b1e3",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
-      "key_metrics": [],
-      "title": "Drony znów zaatakowały statki na Morzu Czarnym. Wybuchły pożary",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:20",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/konflikty-zbrojne/art45491581-drony-znow-zaatakowaly-statki-na-morzu-czarnym-wybuchly-pozary",
-      "image_url": "https://i.gremicdn.pl/image/free/3ee9b2cb96e0c5d2fb0c192f50ac9d3d/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Ponownie zagrożone zostało bezpieczeństwo morskie na Morzu Czarnym - napisał w niedzielę na X premier Rumunii Luca Niculescu.",
-        "Chodzi o sobotnie ataki dronów na trzy statki handlowe w pobliżu delty Dunaju.",
-        "To kolejne takie incydenty."
-      ],
-      "extended_paragraphs": [
-        "Ponownie zagrożone zostało bezpieczeństwo morskie na Morzu Czarnym - napisał w niedzielę na X premier Rumunii Luca Niculescu. Chodzi o sobotnie ataki dronów na trzy statki handlowe w pobliżu delty Dunaju. To kolejne takie incydenty.",
-        "Statki handlowe na Morzu Czarnym od początku października były celem dronów już 11 razy",
-        "Do ataków doszło w sobotę wieczorem. Premier Niculescu przekazał we wpisie w X, że radary Ministerstwa Obrony wykryły statki powietrzne, co skłoniło rumuńskie siły powietrzne do dwukrotnego poderwania myśliwców.",
-        "W sobotę dron uderzył w statek pływający pod banderą Palau na rumuńskich wodach terytorialnych; jednostka zmierzała do Suliny, a jej ostatecznym celem była Ukraina - przekazał portal Ukrainska Prawda.",
-        "Tego samego dnia grecki tankowiec Evia Petrol V został trafiony dronem około 4 mil morskich na południowy wschód od Suliny, co wywołało pożar na pokładzie. Taki sam skutek miał trzeci sobotni atak na jednostkę znajdującą się około 5 mil morskich na południowy wschód od kanału Sulina."
-      ]
-    },
-    {
-      "id": "makro-7-467a12",
+      "id": "makro-8-53a22f",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 100 tys.) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "100 tys."
-      ],
-      "title": "Leon XIV w Andach. Papież zwrócił się do chorych i mieszkańców Peru",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:01",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/kosciol/art45491531-leon-xiv-w-andach-papiez-zwrocil-sie-do-chorych-i-mieszkancow-peru",
-      "image_url": "https://i.gremicdn.pl/image/free/357459b68e24cfa38b3aac6744bfe78a/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Papież Leon XIV odwiedził Cusco, historyczną stolicę Imperium Inków, gdzie spotkał się z tysiącami wiernych i modlił przed katedrą.",
-        "Podczas wizyty mówił o jedności, godności osób chorych i chrześcijańskiej nadziei, a także przekazał dar dla wizerunku Chrystusa od Trzęsień Ziemi.",
-        "W dziesiątym dniu podróży po Ameryce Południowej Leon XIV przyleciał w niedzielę do Cusco, położonego w peruwiańskich Andach."
-      ],
-      "extended_paragraphs": [
-        "Papież Leon XIV odwiedził Cusco, historyczną stolicę Imperium Inków, gdzie spotkał się z tysiącami wiernych i modlił przed katedrą. Podczas wizyty mówił o jedności, godności osób chorych i chrześcijańskiej nadziei, a także przekazał dar dla wizerunku Chrystusa od Trzęsień Ziemi.",
-        "W dziesiątym dniu podróży po Ameryce Południowej Leon XIV przyleciał w niedzielę do Cusco, położonego w peruwiańskich Andach. Według lokalnych władz na ulicach miasta papieża powitało pół miliona osób. W spotkaniu z wiernymi uczestniczyło natomiast około 100 tys. ludzi.",
-        "Uroczystość odbyła się na terenie parku archeologicznego Sacsayhuaman, rozległego kompleksu inkaskich budowli obronnych, świątyń i systemów wodnych. Obiekt, podobnie jak historyczne centrum Cusco, znajduje się na liście światowego dziedzictwa UNESCO.",
-        "Miasto położone jest na wysokości około 3400 m n.p.m. Leon XIV przybył tam miesiąc i dwa dni po operacji usunięcia nowotworu płuca. Wcześniej przez dwa dni przebywał w Chiclayo, swojej dawnej diecezji.",
-        "Podczas spotkania w Sacsayhuaman papież zwrócił uwagę na wyjątkowe znaczenie miejsca, w którym zgromadzili się wierni. Jak mówił, kompleks przypomina kamienny ołtarz wznoszący się ku andyjskiemu niebu, do którego niegdyś zwracali się przodkowie mieszkańców, poszukując tego, co boskie."
-      ]
-    },
-    {
-      "id": "makro-8-b388d6",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 1%) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "1%"
-      ],
-      "title": "Jak skandal Jensena Huanga przyprawiał o ból głowy przyjazny biznesowi Singapur",
-      "original_title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Czarny piątek i oszustwa związane ze zwrotem podatku – nie dajcie się nabrać",
+      "original_title": "Black Friday and tax return scams - don't fall for these",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:00",
+      "time": "00:50",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Skandal rzucił światło na sukces Singapuru jako centrum chipów i miejsca rzekomego nielegalnego handlu.",
-        "W czwartek Huang ustąpił z funkcji amerykańskiego giganta chipowego po tym, jak przyznał się, że miał romans.",
-        "Według doniesień był powiązany z kobietą o imieniu Alice Huang, która zarządzała singapurską firmą Megaspeed zajmującą się centrami danych, głównym nabywcą chipów Nvidii."
+        "Do HMRC zgłaszanych jest dziesiątki tysięcy oszustw – HMRC ma więc porady, jak rozpoznać fałszywe żądanie i zwrócić pieniądze.",
+        "Dzieje się tak dlatego, że o tej porze roku ludzie częściej oczekują e-maili, SMS-ów i innej korespondencji.",
+        "Oszuści wykorzystają te daty do podszywania się pod prawdziwe organizacje i sprzedawców detalicznych, popychając ofiary do fałszywych witryn internetowych w celu kradzieży danych osobowych."
       ],
       "extended_paragraphs": [
-        "Skandal rzucił światło na sukces Singapuru jako centrum chipów i miejsca rzekomego nielegalnego handlu.",
-        "W czwartek Huang ustąpił z funkcji amerykańskiego giganta chipowego po tym, jak przyznał się, że miał romans. Według doniesień był powiązany z kobietą o imieniu Alice Huang, która zarządzała singapurską firmą Megaspeed zajmującą się centrami danych, głównym nabywcą chipów Nvidii.",
-        "Przez dziesięciolecia Singapur pieczołowicie pielęgnował reputację otwartej, przyjaznej biznesowi gospodarki, oferującej łatwy dostęp do rynku amerykańskiego i chińskiego.",
-        "Wraz z boomem na sztuczną inteligencję stał się w ostatnich latach głównym ośrodkiem handlu wysokiej klasy chipami półprzewodnikowymi.",
-        "W ubiegłym roku Singapur był dla Nvidii drugim co do wielkości centrum rozliczeniowym na świecie, generując prawie jedną piątą zarobków amerykańskiego giganta chipowego."
+        "Do HMRC zgłaszanych jest dziesiątki tysięcy oszustw – HMRC ma więc porady, jak rozpoznać fałszywe żądanie i zwrócić pieniądze.",
+        "Dzieje się tak dlatego, że o tej porze roku ludzie częściej oczekują e-maili, SMS-ów i innej korespondencji.",
+        "Oszuści wykorzystają te daty do podszywania się pod prawdziwe organizacje i sprzedawców detalicznych, popychając ofiary do fałszywych witryn internetowych w celu kradzieży danych osobowych.",
+        "Jeśli prowadzisz działalność na własny rachunek lub masz więcej niż jedno źródło dochodu, musisz złożyć zeznanie podatkowe do końca stycznia.",
+        "Oszuści wykorzystują ten termin, aby zaatakować ludzi wiadomościami, które wyglądają jak oficjalne i pochodzą od brytyjskiego organu podatkowego, HMRC."
       ]
     }
   ],
@@ -1478,6 +1473,42 @@
         "Szacuje się, że występuje on zaledwie raz na około 10 miliardów rozpadów cząstek zawierających kwark piękny. Właśnie dlatego jego zaobserwowanie stanowiło tak duże wyzwanie. Pomimo wieloletnich poszukiwań, dopiero najnowsze możliwości detektora LHCb pozwoliły uzyskać wystarczająco silny sygnał.",
         "Warto odnotować, iż kwarki to jedne z podstawowych składników materii. Kwarki górne i dolne budują protony oraz neutrony, z których składają się jądra atomowe. Kwark piękny należy do cięższej rodziny kwarków i powstaje między innymi podczas zderzeń wysokoenergetycznych protonów w Wielkim Zderzaczu Hadronów. Cząstki zawierające taki kwark są wyjątkowo krótkotrwałe. Istnieją zaledwie około 1,5 bilionowej części sekundy, zanim ulegną rozpadowi na inne cząstki.",
         "W badanym procesie mezon B⁰ przekształca się w dwa miony: jeden o ładunku dodatnim, drugi o ujemnym. To właśnie identyfikacja tej pary, ukrytej w ogromnej liczbie innych produktów zderzeń, stanowiła główną trudność eksperymentalną. Ogromną rolę w uzyskaniu wyniku odegrała modernizacja eksperymentu LHCb. Od 2024 roku ulepszony detektor może rejestrować dane nawet pięć razy szybciej niż wcześniej, co znacząco zwiększyło liczbę analizowanych zderzeń."
+      ]
+    },
+    {
+      "id": "tech-2-6547fd",
+      "entity_tag": "Półprzewodniki",
+      "sector": "Hardware & Chipy",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Półprzewodniki (Hardware & Chipy) (kluczowe liczby: 24 milionów dolarów, 24 mln dolarów, 24 miliony dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "24 milionów dolarów",
+        "24 mln dolarów",
+        "24 miliony dolarów"
+      ],
+      "title": "Indyjski start-up zajmujący się chipami Bharat Semi zdobywa rundę zalążkową o wartości 24 milionów dolarów, przyglądając się globalnemu rynkowi czujników AI",
+      "original_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Bharat Semi twierdzi, że zapewnił sobie zwycięstwa w projektach technologii czujników obsługujących sztuczną inteligencję z takimi firmami, jak General Atomics.",
+        "Indyjski start-up zajmujący się chipami Bharat Semi gromadzi kapitał początkowy o wartości 24 mln dolarów, obserwując globalny rynek czujników AI Jagmeet Singh 15:30 PST · 15 listopada 2026 r. Bharat Semi, indyjski start-up zajmujący się półprzewodnikami, zebrał 24 miliony dolarów z kapitału początkowego na rozwój czujników obrazu obsługujących sztuczną inteligencję, chcąc pozyskać klientów w Stanach Zjednoczonych i poza nimi.",
+        "Inwestycja następuje po tym, jak prawie pięcioletni start-up osiągający przychody twierdzi, że zapewnił sobie zwycięstwa w projektowaniu z amerykańską firmą General Atomics zajmującą się technologią obronną i indyjskim Kaynes Semicon."
+      ],
+      "extended_paragraphs": [
+        "Bharat Semi twierdzi, że zapewnił sobie zwycięstwa w projektach technologii czujników obsługujących sztuczną inteligencję z takimi firmami, jak General Atomics.",
+        "Indyjski start-up zajmujący się chipami Bharat Semi gromadzi kapitał początkowy o wartości 24 mln dolarów, obserwując globalny rynek czujników AI Jagmeet Singh 15:30 PST · 15 listopada 2026 r. Bharat Semi, indyjski start-up zajmujący się półprzewodnikami, zebrał 24 miliony dolarów z kapitału początkowego na rozwój czujników obrazu obsługujących sztuczną inteligencję, chcąc pozyskać klientów w Stanach Zjednoczonych i poza nimi.",
+        "Inwestycja następuje po tym, jak prawie pięcioletni start-up osiągający przychody twierdzi, że zapewnił sobie zwycięstwa w projektowaniu z amerykańską firmą General Atomics zajmującą się technologią obronną i indyjskim Kaynes Semicon. Jednak jego czujniki obrazu są nadal w fazie rozwoju, a start-up planuje rozpocząć komercyjną produkcję w 2027 r.",
+        "Indie przeznaczyły miliardy dolarów na budowę krajowego przemysłu półprzewodników, mając nadzieję, że staną się alternatywnym centrum produkcyjnym, ponieważ amerykańskie firmy będą chciały zdywersyfikować łańcuchy dostaw poza Chinami. Kraj ten nie stał się jednak głównym ośrodkiem produkcji chipów. Tymczasem boom na sztuczną inteligencję daje także indyjskim start-upom, takim jak Bharat Semi, możliwość opracowania wyspecjalizowanych chipów na rynki światowe.",
+        "Startup z siedzibą w New Delhi opracowuje programowalne czujniki obrazu, które łączą funkcje przechwytywania, przetwarzania i sztucznej inteligencji w jednym chipie, redukując potrzebę wysyłania danych wizualnych do oddzielnych procesorów. Posunięcie to mogłoby obniżyć koszty systemu o co najmniej 70% w porównaniu z konwencjonalnymi konfiguracjami, które wykorzystują oddzielny czujnik obrazu, procesor sygnału obrazu i układ typu „system-on-chip”, powiedziała w wywiadzie współzałożycielka Vrinda Kapoor (na zdjęciu powyżej, po prawej)."
       ]
     },
     {
@@ -1547,7 +1578,71 @@
       ]
     },
     {
-      "id": "tech-2-9c250c",
+      "id": "tech-8-cedf28",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Rakieta Vulcan ulega awarii podczas startu, zadając poważny cios konkurentom SpaceX",
+      "original_title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:11",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+      "image_source": "Fot. / Źródło: Ars Technica",
+      "lead_story": false,
+      "summary_points": [
+        "Była to pierwsza całkowita porażka misji w 20-letniej historii United Launch Alliance.",
+        "Rakieta Vulcan ma kontrakt na wystrzelenie w ciągu najbliższych kilku lat mniej więcej połowy misji kosmicznych armii amerykańskiej związanych z bezpieczeństwem narodowym, a niedzielna misja była pierwszym z 38 startów Vulcan zarezerwowanych przez Amazon w celu budowy sieci satelitów szerokopasmowego Internetu, które mają konkurować ze Starlink SpaceX.",
+        "Oczekuje się, że niedzielna awaria uziemi rakietę na czas nieokreślony."
+      ],
+      "extended_paragraphs": [
+        "Była to pierwsza całkowita porażka misji w 20-letniej historii United Launch Alliance.",
+        "Rakieta Vulcan ma kontrakt na wystrzelenie w ciągu najbliższych kilku lat mniej więcej połowy misji kosmicznych armii amerykańskiej związanych z bezpieczeństwem narodowym, a niedzielna misja była pierwszym z 38 startów Vulcan zarezerwowanych przez Amazon w celu budowy sieci satelitów szerokopasmowego Internetu, które mają konkurować ze Starlink SpaceX. Oczekuje się, że niedzielna awaria uziemi rakietę na czas nieokreślony.",
+        "Vulcan nie jest obcy domykaniu rozmów, pokonując awarie dzięki przypinanym dopalaczom rakiet na paliwo stałe podczas dwóch z czterech poprzednich lotów. W każdym przypadku rakieta naprawiła te problemy i kontynuowała lot na orbitę, aby rozmieścić swoje ładunki. Incydenty zaowocowały wielomiesięcznymi przeglądami i dochodzeniami, zanim ULA mogła wznowić loty Vulcan.",
+        "Niedzielna premiera zakończyła się niepowodzeniem innego rodzaju. Wydaje się, że sześć dopalaczy rakiet na paliwo stałe spisało się dobrze w ciągu pierwszych dwóch minut po wystartowaniu Vulcana ze stacji sił kosmicznych Cape Canaveral na Florydzie o godzinie 12:40 czasu EDT (17:40 UTC).",
+        "W oświadczeniu ULA stwierdziło, że w rakiecie „wystąpiła anomalia już po 10 minutach lotu i nie udało jej się dostarczyć misji Amazon na orbitę”. Firma stwierdziła, że ​​nie ma od razu „żadnych konkretnych danych pozwalających zrozumieć, co się wydarzyło”."
+      ]
+    },
+    {
+      "id": "tech-4-5ac015",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Czy zła wiadomość dla Jensena Huanga to także zła wiadomość dla branży AI?",
+      "original_title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:56",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "„Jensen to Nvidia, prawda?",
+        "A znaczna część tej gospodarki opiera się na Nvidii”.",
+        "Czy zła wiadomość dla Jensena Huanga to także zła wiadomość dla branży AI?"
+      ],
+      "extended_paragraphs": [
+        "„Jensen to Nvidia, prawda? A znaczna część tej gospodarki opiera się na Nvidii”.",
+        "Czy zła wiadomość dla Jensena Huanga to także zła wiadomość dla branży AI? Anthony Ha 13:56 PST · 15 listopada 2026 r. Nie spodziewaliśmy się, że to nadejdzie. A przynajmniej ja nie – tydzień temu, gdy pisałem, że zarząd Nvidii wszczął śledztwo w sprawie ówczesnego dyrektora generalnego Jensena Huanga, założyłem, że jego praca jest bezpieczna.",
+        "W najnowszym odcinku podcastu Equity TechCrunch Rebecca Bellan, Tim De Chant i ja rozmawialiśmy o tym, jak doszło do obalenia Huanga i co to oznacza dla szerszej gospodarki opartej na sztucznej inteligencji. Podczas gdy Tim stwierdził, że spodziewa się tego (choć nie tak szybko), Rebecca stwierdziła: „Nie sądziłam, że to w ogóle nastąpi”.",
+        "„Jensen to Nvidia, prawda?” dodała. „I znaczna część tej ekonomii opiera się na Nvidii.”",
+        "Podobnie zadziwiło mnie, jak szybko wydawało się, że poparcie dla Huanga się rozpadnie, a z każdym dniem pojawiało się coraz więcej skandalów. (Jednocześnie wiele osób nadal chciałoby jego powrotu). Poświęciliśmy także chwilę na zastanowienie się, co stanie się z inwestycjami Nvidii w większy ekosystem sztucznej inteligencji."
+      ]
+    },
+    {
+      "id": "tech-6-9c250c",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "LOW",
@@ -1576,70 +1671,6 @@
         "W jednym szkicu mamy Jamesa Austina Johnsona jako Petera Thiela, Bena Marshalla jako Sama Altmana, Jane Wickline jako Dario Amodei, Jeremy’ego Culhane’a jako Elona Muska, Andrew Dismukesa jako Marka Zuckerberga – a ostatecznie do zabawy dołączył niedawno zmarły Bowen Yang jako Jensen Huang.",
         "wyrzucenie Huanga z Nvidii (po przyznaniu się do romansu z podejrzanym chińskim szpiegiem) mogłoby mieć poważne konsekwencje dla branży technologicznej; dostarczył także okazji do kilku oczywistych żartów o bogatych kujonach, którzy są łatwym celem dla kobiet (lub mężczyzn), którzy są poza ich ligą.",
         "W skeczu agent CIA grany przez gospodarza programu Johna Mulaneya (jak zawsze zabawny, choć nie do końca pewny, jak wymawia się „Palantir” lub „Nvidia”) próbuje skrupulatnie wyjaśnić, dlaczego ci dyrektorzy powinni być podejrzliwi, gdy ktoś atrakcyjny nagle wydaje się nimi romantycznie zainteresowany. Ze względu na Altmana i Thiela dodał: „Mam nadzieję, że to jest oczywiste: nawet jeśli jesteś gejem, szpieg może cię oszukać”."
-      ]
-    },
-    {
-      "id": "tech-4-7fbd17",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Nowa kampania Flaming Hydra na Kickstarterze na nowo zastanawia się nad posiadaniem e-booków i pożyczkami cyfrowymi",
-      "original_title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:29",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Nowa kampania na Kickstarterze ma na celu zapoczątkowanie „powrotu ludzkiego Internetu”.",
-        "Nowa kampania Flaming Hydra na Kickstarterze zmienia podejście do posiadania e-booków i wypożyczeń cyfrowych Anthony Ha 10:29 PST · 15 listopada 2026 Oto wielka obietnica: nowa kampania na Kickstarterze ma na celu zapoczątkowanie „powrotu ludzkiego Internetu”.",
-        "Według redaktorki naczelnej Flaming Hydra, Marii Bustillos, te odmienne projekty to „w zasadzie wszystko jedno”, połączone celem „ochrony wolności informacji” i spełnienia „obietnicy wczesnego Internetu, w którym udostępnia się informacje jak największej liczbie osób, jednocześnie chroniąc prawo artystów i autorów do zarabiania na życie”."
-      ],
-      "extended_paragraphs": [
-        "Nowa kampania na Kickstarterze ma na celu zapoczątkowanie „powrotu ludzkiego Internetu”.",
-        "Nowa kampania Flaming Hydra na Kickstarterze zmienia podejście do posiadania e-booków i wypożyczeń cyfrowych Anthony Ha 10:29 PST · 15 listopada 2026 Oto wielka obietnica: nowa kampania na Kickstarterze ma na celu zapoczątkowanie „powrotu ludzkiego Internetu”.",
-        "Według redaktorki naczelnej Flaming Hydra, Marii Bustillos, te odmienne projekty to „w zasadzie wszystko jedno”, połączone celem „ochrony wolności informacji” i spełnienia „obietnicy wczesnego Internetu, w którym udostępnia się informacje jak największej liczbie osób, jednocześnie chroniąc prawo artystów i autorów do zarabiania na życie”.",
-        "Bustillos powiedział mi, że problemy te zostały uwypuklone w samej Flaming Hydra, na przykład gdy Tal Levin napisał o znalezieniu na Amazon niezliczonych klonów swojej książki generowanych przez sztuczną inteligencję. „Tworząc ekosystem oparty na współpracujących ze sobą ludziach, którzy oferują swoje rzeczy w kontrolowanym kontekście, który nie pozwala” innym na tworzenie i sprzedawanie klonów generowanych przez sztuczną inteligencję, Bustillos powiedział, że Płonąca Hydra jest „częścią ludzkiego projektu”.",
-        "„Sztuczna inteligencja nie jest siłą nie do powstrzymania” – dodała. „Jeśli ludzie po prostu utworzą kanały, sieci i organizacje wydawnicze zajmujące się ludzkim Internetem, ludzie, którzy chcą czytać, będą mogli do nich dotrzeć, a internet będzie w rzeczywistości całkowicie odizolowany od zakłóceń mechanicznych”."
-      ]
-    },
-    {
-      "id": "tech-6-e0533c",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "TechCrunch Mobility: plan zapasowy Nvidii dla chińskiej branży pojazdów autonomicznych",
-      "original_title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:05",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Witamy ponownie w TechCrunch Mobility, Twoim centrum przyszłości transportu i teraz, bardziej niż kiedykolwiek, roli, jaką odgrywa w nim sztuczna inteligencja.",
-        "TechCrunch Mobility: plan awaryjny Nvidii dla chińskiej branży pojazdów autonomicznych Kirsten Korosec 9:05 PST · 15 listopada 2026 Witamy ponownie w TechCrunch Mobility, Twoim centrum przyszłości transportu, a teraz, bardziej niż kiedykolwiek, roli, jaką odgrywa w nim sztuczna inteligencja.",
-        "Aby otrzymać to w swojej skrzynce odbiorczej, zarejestruj się tutaj bezpłatnie — po prostu kliknij TechCrunch Mobility!"
-      ],
-      "extended_paragraphs": [
-        "Witamy ponownie w TechCrunch Mobility, Twoim centrum przyszłości transportu i teraz, bardziej niż kiedykolwiek, roli, jaką odgrywa w nim sztuczna inteligencja.",
-        "TechCrunch Mobility: plan awaryjny Nvidii dla chińskiej branży pojazdów autonomicznych Kirsten Korosec 9:05 PST · 15 listopada 2026 Witamy ponownie w TechCrunch Mobility, Twoim centrum przyszłości transportu, a teraz, bardziej niż kiedykolwiek, roli, jaką odgrywa w nim sztuczna inteligencja. Aby otrzymać to w swojej skrzynce odbiorczej, zarejestruj się tutaj bezpłatnie — po prostu kliknij TechCrunch Mobility!",
-        "Po zakończeniu Web Summit podróżuję po Portugalii, więc proszę o zapoznanie się z tym skróconym wydaniem.",
-        "W tym roku Web Summit w dużym stopniu skupił się na chińskich założycielach i firmach. Uwagi wstępne współzałożyciela Web Summit, Paddy’ego Cosgrave’a, utwierdziły nas w tym przekonaniu, stwierdzając, że przyszłe supergwiazdy pochodzą z Chin, a nie z Kalifornii. Mocno poparł także Chiny i technologię open source, zauważając, że chińskie firmy budują więcej naszej wspólnej przyszłości niż ktokolwiek inny.",
-        "Uwagi te nabrały innego znaczenia zaledwie kilka dni później, gdy po konferencji rozeszła się wieść, że założyciel i dyrektor generalny Nvidii Jensen Huang zrezygnował ze stanowiska kierowniczego po tym, jak przyznał się do romansu z rzekomym szpiegiem."
       ]
     },
     {
@@ -1673,43 +1704,11 @@
         "Hej, obserwuj nas w Google Discover Obserwuj nas → W październiku mogło być taniej Okres 30 dni liczy się wstecz od wprowadzenia danej obniżki, a nie od dnia, w którym produkt oglądasz: o tym też wielu zapomina. Ale: oferta z początku października może znaleźć się poza okresem uwzględnianym przy listopadowej przecenie. Nie jest to więc stuprocentowa gwarancja uzyskania zdecydowanie najniższej ceny z całego okresu.",
         "Prosty przykład: wyobraźcie sobie, że słuchawki kosztują na początku października 1000 zł. Przez całe 30 dni poprzedzające przecenę pod koniec listopada ich cena wynosi już 1200 zł, ale już na Black Week spada do 1100 zł. Rabat, to \"niby\" stówka, ale tyle samo dopłacasz wobec ceny z początku października. Słaba to okazja, prawda?"
       ]
-    },
-    {
-      "id": "tech-8-513637",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Jak zmieniły się pożary świata, gdy ludzkość zatrzymała się",
-      "original_title": "How the world’s fires changed while humanity hit pause",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:07",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
-      "image_source": "Fot. / Źródło: Ars Technica",
-      "lead_story": false,
-      "summary_points": [
-        "Blokady związane z pandemią Covid-19 zmniejszyły globalną aktywność pożarową o 12,3 procent.",
-        "Pożary mogą powodować wiele czynników, ale jedynym czynnikiem, który może podjąć działania zapobiegawcze, jest człowiek.",
-        "Pomiar wpływu ludzi na ogień jest trudny ze względu na połączenie wpływów ludzkich i naturalnych."
-      ],
-      "extended_paragraphs": [
-        "Blokady związane z pandemią Covid-19 zmniejszyły globalną aktywność pożarową o 12,3 procent.",
-        "Pożary mogą powodować wiele czynników, ale jedynym czynnikiem, który może podjąć działania zapobiegawcze, jest człowiek. Pomiar wpływu ludzi na ogień jest trudny ze względu na połączenie wpływów ludzkich i naturalnych.",
-        "Zespół kierowany przez Jianghao Wanga, profesora Chińskiej Akademii Nauk, opublikował niedawno w Cell Reports Sustainability badanie porównujące erę COVID-19 z innymi latami. Dane z blokad w 2020 r. sugerują, że niższa aktywność człowieka w tym czasie miała netto wpływ na zmniejszenie średniej aktywności pożarów.",
-        "Ogień nie zdarza się tak po prostu gdziekolwiek. Chociaż w środowisku naturalnym występuje wiele łatwopalnych materiałów, nie w każdym miejscu dochodzi do pożarów. Niektóre preerie płoną niemal co roku, podczas gdy wiele lasów nie płonie przez setki lat. Naukowcy wyjaśniają te różnice w kategoriach reżimów pożarowych, czyli wzorców opisujących, kiedy, jak często oraz jak szeroko i intensywnie występują pożary.",
-        "Pogoda jest głównym czynnikiem wpływającym na reżimy pożarowe. Obfite opady deszczu pomagają wyhodować trawę i drzewa, które mogą stać się paliwem do pożarów. Jednak to, czy tak się stanie, czy nie, może zależeć od wilgotności wewnątrz roślin; rośliny o wystarczającej wilgotności nie palą się łatwo. Natomiast suche warunki zwiększają ryzyko ich zapalenia. Kiedy trwa susza, roślinność staje się coraz bardziej łatwopalna. Silne wiatry również przyspieszają rozwój i rozprzestrzenianie się pożarów."
-      ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-2-b07165",
+      "id": "swiat-3-b07165",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
@@ -1738,40 +1737,6 @@
         "Kandydat, który zajął pierwsze miejsce na certyfikowanym egzaminie z zakresu księgowości podatkowej w Korei Południowej, przyznał się do oszustwa przy użyciu miniaturowego aparatu, telefonu komórkowego i narzędzi sztucznej inteligencji.",
         "Han Won-seok przyznał się w filmie opublikowanym na koncie YouTube swojego prawnika Lee Don-Ho, dodając, że przyznał się funkcjonariuszom policji miejskiej w Seulu i przedstawił szczegółowe informacje na temat tego, jak oszukiwał.",
         "34-latek w pierwszej turze uzyskał 397,5 z 400 punktów, błędnie odpowiadając tylko na jedno ze 160 pytań, co początkowo wzbudziło podejrzenia i wywołało internetowe spekulacje."
-      ]
-    },
-    {
-      "id": "swiat-4-439e2c",
-      "entity_tag": "Unia Europejska",
-      "sector": "Gospodarka & Regulacje",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Gospodarka & Regulacje” (Unia Europejska) (kluczowe liczby: 55 proc.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "55 proc."
-      ],
-      "title": "Zełenski ogłasza sukces ukraińskiej armii. Dotkliwy cios w głębi Rosji",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:47",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/zelenski-oglasza-sukces-ukrainskiej-armii-dotkliwy-cios-w-glebi-rosji/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/d8/d87ioc2otantswf1rwyo66sswhq71hub.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Ukraina unieruchomiła już ponad 55 proc. mocy przerobowych rosyjskich rafinerii ropy naftowej - poinformował prezydent Wołodymyr Zełenski.",
-        "Jak podkreślił, ukraińskie uderzenia dalekiego zasięgu przynoszą niemal codziennie kolejne sukcesy.",
-        "- To całkowicie uzasadniona odpowiedź - ocenił, odnosząc się do rosyjskich ataków na ukraińską infrastrukturę energetyczną."
-      ],
-      "extended_paragraphs": [
-        "Ukraina unieruchomiła już ponad 55 proc. mocy przerobowych rosyjskich rafinerii ropy naftowej - poinformował prezydent Wołodymyr Zełenski. Jak podkreślił, ukraińskie uderzenia dalekiego zasięgu przynoszą niemal codziennie kolejne sukcesy. - To całkowicie uzasadniona odpowiedź - ocenił, odnosząc się do rosyjskich ataków na ukraińską infrastrukturę energetyczną.",
-        "- Obecnie niemal każdego dnia odnosimy kolejne sukcesy . Łącznie do tej pory unieruchomiliśmy już ponad 55 proc. rosyjskich mocy przerobowych w sektorze rafineryjnym. To całkowicie uzasadniona odpowiedź, gdy Rosja odmawia deeskalacji i atakuje naszą infrastrukturę energetyczną - powiedział w wieczornym przemówieniu wideo Zełenski.",
-        "Prezydent przekazał, że w niedzielę naczelny dowódca Sił Zbrojnych Ukrainy Mychajło Drapaty złożył mu raport na temat ukraińskich uderzeń dalekiego zasięgu.",
-        "Według Zełenskiego Rosja wybiera jeden region jako cel i przez kilka dni koncentruje ataki na jego systemie energetycznym. Zaznaczył, że od początku września najwięcej uderzeń i trafień odnotowano w obwodzie dniepropietrowskim - 131. Kolejne 125 ataków przeprowadzono na obwód kijowski , a ponad 100 trafień odnotowano w obwodach żytomierskim i sumskim.",
-        "W czwartek von der Leyen i przewodniczący Rady Europejskiej Antonio Costa po spotkaniu z Zełenskim w Dublinie oświadczyli, że Unia Europejska będzie nadal wspierać Ukrainę finansowo i militarnie oraz uczestniczyć w działaniach na rzecz osiągnięcia sprawiedliwego i trwałego pokoju."
       ]
     },
     {
@@ -1807,7 +1772,7 @@
       ]
     },
     {
-      "id": "swiat-3-fd7a4d",
+      "id": "swiat-2-c0545b",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1815,31 +1780,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Papież Leon w kokpicie helikoptera podczas podróży do Peru",
-      "original_title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "title": "Meksykański baron narkotykowy Miguel Angel Felix Gallardo umiera w wieku 80 lat",
+      "original_title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:38",
+      "time": "23:52",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a295/live/b9635e50-e14b-11f1-93e1-3b657b665bcf.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Papież wzbił się w przestworza przed przybyciem do Cusco przedostatniego dnia swojej podróży po Ameryce Łacińskiej.",
-        "Papież Leon w kokpicie helikoptera podczas podróży do Peru Zamknij Papież Leon XIV dzielił kokpit z pilotami Peruwiańskich Sił Powietrznych podczas swojej podróży po Ameryce Łacińskiej.",
-        "Udostępniając wideo w mediach społecznościowych, siły zbrojne stwierdziły, że fakt, że w sobotę papież dołączył do pilotów, był „zaszczytem i niezapomnianym wspomnieniem”."
+        "Znany jako „Szef szefów” był w latach 80.",
+        "szefem wszechpotężnego kartelu Guadalajara, zanim jego aresztowanie rozbiło jego organizację narkotykową.",
+        "Źródło zdjęcia, EPA Tytuł zdjęcia, meksykańska policja więzienna zabezpieczyła szpital, w którym na początku tygodnia przyjęto Miguela Ángela Félixa Gallardo W wieku 80 lat zmarł w szpitalu słynny meksykański baron narkotykowy Miguel Ángel Félix Gallardo."
       ],
       "extended_paragraphs": [
-        "Papież wzbił się w przestworza przed przybyciem do Cusco przedostatniego dnia swojej podróży po Ameryce Łacińskiej.",
-        "Papież Leon w kokpicie helikoptera podczas podróży do Peru Zamknij Papież Leon XIV dzielił kokpit z pilotami Peruwiańskich Sił Powietrznych podczas swojej podróży po Ameryce Łacińskiej.",
-        "Udostępniając wideo w mediach społecznościowych, siły zbrojne stwierdziły, że fakt, że w sobotę papież dołączył do pilotów, był „zaszczytem i niezapomnianym wspomnieniem”.",
-        "W niedzielę papież przybył do Cusco, miasta w południowych Andach, które niegdyś było sercem imperium Inków.",
-        "Tam papież odwiedził starożytną fortecę Inków, gdzie stwierdził, że tradycje religijne mogą pomóc przeciwstawić się epoce naznaczonej „podziałami, ranami i nieufnością”, podkreślając, że wiara powinna jednoczyć ludzi i zbliżać ich „w świetle wiary i miłości”."
+        "Znany jako „Szef szefów” był w latach 80. szefem wszechpotężnego kartelu Guadalajara, zanim jego aresztowanie rozbiło jego organizację narkotykową.",
+        "Źródło zdjęcia, EPA Tytuł zdjęcia, meksykańska policja więzienna zabezpieczyła szpital, w którym na początku tygodnia przyjęto Miguela Ángela Félixa Gallardo",
+        "W wieku 80 lat zmarł w szpitalu słynny meksykański baron narkotykowy Miguel Ángel Félix Gallardo.",
+        "Félix Gallardo był powszechnie uważany za jednego z największych przemytników narkotyków w historii i przypisuje się mu budowanie sojuszu pomiędzy grupami przestępczymi w Kolumbii a własnym meksykańskim kartelem.",
+        "Znany jako Ojciec chrzestny lub „Szef szefów”, Félix Gallardo był szefem wszechpotężnego kartelu Guadalajara, który panował nad meksykańskim handlem narkotykami u szczytu boomu kokainowego w latach 80. XX wieku."
       ]
     },
     {
-      "id": "swiat-5-95ea53",
+      "id": "swiat-4-95ea53",
       "entity_tag": "USA & Bezpieczeństwo",
       "sector": "Geopolityka",
       "market_impact": "LOW",
@@ -1871,7 +1836,7 @@
       ]
     },
     {
-      "id": "swiat-6-8032aa",
+      "id": "swiat-5-8032aa",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1901,11 +1866,45 @@
         "W swoim przemówieniu Ojciec Święty skrytykował sposób, w jaki współczesne społeczeństwo postrzega osoby zmagające się z problemami zdrowotnymi.",
         "- W oczach świata, ukształtowanego przez kulturę odrzucenia i materialną produktywność, choroba jest postrzegana jako nieszczęście, które umniejsza wartość człowieka. To wielkie kłamstwo! - podkreślił papież."
       ]
+    },
+    {
+      "id": "swiat-6-b58112",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 450 tys.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "450 tys."
+      ],
+      "title": "Wrze u naszych sąsiadów. Nawet 450 tys. osób na proteście przeciwko rządowi",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:51",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-15/wrze-u-naszych-sasiadow-nawet-450-tys-osob-na-protescie-przeciwko-rzadowi/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/bx/bxjrjpq5h9kzn7wd71ugv2v335u7kvkb.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Setki tysięcy Czechów wyszły na ulice Pragi, by zaprotestować przeciwko planowanym przez rząd Andreja Babisza zmianom w finansowaniu mediów publicznych.",
+        "Według organizatorów w demonstracji mogło uczestniczyć nawet 450 tys. osób, co oznaczałoby największe zgromadzenie w historii Republiki Czeskiej.",
+        "Demonstrację zwołaną przez inicjatywę Milion Chwil dla Demokracji nazwano \" Nigdy więcej 4.36 \"."
+      ],
+      "extended_paragraphs": [
+        "Setki tysięcy Czechów wyszły na ulice Pragi, by zaprotestować przeciwko planowanym przez rząd Andreja Babisza zmianom w finansowaniu mediów publicznych. Według organizatorów w demonstracji mogło uczestniczyć nawet 450 tys. osób, co oznaczałoby największe zgromadzenie w historii Republiki Czeskiej.",
+        "Demonstrację zwołaną przez inicjatywę Milion Chwil dla Demokracji nazwano \" Nigdy więcej 4.36 \". To nawiązanie do nocnej godziny przyjęcia w pierwszym czytaniu i skierowania do dalszych prac parlamentarnych rządowego projektu likwidacji abonamentu i finansowania publicznego radia i telewizji z budżetu państwa. Głosowanie przeprowadzono, mimo że na głos w debacie czekało jeszcze 65 posłów.",
+        "Zdaniem protestujących zmiany prowadzą do upaństwowienia publicznych nadawców i zagrażają ich niezależności.",
+        "Lider Miliona Chwil Mikulasz Minarz podkreślił, że protest skierowany jest przeciwko siłowemu stylowi sprawowania rządów przez premiera Andreja Babisza . Ustawa o mediach jest jego zdaniem przykładem podejmowania decyzji bez wcześniejszych otwartych dyskusji. Krytycy rządu zwracają także uwagę na ich zdaniem błędne i podejmowane nagle decyzje personalne.",
+        "Podczas niedzielnego zgromadzenia odczytano petycję, w której m.in. domagano się dyskusji członków rządu z ekspertami. Zwrócono się z żądaniem przeprosin za nocne głosowanie o godz. 4.36. Kolejnym żądaniem jest odwołanie lidera skrajnie prawicowego ruchu Wolność i Demokracja Bezpośrednia (SPD) Tomia Okamury ze stanowiska przewodniczącego Izby Deputowanych oraz odebranie przedstawicielowi SPD wpływu na resort obrony."
+      ]
     }
   ],
   "sport": [
     {
-      "id": "sport-2-3f44a1",
+      "id": "sport-6-3f44a1",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1937,71 +1936,39 @@
       ]
     },
     {
-      "id": "sport-7-189248",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [],
-      "title": "Kwadrans, który wstrząsnął Włochami. Belgia dostała cios, ale odpowiedź była brutalna",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:43",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284396/kwadrans-ktory-wstrzasnal-wlochami-belgia-dostala-cios-ale-odpowiedz-byla-brutal",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa1a6d1aa610_10758213.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "minucie Włosi objęli prowadzenie w Brukseli, ale już w 26.",
-        "minucie było 3:1 dla Belgii.",
-        "Niszczycielskie przyspieszenie zespołu Marka van Bommela zapewniło mu komplet punktów w Lidze Narodów UEFA, a konfrontacja zakończyła się wynikiem 4:1."
-      ],
-      "extended_paragraphs": [
-        "W 11. minucie Włosi objęli prowadzenie w Brukseli, ale już w 26. minucie było 3:1 dla Belgii. Niszczycielskie przyspieszenie zespołu Marka van Bommela zapewniło mu komplet punktów w Lidze Narodów UEFA, a konfrontacja zakończyła się wynikiem 4:1.",
-        "Skomentuj W 11. minucie Włosi objęli prowadzenie w Brukseli, ale już w 26. minucie było 3:1 dla Belgii. Niszczycielskie przyspieszenie zespołu Marka van Bommela zapewniło mu komplet punktów w Lidze Narodów UEFA, a konfrontacja zakończyła się wynikiem 4:1.",
-        "Stawką meczu w Brukseli był awans do turnieju finałowego Ligi Narodów UEFA . Belgia zdążyła już pokonać Włochów na rzymskim Stadio Olimpico . Azzurri mieli doskonałą szansę do odwetu, ale wiadomo już, że nie poradzili sobie z przeciwnikiem z Beneluksu ani na inaugurację, ani na zakończenie zmagań w grupie A1.",
-        "Wcześnie na boisku zrobiło się agresywnie oraz energicznie. W 7. minucie po raz pierwszy zapachniało golem Azzurrich. Nicolo Barella zatrudnił bramkarza Senny'ego Lammensa swoim strzałem. Belg odbił piłkę do przodu i do Nicolo Pisilliego. Wykonujący dobitkę zawodnik spudłował z bardzo dobrej pozycji. Ten fragment spotkania należał jeszcze do podopiecznych Roberto Manciniego .",
-        "Ekipa z Włoch nie zraziła się jednym niepowodzeniem. W jej składzie był Francesco Pio Esposito i kompan Piotra Zielińskiego z Interu Mediolan cieszył się golem w 11. minucie. Napastnik urwał się obrońcom i dostawił stopę do piłki po dośrodkowaniu z prawego skrzydła Michaela Kayode . Nie uratował sytuacji Senne Lammens."
-      ]
-    },
-    {
-      "id": "sport-1-df7121",
-      "entity_tag": "Sport & Biznes",
+      "id": "sport-1-217c68",
+      "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Anglicy wyśmiewali Yamala. \"Gdzie twoja Złota Piłka?\"",
+      "title": "Stało się. Wschodząca gwiazda już przed Sabalenką",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:50",
+      "time": "23:25",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284407/anglicy-wysmiewali-yamala-gdzie-twoja-zlota-pilka",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa1fc26e2522_71783235.jpg",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1284418/stalo-sie-wschodzaca-gwiazda-juz-przed-sabalenka",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa3eb85a1709_61030496.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Angielscy kibice obrali Lamine'a Yamala za jeden z głównych celów podczas hitu w Madrycie.",
-        "\"Gdzie jest twoja Złota Piłka?\" - skandowali w kierunku 19-latka.",
-        "Jednocześnie wychwalali Harry'ego Kane'a, nazywając go najlepszym piłkarzem świata."
+        "Mirra Andriejewa zakończyła sezon mocnym akcentem.",
+        "Triumf w WTA Finals pozwolił jej awansować na drugie miejsce światowego rankingu.",
+        "Rosjanka wyprzedziła Arynę Sabalenkę."
       ],
       "extended_paragraphs": [
-        "Angielscy kibice obrali Lamine'a Yamala za jeden z głównych celów podczas hitu w Madrycie. \"Gdzie jest twoja Złota Piłka?\" - skandowali w kierunku 19-latka. Jednocześnie wychwalali Harry'ego Kane'a, nazywając go najlepszym piłkarzem świata.",
-        "Skomentuj Angielscy kibice obrali Lamine'a Yamala za jeden z głównych celów podczas hitu w Madrycie. \"Gdzie jest twoja Złota Piłka?\" - skandowali w kierunku 19-latka. Jednocześnie wychwalali Harry'ego Kane'a, nazywając go najlepszym piłkarzem świata.",
-        "Atmosfera wokół hitu Hiszpania - Anglia była gorąca jeszcze przed pierwszym gwizdkiem. Na boisku spotkały się dwie europejskie potęgi, ale dodatkowego smaku rywalizacji dodawała obecność Lamine'a Yamala i Harry'ego Kane'a . Dwóch piłkarzy, których w ostatnich tygodniach mocno zestawiano ze sobą w kontekście Złotej Piłki. Angielscy kibice postanowili wykorzystać ten temat bardzo szybko. I nie zamierzali być szczególnie subtelni.",
-        "Jak opisuje \"The Sun\", już na początku spotkania Yamal wywalczył rzut wolny po faulu Declana Rice'a. Pomocnik Anglii obejrzał żółtą kartkę, a chwilę później z sektora gości popłynęła przyśpiewka wymierzona bezpośrednio w gwiazdora FC Barcelony .",
-        "\"Where's your Ballon d'Or?\" (\"Gdzie jest twoja Złota Piłka?\") - skandowali Anglicy. Była to oczywista próba dopieczenia 19-latkowi po rozstrzygnięciu jednego z najgłośniejszych indywidualnych plebiscytów w futbolu."
+        "Mirra Andriejewa zakończyła sezon mocnym akcentem. Triumf w WTA Finals pozwolił jej awansować na drugie miejsce światowego rankingu. Rosjanka wyprzedziła Arynę Sabalenkę.",
+        "3 Komentarze Mirra Andriejewa zakończyła sezon mocnym akcentem. Triumf w WTA Finals pozwolił jej awansować na drugie miejsce światowego rankingu. Rosjanka wyprzedziła Arynę Sabalenkę.",
+        "Mirra Andriejewa ma za sobą znakomite zakończenie sezonu. Rosyjska tenisistka zwyciężyła w WTA Finals , a komplet wygranych spotkań pozwolił jej zdobyć 1500 punktów do światowego rankingu. Dzięki temu zanotowała awans w zestawieniu i znalazła się na drugim miejscu rankingu WTA \"na żywo\". Oficjalne zestawienie zostanie opublikowane w poniedziałek.",
+        "Triumf w prestiżowej imprezie przyniósł nastolatce nie tylko cenne trofeum, samochód i nagrodę pieniężną, ale również awans w klasyfikacji najlepszych tenisistek świata. Andriejewa wyprzedziła Arynę Sabalenkę , która nie zdołała awansować z grupy WTA Finals. Białorusinka zakończyła występ w turnieju z dodatkiem 200 punktów, co nie wystarczyło do utrzymania drugiej pozycji.",
+        "Na szczycie klasyfikacji jest Jelena Rybakina . Reprezentantka Kazachstanu zakończyła sezon jako liderka światowego rankingu, a jej pozycja nie uległa zmianie mimo rozstrzygnięć podczas kończącego sezon turnieju. Andriejewa może natomiast cieszyć się z awansu na drugą lokatę, który potwierdza jej coraz mocniejszą pozycję w światowym tenisie."
       ]
     },
     {
-      "id": "sport-3-50a3ba",
+      "id": "sport-2-b8c60f",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2009,31 +1976,159 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Był legendą holenderskiej piłki. Zaskakujące wieści o nowej posadzie",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:48",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284400/byl-legenda-holenderskiej-pilki-zaskakujace-wiesci-o-nowej-posadzie",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a5a7d210b0ad1_57643158.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
+      "title": "60 minut doskonałości, 30 minut chaosu – zwycięstwo Anglii od wieków",
+      "original_title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:52",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Grał w Realu Madryt, z Interem wygrał Ligę Mistrzów, a z Holandią dotarł do finału mundialu.",
-        "Dziś Wesley Sneijder rozpoczyna zupełnie nowy rozdział.",
-        "42-latek obejmuje amatorski Eminent Boys, występujący na dziewiątym poziomie rozgrywkowym w Holandii."
+        "W oszałamiającym zwycięstwie Anglii w Hiszpanii było wszystko i było to najlepsze zwycięstwo Anglii pod wodzą Thomasa Tuchela, pisze Phil McNulty.",
+        "Główny pisarz piłkarski w Madrycie Opublikowano godzinę temu Thomas Tuchel odważnie stwierdził, gdy przypomniano mu o ostrożności, która zniweczyła nadzieje Anglii na mistrzostwa świata i pozostawiła im tak wiele do udowodnienia w niedzielnym meczu z Hiszpanią w Lidze Narodów.",
+        "W teatrze medialnym w Metropolitano w Madrycie szósty zmysł głównego trenera Tuchela skłonił go do upublicznienia informacji o tym, co według niego Anglia wystawi przeciwko mistrzom świata."
       ],
       "extended_paragraphs": [
-        "Grał w Realu Madryt, z Interem wygrał Ligę Mistrzów, a z Holandią dotarł do finału mundialu. Dziś Wesley Sneijder rozpoczyna zupełnie nowy rozdział. 42-latek obejmuje amatorski Eminent Boys, występujący na dziewiątym poziomie rozgrywkowym w Holandii.",
-        "Skomentuj Grał w Realu Madryt, z Interem wygrał Ligę Mistrzów, a z Holandią dotarł do finału mundialu. Dziś Wesley Sneijder rozpoczyna zupełnie nowy rozdział. 42-latek obejmuje amatorski Eminent Boys, występujący na dziewiątym poziomie rozgrywkowym w Holandii.",
-        "Wesley Sneijder przez lata rywalizował na największych europejskich stadionach. Teraz zamieni je na znacznie skromniejsze obiekty. Były reprezentant Holandii zdecydował się rozpocząć karierę trenerską w Eminent Boys, zespole z Utrechtu. Drużyna występuje w czwartej klasie amatorskiej, odpowiadającej dziewiątemu szczeblowi krajowej hierarchii.",
-        "Za wyborem 42-latka stoją również względy rodzinne. W klubie występuje jego młodszy brat Rodney, który jednocześnie zasiada w komisji technicznej. Obaj współpracowali już wcześniej w DHSC, gdzie Wesley pełnił funkcję doradcy technicznego. Tym razem przed byłym pomocnikiem znacznie większa odpowiedzialność.",
-        "Do zmiany szkoleniowca doszło po rozstaniu z Mustafą Talhą. Eminent Boys wywalczył w poprzednim sezonie awans, a w obecnych rozgrywkach zajmował piąte miejsce po siedmiu kolejkach. Sneijder pojawił się na treningu we wtorek, 10 listopada. Działacze liczą, że jego doświadczenie pomoże zespołowi w dalszym rozwoju."
+        "W oszałamiającym zwycięstwie Anglii w Hiszpanii było wszystko i było to najlepsze zwycięstwo Anglii pod wodzą Thomasa Tuchela, pisze Phil McNulty.",
+        "Główny pisarz piłkarski w Madrycie Opublikowano godzinę temu Thomas Tuchel odważnie stwierdził, gdy przypomniano mu o ostrożności, która zniweczyła nadzieje Anglii na mistrzostwa świata i pozostawiła im tak wiele do udowodnienia w niedzielnym meczu z Hiszpanią w Lidze Narodów.",
+        "W teatrze medialnym w Metropolitano w Madrycie szósty zmysł głównego trenera Tuchela skłonił go do upublicznienia informacji o tym, co według niego Anglia wystawi przeciwko mistrzom świata.",
+        "Tuchel spojrzał swoim inkwizytorom w oczy i oświadczył: „Mamy do czynienia z czymś spektakularnym”.",
+        "Stwierdzenie, że Tuchel i Anglia dotrzymali słowa, było arcydziełem niedopowiedzenia po tym, jak najwspanialszy wieczór za rządów głównego trenera zakończył się zwycięstwem 3:2, które było w dużej mierze wspaniałe, w niektórych szaleństwo, a we wszystkich spektakularne."
       ]
     },
     {
-      "id": "sport-4-24a9c3",
+      "id": "sport-3-d97083",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Najpierw luksusowe auto, później prawo jazdy. \"A może pozostanę księżniczką na miejscu pasażera?\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:59",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1284417/najpierw-luksusowe-auto-pozniej-prawo-jazdy-a-moze-pozostane-ksiezniczka-na-miej",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa37c6671a80_73608417.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Mirra Andriejewa wygrała WTA Finals, a po finale rozbawiła kibiców wypowiedzią o luksusowym samochodzie.",
+        "Rosjanka nie ma jeszcze prawa jazdy, ale znalazła już alternatywę.",
+        "- A może pozostanę księżniczką na miejscu pasażera?"
+      ],
+      "extended_paragraphs": [
+        "Mirra Andriejewa wygrała WTA Finals, a po finale rozbawiła kibiców wypowiedzią o luksusowym samochodzie. Rosjanka nie ma jeszcze prawa jazdy, ale znalazła już alternatywę. - A może pozostanę księżniczką na miejscu pasażera? - zastanawiała się.",
+        "1 Komentarz Mirra Andriejewa wygrała WTA Finals, a po finale rozbawiła kibiców wypowiedzią o luksusowym samochodzie. Rosjanka nie ma jeszcze prawa jazdy, ale znalazła już alternatywę. - A może pozostanę księżniczką na miejscu pasażera? - zastanawiała się.",
+        "Mirra Andriejewa po triumfie w WTA Finals nie kryła radości, ale jednocześnie rozbawiła kibiców wypowiedzią na temat nagrody. Rosjanką otrzymała luksusowy samochód poza okazałą premią pieniężną, jednak jest jeden problem - nie ma jeszcze prawa jazdy. W trakcie rozmowy po finale została zapytana, czy zamierza wreszcie zdobyć uprawnienia, aby móc samodzielnie wybrać się na przejażdżkę.",
+        "- Tak! To dla mnie niesamowita motywacja, żeby jak najszybciej zrobić prawo jazdy. Nadal chcę spróbować przejechać się nim chociaż przez kilka metrów. Jestem pewna, że będę w stanie to zrobić, a przynajmniej zatrąbić - powiedziała Andriejewa.",
+        "Na tym jednak nie skończyła. Znalazła również alternatywne rozwiązanie, które najwyraźniej wcale jej nie przeszkadza. - Jeśli mi się nie uda, mam pięć osób w swoim zespole. Może na zawsze pozostanę księżniczką na miejscu pasażera. To też jest jakaś opcja - dodała ze śmiechem."
+      ]
+    },
+    {
+      "id": "sport-4-6295fc",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Jak Anglia poradziła sobie z Hiszpanią i co Tuchel zrobił inaczej?",
+      "original_title": "How did England cling on against Spain and what did Tuchel do differently?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:02",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/41e2/live/f2069dc0-e14c-11f1-91da-8b08e1a7b4c4.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Próbując chronić prowadzenie w końcowych etapach, Anglia grała tu już wcześniej, więc jak udało im się utrzymać w meczu z Hiszpanią?",
+        "Anglia pokonała Hiszpanię 3:2 po zapierającym dech w piersiach finale Ligi Narodów i zajęła pierwsze miejsce w swojej grupie.",
+        "Jednak wielu obserwatorów odczuwało deja vu po półfinale Pucharu Świata, kiedy Anglia usiadła i została pokonana przez Argentynę."
+      ],
+      "extended_paragraphs": [
+        "Próbując chronić prowadzenie w końcowych etapach, Anglia grała tu już wcześniej, więc jak udało im się utrzymać w meczu z Hiszpanią?",
+        "Anglia pokonała Hiszpanię 3:2 po zapierającym dech w piersiach finale Ligi Narodów i zajęła pierwsze miejsce w swojej grupie.",
+        "Jednak wielu obserwatorów odczuwało deja vu po półfinale Pucharu Świata, kiedy Anglia usiadła i została pokonana przez Argentynę.",
+        "Anglia prowadziła 1:0 z Argentyną w 55. minucie na neutralnym terytorium w Atlancie, a mimo to miała wszystkich swoich zawodników.",
+        "Anthony Gordon wyprowadził ich na prowadzenie, ale Lionel Messi wystawił Enzo Fernandeza, a później Lautaro Martineza."
+      ]
+    },
+    {
+      "id": "sport-5-caab4f",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "\"Anglia pożera mistrza\". Hiszpanie wprost o końcu serii",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:38",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284416/anglia-pozera-mistrza-hiszpanie-wprost-o-koncu-serii",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa3469486b41_72639773.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Hiszpania przegrała z Anglią 2:3 i zakończyła serię 43 spotkań bez porażki.",
+        "Tamtejsze media piszą o bolesnym ciosie, ale dostrzegają też ambitną pogoń gospodarzy.",
+        "Stawką było również pierwsze miejsce w grupie Ligi Narodów UEFA."
+      ],
+      "extended_paragraphs": [
+        "Hiszpania przegrała z Anglią 2:3 i zakończyła serię 43 spotkań bez porażki. Tamtejsze media piszą o bolesnym ciosie, ale dostrzegają też ambitną pogoń gospodarzy. Stawką było również pierwsze miejsce w grupie Ligi Narodów UEFA.",
+        "Skomentuj Hiszpania przegrała z Anglią 2:3 i zakończyła serię 43 spotkań bez porażki. Tamtejsze media piszą o bolesnym ciosie, ale dostrzegają też ambitną pogoń gospodarzy. Stawką było również pierwsze miejsce w grupie Ligi Narodów UEFA.",
+        "Reprezentacja Hiszpanii przegrała w niedzielę, 15 listopada, z Anglią 2:3 w ostatniej kolejce fazy grupowej Ligi Narodów UEFA . Podopieczni Luisa de la Fuente przegrywali już 0:3, a mimo gry w przewadze po czerwonej kartce dla Elliota Andersona nie zdołali odrobić strat. Tym samym zakończyła się ich historyczna seria 43 meczów bez porażki. Wynik spotkania odbił się szerokim echem w tamtejszych mediach.",
+        "\"Anglia pożera mistrza\" - tak swoją relację zatytułował dziennik \"AS\". Autor, Hector Martinez, nie pozostawił złudzeń co do postawy gospodarzy. Podkreślił, że rywale byli lepsi, a mistrzowie świata mieli problemy z konstruowaniem akcji i stwarzaniem zagrożenia. Ocenił również, że to najdotkliwsza porażka w dotychczasowej kadencji selekcjonera. Zwrócił przy tym uwagę, że Hiszpanie stracili nie tylko imponującą serię, ale też pierwsze miejsce w grupie.",
+        "Inny akcent położyła rozgłośnia Cadena SER. W podtytule relacji zaznaczono, że Anglia udaremniła próbę odrobienia strat, przez co Hiszpania zakończyła rywalizację na drugiej pozycji. Redakcja szczegółowo opisała wydarzenia z drugiej połowy."
+      ]
+    },
+    {
+      "id": "sport-7-9ac3db",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Koszmarny błąd. A po nim? Tak zachowała się Ukrainka wobec Rosjanki",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:36",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1284401/koszmarny-blad-a-po-nim-tak-zachowala-sie-ukrainka-wobec-rosjanki",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa328fd661a9_12618969.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Więcej niż pół kortu było odsłonięte, mimo to Elina Switolina zepsuła ostatnią piłkę w WTA Finals.",
+        "Po swoim błędzie Ukrainka tradycyjnie zeszła z kortu bez podziękowań dla Rosjanki.",
+        "9 Komentarzy Więcej niż pół kortu było odsłonięte, mimo to Elina Switolina zepsuła ostatnią piłkę w WTA Finals."
+      ],
+      "extended_paragraphs": [
+        "Więcej niż pół kortu było odsłonięte, mimo to Elina Switolina zepsuła ostatnią piłkę w WTA Finals. Po swoim błędzie Ukrainka tradycyjnie zeszła z kortu bez podziękowań dla Rosjanki.",
+        "9 Komentarzy Więcej niż pół kortu było odsłonięte, mimo to Elina Switolina zepsuła ostatnią piłkę w WTA Finals. Po swoim błędzie Ukrainka tradycyjnie zeszła z kortu bez podziękowań dla Rosjanki.",
+        "Konfrontacja o tytuł w WTA Finals zakończyła się po dwóch setach. Mirra Andriejewa wygrała w rosyjsko-ukraińskim finale z Eliną Switoliną . Ostatnia piłka meczu została kompletnie zepsuta przez Ukrainkę .",
+        "Triumfatorka turnieju nie była zaskoczona zachowaniem przeciwniczki. Podziękowała sędziemu i rozpoczęła swoje świętowanie sukcesu.",
+        "Pierwszy set był pełen zwrotów akcji i niewykorzystanych szans. Mirra Andriejewa szybko objęła prowadzenie 2:0, przełamując Elinę Switolinę już w pierwszym gemie. Ukrainka odpowiedziała jednak trzema wygranymi gemami z rzędu, a później zrobiło się 3:3. Rosjanka ponownie odskoczyła na 5:3, lecz nie wykorzystała okazji do zamknięcia partii. Switolina doprowadziła do remisu 5:5, ale końcówka należała do Andriejewej, która wygrała dwa kolejne gemy i całego seta 7:5."
+      ]
+    },
+    {
+      "id": "sport-8-24a9c3",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2062,102 +2157,6 @@
         "Po rozbiciu drużyny z Nową Zelandią w zeszły weekend, w której nie udało jej się zdobyć drugiej połowy punktu, w centrum uwagi znalazła się nieszczelna obrona Szkocji.",
         "Jednak w chłodny i wilgotny dzień w Edynburgu, gdzie królowała fizyczność, odnieśli bardzo potrzebne zwycięstwo i pokazali, że potrafią wygrywać brzydko.",
         "Dobra bramka Maxa Jorgensena w końcówce dała Wallabies nadzieję, a przy remisie goście wyszli z własnej połowy."
-      ]
-    },
-    {
-      "id": "sport-5-1f3067",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Spektakl w Madrycie. Anglicy przerwali fantastyczną serię Hiszpanów",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:46",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284348/spektakl-w-madrycie-anglicy-przerwali-fantastyczna-serie-hiszpanow",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afa27a04dc258_43681995.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Anglia wygrała z Hiszpanią 3:2 w Lidze Narodów, tym samym przerywając imponującą serię drużyny Luisa de la Fuente (43 mecze bez porażki).",
-        "Było już 3:0 dla gości, ale po czerwonej kartce Elliota Andersona mieliśmy nieprawdopodobną końcówkę.",
-        "2 Komentarze Anglia wygrała z Hiszpanią 3:2 w Lidze Narodów, tym samym przerywając imponującą serię drużyny Luisa de la Fuente (43 mecze bez porażki)."
-      ],
-      "extended_paragraphs": [
-        "Anglia wygrała z Hiszpanią 3:2 w Lidze Narodów, tym samym przerywając imponującą serię drużyny Luisa de la Fuente (43 mecze bez porażki). Było już 3:0 dla gości, ale po czerwonej kartce Elliota Andersona mieliśmy nieprawdopodobną końcówkę.",
-        "2 Komentarze Anglia wygrała z Hiszpanią 3:2 w Lidze Narodów, tym samym przerywając imponującą serię drużyny Luisa de la Fuente (43 mecze bez porażki). Było już 3:0 dla gości, ale po czerwonej kartce Elliota Andersona mieliśmy nieprawdopodobną końcówkę.",
-        "22 marca 2024 roku. Hiszpania przegrała wtedy 0:1 z Kolumbią w meczu towarzyskim i - jak czas pokazał - było to ostatnie niepowodzenie tej drużyny przez kolejne miesiące. Hiszpanie nie przegrali kolejnych czterdziestu trzech meczów, ustanawiając przy tym najbardziej spektakularną serię w historii światowego futbolu.",
-        "Jednak została ona właśnie przerwana - wydarzyło się to w niedzielę w Madrycie (na stadionie Atletico). Przyjechała reprezentacja Anglii, strzeliła trzy gole i... później sama skomplikowała sobie sprawę czerwoną kartką Elliota Andersona. Hiszpanie wrócili do gry, złapali kontakt, natomiast zabrakło im czasu na zdobycie bramki wyrównującej.",
-        "Przyjezdni narzucili wysokie tempo od początku, choć na pierwszego gola czekaliśmy do końcówki pierwszej połowy - wtedy z rzutu karnego nie pomylił się Harry Kane. Jednak dopiero po przerwie nastąpił szturm i w kilka minut goście zdobyli dwie bramki. Miejscowi kibice byli w szoku, zanosiło się na totalną klęskę. Ale później wcale nie brakowało wiele, by zdobyć przynajmniej punkt."
-      ]
-    },
-    {
-      "id": "sport-6-462f31",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Ronaldinho (46 l.) wraca do Rawenny",
-      "original_title": "Ronaldinho, 46, makes comeback for Ravenna",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:31",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Legendarny brazylijski Ronaldinho powraca w wieku 46 lat do barw Rawenny, grając pierwszą połowę derbów trzeciej ligi Włoch przeciwko Forli.",
-        "Legenda Brazylii Ronaldinho powrócił w wieku 46 lat do barw Rawenny w wygranym 2:0 meczu z Forli we włoskich derbach trzeciej ligi.",
-        "46-latek zakończył karierę w klubie Serie C, do którego dołączył jako inwestor w sierpniu, a ostatni raz grał w 2015 roku w barwach Fluminense."
-      ],
-      "extended_paragraphs": [
-        "Legendarny brazylijski Ronaldinho powraca w wieku 46 lat do barw Rawenny, grając pierwszą połowę derbów trzeciej ligi Włoch przeciwko Forli.",
-        "Legenda Brazylii Ronaldinho powrócił w wieku 46 lat do barw Rawenny w wygranym 2:0 meczu z Forli we włoskich derbach trzeciej ligi.",
-        "46-latek zakończył karierę w klubie Serie C, do którego dołączył jako inwestor w sierpniu, a ostatni raz grał w 2015 roku w barwach Fluminense.",
-        "Rozpoczął niedzielny mecz, pokazał kilka dobrych akcji i miał udział w zdobyciu pierwszego gola.",
-        "Była supergwiazda Barcelony zatrzymała obrońcę, a następnie wykonała podanie, które nastąpiło przed asystą po strzale Giulio Donatiego zza pola karnego."
-      ]
-    },
-    {
-      "id": "sport-8-3fe836",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Triumf czy klapa? Puchar Świata Ligi Rugby, który podzielił opinie",
-      "original_title": "Triumph or flop? The Rugby League World Cup that split opinion",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:07",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/cwdr1dl21l1vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f50d/live/69bd40e0-e106-11f1-93e1-3b657b665bcf.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Czy Puchar Świata Ligi Rugby wyznaczył nowy punkt odniesienia w międzynarodowych rozgrywkach?",
-        "BBC Sport odkrywa, że ​​odpowiedź na to pytanie różni się na półkuli północnej i południowej.",
-        "Turnieje mężczyzn, kobiet i osób na wózkach inwalidzkich dostarczyły wielu historii – od powrotu Kalyn Pongi po złamanej ręce w 23 dni, przez zmiażdżone ucho Jodie Cunningham, poza złotą drabiną angielskiej drużyny na wózkach inwalidzkich, po format grupowy mężczyzn, który wywołał powszechne zdziwienie."
-      ],
-      "extended_paragraphs": [
-        "Czy Puchar Świata Ligi Rugby wyznaczył nowy punkt odniesienia w międzynarodowych rozgrywkach? BBC Sport odkrywa, że ​​odpowiedź na to pytanie różni się na półkuli północnej i południowej.",
-        "Turnieje mężczyzn, kobiet i osób na wózkach inwalidzkich dostarczyły wielu historii – od powrotu Kalyn Pongi po złamanej ręce w 23 dni, przez zmiażdżone ucho Jodie Cunningham, poza złotą drabiną angielskiej drużyny na wózkach inwalidzkich, po format grupowy mężczyzn, który wywołał powszechne zdziwienie.",
-        "Ale czy Puchar Świata był triumfem? Perspektywy półkuli północnej i południowej dostarczają kontrastujących odpowiedzi.",
-        "Australia po raz czwarty z rzędu zdobyła tytuły mistrzowskie mężczyzn i kobiet, a Nowa Zelandia nie była w stanie zapewnić zwrotów akcji w żadnym z finałów.",
-        "Tonga i Samoa wniosły energię i pasję, występując na poziomie, który podkreślał, dlaczego awansują do statusu Tier One. Duża populacja Polinezyjczyków w USA, które będą współgospodarzami Mistrzostw Świata mężczyzn i kobiet w 2030 r., będzie prawdopodobnie kluczem do dalszego rozpowszechniania informacji o lidze rugby na całym świecie."
       ]
     }
   ],
@@ -2266,39 +2265,39 @@
       ]
     },
     {
-      "id": "rynki-7-c58f6f",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-7-cd367c",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 781 mln zł, 492,1 mld zł, 491,7 mld zł) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 3,38 mld zł, 2,87 mld zł, 1,69%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "781 mln zł",
-        "492,1 mld zł",
-        "491,7 mld zł"
+        "3,38 mld zł",
+        "2,87 mld zł",
+        "1,69%"
       ],
-      "title": "Polacy gromadzą coraz więcej w PPK. Aktywa funduszy biją rekordy",
+      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "14:00",
+      "time": "17:30",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Polacy-gromadza-coraz-wiecej-w-PPK-Aktywa-funduszy-bija-rekordy-9227957.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/4/f1e3e1e3ddf88d-945-560-517-270-3960-2375.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/3/5/d4a62280ca272e-948-568-0-90-4000-2399.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł.",
-        "Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
-        "fot. Tomasz Ras / / Puls Biznesu Po wrześniowym spadku polski rynek funduszy inwestycyjnych powrócił na ścieżkę wzrostu i na koniec października krajowe fundusze zarządzały aktywami netto o wartości 492,1 mld zł, czyli o 781 mln zł (0,2 proc.) większymi niż miesiąc wcześniej."
+        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie.",
+        "Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych.",
+        "Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami."
       ],
       "extended_paragraphs": [
-        "Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł. Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
-        "fot. Tomasz Ras / / Puls Biznesu Po wrześniowym spadku polski rynek funduszy inwestycyjnych powrócił na ścieżkę wzrostu i na koniec października krajowe fundusze zarządzały aktywami netto o wartości 492,1 mld zł, czyli o 781 mln zł (0,2 proc.) większymi niż miesiąc wcześniej. Tym samym nieznacznie pobity został dotychczasowy rekord z sierpnia, kiedy aktywa sięgnęły 491,7 mld zł.",
-        "Jak podano, bilans całego roku pozostaje bardzo dobry. Od końca grudnia 2025 r. aktywa funduszy wzrosły o blisko 57 mld zł, czyli 13 proc. W ujęciu rocznym przyrost sięga 74,4 mld zł (17,8 proc.). Do przekroczenia symbolicznej granicy 500 mld zł brakuje już niespełna 8 mld zł.",
-        "W październiku saldo wpłat i wypłat wyniosło 1,25 mld zł, wobec 0,23 mld zł we wrześniu. Jednocześnie szacowany wynik zarządzania był ujemny i sięgnął ok. -500 mln zł.",
-        "\"Był to drugi z rzędu miesiąc, w którym wyniki inwestycyjne obniżały wartość aktywów krajowych funduszy\" - dodano."
+        "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
+        "fot. Omar Marques / / FORUM Czwartkowy handel przy Książęcej od samego otwarcia przebiegał pod dyktando kupujących, a główne wskaźniki utrzymywały solidne zwyżki przez cały dzień, wyrastając na liderów wzrostów na Starym Kontynencie.",
+        "Indeks WIG20 zyskał 1,69% i zakończył sesję na poziomie 4 279,50 pkt. Do rekordowego poziomu zamknięcia z końca października benchmarkowi zabrakło ledwie 0,1%. Szeroki wskaźnik WIG wzrósł o 1,68% do 161 443,22 pkt. Jeszcze lepiej zaprezentował się segment średnich przedsiębiorstw - indeks MWIG40 poszedł w górę o 1,94%. Skupiający mniejsze podmioty SWIG80 dodał 0,72%.",
+        "Bankier.pl Łączne obroty na szerokim rynku podliczono na 3,38 mld zł, z czego na spółki z indeksu WIG20 przypadło 2,87 mld zł.",
+        "Dla porównania, w momencie, gdy w Warszawie kończył się handel, niemiecki DAX zyskiwał 0,55%, a francuski CAC40 rósł o 0,44%. Amerykańskie indeksy S&P500 i Nasdaq100 umacniały się w tym czasie o odpowiednio 0,34% i 0,43%."
       ]
     },
     {

@@ -2,8 +2,8 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.321",
-    "last_updated": "2026-11-17 19:28",
+    "edition": "#2026.322",
+    "last_updated": "2026-11-18 01:46",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
     "foreign_translated_count": 19,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$63,733",
-      "change": "-1.69%",
+      "price": "$64,380",
+      "change": "-0.66%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,789",
-      "change": "-1.47%",
+      "price": "$1,806",
+      "change": "-0.89%",
       "is_positive": false
     },
     {
@@ -910,7 +910,75 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-3d36e4",
+      "id": "rynki-1-89dcf3",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 65,3 mld dolarów, 109,10 mld USD, 130 mld USD) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "65,3 mld dolarów",
+        "109,10 mld USD",
+        "130 mld USD"
+      ],
+      "title": "Nvidia znów to zrobiła. Przychody i zyski zostały podwojone",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:58",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-znow-to-zrobila-Przychody-i-zyski-zostaly-podwojone-9230579.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/2/7/68ac93fff2efa1-948-568-0-74-3000-1799.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Nvidia pokazała dwukrotnie wyższe niż rok wcześniej przychody ze sprzedaży jak również zysk netto.",
+        "Obie kategorie przebiły rynkowy konsensus.",
+        "fot. Michael Vi / / Shutterstock W III kwartalne tego roku obrotowego 2027 (zakończonego 25 października ‘26) Nvidia wygenerowała 65,3 mld dolarów, czyli 2,70 USD na akcję."
+      ],
+      "extended_paragraphs": [
+        "Nvidia pokazała dwukrotnie wyższe niż rok wcześniej przychody ze sprzedaży jak również zysk netto. Obie kategorie przebiły rynkowy konsensus.",
+        "fot. Michael Vi / / Shutterstock W III kwartalne tego roku obrotowego 2027 (zakończonego 25 października ‘26) Nvidia wygenerowała 65,3 mld dolarów, czyli 2,70 USD na akcję. To o 105% więcej niż rok temu oraz o 9% więcej niż w poprzednim kwartale. Rezultat ten przebił oczekiwania większości analityków położone na wysokości 2,48 USD na akcję.",
+        "Pozytywnie zaskoczyły też kwartalne przychody, które podsumowano na 115,84 USD wobec 109,10 mld USD mediany prognoz analityków. To rezultat o 103% wyższy niż rok wcześniej oraz o 20% wyższy niż w poprzednim kwartale. Marża brutto wyniosła 74,8% i była niższa od 75% odnotowanych kwartał wcześniej.",
+        "- Nasz impet jest prawdziwy. NVIDIA jest wyjątkowym liderem technologicznym, napędzanym przez nieustępliwą innowacyjność naszych ludzi – tak w komunikacie prasowym zacytowano Colette Kress, pełniącą obowiązki CEO po odwołaniu założyciela i lidera Nvidii Jensona Huanga. - Vera Rubin przymierza się do eksplozywnego startu, nasza mapa drogowa pozostaje w grze, a nasze ambicje nigdy nie były większe – tak usiłowano kontynuować ekspresyjny styl wypowiedzi prezesa Huanga.",
+        "Mimo to reakcję rynku trudno uznać za „eksplozywną”. Pomimo przekroczenia prognoz analityków i potężnej przeceny z ostatnich dni i tygodni (-36% od październikowego szczytu) w handlu posesyjnym akcje Nvidii zyskiwały tylko 2%. To nie za wiele zważywszy na samą skalę przekroczenia prognoz."
+      ]
+    },
+    {
+      "id": "rynki-2-b6b713",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Azja & Pacyfik (Gospodarka Światowa) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Trzy rzeczy, które warto obejrzeć podczas spotkania Trumpa, Xi i Putina w Chinach",
+      "original_title": "Three things to watch as Trump, Xi and Putin meet in China",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:23",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108553723-1794964906957-gettyimages-2305438045-16.jpeg?v=1794964990&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Prezydent USA Donald Trump, prezydent Chin Xi Jinping i prezydent Rosji Władimir Putin spotkają się w Shenzhen w ramach spotkania przywódców APEC.",
+        "SHENZHEN, Chiny – Kiedy w tym tygodniu zbierają się na dorocznym szczycie, przywódcy Stanów Zjednoczonych, Chin, Rosji i innych głównych gospodarek regionu Azji i Pacyfiku stają przed szeregiem krytycznych problemów, od wojen po bezpieczeństwo technologiczne.",
+        "Od ostatniego spotkania przywódców APEC napięcie między Chinami a Japonią wzrosło."
+      ],
+      "extended_paragraphs": [
+        "Prezydent USA Donald Trump, prezydent Chin Xi Jinping i prezydent Rosji Władimir Putin spotkają się w Shenzhen w ramach spotkania przywódców APEC.",
+        "SHENZHEN, Chiny – Kiedy w tym tygodniu zbierają się na dorocznym szczycie, przywódcy Stanów Zjednoczonych, Chin, Rosji i innych głównych gospodarek regionu Azji i Pacyfiku stają przed szeregiem krytycznych problemów, od wojen po bezpieczeństwo technologiczne.",
+        "Od ostatniego spotkania przywódców APEC napięcie między Chinami a Japonią wzrosło. Ledwo ustabilizowane stosunki USA-Chiny stają przed nowym testem w następstwie kontroli Waszyngtonu dotyczącej sprzedaży chipów Nvidii w Chinach. Wojna w Iranie, trwająca już dziewiąty miesiąc, nadal wywiera presję na światowe ceny energii, podczas gdy wojna rosyjsko-ukraińska przeciąga się.",
+        "Tymczasem dla Pekinu, gospodarza tegorocznej serii spotkań w ramach Współpracy Gospodarczej Azji i Pacyfiku, wielostronne spotkanie jest kolejnym miejscem budowania swoich globalnych wpływów. Prezydent Chin Xi Jinping spotkał się we wtorek z premierem Kanady Markiem Carneyem i prezydentem Wietnamu To Lamem. Wietnam jest gospodarzem przyszłorocznych spotkań APEC.",
+        "Według chińskich mediów państwowych prezydent Rosji Władimir Putin przybył do Shenzhen w środę wczesnym rankiem, gdzie został powitany przez członka Stałego Komitetu Chińskiego Biura Politycznego Cai Qi. Prezydent USA Donald Trump przebywa na Filipinach na szczycie ASEAN, a następnie uda się do Shenzhen."
+      ]
+    },
+    {
+      "id": "rynki-3-3d36e4",
       "entity_tag": "XTB (GPW: XTB)",
       "sector": "Fintech & Brokerzy",
       "market_impact": "HIGH",
@@ -931,7 +999,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/Goracy-handel-akcjami-XTB-na-polskiej-gieldzie-Najwieksze-obroty-i-krwista-przecena-brokera-CFD-9230426.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/a/2/38b2db78799a44-948-568-3-7-1524-914.png",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Po pięciu z rzędu wzrostowych sesjach i poniedziałkowym ustanowieniu historycznych szczytów na GPW przyszła wyraźna korektora.",
         "Wtorkowe notowania upłynęły pod znakiem szerokiej realizacji zysków oraz potężnej wyprzedaży akcji XTB po zapowiedziach Komisji Nadzoru Finansowego.",
@@ -946,7 +1014,7 @@
       ]
     },
     {
-      "id": "rynki-3-687743",
+      "id": "rynki-5-687743",
       "entity_tag": "XTB (GPW: XTB)",
       "sector": "Fintech & Brokerzy",
       "market_impact": "HIGH",
@@ -981,43 +1049,7 @@
       ]
     },
     {
-      "id": "rynki-4-3403f8",
-      "entity_tag": "Wall Street (USA)",
-      "sector": "Rynki Globalne",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 7,13 mln, 5,37 miliarda dolarów, 5,5 miliarda dolarów) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [
-        "7,13 mln",
-        "5,37 miliarda dolarów",
-        "5,5 miliarda dolarów"
-      ],
-      "title": "W trzecim kwartale Berkshire Hathaway zwiększył swoje udziały w Delcie. Zmniejszyło także udziały w kluczowym banku",
-      "original_title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:01",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108332343-17835390822026-07-08t192912z_1218639865_rc2v9mavrnxc_rtrmadp_0_media-sunvalley.jpeg?v=1783539130&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "W trzecim kwartale Berkshire Hathaway zwiększyło kilka pozycji akcji, jednocześnie redukując inne, w tym Bank of America.",
-        "W trzecim kwartale Berkshire Hathaway wykonał kilka ruchów na giełdzie, powiększając kluczowe pozycje i ograniczając inne.",
-        "Konglomerat z siedzibą w Omaha, kierowany obecnie przez dyrektora generalnego Grega Abela, zwiększył swoje udziały w Delta Air Lines o 12%, obejmując 7,13 mln akcji."
-      ],
-      "extended_paragraphs": [
-        "W trzecim kwartale Berkshire Hathaway zwiększyło kilka pozycji akcji, jednocześnie redukując inne, w tym Bank of America.",
-        "W trzecim kwartale Berkshire Hathaway wykonał kilka ruchów na giełdzie, powiększając kluczowe pozycje i ograniczając inne.",
-        "Konglomerat z siedzibą w Omaha, kierowany obecnie przez dyrektora generalnego Grega Abela, zwiększył swoje udziały w Delta Air Lines o 12%, obejmując 7,13 mln akcji. Na koniec trzeciego kwartału pozycja ta była warta 5,37 miliarda dolarów.",
-        "Na początku tego roku Abel zastąpił legendarnego inwestora Warrena Buffetta (96 l.). Buffett w dalszym ciągu kontroluje około 13% akcji zwykłych Berkshire, podał w poniedziałek Reuters, po tym jak były dyrektor generalny przekazał 5,5 miliarda dolarów fundacjom non-profit.",
-        "Berkshire zwiększyło swoje udziały w spółce Delta po tym, jak akcje przewoźnika z Atlanty spadły w trzecim kwartale o 11%, dotknięte rosnącymi cenami paliwa do silników odrzutowych wynikającymi z wojny amerykańsko-irańskiej, która wywarła presję na całą branżę lotniczą. Oznaczało to najgorszy kwartalny wynik akcji spółki od pierwszego kwartału 2025 r., kiedy to spadł o 28%. W zeszłym miesiącu Delta również obniżyła prognozę zysków na cały rok, powołując się na wzrost kosztów paliwa."
-      ]
-    },
-    {
-      "id": "rynki-5-8af924",
+      "id": "rynki-7-8af924",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
@@ -1053,42 +1085,6 @@
       ]
     },
     {
-      "id": "rynki-7-f28bc6",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 160 mld zł, 226 proc., 15 proc.) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [
-        "160 mld zł",
-        "226 proc.",
-        "15 proc."
-      ],
-      "title": "Orlen, Siemens, Shell, ASML i kto jeszcze? Najwięksi z największych w giełdowych indeksach",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "06:00",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Orlen-i-najwiekszy-udzial-w-portfelu-WIG20-Jak-to-wyglada-na-innych-gieldach-w-Europie-9228324.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/c/8178fb43462649-948-568-0-80-1536-921.png",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Waga największych spółek w europejskich indeksach giełdowych to często istotny czynnik odpowiadający za kondycję rynku.",
-        "W przypadku hossy na WIG20 nie do przecenienia był apetyty inwestorów na akcje Orlenu, ale jak to wygląda na zagranicznych parkietach i kto zawiaduje kondycją głównych indeksów w Niemczech, Francji czy Wielkiej Brytanii?",
-        "/ Ilustracja wygenerowana przy użyciu AI Od dna ostatniej bessy, czyli października 2022 r. WIG20 wzrósł o 220 procent."
-      ],
-      "extended_paragraphs": [
-        "Waga największych spółek w europejskich indeksach giełdowych to często istotny czynnik odpowiadający za kondycję rynku. W przypadku hossy na WIG20 nie do przecenienia był apetyty inwestorów na akcje Orlenu, ale jak to wygląda na zagranicznych parkietach i kto zawiaduje kondycją głównych indeksów w Niemczech, Francji czy Wielkiej Brytanii?",
-        "/ Ilustracja wygenerowana przy użyciu AI Od dna ostatniej bessy, czyli października 2022 r. WIG20 wzrósł o 220 procent. Meldując się pod koniec października 2026 r. na historycznym szczycie. W podobnym czasie kurs Orlen do swojego historycznego szczytu, który wypadł zaledwie miesiąc wcześniej, we wrześniu urósł o ponad 226 proc. Nie da się rozpatrywać hossy indeksu polskich blue chipów bez zauważania popytu na Orlenu , które mają największy udział w całym portfelu najdroższych i najpłynniejszych spółek polskiej giełdy.",
-        "Udział Orlenu w WIG20 to po ostatniej rewizji kwartalnej maksymalne 15 proc. tyle samo co banku PKO BP. (przez korektę na kursie realny udział spadł do około 12 proc.) Podobnie jak w przypadku większości najważniejszych europejskich indeksów giełdowych WIG20 wykorzystuje metodologię ważenia spółek według kapitalizacji rynkowej skorygowanej o akcje znajdujące się w wolnym obrocie .",
-        "W praktyce oznacza to, że udział poszczególnych emitentów w indeksie zależy nie tylko od ich wartości rynkowej, ale również od liczby akcji dostępnych dla inwestorów na rynku publicznym. Takie podejście pozwala lepiej odzwierciedlić strukturę kapitału dostępnego w obrocie giełdowym. W przypadku Orlenu udział ten to ponad 50 proc., co przy kapitalizacji wynoszącej około 160 mld zł, przesądza o największym możliwym udziale w portfelu WIG20 (zasady indeksu nie pozwalają na udział większy niż 15 proc.).",
-        "W konsekwencji indeks WIG20, mimo że obejmuje 20 spółek, jest w dość znaczącym stopniu uzależniony od kondycji giełdowej takich spółek jak Orlen czy PKO. Nie jest to zjawisko charakterystyczne wyłącznie dla polskiego rynku. Występuje również na największych giełdach Europy, choć jego skala i przyczyny różnią się w zależności od struktury gospodarki, wielkości rynku oraz zasad konstrukcji poszczególnych benchmarków."
-      ]
-    },
-    {
       "id": "rynki-8-58be49",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
@@ -1101,7 +1097,7 @@
       "original_title": "FAA pauses installation of new routers after ground stop",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:48",
+      "time": "20:53",
       "source": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108551581-1794669969667-gettyimages-2304580986-US_GROUND_STOP.jpeg?v=1794872932&amp;w=1920&amp;h=1080",
@@ -1121,39 +1117,39 @@
       ]
     },
     {
-      "id": "rynki-6-1bd61a",
+      "id": "rynki-4-5a3e69",
       "entity_tag": "Wall Street (USA)",
       "sector": "Rynki Globalne",
-      "market_impact": "MEDIUM",
+      "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [],
-      "title": "JPMorgan Chase twierdzi, że tymczasowy błąd oprogramowania wpływa na bankowość detaliczną",
-      "original_title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+      "title": "JPMorgan pracuje nad transakcjami agentów AI, w których nie biorą udziału ludzie",
+      "original_title": "JPMorgan is working on AI agent transactions that don’t involve humans",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:14",
+      "time": "23:30",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108398335-1791812925028-gettyimages-2299307812-JPMORGAN_EARNS.jpeg?v=1791812945&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108552580-1794869610494-gettyimages-2289913001-golba-dailylif260806_npPSj.jpeg?v=1794869642&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Eamon Javers z CNBC poinformował, że nic nie wskazuje na to, aby w błąd były zaangażowane złe osoby, ani też nic nie wskazuje na to, że błąd wpływał na wiele banków jednocześnie.",
-        "JPMorgan Chase zgłosił w poniedziałek „problem techniczny”, który miał wpływ na niektóre usługi bankowości konsumenckiej.",
-        "Bank stwierdził, że „tymczasowy problem związany z błędem oprogramowania w lokalnych systemach sprzętowych” powoduje, że niektóre transakcje klientów trwają dłużej niż zwykle, chociaż twierdzi, że klienci nadal mogą uzyskać dostęp do swoich kont i środków."
+        "JPMorgan i Hyundai Card chcą rozszerzyć wykorzystanie agentów AI w transakcjach finansowych.",
+        "Agenci sztucznej inteligencji już okazali się pomocni, sprawiają wiele problemów lub jedno i drugie.",
+        "Obszarem postrzeganym jako duży potencjał są płatności, gdzie – jeśli można im zaufać – agenci mogliby zajmować się wszelkiego rodzaju sprawami finansowymi w imieniu ludzi."
       ],
       "extended_paragraphs": [
-        "Eamon Javers z CNBC poinformował, że nic nie wskazuje na to, aby w błąd były zaangażowane złe osoby, ani też nic nie wskazuje na to, że błąd wpływał na wiele banków jednocześnie.",
-        "JPMorgan Chase zgłosił w poniedziałek „problem techniczny”, który miał wpływ na niektóre usługi bankowości konsumenckiej.",
-        "Bank stwierdził, że „tymczasowy problem związany z błędem oprogramowania w lokalnych systemach sprzętowych” powoduje, że niektóre transakcje klientów trwają dłużej niż zwykle, chociaż twierdzi, że klienci nadal mogą uzyskać dostęp do swoich kont i środków.",
-        "„Nie ma dowodów, że ma to związek z cyberprzestrzenią” – oznajmił rzecznik JPMorgan w oświadczeniu dla CNBC.",
-        "„To nie jest problem systemowy – inne banki mogły odczuć skutki spowolnienia transakcji tylko w takim zakresie, w jakim były stroną transakcji z nami” – powiedział rzecznik. „Pilnie pracujemy, aby rozwiązać ten problem do dzisiejszego dnia”."
+        "JPMorgan i Hyundai Card chcą rozszerzyć wykorzystanie agentów AI w transakcjach finansowych.",
+        "Agenci sztucznej inteligencji już okazali się pomocni, sprawiają wiele problemów lub jedno i drugie. Obszarem postrzeganym jako duży potencjał są płatności, gdzie – jeśli można im zaufać – agenci mogliby zajmować się wszelkiego rodzaju sprawami finansowymi w imieniu ludzi.",
+        "Dlatego JPMorgan Chase i południowokoreańska firma Hyundai Card testują, w jaki sposób agenci sztucznej inteligencji mogą obsługiwać transakcje finansowe bez bezpośredniej interwencji człowieka, w tym czy będą w stanie ostatecznie negocjować i dokonywać między sobą płatności.",
+        "Firmy zakończyły wstępną weryfikację koncepcji obejmującą symulowaną transakcję walutową i planują, że pierwsza połowa 2027 r. będzie bardziej złożoną fazą z udziałem wielu agentów AI.",
+        "Wee Kee Toh, globalny szef Kinexys Insights w Kinexys by JP Morgan, powiedział CNBC, że następnym krokiem będzie przetestowanie, co się stanie, gdy autonomiczni agenci wyjdą poza realizację i zaczną ze sobą współdziałać w ekosystemie."
       ]
     },
     {
-      "id": "rynki-2-153db1",
+      "id": "rynki-6-153db1",
       "entity_tag": "Apple (NASDAQ: AAPL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1187,7 +1183,107 @@
   ],
   "makro": [
     {
-      "id": "makro-2-6c060b",
+      "id": "makro-1-e5a311",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 4,5 mld zł) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "4,5 mld zł"
+      ],
+      "title": "Blisko 4,5 mld zł na koncie, umowa wciąż na stole. Co dalej z fabryką w Jaworznie?",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "00:05",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://moto.rp.pl/tu-i-teraz/art45478071-blisko-4-5-mld-zl-na-koncie-umowa-wciaz-na-stole-co-dalej-z-fabryka-w-jaworznie",
+      "image_url": "https://i.gremicdn.pl/image/free/9b690551fb4b43fa415a82428c7db287/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": true,
+      "summary_points": [
+        "ElectroMobility Poland ma pieniądze, partnera technologicznego i nowy harmonogram.",
+        "Do Polski może też trafić ponad 100 samochodów Foxtrona, które posłużą do testów na naszych drogach.",
+        "To jednak nie będą jeszcze gotowe „nowe Izery”."
+      ],
+      "extended_paragraphs": [
+        "ElectroMobility Poland ma pieniądze, partnera technologicznego i nowy harmonogram. Do Polski może też trafić ponad 100 samochodów Foxtrona, które posłużą do testów na naszych drogach. To jednak nie będą jeszcze gotowe „nowe Izery”.",
+        "Historia polskiego samochodu elektrycznego zdążyła już zaliczyć kilka zwrot ó w akcji. Pierwotnie spółka ElectroMobility Poland chciała produkować Izerę z wykorzystaniem technologii chińskiego koncernu Geely. Tamten plan ostatecznie upadł, podobnie jak sama koncepcja samochodu znanego z pokazanych kilka lat temu prototyp ó w.",
+        "Spółka nie została jednak zamknięta. Projekt gruntownie przebudowano, a w maju 2026 r. spółka EMP wskazała nowego partnera strategicznego – tajwański koncern Hon Hai Technology Group, szerzej znany jako Foxconn. Jego motoryzacyjnym ramieniem jest spółka Foxtron Vehicle Technologies, zajmująca się rozwojem samochod ó w elektrycznych i platform dla innych producent ó w.",
+        "Zmieniła się także sama skala przedsięwzięcia. Zamiast jednego samochodu i fabryki projekt zakłada budowę w Jaworznie całego hubu produkcyjno-rozwojowego i centrum badawczo-produkcyjno-rozwojowego i centrum badawczego oraz stworzenie nowej europejskiej marki. Na początek planowane są trzy modele. I co ważne – nazwa Izera ma przejść do historii. Jak podaje „Rzeczpospolita”, EMP zamierza stworzyć nową markę, pod kt ó rą samochody będą sprzedawane nie tylko w Polsce, lecz także w innych krajach Europy.",
+        "Na dziś najważniejszym brakującym elementem pozostaje finalna umowa między EMP a Foxconnem. Strony oficjalnie ogłosiły strategiczne partnerstwo już w maju, ale docelowa spółka joint venture nie została jeszcze formalnie powoł ana. Wed ług najnowszych informacji negocjacje są jednak na końcowym etapie."
+      ]
+    },
+    {
+      "id": "makro-2-275a6b",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Półprzewodniki & AI” (kluczowe liczby: 100 miliardów dolarów, 115,8 miliarda dolarów, 86,9 miliarda funtów) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "100 miliardów dolarów",
+        "115,8 miliarda dolarów",
+        "86,9 miliarda funtów"
+      ],
+      "title": "Nvidia twierdzi, że nie przywróci Huanga, ponieważ firma ogłasza rekordowe wyniki",
+      "original_title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:18",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Gigant chipów AI ogłosił we wtorek dobre kwartalne zyski po dramatycznym odejściu Jensena Huanga.",
+        "Źródło zdjęcia, Getty/Nvidia za pośrednictwem Reuters Podpis pod zdjęciem, Jensen Huang i tymczasowy dyrektor generalny Nvidii, Colette Kress Kwartalna sprzedaż Nvidii po raz pierwszy podwoiła się, osiągając 100 miliardów dolarów, ponieważ firma upierała się, że nie planuje przywracania na stanowisko obalonego współzałożyciela Jensena Huanga.",
+        "O pierwszych wynikach spółki od czasu dramatycznego odejścia Huanga tymczasowa dyrektor naczelna Colette Kress stwierdziła, że ​​„biznes wygląda jak zwykle” i powiedziała inwestorom: „Mamy to”."
+      ],
+      "extended_paragraphs": [
+        "Gigant chipów AI ogłosił we wtorek dobre kwartalne zyski po dramatycznym odejściu Jensena Huanga.",
+        "Źródło zdjęcia, Getty/Nvidia za pośrednictwem Reuters Podpis pod zdjęciem, Jensen Huang i tymczasowy dyrektor generalny Nvidii, Colette Kress",
+        "Kwartalna sprzedaż Nvidii po raz pierwszy podwoiła się, osiągając 100 miliardów dolarów, ponieważ firma upierała się, że nie planuje przywracania na stanowisko obalonego współzałożyciela Jensena Huanga.",
+        "O pierwszych wynikach spółki od czasu dramatycznego odejścia Huanga tymczasowa dyrektor naczelna Colette Kress stwierdziła, że ​​„biznes wygląda jak zwykle” i powiedziała inwestorom: „Mamy to”.",
+        "Kwartalna sprzedaż firmy podwoiła się w porównaniu z rokiem poprzednim, osiągając 115,8 miliarda dolarów (86,9 miliarda funtów), a akcje spółki wzrosły o 4,8% w obrocie poza godzinami pracy."
+      ]
+    },
+    {
+      "id": "makro-3-7a4946",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Stefan Szczepłek. Jeden punkt ze Szwecją: tylko i aż",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "00:02",
+      "source": "Rzeczpospolita Ekonomia",
+      "source_url": "https://www.rp.pl/komentarze/art45505191-stefan-szczeplek-jeden-punkt-ze-szwecja-tylko-i-az",
+      "image_url": "https://i.gremicdn.pl/image/free/b0be691ea8a8a1192e3d4f8932bb8e31/",
+      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
+      "lead_story": false,
+      "summary_points": [
+        "Jeśli nie potrafisz wygrać, to chociaż zremisuj.",
+        "Stara futbolowa zasada sprawdziła się we Wrocławiu.",
+        "To Szwedzi mieli przewagę – oddali więcej strzałów, wywalczyli więcej rzutów rożnych, jednak zdobyli tyle samo bramek, co chwilami nieco stłamszeni Polacy."
+      ],
+      "extended_paragraphs": [
+        "Jeśli nie potrafisz wygrać, to chociaż zremisuj. Stara futbolowa zasada sprawdziła się we Wrocławiu. To Szwedzi mieli przewagę – oddali więcej strzałów, wywalczyli więcej rzutów rożnych, jednak zdobyli tyle samo bramek, co chwilami nieco stłamszeni Polacy.",
+        "Może w innych okolicznościach taka gra i zaledwie jeden punkt na swoim stadionie spotkałyby się z krytyką. Nie wątpię, że będzie tak i teraz, ale po tym, co ostatnio pokazywali polscy piłkarze (dwie porażki z rzędu z Bośnią i Hercegowiną oraz Rumunią) ten remis, niezależnie od poziomu gry, jest jakimś małym plusem. Tym bardziej, że ostatnio Szwedzi wygrywają z nami, kiedy chcą.",
+        "Teraz też chcieli, a nie udało im się nie tylko dlatego, że Polacy grali ambitnie, ale że bramkarz Sławomir Abramowicz w kilku sytuacjach bronił strzały „nie do obrony”. Taka postawa bramkarza, bez względu na to, jak się nazywa, jest niestety charakterystyczną cechą reprezentacji Polski i to od lat. Obrońcy grają tak słabo, że – siłą rzeczy – bohaterami stają się bramkarze."
+      ]
+    },
+    {
+      "id": "makro-4-6c060b",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1204,7 +1300,7 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Huang twierdzi, że otrzymał „polewkę” telefonów od inwestorów i innych osób wzywających go do powrotu.",
         "„Stworzyłem Zarządowi problemy, których bardzo żałuję.",
@@ -1219,41 +1315,71 @@
       ]
     },
     {
-      "id": "makro-3-a1fb8e",
-      "entity_tag": "USA & Bezpieczeństwo",
-      "sector": "Geopolityka",
+      "id": "makro-5-52f0b9",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Geopolityka” (kluczowe liczby: 21 mld euro) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "21 mld euro"
-      ],
-      "title": "Zełenski chce się wymienić rakietami. Ukraina pilnie potrzebuje Patriotów",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Polska – Szwecja. Mecz życia Abramowicza w ponury listopadowy wieczór",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:58",
+      "time": "23:56",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/konflikty-zbrojne/art45504751-zelenski-chce-sie-wymienic-rakietami-ukraina-pilnie-potrzebuje-patriotow",
-      "image_url": "https://i.gremicdn.pl/image/free/952820730f3c3685b4914c96d547fa32/",
+      "source_url": "https://sport.rp.pl/pilka-nozna/art45505161-polska-szwecja-mecz-zycia-abramowicza-w-ponury-listopadowy-wieczor",
+      "image_url": "https://i.gremicdn.pl/image/free/def4bbaf79510c6ede28030af895d9f9/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Prezydent Ukrainy Wołodymyr Zełenski zaproponował we wtorek partnerom wymianę rakiet zamówionych przez Ukrainę na pociski przechwytujące do systemów obrony powietrznej Patriot i IRIS-T, które znajdują się w ich zapasach.",
-        "W zamian za przekazanie rakiet partnerzy otrzymają nowsze uzbrojenie - dodał.",
-        "- Mamy bardzo praktyczną propozycję: Ukraina potrzebuje pocisków przechwytujących do systemów Patriot i IRIS-T z waszych obecnych zapasów, a w zamian możemy przekazać wam nowe rakiety, które Ukraina już zamówiła, w miarę ich produkcji – powiedział Zełenski na początku spotkania Grupy Kontaktowej ds."
+        "Polacy zagrali ambitnie, kapitalnie w bramce spisywał się Sławomir Abramowicz i na zakończenie Ligi Narodów dało to remis ze Szwecją.",
+        "Ten wynik oznacza utrzymanie reprezentacji w Dywizji B, ale czy także pozostanie na fotelu selekcjonera Jana Urbana, wie chyba tylko Cezary Kulesza.",
+        "Adrian Benedyczak cieszy się z bramki zdobytej podczas meczu grupy B4 piłkarskiej Ligi Narodów ze Szwecją Anglicy mawiają o takiej pogodzie, że z nieba spadają koty i psy."
       ],
       "extended_paragraphs": [
-        "Prezydent Ukrainy Wołodymyr Zełenski zaproponował we wtorek partnerom wymianę rakiet zamówionych przez Ukrainę na pociski przechwytujące do systemów obrony powietrznej Patriot i IRIS-T, które znajdują się w ich zapasach. W zamian za przekazanie rakiet partnerzy otrzymają nowsze uzbrojenie - dodał.",
-        "- Mamy bardzo praktyczną propozycję: Ukraina potrzebuje pocisków przechwytujących do systemów Patriot i IRIS-T z waszych obecnych zapasów, a w zamian możemy przekazać wam nowe rakiety, które Ukraina już zamówiła, w miarę ich produkcji – powiedział Zełenski na początku spotkania Grupy Kontaktowej ds. Obrony Ukrainy w kwaterze głównej NATO, zorganizowanego w formacie Ramstein z inicjatywy Wielkiej Brytanii i Niemiec.",
-        "Prezydent Ukrainy, który uczestniczył w spotkaniu zdalnie, wyjaśnił, że w zamian za przekazanie Ukrainie rakiet już teraz partnerzy otrzymają nowsze uzbrojenie. – Wszyscy rozumiemy, że na nowe rakiety przechwytujące trzeba długo czekać, ale nam są one potrzebne tu i teraz, a wy musicie uzupełnić swoje arsenały. Jest to więc sposób na rozwiązanie naszego pilnego problemu, a jednocześnie pomoc wam w pozyskaniu nowych rakiet do własnej obrony – podkreślił. Zaapelował również do USA, by nie opóźniały dostaw uzbrojenia.",
-        "Modernizacja Sił Zbrojnych Nie tylko Patrioty bronią polskiego nieba. Wojsko nie rezygnuje z poradzieckich wyrzutni Newa-SC Wojsko szuka firmy, która przez kolejne lata będzie naprawiać przeciwlotnicze Newy-SC. Część takich zestawów Polska oddała Ukrainie. Pozostałe wcią...",
-        "Zełenski powiedział też, że Ukraina potrzebuje jeszcze 40 myśliwców F-16, ponieważ wiele samolotów jest obecnie w naprawie. Jednocześnie zaapelował do europejskich partnerów o rozważenie możliwości przekazania Ukrainie samolotów Mirage, które można szybciej skierować do wykonywania zadań bojowych niż myśliwce Rafale, ponieważ przygotowanie tych ostatnich do użycia wymaga dodatkowego czasu i szkolenia. Dodał, że Ukraina potrzebuje również odpowiedniej ilości amunicji do samolotów, które już znajdują się na jej wyposażeniu, i wezwał partnerów, by uczynili tę kwestię priorytetem."
+        "Polacy zagrali ambitnie, kapitalnie w bramce spisywał się Sławomir Abramowicz i na zakończenie Ligi Narodów dało to remis ze Szwecją. Ten wynik oznacza utrzymanie reprezentacji w Dywizji B, ale czy także pozostanie na fotelu selekcjonera Jana Urbana, wie chyba tylko Cezary Kulesza.",
+        "Adrian Benedyczak cieszy się z bramki zdobytej podczas meczu grupy B4 piłkarskiej Ligi Narodów ze Szwecją",
+        "Anglicy mawiają o takiej pogodzie, że z nieba spadają koty i psy. Nad Wrocławiem już dobrych kilka godzin przed meczem wisiały ciężkie, ołowiane chmury, z których wylewały się hektolitry deszczu.",
+        "Normalnie w tak ponury listopadowy wieczór człowiek nie ma ochoty wysunąć nosa za drzwi. Tym bardziej na mecz drużyny, w ostatnim czasie z pewnością niemającej najlepszej prasy, której wizerunek nieco ociepliła tylko poniedziałkowa wizyta kilku piłkarzy we wrocławskim Centrum Onkologii Dziecięcej „Przylądek Nadziei”. A jednak, nie licząc sektora gości, na spotkanie Polski ze Szwecją wyprzedano wszystkie bilety, a co więcej, wokół Tarczyński Areny nie brakowało tzw. koników oferujących je z drugiej ręki.",
+        "Już po sobotnim meczu w Bukareszcie było jasne, że podobnie jak z Rumunią, także ze Szwecją Jan Urban nie będzie mógł skorzystać ze wszystkich powołanych graczy. Kartkową pauzę odpokutował Jan Bednarek, ale udał się na nią jego partner ze środka obrony FC Porto – Jakub Kiwior. Do domu odleciał też Matty Cash, który po ataku rywala doznał wstrząśnienia mózgu."
       ]
     },
     {
-      "id": "makro-4-1c64de",
+      "id": "makro-6-60e6d7",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Rząd popiera zmiany w systemie opieki społecznej, aby zapobiec „straconemu pokoleniu”",
+      "original_title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:43",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Były minister Alan Milburn przedstawił plany przekierowania wydatków ze świadczeń na wsparcie zatrudnienia.",
+        "Milburn proponuje wydawanie miliardów na dostosowane do indywidualnych potrzeb wsparcie dla osób poniżej 25.",
+        "roku życia, które nie pracują, nie kształcą się ani nie szkolą (Neets), częściowo finansowane w drodze cięć niektórych świadczeń."
+      ],
+      "extended_paragraphs": [
+        "Były minister Alan Milburn przedstawił plany przekierowania wydatków ze świadczeń na wsparcie zatrudnienia.",
+        "Milburn proponuje wydawanie miliardów na dostosowane do indywidualnych potrzeb wsparcie dla osób poniżej 25. roku życia, które nie pracują, nie kształcą się ani nie szkolą (Neets), częściowo finansowane w drodze cięć niektórych świadczeń.",
+        "Twierdzi, że jego plan, który przewiduje także ulgi podatkowe dla firm i poważne reformy edukacji, zapewni zatrudnienie 440 000 młodych ludzi do 2036 roku.",
+        "Premier Andy Burnham oświadczył, że popiera „zasady” przeglądu Milburna i jest pewien, że uda mu się przekonać parlamentarzystów Partii Pracy do poparcia ustawodawstwa w celu wdrożenia jego środków.",
+        "Premier powiedział Sky News, że pełną odpowiedź na przegląd przedstawi w przyszłym miesiącu, po otrzymaniu odrębnego raportu na temat świadczeń związanych z niezależnością osobistą (Pips) od Ministra Ubezpieczeń Społecznych Sir Stephena Timmsa."
+      ]
+    },
+    {
+      "id": "makro-8-1c64de",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1273,114 +1399,19 @@
       "lead_story": false,
       "summary_points": [
         "Jedna z grup biznesowych twierdzi, że propozycja obniżenia kosztów ubezpieczenia społecznego pracodawców jest „niezbędna” do rozwiązania problemu Neet.",
-        "Autor: Nick Edser i Simon Browning, Reporterzy biznesowi Opublikowano 17 listopada 2026 r., 15:20 GMT Zaktualizowano 3 godziny temu Obniżenie składek pracodawców na ubezpieczenie społeczne (NI) dla osób w wieku od 21 do 24 lat oraz zachęty pieniężne do zatrudniania niektórych pracowników to jedne z propozycji przedstawionych w raporcie Alana Milburna, aby zwiększyć liczbę osób w wieku 18–24 lat pracujących.",
+        "Autor: Nick Edser i Simon Browning, Reporterzy biznesowi Opublikowano 17 listopada 2026 r. Obniżenie składek pracodawców na ubezpieczenie społeczne (NI) dla osób w wieku od 21 do 24 lat oraz zachęty pieniężne do zatrudniania niektórych pracowników to jedne z propozycji przedstawionych w raporcie Alana Milburna, aby zwiększyć liczbę osób w wieku 18–24 lat pracujących.",
         "Wiele firm skarżyło się, że niedawne podwyżki składek na ubezpieczenie społeczne i płacy minimalnej spowodowały, że zatrudnianie pracowników stało się droższe."
       ],
       "extended_paragraphs": [
         "Jedna z grup biznesowych twierdzi, że propozycja obniżenia kosztów ubezpieczenia społecznego pracodawców jest „niezbędna” do rozwiązania problemu Neet.",
-        "Autor: Nick Edser i Simon Browning, Reporterzy biznesowi Opublikowano 17 listopada 2026 r., 15:20 GMT Zaktualizowano 3 godziny temu Obniżenie składek pracodawców na ubezpieczenie społeczne (NI) dla osób w wieku od 21 do 24 lat oraz zachęty pieniężne do zatrudniania niektórych pracowników to jedne z propozycji przedstawionych w raporcie Alana Milburna, aby zwiększyć liczbę osób w wieku 18–24 lat pracujących.",
+        "Autor: Nick Edser i Simon Browning, Reporterzy biznesowi Opublikowano 17 listopada 2026 r. Obniżenie składek pracodawców na ubezpieczenie społeczne (NI) dla osób w wieku od 21 do 24 lat oraz zachęty pieniężne do zatrudniania niektórych pracowników to jedne z propozycji przedstawionych w raporcie Alana Milburna, aby zwiększyć liczbę osób w wieku 18–24 lat pracujących.",
         "Wiele firm skarżyło się, że niedawne podwyżki składek na ubezpieczenie społeczne i płacy minimalnej spowodowały, że zatrudnianie pracowników stało się droższe.",
         "Rozmawialiśmy z firmami i grupami biznesowymi o problemach, jakie napotykają przy zatrudnianiu młodszych pracowników, oraz o tym, co myślą o propozycjach.",
         "Tytuł Zdjęcia: Właściciel kawiarni w Bournemouth, Ben Blades, twierdzi, że nie może uzasadnić dodatkowych kosztów szkolenia nowego personelu"
       ]
     },
     {
-      "id": "makro-1-d3e1d1",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Big Tech” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Kolejna potężna awaria w USA. Tym razem problemy ma Apple. Tysiące zgłoszeń",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "20:09",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45504771-kolejna-potezna-awaria-w-usa-tym-razem-problemy-ma-apple-tysiace-zgloszen",
-      "image_url": "https://i.gremicdn.pl/image/free/83ce1f91d48ba9f012a88802272bfc8a/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "W Stanach Zjednoczonych doszło do kolejnej poważnej awarii.",
-        "We wtorek 17 listopada tysiące użytkowników zgłosiło problemy z dostępem do usług Apple, w tym pomocy technicznej, App Store, iCloud i Apple Pay.",
-        "Problemy z płatnościami i dostępem do kont Apple."
-      ],
-      "extended_paragraphs": [
-        "W Stanach Zjednoczonych doszło do kolejnej poważnej awarii. We wtorek 17 listopada tysiące użytkowników zgłosiło problemy z dostępem do usług Apple, w tym pomocy technicznej, App Store, iCloud i Apple Pay.",
-        "Problemy z płatnościami i dostępem do kont Apple. Tysiące użytkowników zgłasza awarię",
-        "Apple na swojej stronie informującej o stanie usług potwierdziło awarie App Store, Apple Music i AppleCare na urządzeniach, a także problemy z logowaniem do kont iCloud – informuje „USA Today”.",
-        "Według serwisu Downdetector, monitorującego awarie usług internetowych, liczba zgłoszeń dotyczących problemów z Apple Pay zaczęła gwałtownie rosnąć około godziny 11.40 czasu wschodnioamerykańskiego (17.40 czasu polskiego).",
-        "Bezpieczeństwo Seria tajemniczych awarii w USA. Teraz problemy ma amerykańska agencja wywiadowcza Tajna sieć amerykańskiej Agencji Bezpieczeństwa Narodowego (NSA) przestała działać. Awaria jest na tyle poważna, że pracownikom wydano specjalne po..."
-      ]
-    },
-    {
-      "id": "makro-6-af12ff",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Gdzie jest najwięcej pracy dla osób w wieku 18–24 lat?",
-      "original_title": "Where are the most jobs for 18-24 year-olds?",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:35",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Ile stanowisk pracy jest tam, gdzie mieszkasz i w jakich sektorach masz największe szanse na znalezienie pracy?",
-        "roku życia należy zagwarantować staże lub szkolenia, które pomogą im znaleźć stałą pracę – stwierdza poważny przegląd mający na celu zmniejszenie liczby Neetów.",
-        "Burnham chce, aby raport Neetsa był momentem przełomowym, twierdzi numer 10, po tym jak torysi krytykują propozycje dotyczące opieki społecznej i podatków Gdzie są dostępne oferty pracy?"
-      ],
-      "extended_paragraphs": [
-        "Ile stanowisk pracy jest tam, gdzie mieszkasz i w jakich sektorach masz największe szanse na znalezienie pracy?",
-        "Osobom poniżej 25. roku życia należy zagwarantować staże lub szkolenia, które pomogą im znaleźć stałą pracę – stwierdza poważny przegląd mający na celu zmniejszenie liczby Neetów.",
-        "Burnham chce, aby raport Neetsa był momentem przełomowym, twierdzi numer 10, po tym jak torysi krytykują propozycje dotyczące opieki społecznej i podatków",
-        "Gdzie są dostępne oferty pracy? Miejsce zamieszkania często ma duży wpływ na Twoją zdolność do znalezienia pracy.",
-        "Zespół doradców Instytutu Badań nad Polityką Publiczną (IPPR) wykorzystał ogłoszenia o pracę w Internecie, aby pomóc określić liczbę wolnych stanowisk pracy odpowiednich dla młodych ludzi w miejscu ich zamieszkania w porównaniu z wielkością lokalnej populacji."
-      ]
-    },
-    {
-      "id": "makro-7-52bdae",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "TSUE zajmie się polskimi przepisami o raportowaniu sprzedaży i usług w sieci",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:37",
-      "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://pro.rp.pl/prawo-w-firmie/art45503751-tsue-zajmie-sie-polskimi-przepisami-o-raportowaniu-sprzedazy-i-uslug-w-sieci",
-      "image_url": "https://i.gremicdn.pl/image/free/d9e63395e346fe0a1faec20009fcc763/",
-      "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
-      "lead_story": false,
-      "summary_points": [
-        "Te i inne kluczowe pojęcia z polskiej ustawy wdrażającej dyrektywę DAC-7 ma zdekodować Trybunał w Luksemburgu.",
-        "Sędziowie mają długą listę wyjątkowo złożonych pytań.",
-        "TSUE odpowie na pytania NSA ws. raportowania fiskusowi informacji o sprzedawcach i usługodawcach w sieci."
-      ],
-      "extended_paragraphs": [
-        "Czym jest „platforma”? Te i inne kluczowe pojęcia z polskiej ustawy wdrażającej dyrektywę DAC-7 ma zdekodować Trybunał w Luksemburgu. Sędziowie mają długą listę wyjątkowo złożonych pytań.",
-        "TSUE odpowie na pytania NSA ws. raportowania fiskusowi informacji o sprzedawcach i usługodawcach w sieci.",
-        "Kolejne pytania prejudycjalne w polskiej sprawie do Trybunału Sprawiedliwości Unii Europejskiej (TSUE) skierował we wtorek sam Naczelny Sąd Administracyjny (NSA).",
-        "Zyskaj dostęp do rzetelnych analiz, opinii ekspertów i kluczowych prognoz gospodarczych. Poznaj fakty, które kształtują biznes, prawo oraz społeczeństwo."
-      ]
-    },
-    {
-      "id": "makro-5-41fd4d",
+      "id": "makro-7-b39f8b",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1388,194 +1419,203 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Reset konstytucyjny. PiS sygnalizuje, że może się zgodzić na projekt PSL. Jest jedno „ale”",
+      "title": "Tureckie służby wkroczyły do siedziby telewizji. Opozycja oskarża rząd Erdogana",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:40",
+      "time": "23:17",
       "source": "Rzeczpospolita Ekonomia",
-      "source_url": "https://www.rp.pl/polityka/art45504361-reset-konstytucyjny-pis-sygnalizuje-ze-moze-sie-zgodzic-na-projekt-psl-jest-jedno-ale",
-      "image_url": "https://i.gremicdn.pl/image/free/ad8adc8cc1e3d155d13f982116348fa5/mariusz-blaszczak-i-przemyslaw-czarnek-opuszczaja-konsultacje-w-sprawie-resetu-konstytucyjnego-w-belwederze",
+      "source_url": "https://www.rp.pl/polityka/art45505101-tureckie-sluzby-wkroczyly-do-siedziby-telewizji-opozycja-oskarza-rzad-erdogana",
+      "image_url": "https://i.gremicdn.pl/image/free/c7965747e9b8cfa656df11db6744f3eb/",
       "image_source": "Fot. / Źródło: Rzeczpospolita Ekonomia",
       "lead_story": false,
       "summary_points": [
-        "Co dalej z resetem konstytucyjnym proponowanym przez PSL?",
-        "Donald Tusk broni obecnego składu TK, ale nie zamyka się wprost na inicjatywę Władysława Kosiniaka-Kamysza.",
-        "Środowa runda rozmów może skończyć się poselskim projektem z błogosławieństwem prezydenta - wynika z naszych informacji."
+        "Tureckie siły bezpieczeństwa przeprowadziły nalot na siedzibę jednej z największych stacji opozycyjnych w kraju, Sozcu TV - poinformował dziennik „Cumhuriyet”.",
+        "Zatrzymano kilku członków kierownictwa telewizji, a do tymczasowego kierowania nią wyznaczono specjalnego zarządcę.",
+        "„Oddziały antyterrorystyczne wraz z zarządcą przeprowadziły nalot na budynek."
       ],
       "extended_paragraphs": [
-        "Co dalej z resetem konstytucyjnym proponowanym przez PSL? Donald Tusk broni obecnego składu TK, ale nie zamyka się wprost na inicjatywę Władysława Kosiniaka-Kamysza. Środowa runda rozmów może skończyć się poselskim projektem z błogosławieństwem prezydenta - wynika z naszych informacji.",
-        "Mariusz Błaszczak i Przemysław Czarnek opuszczają konsultacje w sprawie resetu konstytucyjnego w Belwederze",
-        "W poniedziałkowych rozmowach w Belwederze w sprawie tzw. resetu konstytucyjnego wzięli udział przedstawiciele wszystkich sił parlamentarnych poza Nową Lewicą, KO i Unią Centrum. W środę po południu odbędzie się kolejna runda konsultacji, ponownie z udziałem szefa Kancelarii Prezydenta Zbigniewa Boguckiego. Dzień później odbędzie się wysłuchanie publiczne projektu takiego resetu. PSL zaproponowało 5 listopada wygaszenie kadencji obecnych sędziów Trybunału Konstytucyjnego i powołanie 15 nowych sędziów przez Zgromadzenie Narodowe większością 3/5 głosów. Cały proces wymagałby zmiany konstytucji."
-      ]
-    },
-    {
-      "id": "makro-8-400df8",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Błąd fotoradaru mógł pozwolić kierowcom uniknąć mandatów",
-      "original_title": "Speed camera fault may have allowed drivers to escape fines",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:08",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Ministerstwo Spraw Wewnętrznych cofnęło zgodę na wykorzystanie nagrań z fotoradarów jako dowodów.",
-        "W zeszłym roku firma National Highways wykryła problemy z fotoradarami, które dotyczyły 154 z 400 fotoradarów, ale po dochodzeniu stwierdziła, że ​​znalazła kolejną usterkę w jednostkach monitorujących drogi, w tym te biegnące między Huntingdon a Cambridge.",
-        "Ministerstwo Spraw Wewnętrznych cofnęło zgodę zezwalającą na wykorzystanie nagrań z kamer jako dowodu w postępowaniu sądowym."
-      ],
-      "extended_paragraphs": [
-        "Ministerstwo Spraw Wewnętrznych cofnęło zgodę na wykorzystanie nagrań z fotoradarów jako dowodów.",
-        "W zeszłym roku firma National Highways wykryła problemy z fotoradarami, które dotyczyły 154 z 400 fotoradarów, ale po dochodzeniu stwierdziła, że ​​znalazła kolejną usterkę w jednostkach monitorujących drogi, w tym te biegnące między Huntingdon a Cambridge.",
-        "Ministerstwo Spraw Wewnętrznych cofnęło zgodę zezwalającą na wykorzystanie nagrań z kamer jako dowodu w postępowaniu sądowym. Amerykańska firma Verra Mobility obsługuje kamery, ale firma National Highways oświadczyła, że ​​teraz rozwiąże umowę.",
-        "„Jeśli mamy zamiar ścigać ludzi, musimy mieć pewność, że system działa tak, jak powinien. Dlatego podjęliśmy odpowiednie działania”.",
-        "Usterka dotyczyła wszystkich fotoradarów na inteligentnych autostradach oraz odcinka autostrady A14 pomiędzy Huntingdon i Cambridge, a także węzła dojazdowego A1 do autostrady A14."
+        "Tureckie siły bezpieczeństwa przeprowadziły nalot na siedzibę jednej z największych stacji opozycyjnych w kraju, Sozcu TV - poinformował dziennik „Cumhuriyet”. Zatrzymano kilku członków kierownictwa telewizji, a do tymczasowego kierowania nią wyznaczono specjalnego zarządcę.",
+        "„Oddziały antyterrorystyczne wraz z zarządcą przeprowadziły nalot na budynek. Podczas gdy zespoły przeszukiwały obiekt, policja zamknęła ulicę, przy której się on znajduje; dokonano również aresztowań” – podała opozycyjna gazeta.",
+        "Poranny program informacyjny w Sozcu TV został zastąpiony nagraną wcześniej dyskusją na temat długowieczności.",
+        "Przeprowadzony przed świtem nalot na Sozcu TV nastąpił kilka tygodni po tym, gdy w podobny sposób przejęto kontrolę nad inną stacją opozycyjną, Halk TV, w związku z podejrzeniem korupcji.",
+        "Prokuratura generalna w Stambule poinformowała w komunikacie, że działania wobec Sozcu TV są częścią śledztwa dotyczącego rzekomego naruszenia tureckich przepisów o zwalczaniu finansowania terroryzmu oraz domniemanych powiązań stacji z siecią Fethullaha Gulena."
       ]
     }
   ],
   "tech": [
     {
-      "id": "tech-7-10cba9",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
+      "id": "tech-1-6fb816",
+      "entity_tag": "Miedź (LME)",
+      "sector": "Surowce Przemysłowe",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 5,3 proc., 62,5 proc.) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "5,3 proc.",
-        "62,5 proc."
-      ],
-      "title": "Mamy nowego króla. OpenAI odpala petardę i prezentuje GPT-6.2 Astra / Sol!",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Miedź (LME) (Surowce Przemysłowe) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Ten materiał ma tylko jeden atom grubości. Na jego krawędzi dzieje się coś dziwnego",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:53",
-      "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/gpt-6-2-astra-sol-openai",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-17-o-19.42.53.png",
-      "image_source": "Fot. / Źródło: Antyweb Innowacje",
+      "time": "19:58",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/material-jeden-atom-grubosci-stan-kwantowy",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/material-stan-kwantowy.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": true,
       "summary_points": [
-        "GPT-6.2 Astra i Sol właśnie zostały oficjalnie wydane przez OpenAI.",
-        "Ten pierwszy model, na podstawie jedynie publicznie dostępnych materiałów przygotował pełen cyfrowy model samochodu: a ponadto katalog jego części i animację montażu.",
-        "Tańszy GPT-6.2 Sol również jest miłą nowinką: w teście dot. programowania niemal dorównał Astrze za około jedną piątą ogólnego kosztu!"
+        "Naukowcy z Uniwersytetu w Osace po raz pierwszy bezpośrednio zaobserwowali niezwykły stan kwantowy powstający na granicy materiału o grubości zaledwie jednego atomu i metalicznego podłoża.",
+        "Ich odkrycie jest istotne nie tylko z tego powodu: jego autorzy przekonują, że powinno również przynieść szereg praktycznych zastosowań.",
+        "W toku obserwacji wyszło na jaw między innymi to, iż cząstki w tym specyficznym środowisku zaczynają zachowywać się tak, jakby ich masa była znacznie większa niż w rzeczywistości."
       ],
       "extended_paragraphs": [
-        "GPT-6.2 Astra i Sol właśnie zostały oficjalnie wydane przez OpenAI. Ten pierwszy model, na podstawie jedynie publicznie dostępnych materiałów przygotował pełen cyfrowy model samochodu: a ponadto katalog jego części i animację montażu. Tańszy GPT-6.2 Sol również jest miłą nowinką: w teście dot. programowania niemal dorównał Astrze za około jedną piątą ogólnego kosztu!",
-        "Premierowa prezentacja pokazuje pojazd buggy: najpierw rozłożony na części, a potem już zmontowany. Zadaniem Astry było stworzenie w 3D zarówno samo auto, jak i jego silnik: na podstawie zdjęć oraz instrukcji producenta. Z tych elementów następnie sporządzona została... animowana instrukcja montażu i ilustrowany katalog części. Przyznam szczerze, że to robi gigantyczne wrażenie i trudno nie oprzeć się wrażeniu, że OpenAI, poza modelami, pokazuje dla nich naprawdę efektowne, acz przydatne zastosowania.",
-        "Wpis na temat nowych premier od OpenAI ukazuje także Astrę symulującą zachowanie podwozia samochodu na górskiej drodze. Przygotowany został roadster w trzech wymiarach, a model następnie, już z użyciem Pythona, wytworzył program obliczający, jak podczas jazdy zachowują się opony i zawieszenie. To następnie posłużyło do wygenerowania animacji w Blenderze, na której można podziwiać pracę obu osi, miejsca styku opon z nawierzchnią: wszystko w powiązaniu z ruchami kierownicy. Czy to oddaje ultrawiernie działanie auta? Trudno mi powiedzieć, w jakim stopniu, ale przyznajcie: sprawia to naprawdę doskonałe wrażenie.",
-        "OpenAI nawet posiłkuje się przedmiotami, które opuściły świat cyfrowy i zaistniały \"w naszym\". Za wzór obrano półkoliste balkony wież Marina City w Chicago, których kształt zespół OpenAI zechciał przenieść na papierowy klosz do lampy. GPT-6.2 Astra przeszedł przez poprawki w projekcie komputerowym (poczynając od zwykłych fotografii) aż po kompletną lampę, którą potem wydrukowano i złożono ręcznie. Jest też strona, na której można wygenerować własną lampę. Bo czemu nie?",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Astra liczy kasę (dosłownie) A teraz coś mniej efektownego, tylko na pozór. Modelowi pokazano wyniki kwartalne sieci handlowej. Poprzednia i nowa Astra dostały dokładnie to samo i obie trafnie ustaliły, że za poprawę zysku odpowiadały głównie zwroty za cło. GPT-6.2 Astra wyciągnął za to osobną informację o wzroście sprzedaży o 5,3 proc. i zestawił to z wynikami sklepów stacjonarnych oraz kanału internetowego. Dorzucił też wskazówki: poradził bowiem, by w kolejnym budżecie nie bazować na li tylko takich wzrostach, a przy uzupełnianiu zapasów dać pierwszeństwo tym produktom, które sprzedają się najszybciej."
+        "Naukowcy z Uniwersytetu w Osace po raz pierwszy bezpośrednio zaobserwowali niezwykły stan kwantowy powstający na granicy materiału o grubości zaledwie jednego atomu i metalicznego podłoża. Ich odkrycie jest istotne nie tylko z tego powodu: jego autorzy przekonują, że powinno również przynieść szereg praktycznych zastosowań. Wyniki badań japońskiego zespołu stanowią bowiem ważny krok w zrozumieniu tego, […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wyniki badań japońskiego zespołu stanowią bowiem ważny krok w zrozumieniu tego, jak zachowują się elektrony na styku różnych materiałów. W toku obserwacji wyszło na jaw między innymi to, iż cząstki w tym specyficznym środowisku zaczynają zachowywać się tak, jakby ich masa była znacznie większa niż w rzeczywistości. Wspomniany efekt, widoczny dotychczas w ultracienkiej warstwie atomowej, teraz oficjalnie pojawił się na granicy łączącej ją z trójwymiarowym metalicznym podłożem.",
+        "Czytaj też: Tytan zwiększył wydajność materiału 250 razy. Teraz dostarczy energii elektrycznej",
+        "Aby zbadać ten fenomen, naukowcy przygotowali wyjątkowo cienką warstwę związku iterbu i miedzi, składającą się z pojedynczej warstwy atomów. Umieścili ją na powierzchni monokrystalicznego podłoża wykonanego z miedzi. Następnie wykorzystali intensywne promieniowanie synchrotronowe oraz technikę spektroskopii fotoemisyjnej z rozdzielczością kątową, co pozwoliło szczegółowo przeanalizować strukturę elektronową materiału i sprawdzić, w jaki sposób cząstki oddziałują ze sobą na granicy obu substancji.",
+        "Wyniki eksperymentu ujawniły dwa odmienne stany ciężkich fermionów. Pierwszy był związany przede wszystkim z dwuwymiarową warstwą badanego materiału. Drugi okazał się znacznie bardziej zaskakujący, ponieważ rozciągał się również na znajdujące się pod nią trójwymiarowe podłoże miedziane. To właśnie druga obserwacja stanowi przełomowy element badań. Uczeni uzyskali bezpośrednie dowody na powstawanie ciężkich fermionów na granicy dwóch materiałów, co wcześniej pozostawało trudne do eksperymentalnego potwierdzenia."
       ]
     },
     {
-      "id": "tech-4-106c97",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
-      "market_impact": "MEDIUM",
+      "id": "tech-2-c8d7f8",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Usługi Apple, w tym iCloud, App Store i Apple Music, dotknięte awarią",
-      "original_title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 65 miliardów dolarów, 65,5 miliardów dolarów, 16 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "65 miliardów dolarów",
+        "65,5 miliardów dolarów",
+        "16 miliardów dolarów"
+      ],
+      "title": "Udziały start-upów Nvidii wzrosły do 65 miliardów dolarów, ale odejście Huanga stawia pod znakiem zapytania przyszłe transakcje",
+      "original_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:55",
+      "time": "01:44",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780",
+      "source_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Strona stanu Apple potwierdza, że w jego usługach występują przerwy w działaniu, ale nie potwierdza przyczyny.",
-        "Usługi Apple, w tym iCloud, App Store i Apple Music, dotknięte awarią Sarah Perez 10:55 czasu PST · 17 listopada 2026 r. Po niedawnej serii przerw technologicznych, przerw w świadczeniu usług i chaosu w lotach w tym tygodniu teraz to klienci Apple borykają się z problemami technicznymi.",
-        "Strona Stan systemu producenta iPhone'a wskazuje, że występują problemy z usługami Konto i logowanie w iCloud, wpływające na „wszystkich użytkowników”, co może spowodować spowolnienie usługi lub jej niedostępność."
+        "Wartość prywatnych inwestycji Nvidii wzrosła prawie trzykrotnie w ciągu ostatnich dziewięciu miesięcy, do czego przyczyniły się agresywne zawieranie transakcji przez Jensena Huanga i rosnące wyceny jej istniejących spółek portfelowych.",
+        "Udziały start-upów Nvidii wzrosły do ​​65 miliardów dolarów, ale odejście Huanga stawia pod znakiem zapytania przyszłe transakcje Dominic-Madori Davis Marina Temkin 17:44 PST · 17 listopada 2026 Udziały Nvidii w prywatnych spółkach nadal rosną: we wtorek ujawniono, że ich udziały wynoszą obecnie 65,5 miliardów dolarów, w porównaniu z 22 miliardami dolarów zgłoszonymi w styczniu.",
+        "Wzrost obejmuje zarówno nowe inwestycje, jak i znaczne marże istniejących spółek portfelowych."
       ],
       "extended_paragraphs": [
-        "Strona stanu Apple potwierdza, że w jego usługach występują przerwy w działaniu, ale nie potwierdza przyczyny.",
-        "Usługi Apple, w tym iCloud, App Store i Apple Music, dotknięte awarią Sarah Perez 10:55 czasu PST · 17 listopada 2026 r. Po niedawnej serii przerw technologicznych, przerw w świadczeniu usług i chaosu w lotach w tym tygodniu teraz to klienci Apple borykają się z problemami technicznymi.",
-        "Strona Stan systemu producenta iPhone'a wskazuje, że występują problemy z usługami Konto i logowanie w iCloud, wpływające na „wszystkich użytkowników”, co może spowodować spowolnienie usługi lub jej niedostępność. Strona wskazuje, że problemy występują również w App Store, AppleCare na urządzeniu i Apple Music.",
-        "Podobnie jak wszystkie duże firmy technologiczne, Apple boryka się czasami z przestojami i innymi problemami technicznymi wpływającymi na usługi w chmurze. Jednak dzisiejsze problemy są prawdopodobnie bardziej zauważalne dla użytkowników końcowych, ponieważ problemy z iCloud mogą prowadzić do problemów z logowaniem do konta. Może to spowodować, że Twój iPhone poprosi o podanie Twojego Apple ID i hasła, a inne próby zalogowania się do usług przy użyciu informacji o koncie Apple mogą zakończyć się niepowodzeniem.",
-        "Na Reddicie niektórzy ludzie zauważyli również, że nie mogli aktywować nowego iPhone'a, co prawdopodobnie jest związane z bieżącymi problemami."
+        "Wartość prywatnych inwestycji Nvidii wzrosła prawie trzykrotnie w ciągu ostatnich dziewięciu miesięcy, do czego przyczyniły się agresywne zawieranie transakcji przez Jensena Huanga i rosnące wyceny jej istniejących spółek portfelowych.",
+        "Udziały start-upów Nvidii wzrosły do ​​65 miliardów dolarów, ale odejście Huanga stawia pod znakiem zapytania przyszłe transakcje Dominic-Madori Davis Marina Temkin 17:44 PST · 17 listopada 2026 Udziały Nvidii w prywatnych spółkach nadal rosną: we wtorek ujawniono, że ich udziały wynoszą obecnie 65,5 miliardów dolarów, w porównaniu z 22 miliardami dolarów zgłoszonymi w styczniu. Wzrost obejmuje zarówno nowe inwestycje, jak i znaczne marże istniejących spółek portfelowych.",
+        "W samym tylko ostatnim kwartale firma zainwestowała 16 miliardów dolarów w akcje, a w ciągu ostatnich dziewięciu miesięcy roku obrotowego – 58 miliardów dolarów. Kwota ta obejmuje zakup udziałów w spółkach publicznych i prywatnych, ale pokazuje, jak producent chipów poczynił ogromne zakłady w ciągu roku, szczególnie w porównaniu z rokiem ubiegłym; w listopadzie 2025 r. firma zgłosiła, że ​​w ciągu pierwszych dziewięciu miesięcy tego roku podatkowego wydała 5 miliardów dolarów na zakup akcji.",
+        "Nie jest jednak jasne, czy wzrost ten będzie kontynuowany pod rządami tymczasowego dyrektora generalnego i następcy Jensena Huanga.",
+        "Pod koniec 2023 roku Nvidia oświadczyła, że ​​celem jej inwestycji korporacyjnych jest rozszerzenie ekosystemu sztucznej inteligencji poprzez wspieranie start-upów, które uważa za „zmieniających zasady gry i animatorów rynku”. Według PitchBook w ciągu prawie trzech lat producent chipów zainwestował w prawie 350 startupów. Firmy wspierane przez Nvidię to Anthropic, OpenAI; neolaba, takie jak Thinking Machines i Reflection; neocloudy, takie jak Lambda, Nscale i Crusoe; a także inne firmy rozwijające infrastrukturę AI, start-upy i aplikacje z zakresu robotyki."
       ]
     },
     {
-      "id": "tech-6-898a49",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "MEDIUM",
+      "id": "tech-4-16ae74",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Google będzie prowadzić czaty Gemini przez 2 miesiące zamiast 72 godzin, nawet przy wyłączonej historii",
-      "original_title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 115,8 miliarda dolarów, 108 miliardów dolarów, 130 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "115,8 miliarda dolarów",
+        "108 miliardów dolarów",
+        "130 miliardów dolarów"
+      ],
+      "title": "Nvidia obiecuje, że przychody będą nadal rosły – na razie",
+      "original_title": "Nvidia promises that revenue will keep soaring — for now",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:48",
+      "time": "00:16",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800",
+      "source_url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Aktualizacja Google Gemini wydłużająca przechowywanie czatów zostanie wprowadzona na całym świecie w nadchodzących tygodniach.",
-        "Google będzie przechowywać czaty Gemini przez 2 miesiące z 72 godzin, nawet przy wyłączonej historii Jagmeet Singh 10:48 PST · 17 listopada 2026 r. Google wydłuża czas przechowywania tymczasowych czatów Gemini i rozmów prowadzonych z wyłączoną historią czatów do około dwóch miesięcy, twierdząc, że zmiana ma na celu poprawę bezpieczeństwa i ochrony w miarę zwiększania się wydajności systemów AI.",
-        "Według zarchiwizowanej wersji z 12 listopada zmiana, która w nadchodzących tygodniach zostanie wprowadzona na całym świecie w aplikacji Gemini, oznacza znaczny wzrost w porównaniu z poprzednim 72-godzinnym okresem przechowywania wymienionym w Centrum prywatności aplikacji Google Gemini."
+        "Pomimo zamieszania, w jakim Nvidia znalazła się po odejściu zhańbionego założyciela i dyrektora generalnego Jensena Huanga, firma prognozowała, że passa rekordowych przychodów nie zakończy się.",
+        "Nvidia obiecuje, że przychody będą nadal rosły — na razie Julie Bort 16:16 PST · 17 listopada 2026 Pomimo zamieszania w Nvidii po odejściu jej zhańbionego założyciela i dyrektora generalnego Jensena Huanga, firma — zgodnie z oczekiwaniami — przedstawiła we wtorek solidny kwartał.",
+        "Co ważniejsze, Nvidia zapewniła inwestorów, że passa rekordowych przychodów nie zostanie przerwana."
       ],
       "extended_paragraphs": [
-        "Aktualizacja Google Gemini wydłużająca przechowywanie czatów zostanie wprowadzona na całym świecie w nadchodzących tygodniach.",
-        "Google będzie przechowywać czaty Gemini przez 2 miesiące z 72 godzin, nawet przy wyłączonej historii Jagmeet Singh 10:48 PST · 17 listopada 2026 r. Google wydłuża czas przechowywania tymczasowych czatów Gemini i rozmów prowadzonych z wyłączoną historią czatów do około dwóch miesięcy, twierdząc, że zmiana ma na celu poprawę bezpieczeństwa i ochrony w miarę zwiększania się wydajności systemów AI.",
-        "Według zarchiwizowanej wersji z 12 listopada zmiana, która w nadchodzących tygodniach zostanie wprowadzona na całym świecie w aplikacji Gemini, oznacza znaczny wzrost w porównaniu z poprzednim 72-godzinnym okresem przechowywania wymienionym w Centrum prywatności aplikacji Google Gemini.",
-        "Dla porównania OpenAI twierdzi, że może przechowywać tymczasowe czaty w ChatGPT do 30 dni, podczas gdy Anthropic domyślnie przechowuje czaty incognito w Claude przez 30 dni. Firmy mogą jednak przechowywać niektóre dane dłużej ze względów prawnych lub bezpieczeństwa albo w celu zbadania naruszeń zasad.",
-        "Google nie odpowiedział na pytania dotyczące przyczyn zmiany i tego, czy wpłynie to na sposób uzyskiwania dostępu do rozmów lub ich przeglądania, zamiast tego wskazał post na blogu, w którym stwierdzono, że czaty są prowadzone dłużej, aby odpowiadać użytkownikom, przetwarzać opinie oraz chronić swoje usługi i użytkowników. Zaktualizowane centrum prywatności Gemini Apps również podaje potencjalne awarie systemu jako powód zatrzymywania czatów i twierdzi, że tymczasowe rozmowy nie są wykorzystywane do uczenia modeli sztucznej inteligencji."
+        "Pomimo zamieszania, w jakim Nvidia znalazła się po odejściu zhańbionego założyciela i dyrektora generalnego Jensena Huanga, firma prognozowała, że passa rekordowych przychodów nie zakończy się.",
+        "Nvidia obiecuje, że przychody będą nadal rosły — na razie Julie Bort 16:16 PST · 17 listopada 2026 Pomimo zamieszania w Nvidii po odejściu jej zhańbionego założyciela i dyrektora generalnego Jensena Huanga, firma — zgodnie z oczekiwaniami — przedstawiła we wtorek solidny kwartał. Co ważniejsze, Nvidia zapewniła inwestorów, że passa rekordowych przychodów nie zostanie przerwana.",
+        "We wtorek Colette Kress, obecnie dyrektor finansowa, tymczasowa dyrektor generalna, odnotowała przychody w wysokości 115,8 miliarda dolarów, co oznacza wzrost o 103% w porównaniu z kwartałem ubiegłego roku i nieco powyżej oczekiwań firmy. Nvidia powiedziała Wall Street, że w trzecim kwartale roku fiskalnego 2027 spodziewa się przychodów na poziomie 108 miliardów dolarów. Kress prognozował także jeszcze większy czwarty kwartał, w którym przychody mają osiągnąć 130 miliardów dolarów, plus minus 3%.",
+        "„Podnosimy naszą prognozę na rok finansowy 2028. Oczekujemy, że przychody wzrosną o około 75% rok do roku, w porównaniu z 70% i w stosunku do obecnej wyższej podstawy dla roku fiskalnego 2027” – powiedział Kress we wtorek podczas kwartalnej telekonferencji. „Nasza prognoza uwzględnia gotowość centrum danych, siłę i trwałość popytu klientów końcowych oraz dostęp naszych klientów do kapitału”.",
+        "Firma przypomniała także inwestorom, że część ze swoich miliardów w gotówce przeznaczyła na odkupienie akcji. We wrześniu 2026 roku Nvidia zwiększyła swój program skupu akcji o 150 miliardów dolarów. W tym kwartale wydał 28,1 miliarda dolarów na własne akcje, a w portfelu pozostało kolejne 227,3 miliarda dolarów na dodatkowe wykupy."
       ]
     },
     {
-      "id": "tech-8-40401f",
+      "id": "tech-6-4c6147",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
       "market_impact": "MEDIUM",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Ludzkość przygotowuje się na inwazję obcych w zwiastunie 3 Body Problem S2",
-      "original_title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 100 milionów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "100 milionów dolarów"
+      ],
+      "title": "Zwolenniczka Stripe, firma Atomico, wzywa Europę do opowiedzenia się za swoimi historiami sukcesu",
+      "original_title": "Stripe backer Atomico calls for Europe to own its success stories",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:26",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg",
-      "image_source": "Fot. / Źródło: Ars Technica",
+      "time": "00:01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Tom-Wehmeier-Atomico.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Nie przebyli 24 bilionów mil, aby negocjować.",
-        "Przychodzą, aby nas eksterminować.",
-        "\" Stworzony przez Davida Benioffa, D.B."
+        "W Europie działa wiele najszybciej rozwijających się firm wszechczasów, jak podkreśliła doświadczona firma VC Atomico w swoim najnowszym rocznym raporcie o stanie technologii w Europie.",
+        "Firma wspierająca Stripe, Atomico, wzywa Europę do posiadania historii sukcesu Anna Heim 16:01 PST · 17 listopada 2026 r. W Europie działa wiele najszybciej rozwijających się firm wszech czasów, jak podkreśliła doświadczona firma VC Atomico w swoim najnowszym rocznym raporcie o stanie technologii europejskiej.",
+        "W raporcie zauważono na przykład, że firmy takie jak Black Forest Labs i Microagi osiągnęły przychody w wysokości 100 milionów dolarów w ciągu miesięcy, a nie lat."
       ],
       "extended_paragraphs": [
-        "\"Obudź się! Nie przebyli 24 bilionów mil, aby negocjować. Przychodzą, aby nas eksterminować. \"",
-        "Stworzony przez Davida Benioffa, D.B. Weissa („Gra o tron”) i Alexandra Woo („Czysta krew”), pierwszy sezon miał dwie główne ramy czasowe. We wcześniejszej części młoda chińska astrofizyczka Ye Wenjie (Rosalind Chao) była świadkiem pobicia swojego ojca przez Czerwoną Gwardię podczas rewolucji kulturalnej. Wymyśliłeś sposób wysłania międzygwiezdnej wiadomości do potencjalnych cywilizacji pozaziemskich, otrzymując odpowiedź od planety zwanej Trisolaris.",
-        "Planeta miała trzy słońca, które siały spustoszenie na Trisolaris poprzez nieprzewidywalne „chaotyczne okresy” – stąd tytuł powieści, który nawiązuje do klasycznego problemu mechaniki niebieskiej. Pomimo ostrzeżenia, że ​​kosmici zamierzają najechać i podbić Ziemię, Ye odpowiedział na wiadomość i zaprosił ich do tego, zgorzkniały i rozczarowany stanem świata. W końcu została uznaną profesorką (Zine Tseng grał starszą wersję).",
-        "W dzisiejszych czasach konsekwencje fatalnej decyzji Ye zaczęły się ujawniać, począwszy od serii tajemniczych samobójstw naukowców, z których wielu posiadało wysoce zaawansowane zestawy do gier VR. Wśród zabitych: fizyk cząstek elementarnych o imieniu Vera Ye (córka Ye Wenjie). Pięciu jej byłych uczniów (znanych jako Oxford Five) połączyło siły, aby dowiedzieć się, co się dzieje, ostatecznie wplątując się w globalną walkę o ocalenie Ziemi przed najeżdżającymi Trisolarianami (lub San-Ti). Inna frakcja kultu ludzkiego była równie zdecydowana umożliwić inwazję San-Ti, wierząc, że zostanie oszczędzona w nagrodę, podczas gdy Ye Wenjie nadal wierzył, że cała rasa ludzka zasługuje na unicestwienie.",
-        "Drugi sezon będzie adaptacją drugiej powieści z serii, Ciemny las, a trzecia książka, Koniec śmierci, posłuży jako materiał źródłowy dla trzeciego sezonu. Według oficjalnego podsumowania S2: \"W miarę zbliżania się inwazji obcych ludzkość przygotowuje się na spotkanie z nimi - na Ziemi i poza nią. Podczas gdy flota kosmiczna wyrusza w misję obejmującą stulecia, tajemnica zamknięta w umyśle jednego człowieka może być jedyną nadzieją ludzkości na przetrwanie.\""
+        "W Europie działa wiele najszybciej rozwijających się firm wszechczasów, jak podkreśliła doświadczona firma VC Atomico w swoim najnowszym rocznym raporcie o stanie technologii w Europie.",
+        "Firma wspierająca Stripe, Atomico, wzywa Europę do posiadania historii sukcesu Anna Heim 16:01 PST · 17 listopada 2026 r. W Europie działa wiele najszybciej rozwijających się firm wszech czasów, jak podkreśliła doświadczona firma VC Atomico w swoim najnowszym rocznym raporcie o stanie technologii europejskiej.",
+        "W raporcie zauważono na przykład, że firmy takie jak Black Forest Labs i Microagi osiągnęły przychody w wysokości 100 milionów dolarów w ciągu miesięcy, a nie lat. „Myślę, że możemy odrzucić pogląd, że istnieje zasadniczy powód lub ograniczenie możliwości skalowania przełomowej firmy stąd w Europie” – powiedział TechCrunch partner Atomico i szef wywiadu Tom Wehmeier (na zdjęciu).",
+        "Jednak firma VC założona przez Niklasa Zennströma ze Skype'a chciałaby zobaczyć jeszcze więcej — a w tym roku wzywa Europę, aby to „zbudowała” i „skalowała”, ale także „posiadała to”. W ten sposób można życzyć tym firmom, aby dłużej pozostały europejskie. Istnieje jednak również wrażenie, że ten sukces nie został wystarczająco doceniony, być może przyćmiony głośniejszymi wezwaniami do ulepszeń.",
+        "Wehmeier, główny autor raportu, szybko wyraził opinię, że „polityka, zaopatrzenie i kapitał nie rozwijają się z taką samą prędkością, jak nasi założyciele”. Powiedział jednak, że sektor technologiczny powinien bronić się w inspirujący sposób."
       ]
     },
     {
-      "id": "tech-1-626d27",
+      "id": "tech-7-9a674d",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Apple ma ogromne problemy. Nie działają kluczowe usługi",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:05",
+      "source": "Antyweb Innowacje",
+      "source_url": "https://antyweb.pl/apple-ma-ogromne-problemy-nie-dzialaja-kluczowe-uslugi",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/10/apple-store-2.jpg",
+      "image_source": "Fot. / Źródło: Antyweb Innowacje",
+      "lead_story": false,
+      "summary_points": [
+        "Użytkownicy urządzeń z nadgryzionym jabłkiem oraz pracownicy giganta z Cupertino mierzą się z jedną z najpoważniejszych awarii infrastruktury w ostatnich latach.",
+        "Wygląda na to, że awaria Apple spowodowana prawdopodobnie przez wewnętrzną aktualizację została już rozwiązana i wszystkie usługi wróciły do działania.",
+        "Na stronie statusowej można jeszcze zauważyć, że pomniejsze problemy mogą występować z usługą iCloud."
+      ],
+      "extended_paragraphs": [
+        "Użytkownicy urządzeń z nadgryzionym jabłkiem oraz pracownicy giganta z Cupertino mierzą się z jedną z najpoważniejszych awarii infrastruktury w ostatnich latach.",
+        "Wygląda na to, że awaria Apple spowodowana prawdopodobnie przez wewnętrzną aktualizację została już rozwiązana i wszystkie usługi wróciły do działania. Na stronie statusowej można jeszcze zauważyć, że pomniejsze problemy mogą występować z usługą iCloud.",
+        "Problem ma charakter globalny i wykracza daleko poza standardowe trudności z dostępem do pojedynczych aplikacji. Tym razem usterka sparaliżowała zarówno kluczowe usługi sieciowe dla konsumentów i twórców, jak i codzienne funkcjonowanie fizycznych salonów sprzedaży oraz wewnętrznych systemów korporacyjnych.",
+        "Problemy nie ominęły również segmentu rozrywki i wsparcia technicznego. Przestały działać usługi Apple Music, Apple Music API, Apple Music Connect oraz Apple Music for Artists, a twórcy treści audio stracili dostęp do platformy Apple Podcasts Connect. Dodatkowo firma potwierdziła niedostępność usługi AppleCare on Device, przez co klienci nie mogą zarządzać ochroną serwisową bezpośrednio ze swoich urządzeń. Z danych serwisu Downdetector wynika, że fala zgłoszeń zaczęła gwałtownie rosnąć około godziny 17:30 czasu polskiego, szybko osiągając tysiące raportów.",
+        "Skala obecnej awarii jest wyjątkowa, ponieważ usterka przeniosła się ze świata cyfrowego bezpośrednio do placówek stacjonarnych. Z relacji klientów odwiedzających oficjalne salony Apple Store, wynika, że wewnętrzne systemy sprzedażowe i serwisowe całkowicie przestały odpowiadać. Pracownicy nie są w stanie realizować transakcji, wydawać zamówień ani przyjmować sprzętu do naprawy, przez co obsługa zmuszona jest prosić odwiedzających o powrót w późniejszym terminie."
+      ]
+    },
+    {
+      "id": "tech-3-626d27",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1607,39 +1647,7 @@
       ]
     },
     {
-      "id": "tech-2-60a5a2",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Google rozszerza dostęp do Gemini Tasks, które mogą pomóc w rozmowach, zakupach",
-      "original_title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:02",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Tryb zadań Gemini może pomóc użytkownikom koordynować rozmowy, logować się do stron internetowych, a nawet dokonywać zakupów w imieniu użytkownika.",
-        "Google rozszerza wdrażanie Zadań, przełącznika w Gemini, który przekształca chatbota w bardziej aktywnego pomocnika.",
-        "W przeciwieństwie do czatu Gemini, który pozwala użytkownikom jedynie rozmawiać z asystentem AI Google w celach informacyjnych, Zadania umożliwiają aplikacji wykonywanie podstawowych funkcji sekretarskich, zastępując ją czymś w rodzaju osobistego asystenta."
-      ],
-      "extended_paragraphs": [
-        "Tryb zadań Gemini może pomóc użytkownikom koordynować rozmowy, logować się do stron internetowych, a nawet dokonywać zakupów w imieniu użytkownika.",
-        "Google rozszerza wdrażanie Zadań, przełącznika w Gemini, który przekształca chatbota w bardziej aktywnego pomocnika.",
-        "W przeciwieństwie do czatu Gemini, który pozwala użytkownikom jedynie rozmawiać z asystentem AI Google w celach informacyjnych, Zadania umożliwiają aplikacji wykonywanie podstawowych funkcji sekretarskich, zastępując ją czymś w rodzaju osobistego asystenta.",
-        "Jak konkretnie można z niego skorzystać? Google twierdzi, że aplikacja może dzwonić do firm i umawiać się na spotkania w imieniu użytkowników; może także dokonywać dla nich zakupów za pośrednictwem Google Pay, a nawet bezpiecznie logować się na stronach internetowych, jeśli zostanie o to poproszony.",
-        "W poście na blogu Josh Woodword, wiceprezes Gemini, twierdzi, że niedawno korzystał z tej funkcji, aby dzwonić do lokalnych dealerów samochodowych i umawiać się na wizytę serwisową dla swojego rodzinnego minivana. Mówi, że użył go również do analizy swoich rachunków za prąd."
-      ]
-    },
-    {
-      "id": "tech-3-8211ac",
+      "id": "tech-5-8211ac",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1671,53 +1679,53 @@
       ]
     },
     {
-      "id": "tech-5-f24752",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
+      "id": "tech-8-98e274",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Microsoft (NASDAQ: MSFT) (Chmura & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Natural Cycles pokazuje swój pierwszy inteligentny pierścień. Jest stworzony, by sprostać kobiecym potrzebom",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "16:30",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/natural-cycles-pokazuje-swoj-pierwszy-inteligentny-pierscien",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/natural-cycles-smart-ring-5.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "title": "Copilot to „nowy system operacyjny do pracy”, w którym teraz działa Office",
+      "original_title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:27",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+      "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "Inteligentne pierścienie coraz śmielej rozgaszczają się na rynku wearables, trafiając do tych osób, które mają już trochę dość obecności tylu ekranów w swoim życiu i chcą po prostu czegoś, co będzie monitorowało organizm bez powiadomień.",
-        "Miniaturowa forma, lekkość i design przypominający raczej biżuterię to jednak nie wszystko, czego poszukujemy, dlatego producenci dwoją się i troją, […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Natural Cycles pokazuje swój pierwszy inteligentny pierścień.",
-        "Jest stworzony, by sprostać kobiecym potrzebom \" ?"
+        "Word, Excel i PowerPoint są teraz dostępne w Copilocie; Następni są zawsze aktywni agenci.",
+        "Ogłoszenie stanowi uderzające odwrócenie sposobu, w jaki tradycyjnie korzystaliśmy z oprogramowania.",
+        "Zamiast aplikacji takiej jak Word, która będzie atrakcją i Clippy, asystenta, który pomoże Ci z niej korzystać, Microsoft przewiduje, że nowe integracje Copilot sprawią, że agenci będą kierować wszystkim, a pakiety oprogramowania będą działać jak strzelba."
       ],
       "extended_paragraphs": [
-        "Inteligentne pierścienie coraz śmielej rozgaszczają się na rynku wearables, trafiając do tych osób, które mają już trochę dość obecności tylu ekranów w swoim życiu i chcą po prostu czegoś, co będzie monitorowało organizm bez powiadomień. Miniaturowa forma, lekkość i design przypominający raczej biżuterię to jednak nie wszystko, czego poszukujemy, dlatego producenci dwoją się i troją, […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Natural Cycles pokazuje swój pierwszy inteligentny pierścień. Jest stworzony, by sprostać kobiecym potrzebom \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Najnowszym przykładem jest tu firma Natural Cycles, która zaprezentowała swój pierwszy pierścień o nazwie NC° Ring. Marka znana z certyfikowanej aplikacji wspierającej bezhormonalną kontrolę płodności kieruje swój smart ring do kobiet, zwłaszcza swoich użytkowniczek, stąd też obecność konkretnych funkcji na pokładzie.",
-        "Natural Cycles zauważyło, że około 80 procent aktywnych użytkowniczek ich platformy i tak zbiera dane o temperaturze ciała za pomocą elektroniki noszonej (dotychczas głównie przy użyciu opaski na nadgarstek NC° Band), to można dać im coś, co będzie jeszcze wygodniejsze w noszeniu.",
-        "W ten sposób zaprojektowano urządzenie stanowiące dyskretną alternatywę dla tradycyjnego mierzenia temperatury rano lub spania w opasce na ręku. Pierścień rejestruje temperaturę ciała oraz ruch w trakcie snu, a po przebudzeniu synchronizuje odczyty z aplikacją, która na tej podstawie wyznacza dzienny status płodności (według danych producenta metoda ta wykazuje 93-procentową skuteczność przy typowym stosowaniu i posiada rejestrację wyrobu medycznego m.in. w Wielkiej Brytanii oraz Kanadzie).",
-        "Projektanci pod kierownictwem Manuela Åberga Cobo postawili sobie za cel stworzenie sprzętu, o którym można po prostu zapomnieć na co dzień – także wtedy, gdy nosi się go tuż obok klasycznej biżuterii. Według deklaracji firmy NC° Ring jest obecnie najlżejszym i najwęższym inteligentnym pierścieniem na rynku i zależności od wybranego rozmiaru waży zaledwie od 1,9 grama, a jego szerokość wynosi tylko 5,8 milimetra."
+        "Word, Excel i PowerPoint są teraz dostępne w Copilocie; Następni są zawsze aktywni agenci.",
+        "Ogłoszenie stanowi uderzające odwrócenie sposobu, w jaki tradycyjnie korzystaliśmy z oprogramowania. Zamiast aplikacji takiej jak Word, która będzie atrakcją i Clippy, asystenta, który pomoże Ci z niej korzystać, Microsoft przewiduje, że nowe integracje Copilot sprawią, że agenci będą kierować wszystkim, a pakiety oprogramowania będą działać jak strzelba. Aplikacje staną się komponentami wtyczek pracy agenta, wspartymi warstwą wiedzy organizacyjnej, która czerpie kontekst z e-maili, spotkań, kalendarzy, czatów i plików. Użytkownicy będą teraz mogli tworzyć dokumenty, arkusze kalkulacyjne i prezentacje bezpośrednio w Copilocie, a powstałe pliki będzie można edytować w odpowiednich aplikacjach Office.",
+        "Wdrożenie stanowi ważny krok w kierunku przeprojektowania Copilot, o którym firma ogłosiła po raz pierwszy we wrześniu. Części tej wizji stają się obecnie „powszechnie dostępne”, jak to ujął Nadella, wraz z pojawieniem się autonomicznych agentów i nowych narzędzi zarządzania.",
+        "Według Microsoftu Copilot Autopilot (nie mylić z Windows Autopilot) to „trwały, proaktywny agent zapewniający osobistą produktywność”. W skrócie Autopilot to autonomiczny agent AI oparty na chmurze, któremu użytkownicy mogą delegować obowiązki, a nie tylko pojedyncze zadania. Autopilot może zostać upoważniony do pracy między usługami takimi jak poczta e-mail i kalendarze oraz do wykonywania zadań mu przypisanych w ramach swojej roli. Rozwiązanie Autopilot będzie korzystać z rozliczeń opartych na użyciu za pośrednictwem kredytów Copilot, ale ostateczna cena nie została ogłoszona przed powszechną dostępnością.",
+        "Podczas przemówienia programowego ogłoszono również, że ogólnie dostępna jest Microsoft IQ – platforma wywiadowcza zawierająca Work IQ – warstwę kontekstową, która pomaga agentom zrozumieć komunikację, relacje i bieżącą pracę firmy. Nadella określił Work IQ jako być może najcenniejszą bazę danych firmy: „Posiada głębokie zrozumienie ludzi, ich relacji z innymi ludźmi, twoich e-maili, twoich spotkań, czatów i projektów, które składają się na całą strukturę pracy”. To, czy firmy chcą, aby autonomiczni agenci mieli dostęp do wewnętrznych dokumentów i danych dotyczących wiadomości, będzie musiało zostać ustalone w drodze ich własnego wewnętrznego przeglądu IT."
       ]
     }
   ],
   "swiat": [
     {
       "id": "swiat-1-5d7a76",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
       "market_impact": "MEDIUM",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Surowce Energetyczne” (Ropa Naftowa) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
       "title": "Most Krymski Putina częściowo się zawali po tym, jak Zełenski powitał „bezprecedensowy” atak Ukrainy",
       "original_title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:56",
+      "time": "21:24",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
@@ -1732,8 +1740,8 @@
         "Ukraina twierdzi, że planowanie ataku rakietowego i dronów na strategiczny most na zaanektowanym przez Rosję Krymie zajęło tygodnie.",
         "Ukraina poważnie uszkodziła krytyczny most łączący Rosję z okupowanym Krymem, co według prezydenta Wołodymyra Zełenskiego było „operacją bezprecedensową” przygotowywaną od tygodni.",
         "Zdjęcia udostępnione przez ukraińskie władze pokazują, że część mostu krymskiego zawaliła się do wody, zadając logistyczny i symboliczny cios wysiłkom wojennym Moskwy.",
-        "Kreml oświadczył, że odbuduje most „lepiej niż wcześniej” i że prezydent Rosji Władimir Putin został poinformowany o nocnym ataku.",
-        "W innym miejscu burmistrz Kijowa Witalij Kliczko powiedział, że mosty Pivnichnyi (północny) i Pivdennyi (południowy) – kluczowe przejścia na rzece Dniepr – zostały zamknięte po nocnym uderzeniu Rosji w stolicę Ukrainy."
+        "Tymczasem w Kijowie burmistrz Witalij Kliczko powiedział, że ruch na mostach Pivnichnyi (północny) i Pivdennyi (południowy) – kluczowych przejściach na rzece Dniepr – został częściowo wznowiony po nocnych rosyjskich strajkach.",
+        "Ukraina od dawna celuje w Most Krymski, który stanowi drogę i kolej dla rosyjskich żołnierzy zmierzających na linię frontu, ale ma trudności z zamknięciem go na stałe."
       ]
     },
     {
@@ -1769,41 +1777,103 @@
       ]
     },
     {
-      "id": "swiat-3-8975a8",
+      "id": "swiat-3-cb4cea",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 30%) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "30%"
-      ],
-      "title": "Trump ląduje w Azji przed rozmowami z prezydentami Rosji i Chin",
-      "original_title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Thomas Markle oskarżony o materiały przedstawiające wykorzystywanie seksualne dzieci na Filipinach",
+      "original_title": "Thomas Markle charged over child sex abuse material in Philippines",
       "is_foreign": true,
       "lang": "EN",
-      "time": "12:54",
+      "time": "22:44",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Prezydent USA powiedział, że będzie otwarty na indywidualne spotkanie z Władimirem Putinem, „jeśli będzie to możliwe”.",
-        "Gdy Trump schodził z Air Force One w Manili, rozłożono czerwony dywan.",
-        "Zespół zagrał jedną z jego ulubionych piosenek, Y.M.C.A., zanim zabrano go helikopterem do hotelu."
+        "Markle przebywa w areszcie w USA po postawieniu zarzutów i wcześniej zaprzeczała wszystkim zarzutom.",
+        "Źródło zdjęcia: biuro szeryfa hrabstwa Pinellas Podpis pod zdjęciem Thomas Markle również został oskarżony w USA Policja na Filipinach oskarżyła Thomasa Markle seniora, ojca Meghan, księżnej Sussex, o posiadanie i zamiar rozpowszechniania materiałów przedstawiających wykorzystywanie seksualne dzieci.",
+        "Zarzuty postawiono w poniedziałek – powiedział BBC prokurator prowincji Cebu Graeme Elmido."
       ],
       "extended_paragraphs": [
-        "Prezydent USA powiedział, że będzie otwarty na indywidualne spotkanie z Władimirem Putinem, „jeśli będzie to możliwe”.",
-        "Gdy Trump schodził z Air Force One w Manili, rozłożono czerwony dywan. Zespół zagrał jedną z jego ulubionych piosenek, Y.M.C.A., zanim zabrano go helikopterem do hotelu.",
-        "Trump po raz pierwszy spotkał się na szczycie ASEAN z amerykańskimi partnerami z Quad – Narendrą Modim z Indii, którego określił jako „bardzo twardego człowieka”, Sanae Takaichi z Japonii, która „może być jeszcze twardsza” oraz Anthonym Albanese z Australii.",
-        "„Nasze kraje to cztery strony wolnego, otwartego, stabilnego i zamożnego Indo-Pacyfiku” – powiedział amerykański prezydent.",
-        "„Mamy znakomite relacje i ściśle współpracujemy… mój telefon jest zawsze otwarty” – dodał Trump."
+        "Markle przebywa w areszcie w USA po postawieniu zarzutów i wcześniej zaprzeczała wszystkim zarzutom.",
+        "Źródło zdjęcia: biuro szeryfa hrabstwa Pinellas Podpis pod zdjęciem Thomas Markle również został oskarżony w USA",
+        "Policja na Filipinach oskarżyła Thomasa Markle seniora, ojca Meghan, księżnej Sussex, o posiadanie i zamiar rozpowszechniania materiałów przedstawiających wykorzystywanie seksualne dzieci.",
+        "Zarzuty postawiono w poniedziałek – powiedział BBC prokurator prowincji Cebu Graeme Elmido.",
+        "Na początku tego miesiąca 82-letnia Markle została oddzielnie aresztowana i oskarżona w USA o posiadanie materiałów przedstawiających wykorzystywanie seksualne dzieci. FBI twierdzi, że agenci po przeszukaniu magazynów wynajmowanych przez Markle zajęli około 78 przedmiotów, w tym negatywy filmowe, slajdy i książki, które ich zdaniem zawierały materiały przedstawiające wykorzystywanie seksualne dzieci."
       ]
     },
     {
-      "id": "swiat-4-39525a",
+      "id": "swiat-4-e98eb3",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Joe Biden z podziwem o Polsce. \"Są zaciekle niepodlegli\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "23:07",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/joe-biden-z-podziwem-o-polsce-sa-zaciekle-niepodlegli/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/gc/gc31xen74gauwkbirmashpscaqv5eyd5.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Były prezydent Joe Biden z podziwem opisał zmiany, które przeżyła Warszawa oraz postawę Polski wobec wojny w Ukrainie w wydanych wspomnieniach pt.",
+        "Odniósł się też do mistyfikacji podczas swojej podróży do Kijowa przez Rzeszów i Przemyśl.",
+        "Wydana we wtorek książka Bidena opisuje kluczowe momenty jego prezydentury, z czego znacząca część dotyczy wojny w Ukrainie ."
+      ],
+      "extended_paragraphs": [
+        "Były prezydent Joe Biden z podziwem opisał zmiany, które przeżyła Warszawa oraz postawę Polski wobec wojny w Ukrainie w wydanych wspomnieniach pt. Promise me, America. Odniósł się też do mistyfikacji podczas swojej podróży do Kijowa przez Rzeszów i Przemyśl.",
+        "Wydana we wtorek książka Bidena opisuje kluczowe momenty jego prezydentury, z czego znacząca część dotyczy wojny w Ukrainie . We wspomnieniach kilkakrotnie pojawiają się też polskie wątki , w każdym przypadku w pozytywnym kontekście .",
+        "Najbardziej rozległy fragment dotyczy drugiej wizyty prezydenta USA w Warszawie , którą odbył tuż po odwiedzeniu Kijowa w pierwszą rocznicę pełnoskalowej napaści Rosji. Biden z podziwem odnosi się do przemiany polskiej stolicy.",
+        "\"Za każdym razem, gdy przyjeżdżałem do Warszawy, podziwiałem jej przemianę z szarego miasta, jakim była przez długie dekady rosyjskiej dominacji, w porywające centrum kulturalne i gospodarcze nowej Europy . Trudno było uwierzyć, że kiedyś podpisano tu Układ Warszawski\" - wspominał Biden.",
+        "Dodał, że Polska jest \"niezawodnym członkiem NATO\" , co jego zdaniem mierziło Władimira Putina."
+      ]
+    },
+    {
+      "id": "swiat-5-d6ee56",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Big Tech” (Apple (NASDAQ: AAPL)) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Apple informuje o awarii. Problemy z szeregiem aplikacji",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:55",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/apple-informuje-o-awarii-problemy-z-szeregiem-aplikacji/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/cr/crz9f18j1ztu7zfchvu1mkdgwteypq2g.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Koncern Apple poinformował we wtorek, że szereg usług, w tym sklep z aplikacjami AppStore i iCloud, zmaga się z awariami.",
+        "Wcześniej pojawiły się też problemy z funkcjonowaniem Agencji Bezpieczeństwa Narodowego (NSA).",
+        "To kolejne problemy z systemami informatycznymi w ostatnim czasie w USA."
+      ],
+      "extended_paragraphs": [
+        "Koncern Apple poinformował we wtorek, że szereg usług, w tym sklep z aplikacjami AppStore i iCloud, zmaga się z awariami. Przyczyna jest nieznana. Wcześniej pojawiły się też problemy z funkcjonowaniem Agencji Bezpieczeństwa Narodowego (NSA). To kolejne problemy z systemami informatycznymi w ostatnim czasie w USA.",
+        "Jak wynika z oficjalnej strony koncernu pokazującej status usług Apple , awaria dotyczy App Store, Apple Care, Apple Music i logowania na kontach iCloud .",
+        "Serwis Downdetector wykazywał też, że tysiące użytkowników zgłosiły również problemy z systemem płatności Apple Pay .",
+        "Firma dotąd nie odniosła się do problemów w komunikacie. Nie jest jasne, na ile rozległe są awarie, ani jakie są przyczyny.",
+        "Jest to kolejna w tym dniu awaria systemu informatycznego po tym, gdy wyłączona z użycia została wewnętrzna sieć łączności Agencji Bezpieczeństwa Narodowego (NSA) , odpowiadającej za kontrwywiad i wywiad cyfrowy."
+      ]
+    },
+    {
+      "id": "swiat-6-39525a",
       "entity_tag": "USA & Bezpieczeństwo",
       "sector": "Geopolityka",
       "market_impact": "LOW",
@@ -1833,75 +1903,11 @@
         "- Dociera do nas wiele interesujących wieści z Moskwy, jednak nie zawsze podchodziłbym do nich z pełną powagą - podkreślił Rutte, pytany o słowa Ławrowa.",
         "- Chciałbym również wyrazić duże uznanie dla działań Francji na rzecz Ukrainy, zarówno w ramach NATO, jak i w relacjach dwustronnych. Trzeba przyznać, że prezydent Macron, jego rząd oraz francuskie siły zbrojne są dla Ukrainy znakomitym partnerem - zaznaczył sekretarz generalny NATO ."
       ]
-    },
-    {
-      "id": "swiat-5-41d49a",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Katastrofa wojskowego samolotu w Rosji. Jest wiele ofiar",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:44",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/katastrofa-rosyjskiego-samolotu-wojskowego-sa-doniesienia-o-licznych-ofiarach/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/xb/xbajkvp6b8cr2avpea6qjodhj3tm15ws.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Rosyjski wojskowy samolot transportowy An-12 rozbił się we wtorek w obwodzie kemerowskim na Syberii.",
-        "Według dziennika Izwiestija zginęło wszystkich 17 osób znajdujących się na pokładzie.",
-        "Rosyjskie media donoszą, że maszyna mogła zapalić się jeszcze w powietrzu."
-      ],
-      "extended_paragraphs": [
-        "Rosyjski wojskowy samolot transportowy An-12 rozbił się we wtorek w obwodzie kemerowskim na Syberii. Według dziennika Izwiestija zginęło wszystkich 17 osób znajdujących się na pokładzie. Rosyjskie media donoszą, że maszyna mogła zapalić się jeszcze w powietrzu. Na miejscu katastrofy pracują służby ratownicze.",
-        "Do k atastrofy rosyjskiego wojskowego samolotu transportowego An-12 doszło we wtorek, 17 listopada, w pobliżu miejscowości Jagunowo w obwodzie kemerowskim na Syberii. Jak podał dziennik \"Izwiestija\", zginęło wszystkich 17 osób znajdujących się na pokładzie.",
-        "Zdarzenie potwierdził gubernator regionu Ilja Sieriediuk. \"Wspólnie z kierownictwem organów ścigania, służb ratowniczych i władz lokalnych zapewniamy pracę specjalistów\" - napisał na Telegramie Sieriediuk.",
-        "Russian Air Force's Antonov An-12 four-engine turboprop transport plane has crashed in Kemerovo Oblast located in central Russia on Tuesday evening. All 17 personnel who were on board have reportedly perished. According to BAZA, the investigators are currently examining three potential causes for the crash: a fuel pump malfunction, a kerosene leak within an engine nacelle leading to a fire, and a failure of the hydraulic system.",
-        "W działania zaangażowano również służby ratownicze Kuzbasu oraz zespoły medycyny katastrof."
-      ]
-    },
-    {
-      "id": "swiat-6-d76610",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Amerykanie ostrzegają przed atakami w Europie. Pilny komunikat",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:49",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/seria-alertow-ambasad-usa-w-europie-ostrzezenia-przed-atakami/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/n3/n3zpbhe1brhdf1bsugbr9sb1t9jcpmiw.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Kolejne ambasady USA w Europie wydają alerty w związku z zagrożeniem terrorystycznym na kontynencie.",
-        "Taki komunikat opublikowały m.in. placówki w Polsce, Wielkiej Brytanii, Niemczech, Ukrainie czy Rosji.",
-        "Autorzy komunikatu zwrócili też uwagę na protesty i alarmy bombowe."
-      ],
-      "extended_paragraphs": [
-        "Kolejne ambasady USA w Europie wydają alerty w związku z zagrożeniem terrorystycznym na kontynencie. Taki komunikat opublikowały m.in. placówki w Polsce, Wielkiej Brytanii, Niemczech, Ukrainie czy Rosji. Autorzy komunikatu zwrócili też uwagę na protesty i alarmy bombowe.",
-        "Już kilkanaście amerykańskich ambasad w całej Europie opublikowało komunikat z ostrzeżeniem dla swoich obywateli. Zagrożenie - według twórców komunikatu - ma mieć charakter \"ogólnoeuropejski\".",
-        "Jeszcze w poniedziałek serwis Newsweek.com wyliczał, że alerty wydane zostały przez 11 placówek, m.in. w Wielkiej Brytanii, Niemczech, Hiszpanii, Irlandii, Portugalii, Bułgarii , a kilka dni wcześniej także Ukrainie, Rosji i Litwie .",
-        "Również na stronie ambasady USA w Warszawie pojawiło się we wtorek ostrzeżenie. Jego autorzy zalecają Amerykanom przebywającym w Europie, żeby w okresie świątecznym zachowywali szczególną ostrożność i zwracali uwagę na własne bezpieczeństwo.",
-        "\"Terroryści, w tym osoby działające w pojedynkę, mogą przeprowadzać ataki bez ostrzeżenia lub z minimalnym wyprzedzeniem\" - podano."
-      ]
     }
   ],
   "sport": [
     {
-      "id": "sport-1-1f62d8",
+      "id": "sport-5-2acccb",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1909,31 +1915,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Źle to wyglądało. Mecz się nie zaczął, a Urban już mógł się złapać za głowę",
+      "title": "Urban ocenił Ligę Narodów. \"Nie tego się spodziewałem\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:19",
+      "time": "22:59",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284705/bylo-tuz-przed-meczem-reprezentant-padl-na-murawe",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afcaa53610001_76690099.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284700/urban-ocenil-lige-narodow-nie-tego-sie-spodziewalem",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afcbcbceecd62_09547304.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Sytuacja z przedmeczowej rozgrzewki we Wrocławiu wyglądała naprawdę groźnie.",
-        "Pod znakiem zapytania stanął występ Nicoli Zalewskiego przeciwko Szwecji.",
-        "Skomentuj Sytuacja z przedmeczowej rozgrzewki we Wrocławiu wyglądała naprawdę groźnie."
+        "- Wyobrażałem sobie, że będziemy grali o wejście do dywizji A poprzez baraże.",
+        "Wszystko nam się sknociło w dwumeczu z Bośnią - mówił Jan Urban po wtorkowym meczu ze Szwecją (1:1).",
+        "1 Komentarz - Wyobrażałem sobie, że będziemy grali o wejście do dywizji A poprzez baraże."
       ],
       "extended_paragraphs": [
-        "Sytuacja z przedmeczowej rozgrzewki we Wrocławiu wyglądała naprawdę groźnie. Pod znakiem zapytania stanął występ Nicoli Zalewskiego przeciwko Szwecji.",
-        "Skomentuj Sytuacja z przedmeczowej rozgrzewki we Wrocławiu wyglądała naprawdę groźnie. Pod znakiem zapytania stanął występ Nicoli Zalewskiego przeciwko Szwecji.",
-        "Podobne zdarzenie miało miejsce w sobotni wieczór, gdy Polska mierzyła się na wyjeździe z Rumunią. Nicola Zalewski zgłosił uraz przed rozpoczęciem spotkania, jednak szybko okazało się, że jest zdolny do gry.",
-        "Skrzydłowy może mówić o pechu, bowiem we wtorek sytuacja się powtórzyła. W trakcie rozgrzewki przed meczem ze Szwecją we Wrocławiu Zalewski nagle padł na murawę i było widać, że zwija się z bólu.",
-        "Lekarz kadry Jacek Jaroszewski od razu pojawił się przy Zalewskim, udzielając mu niezbędnej pomocy. Pozostali reprezentanci Polski oraz Jan Urban mieli nietęgie miny, kiedy podstawowy piłkarz leżał na boisku."
+        "- Wyobrażałem sobie, że będziemy grali o wejście do dywizji A poprzez baraże. Wszystko nam się sknociło w dwumeczu z Bośnią - mówił Jan Urban po wtorkowym meczu ze Szwecją (1:1).",
+        "1 Komentarz - Wyobrażałem sobie, że będziemy grali o wejście do dywizji A poprzez baraże. Wszystko nam się sknociło w dwumeczu z Bośnią - mówił Jan Urban po wtorkowym meczu ze Szwecją (1:1).",
+        "Spektakularny mecz to nie był. Reprezentacja Polski zremisowała we Wrocławiu ze Szwecją 1:1 na zakończenie Ligi Narodów. Biało-czerwoni prowadzili po golu Adriana Benedyczaka, ale wyrównał jeszcze w pierwszej połowie Hugo Larsson.",
+        "Po przerwie Szwedzi byli zespołem o wiele lepszym, a końcowy wynik to zasługa głównie świetnie broniącego Sławomira Abramowicza. Niemniej, ten wynik oraz przegrana Rumunii w Zenicy oznaczają, że Polska utrzymała się w dywizji B.",
+        "Co o tym wszystkim sądzi Jan Urban? - To nie było to, czego się spodziewałem. Szwecja była faworytem i tak się stało - to jest okej, ale wyobrażałem sobie, że będziemy grali o wejście do dywizji A poprzez baraże. Wszystko nam się sknociło w dwumeczu z Bośnią i pretensje mamy do siebie, bo wiemy, że mieliśmy sytuacje, mogliśmy z nimi osiągnąć zdecydowanie lepszy wynik, a nie jeden punkt - stwierdził selekcjoner na konferencji prasowej."
       ]
     },
     {
-      "id": "sport-2-e910c4",
+      "id": "sport-6-e910c4",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1965,71 +1971,135 @@
       ]
     },
     {
-      "id": "sport-8-a60825",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
+      "id": "sport-7-7f2cfe",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
       "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Woods ma powrócić w przyszłym miesiącu po dwóch latach przerwy",
-      "original_title": "Woods set to return next month after two years out",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:54",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/45ef/live/8e1fe4f0-e297-11f1-8dda-8925a81c3da5.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
+      "title": "Jak on tego nie trafił?! To powinna być bramka dla Polaków",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:58",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284744/jak-on-tego-nie-trafil-to-powinna-byc-bramka-dla-polakow",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afcda357aa317_14785065.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Tiger Woods powróci do golfa w grudniu, po raz pierwszy od ponad dwóch lat.",
-        "Woods (50 l.) nie brał udziału w tradycyjnych turniejach rankingowych od Open Championship 2024 w Royal Troon z powodu szeregu problemów poza trasą.",
-        "Piętnastokrotny mistrz turnieju głównego miał za sobą kilka trudnych lat związanych z licznymi kontuzjami i zawirowaniami w życiu osobistym."
+        "Aż trudno uwierzyć, że Sebastian Szymański nie zdobył gola w meczu ze Szwecją w Lidze Narodów UEFA.",
+        "Pomocnik reprezentacji Polski miał trzy dogodne okazje, w tym jedną po przerwie.",
+        "Wówczas jego strzał obronił bramkarz rywali."
       ],
       "extended_paragraphs": [
-        "Tiger Woods powróci do golfa w grudniu, po raz pierwszy od ponad dwóch lat.",
-        "Woods (50 l.) nie brał udziału w tradycyjnych turniejach rankingowych od Open Championship 2024 w Royal Troon z powodu szeregu problemów poza trasą.",
-        "Piętnastokrotny mistrz turnieju głównego miał za sobą kilka trudnych lat związanych z licznymi kontuzjami i zawirowaniami w życiu osobistym.",
-        "Woods będzie gospodarzem przyszłomiesięcznego Hero World Challenge – wydarzenia, które jest częścią harmonogramu PGA Tour, ale nie zapewnia punktów FedEx Cup – i które zostało ogłoszone jako część dla 20 graczy.",
-        "Amerykanin jest jednym z trzech zwolnionych z turnieju na Bahamach wraz z rodakami Rickiem Fowlerem i Garym Woodlandem."
+        "Aż trudno uwierzyć, że Sebastian Szymański nie zdobył gola w meczu ze Szwecją w Lidze Narodów UEFA. Pomocnik reprezentacji Polski miał trzy dogodne okazje, w tym jedną po przerwie. Wówczas jego strzał obronił bramkarz rywali.",
+        "3 Komentarze Aż trudno uwierzyć, że Sebastian Szymański nie zdobył gola w meczu ze Szwecją w Lidze Narodów UEFA. Pomocnik reprezentacji Polski miał trzy dogodne okazje, w tym jedną po przerwie. Wówczas jego strzał obronił bramkarz rywali.",
+        "Przed ostatnim meczem fazy grupowej Ligi Narodów UEFA reprezentacja Polski nie była jeszcze pewna utrzymania w dywizji B. Po sobotniej (14 listopada) porażce z Rumunią 1:2 Biało-Czerwoni mieli zaledwie punkt przewagi nad tym rywalem, który zamykał tabelę grupy B4.",
+        "We wtorek Polacy tylko zremisowali ze Szwecją 1:1. Mimo to zapewnili sobie utrzymanie w dywizji B, ponieważ Rumunia przegrała z Bośnią i Hercegowiną 1:2, choć prowadziła 1:0.",
+        "Choć podopieczni Jana Urbana prezentowali się we Wrocławiu słabiej od gości, mieli swoje okazje bramkowe. Szczególnie zawiódł Sebastian Szymański , który już w pierwszej połowie zmarnował dwie dogodne sytuacje. Najpierw po podaniu Nicoli Zalewskiego uderzył obok bramki, a następnie trafił w poprzeczkę po dośrodkowaniu Oskara Kubiaka."
       ]
     },
     {
-      "id": "sport-6-766308",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "MEDIUM",
+      "id": "sport-1-e2a3e6",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Wynik, który nie zdarza się często. Argentyna postrzelała aż miło",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "01:18",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284747/wynik-ktory-nie-zdarza-sie-czesto-argentyna-postrzelala-az-milo",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afcf63335c811_58359309.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Tym razem skuteczność zdecydowanie dopisała wicemistrzom świata.",
+        "Dziewięć strzałów celnych - siedem goli.",
+        "Argentyna zdemolowała 7:0 Kostarykę."
+      ],
+      "extended_paragraphs": [
+        "Tym razem skuteczność zdecydowanie dopisała wicemistrzom świata. Dziewięć strzałów celnych - siedem goli. Argentyna zdemolowała 7:0 Kostarykę. Do bezbramkowego remisu doszło z kolei w Santiago de Chile.",
+        "Skomentuj Tym razem skuteczność zdecydowanie dopisała wicemistrzom świata. Dziewięć strzałów celnych - siedem goli. Argentyna zdemolowała 7:0 Kostarykę. Do bezbramkowego remisu doszło z kolei w Santiago de Chile.",
+        "Argentyna przeniosła się ze słynnej La Bombonery w Buenos Aires do Cordoby . Było co poprawiać, skoro w poprzednim, prestiżowym meczu gospodarze przegrali 1:2 z Urugwajem . Tym razem na Estadio Mario Alberto Kempes przeciwnikiem była Kostaryka , więc zadanie wyglądało na łatwiejsze. Kostaryka, pomimo sporej reprezentacji strefy CONCACAF w mistrzostwach świata 2026 , i tak do nich nie awansowała.",
+        "Albicelestes są niepokonani w historii spotkań z Kostaryką. Wicemistrz świata tylko raz nie pokonał przeciwnika znad Morza Karaibskiego, a było to w zremisowanym meczu towarzyskim w 2011 roku. Podobnie skuteczny, jak w nocy z wtorku na środę, był poprzednio w 1951 roku, kiedy to zdemolował Kostarykę 7:1.",
+        "Spotkanie od początku przebiegało pod dyktando Argentyńczyków, którzy już w 8. minucie objęli prowadzenie. Nicolas Paz wykorzystał podanie Enzo Fernandeza i precyzyjnym strzałem pokonał bramkarza. W 35. minucie na 2:0 podwyższył Julian Alvarez , a trzy minuty później Nicolas Paz popisał się efektowną indywidualną akcją, zakończoną kolejnym trafieniem. Jeszcze przed przerwą Julian Alvarez ponownie wpisał się na listę strzelców, ustalając wynik pierwszej połowy na 4:0."
+      ]
+    },
+    {
+      "id": "sport-2-e8d1e9",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Wiara i ławka rezerwowych pomagają Irlandii Północnej wspiąć się na nowe wyżyny, gdy awans jest zapewniony",
+      "original_title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:49",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Menedżer Michael O'Neill cieszy się z wiary, jaką pokazał jego zespół po tym, jak odrobił straty w meczu z Węgrami i zapewnił sobie remis niezbędny do awansu do Ligi Narodów A.",
+        "Po 500 minutach bez straty gola można wybaczyć Irlandii Północnej, że musiała dostosować się do gry od tyłu.",
+        "Po przyjeździe do Budapesztu ze świadomością, że jeden punkt przeciwko Węgrom wystarczy do awansu do Ligi Narodów B2, Barnabas Varga po strzale gospodarzy w 35 minucie na Puskas Arena zmienił obraz sytuacji i po raz pierwszy w sezonie zespół Michaela O'Neilla musiał gonić mecz."
+      ],
+      "extended_paragraphs": [
+        "Menedżer Michael O'Neill cieszy się z wiary, jaką pokazał jego zespół po tym, jak odrobił straty w meczu z Węgrami i zapewnił sobie remis niezbędny do awansu do Ligi Narodów A.",
+        "Po 500 minutach bez straty gola można wybaczyć Irlandii Północnej, że musiała dostosować się do gry od tyłu.",
+        "Po przyjeździe do Budapesztu ze świadomością, że jeden punkt przeciwko Węgrom wystarczy do awansu do Ligi Narodów B2, Barnabas Varga po strzale gospodarzy w 35 minucie na Puskas Arena zmienił obraz sytuacji i po raz pierwszy w sezonie zespół Michaela O'Neilla musiał gonić mecz.",
+        "Ich reakcja na deficyt – na boisku, z ławki rezerwowych i wysoko na trybunach, gdzie zawieszony menadżer obserwował mecz – pokazała najlepsze cechy drużyny, która przed tą niepokonaną kampanią nie wygrywała na tym poziomie.",
+        "Choć punkt z remisu 1:1 w Budapeszcie zostanie na długo zapamiętany ze względu na błyskotliwą bramkę Justina Devenny’ego i sceny świętowania, które po raz pierwszy powitały awans do najwyższej klasy rozgrywkowej, to poza najważniejszymi wydarzeniami i nagłówkami gazet O'Neill dostrzegł wyłaniające się cechy jego drużyny."
+      ]
+    },
+    {
+      "id": "sport-3-eb926e",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako MEDIUM.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "FA chce zorganizować finały Ligi Narodów w Anglii",
-      "original_title": "FA wants to host Nations League finals in England",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:51",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a7f/live/592780e0-e29d-11f1-8dda-8925a81c3da5.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
+      "title": "Polak zabłysnął w Barcelonie. Wybrano go MVP",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "23:04",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/koszykowka/1284745/polak-zablysnal-w-barcelonie-wybrano-go-mvp",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afcdad0d0edd6_27495623.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Anglia mogłaby być gospodarzem finałów Ligi Narodów w tym sezonie, jeśli przedstawiciele Związku Piłki Nożnej zgłoszą zainteresowanie.",
-        "Starszy korespondent piłkarski Opublikowano 3 godziny temu Anglia mogłaby być gospodarzem finałów Ligi Narodów w tym sezonie po tym, jak przedstawiciele Związku Piłki Nożnej wyrazili zainteresowanie.",
-        "Półfinał i finał konkursu, który odbędzie się w czerwcu, odbywają się w jednym kraju."
+        "Aleksander Balcerowski świetnie radzi sobie w tym sezonie w barwach FC Barcelony.",
+        "Polak znów zabłysnął - tym razem podczas meczu prestiżowej Euroligi.",
+        "Skomentuj Aleksander Balcerowski świetnie radzi sobie w tym sezonie w barwach FC Barcelony."
       ],
       "extended_paragraphs": [
-        "Anglia mogłaby być gospodarzem finałów Ligi Narodów w tym sezonie, jeśli przedstawiciele Związku Piłki Nożnej zgłoszą zainteresowanie.",
-        "Starszy korespondent piłkarski Opublikowano 3 godziny temu Anglia mogłaby być gospodarzem finałów Ligi Narodów w tym sezonie po tym, jak przedstawiciele Związku Piłki Nożnej wyrazili zainteresowanie.",
-        "Półfinał i finał konkursu, który odbędzie się w czerwcu, odbywają się w jednym kraju.",
-        "Przyjmuje się, że oprócz Anglii Hiszpania i Francja również skontaktowały się z UEFA, aby zgłosić swoje zainteresowanie organizacją czterech ostatnich meczów, w tym meczu o brązowy medal, który odbędzie się w dniach 9–13 czerwca.",
-        "Rozumie się, że FA nadal dyskutuje nad potencjalnymi obiektami, mając pewne wątpliwości, czy Wembley będzie dostępne. Jedynymi publicznie ogłoszonymi wydarzeniami na Wembley w czerwcu są dwa koncerty piosenkarza Sama Fendera, chociaż odbywają się one po Lidze Narodów."
+        "Aleksander Balcerowski świetnie radzi sobie w tym sezonie w barwach FC Barcelony. Polak znów zabłysnął - tym razem podczas meczu prestiżowej Euroligi.",
+        "Skomentuj Aleksander Balcerowski świetnie radzi sobie w tym sezonie w barwach FC Barcelony. Polak znów zabłysnął - tym razem podczas meczu prestiżowej Euroligi.",
+        "Koszykarska FC Barcelona we wtorek 17 listopada w ramach meczu Euroligi podejmowała drużynę Paris Basketball . Goście zwyciężyli 89:86, ale MVP spotkania wybrany został reprezentujący barwy Dumy Katalonii Polak.",
+        "Aleksander Balcerowski ma za sobą następny świetny występ w sezonie 2026/2027. Środkowy w 22 minuty zdobył 17 punktów - najwięcej w Barcelonie , trafiając wszystkie sześć rzutów za dwa i 5 na 8 wolnych. Miał ponadto sześć zbiórek, trzy asysty i eval na poziomie 29.",
+        "25-latek, pomimo porażki swojej drużyny, został uznany Najbardziej Wartościowym Graczem meczu. \"Trener powinien dawać mu więcej minut\" - piszą już na platformie X zachwyceni postawą Polaka kibice."
       ]
     },
     {
-      "id": "sport-3-d6a4e7",
+      "id": "sport-4-6b0fae",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2037,31 +2107,31 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Elite League. Polacy grali do końca. Opłacało się",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:05",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284650/elite-league-polacy-grali-do-konca-oplacalo-sie",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/616453b57b3e65_06462293.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
+      "title": "Bellamy przekonany o wiarygodności Walii pomimo porażki z Portugalią",
+      "original_title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:37",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Za reprezentacją Polski do lat 20 czwarte spotkanie w Elite League.",
-        "Po porażce z Niemcami Biało-Czerwoni wrócili na zwycięską ścieżkę pokonując Rumunię 1:0.",
-        "Skomentuj Za reprezentacją Polski do lat 20 czwarte spotkanie w Elite League."
+        "Walia zajęła ostatnie miejsce w grupie Ligi Narodów, ale menadżer Craig Bellamy uważa, że jego zespół pokazał, że należy do najwyższej klasy rozgrywkowej.",
+        "Jego drużyna z Walii właśnie przegrała piąty z sześciu meczów i zajęła ostatnie miejsce w grupie Ligi Narodów.",
+        "Bellamy'emu wybaczono by, gdyby poczuł się trochę posiniaczony."
       ],
       "extended_paragraphs": [
-        "Za reprezentacją Polski do lat 20 czwarte spotkanie w Elite League. Po porażce z Niemcami Biało-Czerwoni wrócili na zwycięską ścieżkę pokonując Rumunię 1:0.",
-        "Skomentuj Za reprezentacją Polski do lat 20 czwarte spotkanie w Elite League. Po porażce z Niemcami Biało-Czerwoni wrócili na zwycięską ścieżkę pokonując Rumunię 1:0.",
-        "Reprezentacja Polski do lat 20 kilka dni temu w pechowych okolicznościach przegrała z Niemcami 1:2. Biało-Czerwoni długo prowadzili, byli zespołem lepszym, ale w końcówce dali się rywalom dwukrotnie zaskoczyć.",
-        "Była to pierwsza strata Polaków po wcześniejszych dwóch wygranych. We wtorek podopieczni Miłosza Stępińskiego wrócili na zwycięską ścieżkę. Polacy grali na wyjeździe z Rumunią, która miała za sobą jeden mecz w Elite League (porażka 1:3 ze Szwajcarią).",
-        "Spotkanie było wyrównane. Obie drużyny wykreowały sobie kilka szans. Brakowało jednak skuteczności. Decydująca dla losów gry była 83. minuta. Sędzia podyktował dla Biało-Czerwonych rzut karny, którego na gola zamienił Kacper Śmigielski."
+        "Walia zajęła ostatnie miejsce w grupie Ligi Narodów, ale menadżer Craig Bellamy uważa, że jego zespół pokazał, że należy do najwyższej klasy rozgrywkowej.",
+        "Jego drużyna z Walii właśnie przegrała piąty z sześciu meczów i zajęła ostatnie miejsce w grupie Ligi Narodów. Bellamy'emu wybaczono by, gdyby poczuł się trochę posiniaczony.",
+        "Walia w meczu z Portugalią była nieustraszona, porywając ataki i udowadniając, że może rywalizować na najwyższym poziomie w tych rozgrywkach, mimo że została pokonana 3:2 w Cardiff.",
+        "I chociaż Walia znalazła się już w dolnej części tabeli Grupy A4, wcześniejsze występy Walii oznaczają, że przynajmniej mają wsparcie w marcowych barażach o utrzymanie, aby utrzymać swój status najwyższej klasy rozgrywkowej.",
+        "„Wiara jest najważniejsza” – powiedział Bellamy, gdy zapytano go, co on i jego zespół wynieśli z tej kampanii."
       ]
     },
     {
-      "id": "sport-4-88c38b",
+      "id": "sport-8-88c38b",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2091,75 +2161,79 @@
         "Orzeczenie to nadeszło po tym, jak irlandzki skrzydłowy Sam Prendergast został pierwszym zawodnikiem cytowanym za wślizg z hip-dropem w sobotnim zwycięstwie Irlandii nad Fidżi, za który nie został ukarany na żywo sędzia Angus Gardner i sędzia telewizyjny [TMO] Mike Adamson.",
         "Organizacja World Rugby stwierdziła, że ​​niezależny panel ustalił, że komentarze Erasmusa „sugerują, że sędziowie meczowi działali z uprzedzeniami lub umyślnie wpływali na wynik meczu”."
       ]
-    },
-    {
-      "id": "sport-5-f786fb",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "\"Genialny\". Świetny występ Polaka. Nawet Gołota był nim zachwycony",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:00",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/boks/1284684/genialny-swietny-wystep-polaka-nawet-golota-byl-nim-zachwycony",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afca161ab2b46_38646461.png",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Fabian Urbański kapitalnie wszedł w Młodzieżowe Mistrzostwa Europy w boksie olimpijskim (do lat 23) .",
-        "Polak zaliczył efektowne zwycięstwo.",
-        "Andrzej Gołota kiedyś dał mu zadziorny przydomek."
-      ],
-      "extended_paragraphs": [
-        "Fabian Urbański kapitalnie wszedł w Młodzieżowe Mistrzostwa Europy w boksie olimpijskim (do lat 23) . Polak zaliczył efektowne zwycięstwo. Andrzej Gołota kiedyś dał mu zadziorny przydomek.",
-        "Skomentuj Fabian Urbański kapitalnie wszedł w Młodzieżowe Mistrzostwa Europy w boksie olimpijskim (do lat 23) . Polak zaliczył efektowne zwycięstwo. Andrzej Gołota kiedyś dał mu zadziorny przydomek.",
-        "Ten chłopak to przyszłość polskiego boksu. 19-letni Fabian Urbański na początek zmagań w chorwackim Porecu zdecydowanie pokonał reprezentanta Turcji, Sułtana Osmanlego (5:0). Branżowi dziennikarze byli zachwyceni jego postawą. Co za słowa.",
-        "\"Genialny jest Fabian Urbański. Utytułowany Turek Osmanli wyglądał na tle naszego brylantu jak uczniak, zdolny tylko do ułańskich szarż, coraz bardziej sfrustrowany dysproporcją w umiejętnościach . Przepuszczenia, kontry, oczko. Wejście naszego seniora w MME prima sort\" - napisał na platformie X dziennikarz Artur Gac.",
-        "19-latka mocno pochwalił też Piotr Jagiełło, komentator TVP Sport. \" Był świetny timing, efektowne wybory w ofensywie, czego efektem liczenie rywala w 3. starciu. Brawo! O awans do ćwierćfinału powalczy z Christianem Sarsillim - mistrzem Europy juniorów\" - napisał."
-      ]
-    },
-    {
-      "id": "sport-7-cf9b89",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Udany sprawdzian przed Euro. Kolejne zwycięstwo kadry Brzęczka",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:53",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284666/udany-sprawdzian-przed-euro-kolejne-zwyciestwo-kadry-brzeczka",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afc9ee1480ab5_96330326.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Duża przewaga, mało konkretów i tylko jeden gol.",
-        "Młodzieżowa reprezentacja Polski ograła Serbię 1:0 w kolejnym meczu towarzyskim rozegranym w Hiszpanii.",
-        "Jedynego gola strzelił na samym początku Tomasz Pieńko."
-      ],
-      "extended_paragraphs": [
-        "Duża przewaga, mało konkretów i tylko jeden gol. Młodzieżowa reprezentacja Polski ograła Serbię 1:0 w kolejnym meczu towarzyskim rozegranym w Hiszpanii. Jedynego gola strzelił na samym początku Tomasz Pieńko. A później wiało nudą.",
-        "2 Komentarze Duża przewaga, mało konkretów i tylko jeden gol. Młodzieżowa reprezentacja Polski ograła Serbię 1:0 w kolejnym meczu towarzyskim rozegranym w Hiszpanii. Jedynego gola strzelił na samym początku Tomasz Pieńko. A później wiało nudą.",
-        "Podczas gdy inne reprezentacje walczą w barażach o awans na przyszłoroczne młodzieżowe mistrzostwa Europy, to pewna udziału w turnieju Polska szlifuję formę w meczach towarzyskich w Hiszpanii. Parę dni temu kadra Jerzego Brzęczka ograła Norwegię (2:0), a we wtorek było skromne, ale zasłużone zwycięstwo z Serbią (1:0).",
-        "Polacy bardzo szybko przeszli do konkretów i już w 3. minucie wyszli na prowadzenie. Opłacił się wysoki pressing, Serbowie nie zdążyli się ustawić w obronie i było 1:0. Daniel Mikołajewski przytomnie zagrał do Tomasza Pieńki, a ten płaskim uderzeniem bez przyjęcia z osiemnastu metrów pokonał Lukę Lijeskicia.",
-        "Tak efektowny początek pozwalał nam wierzyć, że obejrzymy strzelaninę w San Pedro del Pinatar. Cóż, tak się jednak nie stało. Później z boiska zwyczajnie wiało nudą. Nie było żadnego punktu zaczepienia. O ile można chwalić Polskę za organizację w defensywie, bo rywale nie doszli do żadnej klarownej sytuacji, o tyle z przodu szału nie było."
-      ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-3d36e4",
+      "id": "rynki-1-89dcf3",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 65,3 mld dolarów, 109,10 mld USD, 130 mld USD) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "65,3 mld dolarów",
+        "109,10 mld USD",
+        "130 mld USD"
+      ],
+      "title": "Nvidia znów to zrobiła. Przychody i zyski zostały podwojone",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:58",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-znow-to-zrobila-Przychody-i-zyski-zostaly-podwojone-9230579.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/2/7/68ac93fff2efa1-948-568-0-74-3000-1799.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Nvidia pokazała dwukrotnie wyższe niż rok wcześniej przychody ze sprzedaży jak również zysk netto.",
+        "Obie kategorie przebiły rynkowy konsensus.",
+        "fot. Michael Vi / / Shutterstock W III kwartalne tego roku obrotowego 2027 (zakończonego 25 października ‘26) Nvidia wygenerowała 65,3 mld dolarów, czyli 2,70 USD na akcję."
+      ],
+      "extended_paragraphs": [
+        "Nvidia pokazała dwukrotnie wyższe niż rok wcześniej przychody ze sprzedaży jak również zysk netto. Obie kategorie przebiły rynkowy konsensus.",
+        "fot. Michael Vi / / Shutterstock W III kwartalne tego roku obrotowego 2027 (zakończonego 25 października ‘26) Nvidia wygenerowała 65,3 mld dolarów, czyli 2,70 USD na akcję. To o 105% więcej niż rok temu oraz o 9% więcej niż w poprzednim kwartale. Rezultat ten przebił oczekiwania większości analityków położone na wysokości 2,48 USD na akcję.",
+        "Pozytywnie zaskoczyły też kwartalne przychody, które podsumowano na 115,84 USD wobec 109,10 mld USD mediany prognoz analityków. To rezultat o 103% wyższy niż rok wcześniej oraz o 20% wyższy niż w poprzednim kwartale. Marża brutto wyniosła 74,8% i była niższa od 75% odnotowanych kwartał wcześniej.",
+        "- Nasz impet jest prawdziwy. NVIDIA jest wyjątkowym liderem technologicznym, napędzanym przez nieustępliwą innowacyjność naszych ludzi – tak w komunikacie prasowym zacytowano Colette Kress, pełniącą obowiązki CEO po odwołaniu założyciela i lidera Nvidii Jensona Huanga. - Vera Rubin przymierza się do eksplozywnego startu, nasza mapa drogowa pozostaje w grze, a nasze ambicje nigdy nie były większe – tak usiłowano kontynuować ekspresyjny styl wypowiedzi prezesa Huanga.",
+        "Mimo to reakcję rynku trudno uznać za „eksplozywną”. Pomimo przekroczenia prognoz analityków i potężnej przeceny z ostatnich dni i tygodni (-36% od październikowego szczytu) w handlu posesyjnym akcje Nvidii zyskiwały tylko 2%. To nie za wiele zważywszy na samą skalę przekroczenia prognoz."
+      ]
+    },
+    {
+      "id": "rynki-2-b6b713",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Azja & Pacyfik (Gospodarka Światowa) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Trzy rzeczy, które warto obejrzeć podczas spotkania Trumpa, Xi i Putina w Chinach",
+      "original_title": "Three things to watch as Trump, Xi and Putin meet in China",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:23",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108553723-1794964906957-gettyimages-2305438045-16.jpeg?v=1794964990&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Prezydent USA Donald Trump, prezydent Chin Xi Jinping i prezydent Rosji Władimir Putin spotkają się w Shenzhen w ramach spotkania przywódców APEC.",
+        "SHENZHEN, Chiny – Kiedy w tym tygodniu zbierają się na dorocznym szczycie, przywódcy Stanów Zjednoczonych, Chin, Rosji i innych głównych gospodarek regionu Azji i Pacyfiku stają przed szeregiem krytycznych problemów, od wojen po bezpieczeństwo technologiczne.",
+        "Od ostatniego spotkania przywódców APEC napięcie między Chinami a Japonią wzrosło."
+      ],
+      "extended_paragraphs": [
+        "Prezydent USA Donald Trump, prezydent Chin Xi Jinping i prezydent Rosji Władimir Putin spotkają się w Shenzhen w ramach spotkania przywódców APEC.",
+        "SHENZHEN, Chiny – Kiedy w tym tygodniu zbierają się na dorocznym szczycie, przywódcy Stanów Zjednoczonych, Chin, Rosji i innych głównych gospodarek regionu Azji i Pacyfiku stają przed szeregiem krytycznych problemów, od wojen po bezpieczeństwo technologiczne.",
+        "Od ostatniego spotkania przywódców APEC napięcie między Chinami a Japonią wzrosło. Ledwo ustabilizowane stosunki USA-Chiny stają przed nowym testem w następstwie kontroli Waszyngtonu dotyczącej sprzedaży chipów Nvidii w Chinach. Wojna w Iranie, trwająca już dziewiąty miesiąc, nadal wywiera presję na światowe ceny energii, podczas gdy wojna rosyjsko-ukraińska przeciąga się.",
+        "Tymczasem dla Pekinu, gospodarza tegorocznej serii spotkań w ramach Współpracy Gospodarczej Azji i Pacyfiku, wielostronne spotkanie jest kolejnym miejscem budowania swoich globalnych wpływów. Prezydent Chin Xi Jinping spotkał się we wtorek z premierem Kanady Markiem Carneyem i prezydentem Wietnamu To Lamem. Wietnam jest gospodarzem przyszłorocznych spotkań APEC.",
+        "Według chińskich mediów państwowych prezydent Rosji Władimir Putin przybył do Shenzhen w środę wczesnym rankiem, gdzie został powitany przez członka Stałego Komitetu Chińskiego Biura Politycznego Cai Qi. Prezydent USA Donald Trump przebywa na Filipinach na szczycie ASEAN, a następnie uda się do Shenzhen."
+      ]
+    },
+    {
+      "id": "rynki-3-3d36e4",
       "entity_tag": "XTB (GPW: XTB)",
       "sector": "Fintech & Brokerzy",
       "market_impact": "HIGH",
@@ -2180,7 +2254,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/Goracy-handel-akcjami-XTB-na-polskiej-gieldzie-Najwieksze-obroty-i-krwista-przecena-brokera-CFD-9230426.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/a/2/38b2db78799a44-948-568-3-7-1524-914.png",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Po pięciu z rzędu wzrostowych sesjach i poniedziałkowym ustanowieniu historycznych szczytów na GPW przyszła wyraźna korektora.",
         "Wtorkowe notowania upłynęły pod znakiem szerokiej realizacji zysków oraz potężnej wyprzedaży akcji XTB po zapowiedziach Komisji Nadzoru Finansowego.",
@@ -2195,7 +2269,7 @@
       ]
     },
     {
-      "id": "rynki-3-687743",
+      "id": "rynki-5-687743",
       "entity_tag": "XTB (GPW: XTB)",
       "sector": "Fintech & Brokerzy",
       "market_impact": "HIGH",
@@ -2230,43 +2304,7 @@
       ]
     },
     {
-      "id": "rynki-4-3403f8",
-      "entity_tag": "Wall Street (USA)",
-      "sector": "Rynki Globalne",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 7,13 mln, 5,37 miliarda dolarów, 5,5 miliarda dolarów) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [
-        "7,13 mln",
-        "5,37 miliarda dolarów",
-        "5,5 miliarda dolarów"
-      ],
-      "title": "W trzecim kwartale Berkshire Hathaway zwiększył swoje udziały w Delcie. Zmniejszyło także udziały w kluczowym banku",
-      "original_title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:01",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108332343-17835390822026-07-08t192912z_1218639865_rc2v9mavrnxc_rtrmadp_0_media-sunvalley.jpeg?v=1783539130&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "W trzecim kwartale Berkshire Hathaway zwiększyło kilka pozycji akcji, jednocześnie redukując inne, w tym Bank of America.",
-        "W trzecim kwartale Berkshire Hathaway wykonał kilka ruchów na giełdzie, powiększając kluczowe pozycje i ograniczając inne.",
-        "Konglomerat z siedzibą w Omaha, kierowany obecnie przez dyrektora generalnego Grega Abela, zwiększył swoje udziały w Delta Air Lines o 12%, obejmując 7,13 mln akcji."
-      ],
-      "extended_paragraphs": [
-        "W trzecim kwartale Berkshire Hathaway zwiększyło kilka pozycji akcji, jednocześnie redukując inne, w tym Bank of America.",
-        "W trzecim kwartale Berkshire Hathaway wykonał kilka ruchów na giełdzie, powiększając kluczowe pozycje i ograniczając inne.",
-        "Konglomerat z siedzibą w Omaha, kierowany obecnie przez dyrektora generalnego Grega Abela, zwiększył swoje udziały w Delta Air Lines o 12%, obejmując 7,13 mln akcji. Na koniec trzeciego kwartału pozycja ta była warta 5,37 miliarda dolarów.",
-        "Na początku tego roku Abel zastąpił legendarnego inwestora Warrena Buffetta (96 l.). Buffett w dalszym ciągu kontroluje około 13% akcji zwykłych Berkshire, podał w poniedziałek Reuters, po tym jak były dyrektor generalny przekazał 5,5 miliarda dolarów fundacjom non-profit.",
-        "Berkshire zwiększyło swoje udziały w spółce Delta po tym, jak akcje przewoźnika z Atlanty spadły w trzecim kwartale o 11%, dotknięte rosnącymi cenami paliwa do silników odrzutowych wynikającymi z wojny amerykańsko-irańskiej, która wywarła presję na całą branżę lotniczą. Oznaczało to najgorszy kwartalny wynik akcji spółki od pierwszego kwartału 2025 r., kiedy to spadł o 28%. W zeszłym miesiącu Delta również obniżyła prognozę zysków na cały rok, powołując się na wzrost kosztów paliwa."
-      ]
-    },
-    {
-      "id": "rynki-5-8af924",
+      "id": "rynki-7-8af924",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
@@ -2302,42 +2340,6 @@
       ]
     },
     {
-      "id": "rynki-7-f28bc6",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 160 mld zł, 226 proc., 15 proc.) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [
-        "160 mld zł",
-        "226 proc.",
-        "15 proc."
-      ],
-      "title": "Orlen, Siemens, Shell, ASML i kto jeszcze? Najwięksi z największych w giełdowych indeksach",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "06:00",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Orlen-i-najwiekszy-udzial-w-portfelu-WIG20-Jak-to-wyglada-na-innych-gieldach-w-Europie-9228324.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/c/8178fb43462649-948-568-0-80-1536-921.png",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Waga największych spółek w europejskich indeksach giełdowych to często istotny czynnik odpowiadający za kondycję rynku.",
-        "W przypadku hossy na WIG20 nie do przecenienia był apetyty inwestorów na akcje Orlenu, ale jak to wygląda na zagranicznych parkietach i kto zawiaduje kondycją głównych indeksów w Niemczech, Francji czy Wielkiej Brytanii?",
-        "/ Ilustracja wygenerowana przy użyciu AI Od dna ostatniej bessy, czyli października 2022 r. WIG20 wzrósł o 220 procent."
-      ],
-      "extended_paragraphs": [
-        "Waga największych spółek w europejskich indeksach giełdowych to często istotny czynnik odpowiadający za kondycję rynku. W przypadku hossy na WIG20 nie do przecenienia był apetyty inwestorów na akcje Orlenu, ale jak to wygląda na zagranicznych parkietach i kto zawiaduje kondycją głównych indeksów w Niemczech, Francji czy Wielkiej Brytanii?",
-        "/ Ilustracja wygenerowana przy użyciu AI Od dna ostatniej bessy, czyli października 2022 r. WIG20 wzrósł o 220 procent. Meldując się pod koniec października 2026 r. na historycznym szczycie. W podobnym czasie kurs Orlen do swojego historycznego szczytu, który wypadł zaledwie miesiąc wcześniej, we wrześniu urósł o ponad 226 proc. Nie da się rozpatrywać hossy indeksu polskich blue chipów bez zauważania popytu na Orlenu , które mają największy udział w całym portfelu najdroższych i najpłynniejszych spółek polskiej giełdy.",
-        "Udział Orlenu w WIG20 to po ostatniej rewizji kwartalnej maksymalne 15 proc. tyle samo co banku PKO BP. (przez korektę na kursie realny udział spadł do około 12 proc.) Podobnie jak w przypadku większości najważniejszych europejskich indeksów giełdowych WIG20 wykorzystuje metodologię ważenia spółek według kapitalizacji rynkowej skorygowanej o akcje znajdujące się w wolnym obrocie .",
-        "W praktyce oznacza to, że udział poszczególnych emitentów w indeksie zależy nie tylko od ich wartości rynkowej, ale również od liczby akcji dostępnych dla inwestorów na rynku publicznym. Takie podejście pozwala lepiej odzwierciedlić strukturę kapitału dostępnego w obrocie giełdowym. W przypadku Orlenu udział ten to ponad 50 proc., co przy kapitalizacji wynoszącej około 160 mld zł, przesądza o największym możliwym udziale w portfelu WIG20 (zasady indeksu nie pozwalają na udział większy niż 15 proc.).",
-        "W konsekwencji indeks WIG20, mimo że obejmuje 20 spółek, jest w dość znaczącym stopniu uzależniony od kondycji giełdowej takich spółek jak Orlen czy PKO. Nie jest to zjawisko charakterystyczne wyłącznie dla polskiego rynku. Występuje również na największych giełdach Europy, choć jego skala i przyczyny różnią się w zależności od struktury gospodarki, wielkości rynku oraz zasad konstrukcji poszczególnych benchmarków."
-      ]
-    },
-    {
       "id": "rynki-8-58be49",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
@@ -2350,7 +2352,7 @@
       "original_title": "FAA pauses installation of new routers after ground stop",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:48",
+      "time": "20:53",
       "source": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108551581-1794669969667-gettyimages-2304580986-US_GROUND_STOP.jpeg?v=1794872932&amp;w=1920&amp;h=1080",
@@ -2370,39 +2372,39 @@
       ]
     },
     {
-      "id": "rynki-6-1bd61a",
+      "id": "rynki-4-5a3e69",
       "entity_tag": "Wall Street (USA)",
       "sector": "Rynki Globalne",
-      "market_impact": "MEDIUM",
+      "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [],
-      "title": "JPMorgan Chase twierdzi, że tymczasowy błąd oprogramowania wpływa na bankowość detaliczną",
-      "original_title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+      "title": "JPMorgan pracuje nad transakcjami agentów AI, w których nie biorą udziału ludzie",
+      "original_title": "JPMorgan is working on AI agent transactions that don’t involve humans",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:14",
+      "time": "23:30",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108398335-1791812925028-gettyimages-2299307812-JPMORGAN_EARNS.jpeg?v=1791812945&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108552580-1794869610494-gettyimages-2289913001-golba-dailylif260806_npPSj.jpeg?v=1794869642&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Eamon Javers z CNBC poinformował, że nic nie wskazuje na to, aby w błąd były zaangażowane złe osoby, ani też nic nie wskazuje na to, że błąd wpływał na wiele banków jednocześnie.",
-        "JPMorgan Chase zgłosił w poniedziałek „problem techniczny”, który miał wpływ na niektóre usługi bankowości konsumenckiej.",
-        "Bank stwierdził, że „tymczasowy problem związany z błędem oprogramowania w lokalnych systemach sprzętowych” powoduje, że niektóre transakcje klientów trwają dłużej niż zwykle, chociaż twierdzi, że klienci nadal mogą uzyskać dostęp do swoich kont i środków."
+        "JPMorgan i Hyundai Card chcą rozszerzyć wykorzystanie agentów AI w transakcjach finansowych.",
+        "Agenci sztucznej inteligencji już okazali się pomocni, sprawiają wiele problemów lub jedno i drugie.",
+        "Obszarem postrzeganym jako duży potencjał są płatności, gdzie – jeśli można im zaufać – agenci mogliby zajmować się wszelkiego rodzaju sprawami finansowymi w imieniu ludzi."
       ],
       "extended_paragraphs": [
-        "Eamon Javers z CNBC poinformował, że nic nie wskazuje na to, aby w błąd były zaangażowane złe osoby, ani też nic nie wskazuje na to, że błąd wpływał na wiele banków jednocześnie.",
-        "JPMorgan Chase zgłosił w poniedziałek „problem techniczny”, który miał wpływ na niektóre usługi bankowości konsumenckiej.",
-        "Bank stwierdził, że „tymczasowy problem związany z błędem oprogramowania w lokalnych systemach sprzętowych” powoduje, że niektóre transakcje klientów trwają dłużej niż zwykle, chociaż twierdzi, że klienci nadal mogą uzyskać dostęp do swoich kont i środków.",
-        "„Nie ma dowodów, że ma to związek z cyberprzestrzenią” – oznajmił rzecznik JPMorgan w oświadczeniu dla CNBC.",
-        "„To nie jest problem systemowy – inne banki mogły odczuć skutki spowolnienia transakcji tylko w takim zakresie, w jakim były stroną transakcji z nami” – powiedział rzecznik. „Pilnie pracujemy, aby rozwiązać ten problem do dzisiejszego dnia”."
+        "JPMorgan i Hyundai Card chcą rozszerzyć wykorzystanie agentów AI w transakcjach finansowych.",
+        "Agenci sztucznej inteligencji już okazali się pomocni, sprawiają wiele problemów lub jedno i drugie. Obszarem postrzeganym jako duży potencjał są płatności, gdzie – jeśli można im zaufać – agenci mogliby zajmować się wszelkiego rodzaju sprawami finansowymi w imieniu ludzi.",
+        "Dlatego JPMorgan Chase i południowokoreańska firma Hyundai Card testują, w jaki sposób agenci sztucznej inteligencji mogą obsługiwać transakcje finansowe bez bezpośredniej interwencji człowieka, w tym czy będą w stanie ostatecznie negocjować i dokonywać między sobą płatności.",
+        "Firmy zakończyły wstępną weryfikację koncepcji obejmującą symulowaną transakcję walutową i planują, że pierwsza połowa 2027 r. będzie bardziej złożoną fazą z udziałem wielu agentów AI.",
+        "Wee Kee Toh, globalny szef Kinexys Insights w Kinexys by JP Morgan, powiedział CNBC, że następnym krokiem będzie przetestowanie, co się stanie, gdy autonomiczni agenci wyjdą poza realizację i zaczną ze sobą współdziałać w ekosystemie."
       ]
     },
     {
-      "id": "rynki-2-153db1",
+      "id": "rynki-6-153db1",
       "entity_tag": "Apple (NASDAQ: AAPL)",
       "sector": "Big Tech",
       "market_impact": "LOW",

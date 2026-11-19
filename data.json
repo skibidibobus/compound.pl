@@ -3,7 +3,7 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.323",
-    "last_updated": "2026-11-19 00:35",
+    "last_updated": "2026-11-19 08:09",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 18,
     "foreign_translated_count": 19,
@@ -73,24 +73,24 @@
       "symbol": "ZŁOTO (g)",
       "name": "Złoto NBP (PLN/g)",
       "group": "commodities",
-      "price": "497.35 zł",
-      "change": "+0.25%",
-      "is_positive": true
+      "price": "487.99 zł",
+      "change": "-1.88%",
+      "is_positive": false
     },
     {
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$62,889",
-      "change": "-2.90%",
+      "price": "$63,608",
+      "change": "-1.69%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,777",
-      "change": "-2.31%",
+      "price": "$1,803",
+      "change": "-0.53%",
       "is_positive": false
     },
     {
@@ -910,43 +910,79 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-bcfecb",
-      "entity_tag": "KGHM (GPW: KGH)",
-      "sector": "Surowce & Górnictwo",
+      "id": "rynki-1-b0de10",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 3,2 mld zł, 2,5 mld zł, 340 mln zł) — wymaga obserwacji marż i wsparć cenowych.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 81,3 mld, 107,3 mld, 980 mln) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "3,2 mld zł",
-        "2,5 mld zł",
-        "340 mln zł"
+        "81,3 mld",
+        "107,3 mld",
+        "980 mln"
       ],
-      "title": "CD Projekt RED wystrzelił przed premierą GTA VI. Akcje KGHM i XTB znów mocno w dół",
+      "title": "Anthropic wchodzi na giełdę z wyceną 1,5 bln dol. Twórca Claude’a pobił rekord SpaceX",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:28",
+      "time": "08:18",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/CD-Projekt-RED-wystrzelil-przed-premiera-GTA-VI-Akcje-KGHM-i-XTB-znow-mocno-w-dol-9231099.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/1/8/20ec54012a8c87-945-560-0-0-2048-1228.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Anthropic-wchodzi-na-gielde-z-wycena-1-5-bln-dol-Tworca-Claude-a-pobil-rekord-SpaceX-9231356.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/3/b/b71cc5ea7f62da-948-568-18-28-3731-2238.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Środowa sesja na GPW zakończyła się przewagą podaży.",
-        "Podczas gdy notowania KGHM kontynuowały czarną serię w ślad za taniejącą miedzią i srebrem, a akcje XTB pogłębiły przecenę pod presją zapowiedzi KNF, mocnym odbiciem popisał się CD Projekt RED, wspierany gorączką wokół premiery gry GTA VI.",
-        "/ GPW Środowe notowania przy ulicy Książęcej przebiegały pod dyktando sprzedających, choć skala przeceny głównych benchmarków pozostała relatywnie niewielka na tle zachodnioeuropejskich parkietów."
+        "Spółka Anthropic, twórca modeli sztucznej inteligencji Claude, pozyskała w pierwszej ofercie publicznej (IPO) 81,3 mld dol., ustalając cenę emisyjną na 83 dol.",
+        "Wraz z emisją prywatną łączna wartość transakcji sięga 107,3 mld dol., co czyni ją największym debiutem giełdowym w historii.",
+        "Akcje spółki zadebiutują na giełdzie Nasdaq w czwartek, 19 listopada, pod symbolem \"ANT\"."
       ],
       "extended_paragraphs": [
-        "Środowa sesja na GPW zakończyła się przewagą podaży. Podczas gdy notowania KGHM kontynuowały czarną serię w ślad za taniejącą miedzią i srebrem, a akcje XTB pogłębiły przecenę pod presją zapowiedzi KNF, mocnym odbiciem popisał się CD Projekt RED, wspierany gorączką wokół premiery gry GTA VI.",
-        "/ GPW Środowe notowania przy ulicy Książęcej przebiegały pod dyktando sprzedających, choć skala przeceny głównych benchmarków pozostała relatywnie niewielka na tle zachodnioeuropejskich parkietów. WIG20 spadł o 0,61 proc. , natomiast indeks szerokiego rynku WIG zniżkował o 0,51 proc. Lepiej zaprezentował się segment średnich spółek, gdzie mWIG40 poszedł w dół o 0,12 proc. , ale już sWIG80 stracił 0,58 proc. Obroty wyniosły w środę 3,2 mld zł na WIG, z czego 2,5 mld zł dotyczyło spółek z portfela blue chipów, a 340 mln zł przecenionych akcjach XTB.",
-        "W momencie zamknięcia handlu w Warszawie nastroje na głównych parkietach Starego Kontynentu były wyraźnie gorsze niż nad Wisłą . W Londynie indeks FTSE 100 spadał o 1,2 proc. , we Frankfurcie niemiecki DAX tracił 1 proc. , a paryski CAC40 zniżkował o 0,6 proc. Mieszany obraz wyłaniał się w tym czasie zza oceanu, gdzie trwała pierwsza część sesji na Wall Street. Amerykański indeks S&P 500 spadał o 0,1 proc. , ale technologiczny Nasdaq Composite zwyżkował o 0,3 proc. ,",
-        "Spółki technologiczne ponownie poprowadziły Wall Street do wzrostów po publikacji rewelacyjnych wyników kwartalnych przez Nvidię . Amerykański gigant nie tylko pobił oczekiwania rynkowe, ale również podniósł prognozę sprzedaży na przyszły rok , skutecznie łagodząc narastające w ostatnich tygodniach obawy inwestorów o trwałość popytu na infrastrukturę związaną ze sztuczną inteligencją.",
-        "Entuzjazm po raporcie Nvidii był jednak chłodzony przez sygnały płynące z amerykańskiej Rezerwy Federalnej. Christopher Waller z nowojorskiego oddziału Fed ocenił, że uporczywa inflacja może wymagać podwyżki stóp procentowych aż o 50 punktów bazowych już na grudniowym posiedzeniu . Tak jastrzębia retoryka wsparła notowania amerykańskiego dolara, co tradycyjnie ciąży rynkom wschodzącym oraz notowaniom surowców przemysłowych."
+        "Spółka Anthropic, twórca modeli sztucznej inteligencji Claude, pozyskała w pierwszej ofercie publicznej (IPO) 81,3 mld dol., ustalając cenę emisyjną na 83 dol. za akcję. Wraz z emisją prywatną łączna wartość transakcji sięga 107,3 mld dol., co czyni ją największym debiutem giełdowym w historii. Akcje spółki zadebiutują na giełdzie Nasdaq w czwartek, 19 listopada, pod symbolem \"ANT\".",
+        "fot. Carlos Barria / Reuters / / FORUM Anthropic ogłosił w środę, że w ramach oferty publicznej sprzedał 980 mln akcji klasy A, z czego ponad 956 mln pochodzi z nowej emisji, a blisko 23,7 mln od dotychczasowych akcjonariuszy. Zarówno cena, jak i wielkość oferty przebiły pierwotne plany - spółka zwiększyła pulę akcji o 19% względem zapowiadanych 825 mln sztuk i wyszła powyżej wstępnych widełek cenowych 70-78 dol.",
+        "Przy cenie 83 dol. za walor wycena Anthropica po pełnym rozwodnieniu sięga około 1,5 bln dol. Według notowań z 18 listopada dawałoby to firmie 12. miejsce w rankingu giełdowych spółek o najwyższej kapitalizacji, między Teslą (1,516 bln dol.) a Eli Lilly (1,231 bln dol.).",
+        "Równolegle do oferty publicznej Anthropic pozyska 26 mld dol. w ramach emisji prywatnej (po cenie z IPO) od partnerów strategicznych, wśród których znaleźli się m.in. Nvidia, Microsoft i Google. Łączna kwota 107,3 mld dol. przebija dotychczasowy rekord wszech czasów należący do SpaceX Elona Muska, który w czerwcu tego roku zebrał 86 mld dol. (wliczając opcję dodatkowego przydziału).",
+        "Gwaranci emisji Anthropic - pod wodzą banków Goldman Sachs i Morgan Stanley - również otrzymali 30-dniową opcję na dokupienie kolejnych 147 mln akcji o wartości około 12 mld dol."
       ]
     },
     {
-      "id": "rynki-2-f580fb",
+      "id": "rynki-3-9fea4f",
+      "entity_tag": "PZU (GPW: PZU)",
+      "sector": "Ubezpieczenia",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla PZU (GPW: PZU) (Ubezpieczenia) (kluczowe liczby: 1.443 mln zł, 1.995 mln zł, 1.448 mln zł) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "1.443 mln zł",
+        "1.995 mln zł",
+        "1.448 mln zł"
+      ],
+      "title": "Mniejszy zysk, ale przychody powyżej oczekiwań. PZU pokazało wyniki za III kwartał",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:16",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-III-kw-26-wyniosl-1-443-mld-zl-zgodnie-z-oczekiwaniami-9231312.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/1/e/7c65eb35acf3db-948-567-0-67-1000-599.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w III kwartale 2026 r. spadł do 1.443 mln zł z 1.995 mln zł rok wcześniej - poinformował ubezpieczyciel w raporcie.",
+        "Zysk okazał się zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie on 1.448 mln zł.",
+        "fot. Below the Sky / / Shutterstock Oczekiwania 4 biur maklerskich co do zysku netto ubezpieczyciela w III kwartale 2026 r. wahały się od 1.385 mln zł do 1.563 mln zł."
+      ],
+      "extended_paragraphs": [
+        "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w III kwartale 2026 r. spadł do 1.443 mln zł z 1.995 mln zł rok wcześniej - poinformował ubezpieczyciel w raporcie. Zysk okazał się zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie on 1.448 mln zł.",
+        "fot. Below the Sky / / Shutterstock Oczekiwania 4 biur maklerskich co do zysku netto ubezpieczyciela w III kwartale 2026 r. wahały się od 1.385 mln zł do 1.563 mln zł.",
+        "Zysk netto PZU w III kwartale 2026 r. spadł 28 proc. rok do roku i spadł 12 proc. w ujęciu kwartalnym.",
+        "Po trzech kwartałach 2026 roku zysk netto j.d. wynosi 4,452 mld zł, podczas gdy rok wcześniej był on na poziomie 5,225 mld zł.",
+        "Jak podało PZU, na spadek wyniku w ujęciu rok do roku wpłynęły m.in. wyższa szkodowość w ubezpieczeniach majątkowych, niższy wynik inwestycyjny oraz mniejsza kontrybucja banków."
+      ]
+    },
+    {
+      "id": "rynki-4-f580fb",
       "entity_tag": "Fed (USA)",
       "sector": "Banki Centralne",
       "market_impact": "HIGH",
@@ -980,181 +1016,113 @@
       ]
     },
     {
-      "id": "rynki-3-296445",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-5-8a5572",
+      "entity_tag": "Allegro (GPW: ALE)",
+      "sector": "E-commerce",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 1,5 mld dolarów, 100%, 6%) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Allegro (GPW: ALE) (E-commerce) (kluczowe liczby: +17,6%, 21,3 proc., 14 proc.) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "1,5 mld dolarów",
-        "100%",
-        "6%"
+        "+17,6%",
+        "21,3 proc.",
+        "14 proc."
       ],
-      "title": "Pierwsze oceny GTA VI: \"absolutne arcydzieło\", \"przesunięcie granic dla całej branży\". Gra osiągnęła rekord Metacritic",
+      "title": "Wsiąść do pociągu byle jakiego, czyli jak pogoń za trendem potrafi wysadzić portfel z torów",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "14:40",
+      "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Najnowsze-oceny-GTA-VI-Rekord-Metacritic-osiagniety-9230936.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/2/e/c32ae90c0850e5-948-568-0-60-4000-2399.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Wsiasc-do-pociagu-byle-jakiego-czyli-jak-pogon-za-trendem-potrafi-wysadzic-portfel-z-torow-9230851.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/a/c/1dba9430a69e79-948-568-0-123-4121-2472.png",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Grand Theft Auto 6 oficjalnie wyrównało niemal trzydziestoletni rekord serwisu Metacritic, stając się najwyżej ocenianą grą w historii z notą 99 punktów na 100 możliwych.",
-        "Najnowsza superprodukcja należącego do Take-Two Interactive studia Rockstar Games jeszcze przed oficjalnym debiutem wygenerowała ponad 1,5 mld dolarów przychodu z samej przedsprzedaży, z nawiązką pokrywając szacowane koszty produkcji.",
-        "fot. Mojahid Mottakin / / FORUM W branży gier wideo oceny krytyków pełnią funkcję zbliżoną do rekomendacji domów maklerskich ."
+        "Połowa listopada za nami, a na giełdach dzieje się tyle, że podręczniki do psychologii inwestowania można by pisać na nowo.",
+        "Gdy na początku miesiąca czytaliśmy listopadowe typy w „Portfelu Gwiazd” Bankier.pl, część ekspertów szukała okazji po październikowej przecenie, a inni postanowili wskoczyć na grzbiet rozpędzonych trendów.",
+        "Sprawdzam więc dlaczego owczy pęd bywa na giełdzie gorszym doradcą niż zły humor przed sesją."
       ],
       "extended_paragraphs": [
-        "Grand Theft Auto 6 oficjalnie wyrównało niemal trzydziestoletni rekord serwisu Metacritic, stając się najwyżej ocenianą grą w historii z notą 99 punktów na 100 możliwych. Najnowsza superprodukcja należącego do Take-Two Interactive studia Rockstar Games jeszcze przed oficjalnym debiutem wygenerowała ponad 1,5 mld dolarów przychodu z samej przedsprzedaży, z nawiązką pokrywając szacowane koszty produkcji.",
-        "fot. Mojahid Mottakin / / FORUM W branży gier wideo oceny krytyków pełnią funkcję zbliżoną do rekomendacji domów maklerskich . Po zakończeniu embarga na publikację recenzji internet zalały oceny najnowszej gry od studia Rockstar Games. Grand Theft Auto 6 nie tylko zdobyło tytuł najwyżej ocenianej produkcji 2026 roku , dołączając do elitarnego grona poprzedników, czyli GTA 4 i GTA 5, stając się także najwyżej ocenioną grą z serii (poprzedni dzierżyła gra GTA IV z wynikiem 98), ale jednocześnie wspięło się na sam szczyt tabeli wszech czasów portalu Metacritic .",
-        "GTA VI just tied the highest Metacritic score in history with a 99 The review embargo lifted this morning and $TTWO's Grand Theft Auto VI sits at 99 from 146 critics on PS5, with 100% positive reviews The only other game ever to score 99 is The Legend of Zelda Ocarina of Time from 1998 It also beats GTA IV's 98, Rockstar's previous best, while GTA V and Red Dead Redemption 2 each scored 97 Sensor Tower estimates pre-release sales at about 15.9 million copies and $1.54 billion ahead of launch $TTWO is up about 6% premarket after falling 10.5% over the last two sessions, as the game begins its global rollout, 13 years after GTA V Take-Two is still guiding to $8.0 billion to $8.2 billion in fiscal 2027 net bookings, and with reviews this strong the question is no longer whether GTA VI hits, it's how big the long tail from GTA Online gets",
-        "Wynik 99 na 100 punktów oznacza wyrównanie legendarnego rekordu gry The Legend of Zelda: Ocarina of Time , która zadebiutowała na konsoli Nintendo 64 blisko trzy dekady temu, w 1997 roku . Serwis agreguje recenzje wyłącznie od zatwierdzonych, profesjonalnych redakcji branżowych, przeliczając różne skale na przedział od 0 do 100. Następnie wyliczana jest średnia ważona , w której najbardziej renomowane media mają nieco większy wpływ na końcowy rezultat.",
-        "Mimo że liczba zweryfikowanych recenzji GTA 6 na PlayStation 5 błyskawicznie urosła do 166 tekstów , średnia utrzymuje się na poziomie 99 punktów . Równie imponująco wyglądają dane z konkurencyjnego agregatora OpenCritic , gdzie średnia najważniejszych krytyków oscyluje wokół 98–99 punktów przy stuprocentowym wskaźniku rekomendacji ."
+        "Połowa listopada za nami, a na giełdach dzieje się tyle, że podręczniki do psychologii inwestowania można by pisać na nowo. Gdy na początku miesiąca czytaliśmy listopadowe typy w „Portfelu Gwiazd” Bankier.pl, część ekspertów szukała okazji po październikowej przecenie, a inni postanowili wskoczyć na grzbiet rozpędzonych trendów. Sprawdzam więc dlaczego owczy pęd bywa na giełdzie gorszym doradcą niż zły humor przed sesją.",
+        "/ Bankier.pl Przyjrzyjmy się najpierw surowym liczbom z parkietów, bo te – jak zwykle – nie biorą jeńców. Warszawska giełda w pierwszej połowie listopada postanowiła zagrać na nosie pesymistom. Główny indeks WIG20 w połowie miesiąca wyznaczył nowe historyczne maksimum , przebijając barierę 4321 pkt, co oznacza około 3,3-procentowy wzrost względem końca października. To bolesna wiadomość dla Piotra Kuczyńskiego, który na listopad otworzył m.in. krótką pozycję na WIG20 , obawiając się, że GPW podda się globalnemu schłodzeniu.",
+        "Na krajowym podwórku w świetnym humorze może być za to dr Kamil Gemra, który bez zmian pozostawił w portfelu Allegro . Po imponującym październiku (+17,6%) gigant e-commerce nie zwalnia tempa – w połowie listopada kurs wystrzelił o kolejne kilkanaście procent w zaledwie osiem sesji, meldując się w okolicy 68,00 zł, czyli najwyżej od września 2021 r.",
+        "Zupełnie inny nastrój panuje wokół XTB , na które postawili zarówno Sobiesław Kozłowski, jak i Albert Rokicki. Na kursie doszło do prawdziwego trzęsienia ziemi – po informacjach o interwencji KNF na rynku kontraktów CFD kurs runął o 21,3 proc. w ciągu dwóch kolejnych dni.",
+        "Wróćmy jednak do sedna dzisiejszej lekcji o psychologii inwestowania. W zestawieniu na listopad jak na dłoni widać dwa mechanizmy, które od dekad czyszczą rachunki inwestorów indywidualnych: zachowania stadne oraz pogoń za trendem. Na czym polega ta pułapka? Ludzki mózg jest ewolucyjnie zaprogramowany do szukania bezpieczeństwa w grupie . Jeśli wszyscy biegną w jednym kierunku i krzyczą, że za rogiem rozdają darmowe obiady, nasz instynkt podpowiada: „biegnij z nimi, inaczej zostaniesz z tyłu!”. Na giełdzie ten pierwotny odruch zamienia się w FOMO (strach przed przegapieniem okazji) oraz bezrefleksyjne założenie, że skoro wykres od miesięcy pnie się w górę, to będzie rósł w nieskończoność."
       ]
     },
     {
-      "id": "rynki-5-0f9177",
-      "entity_tag": "XTB (GPW: XTB)",
-      "sector": "Fintech & Brokerzy",
+      "id": "rynki-7-bcfecb",
+      "entity_tag": "KGHM (GPW: KGH)",
+      "sector": "Surowce & Górnictwo",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących XTB (GPW: XTB) (Fintech & Brokerzy) (kluczowe liczby: 19 proc.) bez bezpośredniego szoku wycenowego.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 3,2 mld zł, 2,5 mld zł, 340 mln zł) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [
-        "19 proc."
+        "3,2 mld zł",
+        "2,5 mld zł",
+        "340 mln zł"
       ],
-      "title": "KNF odpowiada na zarzuty po tąpnięciu XTB. \"Mamy świadomość wpływu na decyzje inwestorów”",
+      "title": "CD Projekt RED wystrzelił przed premierą GTA VI. Akcje KGHM i XTB znów mocno w dół",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "12:50",
+      "time": "17:28",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/KNF-odpowiada-na-zarzuty-po-tapnieciu-XTB-Mamy-swiadomosc-ze-nasze-slowa-to-sygnal-9230843.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/6/4053709ab12e4f-948-568-0-175-1360-815.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/CD-Projekt-RED-wystrzelil-przed-premiera-GTA-VI-Akcje-KGHM-i-XTB-znow-mocno-w-dol-9231099.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/1/8/20ec54012a8c87-945-560-0-0-2048-1228.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Urząd Komisji Nadzoru Finansowego zabrał głos w sprawie gwałtownej przeceny akcji XTB, wywołanej słowami wiceszefa KNF w trakcie wtorkowej sesji giełdowej.",
-        "W odpowiedzi na pytania naszej redakcji nadzorca wprost przyznaje, że jest świadomy wpływu swoich wypowiedzi na decyzje inwestorów, ale nie zamierza powstrzymywać się od otwartego dialogu o ryzykach.",
-        "- Nie widzimy podstaw do unikania wypowiedzi na temat istotnych zagadnień regulacyjnych - odpowiada KNF."
+        "Środowa sesja na GPW zakończyła się przewagą podaży.",
+        "Podczas gdy notowania KGHM kontynuowały czarną serię w ślad za taniejącą miedzią i srebrem, a akcje XTB pogłębiły przecenę pod presją zapowiedzi KNF, mocnym odbiciem popisał się CD Projekt RED, wspierany gorączką wokół premiery gry GTA VI.",
+        "/ GPW Środowe notowania przy ulicy Książęcej przebiegały pod dyktando sprzedających, choć skala przeceny głównych benchmarków pozostała relatywnie niewielka na tle zachodnioeuropejskich parkietów."
       ],
       "extended_paragraphs": [
-        "Urząd Komisji Nadzoru Finansowego zabrał głos w sprawie gwałtownej przeceny akcji XTB, wywołanej słowami wiceszefa KNF w trakcie wtorkowej sesji giełdowej. W odpowiedzi na pytania naszej redakcji nadzorca wprost przyznaje, że jest świadomy wpływu swoich wypowiedzi na decyzje inwestorów, ale nie zamierza powstrzymywać się od otwartego dialogu o ryzykach. - Nie widzimy podstaw do unikania wypowiedzi na temat istotnych zagadnień regulacyjnych - odpowiada KNF.",
-        "/ KNF Wtorkowe załamanie notowań XTB - w szczytowym momencie nawet o 19 proc. - wywołało na rynku wzmożoną dyskusję. Iskrą, która napędziła wyprzedaż, była zapowiedź nowej interwencji produktowej na rynku kontraktów CFD , wygłoszona przez zastępcę przewodniczącego KNF Dariusza Adamskiego na konferencji \"Parkiet ExChange\". Wielu inwestorów komentujących sprawę w sieci zbulwersował fakt, że deklaracja dotycząca rynku CFD - stanowiącego główny filar przychodów brokera - padła z ust urzędnika w samym środku trwającej sesji giełdowej.",
-        "Zapytaliśmy UKNF, jak odnosi się do stawianych przez część inwestorów zarzutów, że to ta publiczna wypowiedź uderzyła w kapitalizację największego polskiego brokera. Otrzymane stanowisko publikujemy w całości na końcu artykułu.",
-        "Jacek Barszczewski, dyrektor Departamentu Komunikacji Społecznej KNF, w obszernej odpowiedzi na pytania Bankier.pl argumentuje, że rynek CFD już od 2019 roku objęty jest interwencją produktową, a obecny przegląd tych przepisów w 2026 roku wynika wprost z samej treści tamtej decyzji oraz z rozstrzygnięć z 2021 roku.",
-        "- Wtorkowa wypowiedź Dariusza Adamskiego dotyczyła wniosków dotyczących rynku CFD, jakie wynikają z przeglądu interwencji. Nie obejmowała ona natomiast szczegółów regulacyjnych ewentualnej zmiany interwencji. W zakresie samej interwencji nie pojawiły się więc żadne nowe informacje - podkreśla Barszczewski, dodając, że kierunek prac nadzoru był znany od dawna. - Wszystkie były już wcześniej sygnalizowane publicznie przez UKNF i nie mogły stanowić zaskoczenia dla uczestników rynku, którzy śledzą działania Urzędu w obszarze ochrony inwestorów indywidualnych."
+        "Środowa sesja na GPW zakończyła się przewagą podaży. Podczas gdy notowania KGHM kontynuowały czarną serię w ślad za taniejącą miedzią i srebrem, a akcje XTB pogłębiły przecenę pod presją zapowiedzi KNF, mocnym odbiciem popisał się CD Projekt RED, wspierany gorączką wokół premiery gry GTA VI.",
+        "/ GPW Środowe notowania przy ulicy Książęcej przebiegały pod dyktando sprzedających, choć skala przeceny głównych benchmarków pozostała relatywnie niewielka na tle zachodnioeuropejskich parkietów. WIG20 spadł o 0,61 proc. , natomiast indeks szerokiego rynku WIG zniżkował o 0,51 proc. Lepiej zaprezentował się segment średnich spółek, gdzie mWIG40 poszedł w dół o 0,12 proc. , ale już sWIG80 stracił 0,58 proc. Obroty wyniosły w środę 3,2 mld zł na WIG, z czego 2,5 mld zł dotyczyło spółek z portfela blue chipów, a 340 mln zł przecenionych akcjach XTB.",
+        "W momencie zamknięcia handlu w Warszawie nastroje na głównych parkietach Starego Kontynentu były wyraźnie gorsze niż nad Wisłą . W Londynie indeks FTSE 100 spadał o 1,2 proc. , we Frankfurcie niemiecki DAX tracił 1 proc. , a paryski CAC40 zniżkował o 0,6 proc. Mieszany obraz wyłaniał się w tym czasie zza oceanu, gdzie trwała pierwsza część sesji na Wall Street. Amerykański indeks S&P 500 spadał o 0,1 proc. , ale technologiczny Nasdaq Composite zwyżkował o 0,3 proc. ,",
+        "Spółki technologiczne ponownie poprowadziły Wall Street do wzrostów po publikacji rewelacyjnych wyników kwartalnych przez Nvidię . Amerykański gigant nie tylko pobił oczekiwania rynkowe, ale również podniósł prognozę sprzedaży na przyszły rok , skutecznie łagodząc narastające w ostatnich tygodniach obawy inwestorów o trwałość popytu na infrastrukturę związaną ze sztuczną inteligencją.",
+        "Entuzjazm po raporcie Nvidii był jednak chłodzony przez sygnały płynące z amerykańskiej Rezerwy Federalnej. Christopher Waller z nowojorskiego oddziału Fed ocenił, że uporczywa inflacja może wymagać podwyżki stóp procentowych aż o 50 punktów bazowych już na grudniowym posiedzeniu . Tak jastrzębia retoryka wsparła notowania amerykańskiego dolara, co tradycyjnie ciąży rynkom wschodzącym oraz notowaniom surowców przemysłowych."
       ]
     },
     {
-      "id": "rynki-6-e82282",
-      "entity_tag": "Microsoft (NASDAQ: MSFT)",
-      "sector": "Chmura & AI",
-      "market_impact": "HIGH",
+      "id": "rynki-2-568f07",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "MEDIUM",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Microsoft (NASDAQ: MSFT) (Chmura & AI) (kluczowe liczby: 11%, 12%, 6%) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 20 milionów dolarów) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "11%",
-        "12%",
-        "6%"
+        "20 milionów dolarów"
       ],
-      "title": "Awarie technologiczne powodują, że ludzie wpadają w panikę i kupują. Costco odnosi korzyści, mówi Mizuho",
-      "original_title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "title": "Trump prowadzi oddzielne rozmowy z Putinem i Xi przed ich historycznym spotkaniem trójstronnym",
+      "original_title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:33",
+      "time": "06:29",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108415077-1792082548621-gettyimages-2298322115-dsc0251_costco01_10022026.jpeg?v=1795017291&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108554923-1795068346389-gettyimages-2305268004-AFP_D7XJ9WY.jpeg?v=1795068686&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Kupujący wydają więcej w Costco, ponieważ przerwy technologiczne zamieniają się w wyścig o zaopatrzenie w towary awaryjne.",
-        "Mizuho szacuje, że w ostatnim tygodniu października porównywalna sprzedaż Costco w USA, z wyłączeniem benzyny, wzrosła o 11% do 12%, w porównaniu z normalnymi 6% do 7% w pierwszych trzech tygodniach października.",
-        "Costco odnotowało wzrost o 8,1% w miesiącu."
+        "Prezydent USA Donald Trump spotkał się w czwartek indywidualnie z prezydentem Rosji Władimirem Putinem i prezydentem Chin Xi Jinpingiem.",
+        "SHENZHEN, Chiny – Jak wynika z notatek basenowych i chińskich mediów państwowych, w czwartek prezydent USA Donald Trump spotkał się oddzielnie z Władimirem Putinem i Xi Jinpingiem przed zaplanowanymi spotkaniami trójstronnymi ze swoimi rosyjskimi i chińskimi odpowiednikami.",
+        "Wcześniej w czwartek przywódcy i inni członkowie Współpracy Gospodarczej Azji i Pacyfiku zebrali się na szczycie."
       ],
       "extended_paragraphs": [
-        "Kupujący wydają więcej w Costco, ponieważ przerwy technologiczne zamieniają się w wyścig o zaopatrzenie w towary awaryjne.",
-        "Mizuho szacuje, że w ostatnim tygodniu października porównywalna sprzedaż Costco w USA, z wyłączeniem benzyny, wzrosła o 11% do 12%, w porównaniu z normalnymi 6% do 7% w pierwszych trzech tygodniach października. Costco odnotowało wzrost o 8,1% w miesiącu. Firma podała, że ​​szybsze tempo utrzymuje się do listopada, ponieważ 21 z 26 generatorów o wysokich biletach, które śledziła na stronie internetowej Costco, zostało wyprzedanych w niedzielny wieczór.",
-        "Akcje Costco utrzymywały się na mniej więcej stałym poziomie w środę rano, notując około 1107 dolarów za sztukę.",
-        "„Niepokoje konsumentów po awarii programu Microsoft Outlook, przestoju wszystkich lotów amerykańskich linii lotniczych i apokaliptycznych obaw pojawiających się w mediach społecznościowych przyczyniły się do wzrostu sprzedaży preparatów awaryjnych w COST” – stwierdził analityk Mizuho David Bellinger w poniedziałkowej notatce badawczej. Bellinger pojawi się w programie „The Exchange” stacji CNBC o godzinie 13:00. godzina.",
-        "W czwartek nastąpiła awaria programu Outlook i Teams firmy Microsoft, a w piątek Federalna Administracja Lotnicza wstrzymała loty w całym kraju. W poniedziałek awaria oprogramowania w JPMorgan Chase spowodowała opóźnienia w transakcjach bankowych, a awaria systemu opóźniła loty United Airlines. Agencja Bezpieczeństwa Narodowego podała we wtorek, że sieć komunikacyjna agencji szpiegowskiej chwilowo przestała działać."
+        "Prezydent USA Donald Trump spotkał się w czwartek indywidualnie z prezydentem Rosji Władimirem Putinem i prezydentem Chin Xi Jinpingiem.",
+        "SHENZHEN, Chiny – Jak wynika z notatek basenowych i chińskich mediów państwowych, w czwartek prezydent USA Donald Trump spotkał się oddzielnie z Władimirem Putinem i Xi Jinpingiem przed zaplanowanymi spotkaniami trójstronnymi ze swoimi rosyjskimi i chińskimi odpowiednikami.",
+        "Wcześniej w czwartek przywódcy i inni członkowie Współpracy Gospodarczej Azji i Pacyfiku zebrali się na szczycie. Trump i Xi weszli do pokoju obok siebie.",
+        "Xi powiedział, że Chiny przekażą 20 milionów dolarów na wsparcie współpracy APEC i utworzą „Centrum Studiów Społecznych Azji i Pacyfiku w Shenzhen w celu prowadzenia badań politycznych i wymian oraz zapewniania wsparcia intelektualnego”.",
+        "Później podczas porannej sesji Trump powiedział, że jest przeciwny regulowaniu sztucznej inteligencji, ponieważ „zdusiłoby to” branżę."
       ]
     },
     {
-      "id": "rynki-7-f02802",
-      "entity_tag": "EBC (Strefa Euro)",
-      "sector": "Banki Centralne",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Wpływ na kapitał: Korzystne otoczenie dla sektora bankowego i wyceny PLN (kluczowe liczby: 2%, 3%, 5%); stabilizuje oczekiwania dotyczące kosztu pieniądza.",
-      "key_metrics": [
-        "2%",
-        "3%",
-        "5%"
-      ],
-      "title": "Euroinflacja rozlewa się po Europie. Lider może być tylko jeden",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "11:01",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Inflacja-w-krajach-Unii-Europejskiej-w-pazdzierniku-2026-Lider-moze-byc-tylko-jeden-9230749.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/a/94d51e8c05d96e-945-560-0-52-1500-899.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "W niemal wszystkich krajach Unii Europejskiej inflacja przekraczała 2%.",
-        "W miażdżącej większości było to ponad 3%, a w jednej trzeciej państw członkowskich ceny rosły w tempie bliskim lub wyższym od 5%.",
-        "fot. Kai Pfaffenbach / / FORUM W październiku 2026 roku inflacja HICP w Unii Europejskiej wyniosła 4,0% i był to najwyższy odczyt od ponad trzech lat."
-      ],
-      "extended_paragraphs": [
-        "W niemal wszystkich krajach Unii Europejskiej inflacja przekraczała 2%. W miażdżącej większości było to ponad 3%, a w jednej trzeciej państw członkowskich ceny rosły w tempie bliskim lub wyższym od 5%.",
-        "fot. Kai Pfaffenbach / / FORUM W październiku 2026 roku inflacja HICP w Unii Europejskiej wyniosła 4,0% i był to najwyższy odczyt od ponad trzech lat. W strefie euro zharmonizowany wskaźnik inflacji konsumenckiej również wzrósł o 4,0% rdr – podał w środę Eurostat.",
-        "Podobnie jak w poprzednich miesiącach za taki stan rzeczy odpowiadają przede wszystkim coraz wyższe ceny paliw i energii. Według Eurostatu w październiku ceny energii poszły w górę o 1,5% względem września i były aż o 21% wyższe niż w październiku 2025 roku .",
-        "Wciąż podwyższona pozostaje inflacja w sektorze usługowym, gdzie ceny wzrosły średnio o 3,3% rdr – czyli najszybciej od trzech miesięcy. W rezultacie bazowa inflacja HICP – czyli wskaźnik po wyłączeniu cen energii, paliw i żywności – wzrosła z 2,5% do 2,6%.",
-        "Mimo to październik był już ósmym miesiącem z rzędu, w którym inflacja HICP w eurolandzie przekraczała 2-procentowy cel Europejskiego Banku Centralnego. Aby zmienić ten stan rzeczy, EBC dokonał w tym roku już dwóch 25-punktowych podwyżek stóp procentowych. Trzeci taki ruch oczekiwany jest w grudniu."
-      ]
-    },
-    {
-      "id": "rynki-8-e29053",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [],
-      "title": "Śledczy czynią postępy w poszukiwaniu przyczyny zatrzymania naziemnego FAA",
-      "original_title": "Investigators make progress in hunt for cause of FAA ground stop",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:13",
-      "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108554363-1795021285948-gettyimages-2304593499-AFP_D7GL3L4.jpeg?v=1795021325&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Finance",
-      "lead_story": false,
-      "summary_points": [
-        "Inżynierowie i analitycy nadal szukają pierwotnej przyczyny problemu, który w piątek doprowadził do czterogodzinnego postoju naziemnego.",
-        "Inżynierowie i analitycy poszukujący pierwotnej przyczyny problemów technicznych będących przyczyną piątkowego ogólnokrajowego zatrzymania naziemnego przez Federalną Administrację Lotniczą byli w stanie odtworzyć sytuację, w której przeważały części systemu ruchu lotniczego, powiedziały CNBC osoby zaznajomione z dochodzeniem.",
-        "Choć odtworzenie problemu w laboratorium na Florydzie stanowi postęp, osoby prowadzące dochodzenie w tej sprawie nie ustaliły jeszcze dokładnie, dlaczego dwa routery, o których mowa, uległy awarii – twierdzą osoby, które poprosiły o zachowanie anonimowości, aby porozmawiać o bieżącej sytuacji."
-      ],
-      "extended_paragraphs": [
-        "Inżynierowie i analitycy nadal szukają pierwotnej przyczyny problemu, który w piątek doprowadził do czterogodzinnego postoju naziemnego.",
-        "Inżynierowie i analitycy poszukujący pierwotnej przyczyny problemów technicznych będących przyczyną piątkowego ogólnokrajowego zatrzymania naziemnego przez Federalną Administrację Lotniczą byli w stanie odtworzyć sytuację, w której przeważały części systemu ruchu lotniczego, powiedziały CNBC osoby zaznajomione z dochodzeniem.",
-        "Choć odtworzenie problemu w laboratorium na Florydzie stanowi postęp, osoby prowadzące dochodzenie w tej sprawie nie ustaliły jeszcze dokładnie, dlaczego dwa routery, o których mowa, uległy awarii – twierdzą osoby, które poprosiły o zachowanie anonimowości, aby porozmawiać o bieżącej sytuacji. Znalezienie pierwotnej przyczyny ma kluczowe znaczenie dla ustalenia przez FAA, czy może występować problem z innymi routerami stanowiącymi szkielet komunikacji krajowej sieci transportu lotniczego.",
-        "Przerwa naziemna trwała w piątek ponad cztery godziny i była najdłuższym zatrzymaniem odlotów samolotów z USA od 11 września.",
-        "Sekretarz transportu Sean Duffy i administrator FAA Bryan Bedford oświadczyli, że nic nie wskazuje na to, aby routery uległy awarii w wyniku cyberataku."
-      ]
-    },
-    {
-      "id": "rynki-4-640dd2",
+      "id": "rynki-6-640dd2",
       "entity_tag": "Azja & Pacyfik",
       "sector": "Gospodarka Światowa",
       "market_impact": "MEDIUM",
@@ -1181,42 +1149,77 @@
         "Oczekuje się, że w czwartek prezydent USA Donald Trump, prezydent Chin Xi Jinping i prezydent Rosji Władimir Putin odbędą rzadkie spotkanie trójstronne.",
         "SHENZHEN, Chiny – Dla mnie, Amerykanina, była to podróż do Chin, aby po raz pierwszy osobiście spotkać się z prezydentem USA Donaldem Trumpem.",
         "Trump wyłonił się z grupy otaczających go ubranych na czarno fotografów i innego personelu podczas bankietu powitalnego w Shenzhen z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku, które odbyło się w dniach 17–19 listopada.",
-        "Zaledwie kilka miejsc po jego lewej stronie siedział prezydent Rosji Władimir Putin, który wziął kieliszek czerwonego wina, aby dołączyć do toastu prowadzonego przez prezydenta Chin Xi Jinpinga.",
+        "Zaledwie kilka miejsc po jego lewej stronie siedział prezydent Rosji Władimir Putin, który sięgnął po kieliszek czerwonego wina, aby dołączyć do toastu prowadzonego przez prezydenta Chin Xi Jinpinga.",
         "„Na jutrzejszym spotkaniu przywódców omówimy środki mające na celu poszerzenie wzajemnego otwarcia, zbadamy ścieżki wzrostu opartego na innowacjach i określimy możliwości rozszerzenia praktycznej współpracy na różne dziedziny, tak aby przełożyć więcej inicjatyw na wymierne rezultaty” – powiedział Xi w języku mandaryńskim, według tłumaczenia CNBC."
+      ]
+    },
+    {
+      "id": "rynki-8-9cd499",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 3%, 3,75%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3%",
+        "3,75%"
+      ],
+      "title": "Walmart ma zgłosić zarobki przed dzwonkiem. Oto, czego się spodziewać",
+      "original_title": "Walmart is set to report earnings before the bell. Here's what to expect",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "05:01",
+      "source": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549203-1794421348751-gettyimages-2292765585-US_RETAIL.jpeg?v=1795042518&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Finance",
+      "lead_story": false,
+      "summary_points": [
+        "Oczekuje się, że Walmart zaoferuje kolorystykę wydatków konsumenckich przed sezonem świątecznym, gdy klienci będą zwracać uwagę na wartość i wygodę.",
+        "Walmart ma opublikować swoje zyski za trzeci kwartał fiskalny w czwartek, gdy sprzedawca detaliczny przygotowuje się do sezonu świątecznego, w którym kładzie się większy nacisk na wartość w obliczu gorszych nastrojów konsumentów.",
+        "Ten wielkopowierzchniowy sprzedawca detaliczny odnotował w ciągu ostatnich kilku kwartałów solidny wzrost, ponieważ widzi, że klienci skłaniają się ku obniżkom cen, poprawie dostaw i zyskom w swojej działalności reklamowej."
+      ],
+      "extended_paragraphs": [
+        "Oczekuje się, że Walmart zaoferuje kolorystykę wydatków konsumenckich przed sezonem świątecznym, gdy klienci będą zwracać uwagę na wartość i wygodę.",
+        "Walmart ma opublikować swoje zyski za trzeci kwartał fiskalny w czwartek, gdy sprzedawca detaliczny przygotowuje się do sezonu świątecznego, w którym kładzie się większy nacisk na wartość w obliczu gorszych nastrojów konsumentów.",
+        "Ten wielkopowierzchniowy sprzedawca detaliczny odnotował w ciągu ostatnich kilku kwartałów solidny wzrost, ponieważ widzi, że klienci skłaniają się ku obniżkom cen, poprawie dostaw i zyskom w swojej działalności reklamowej. Stara się także przyciągać konsumentów o wyższych dochodach dzięki członkostwu w Walmart+.",
+        "Oto, co spółka ma zgłosić za trzeci kwartał finansowy na podstawie ankiety przeprowadzonej wśród analityków przez LSEG:",
+        "Walmart podał wcześniej, że spodziewa się wzrostu sprzedaży netto w trzecim kwartale o 3% do 3,75%. Dyrektor finansowy John David Rainey powiedział CNBC w zeszłym kwartale, że „biznes Walmartu jest silny” i że jego postępy zachęcają go do działania."
       ]
     }
   ],
   "makro": [
     {
-      "id": "makro-4-4cfcb2",
+      "id": "makro-2-b7782b",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Sztuczna Inteligencja” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Czy rekordowe IPO Anthropic może powstrzymać pęknięcie bańki AI?",
-      "original_title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "title": "Gigant AI Anthropic wyceniony na 1,5 biliona dolarów przed debiutem na giełdzie",
+      "original_title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:28",
+      "time": "02:20",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": true,
       "summary_points": [
-        "Oczekuje się, że dzięki gorąco oczekiwanej ofercie publicznej Anthropic znajdzie się na liście 10 najcenniejszych spółek w USA, ale przyszłość jest niepewna.",
-        "To było w listopadzie 2020 roku gdzieś w San Francisco kobieta o imieniu Daniela Amodei zadzwoniła do przyjaciółki, prosząc o radę.",
-        "Daniela nadzorowała bezpieczeństwo i politykę w OpenAI, jednej z najczęściej omawianych firm zajmujących się sztuczną inteligencją na świecie."
+        "Firma stojąca za chatbotem Claude stanie się jedną z najcenniejszych firm na świecie.",
+        "Wartość Anthropic będzie wyceniana na 1,5 biliona dolarów (1,14 biliona funtów), gdy w czwartek pięcioletnia firma zajmująca się sztuczną inteligencją zadebiutuje na giełdzie, stając się jedną z najcenniejszych firm na świecie.",
+        "Firma stojąca za chatbotem Claude powiedziała, że ​​w momencie notowania na Nasdaq, nowojorskiej giełdzie papierów wartościowych skupiającej się na technologii, jej akcje będą wycenione na 83 dolary."
       ],
       "extended_paragraphs": [
-        "Oczekuje się, że dzięki gorąco oczekiwanej ofercie publicznej Anthropic znajdzie się na liście 10 najcenniejszych spółek w USA, ale przyszłość jest niepewna.",
-        "To było w listopadzie 2020 roku gdzieś w San Francisco kobieta o imieniu Daniela Amodei zadzwoniła do przyjaciółki, prosząc o radę.",
-        "Daniela nadzorowała bezpieczeństwo i politykę w OpenAI, jednej z najczęściej omawianych firm zajmujących się sztuczną inteligencją na świecie.",
-        "Jednak Daniela i jej brat Dario, którzy również tam pracowali, mieli wątpliwości co do poziomu bezpieczeństwa w OpenAI i pomyśleli, że może czas odejść.",
-        "Zrobiła więc to, co robi wielu, gdy nie możemy się o czymś zdecydować, zadzwoniła do przyjaciółki. Odpowiedź przyjaciela była bezpośrednia i rzeczowa: „Nie musisz ze mną rozmawiać przez telefon. Znasz już odpowiedź”."
+        "Firma stojąca za chatbotem Claude stanie się jedną z najcenniejszych firm na świecie.",
+        "Wartość Anthropic będzie wyceniana na 1,5 biliona dolarów (1,14 biliona funtów), gdy w czwartek pięcioletnia firma zajmująca się sztuczną inteligencją zadebiutuje na giełdzie, stając się jedną z najcenniejszych firm na świecie.",
+        "Firma stojąca za chatbotem Claude powiedziała, że ​​w momencie notowania na Nasdaq, nowojorskiej giełdzie papierów wartościowych skupiającej się na technologii, jej akcje będą wycenione na 83 dolary.",
+        "Wejście na giełdę Anthropic sprawi, że stanie się ona pierwszą amerykańską firmą skupioną wyłącznie na sztucznej inteligencji, która wejdzie na giełdę. Siedmiu założycieli, którzy założyli firmę w 2021 roku, stanie się multimiliarderami.",
+        "Będzie to także ważny test dla szybko rozwijającej się branży, która stoi przed pytaniem, czy ogromne pieniądze wpompowane w tę technologię się zwrócą."
       ]
     },
     {
@@ -1255,7 +1258,39 @@
       ]
     },
     {
-      "id": "makro-6-70d8fa",
+      "id": "makro-6-4cfcb2",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Sztuczna Inteligencja” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Czy rekordowa oferta publiczna Anthropic może powstrzymać pęknięcie bańki AI?",
+      "original_title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:28",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Oczekuje się, że dzięki gorąco oczekiwanej ofercie publicznej Anthropic znajdzie się na liście 10 najcenniejszych spółek w USA, ale przyszłość jest niepewna.",
+        "To było w listopadzie 2020 roku gdzieś w San Francisco kobieta o imieniu Daniela Amodei zadzwoniła do przyjaciółki, prosząc o radę.",
+        "Daniela nadzorowała bezpieczeństwo i politykę w OpenAI, jednej z najczęściej omawianych firm zajmujących się sztuczną inteligencją na świecie."
+      ],
+      "extended_paragraphs": [
+        "Oczekuje się, że dzięki gorąco oczekiwanej ofercie publicznej Anthropic znajdzie się na liście 10 najcenniejszych spółek w USA, ale przyszłość jest niepewna.",
+        "To było w listopadzie 2020 roku gdzieś w San Francisco kobieta o imieniu Daniela Amodei zadzwoniła do przyjaciółki, prosząc o radę.",
+        "Daniela nadzorowała bezpieczeństwo i politykę w OpenAI, jednej z najczęściej omawianych firm zajmujących się sztuczną inteligencją na świecie.",
+        "Jednak Daniela i jej brat Dario, którzy również tam pracowali, mieli wątpliwości co do poziomu bezpieczeństwa w OpenAI i pomyśleli, że może czas odejść.",
+        "Zrobiła więc to, co robi wielu, gdy nie możemy się o czymś zdecydować, zadzwoniła do przyjaciółki. Odpowiedź przyjaciela była bezpośrednia i rzeczowa: „Nie musisz ze mną rozmawiać przez telefon. Znasz już odpowiedź”."
+      ]
+    },
+    {
+      "id": "makro-7-70d8fa",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
@@ -1324,38 +1359,6 @@
       ]
     },
     {
-      "id": "makro-2-6b28c2",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Producent Claude’a, firma Anthropic, jest gotowa na debiut na giełdzie o wartości ponad 1,4 biliona dolarów",
-      "original_title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:44",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Firma Anthropic rozpoczęła działalność zaledwie pięć lat temu i jest obecnie jedną z największych marek w dziedzinie sztucznej inteligencji.",
-        "Wartość Anthropic w momencie debiutu na publicznej giełdzie osiągnie wartość ponad 1,4 biliona dolarów (1,1 biliona funtów).",
-        "Firma zajmująca się sztuczną inteligencją (AI), stojąca za popularnym chatbotem Claude, oświadczyła, że ​​w czwartek, gdy spółka wejdzie na giełdę Nasdaq, nowojorskiej giełdy papierów wartościowych, będzie wyceniać akcje po 83 dolary za sztukę."
-      ],
-      "extended_paragraphs": [
-        "Firma Anthropic rozpoczęła działalność zaledwie pięć lat temu i jest obecnie jedną z największych marek w dziedzinie sztucznej inteligencji.",
-        "Wartość Anthropic w momencie debiutu na publicznej giełdzie osiągnie wartość ponad 1,4 biliona dolarów (1,1 biliona funtów).",
-        "Firma zajmująca się sztuczną inteligencją (AI), stojąca za popularnym chatbotem Claude, oświadczyła, że ​​w czwartek, gdy spółka wejdzie na giełdę Nasdaq, nowojorskiej giełdy papierów wartościowych, będzie wyceniać akcje po 83 dolary za sztukę.",
-        "Będzie to pierwsza amerykańska firma skupiona wyłącznie na sztucznej inteligencji, która wejdzie na giełdę, co będzie stanowić kluczowy test dla szybko rozwijającej się branży, która stoi przed pytaniami, czy ogromne inwestycje w tę technologię będą opłacalne.",
-        "Firma zajmująca się sztuczną inteligencją poinformowała na początku tego miesiąca, że ​​prawdopodobnie zaoferuje swoje akcje po cenie od 70 do 78 dolarów za sztukę, co oznacza wycenę spółki na aż 1,3 biliona dolarów."
-      ]
-    },
-    {
       "id": "makro-3-635edf",
       "entity_tag": "PGE (GPW: PGE)",
       "sector": "Energetyka",
@@ -1388,7 +1391,7 @@
       ]
     },
     {
-      "id": "makro-7-e30604",
+      "id": "makro-4-e30604",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1403,17 +1406,17 @@
       "time": "00:00",
       "source": "BBC Business",
       "source_url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc2e/live/1e9dd410-e3e2-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
         "Były pracownik McDonald's wzywa firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”, gdyż sędzia orzekł, że sprawa sądowa przeciwko sieci może zostać rozpatrzona.",
-        "Autor: Noor Nanji i Zoe Conway BBC News Opublikowano 34 minuty temu Była pracownica McDonald's, która twierdzi, że menadżer nie zapewnił jej ochrony, gdy klienci molestowali ją seksualnie, wezwała firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”.",
+        "Autor: Noor Nanji i Zoe Conway BBC News Opublikowano 8 godzin temu Była pracownica McDonald's, która twierdzi, że menadżer nie zapewnił jej ochrony, gdy klienci molestowali ją seksualnie, wezwała firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”.",
         "Hope, która w 2023 r. pracowała w oddziale w West Midlands, również powiedziała BBC News, że widziała starszych kolegów, którzy przyglądali się 16- i 17-letnim pracownikom i mówili, że chcą się z nimi przespać, gdy ukończą 18 lat."
       ],
       "extended_paragraphs": [
         "Były pracownik McDonald's wzywa firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”, gdyż sędzia orzekł, że sprawa sądowa przeciwko sieci może zostać rozpatrzona.",
-        "Autor: Noor Nanji i Zoe Conway BBC News Opublikowano 34 minuty temu Była pracownica McDonald's, która twierdzi, że menadżer nie zapewnił jej ochrony, gdy klienci molestowali ją seksualnie, wezwała firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”.",
+        "Autor: Noor Nanji i Zoe Conway BBC News Opublikowano 8 godzin temu Była pracownica McDonald's, która twierdzi, że menadżer nie zapewnił jej ochrony, gdy klienci molestowali ją seksualnie, wezwała firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”.",
         "Hope, która w 2023 r. pracowała w oddziale w West Midlands, również powiedziała BBC News, że widziała starszych kolegów, którzy przyglądali się 16- i 17-letnim pracownikom i mówili, że chcą się z nimi przespać, gdy ukończą 18 lat.",
         "Hope jest jednym z setek pracowników, którzy wnoszą skargę o dyskryminację przeciwko McDonald's. W tym tygodniu sędzia odrzucił próbę wycofania roszczeń McDonald's, co Hope przyjęła z zadowoleniem.",
         "McDonald's powiedział: „Zapewnienie bezpiecznego, pełnego szacunku i włączającego środowiska pracy w naszych restauracjach i biurach pozostaje podstawowym priorytetem”."
@@ -1422,7 +1425,39 @@
   ],
   "tech": [
     {
-      "id": "tech-1-5e71c2",
+      "id": "tech-1-ba0e31",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Hera dotarła do odległych planetoid. Pierwsze zdjęcia zszokowały członków misji",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:58",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/sonda-hera-zdjecia-planetoid-ujawnione",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/hera-misja.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": true,
+      "summary_points": [
+        "Naukowcy stojący za przebiegiem bezzałogowej misji sondy Hera, za którą stoi Europejska Agencja Kosmiczna, pokazali światu pierwsze zbliżenia układu podwójnych planetoid Didymos i Dimorphos.",
+        "Statek kosmiczny, który po dwóch latach podróży dotarł do celu swojej misji, dostarczył badaczom zupełnie nowego spojrzenia na powierzchnię większego z obiektów.",
+        "Uczeni nie kryją fascynacji i jak przyznają, widząc zdjęcia […] powrót Tech Testy Moto Nauka Publicystyka fot. ESA Chcesz czytać więcej treści jak „ Hera dotarła do odległych planetoid."
+      ],
+      "extended_paragraphs": [
+        "Naukowcy stojący za przebiegiem bezzałogowej misji sondy Hera, za którą stoi Europejska Agencja Kosmiczna, pokazali światu pierwsze zbliżenia układu podwójnych planetoid Didymos i Dimorphos. Statek kosmiczny, który po dwóch latach podróży dotarł do celu swojej misji, dostarczył badaczom zupełnie nowego spojrzenia na powierzchnię większego z obiektów. Uczeni nie kryją fascynacji i jak przyznają, widząc zdjęcia […]",
+        "Chcesz czytać więcej treści jak „ Hera dotarła do odległych planetoid. Pierwsze zdjęcia zszokowały członków misji \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Uczeni nie kryją fascynacji i jak przyznają, widząc zdjęcia po raz pierwszy powiedzieli po prostu: Wow! Co ciekawe, misja Hera jest częścią programu mającego na celu ocenę możliwości ochrony Ziemi przed uderzeniami planetoid. Jej historia sięga września 2022 roku, kiedy to NASA przeprowadziła eksperyment DART ( Double Asteroid Redirection Test ). Sonda kosmiczna o masie około 580 kilogramów uderzyła wtedy w Dimorphosa, czyli mniejszy obiekt krążący wokół planetoidy Didymos.",
+        "Czytaj też: Burza słoneczna zmieniła się w niespodziewany sposób. Sondy zarejestrowały przemianę plazmy",
+        "Celem eksperymentu było sprawdzenie, czy celowe zderzenie statku kosmicznego z planetoidą pozwoli zmienić jej orbitę. Wyniki okazały się bardzo obiecujące. W następstwie uderzenia okres obiegu Dimorphosa wokół większego towarzysza skrócił się o około 33 minuty. Była to znacznie większa zmiana, niż początkowo przewidywali naukowcy. Przy okazji zapisali się oni w historii, ponieważ nigdy przedtem ludzkość mierzalnie nie zmieniła orbity naturalnego obiektu w Układzie Słonecznym.",
+        "Kolejnym etapem przedsięwzięcia jest misja europejskiej sondy Hera, wystrzelonej przed dwoma laty. Jej zadaniem jest szczegółowe zbadanie skutków uderzenia DART, w tym miejsca zderzenia i zmian, jakie zaszły na powierzchni obu planetoid. Niedawno ESA opublikowała pierwsze spojrzenie na układ zapewnione przez sondę. Obraz powstał za pomocą monochromatycznej kamery Asteroid Framing Camera z odległości około 60 kilometrów. Wyraźnie widoczny jest Didymos, którego średnica wynosi około 780 metrów. Znacznie mniejszy Dimorphos, mierzący około 150 metrów, pozostaje w dużej mierze ukryty w cieniu swojego większego towarzysza."
+      ]
+    },
+    {
+      "id": "tech-5-5e71c2",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "HIGH",
@@ -1439,7 +1474,7 @@
       "source_url": "https://www.chip.pl/2026/11/granica-odwracania-czasu-limit-matematyka",
       "image_url": "https://konto.chip.pl/uploads/2024/07/czastka.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Motyw cofania czasu dotychczas towarzyszył nam wyłącznie w fikcyjnych dziełach, dlatego fizycy postanowili przekonać się, czy taka możliwość istnieje też w realnych warunkach.",
         "W tym celu przeprowadzili eksperyment na poziomie pojedynczych atomów.",
@@ -1454,7 +1489,7 @@
       ]
     },
     {
-      "id": "tech-2-6ff577",
+      "id": "tech-6-6ff577",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
@@ -1480,169 +1515,142 @@
       "extended_paragraphs": [
         "Dyrektor generalny Microsoft bagatelizował niedawną awarię programu Outlook, zauważając, że sztuczna inteligencja stwarza zarówno możliwości, jak i nowe wyzwania w zakresie zabezpieczania dużej części połączonego świata.",
         "W obawie przed cyberatakami sztucznej inteligencji Satya Nadella twierdzi, że dużej części infrastruktury krytycznej „nie da się naprawić” Lucas Ropek 15:45 PST · 18 listopada 2026 Podczas swojego środowego wystąpienia na szczycie DealBook Summit w dzienniku New York Times Satya Nadella, dyrektor generalny Microsoft, ubolewał nad faktem, że wiele amerykańskich systemów oprogramowania — w tym tych zarządzających sprzętem codziennego użytku i systemami transportowymi — cierpi z powodu niemożliwych do naprawienia luk w zabezpieczeniach oprogramowania, które w dobie cyberataków wspomaganych sztuczną inteligencją tylko czeka na wykorzystanie.",
-        "„Pamiętaj, że w naszej infrastrukturze krytycznej jest wiele elementów, których nie da się naprawić” – powiedział Nadella. \"To znaczy, pomyśl o całym oprogramowaniu sprzętowym i agregatach chłodniczych [urządzeniu chłodzącym często używanym w centrach danych] oraz systemach HVAC w każdym innym miejscu. A tak na marginesie, to wszystko jest w Internecie.",
+        "„Pamiętaj, że w naszej infrastrukturze krytycznej jest wiele elementów, których nie da się naprawić” – powiedział Nadella. \"To znaczy, pomyśl o całym oprogramowaniu sprzętowym i agregatach chłodniczych [urządzeniu chłodzącym często używanym w centrach danych] oraz systemach HVAC wszędzie indziej. A tak na marginesie, to wszystko jest w Internecie.",
         "Innymi słowy: smartyfikacja gospodarki, w której większość „głupich” urządzeń na świecie była podłączona do Internetu, powoduje obecnie ogromny ból głowy.",
         "Rozmowa odbyła się na tle fali niedawnych awarii na dużą skalę — w tym jednej z programem Microsoft Outlook. Inne dotyczyły NSA, FFA i Apple. Pojawiły się obawy, że przerwy te są wynikiem cyberataków, chociaż urzędnicy zaprzeczyli tym twierdzeniom. Mimo to rzeczywistość cyberataków wspomaganych sztuczną inteligencją zachęca firmy do poszukiwania nowych strategii wykrywania luk w zabezpieczeniach i ich naprawiania."
       ]
     },
     {
-      "id": "tech-3-8dc598",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Sodastream Ultimate Multi-Drink. Ten ekspres nie robi kawy, tylko Pepsi, Mirindę i lemoniadę!",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:30",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/sodastream-ultimate-multi-drink",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/sodastream-ultimate-multi-drink-8.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Pepsi, 7UP, Mirinda, a może owocowa lemoniada?",
-        "Do tej pory, kiedy mieliśmy ochotę na jeden z tych napojów, najczęściej sięgaliśmy po puszkę lub butelkę.",
-        "Ewentualnie przygotowywaliśmy go samodzielnie, gazując wodę i dodając odpowiednią ilość koncentratu."
-      ],
-      "extended_paragraphs": [
-        "Pepsi, 7UP, Mirinda, a może owocowa lemoniada? Do tej pory, kiedy mieliśmy ochotę na jeden z tych napojów, najczęściej sięgaliśmy po puszkę lub butelkę. Ewentualnie przygotowywaliśmy go samodzielnie, gazując wodę i dodając odpowiednią ilość koncentratu. Teraz pojawia się trzecia możliwość, która przypomina rozwiązania znane z restauracji — tyle że zamiast podchodzić do automatu z kubkiem […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Nie ogranicza się do gazowania wody. Potrafi samodzielnie przygotować gotowy napój, dobierając ilość koncentratu, poziom nagazowania i wielkość porcji — a wszystko to robi automatycznie, bez konieczności ręcznego mieszania składników. I uwierzcie, nie jest to kolejny zwykły kuchenny gadżet. Za tym pomysłem kryje się kilka naprawdę praktycznych rozwiązań.",
-        "Przez lata urządzenia Sodastream kojarzyły się przede wszystkim z jednym zadaniem — zamienianiem zwykłej wody w gazowaną. Cała operacja była prosta, ale kiedy przychodziła ochota na Pepsi czy lemoniadę, trzeba było wykonać dodatkowy krok. Odmierzyć koncentrat, dodać go do przygotowanej wody i wymieszać całość. Niby nic skomplikowanego, ale nadal wymagało to z naszej strony dodatkowego zaangażowania.",
-        "Ultimate Multi-Drink zmienia tę filozofię. To pierwszy tego typu ekspres w dotychczasowej ofercie marki, który automatyzuje przygotowywanie napojów smakowych. Wystarczy zamontować odpowiedni koncentrat, wybrać ustawienia i nacisnąć przycisk. Urządzenie samodzielnie pobiera wodę, dozuje syrop, miesza składniki i dodaje wybrany poziom nagazowania. Gotowy napój trafia wówczas bezpośrednio do szklanki, bez żadnych dodatkowych etapów i naszej ingerencji.",
-        "Co ciekawe, to również pierwszy model z dotychczasowej oferty Sodastream wymagający podłączenia do prądu. W tym przypadku ma to oczywiście uzasadnienie — automatyczne dozowanie składników i sterowanie całym procesem potrzebują zasilania. W efekcie otrzymujemy urządzenie, któremu pod względem sposobu działania zdecydowanie bliżej do ekspresu niż tradycyjnego saturatora."
-      ]
-    },
-    {
-      "id": "tech-4-776ccb",
-      "entity_tag": "Tesla / SpaceX",
-      "sector": "Motoryzacja & Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Elon Musk twierdzi, że wyrzucenie Jensena Huanga jest jak „wyrzucenie Michaela Jordana ze swojego zespołu”",
-      "original_title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:25",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-524212924.jpg?resize=1200,800",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "„Nie sądzę, że [Huang jest] nielojalny wobec Stanów Zjednoczonych” – powiedział Musk.",
-        "Elon Musk twierdzi, że wyrzucenie Jensena Huanga jest jak „wyrzucenie Michaela Jordana z zespołu” Amanda Silberling 15:25 PST · 18 listopada 2026 Elon Musk już głośno wyrażał swoją dezaprobatę dla decyzji zarządu Nvidii o usunięciu jej założyciela i dyrektora generalnego Jensena Huanga po upublicznieniu serii romansów pozamałżeńskich, w tym jednego z rzekomym chińskim szpiegiem podejrzanym o przekazywanie poufnych informacji Pekinowi.",
-        "W środę podczas szczytu DealBook New York Times Musk przedstawił swoje przemyślenia na temat zmiany przywództwa Nvidii."
-      ],
-      "extended_paragraphs": [
-        "„Nie sądzę, że [Huang jest] nielojalny wobec Stanów Zjednoczonych” – powiedział Musk.",
-        "Elon Musk twierdzi, że wyrzucenie Jensena Huanga jest jak „wyrzucenie Michaela Jordana z zespołu” Amanda Silberling 15:25 PST · 18 listopada 2026 Elon Musk już głośno wyrażał swoją dezaprobatę dla decyzji zarządu Nvidii o usunięciu jej założyciela i dyrektora generalnego Jensena Huanga po upublicznieniu serii romansów pozamałżeńskich, w tym jednego z rzekomym chińskim szpiegiem podejrzanym o przekazywanie poufnych informacji Pekinowi. W środę podczas szczytu DealBook New York Times Musk przedstawił swoje przemyślenia na temat zmiany przywództwa Nvidii.",
-        "„Jensen jest moim starym przyjacielem” – powiedział Musk. „Nazwałbym Jensena, no wiesz, Michaelem Jordanem na jego najwyższym poziomie, jeśli chodzi o to, co znaczy dla zespołu”.",
-        "„To jeden z najbardziej utalentowanych dyrektorów generalnych przedsiębiorców w historii” – powiedział Musk zapytany o swoje stanowisko X. „Kto nie chciałby zatrudnić Jensena?”",
-        "Musk wraz z ponad 200 000 innymi osobami podpisał także petycję, w której wzywa Nvidię do przywrócenia na stanowisko byłego dyrektora generalnego. Zarząd Nvidii potwierdził jednak, że nie planuje przywracania Huanga."
-      ]
-    },
-    {
-      "id": "tech-5-ca87df",
-      "entity_tag": "Grupa Żabka (GPW: ZAB)",
-      "sector": "Handel Detaliczny",
+      "id": "tech-2-4502f5",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Grupa Żabka (GPW: ZAB) (Handel Detaliczny) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Starter, doładowanie i darmowa pizza na kolację. Plus rusza z nową akcją w Żabce",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/starter-doladowanie-i-darmowa-pizza-na-kolacje-plus-rusza-z-nowa-akcja-w-zabce",
-      "image_url": "https://konto.chip.pl/uploads/2026/10/Plus.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Rynek ofert na kartę od dawna nie ogranicza się już wyłącznie do licytacji na gigabajty i darmowe minuty.",
-        "Operatorzy muszą wymyślać coraz to nowe sposoby na pozyskanie uwagi klientów, a efektem są kolejne promocje i współprace.",
-        "Po wcześniejszych akcjach promocyjnych, Plus kontynuuje współpracę z siecią sklepów Żabka i startuje z kolejną odsłoną swojej oferty dla […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Starter, doładowanie i darmowa pizza na kolację."
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Microsoft (NASDAQ: MSFT) (Chmura & AI) (kluczowe liczby: 60 tys.) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "60 tys."
       ],
-      "extended_paragraphs": [
-        "Rynek ofert na kartę od dawna nie ogranicza się już wyłącznie do licytacji na gigabajty i darmowe minuty. Operatorzy muszą wymyślać coraz to nowe sposoby na pozyskanie uwagi klientów, a efektem są kolejne promocje i współprace. Po wcześniejszych akcjach promocyjnych, Plus kontynuuje współpracę z siecią sklepów Żabka i startuje z kolejną odsłoną swojej oferty dla […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Starter, doładowanie i darmowa pizza na kolację. Plus rusza z nową akcją w Żabce \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Plus dorzuca pizzę do startera w Żabce Zasady nowej promocji są maksymalnie uproszczone i nie wymagają rejestrowania się w skomplikowanych formularzach. Aby skorzystać z akcji, wystarczy podczas wizyty w dowolnym sklepie sieci Żabka kupić dowolny starter Plus na Kartę oraz jednocześnie dokonać doładowania konta o wartości minimum 10 złotych. W zamian otrzymujemy specjalny kod uprawniający do odbioru darmowej pizzy.",
-        "Nowa akcja w Żabce stanowi dodatkowy wabik promujący odświeżoną formułę oferty Plus na Kartę, w której operator postawił na przejrzysty przelicznik, gdzie 1 złoty równa się 10 GB internetu oraz nielimitowanym rozmowom, SMS-om i MMS-om na 1 dzień. Zamiast wybierać spośród kilkunastu zawiłych pakietów, użytkownik sam decyduje o długości działania usług poprzez kwotę zasilenia.",
-        "Czytaj też: Uwielbiana opaska Xiaomi powraca w nowej odsłonie. Są też słuchawki klipsy i smartwatch z ultrajasnym ekranem",
-        "W ten sposób doładowanie za wymagane w promocji minimum 10 złotych zapewnia użytkownikowi 100 GB internetu oraz usługi bez limitu przez 10 dni, natomiast maksymalne zasilenie w tym modelu w wysokości 30 złotych przekłada się na pełne 30 dni korzystania z nielimitowanej łączności oraz paczkę 300 GB danych (z możliwością ich kumulowania przy zachowaniu ciągłości pakietu)."
-      ]
-    },
-    {
-      "id": "tech-6-b34582",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Dyrektor generalny Microsoftu, Satya Nadella, po odejściu Huanga nadal ufa Nvidii",
-      "original_title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "title": "Dyrektor generalny Microsoft Satya Nadella wyjaśnia, dlaczego poprosił 60 tys. pracowników o odejście",
+      "original_title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:17",
+      "time": "00:42",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+      "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Dyrektor generalny Microsoftu, Satya Nadella, wyraził zaufanie do następczyni Jensena Huanga, Colette Kress, która pełni funkcję tymczasowego dyrektora generalnego Nvidii.",
-        "Dyrektor generalny Microsoft Satya Nadella pozostaje pewny firmy Nvidia po odejściu Huanga Amanda Silberling 15:17 PST · 18 listopada 2026 Dyrektor generalny Microsoft Satya Nadella wypowiedział się na temat nieoczekiwanego odejścia byłego dyrektora generalnego Nvidii, Jensena Huanga, pośród serii szokujących kontrowersji.",
-        "\"To wszystko jest dość tragiczne w tym sensie, że Jensen to ktoś, kogo znam od dawna."
+        "Dyrektor generalny Microsoftu, Satya Nadella, wyjaśnił, dlaczego w październiku zaoferował wykup 60 000 swoich pracowników, w zasadzie namawiając ich do dobrowolnego odejścia z firmy, zamiast redukować siłę roboczą poprzez kolejne masowe zwolnienia.",
+        "Krótka odpowiedź to sztuczna inteligencja, ale nie w sposób, jakiego można się spodziewać.",
+        "Dyrektor generalny Microsoft Satya Nadella wyjaśnia, dlaczego poprosił 60 tys. pracowników o odejście Julie Bort 16:42 PST · 18 listopada 2026 Dyrektor generalny Microsoft Satya Nadella wyjaśnił w środę, dlaczego w październiku zaoferował wykup 60 000 swoich pracowników, zasadniczo namawiając ich do dobrowolnego odejścia z firmy zamiast redukować liczbę pracowników poprzez kolejne masowe zwolnienia."
       ],
       "extended_paragraphs": [
-        "Dyrektor generalny Microsoftu, Satya Nadella, wyraził zaufanie do następczyni Jensena Huanga, Colette Kress, która pełni funkcję tymczasowego dyrektora generalnego Nvidii.",
-        "Dyrektor generalny Microsoft Satya Nadella pozostaje pewny firmy Nvidia po odejściu Huanga Amanda Silberling 15:17 PST · 18 listopada 2026 Dyrektor generalny Microsoft Satya Nadella wypowiedział się na temat nieoczekiwanego odejścia byłego dyrektora generalnego Nvidii, Jensena Huanga, pośród serii szokujących kontrowersji.",
-        "\"To wszystko jest dość tragiczne w tym sensie, że Jensen to ktoś, kogo znam od dawna. Podziwiam to, czego zrobił, i w tym momencie chcę dać mu przestrzeń, aby to rozpracował\" - Nadella powiedziała na scenie podczas szczytu DealBook Summit w New York Times.",
-        "Huang ustąpił w zeszłym tygodniu ze stanowiska dyrektora generalnego, które piastował przez 33 lata. Przywództwo Huanga odegrało kluczową rolę w awansie Nvidii do jednej z najcenniejszych firm na świecie, ale jego osąd został zakwestionowany po tym, jak doniesiono, że miał romans z dyrektorką Megaspeed Alice Huang, którą według amerykańskich urzędników jest chińskim szpiegiem przekazującym informacje Pekinowi. Ujawniono również, że Huang miał romans z dwoma pracownikami Nvidii, w tym z jednym, który był bezpośrednim podwładnym.",
-        "Podczas gdy świat czeka, jakie mogą być długoterminowe skutki gospodarcze odejścia Huanga, Nadella twierdzi, że nadal ma zaufanie do firmy Nvidia, która jest bliskim partnerem Microsoftu."
+        "Dyrektor generalny Microsoftu, Satya Nadella, wyjaśnił, dlaczego w październiku zaoferował wykup 60 000 swoich pracowników, w zasadzie namawiając ich do dobrowolnego odejścia z firmy, zamiast redukować siłę roboczą poprzez kolejne masowe zwolnienia. Krótka odpowiedź to sztuczna inteligencja, ale nie w sposób, jakiego można się spodziewać.",
+        "Dyrektor generalny Microsoft Satya Nadella wyjaśnia, dlaczego poprosił 60 tys. pracowników o odejście Julie Bort 16:42 PST · 18 listopada 2026 Dyrektor generalny Microsoft Satya Nadella wyjaśnił w środę, dlaczego w październiku zaoferował wykup 60 000 swoich pracowników, zasadniczo namawiając ich do dobrowolnego odejścia z firmy zamiast redukować liczbę pracowników poprzez kolejne masowe zwolnienia.",
+        "Krótka odpowiedź: sztuczna inteligencja, ale nie – upiera się – w sposób, jakiego można się spodziewać. Nie twierdzi, że zastąpi pracowników sztuczną inteligencją, zwłaszcza inżynierów oprogramowania. Mówi, że reorganizuje Microsoft w firmę, w której wszyscy korzystają ze sztucznej inteligencji w swojej pracy, a ich praca koncentruje się na zarządzaniu tą sztuczną inteligencją.",
+        "Wykup miał „zapewnić, że przynajmniej wszyscy poczują, że mają swobodę w dokonywaniu wyborów” – powiedział Andrew Rossowi Sorkinowi podczas szczytu DealBook.",
+        "„Weźmy inżynierię oprogramowania. Przeszliśmy od: „No cóż, nie kupujemy tego, że sztuczna inteligencja kiedykolwiek będzie w stanie stworzyć oprogramowanie”. Nagle: „Wow, może zrobić całe oprogramowanie i po co nam inżynierowie oprogramowania?” Do ponownego odkrycia, że ​​inżynieria oprogramowania jest bardzo żywa i faktycznie będzie się rozwijać, z wyjątkiem sposobu, w jaki zespół jest zorganizowany, a praca wykonywana przez inżyniera oprogramowania zyskała teraz nowy punkt operacyjny” – wyjaśnił."
       ]
     },
     {
-      "id": "tech-7-60d081",
+      "id": "tech-3-86236d",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Duże zmiany w telefonach Samsunga. Polacy przetestują je jako jedni z pierwszych. Zobacz, co się zmieni",
+      "title": "Polacy pomogli Austriakom zrobić coś niezwykłego. Wojskowi już zacierają ręce",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:55",
+      "time": "05:01",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/dron-nosiciel-polska-technologia-s100",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/dron-nosiciel-polska-technologia-s100-1.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Okręty wojenne mają problem, którego nie rozwiąże nawet najnowocześniejszy radar.",
+        "Mogą wykrywać zagrożenia z dużej odległości i dysponować zaawansowanymi systemami przeciwlotniczymi, ale liczba pocisków na pokładzie pozostaje ograniczona, a każdy z nich kosztuje swoje.",
+        "Dlatego pomysł zwalczania tanich dronów za pomocą innych, równie tanich bezzałogowców ma coraz więcej sensu."
+      ],
+      "extended_paragraphs": [
+        "Okręty wojenne mają problem, którego nie rozwiąże nawet najnowocześniejszy radar. Mogą wykrywać zagrożenia z dużej odległości i dysponować zaawansowanymi systemami przeciwlotniczymi, ale liczba pocisków na pokładzie pozostaje ograniczona, a każdy z nich kosztuje swoje. Dlatego pomysł zwalczania tanich dronów za pomocą innych, równie tanich bezzałogowców ma coraz więcej sensu. Tylko jak sprawić, żeby taki niewielki […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wspomniane rozwiązanie nie wymaga budowania kolejnego zaawansowanego pocisku ani nawet zupełnie nowego statku powietrznego. W ramach tego eksperymentu wystarczyło wykorzystać bezzałogowy śmigłowiec CAMCOPTER S-100 w roli nosiciela mniejszego drona, a następnie zapewnić temu drugiemu łączność już po oddzieleniu. Brzmi prosto? Owszem, ale dopiero po przyjrzeniu się szczegółom tego eksperymentu zaczyna być jasne, dlaczego Austriacy widzą w nim coś więcej niż demonstrację.",
+        "Podczas demonstracji w Austrii CAMCOPTER S-100 przeniósł niewielkiego drona HSCD-1 (High-Speed Camera Drone) dostarczonego przez OSIRIS Poland, a następnie uwolnił go podczas lotu do przodu. Mniejsza maszyna następnie kontynuowała lot pod kontrolą operatora, ale sygnały sterujące i obraz z jej kamery przechodziły przez większy bezzałogowiec. S-100 pełnił więc jednocześnie funkcję transportowca, platformy startowej i latającego przekaźnika łączności. W moich oczach zwłaszcza ta ostatnia funkcja jest tutaj najważniejsza.",
+        "Niewielki dron może otrzymać znacznie korzystniejsze warunki działania, jeśli większa maszyna dostarczy go w pobliże wybranego obszaru. Nie musi wtedy zużywać większości zapasu energii na sam dolot, ale to przekaźnik umieszczony wysoko nad ziemią może pomóc utrzymać połączenie mimo przeszkód terenowych. Oczywiście nie oznacza to, że nagle taki dron będzie w stanie latać przez wiele godzin. Jego własne ograniczenia pozostają naturalnie takie same, ale zmienia się punkt, z którego rozpoczyna właściwą misję.",
+        "Czytaj też: Chcą pogodzić rzeczy niemożliwe. Nowy pocisk SUPER ICE ma niemal półtonową głowicę"
+      ]
+    },
+    {
+      "id": "tech-4-99808c",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) (kluczowe liczby: 277 milionów dolarów, 445 milionów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "277 milionów dolarów",
+        "445 milionów dolarów"
+      ],
+      "title": "Elon Musk mówi: „Nie jestem MAGA”",
+      "original_title": "Elon Musk says: ‘I’m not MAGA’",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:40",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305778019.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Podczas środowego wystąpienia na szczycie DealBook Summit dziennika New York Times Elon Musk powiedział, że nie jest pewien, co oznacza termin „MAGA”, a także skomentował, że czuje się „całkiem głupio”, wydając tak dużo pieniędzy podczas sesji śródokresowej w USA.",
+        "Elon Musk mówi: „Nie jestem MAGA” Lucas Ropek 16:40 PST · 18 listopada 2026 Elon Musk, który wydał 277 milionów dolarów, aby Donald Trump został ponownie wybrany na prezydenta w 2024 r. i który podczas tej kampanii ogłosił się „ciemną MAGA”, a po wyborach został następnie sfotografowany w Gabinecie Owalnym w kreskówkowo dużym kapeluszu MAGA, ma dla Amerykanów wiadomość: żadna z nich niekoniecznie czyni go MAGA.",
+        "„Nie jestem MAGA” – oświadczył Musk w środę podczas rozmowy z Andrew Rossem Sorkinem na szczycie DealBook Summit w New York Times."
+      ],
+      "extended_paragraphs": [
+        "Podczas środowego wystąpienia na szczycie DealBook Summit dziennika New York Times Elon Musk powiedział, że nie jest pewien, co oznacza termin „MAGA”, a także skomentował, że czuje się „całkiem głupio”, wydając tak dużo pieniędzy podczas sesji śródokresowej w USA.",
+        "Elon Musk mówi: „Nie jestem MAGA” Lucas Ropek 16:40 PST · 18 listopada 2026 Elon Musk, który wydał 277 milionów dolarów, aby Donald Trump został ponownie wybrany na prezydenta w 2024 r. i który podczas tej kampanii ogłosił się „ciemną MAGA”, a po wyborach został następnie sfotografowany w Gabinecie Owalnym w kreskówkowo dużym kapeluszu MAGA, ma dla Amerykanów wiadomość: żadna z nich niekoniecznie czyni go MAGA.",
+        "„Nie jestem MAGA” – oświadczył Musk w środę podczas rozmowy z Andrew Rossem Sorkinem na szczycie DealBook Summit w New York Times. Musk dołączył do rozmowy za pośrednictwem rozmowy wideo, ponieważ przebywa obecnie w Chinach, dołączając do prezydenta Trumpa na szczycie APEC.",
+        "„No cóż, przynajmniej nie jestem taki… nie jestem pewien, co MAGA oznacza” – wycofał się. „Jeśli to oznacza ślepe trzymanie się zestawu zasad Partii Republikańskiej, to z pewnością tego nie mam”.",
+        "Komentarze padły w kontekście szerszego pytania o to, jak Musk czuł się po tegorocznych wyborach śródokresowych, podczas których „błękitna fala” doprowadziła do zwycięstw Demokratów w całym kraju. Warto zauważyć, że Musk wydał gigantyczną sumę pieniędzy (podobno około 445 milionów dolarów) na wsparcie kandydatów Republikanów. Musk przyznał w środę, że tak ogromne wydatki polityczne mogły nie pozwolić na dobre wykorzystanie jego pieniędzy."
+      ]
+    },
+    {
+      "id": "tech-7-5bf580",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "YouTube Music dostaje dostęp do AI. Ma zaskakujące możliwości",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:00",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/samsung-rusza-z-testami-one-ui-9-5",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/09/iphone-18-pro-vs-samsung-galaxy-s26-ultra-11.jpeg",
+      "source_url": "https://antyweb.pl/youtube-music-dostaje-dostep-do-ai-ma-zaskakujace-mozliwosci",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/youtube-music-gemini.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Samsung rozpoczął publiczne testy One UI 9.5, a Polska znalazła się wśród pierwszych krajów do których trafi beta ich autorskiej nakładki na Androida.",
-        "Aktualizacja wprowadza blokowanie aplikacji, nowe funkcje aparatu, zmiany w Samsung Health i szereg usprawnień systemowych.",
-        "Sprawdź, które smartfony Galaxy mogą już pobrać betę One UI 9.5 i kiedy pojawi się stabilna wersja."
+        "Google konsekwentnie integruje swoją sztuczną inteligencję z kolejnymi usługami, a najnowsza zmiana w mobilnej wersji YouTube Music wyraźnie pokazuje kierunek rozwoju platformy.",
+        "W aplikacji na systemach Android oraz iOS w prawym górnym rogu interfejsu pojawiła się charakterystyczna \"iskierka\" Gemini, zapewniająca natychmiastowy dostęp do funkcji Ask Music.",
+        "Wdrożenie to zbiega się w czasie z usunięciem z aplikacji zakładki Samples, co sygnalizuje odejście od przeglądania krótkich klipów na rzecz bardziej świadomej, opartej na rozmowie interakcji z katalogiem muzycznym."
       ],
       "extended_paragraphs": [
-        "Samsung rozpoczął publiczne testy One UI 9.5, a Polska znalazła się wśród pierwszych krajów do których trafi beta ich autorskiej nakładki na Androida. Aktualizacja wprowadza blokowanie aplikacji, nowe funkcje aparatu, zmiany w Samsung Health i szereg usprawnień systemowych. Sprawdź, które smartfony Galaxy mogą już pobrać betę One UI 9.5 i kiedy pojawi się stabilna wersja.",
-        "Nowa wersja nakładki na Androida 17 wprowadza sporo praktycznych zmian, w tym możliwość blokowania pojedynczych aplikacji, ulepszony aparat i nowe funkcje Samsung Health. Co ważne, Polska znalazła się w pierwszej grupie krajów objętych programem beta. Aktualizację można już pobierać, ale na razie tylko na wybranych smartfonach.",
-        "Program testowy wystartował 18 listopada 2026 roku w sześciu krajach: Polsce, Niemczech, Wielkiej Brytanii, Stanach Zjednoczonych, Indiach i Korei Południowej.",
-        "Na początek aktualizację udostępniono właścicielom trzech topowych modeli smartfonów koreańskiej marki:",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Samsung Galaxy S26; Samsung Galaxy S26+; Samsung Galaxy S26 Ultra. Aby dołączyć do testów, należy uruchomić aplikację Samsung Members, znaleźć baner programu One UI 9.5 beta i zarejestrować się. Następnie wystarczy przejść do Ustawienia > Aktualizacja oprogramowania > Pobierz i zainstaluj. Opcja dołączenia do programu może być udostępniana etapami, a liczba miejsc ograniczona."
+        "Google konsekwentnie integruje swoją sztuczną inteligencję z kolejnymi usługami, a najnowsza zmiana w mobilnej wersji YouTube Music wyraźnie pokazuje kierunek rozwoju platformy.",
+        "W aplikacji na systemach Android oraz iOS w prawym górnym rogu interfejsu pojawiła się charakterystyczna \"iskierka\" Gemini, zapewniająca natychmiastowy dostęp do funkcji Ask Music. Wdrożenie to zbiega się w czasie z usunięciem z aplikacji zakładki Samples, co sygnalizuje odejście od przeglądania krótkich klipów na rzecz bardziej świadomej, opartej na rozmowie interakcji z katalogiem muzycznym. Nowy skrót został zaprojektowany tak, aby towarzyszyć użytkownikowi na niemal każdym kroku korzystania z serwisu. Ikonę Gemini można teraz zobaczyć zarówno na ekranie głównym, jak i w zakładce biblioteki, na ekranie odtwarzania, a także podczas przeglądania konkretnych albumów czy playlist. Wizualnie przycisk ten jest spójny z rozwiązaniami znanymi już z Gmaila oraz pakietu Google Workspace, a wkrótce identyczny element ma trafić również do Wiadomości Google.",
+        "Samo narzędzie Ask Music nie jest zupełną nowością, ponieważ zadebiutowało jeszcze w 2024 roku, jednak dotychczas było schowane w formie jednej z kart na ekranie głównym. Przeniesienie go do stałego paska nawigacyjnego w rogu ekranu diametralnie ułatwia dostęp do asystenta. Dotknięcie ikony gwiazdki otwiera pełnoekranowy panel konwersacyjny, w którym polecenia można wydawać zarówno za pomocą tekstu, jak i głosowo. Funkcja pozostaje jednak zarezerwowana wyłącznie dla osób opłacających subskrypcję YouTube Premium lub YouTube Music Premium.",
+        "Możliwości wbudowanego chatbota wykraczają daleko poza proste wyszukiwanie konkretnych utworów. Użytkownicy mogą poprosić sztuczną inteligencję o wygenerowanie spersonalizowanego miksu, zbudowanie nowej playlisty na podstawie nastroju czy odkrycie nieznanych dotąd artystów i podcastów. Asystent pozwala również na bieżąco modyfikować kolejkę odtwarzania, analizować własną historię słuchania w serwisie, a nawet zgłębiać ciekawostki i historię stojącą za twórczością wybranych wykonawców.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Udostępnienie nowego przycisku odbywa się w ramach aktualizacji po stronie serwerów, ale postępuje bardzo dynamicznie, u mnie stosowna ikonka pojawiła się już dzisiaj. Google zapowiadało tę zmianę we wrześniu, prezentując ją równolegle z inną nowością o nazwie Your Podcast Lineup. To z kolei spersonalizowany przewodnik audio w sekcji podcastów, który w formie cotygodniowego podsumowania głosowego rekomenduje nowe audycje i wyjaśnia, dlaczego mogą one przypaść słuchaczowi do gustu, zanim ten przejdzie do sugerowanych odcinków."
       ]
     },
     {
@@ -1680,7 +1688,102 @@
   ],
   "swiat": [
     {
-      "id": "swiat-1-5ee7fc",
+      "id": "swiat-1-750fc0",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Kluczowe spotkanie Xi z Trumpem, padły zapewnienia. \"Jestem gotowy\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:55",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-19/spotkanie-xi-z-trumpem-padly-zapewnienia-jestem-gotowy/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/8g/8geyb9d3m5g4452fv7eozyxwb7wpxcbq.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": true,
+      "summary_points": [
+        "- Relacje między nami są stabilne i cały czas się poprawiają - mówił Xi Jinping podczas spotkania z Donaldem Trumpem.",
+        "Przywódca Chin zapowiedział ponadto, że pozostanie zaangażowany we współpracę ze Stanami Zjednoczonymi.",
+        "Do rozmowy doszło na marginesie szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC)."
+      ],
+      "extended_paragraphs": [
+        "- Relacje między nami są stabilne i cały czas się poprawiają - mówił Xi Jinping podczas spotkania z Donaldem Trumpem. Przywódca Chin zapowiedział ponadto, że pozostanie zaangażowany we współpracę ze Stanami Zjednoczonymi. Do rozmowy doszło na marginesie szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC).",
+        "Chińskie media państwowe przekazały, że czwartkowe spotkanie Xi Jinpinga i Donalda Trumpa rozpoczęło się z około godzinnym opóźnieniem i trwało około godziny. Do rozmowy doszło w chińskim mieście Shenzhen na marginesie szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC).",
+        "Jak podają media, przywódca Chin przyjął prezydenta USA w rządowym kompleksie Kylin Villa .",
+        "Według informacji agencji Reutera Xi Jinping zapewnił, że pozostanie zaangażowany we współpracę ze Stanami Zjednoczonymi. - Budowa konstruktywnych relacji między USA a Chinami, opartej na strategicznej stabilności jest bezprecedensowa - mówił przywódca Chin."
+      ]
+    },
+    {
+      "id": "swiat-5-a5c17e",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Ratusz ukrył raport po tragedii w Lizbonie. Jednoznacznie dowodził",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:13",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-19/ratusz-ukryl-raport-po-tragedii-w-lizbonie-jednoznacznie-dowodzil/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/3h/3h22pszgn4k2ang6cp11dod26yc3rtw5.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Ratusz Lizbony ukrył raport, który jednoznacznie dowodził złego stanu technicznego kolejki Gloria - przekazała telewizja CNN Portugal.",
+        "We wrześniu 2025 roku doszło w stolicy Portugalii doszło do wypadku, w którym zginęło 16 osób, a 24 zostały ranne.",
+        "Burmistrz Lizbony Carlos Moedas potwierdził doniesienia telewizji CNN Portugal, według której władze portugalskiej stolicy od ponad roku posiadały raport, który jednoznacznie dowodził złego stanu technicznego kolejki Gloria."
+      ],
+      "extended_paragraphs": [
+        "Ratusz Lizbony ukrył raport, który jednoznacznie dowodził złego stanu technicznego kolejki Gloria - przekazała telewizja CNN Portugal. We wrześniu 2025 roku doszło w stolicy Portugalii doszło do wypadku, w którym zginęło 16 osób, a 24 zostały ranne.",
+        "Burmistrz Lizbony Carlos Moedas potwierdził doniesienia telewizji CNN Portugal, według której władze portugalskiej stolicy od ponad roku posiadały raport, który jednoznacznie dowodził złego stanu technicznego kolejki Gloria.",
+        "Stołeczne władze otrzymały też krótko po katastrofie Glorii raporty techniczne, dotyczące trzech innych działających w mieście kolejek: Bica, Lavra i Santa Justa, ale również utajnił te dokumenty . Od 3 września ub. roku ruch na trasach tych kolejek jest wstrzymany.",
+        "Z ujawnionych dokumentów wynika, że wszystkie cztery lizbońskie kolejki borykały się na początku września 2025 r. z problemami technicznymi , m.in. pojazdów i sieci trakcyjnej. Wykryto też nieprawidłowości w procedurach naprawczych i konserwacyjnych.",
+        "Według CNN Portugal raporty ukrywane przez ratusz dowodzą, że władze spółki miejskiej Carris, operatora kolejek, miały wiedzę o usterkach kolejek jeszcze przed wypadkiem Glorii."
+      ]
+    },
+    {
+      "id": "swiat-2-975db0",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Gospodarka Światowa” (Azja & Pacyfik) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "To niezwykły moment dyplomatyczny dla chińskiego Xi, ale niesie ze sobą pułapki",
+      "original_title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "04:42",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Spotkanie wiąże się z wyzwaniami, ponieważ wydaje się, że Xi nie chce omawiać pewnych spraw z Putinem i Trumpem.",
+        "Xi Jinping będzie wierzył, że osiągnął coś, czego nie udałoby mu się żadnemu innemu światowemu przywódcy, zapewniając historyczny szczyt z Władimirem Putinem i Donaldem Trumpem w Shenzhen.",
+        "Jednak to Chiny zaaranżowały niezwykły spektakl dyplomatyczny, w którym trzech najpotężniejszych bohaterów świata zasiada przy stole."
+      ],
+      "extended_paragraphs": [
+        "Spotkanie wiąże się z wyzwaniami, ponieważ wydaje się, że Xi nie chce omawiać pewnych spraw z Putinem i Trumpem.",
+        "Xi Jinping będzie wierzył, że osiągnął coś, czego nie udałoby mu się żadnemu innemu światowemu przywódcy, zapewniając historyczny szczyt z Władimirem Putinem i Donaldem Trumpem w Shenzhen.",
+        "Jednak to Chiny zaaranżowały niezwykły spektakl dyplomatyczny, w którym trzech najpotężniejszych bohaterów świata zasiada przy stole.",
+        "A wokół tego wszystkiego znajduje się futurystyczny pokaz, jakim jest Shenzhen, z samochodami bez kierowcy przelatującymi nad głowami, dronami przelatującymi nad głowami i robotami – dosłownie – tańczącymi na ulicach.",
+        "Pozornie jest to szczyt gospodarczy przywódców regionu Azji i Pacyfiku. Ale dla Xi jest to także demonstracja wpływu Chin na światową gospodarkę i światową politykę."
+      ]
+    },
+    {
+      "id": "swiat-3-caa224",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1688,31 +1791,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Wywoływały masowe protesty. Kneset rozpoczął uchylanie ustaw rządu Netanjahu",
+      "title": "Trump spotkał się z Putinem na szczycie APEC. Padło nietypowe pytanie",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:08",
+      "time": "07:46",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-18/kneset-rozpoczal-uchylanie-kontrowersyjnych-ustaw-netanjahu-dotyczacych-sadow-i-mediow/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/r5/r5hdu71dag4ue18arta9fnshyr9y86qc.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-19/trump-spotkal-sie-z-putinem-na-szczycie-apec-padlo-nietypowe-pytanie/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/f1/f17eub28sc39k1f34ktnhzcpz5sqqasr.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
-        "Kontrowersyjne ustawy rządu Binjamina Netanjahu znalazły się na celowniku Knesetu.",
-        "Izraelski parlament w powyborczej, nowej odsłonie chce uchylić m.in. prawo dotyczące reformy sądownictwa i przepisów zwiększających kontrolę rządzących nad mediami.",
-        "To pierwsza ofensywa legislacyjna obozu Gadiego Ajzenkota, który próbuje utworzyć nowy gabinet."
+        "Jest moim przyjacielem - takimi słowami Donald Trump przywitał w czwartek Władimira Putina w czasie nieoficjalnego spotkania w chińskim Shenzhen.",
+        "Rozmowa prezydenta USA i przywódcy Rosji trwała niecałą godzinę i dotyczyła głównie tematu Ukrainy.",
+        "Rosyjska agencja TASS zaznaczyła, że Putin opuścił salę w doskonałym nastroju."
       ],
       "extended_paragraphs": [
-        "Kontrowersyjne ustawy rządu Binjamina Netanjahu znalazły się na celowniku Knesetu. Izraelski parlament w powyborczej, nowej odsłonie chce uchylić m.in. prawo dotyczące reformy sądownictwa i przepisów zwiększających kontrolę rządzących nad mediami. To pierwsza ofensywa legislacyjna obozu Gadiego Ajzenkota, który próbuje utworzyć nowy gabinet.",
-        "Kneset poparł w głosowaniach wstępnych projekty przywracające wcześniejsze zasady powoływania sędziów oraz uprawnienia prokuratora generalnego .",
-        "Drugi dotyczy ustawy, która pozwala ministrom ignorować opinie prawne prokurator generalnej , obecnie wiążące dla rządu, oraz daje koalicji kontrolę nad obsadzaniem tego stanowiska.",
-        "ZOBACZ: Rosja, Izrael i MAGA grały na zamieszkach we Francji. Media dotarły do analiz UE i Paryża",
-        "Parlament poparł również uchylenie ustawy medialnej , która zwiększyła kontrolę rządu nad nadawcami i zniosła część mechanizmów nadzoru. Przepisy spotkały się z krytyką organizacji dziennikarskich, a Sąd Najwyższy wstrzymał częściowo ich wdrażanie."
+        "- Kim on jest? Jest moim przyjacielem - takimi słowami Donald Trump przywitał w czwartek Władimira Putina w czasie nieoficjalnego spotkania w chińskim Shenzhen. Rozmowa prezydenta USA i przywódcy Rosji trwała niecałą godzinę i dotyczyła głównie tematu Ukrainy. Rosyjska agencja TASS zaznaczyła, że Putin opuścił salę w doskonałym nastroju.",
+        "Donald Trump spotkał się w czwartek z Władimirem Putinem na marginesie szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC) w chińskim Shenzhen. Podczas krótkiego powitania przywódców, prezydent USA, wchodząc do sali, powiedział o przywódcy Rosji: \"Kim on jest? Jest moim przyjacielem\".",
+        "- Z radością zapatruję się na nasze spotkanie. Od lat utrzymujemy świetne relacje. Znamy się od dawna i myślę, że może z tego wyniknąć wiele wspaniałych rzeczy, a przynajmniej coś się zacznie - powiedział Trump. Putin odpowiedział kilkoma słowami, lecz nie były one wyraźnie słyszalne.",
+        "Rosyjska agencja TASS przekazała, że do niego doszło i trwało 45 minut . Nagranie z powitania Trumpa i Putina opublikowała strona rosyjska.",
+        "🇷🇺🇺🇸 Presidents Vladimir Putin and @realDonaldTrump greet each other at the beginning of bilateral talks on the sidelines of the APEC Summit. https://t.co/VokjpG7FLm"
       ]
     },
     {
-      "id": "swiat-2-6f34c3",
+      "id": "swiat-4-6f34c3",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1741,102 +1844,6 @@
         "BBC jest pierwszym międzynarodowym nadawcą, który dołączył do rurociągu, w miejscu, w którym toczy się ta podziemna bitwa.",
         "Przy średnicy nieco ponad metra jest wystarczająco dużo miejsca, aby się czołgać. Jest jednak stosunkowo bezpieczny przed dronami, które obecnie wypełniają niebo nad linią frontu i które praktycznie uniemożliwiają natarcie którejkolwiek ze stron.",
         "Korespondent BBC ds. obronności Jonathan Beale donosi z okolic Kupiańska, gdzie zszedł do podziemia wraz z 13. Chartyjską Brygadą Operacyjną."
-      ]
-    },
-    {
-      "id": "swiat-3-5177ed",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Prezydent Chin upokorzył Putina? Uwagę przykuwają dwa momenty",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "16:29",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-18/prezydent-chin-upokorzyl-putina-uwage-przykuwaja-dwa-momenty/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/bp/bpok55wa5wmyk4iqja1vqhbv1rr8rg5v.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Xi Jinping, Donald Trump i Władimir Putin spotkali się na szczycie APEC w Shenzhen.",
-        "Podczas gdy ukraińska agencja Unian sugeruje, że przywódca Rosji podczas wydarzenia został upokorzony, BBC zwraca uwagę na wizerunkowy sukces Kremla.",
-        "W ocenie brytyjskiego nadawcy wzajemne poklepanie po plecach Putina i Trumpa jest dokładnie tym, na co liczył Kreml."
-      ],
-      "extended_paragraphs": [
-        "Xi Jinping, Donald Trump i Władimir Putin spotkali się na szczycie APEC w Shenzhen. Podczas gdy ukraińska agencja Unian sugeruje, że przywódca Rosji podczas wydarzenia został upokorzony, BBC zwraca uwagę na wizerunkowy sukces Kremla. W ocenie brytyjskiego nadawcy wzajemne poklepanie po plecach Putina i Trumpa jest dokładnie tym, na co liczył Kreml.",
-        "Przywódcy Chin, USA i Rosji - Xi Jinping , Donald Trump i Władimir Putin - zamienili w środę kilka słów przed wykonaniem wspólnego zdjęcia podczas przyjęcia powitalnego na szczycie APEC w Shenzhen.",
-        "\"Putin dołączył do innych liderów gospodarczych APEC na sesję zdjęciową . Uczestniczy w gali powitalnej w Shenzhen International Exchange Centre, zorganizowanej przez prezydenta Xi na cześć liderów gospodarczych APEC\" - podało rosyjskie ministerstwo spraw zagranicznych i udostępniło nagranie z wydarzenia.",
-        "Media i obserwatorzy z różnych krajów szczegółowo przeanalizowali wydarzenia z pierwszego dnia szczytu, mają jednak co do nich różne spostrzeżenia. Unian skupił się na dwóch rzeczach. Po pierwsze Xi osobiście uczestniczył w powitaniu Donalda Trumpa na lotnisku, przy akompaniamencie hymnu USA.",
-        "ZOBACZ: \"Porozmawiamy o moim ulubionym temacie\". Trump przed spotkaniem z Xi i Putinem"
-      ]
-    },
-    {
-      "id": "swiat-4-3d951d",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "„Tu drony nie latają” – donosi BBC z nowej linii frontu Ukrainy",
-      "original_title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:00",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Siły ukraińskie walczą z wojskami rosyjskimi w starym sowieckim tunelu w obwodzie charkowskim.",
-        "Podpis pod rysunkiem, Obejrzyj: Wewnątrz gazociągu, gdzie Ukraina toczy podziemną wojnę z Rosją Przez ostatnie siedem miesięcy siły ukraińskie mieszkały i walczyły z wojskami rosyjskimi w starym sowieckim gazociągu w północno-wschodnim obwodzie charkowskim.",
-        "Przy średnicy nieco ponad metra jest wystarczająco dużo miejsca, aby się czołgać."
-      ],
-      "extended_paragraphs": [
-        "Siły ukraińskie walczą z wojskami rosyjskimi w starym sowieckim tunelu w obwodzie charkowskim.",
-        "Podpis pod rysunkiem, Obejrzyj: Wewnątrz gazociągu, gdzie Ukraina toczy podziemną wojnę z Rosją",
-        "Przez ostatnie siedem miesięcy siły ukraińskie mieszkały i walczyły z wojskami rosyjskimi w starym sowieckim gazociągu w północno-wschodnim obwodzie charkowskim.",
-        "Przy średnicy nieco ponad metra jest wystarczająco dużo miejsca, aby się czołgać. Jest jednak stosunkowo bezpieczny przed dronami, które obecnie wypełniają niebo nad linią frontu i praktycznie uniemożliwiają natarcie którejkolwiek ze stron.",
-        "Zejście do podziemia jest obecnie „jedyną opcją” – mówi Zanuda, która pomogła zaplanować operację tunelu na Ukrainie i nazywa ją nowym światem walki. Przyznaje jednak, że jest to trudne."
-      ]
-    },
-    {
-      "id": "swiat-5-d28d81",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Rosyjskie drony nad Mołdawią. Wezwano przedstawiciela Kremla",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "15:57",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-18/rosyjskie-drony-nad-moldawia-wezwano-przedstawiciela-kremla/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/uc/uc6yincim3rsu7n627wnjgfyzz1h2rif.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Mołdawia wezwała przedstawiciela Rosji Olega Ozierowa do resortu spraw zagranicznych po wtargnięciu dronów w przestrzeń powietrzną kraju.",
-        "We wtorek odnotowano siedem takich naruszeń, a jeden z bezzałogowców przeleciał nad Kiszyniowem.",
-        "Tak wygląda pokój promowany przez Kreml - oświadczyła mołdawska dyplomacja."
-      ],
-      "extended_paragraphs": [
-        "Mołdawia wezwała przedstawiciela Rosji Olega Ozierowa do resortu spraw zagranicznych po wtargnięciu dronów w przestrzeń powietrzną kraju. We wtorek odnotowano siedem takich naruszeń, a jeden z bezzałogowców przeleciał nad Kiszyniowem. Tak wygląda pokój promowany przez Kreml - oświadczyła mołdawska dyplomacja.",
-        "Rosyjski dyplomata Oleg Ozierow został w środę wezwany do Ministerstwa Spraw Zagranicznych Mołdawii, gdzie wręczono mu oficjalną notę protestacyjną. To reakcja na wtorkowe naruszenia przestrzeni powietrznej kraju przez rosyjskie bezzałogowce, do których doszło podczas zmasowanego ataku Rosji na Ukrainę.",
-        "\"Tak wygląda \"pokój\" promowany przez Kreml: drony bojowe przelatujące nad stolicą wolnego i suwerennego państwa\" - przekazano w komunikacie cytowanym przez Politico. \"Rosja nie szanuje Republiki Mołdawii ani jej mieszkańców i naraża ich życie na niebezpieczeństwo \" - dodano.",
-        "Według mołdawskiego Ministerstwa Obrony we wtorek siedem bezzałogowców naruszyło przestrzeń powietrzną kraju, w tym jeden typu Shahed, który pojawił się nad Kiszyniowem. W pierwszym komunikacie resort informował o pięciu dronach, które spadły w różnych częściach kraju. W środę mołdawskie MSZ przekazało już informację o sześciu bezzałogowcach, które spadły na terytorium Mołdawii.",
-        "W związku z zagrożeniem władze czasowo zamknęły przestrzeń powietrzną. Trzy samoloty lecące z Erywania, Stambułu i Szarm el-Szejk nie mogły wylądować w stolicy. Do incydentów odniosła się prezydent Maia Sandu."
       ]
     },
     {
@@ -1874,103 +1881,202 @@
   ],
   "sport": [
     {
-      "id": "sport-1-fe8026",
+      "id": "sport-1-46ab24",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Nie było przełamania WKS Śląska w Czarnogórze. Polską drużynę pogrążył stary znajomy",
+      "title": "Messi w centrum konfliktu. Niosą się zaskakujące wieści",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:28",
+      "time": "08:05",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/koszykowka/1284937/nie-bylo-przelamania-wks-slaska-w-czarnogorze-polska-druzyne-pograzyl-stary-znaj",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/69c0fbc14af585_23158453.jpeg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284957/messi-w-centrum-konfliktu-niosa-sie-zaskakujace-wiesci",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afeadc3818f35_22456568.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Trwa czarna seria WKS Śląska w EuroCupie.",
-        "Drużyna z Dolnego Śląska walczyła, ale przegrała w Czarnogórze z KK Buducnost Voli Podgorica 88:94.",
-        "Skomentuj Trwa czarna seria WKS Śląska w EuroCupie."
+        "Lionel Messi miał popaść w konflikt z Argentyńską Federacją Piłkarską.",
+        "Powodem miało być wykorzystanie wizerunku zawodnika w reklamie piwa bez jego zgody.",
+        "Podczas październikowego zgrupowania Lionel Messi pożegnał się z reprezentacją Argentyny ."
       ],
       "extended_paragraphs": [
-        "Trwa czarna seria WKS Śląska w EuroCupie. Drużyna z Dolnego Śląska walczyła, ale przegrała w Czarnogórze z KK Buducnost Voli Podgorica 88:94.",
-        "Skomentuj Trwa czarna seria WKS Śląska w EuroCupie. Drużyna z Dolnego Śląska walczyła, ale przegrała w Czarnogórze z KK Buducnost Voli Podgorica 88:94.",
-        "Jeszcze w połowie czwartej kwarty przewaga KK Buducnost Voli Podgorica wynosiła tylko cztery punkty. Było 78:74. Do akcji wkroczył wtedy jednak Stefan Djordjević , były zawodnik WKS Śląska i AMW Arki Gdynia .",
-        "Serb zdobył sześć punktów z rzędu, doprowadzając do wyniku 84:76. Chwilę później uaktywnił się jeszcze reprezentant Francji Axel Bouteille i było po wszystkim. Gospodarze triumfowali ostatecznie 94:88.",
-        "WKS doznał szóstej porażki z rzędu w EuroCupie . Devin Robinson rzucił 20 punktów, a Malik Parsons 19, ale na niewiele się to zdało."
+        "Lionel Messi miał popaść w konflikt z Argentyńską Federacją Piłkarską. Powodem miało być wykorzystanie wizerunku zawodnika w reklamie piwa bez jego zgody.",
+        "Podczas październikowego zgrupowania Lionel Messi pożegnał się z reprezentacją Argentyny . Wystąpił w meczu towarzyskim z Beninem, w którym strzelił gola i zanotował dwie asysty. Spotkanie uświetniła specjalna oprawa przygotowana dla gwiazdora.",
+        "W listopadzie 39-latek nie pojawił się już na zgrupowaniu kadry. Niedługo po jego zakończeniu pojawiły się doniesienia dotyczące relacji piłkarza z krajową federacją. Messi miał zerwać osobiste i biznesowe kontakty z jej prezesem Claudio Tapią.",
+        "ZOBACZ WIDEO: Bednarek stanął w obronie Kiwiora. I zaapelował. \"Powinniśmy się wspierać\"",
+        "Jak dodają argentyńskie media, piłkarz miał również mieć zastrzeżenia do przebiegu własnego pożegnania z reprezentacją. Podczas pokazu dronów przedstawiono go w sytuacji, w której uderzał piłkę prawą nogą, choć Messi jest kojarzony przede wszystkim z grą lewą nogą."
       ]
     },
     {
-      "id": "sport-2-8a0204",
+      "id": "sport-6-e73676",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
+      "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Fabuła papieru ściernego - kto tam był, kto co powiedział?",
-      "original_title": "The sandpaper plot - who was there, who said what?",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 5 miliardów dolarów, 3,8 miliarda funtów) o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [
+        "5 miliardów dolarów",
+        "3,8 miliarda funtów"
+      ],
+      "title": "Brytyjskie firmy są winne tysiące, a wspierana przez Arabię Saudyjską LIV płaci golfistom miliony",
+      "original_title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:13",
+      "time": "06:37",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5ea/live/792a2740-e35f-11f1-a898-e7da1c1ebbf0.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f393/live/1b107640-dfbe-11f1-a785-cd5ce5e90c71.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Ponieważ wybuchowe zarzuty Camerona Bancrofta rodzą więcej pytań na temat skandalu z papierem ściernym, BBC Sport sprawdza, kto tam był i co od tego czasu powiedzieli.",
-        "Skandal z papierem ściernym, jedna z największych kontrowersji w historii krykieta testowego, nadal pochłania australijski sport.",
-        "Nowe dowody pochodzące od Camerona Bancrofta – sprawcy manipulowania piłką w Republice Południowej Afryki w 2018 r. – wywarły presję na kapitana Australii Pata Cumminsa, byłego trenera Darrena Lehmanna i Cricket Australia."
+        "Dochodzenie BBC Sport wykazało, że rachunki na rzecz brytyjskich firm były już zaległe, gdy LIV Golf dokonała ostatecznych płatności na rzecz graczy i kadry kierowniczej przed złożeniem wniosku o upadłość.",
+        "LIV Golf – wspierany przez ponad 5 miliardów dolarów (3,8 miliarda funtów) z państwowego funduszu majątkowego Arabii Saudyjskiej – wypłacił miliony graczom i kadrze kierowniczej na kilka tygodni przed złożeniem wniosku o upadłość, pozostawiając ślad niezapłaconych rachunków od brytyjskich dostawców.",
+        "BBC Sport otrzymało faktury od pięciu małych firm na łączną kwotę setek tysięcy funtów i wszystkie były zaległe, zanim LIV dokonała ostatecznych płatności na rzecz graczy."
       ],
       "extended_paragraphs": [
-        "Ponieważ wybuchowe zarzuty Camerona Bancrofta rodzą więcej pytań na temat skandalu z papierem ściernym, BBC Sport sprawdza, kto tam był i co od tego czasu powiedzieli.",
-        "Skandal z papierem ściernym, jedna z największych kontrowersji w historii krykieta testowego, nadal pochłania australijski sport.",
-        "Nowe dowody pochodzące od Camerona Bancrofta – sprawcy manipulowania piłką w Republice Południowej Afryki w 2018 r. – wywarły presję na kapitana Australii Pata Cumminsa, byłego trenera Darrena Lehmanna i Cricket Australia.",
-        "W szczegółowej relacji składającej się z ponad 4000 słów opublikowanej w gazecie West Australian Bancroft utrzymuje, że wszyscy australijscy zawodnicy i trenerzy obecni osiem lat temu w Kapsztadzie wiedzieli o spisku.",
-        "Wybuchowe zeznania Bancrofta potwierdzają twierdzenia Usmana Khawaji, Davida Warnera i Chadda Sayersa."
+        "Dochodzenie BBC Sport wykazało, że rachunki na rzecz brytyjskich firm były już zaległe, gdy LIV Golf dokonała ostatecznych płatności na rzecz graczy i kadry kierowniczej przed złożeniem wniosku o upadłość.",
+        "LIV Golf – wspierany przez ponad 5 miliardów dolarów (3,8 miliarda funtów) z państwowego funduszu majątkowego Arabii Saudyjskiej – wypłacił miliony graczom i kadrze kierowniczej na kilka tygodni przed złożeniem wniosku o upadłość, pozostawiając ślad niezapłaconych rachunków od brytyjskich dostawców.",
+        "BBC Sport otrzymało faktury od pięciu małych firm na łączną kwotę setek tysięcy funtów i wszystkie były zaległe, zanim LIV dokonała ostatecznych płatności na rzecz graczy.",
+        "Global Infusion Group, zewnętrzna firma z Buckinghamshire, która zapewniła catering podczas lipcowej imprezy LIV Golf UK, nadal ma dług w wysokości 321 671 funtów, płatny 7 sierpnia.",
+        "BD365 Clean z siedzibą w Suffolk, firma zewnętrzna zapewniła 108 pracowników sprzątających i ma dług w wysokości 75 225 funtów, z czego większość miała zostać uregulowana w dniach 20 lipca i 13 sierpnia."
       ]
     },
     {
-      "id": "sport-3-d89ba1",
+      "id": "sport-7-9e79d6",
       "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
+      "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Faworyci już w półfinale. Zobacz tabele ATP Finals",
+      "title": "Nagranie w sieci. Zobacz, z kim zmierzyła się Świątek",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:08",
+      "time": "07:55",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284797/faworyci-juz-w-polfinale-zobacz-tabele-atp-finals",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afe1f13a5acf5_79461093.jpg",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1284955/nagranie-w-sieci-zobacz-z-kim-zmierzyla-sie-swiatek",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afeaa190740b9_21636943.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Carlos Alcaraz jako drugi tenisista zapewnił sobie awans do półfinału prestiżowego turnieju ATP Finals 2026.",
-        "Hiszpan dołączył do Niemca Alexandra Zvereva.",
-        "Do wyłonienia pozostaje jeszcze dwóch półfinalistów."
+        "Daria Abramowicz zamieściła na Instastories ciekawe nagranie.",
+        "Przedstawiało ono rywalizację Igi Świątek i Aleksandry Mirosław w grze karcianej.",
+        "Psycholożka zdradziła nawet wynik tego starcia."
       ],
       "extended_paragraphs": [
-        "Carlos Alcaraz jako drugi tenisista zapewnił sobie awans do półfinału prestiżowego turnieju ATP Finals 2026. Hiszpan dołączył do Niemca Alexandra Zvereva. Do wyłonienia pozostaje jeszcze dwóch półfinalistów.",
-        "Skomentuj Carlos Alcaraz jako drugi tenisista zapewnił sobie awans do półfinału prestiżowego turnieju ATP Finals 2026. Hiszpan dołączył do Niemca Alexandra Zvereva. Do wyłonienia pozostaje jeszcze dwóch półfinalistów.",
-        "Za nami mecze drugiej serii gier w Turnieju Mistrzów w Turynie. Sytuacja w grupie B, nazwanej na cześć Ivana Lendla, stała się bardziej klarowna. Po odniesieniu drugiego zwycięstwa do półfinału z pierwszej pozycji awansował Hiszpan Carlos Alcaraz .",
-        "O drugie miejsce powalczą w piątek Amerykanin Frances Tiafoe i Rosjanin Danił Miedwiediew , którzy mają na koncie po jednej wygranej i porażce. Szansę na awans do fazy pucharowej stracił już Włoch Flavio Cobolli , który zagra z Alcarazem o honorowe zwycięstwo. Reprezentant gospodarzy na pewno zajmie w grupie ostatnie miejsce.",
-        "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
+        "Daria Abramowicz zamieściła na Instastories ciekawe nagranie. Przedstawiało ono rywalizację Igi Świątek i Aleksandry Mirosław w grze karcianej. Psycholożka zdradziła nawet wynik tego starcia.",
+        "Skomentuj Daria Abramowicz zamieściła na Instastories ciekawe nagranie. Przedstawiało ono rywalizację Igi Świątek i Aleksandry Mirosław w grze karcianej. Psycholożka zdradziła nawet wynik tego starcia.",
+        "Na nagraniu widać, jak Aleksandra Mirosław przesuwa leżące na stole karty. Daria Abramowicz i Iga Świątek śledzą jej ruchy z dużym zainteresowaniem, czego dowodzą ich skupione miny. Na koniec widać, jak mistrzyni olimpijska z Paryża wybucha śmiechem.",
+        "Nagranie wykonano na korcie tenisowym. Niewykluczone więc, że rozgrywka odbyła się w przerwie od treningu Igi Świątek, która była ubrana w strój sportowy.",
+        "Dodajmy, że Daria Abramowicz jest jedną z najważniejszych osób w sztabie Świątek i regularnie towarzyszy tenisistce podczas turniejów. W przeszłości pomagała też Mirosław - ich współpraca rozpoczęła się dziewięć miesięcy przed igrzyskami olimpijskimi w Paryżu, na których nasza reprezentantka zdobyła złoto i pobiła rekord świata we wspinaczce sportowej."
       ]
     },
     {
-      "id": "sport-4-6e1296",
+      "id": "sport-5-9fa7cc",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako MEDIUM.",
+      "key_metrics": [],
+      "title": "Bój o miejsce w półfinale ATP Finals | Shelton – Jodar: typy, kursy, analiza",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:00",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/bukmacherzy/1284902/boj-o-miejsce-w-polfinale-atp-finals-shelton-jodar-typy-kursy-analiza",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a9e1855053d42_20416600.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Ben Shelton i Rafael Jodar zmierzą się w ostatnim meczu fazy grupowej ATP Finals.",
+        "Obaj potrzebują zwycięstwa, by zachować szanse na awans do półfinału.",
+        "Będzie to ich pierwsze bezpośrednie starcie."
+      ],
+      "extended_paragraphs": [
+        "Ben Shelton i Rafael Jodar zmierzą się w ostatnim meczu fazy grupowej ATP Finals. Obaj potrzebują zwycięstwa, by zachować szanse na awans do półfinału. Będzie to ich pierwsze bezpośrednie starcie.",
+        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów",
+        "Czwartkowe spotkanie zapowiada się jako ważny sprawdzian dla obu tenisistów. Ben Shelton po zwycięstwie nad Arthurem Filsem i porażce z Alexandrem Zverevem wciąż ma szansę na awans do najlepszej czwórki turnieju. Rafael Jodar również przegrał z Niemcem, a następnie poległ w starciu z Filsem.",
+        "Więcej argumentów przemawia za Amerykaninem. Shelton dysponuje potężnym serwisem, dużą siłą uderzeń i większym doświadczeniem w rywalizacji na najwyższym poziomie. W dwóch dotychczasowych meczach ATP Finals zanotował aż 27 asów, popełniając zaledwie dwa podwójne błędy serwisowe. Jodar ma natomiast problemy z regularnym wywieraniem presji na podaniu przeciwników, co może mieć kluczowe znaczenie w tym pojedynku.",
+        "Amerykanin przystępuje do ostatniego spotkania grupowego po porażce z Alexandrem Zverevem 2:6, 6:7. Wcześniej pokonał Arthura Filsа 6:2, 3:6, 6:3, dlatego nadal pozostaje w grze o miejsce w półfinale."
+      ]
+    },
+    {
+      "id": "sport-2-eaa803",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Zagłosuj na pierwszego męskiego piłkarza roku BBC",
+      "original_title": "Vote for the first BBC Men's Footballer of the Year",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "06:30",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri i Lamine Yamal znaleźli się na krótkiej liście kandydatów do nagrody Piłkarza Roku mężczyzn przyznawanej przez BBC.",
+        "Autor: Harry Poole Dziennikarz sportowy BBC Opublikowano godzinę temu Rozpoczęło się głosowanie na nagrodę Piłkarza Roku 2026 dla mężczyzn BBC, która zostanie wręczona w kategorii Osobowość Sportowa Roku.",
+        "Fani z Wielkiej Brytanii mogą głosować na pięcioosobową krótką listę, w skład której wchodzą Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri i Lamine Yamal."
+      ],
+      "extended_paragraphs": [
+        "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri i Lamine Yamal znaleźli się na krótkiej liście kandydatów do nagrody Piłkarza Roku mężczyzn przyznawanej przez BBC.",
+        "Autor: Harry Poole Dziennikarz sportowy BBC Opublikowano godzinę temu Rozpoczęło się głosowanie na nagrodę Piłkarza Roku 2026 dla mężczyzn BBC, która zostanie wręczona w kategorii Osobowość Sportowa Roku.",
+        "Fani z Wielkiej Brytanii mogą głosować na pięcioosobową krótką listę, w skład której wchodzą Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri i Lamine Yamal.",
+        "Zdobywca nagrody – nowości w tym roku – zostanie zaprezentowany na żywo w niedzielę 13 grudnia podczas programu Sportowa Osobowość Roku.",
+        "Alex Kay-Jelski, dyrektor BBC Sport, powiedział: „Od dramatyzmu i emocji związanych z Pucharem Świata mężczyzn po momenty, które urzekły fanów na arenie krajowej i międzynarodowej, rok 2026 dał nam wiele powodów do świętowania."
+      ]
+    },
+    {
+      "id": "sport-3-c316fd",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "U siebie nie przegrali. Przyjeżdża wielki rywal",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:00",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/siatkowka/1284940/u-siebie-nie-przegrali-przyjezdza-wielki-rywal",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6ac12b0204a1b6_49434712.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "PGE Projekt Warszawa zmierzy się w czwartek z Neonet Norwidem Częstochowa, który wygrał oba domowe mecze w tym sezonie.",
+        "Wieczorem ZAKSA Kędzierzyn-Koźle podejmie Jastrzębie Barkom, szukające przełamania po czterech porażkach.",
+        "Skomentuj PGE Projekt Warszawa zmierzy się w czwartek z Neonet Norwidem Częstochowa, który wygrał oba domowe mecze w tym sezonie."
+      ],
+      "extended_paragraphs": [
+        "PGE Projekt Warszawa zmierzy się w czwartek z Neonet Norwidem Częstochowa, który wygrał oba domowe mecze w tym sezonie. Wieczorem ZAKSA Kędzierzyn-Koźle podejmie Jastrzębie Barkom, szukające przełamania po czterech porażkach.",
+        "Skomentuj PGE Projekt Warszawa zmierzy się w czwartek z Neonet Norwidem Częstochowa, który wygrał oba domowe mecze w tym sezonie. Wieczorem ZAKSA Kędzierzyn-Koźle podejmie Jastrzębie Barkom, szukające przełamania po czterech porażkach.",
+        "W czwartek (19 listopada) o godz. 17:30 Neonet Norwid Częstochowa podejmie PGE Projekt Warszawa w ramach 7. kolejki Tauron Ligi. Gospodarze po sześciu spotkaniach mają dwa zwycięstwa i cztery porażki. Z dorobkiem sześciu punktów zajmują jedenaste miejsce w tabeli.",
+        "Częstochowianie obie wygrane odnieśli przed własną publicznością. Najpierw pokonali Asseco Resovię Rzeszów 3:2, choć przegrywali już 0:2 w setach, a następnie ograli Jastrzębie Barkom 3:1. W ostatniej kolejce ulegli na wyjeździe GKS-owi Katowice 0:3.",
+        "ZOBACZ WIDEO: Tak wyglądają groby polskich mistrzów sportu. Odwiedziliśmy warszawskie Powązki"
+      ]
+    },
+    {
+      "id": "sport-4-33754c",
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
       "market_impact": "LOW",
@@ -1978,31 +2084,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Najcięższy złom przetrwania od lat? Dlaczego nie jest za wcześnie, żeby się martwić",
-      "original_title": "The tightest survival scrap for years? Why it's not too early to worry",
+      "title": "Jak wielka szóstka Premier League staje się coraz bogatsza",
+      "original_title": "How Premier League's big six keep getting richer",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:09",
+      "time": "07:38",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5f51/live/09641460-e33d-11f1-a094-5fdc692f3e33.png",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c612/live/1f6a6e00-e291-11f1-b166-176de21e2352.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Premier League zostaje wznowiona w sobotę, a Crystal Palace, Sunderland i Man Utd znajdują się w strefie spadkowej.",
-        "Ale czy nie jest za wcześnie, żeby się martwić?",
-        "Mimo że rozegrano dopiero 10 meczów w sezonie, przebywanie w strefie spadkowej nawet na tak wczesnym etapie jest bardziej niepokojące, niż mogłoby się wydawać."
+        "Dziesięć meczów w sezonie Premier League, a pięć pierwszych miejsc jest zdominowanych przez kluby z „wielkiej szóstki”.",
+        "Nie powinno to dziwić, gdyż mają oni rosnącą przewagę, sięgającą setek milionów funtów.",
+        "Dopiero drugie w tabeli Brighton, klub, którego model musi budzić zazdrość wielu rywali, przebił się do przodu."
       ],
       "extended_paragraphs": [
-        "Premier League zostaje wznowiona w sobotę, a Crystal Palace, Sunderland i Man Utd znajdują się w strefie spadkowej. Ale czy nie jest za wcześnie, żeby się martwić?",
-        "Mimo że rozegrano dopiero 10 meczów w sezonie, przebywanie w strefie spadkowej nawet na tak wczesnym etapie jest bardziej niepokojące, niż mogłoby się wydawać.",
-        "Biorąc jednak pod uwagę, jak ciasna jest tabela Premier League, może to być również jedna z najzaciętszych walk o utrzymanie, jakie widzieliśmy od dłuższego czasu.",
-        "Dwóch z obecnych trzech najniższych ligowców, Crystal Palace i Manchester United, wznowi swoje kampanie w weekend z nowymi menedżerami po mianowaniu odpowiednio Thomasa Franka i Mauricio Pochettino.",
-        "Sunderland, plasujący się pomiędzy obiema drużynami na 19. pozycji, nie wcisnął przycisku paniki i zachował wiarę w Regisa le Brisa."
+        "Dziesięć meczów w sezonie Premier League, a pięć pierwszych miejsc jest zdominowanych przez kluby z „wielkiej szóstki”. Nie powinno to dziwić, gdyż mają oni rosnącą przewagę, sięgającą setek milionów funtów.",
+        "Dopiero drugie w tabeli Brighton, klub, którego model musi budzić zazdrość wielu rywali, przebił się do przodu.",
+        "Sześć największych klubów – Manchester United, Liverpool, Manchester City, Arsenal, Tottenham i Chelsea – generuje obecnie o setki milionów funtów więcej niż inne drużyny ligi.",
+        "BBC Sport analizuje eksplozję finansów wielkiej szóstki, bada nowe trendy i wpływ na rynek transferowy oraz zadaje pytanie, jakie to naprawdę ma znaczenie.",
+        "Firmy lokują swoje pieniądze tam, gdzie ich zwolennicy są gotowi je wydać. To prosty fakt obowiązujący w każdym kraju, rzeczywistość łańcucha pokarmowego piłki nożnej."
       ]
     },
     {
-      "id": "sport-5-35b25b",
+      "id": "sport-8-6fa0cc",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2010,165 +2116,105 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Rozkręcił się na dobre. Adam Buksa z kolejnym golem w Hiszpanii",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:00",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284928/rozkrecil-sie-na-dobre-adam-buksa-z-kolejnym-golem-w-hiszpanii",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afe1fd9e81582_19172126.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Był gol w lidze w weekend, jest kolejne trafienie Adama Buksy - tym razem meczu 1/64 finału Pucharu Króla.",
-        "I to w dogrywce, na wagę awansu RCD Mallorca do kolejnej rundy.",
-        "Skomentuj Był gol w lidze w weekend, jest kolejne trafienie Adama Buksy - tym razem meczu 1/64 finału Pucharu Króla."
-      ],
-      "extended_paragraphs": [
-        "Był gol w lidze w weekend, jest kolejne trafienie Adama Buksy - tym razem meczu 1/64 finału Pucharu Króla. I to w dogrywce, na wagę awansu RCD Mallorca do kolejnej rundy.",
-        "Skomentuj Był gol w lidze w weekend, jest kolejne trafienie Adama Buksy - tym razem meczu 1/64 finału Pucharu Króla. I to w dogrywce, na wagę awansu RCD Mallorca do kolejnej rundy.",
-        "Na początku sezonu Adam Buksa grał mało albo wcale. Trener Luis Garcia stawiał na innych zawodników, którzy zwyczajnie byli w lepszej formie i gwarantowali większą liczbę bramek. W związku z tym zaczęły pojawiać się głosy, że transfer do RCD Mallorca nie wyszedł mu na dobre.",
-        "Jednak ostatnie dni są dla 30-latka bardzo udane. W weekend Buksa strzelił gola ekipy z Majorki w meczu ligowym przeciwko Cordoba CF, a w środę trafił po raz kolejny - tym razem w spotkaniu z czwartoligowym CD Alcoyano w 1/64 finału Pucharu Króla.",
-        "Buksa znalazł się w wyjściowym składzie, ale dał o sobie znać dopiero w drugiej połowie dogrywki. W 108. minucie Polak strzelił gola na 2:1 dla gości (precyzyjne uderzenie głową po dośrodkowaniu Pablo Torre), który okazał się kluczowy. W końcówce Adrian Fuentes ustalił wynik 3:1 i Mallorca awansowała do kolejnej rundy."
-      ]
-    },
-    {
-      "id": "sport-6-a8db72",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Dziel i rządź — teraz niezależny Erasmus planuje oglądać online",
-      "original_title": "Divide and conquer - now maverick Erasmus plans online watchalong",
+      "title": "Littler zszokowany błyskotliwą Wattimeną na Wielkim Szlemie",
+      "original_title": "Littler shocked by brilliant Wattimena at Grand Slam",
       "is_foreign": true,
       "lang": "EN",
-      "time": "15:02",
+      "time": "22:33",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg28v20xy0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2423/live/8de02db0-e364-11f1-9f51-4bfc31543510.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5960/live/a91fb6e0-e39b-11f1-9290-8f31de41e6ea.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Rassie Erasmus jest seryjnym przestępcą, jeśli chodzi o krytykowanie sędziów, ale cieszy się ogromnym poparciem w Republice Południowej Afryki i ma unikalne plany śledzenia meczu swojej drużyny z Irlandią.",
-        "Reporter BBC Sport dotyczący związku rugby Opublikowano 9 godzin temu Po wyrzuceniu z linii bocznej na sześć meczów Rassie Erasmus nie będzie dostępny na stadionie Aviva, gdy jego drużyna z Republiki Południowej Afryki zmierzy się z Irlandią.",
-        "Zamiast tego będzie gospodarzem transmisji online z sobotniego meczu dzięki szybko zakupionej nazwie domeny."
+        "Obrońca tytułu Luke Littler doznał szoku przedwczesnego odpadnięcia z Wielkiego Szlema w rzutkach po oszałamiającym występie Jermaine’a Wattimeny.",
+        "Holender zalał się łzami po zapewnieniu sobie niezwykłego i w pełni zasłużonego zwycięstwa 10-8 w drugiej rundzie w Wolverhampton.",
+        "Po tym, jak wyglądał władczo, gdy wygrał sześć meczów w pilocie i objął prowadzenie 7-2, 16."
       ],
       "extended_paragraphs": [
-        "Rassie Erasmus jest seryjnym przestępcą, jeśli chodzi o krytykowanie sędziów, ale cieszy się ogromnym poparciem w Republice Południowej Afryki i ma unikalne plany śledzenia meczu swojej drużyny z Irlandią.",
-        "Reporter BBC Sport dotyczący związku rugby Opublikowano 9 godzin temu Po wyrzuceniu z linii bocznej na sześć meczów Rassie Erasmus nie będzie dostępny na stadionie Aviva, gdy jego drużyna z Republiki Południowej Afryki zmierzy się z Irlandią.",
-        "Zamiast tego będzie gospodarzem transmisji online z sobotniego meczu dzięki szybko zakupionej nazwie domeny.",
-        "Główny trener Republiki Południowej Afryki planuje transmitować swoje reakcje na żywo podczas oglądania meczu w telewizji z hotelu swojej drużyny w Dublinie.",
-        "To typowy Erasmus. Bezkompromisowy i bezwstydny przejaw buntu wobec władz."
-      ]
-    },
-    {
-      "id": "sport-7-a58e77",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Co za spotkanie. Żaden kibic nie przejdzie obojętnie obok tego zdjęcia",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:58",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/sportowybar/1284934/co-za-spotkanie-zaden-kibic-nie-przejdzie-obojetnie-obok-tego-zdjecia",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afe1d6cb591d2_16460152.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Przed meczem Trefla Gdańsk z Aluronem CMC Wartą Zawiercie doszło do wyjątkowego spotkania.",
-        "Przy boisku w Ergo Arenie zapozowali do wspólnego zdjęcia Mariusz Wlazły i Michał Winiarski - architekci największych sukcesów polskiej siatkówki.",
-        "Skomentuj Przed meczem Trefla Gdańsk z Aluronem CMC Wartą Zawiercie doszło do wyjątkowego spotkania."
-      ],
-      "extended_paragraphs": [
-        "Przed meczem Trefla Gdańsk z Aluronem CMC Wartą Zawiercie doszło do wyjątkowego spotkania. Przy boisku w Ergo Arenie zapozowali do wspólnego zdjęcia Mariusz Wlazły i Michał Winiarski - architekci największych sukcesów polskiej siatkówki.",
-        "Skomentuj Przed meczem Trefla Gdańsk z Aluronem CMC Wartą Zawiercie doszło do wyjątkowego spotkania. Przy boisku w Ergo Arenie zapozowali do wspólnego zdjęcia Mariusz Wlazły i Michał Winiarski - architekci największych sukcesów polskiej siatkówki.",
-        "Fotografia opublikowana na oficjalnym profilu klubu z Zawiercia w mediach społecznościowych szybko podbiła sieć.",
-        "Opatrzono ją krótkim, ale niezwykle trafnym podpisem: \"LEGENDY\". W kadrze znaleźli się dawni koledzy z parkietu i filary złotej drużyny mistrzostw świata z 2014 r.",
-        "Dziś obaj realizują się w nowych rolach przy Tauron Lidze Michał Winiarski jako pierwszy szkoleniowiec Aluronu CMC Warty Zawiercie (we wtorek goście triumfowali w Gdańsku 3:0 - relacja TUTAJ>> ), a Mariusz Wlazły w barwach Trefla Gdańsk , gdzie po zakończeniu bogatej kariery zawodniczej wspiera drużynę m.in. w obszarze przygotowania psychologicznego (zobacz foto poniżej)."
-      ]
-    },
-    {
-      "id": "sport-8-5241e8",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "FA rozważyła wyzwanie prawne dla pozostania Infantino",
-      "original_title": "FA explored legal challenge to Infantino staying on",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:55",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Związek Piłki Nożnej rozważał zakwestionowanie uprawnień Gianniego Infantino do kandydowania na czwartą kadencję na stanowisku prezydenta FIFA, ale uznał, że sprawa prawdopodobnie zakończy się niepowodzeniem.",
-        "Redaktor sportowy Opublikowano 3 godziny temu Związek Piłki Nożnej rozważał zakwestionowanie uprawnień Gianniego Infantino do kandydowania na czwartą kadencję, jak może ujawnić BBC Sport, jako prezydent FIFA.",
-        "Uważa jednak, że wszelkie próby uniemożliwienia mu startu w marcowych wyborach prawdopodobnie zakończy się niepowodzeniem."
-      ],
-      "extended_paragraphs": [
-        "Związek Piłki Nożnej rozważał zakwestionowanie uprawnień Gianniego Infantino do kandydowania na czwartą kadencję na stanowisku prezydenta FIFA, ale uznał, że sprawa prawdopodobnie zakończy się niepowodzeniem.",
-        "Redaktor sportowy Opublikowano 3 godziny temu Związek Piłki Nożnej rozważał zakwestionowanie uprawnień Gianniego Infantino do kandydowania na czwartą kadencję, jak może ujawnić BBC Sport, jako prezydent FIFA.",
-        "Uważa jednak, że wszelkie próby uniemożliwienia mu startu w marcowych wyborach prawdopodobnie zakończy się niepowodzeniem.",
-        "Infantino nadzorował wprowadzenie limitu trzech kadencji, zastępując Seppa Blattera na stanowisku lidera organu zarządzającego światowego futbolu.",
-        "Jednak w 2022 roku rada FIFA zgodziła się, że jego pierwsza kadencja od 2016 do 2019 roku nie powinna być liczona, ponieważ stanowiła pozostałą część przerwanej ostatniej kadencji jego poprzednika."
+        "Obrońca tytułu Luke Littler doznał szoku przedwczesnego odpadnięcia z Wielkiego Szlema w rzutkach po oszałamiającym występie Jermaine’a Wattimeny.",
+        "Holender zalał się łzami po zapewnieniu sobie niezwykłego i w pełni zasłużonego zwycięstwa 10-8 w drugiej rundzie w Wolverhampton.",
+        "Po tym, jak wyglądał władczo, gdy wygrał sześć meczów w pilocie i objął prowadzenie 7-2, 16. rozstawiony Wattimena wykazywał oznaki zdenerwowania, gdy zbliżał się do mety, ale trzymał się, aby powstrzymać późny powrót Littlera i awans do ćwierćfinału.",
+        "„Myślę, że zagrałem naprawdę niesamowicie, rozegrałem swój najlepszy mecz na tej scenie i jestem z tego naprawdę dumny” – powiedział Sky Sports pełen emocji Wattimena.",
+        "„Pod koniec zaczął dobrze grać. W ostatnim meczu miałem jedną lotkę na mecz – niesamowite”."
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-bcfecb",
-      "entity_tag": "KGHM (GPW: KGH)",
-      "sector": "Surowce & Górnictwo",
+      "id": "rynki-1-b0de10",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 3,2 mld zł, 2,5 mld zł, 340 mln zł) — wymaga obserwacji marż i wsparć cenowych.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 81,3 mld, 107,3 mld, 980 mln) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "3,2 mld zł",
-        "2,5 mld zł",
-        "340 mln zł"
+        "81,3 mld",
+        "107,3 mld",
+        "980 mln"
       ],
-      "title": "CD Projekt RED wystrzelił przed premierą GTA VI. Akcje KGHM i XTB znów mocno w dół",
+      "title": "Anthropic wchodzi na giełdę z wyceną 1,5 bln dol. Twórca Claude’a pobił rekord SpaceX",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:28",
+      "time": "08:18",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/CD-Projekt-RED-wystrzelil-przed-premiera-GTA-VI-Akcje-KGHM-i-XTB-znow-mocno-w-dol-9231099.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/1/8/20ec54012a8c87-945-560-0-0-2048-1228.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Anthropic-wchodzi-na-gielde-z-wycena-1-5-bln-dol-Tworca-Claude-a-pobil-rekord-SpaceX-9231356.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/3/b/b71cc5ea7f62da-948-568-18-28-3731-2238.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Środowa sesja na GPW zakończyła się przewagą podaży.",
-        "Podczas gdy notowania KGHM kontynuowały czarną serię w ślad za taniejącą miedzią i srebrem, a akcje XTB pogłębiły przecenę pod presją zapowiedzi KNF, mocnym odbiciem popisał się CD Projekt RED, wspierany gorączką wokół premiery gry GTA VI.",
-        "/ GPW Środowe notowania przy ulicy Książęcej przebiegały pod dyktando sprzedających, choć skala przeceny głównych benchmarków pozostała relatywnie niewielka na tle zachodnioeuropejskich parkietów."
+        "Spółka Anthropic, twórca modeli sztucznej inteligencji Claude, pozyskała w pierwszej ofercie publicznej (IPO) 81,3 mld dol., ustalając cenę emisyjną na 83 dol.",
+        "Wraz z emisją prywatną łączna wartość transakcji sięga 107,3 mld dol., co czyni ją największym debiutem giełdowym w historii.",
+        "Akcje spółki zadebiutują na giełdzie Nasdaq w czwartek, 19 listopada, pod symbolem \"ANT\"."
       ],
       "extended_paragraphs": [
-        "Środowa sesja na GPW zakończyła się przewagą podaży. Podczas gdy notowania KGHM kontynuowały czarną serię w ślad za taniejącą miedzią i srebrem, a akcje XTB pogłębiły przecenę pod presją zapowiedzi KNF, mocnym odbiciem popisał się CD Projekt RED, wspierany gorączką wokół premiery gry GTA VI.",
-        "/ GPW Środowe notowania przy ulicy Książęcej przebiegały pod dyktando sprzedających, choć skala przeceny głównych benchmarków pozostała relatywnie niewielka na tle zachodnioeuropejskich parkietów. WIG20 spadł o 0,61 proc. , natomiast indeks szerokiego rynku WIG zniżkował o 0,51 proc. Lepiej zaprezentował się segment średnich spółek, gdzie mWIG40 poszedł w dół o 0,12 proc. , ale już sWIG80 stracił 0,58 proc. Obroty wyniosły w środę 3,2 mld zł na WIG, z czego 2,5 mld zł dotyczyło spółek z portfela blue chipów, a 340 mln zł przecenionych akcjach XTB.",
-        "W momencie zamknięcia handlu w Warszawie nastroje na głównych parkietach Starego Kontynentu były wyraźnie gorsze niż nad Wisłą . W Londynie indeks FTSE 100 spadał o 1,2 proc. , we Frankfurcie niemiecki DAX tracił 1 proc. , a paryski CAC40 zniżkował o 0,6 proc. Mieszany obraz wyłaniał się w tym czasie zza oceanu, gdzie trwała pierwsza część sesji na Wall Street. Amerykański indeks S&P 500 spadał o 0,1 proc. , ale technologiczny Nasdaq Composite zwyżkował o 0,3 proc. ,",
-        "Spółki technologiczne ponownie poprowadziły Wall Street do wzrostów po publikacji rewelacyjnych wyników kwartalnych przez Nvidię . Amerykański gigant nie tylko pobił oczekiwania rynkowe, ale również podniósł prognozę sprzedaży na przyszły rok , skutecznie łagodząc narastające w ostatnich tygodniach obawy inwestorów o trwałość popytu na infrastrukturę związaną ze sztuczną inteligencją.",
-        "Entuzjazm po raporcie Nvidii był jednak chłodzony przez sygnały płynące z amerykańskiej Rezerwy Federalnej. Christopher Waller z nowojorskiego oddziału Fed ocenił, że uporczywa inflacja może wymagać podwyżki stóp procentowych aż o 50 punktów bazowych już na grudniowym posiedzeniu . Tak jastrzębia retoryka wsparła notowania amerykańskiego dolara, co tradycyjnie ciąży rynkom wschodzącym oraz notowaniom surowców przemysłowych."
+        "Spółka Anthropic, twórca modeli sztucznej inteligencji Claude, pozyskała w pierwszej ofercie publicznej (IPO) 81,3 mld dol., ustalając cenę emisyjną na 83 dol. za akcję. Wraz z emisją prywatną łączna wartość transakcji sięga 107,3 mld dol., co czyni ją największym debiutem giełdowym w historii. Akcje spółki zadebiutują na giełdzie Nasdaq w czwartek, 19 listopada, pod symbolem \"ANT\".",
+        "fot. Carlos Barria / Reuters / / FORUM Anthropic ogłosił w środę, że w ramach oferty publicznej sprzedał 980 mln akcji klasy A, z czego ponad 956 mln pochodzi z nowej emisji, a blisko 23,7 mln od dotychczasowych akcjonariuszy. Zarówno cena, jak i wielkość oferty przebiły pierwotne plany - spółka zwiększyła pulę akcji o 19% względem zapowiadanych 825 mln sztuk i wyszła powyżej wstępnych widełek cenowych 70-78 dol.",
+        "Przy cenie 83 dol. za walor wycena Anthropica po pełnym rozwodnieniu sięga około 1,5 bln dol. Według notowań z 18 listopada dawałoby to firmie 12. miejsce w rankingu giełdowych spółek o najwyższej kapitalizacji, między Teslą (1,516 bln dol.) a Eli Lilly (1,231 bln dol.).",
+        "Równolegle do oferty publicznej Anthropic pozyska 26 mld dol. w ramach emisji prywatnej (po cenie z IPO) od partnerów strategicznych, wśród których znaleźli się m.in. Nvidia, Microsoft i Google. Łączna kwota 107,3 mld dol. przebija dotychczasowy rekord wszech czasów należący do SpaceX Elona Muska, który w czerwcu tego roku zebrał 86 mld dol. (wliczając opcję dodatkowego przydziału).",
+        "Gwaranci emisji Anthropic - pod wodzą banków Goldman Sachs i Morgan Stanley - również otrzymali 30-dniową opcję na dokupienie kolejnych 147 mln akcji o wartości około 12 mld dol."
       ]
     },
     {
-      "id": "rynki-2-f580fb",
+      "id": "rynki-3-9fea4f",
+      "entity_tag": "PZU (GPW: PZU)",
+      "sector": "Ubezpieczenia",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla PZU (GPW: PZU) (Ubezpieczenia) (kluczowe liczby: 1.443 mln zł, 1.995 mln zł, 1.448 mln zł) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "1.443 mln zł",
+        "1.995 mln zł",
+        "1.448 mln zł"
+      ],
+      "title": "Mniejszy zysk, ale przychody powyżej oczekiwań. PZU pokazało wyniki za III kwartał",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:16",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-III-kw-26-wyniosl-1-443-mld-zl-zgodnie-z-oczekiwaniami-9231312.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/1/e/7c65eb35acf3db-948-567-0-67-1000-599.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w III kwartale 2026 r. spadł do 1.443 mln zł z 1.995 mln zł rok wcześniej - poinformował ubezpieczyciel w raporcie.",
+        "Zysk okazał się zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie on 1.448 mln zł.",
+        "fot. Below the Sky / / Shutterstock Oczekiwania 4 biur maklerskich co do zysku netto ubezpieczyciela w III kwartale 2026 r. wahały się od 1.385 mln zł do 1.563 mln zł."
+      ],
+      "extended_paragraphs": [
+        "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w III kwartale 2026 r. spadł do 1.443 mln zł z 1.995 mln zł rok wcześniej - poinformował ubezpieczyciel w raporcie. Zysk okazał się zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie on 1.448 mln zł.",
+        "fot. Below the Sky / / Shutterstock Oczekiwania 4 biur maklerskich co do zysku netto ubezpieczyciela w III kwartale 2026 r. wahały się od 1.385 mln zł do 1.563 mln zł.",
+        "Zysk netto PZU w III kwartale 2026 r. spadł 28 proc. rok do roku i spadł 12 proc. w ujęciu kwartalnym.",
+        "Po trzech kwartałach 2026 roku zysk netto j.d. wynosi 4,452 mld zł, podczas gdy rok wcześniej był on na poziomie 5,225 mld zł.",
+        "Jak podało PZU, na spadek wyniku w ujęciu rok do roku wpłynęły m.in. wyższa szkodowość w ubezpieczeniach majątkowych, niższy wynik inwestycyjny oraz mniejsza kontrybucja banków."
+      ]
+    },
+    {
+      "id": "rynki-4-f580fb",
       "entity_tag": "Fed (USA)",
       "sector": "Banki Centralne",
       "market_impact": "HIGH",
@@ -2202,181 +2248,113 @@
       ]
     },
     {
-      "id": "rynki-3-296445",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-5-8a5572",
+      "entity_tag": "Allegro (GPW: ALE)",
+      "sector": "E-commerce",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 1,5 mld dolarów, 100%, 6%) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Allegro (GPW: ALE) (E-commerce) (kluczowe liczby: +17,6%, 21,3 proc., 14 proc.) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "1,5 mld dolarów",
-        "100%",
-        "6%"
+        "+17,6%",
+        "21,3 proc.",
+        "14 proc."
       ],
-      "title": "Pierwsze oceny GTA VI: \"absolutne arcydzieło\", \"przesunięcie granic dla całej branży\". Gra osiągnęła rekord Metacritic",
+      "title": "Wsiąść do pociągu byle jakiego, czyli jak pogoń za trendem potrafi wysadzić portfel z torów",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "14:40",
+      "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Najnowsze-oceny-GTA-VI-Rekord-Metacritic-osiagniety-9230936.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/2/e/c32ae90c0850e5-948-568-0-60-4000-2399.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Wsiasc-do-pociagu-byle-jakiego-czyli-jak-pogon-za-trendem-potrafi-wysadzic-portfel-z-torow-9230851.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/a/c/1dba9430a69e79-948-568-0-123-4121-2472.png",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Grand Theft Auto 6 oficjalnie wyrównało niemal trzydziestoletni rekord serwisu Metacritic, stając się najwyżej ocenianą grą w historii z notą 99 punktów na 100 możliwych.",
-        "Najnowsza superprodukcja należącego do Take-Two Interactive studia Rockstar Games jeszcze przed oficjalnym debiutem wygenerowała ponad 1,5 mld dolarów przychodu z samej przedsprzedaży, z nawiązką pokrywając szacowane koszty produkcji.",
-        "fot. Mojahid Mottakin / / FORUM W branży gier wideo oceny krytyków pełnią funkcję zbliżoną do rekomendacji domów maklerskich ."
+        "Połowa listopada za nami, a na giełdach dzieje się tyle, że podręczniki do psychologii inwestowania można by pisać na nowo.",
+        "Gdy na początku miesiąca czytaliśmy listopadowe typy w „Portfelu Gwiazd” Bankier.pl, część ekspertów szukała okazji po październikowej przecenie, a inni postanowili wskoczyć na grzbiet rozpędzonych trendów.",
+        "Sprawdzam więc dlaczego owczy pęd bywa na giełdzie gorszym doradcą niż zły humor przed sesją."
       ],
       "extended_paragraphs": [
-        "Grand Theft Auto 6 oficjalnie wyrównało niemal trzydziestoletni rekord serwisu Metacritic, stając się najwyżej ocenianą grą w historii z notą 99 punktów na 100 możliwych. Najnowsza superprodukcja należącego do Take-Two Interactive studia Rockstar Games jeszcze przed oficjalnym debiutem wygenerowała ponad 1,5 mld dolarów przychodu z samej przedsprzedaży, z nawiązką pokrywając szacowane koszty produkcji.",
-        "fot. Mojahid Mottakin / / FORUM W branży gier wideo oceny krytyków pełnią funkcję zbliżoną do rekomendacji domów maklerskich . Po zakończeniu embarga na publikację recenzji internet zalały oceny najnowszej gry od studia Rockstar Games. Grand Theft Auto 6 nie tylko zdobyło tytuł najwyżej ocenianej produkcji 2026 roku , dołączając do elitarnego grona poprzedników, czyli GTA 4 i GTA 5, stając się także najwyżej ocenioną grą z serii (poprzedni dzierżyła gra GTA IV z wynikiem 98), ale jednocześnie wspięło się na sam szczyt tabeli wszech czasów portalu Metacritic .",
-        "GTA VI just tied the highest Metacritic score in history with a 99 The review embargo lifted this morning and $TTWO's Grand Theft Auto VI sits at 99 from 146 critics on PS5, with 100% positive reviews The only other game ever to score 99 is The Legend of Zelda Ocarina of Time from 1998 It also beats GTA IV's 98, Rockstar's previous best, while GTA V and Red Dead Redemption 2 each scored 97 Sensor Tower estimates pre-release sales at about 15.9 million copies and $1.54 billion ahead of launch $TTWO is up about 6% premarket after falling 10.5% over the last two sessions, as the game begins its global rollout, 13 years after GTA V Take-Two is still guiding to $8.0 billion to $8.2 billion in fiscal 2027 net bookings, and with reviews this strong the question is no longer whether GTA VI hits, it's how big the long tail from GTA Online gets",
-        "Wynik 99 na 100 punktów oznacza wyrównanie legendarnego rekordu gry The Legend of Zelda: Ocarina of Time , która zadebiutowała na konsoli Nintendo 64 blisko trzy dekady temu, w 1997 roku . Serwis agreguje recenzje wyłącznie od zatwierdzonych, profesjonalnych redakcji branżowych, przeliczając różne skale na przedział od 0 do 100. Następnie wyliczana jest średnia ważona , w której najbardziej renomowane media mają nieco większy wpływ na końcowy rezultat.",
-        "Mimo że liczba zweryfikowanych recenzji GTA 6 na PlayStation 5 błyskawicznie urosła do 166 tekstów , średnia utrzymuje się na poziomie 99 punktów . Równie imponująco wyglądają dane z konkurencyjnego agregatora OpenCritic , gdzie średnia najważniejszych krytyków oscyluje wokół 98–99 punktów przy stuprocentowym wskaźniku rekomendacji ."
+        "Połowa listopada za nami, a na giełdach dzieje się tyle, że podręczniki do psychologii inwestowania można by pisać na nowo. Gdy na początku miesiąca czytaliśmy listopadowe typy w „Portfelu Gwiazd” Bankier.pl, część ekspertów szukała okazji po październikowej przecenie, a inni postanowili wskoczyć na grzbiet rozpędzonych trendów. Sprawdzam więc dlaczego owczy pęd bywa na giełdzie gorszym doradcą niż zły humor przed sesją.",
+        "/ Bankier.pl Przyjrzyjmy się najpierw surowym liczbom z parkietów, bo te – jak zwykle – nie biorą jeńców. Warszawska giełda w pierwszej połowie listopada postanowiła zagrać na nosie pesymistom. Główny indeks WIG20 w połowie miesiąca wyznaczył nowe historyczne maksimum , przebijając barierę 4321 pkt, co oznacza około 3,3-procentowy wzrost względem końca października. To bolesna wiadomość dla Piotra Kuczyńskiego, który na listopad otworzył m.in. krótką pozycję na WIG20 , obawiając się, że GPW podda się globalnemu schłodzeniu.",
+        "Na krajowym podwórku w świetnym humorze może być za to dr Kamil Gemra, który bez zmian pozostawił w portfelu Allegro . Po imponującym październiku (+17,6%) gigant e-commerce nie zwalnia tempa – w połowie listopada kurs wystrzelił o kolejne kilkanaście procent w zaledwie osiem sesji, meldując się w okolicy 68,00 zł, czyli najwyżej od września 2021 r.",
+        "Zupełnie inny nastrój panuje wokół XTB , na które postawili zarówno Sobiesław Kozłowski, jak i Albert Rokicki. Na kursie doszło do prawdziwego trzęsienia ziemi – po informacjach o interwencji KNF na rynku kontraktów CFD kurs runął o 21,3 proc. w ciągu dwóch kolejnych dni.",
+        "Wróćmy jednak do sedna dzisiejszej lekcji o psychologii inwestowania. W zestawieniu na listopad jak na dłoni widać dwa mechanizmy, które od dekad czyszczą rachunki inwestorów indywidualnych: zachowania stadne oraz pogoń za trendem. Na czym polega ta pułapka? Ludzki mózg jest ewolucyjnie zaprogramowany do szukania bezpieczeństwa w grupie . Jeśli wszyscy biegną w jednym kierunku i krzyczą, że za rogiem rozdają darmowe obiady, nasz instynkt podpowiada: „biegnij z nimi, inaczej zostaniesz z tyłu!”. Na giełdzie ten pierwotny odruch zamienia się w FOMO (strach przed przegapieniem okazji) oraz bezrefleksyjne założenie, że skoro wykres od miesięcy pnie się w górę, to będzie rósł w nieskończoność."
       ]
     },
     {
-      "id": "rynki-5-0f9177",
-      "entity_tag": "XTB (GPW: XTB)",
-      "sector": "Fintech & Brokerzy",
+      "id": "rynki-7-bcfecb",
+      "entity_tag": "KGHM (GPW: KGH)",
+      "sector": "Surowce & Górnictwo",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących XTB (GPW: XTB) (Fintech & Brokerzy) (kluczowe liczby: 19 proc.) bez bezpośredniego szoku wycenowego.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 3,2 mld zł, 2,5 mld zł, 340 mln zł) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [
-        "19 proc."
+        "3,2 mld zł",
+        "2,5 mld zł",
+        "340 mln zł"
       ],
-      "title": "KNF odpowiada na zarzuty po tąpnięciu XTB. \"Mamy świadomość wpływu na decyzje inwestorów”",
+      "title": "CD Projekt RED wystrzelił przed premierą GTA VI. Akcje KGHM i XTB znów mocno w dół",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "12:50",
+      "time": "17:28",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/KNF-odpowiada-na-zarzuty-po-tapnieciu-XTB-Mamy-swiadomosc-ze-nasze-slowa-to-sygnal-9230843.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/6/4053709ab12e4f-948-568-0-175-1360-815.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/CD-Projekt-RED-wystrzelil-przed-premiera-GTA-VI-Akcje-KGHM-i-XTB-znow-mocno-w-dol-9231099.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/1/8/20ec54012a8c87-945-560-0-0-2048-1228.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Urząd Komisji Nadzoru Finansowego zabrał głos w sprawie gwałtownej przeceny akcji XTB, wywołanej słowami wiceszefa KNF w trakcie wtorkowej sesji giełdowej.",
-        "W odpowiedzi na pytania naszej redakcji nadzorca wprost przyznaje, że jest świadomy wpływu swoich wypowiedzi na decyzje inwestorów, ale nie zamierza powstrzymywać się od otwartego dialogu o ryzykach.",
-        "- Nie widzimy podstaw do unikania wypowiedzi na temat istotnych zagadnień regulacyjnych - odpowiada KNF."
+        "Środowa sesja na GPW zakończyła się przewagą podaży.",
+        "Podczas gdy notowania KGHM kontynuowały czarną serię w ślad za taniejącą miedzią i srebrem, a akcje XTB pogłębiły przecenę pod presją zapowiedzi KNF, mocnym odbiciem popisał się CD Projekt RED, wspierany gorączką wokół premiery gry GTA VI.",
+        "/ GPW Środowe notowania przy ulicy Książęcej przebiegały pod dyktando sprzedających, choć skala przeceny głównych benchmarków pozostała relatywnie niewielka na tle zachodnioeuropejskich parkietów."
       ],
       "extended_paragraphs": [
-        "Urząd Komisji Nadzoru Finansowego zabrał głos w sprawie gwałtownej przeceny akcji XTB, wywołanej słowami wiceszefa KNF w trakcie wtorkowej sesji giełdowej. W odpowiedzi na pytania naszej redakcji nadzorca wprost przyznaje, że jest świadomy wpływu swoich wypowiedzi na decyzje inwestorów, ale nie zamierza powstrzymywać się od otwartego dialogu o ryzykach. - Nie widzimy podstaw do unikania wypowiedzi na temat istotnych zagadnień regulacyjnych - odpowiada KNF.",
-        "/ KNF Wtorkowe załamanie notowań XTB - w szczytowym momencie nawet o 19 proc. - wywołało na rynku wzmożoną dyskusję. Iskrą, która napędziła wyprzedaż, była zapowiedź nowej interwencji produktowej na rynku kontraktów CFD , wygłoszona przez zastępcę przewodniczącego KNF Dariusza Adamskiego na konferencji \"Parkiet ExChange\". Wielu inwestorów komentujących sprawę w sieci zbulwersował fakt, że deklaracja dotycząca rynku CFD - stanowiącego główny filar przychodów brokera - padła z ust urzędnika w samym środku trwającej sesji giełdowej.",
-        "Zapytaliśmy UKNF, jak odnosi się do stawianych przez część inwestorów zarzutów, że to ta publiczna wypowiedź uderzyła w kapitalizację największego polskiego brokera. Otrzymane stanowisko publikujemy w całości na końcu artykułu.",
-        "Jacek Barszczewski, dyrektor Departamentu Komunikacji Społecznej KNF, w obszernej odpowiedzi na pytania Bankier.pl argumentuje, że rynek CFD już od 2019 roku objęty jest interwencją produktową, a obecny przegląd tych przepisów w 2026 roku wynika wprost z samej treści tamtej decyzji oraz z rozstrzygnięć z 2021 roku.",
-        "- Wtorkowa wypowiedź Dariusza Adamskiego dotyczyła wniosków dotyczących rynku CFD, jakie wynikają z przeglądu interwencji. Nie obejmowała ona natomiast szczegółów regulacyjnych ewentualnej zmiany interwencji. W zakresie samej interwencji nie pojawiły się więc żadne nowe informacje - podkreśla Barszczewski, dodając, że kierunek prac nadzoru był znany od dawna. - Wszystkie były już wcześniej sygnalizowane publicznie przez UKNF i nie mogły stanowić zaskoczenia dla uczestników rynku, którzy śledzą działania Urzędu w obszarze ochrony inwestorów indywidualnych."
+        "Środowa sesja na GPW zakończyła się przewagą podaży. Podczas gdy notowania KGHM kontynuowały czarną serię w ślad za taniejącą miedzią i srebrem, a akcje XTB pogłębiły przecenę pod presją zapowiedzi KNF, mocnym odbiciem popisał się CD Projekt RED, wspierany gorączką wokół premiery gry GTA VI.",
+        "/ GPW Środowe notowania przy ulicy Książęcej przebiegały pod dyktando sprzedających, choć skala przeceny głównych benchmarków pozostała relatywnie niewielka na tle zachodnioeuropejskich parkietów. WIG20 spadł o 0,61 proc. , natomiast indeks szerokiego rynku WIG zniżkował o 0,51 proc. Lepiej zaprezentował się segment średnich spółek, gdzie mWIG40 poszedł w dół o 0,12 proc. , ale już sWIG80 stracił 0,58 proc. Obroty wyniosły w środę 3,2 mld zł na WIG, z czego 2,5 mld zł dotyczyło spółek z portfela blue chipów, a 340 mln zł przecenionych akcjach XTB.",
+        "W momencie zamknięcia handlu w Warszawie nastroje na głównych parkietach Starego Kontynentu były wyraźnie gorsze niż nad Wisłą . W Londynie indeks FTSE 100 spadał o 1,2 proc. , we Frankfurcie niemiecki DAX tracił 1 proc. , a paryski CAC40 zniżkował o 0,6 proc. Mieszany obraz wyłaniał się w tym czasie zza oceanu, gdzie trwała pierwsza część sesji na Wall Street. Amerykański indeks S&P 500 spadał o 0,1 proc. , ale technologiczny Nasdaq Composite zwyżkował o 0,3 proc. ,",
+        "Spółki technologiczne ponownie poprowadziły Wall Street do wzrostów po publikacji rewelacyjnych wyników kwartalnych przez Nvidię . Amerykański gigant nie tylko pobił oczekiwania rynkowe, ale również podniósł prognozę sprzedaży na przyszły rok , skutecznie łagodząc narastające w ostatnich tygodniach obawy inwestorów o trwałość popytu na infrastrukturę związaną ze sztuczną inteligencją.",
+        "Entuzjazm po raporcie Nvidii był jednak chłodzony przez sygnały płynące z amerykańskiej Rezerwy Federalnej. Christopher Waller z nowojorskiego oddziału Fed ocenił, że uporczywa inflacja może wymagać podwyżki stóp procentowych aż o 50 punktów bazowych już na grudniowym posiedzeniu . Tak jastrzębia retoryka wsparła notowania amerykańskiego dolara, co tradycyjnie ciąży rynkom wschodzącym oraz notowaniom surowców przemysłowych."
       ]
     },
     {
-      "id": "rynki-6-e82282",
-      "entity_tag": "Microsoft (NASDAQ: MSFT)",
-      "sector": "Chmura & AI",
-      "market_impact": "HIGH",
+      "id": "rynki-2-568f07",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "MEDIUM",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Microsoft (NASDAQ: MSFT) (Chmura & AI) (kluczowe liczby: 11%, 12%, 6%) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 20 milionów dolarów) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "11%",
-        "12%",
-        "6%"
+        "20 milionów dolarów"
       ],
-      "title": "Awarie technologiczne powodują, że ludzie wpadają w panikę i kupują. Costco odnosi korzyści, mówi Mizuho",
-      "original_title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "title": "Trump prowadzi oddzielne rozmowy z Putinem i Xi przed ich historycznym spotkaniem trójstronnym",
+      "original_title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:33",
+      "time": "06:29",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108415077-1792082548621-gettyimages-2298322115-dsc0251_costco01_10022026.jpeg?v=1795017291&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108554923-1795068346389-gettyimages-2305268004-AFP_D7XJ9WY.jpeg?v=1795068686&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Kupujący wydają więcej w Costco, ponieważ przerwy technologiczne zamieniają się w wyścig o zaopatrzenie w towary awaryjne.",
-        "Mizuho szacuje, że w ostatnim tygodniu października porównywalna sprzedaż Costco w USA, z wyłączeniem benzyny, wzrosła o 11% do 12%, w porównaniu z normalnymi 6% do 7% w pierwszych trzech tygodniach października.",
-        "Costco odnotowało wzrost o 8,1% w miesiącu."
+        "Prezydent USA Donald Trump spotkał się w czwartek indywidualnie z prezydentem Rosji Władimirem Putinem i prezydentem Chin Xi Jinpingiem.",
+        "SHENZHEN, Chiny – Jak wynika z notatek basenowych i chińskich mediów państwowych, w czwartek prezydent USA Donald Trump spotkał się oddzielnie z Władimirem Putinem i Xi Jinpingiem przed zaplanowanymi spotkaniami trójstronnymi ze swoimi rosyjskimi i chińskimi odpowiednikami.",
+        "Wcześniej w czwartek przywódcy i inni członkowie Współpracy Gospodarczej Azji i Pacyfiku zebrali się na szczycie."
       ],
       "extended_paragraphs": [
-        "Kupujący wydają więcej w Costco, ponieważ przerwy technologiczne zamieniają się w wyścig o zaopatrzenie w towary awaryjne.",
-        "Mizuho szacuje, że w ostatnim tygodniu października porównywalna sprzedaż Costco w USA, z wyłączeniem benzyny, wzrosła o 11% do 12%, w porównaniu z normalnymi 6% do 7% w pierwszych trzech tygodniach października. Costco odnotowało wzrost o 8,1% w miesiącu. Firma podała, że ​​szybsze tempo utrzymuje się do listopada, ponieważ 21 z 26 generatorów o wysokich biletach, które śledziła na stronie internetowej Costco, zostało wyprzedanych w niedzielny wieczór.",
-        "Akcje Costco utrzymywały się na mniej więcej stałym poziomie w środę rano, notując około 1107 dolarów za sztukę.",
-        "„Niepokoje konsumentów po awarii programu Microsoft Outlook, przestoju wszystkich lotów amerykańskich linii lotniczych i apokaliptycznych obaw pojawiających się w mediach społecznościowych przyczyniły się do wzrostu sprzedaży preparatów awaryjnych w COST” – stwierdził analityk Mizuho David Bellinger w poniedziałkowej notatce badawczej. Bellinger pojawi się w programie „The Exchange” stacji CNBC o godzinie 13:00. godzina.",
-        "W czwartek nastąpiła awaria programu Outlook i Teams firmy Microsoft, a w piątek Federalna Administracja Lotnicza wstrzymała loty w całym kraju. W poniedziałek awaria oprogramowania w JPMorgan Chase spowodowała opóźnienia w transakcjach bankowych, a awaria systemu opóźniła loty United Airlines. Agencja Bezpieczeństwa Narodowego podała we wtorek, że sieć komunikacyjna agencji szpiegowskiej chwilowo przestała działać."
+        "Prezydent USA Donald Trump spotkał się w czwartek indywidualnie z prezydentem Rosji Władimirem Putinem i prezydentem Chin Xi Jinpingiem.",
+        "SHENZHEN, Chiny – Jak wynika z notatek basenowych i chińskich mediów państwowych, w czwartek prezydent USA Donald Trump spotkał się oddzielnie z Władimirem Putinem i Xi Jinpingiem przed zaplanowanymi spotkaniami trójstronnymi ze swoimi rosyjskimi i chińskimi odpowiednikami.",
+        "Wcześniej w czwartek przywódcy i inni członkowie Współpracy Gospodarczej Azji i Pacyfiku zebrali się na szczycie. Trump i Xi weszli do pokoju obok siebie.",
+        "Xi powiedział, że Chiny przekażą 20 milionów dolarów na wsparcie współpracy APEC i utworzą „Centrum Studiów Społecznych Azji i Pacyfiku w Shenzhen w celu prowadzenia badań politycznych i wymian oraz zapewniania wsparcia intelektualnego”.",
+        "Później podczas porannej sesji Trump powiedział, że jest przeciwny regulowaniu sztucznej inteligencji, ponieważ „zdusiłoby to” branżę."
       ]
     },
     {
-      "id": "rynki-7-f02802",
-      "entity_tag": "EBC (Strefa Euro)",
-      "sector": "Banki Centralne",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Wpływ na kapitał: Korzystne otoczenie dla sektora bankowego i wyceny PLN (kluczowe liczby: 2%, 3%, 5%); stabilizuje oczekiwania dotyczące kosztu pieniądza.",
-      "key_metrics": [
-        "2%",
-        "3%",
-        "5%"
-      ],
-      "title": "Euroinflacja rozlewa się po Europie. Lider może być tylko jeden",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "11:01",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Inflacja-w-krajach-Unii-Europejskiej-w-pazdzierniku-2026-Lider-moze-byc-tylko-jeden-9230749.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/a/94d51e8c05d96e-945-560-0-52-1500-899.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "W niemal wszystkich krajach Unii Europejskiej inflacja przekraczała 2%.",
-        "W miażdżącej większości było to ponad 3%, a w jednej trzeciej państw członkowskich ceny rosły w tempie bliskim lub wyższym od 5%.",
-        "fot. Kai Pfaffenbach / / FORUM W październiku 2026 roku inflacja HICP w Unii Europejskiej wyniosła 4,0% i był to najwyższy odczyt od ponad trzech lat."
-      ],
-      "extended_paragraphs": [
-        "W niemal wszystkich krajach Unii Europejskiej inflacja przekraczała 2%. W miażdżącej większości było to ponad 3%, a w jednej trzeciej państw członkowskich ceny rosły w tempie bliskim lub wyższym od 5%.",
-        "fot. Kai Pfaffenbach / / FORUM W październiku 2026 roku inflacja HICP w Unii Europejskiej wyniosła 4,0% i był to najwyższy odczyt od ponad trzech lat. W strefie euro zharmonizowany wskaźnik inflacji konsumenckiej również wzrósł o 4,0% rdr – podał w środę Eurostat.",
-        "Podobnie jak w poprzednich miesiącach za taki stan rzeczy odpowiadają przede wszystkim coraz wyższe ceny paliw i energii. Według Eurostatu w październiku ceny energii poszły w górę o 1,5% względem września i były aż o 21% wyższe niż w październiku 2025 roku .",
-        "Wciąż podwyższona pozostaje inflacja w sektorze usługowym, gdzie ceny wzrosły średnio o 3,3% rdr – czyli najszybciej od trzech miesięcy. W rezultacie bazowa inflacja HICP – czyli wskaźnik po wyłączeniu cen energii, paliw i żywności – wzrosła z 2,5% do 2,6%.",
-        "Mimo to październik był już ósmym miesiącem z rzędu, w którym inflacja HICP w eurolandzie przekraczała 2-procentowy cel Europejskiego Banku Centralnego. Aby zmienić ten stan rzeczy, EBC dokonał w tym roku już dwóch 25-punktowych podwyżek stóp procentowych. Trzeci taki ruch oczekiwany jest w grudniu."
-      ]
-    },
-    {
-      "id": "rynki-8-e29053",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [],
-      "title": "Śledczy czynią postępy w poszukiwaniu przyczyny zatrzymania naziemnego FAA",
-      "original_title": "Investigators make progress in hunt for cause of FAA ground stop",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:13",
-      "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108554363-1795021285948-gettyimages-2304593499-AFP_D7GL3L4.jpeg?v=1795021325&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Finance",
-      "lead_story": false,
-      "summary_points": [
-        "Inżynierowie i analitycy nadal szukają pierwotnej przyczyny problemu, który w piątek doprowadził do czterogodzinnego postoju naziemnego.",
-        "Inżynierowie i analitycy poszukujący pierwotnej przyczyny problemów technicznych będących przyczyną piątkowego ogólnokrajowego zatrzymania naziemnego przez Federalną Administrację Lotniczą byli w stanie odtworzyć sytuację, w której przeważały części systemu ruchu lotniczego, powiedziały CNBC osoby zaznajomione z dochodzeniem.",
-        "Choć odtworzenie problemu w laboratorium na Florydzie stanowi postęp, osoby prowadzące dochodzenie w tej sprawie nie ustaliły jeszcze dokładnie, dlaczego dwa routery, o których mowa, uległy awarii – twierdzą osoby, które poprosiły o zachowanie anonimowości, aby porozmawiać o bieżącej sytuacji."
-      ],
-      "extended_paragraphs": [
-        "Inżynierowie i analitycy nadal szukają pierwotnej przyczyny problemu, który w piątek doprowadził do czterogodzinnego postoju naziemnego.",
-        "Inżynierowie i analitycy poszukujący pierwotnej przyczyny problemów technicznych będących przyczyną piątkowego ogólnokrajowego zatrzymania naziemnego przez Federalną Administrację Lotniczą byli w stanie odtworzyć sytuację, w której przeważały części systemu ruchu lotniczego, powiedziały CNBC osoby zaznajomione z dochodzeniem.",
-        "Choć odtworzenie problemu w laboratorium na Florydzie stanowi postęp, osoby prowadzące dochodzenie w tej sprawie nie ustaliły jeszcze dokładnie, dlaczego dwa routery, o których mowa, uległy awarii – twierdzą osoby, które poprosiły o zachowanie anonimowości, aby porozmawiać o bieżącej sytuacji. Znalezienie pierwotnej przyczyny ma kluczowe znaczenie dla ustalenia przez FAA, czy może występować problem z innymi routerami stanowiącymi szkielet komunikacji krajowej sieci transportu lotniczego.",
-        "Przerwa naziemna trwała w piątek ponad cztery godziny i była najdłuższym zatrzymaniem odlotów samolotów z USA od 11 września.",
-        "Sekretarz transportu Sean Duffy i administrator FAA Bryan Bedford oświadczyli, że nic nie wskazuje na to, aby routery uległy awarii w wyniku cyberataku."
-      ]
-    },
-    {
-      "id": "rynki-4-640dd2",
+      "id": "rynki-6-640dd2",
       "entity_tag": "Azja & Pacyfik",
       "sector": "Gospodarka Światowa",
       "market_impact": "MEDIUM",
@@ -2403,8 +2381,43 @@
         "Oczekuje się, że w czwartek prezydent USA Donald Trump, prezydent Chin Xi Jinping i prezydent Rosji Władimir Putin odbędą rzadkie spotkanie trójstronne.",
         "SHENZHEN, Chiny – Dla mnie, Amerykanina, była to podróż do Chin, aby po raz pierwszy osobiście spotkać się z prezydentem USA Donaldem Trumpem.",
         "Trump wyłonił się z grupy otaczających go ubranych na czarno fotografów i innego personelu podczas bankietu powitalnego w Shenzhen z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku, które odbyło się w dniach 17–19 listopada.",
-        "Zaledwie kilka miejsc po jego lewej stronie siedział prezydent Rosji Władimir Putin, który wziął kieliszek czerwonego wina, aby dołączyć do toastu prowadzonego przez prezydenta Chin Xi Jinpinga.",
+        "Zaledwie kilka miejsc po jego lewej stronie siedział prezydent Rosji Władimir Putin, który sięgnął po kieliszek czerwonego wina, aby dołączyć do toastu prowadzonego przez prezydenta Chin Xi Jinpinga.",
         "„Na jutrzejszym spotkaniu przywódców omówimy środki mające na celu poszerzenie wzajemnego otwarcia, zbadamy ścieżki wzrostu opartego na innowacjach i określimy możliwości rozszerzenia praktycznej współpracy na różne dziedziny, tak aby przełożyć więcej inicjatyw na wymierne rezultaty” – powiedział Xi w języku mandaryńskim, według tłumaczenia CNBC."
+      ]
+    },
+    {
+      "id": "rynki-8-9cd499",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 3%, 3,75%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3%",
+        "3,75%"
+      ],
+      "title": "Walmart ma zgłosić zarobki przed dzwonkiem. Oto, czego się spodziewać",
+      "original_title": "Walmart is set to report earnings before the bell. Here's what to expect",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "05:01",
+      "source": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549203-1794421348751-gettyimages-2292765585-US_RETAIL.jpeg?v=1795042518&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Finance",
+      "lead_story": false,
+      "summary_points": [
+        "Oczekuje się, że Walmart zaoferuje kolorystykę wydatków konsumenckich przed sezonem świątecznym, gdy klienci będą zwracać uwagę na wartość i wygodę.",
+        "Walmart ma opublikować swoje zyski za trzeci kwartał fiskalny w czwartek, gdy sprzedawca detaliczny przygotowuje się do sezonu świątecznego, w którym kładzie się większy nacisk na wartość w obliczu gorszych nastrojów konsumentów.",
+        "Ten wielkopowierzchniowy sprzedawca detaliczny odnotował w ciągu ostatnich kilku kwartałów solidny wzrost, ponieważ widzi, że klienci skłaniają się ku obniżkom cen, poprawie dostaw i zyskom w swojej działalności reklamowej."
+      ],
+      "extended_paragraphs": [
+        "Oczekuje się, że Walmart zaoferuje kolorystykę wydatków konsumenckich przed sezonem świątecznym, gdy klienci będą zwracać uwagę na wartość i wygodę.",
+        "Walmart ma opublikować swoje zyski za trzeci kwartał fiskalny w czwartek, gdy sprzedawca detaliczny przygotowuje się do sezonu świątecznego, w którym kładzie się większy nacisk na wartość w obliczu gorszych nastrojów konsumentów.",
+        "Ten wielkopowierzchniowy sprzedawca detaliczny odnotował w ciągu ostatnich kilku kwartałów solidny wzrost, ponieważ widzi, że klienci skłaniają się ku obniżkom cen, poprawie dostaw i zyskom w swojej działalności reklamowej. Stara się także przyciągać konsumentów o wyższych dochodach dzięki członkostwu w Walmart+.",
+        "Oto, co spółka ma zgłosić za trzeci kwartał finansowy na podstawie ankiety przeprowadzonej wśród analityków przez LSEG:",
+        "Walmart podał wcześniej, że spodziewa się wzrostu sprzedaży netto w trzecim kwartale o 3% do 3,75%. Dyrektor finansowy John David Rainey powiedział CNBC w zeszłym kwartale, że „biznes Walmartu jest silny” i że jego postępy zachęcają go do działania."
       ]
     }
   ]

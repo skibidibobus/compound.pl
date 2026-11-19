@@ -3,10 +3,10 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.323",
-    "last_updated": "2026-11-19 17:29",
+    "last_updated": "2026-11-19 23:43",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 18,
-    "foreign_translated_count": 20,
+    "foreign_translated_count": 19,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -81,17 +81,17 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$62,966",
-      "change": "-0.34%",
+      "price": "$61,734",
+      "change": "-1.91%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,776",
-      "change": "+0.26%",
-      "is_positive": true
+      "price": "$1,749",
+      "change": "-1.47%",
+      "is_positive": false
     },
     {
       "symbol": "WIG20",
@@ -910,7 +910,43 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-6f31b8",
+      "id": "rynki-1-c420be",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 107 mld dolarów, 17%, 2,25%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "107 mld dolarów",
+        "17%",
+        "2,25%"
+      ],
+      "title": "Udany debiut Anthopica. Nasdaq pogłębia korektę",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:05",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Udany-debiut-Anthopica-Nasdaq-poglebia-korekte-9232105.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/0/9/5ca8bfcbc825c6-948-568-262-358-2966-1779.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków.",
+        "Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
+        "fot. Lev Radin / / Zuma Press / Forum W czwartek na Wall Street liczyły się dwie premiery."
+      ],
+      "extended_paragraphs": [
+        "Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków. Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
+        "fot. Lev Radin / / Zuma Press / Forum W czwartek na Wall Street liczyły się dwie premiery. Tą ważniejszą był giełdowy debiut Anthopica. Firma stojąca za modelem AI Claude w ramach emisji akcji pozyskała ponad 107 mld dolarów , a rynek początkowo wycenił ją na ponad 1,5 biliona dolarów . Nominalnie było to największe IPO w historii. Akcje Anthopica rozpoczęły handel od 33-procentowej zwyżki, ale zamknęły dzień wzrostem o 17% i kapitalizacją rzędu 1,1 bln USD.",
+        "Ten sukces ginął jednak w czerwonym obrazie rynku. Nasdaq Composite po spadku o 2,25% zatrzymał się na poziomie 23 879,20 punktów. To najniższy kurs zamknięcia od połowy kwietnia, a więc już ponad 7 miesięcy. Od październikowego szczytu hossy Nasdaq stracił już prawie 14%, co Amerykanie określają mianem „korekty”.",
+        "Drugą istotną premierą było udostępnienie graczom gry Grand Theft Auto 6 . Ten długo oczekiwany hit stał się najwyżej ocenianą grą w historii serwisu Metacritic z notą 99 na 100 możliwych. Mimo to akcje Take-Two Interacticve – czyli właściciela studia Rockstar Games – potaniały o 3,7%.",
+        "Spadki zmonitowały także szeroki rynek. Indeks S&P500 zniżkował o 2,02% i finiszował z wynikiem 7 175,83 pkt. Także w tym przypadku był to najniższy kurs zamknięcia od kwietnia. Średnia przemysłowa Dow Jonesa straciła 2,19 % i po raz pierwszy od ponad pół roku zamknęła się poniżej 50 000 pkt."
+      ]
+    },
+    {
+      "id": "rynki-3-6f31b8",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
@@ -929,7 +965,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/OKI-od-2027-roku-Co-sie-zmieni-w-oszczedzaniu-i-inwestowaniu-Polakow-9209518.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/3/1/8b3cf8efb7fbb8-948-568-0-150-4000-2399.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Zamiast 19 proc. podatku Belki coroczna opłata od wartości aktywów lub pełne zwolnienie (do limitu) dla krajowych portfeli - Osobiste Konta Inwestycyjne (OKI) dołączą wkrótce do przybornika polskiego inwestora i oszczędzającego.",
         "Czym dokładnie jest to narzędzie?",
@@ -941,42 +977,6 @@
         "Inwestorzy indywidualni zyskają możliwość uniknięcia podatku Belki oraz corocznego rozliczania PIT-38, jednak w zamian wejdą w reżim podatku od wartości zgromadzonych aktywów.",
         "OKI premiują wybrane klasy aktywów i działają w ramach określonych limitów. O tym, jak te zasady przekładają się na opłacalność inwestycji w zależności od uzyskiwanych wyników, można dowiedzieć się z artykułu “Komu opłaci się OKI, a komu… niekoniecznie” .",
         "Osobiste Konto Inwestycyjne (OKI) to wyodrębniony rachunek finansowy wprowadzony ustawą z dnia 3 lipca 2026 r. o osobistych kontach inwestycyjnych (Dz.U. z 2026 r. poz. 1098). Przepisy ustawy wchodzą w życie 1 stycznia 2027 r."
-      ]
-    },
-    {
-      "id": "rynki-3-09ab68",
-      "entity_tag": "KGHM (GPW: KGH)",
-      "sector": "Surowce & Górnictwo",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,69 mld zł, 2,17 mld zł, 81,3 mld USD) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "2,69 mld zł",
-        "2,17 mld zł",
-        "81,3 mld USD"
-      ],
-      "title": "KGHM gasi pożar na kursie, PZU liderem spadków w WIG20. Wszyscy patrzą na debiut Anthropica i premierę GTA 6",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:15",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/KGHM-gasi-pozar-na-kursie-PZU-liderem-spadkow-w-WIG20-Wszyscy-patrza-na-debiut-Anthropica-i-premiere-GTA-6-9231932.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/a/1/7a2d33931a79c4-948-568-0-270-4000-2399.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Czwartkowy handel na GPW przebiegał pod znakiem próby odbicia indeksu krajowych blue chipów skutecznie spacyfikowanej w drugiej połowie dnia.",
-        "W WIG20 ciekawe wyglądało przeciągnie liny między rosnącym po wynikach kursem KGHM, a taniejącymi akcjami PZU, także reagującymi na sprawozdanie finansowe.",
-        "Ponadto znów wyróżniły się notowania CD Projektu i Orlenu."
-      ],
-      "extended_paragraphs": [
-        "Czwartkowy handel na GPW przebiegał pod znakiem próby odbicia indeksu krajowych blue chipów skutecznie spacyfikowanej w drugiej połowie dnia. W WIG20 ciekawe wyglądało przeciągnie liny między rosnącym po wynikach kursem KGHM, a taniejącymi akcjami PZU, także reagującymi na sprawozdanie finansowe. Ponadto znów wyróżniły się notowania CD Projektu i Orlenu. Podczas gdy krajowe indeksy zakończyły dzień pod kreską, globalni inwestorzy wstrzymali oddech przed historycznym debiutem twórców modelu Claude. Internet z kolei zalała fala treści dotyczących premiery wyczekiwanego Grand Theft Auto VI.",
-        "fot. katjen / / Shutterstock Na zamknięciu czwartkowych notowań WIG20 spadł o 0,51 proc. Gorzej poradził sobie szeroki rynek – indeks WIG zniżkował o 0,56 proc. , a grupujący średnie spółki mWIG40 spadł o 0,85 proc. Na czerwono dzień zakończył także sWIG80, który stracił 0,34 proc. Łączne obroty na GPW wyniosły 2,69 mld zł , z czego aż 2,17 mld zł przypadło na największe podmioty skupione w portfelu WIG20.",
-        "Warszawski parkiet zaprezentował się relatywnie stabilnie na tle pogarszających się nastrojów na głównych giełdach Starego Kontynentu. W momencie zamknięcia sesji w Polsce brytyjski FTSE 100 spadał o 0,8 proc. , niemiecki DAX tracił 0,9 proc. , a francuski CAC40 zniżkował o 0,6 proc. Nieco lepsze nastroje panowały za oceanem, gdzie po otwarciu handlu na Wall Street szeroki indeks S&P 500 spadał o 0,3 proc. , podczas gdy technologiczny Nasdaq Composite zwyżkował o 0,2 proc.",
-        "Głównym tematem na globalnych rynkach finansowych była w czwartek pierwsza oferta publiczna (IPO) spółki Anthropic , jednego z czołowych graczy sektora sztucznej inteligencji i twórcy popularnego modelu Claude . Firma pozyskała z rynku ponad 81,3 mld USD, sprzedając w ramach oferty 980 mln akcji po cenie emisyjnej 83 USD za sztukę . Choć sesja na Nasdaq rozpoczęła się o godzinie 15:30 czasu polskiego, pierwsze transakcje na walorach Anthropic spodziewane były dopiero przed godziną 18:00 ze względu na wydłużony proces aukcyjny. Wskazania z rynku kontraktów terminowych sygnalizowały jednak euforię – szacowana cena otwarcia oscylowała wokół 103 USD, co oznaczałoby skok kursu o około 25 proc.",
-        "Innym istotnym wydarzeniem, bardziej medialnym, ale mającym także swoje rynkowe tło była światowa premiera szóstej części gry Grand Theft Auto . Mimo ogromnego sukcesu przedsprzedażowego, notowania jej wydawcy – Take-Two Interactive Software – rozpoczęły sesję na Wall Street od około 2-proc. przeceny. Wydarzenie to odbiło się również echem na warszawskim parkiecie, wywołując podwyższoną zmienność na akcjach rodzimego lidera branży gamedev."
       ]
     },
     {
@@ -1014,7 +1014,43 @@
       ]
     },
     {
-      "id": "rynki-5-6e1313",
+      "id": "rynki-5-09ab68",
+      "entity_tag": "KGHM (GPW: KGH)",
+      "sector": "Surowce & Górnictwo",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,69 mld zł, 2,17 mld zł, 81,3 mld USD) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "2,69 mld zł",
+        "2,17 mld zł",
+        "81,3 mld USD"
+      ],
+      "title": "KGHM gasi pożar na kursie, PZU liderem spadków w WIG20. Wszyscy patrzą na debiut Anthropica i premierę GTA 6",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:15",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/KGHM-gasi-pozar-na-kursie-PZU-liderem-spadkow-w-WIG20-Wszyscy-patrza-na-debiut-Anthropica-i-premiere-GTA-6-9231932.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/a/1/7a2d33931a79c4-948-568-0-270-4000-2399.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Czwartkowy handel na GPW przebiegał pod znakiem próby odbicia indeksu krajowych blue chipów skutecznie spacyfikowanej w drugiej połowie dnia.",
+        "W WIG20 ciekawe wyglądało przeciągnie liny między rosnącym po wynikach kursem KGHM, a taniejącymi akcjami PZU, także reagującymi na sprawozdanie finansowe.",
+        "Ponadto znów wyróżniły się notowania CD Projektu i Orlenu."
+      ],
+      "extended_paragraphs": [
+        "Czwartkowy handel na GPW przebiegał pod znakiem próby odbicia indeksu krajowych blue chipów skutecznie spacyfikowanej w drugiej połowie dnia. W WIG20 ciekawe wyglądało przeciągnie liny między rosnącym po wynikach kursem KGHM, a taniejącymi akcjami PZU, także reagującymi na sprawozdanie finansowe. Ponadto znów wyróżniły się notowania CD Projektu i Orlenu. Podczas gdy krajowe indeksy zakończyły dzień pod kreską, globalni inwestorzy wstrzymali oddech przed historycznym debiutem twórców modelu Claude. Internet z kolei zalała fala treści dotyczących premiery wyczekiwanego Grand Theft Auto VI.",
+        "fot. katjen / / Shutterstock Na zamknięciu czwartkowych notowań WIG20 spadł o 0,51 proc. Gorzej poradził sobie szeroki rynek – indeks WIG zniżkował o 0,56 proc. , a grupujący średnie spółki mWIG40 spadł o 0,85 proc. Na czerwono dzień zakończył także sWIG80, który stracił 0,34 proc. Łączne obroty na GPW wyniosły 2,69 mld zł , z czego aż 2,17 mld zł przypadło na największe podmioty skupione w portfelu WIG20.",
+        "Warszawski parkiet zaprezentował się relatywnie stabilnie na tle pogarszających się nastrojów na głównych giełdach Starego Kontynentu. W momencie zamknięcia sesji w Polsce brytyjski FTSE 100 spadał o 0,8 proc. , niemiecki DAX tracił 0,9 proc. , a francuski CAC40 zniżkował o 0,6 proc. Nieco lepsze nastroje panowały za oceanem, gdzie po otwarciu handlu na Wall Street szeroki indeks S&P 500 spadał o 0,3 proc. , podczas gdy technologiczny Nasdaq Composite zwyżkował o 0,2 proc.",
+        "Głównym tematem na globalnych rynkach finansowych była w czwartek pierwsza oferta publiczna (IPO) spółki Anthropic , jednego z czołowych graczy sektora sztucznej inteligencji i twórcy popularnego modelu Claude . Firma pozyskała z rynku ponad 81,3 mld USD, sprzedając w ramach oferty 980 mln akcji po cenie emisyjnej 83 USD za sztukę . Choć sesja na Nasdaq rozpoczęła się o godzinie 15:30 czasu polskiego, pierwsze transakcje na walorach Anthropic spodziewane były dopiero przed godziną 18:00 ze względu na wydłużony proces aukcyjny. Wskazania z rynku kontraktów terminowych sygnalizowały jednak euforię – szacowana cena otwarcia oscylowała wokół 103 USD, co oznaczałoby skok kursu o około 25 proc.",
+        "Innym istotnym wydarzeniem, bardziej medialnym, ale mającym także swoje rynkowe tło była światowa premiera szóstej części gry Grand Theft Auto . Mimo ogromnego sukcesu przedsprzedażowego, notowania jej wydawcy – Take-Two Interactive Software – rozpoczęły sesję na Wall Street od około 2-proc. przeceny. Wydarzenie to odbiło się również echem na warszawskim parkiecie, wywołując podwyższoną zmienność na akcjach rodzimego lidera branży gamedev."
+      ]
+    },
+    {
+      "id": "rynki-7-6e1313",
       "entity_tag": "KGHM (GPW: KGH)",
       "sector": "Surowce & Górnictwo",
       "market_impact": "HIGH",
@@ -1050,42 +1086,6 @@
       ]
     },
     {
-      "id": "rynki-7-022085",
-      "entity_tag": "PZU (GPW: PZU)",
-      "sector": "Ubezpieczenia",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla PZU (GPW: PZU) (Ubezpieczenia) (kluczowe liczby: 100 mld zł, 30%, 75%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "100 mld zł",
-        "30%",
-        "75%"
-      ],
-      "title": "PZU pozycjonuje się pod OKI. Będą dwa nowe ETF-y",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "11:52",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/PZU-pozycjonuje-sie-pod-OKI-Beda-dwa-nowe-ETF-y-9231555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/8/d/b9c5d20dd5299c-945-560-0-191-3324-1994.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "PZU TFI poinformował o planach wprowadzenia na giełdę dwóch nowych ETF-ów, oferujące strategii inwestycyjne opracowane na potrzeby Osobistych Kont Inwestycyjnych.",
-        "Jeden z nich wykorzystuje furtkę, którą ustawodawca pozwolił wypuścić pieniądze na rynki zagraniczne.",
-        "fot. Andrzej Bogacz / / FORUM W polskiej branży finansowej rozpoczął się swoisty „wyścig zbrojeń”."
-      ],
-      "extended_paragraphs": [
-        "PZU TFI poinformował o planach wprowadzenia na giełdę dwóch nowych ETF-ów, oferujące strategii inwestycyjne opracowane na potrzeby Osobistych Kont Inwestycyjnych. Jeden z nich wykorzystuje furtkę, którą ustawodawca pozwolił wypuścić pieniądze na rynki zagraniczne.",
-        "fot. Andrzej Bogacz / / FORUM W polskiej branży finansowej rozpoczął się swoisty „wyścig zbrojeń”. Jeszcze w październiku w pole wyszły hufce PKO BP, który ogłosił zamiar uzyskania aż 30% udział ów w rynku OKI. Bank szacuje, że w ciągu trzech lat wartość całego rynku OKI sięgnie 100 mld zł. Jest więc o co walczyć. Wszakże opłaty i prowizje od stu miliardów złotych to nie byle co.",
-        "Z podobnego założenia wyszli w PZU TFI, które w czwartek zapowiedziało wprowadzenie nowych ETF-ów, skrojonych z myślą o posiadaczach Osobistych Kont Inwestycyjnych. - PZU ETF Akcje Polska i Świat 75/25 Portfelowy FIZ i PZU ETF Polskie Akcje i Obligacje 60/40 Portfelowy FIZ dostały zielone światło od Komisji Nadzoru Finansowego. Ich giełdowy debiut jest przewidywany na drugą połowę grudnia – czytamy w czwartkowym komunikacie TFI PZU .",
-        "– Na ten rok zaplanowaliśmy premierę sześciu ETF-ów. Plan zrealizujemy z nawiązką i najprawdopodobniej jeszcze przed świętami na rynku zadebiutują dwa fundusze skrojone specjalnie pod OKI. Będą to pierwsze krajowe fundusze ETF z mieszanymi benchmarkami notowane na warszawskiej giełdzie – powiedział Artur Trela, prezes zarządu TFI PZU, cytowany w komunikacie medialnym.",
-        "Zasadniczo w ramach Osobistych Kont Inwestycyjnych zwolnione od nowego podatku od aktywów są tylko tzw. aktywa kwalifikowane. W praktyce są to instrumenty dostępne jedynie na polskim rynku kapitałowym i oferujące ekspozycję jedynie na aktywa krajowe. Ustawodawca przewidział jednak furtkę, poprzez którą część kapitału będzie można bezpodatkowo ulokować na rynkach zagranicznych. Niestety nie samodzielnie i nie bez pomocy branży finansowej. I właśnie taką opcję postanowił udostępnić PZU TFI."
-      ]
-    },
-    {
       "id": "rynki-6-640dd2",
       "entity_tag": "Azja & Pacyfik",
       "sector": "Gospodarka Światowa",
@@ -1118,39 +1118,35 @@
       ]
     },
     {
-      "id": "rynki-8-a5f2fc",
+      "id": "rynki-8-948641",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 17%, 23%, 30%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "17%",
-        "23%",
-        "30%"
-      ],
-      "title": "Walmart podnosi perspektywy, gdy dyrektor generalny mówi CNBC, że sprzedawca detaliczny stara się utrzymać ceny na niskim poziomie pomimo rosnących kosztów paliwa",
-      "original_title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Gap mianuje nowego dyrektora generalnego Athleta i obniża prognozy na cały rok",
+      "original_title": "Gap names new Athleta CEO, lowers full-year guidance",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:23",
+      "time": "21:22",
       "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108549203-1794421348751-gettyimages-2292765585-US_RETAIL.jpeg?v=1795042518&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1794421646&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
-        "Walmart stwierdził, że w trzecim kwartale finansowym dostrzegł siłę dzięki odbiorom i dostawom w sklepach.",
-        "Walmart ogłosił w czwartek zyski i przychody, które nieznacznie przekroczyły szacunki, i podniósł swoje prognozy na cały rok, ponieważ odnotował silny wzrost handlu elektronicznego przed pracowitym sezonem świątecznym.",
-        "Walmart podał, że globalna sprzedaż e-commerce wzrosła o 17%, napędzana odbiorem i dostawą w sklepach, przy czym Walmart w USA wzrósł o 23%, a Sam's Club w USA o 30%."
+        "W czwartek Gap ogłosił, że Ashley Kechter zostanie nowym dyrektorem generalnym Athlety.",
+        "Sprzedawca podał również mieszane zyski za trzeci kwartał fiskalny.",
+        "ogłosiła, że Ashley Kechter zostanie kolejnym prezesem i dyrektorem generalnym marki Athleta ze skutkiem od 14 grudnia."
       ],
       "extended_paragraphs": [
-        "Walmart stwierdził, że w trzecim kwartale finansowym dostrzegł siłę dzięki odbiorom i dostawom w sklepach.",
-        "Walmart ogłosił w czwartek zyski i przychody, które nieznacznie przekroczyły szacunki, i podniósł swoje prognozy na cały rok, ponieważ odnotował silny wzrost handlu elektronicznego przed pracowitym sezonem świątecznym.",
-        "Walmart podał, że globalna sprzedaż e-commerce wzrosła o 17%, napędzana odbiorem i dostawą w sklepach, przy czym Walmart w USA wzrósł o 23%, a Sam's Club w USA o 30%. Działalność reklamowa Walmart w USA odnotowała w tym kwartale wzrost sprzedaży o 37%.",
-        "Walmart podał, że obniżył ceny prawie 8 000 produktów w swoich sklepach, co jest głównym tematem obaw amerykańskich konsumentów o koszty życia w obliczu podwyższonych cen żywności i gazu.",
-        "Dyrektor generalny John Furner powiedział Becky Quick z CNBC, że firma odnotowała wyższe niż oczekiwano koszty oleju napędowego, ale zwroty ceł pomogły sprzedawcy zrównoważyć te nakłady i utrzymać niższe ceny."
+        "W czwartek Gap ogłosił, że Ashley Kechter zostanie nowym dyrektorem generalnym Athlety. Sprzedawca podał również mieszane zyski za trzeci kwartał fiskalny.",
+        "W czwartek firma Gap Inc. ogłosiła, że Ashley Kechter zostanie kolejnym prezesem i dyrektorem generalnym marki Athleta ze skutkiem od 14 grudnia.",
+        "Kechter dołączyła do Gap ze sprzedawcy odzieży sportowej Vuori, gdzie była globalnym prezesem i nadzorowała globalną strategię biznesową, marketing i finanse marki. Wcześniej była globalną prezeską marki Fabletics, a wcześniej rozpoczęła karierę w Gap.",
+        "„Jestem podekscytowany powrotem do Gap Inc. i współpracą z [dyrektorem generalnym Gap Richardem Dicksonem] oraz zespołem, aby wzmocnić nasze więzi z klientami i ukształtować kolejny rozdział marki” – stwierdził Kechter w oświadczeniu.",
+        "Oświadczenie następuje po tym, jak w zeszłym miesiącu Lululemon zatrudnił byłą dyrektor generalną Athlety Maggie Gauger na stanowisko dyrektora ds. produktu."
       ]
     },
     {
@@ -1188,7 +1184,7 @@
   ],
   "makro": [
     {
-      "id": "makro-2-aea75d",
+      "id": "makro-4-aea75d",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
@@ -1217,41 +1213,6 @@
         "Daniela nadzorowała bezpieczeństwo i politykę w OpenAI, jednej z najczęściej omawianych firm zajmujących się sztuczną inteligencją na świecie.",
         "Jednak Daniela i jej brat Dario, którzy również tam pracowali, mieli wątpliwości co do poziomu bezpieczeństwa w OpenAI i pomyśleli, że może czas odejść.",
         "Zrobiła więc to, co robi wielu, gdy nie możemy się o czymś zdecydować, zadzwoniła do przyjaciółki. Odpowiedź przyjaciela była bezpośrednia i rzeczowa: „Nie musisz ze mną rozmawiać przez telefon. Znasz już odpowiedź”."
-      ]
-    },
-    {
-      "id": "makro-4-70d8fa",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) (kluczowe liczby: 19,3 miliarda dolarów, 14,7 miliarda funtów) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "19,3 miliarda dolarów",
-        "14,7 miliarda funtów"
-      ],
-      "title": "Siedmiu założycieli firmy Anthropic, którzy wkrótce zostaną multimiliarderami",
-      "original_title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:42",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Firma AI stojąca za Claudem wkrótce sprzeda swoje udziały na amerykańskiej giełdzie, dzięki czemu jej założyciele będą bardzo bogaci.",
-        "W ciągu zaledwie pięciu lat Anthropic przekształcił się z nieznanego start-upu w technologicznego giganta wartego ponad bilion dolarów.",
-        "Firmę stojącą za platformą AI Claude utworzyło siedem osób, które opuściły konkurencyjną platformę OpenAI w 2021 roku i w ciągu kilku godzin staną się multimiliarderami – przynajmniej na papierze."
-      ],
-      "extended_paragraphs": [
-        "Firma AI stojąca za Claudem wkrótce sprzeda swoje udziały na amerykańskiej giełdzie, dzięki czemu jej założyciele będą bardzo bogaci.",
-        "W ciągu zaledwie pięciu lat Anthropic przekształcił się z nieznanego start-upu w technologicznego giganta wartego ponad bilion dolarów.",
-        "Firmę stojącą za platformą AI Claude utworzyło siedem osób, które opuściły konkurencyjną platformę OpenAI w 2021 roku i w ciągu kilku godzin staną się multimiliarderami – przynajmniej na papierze.",
-        "W środę Anthropic poinformowała, że ​​wprowadza spółkę na amerykańską giełdę i będzie sprzedawać swoje akcje po 83 dolarów za sztukę.",
-        "Przy tej cenie udziały założycieli będą warte co najmniej 19,3 miliarda dolarów (14,7 miliarda funtów) każdy."
       ]
     },
     {
@@ -1290,6 +1251,41 @@
       ]
     },
     {
+      "id": "makro-6-70d8fa",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) (kluczowe liczby: 19,3 miliarda dolarów, 14,7 miliarda funtów) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "19,3 miliarda dolarów",
+        "14,7 miliarda funtów"
+      ],
+      "title": "Siedmiu założycieli firmy Anthropic, którzy wkrótce zostaną multimiliarderami",
+      "original_title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:42",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Firma AI stojąca za Claudem wkrótce sprzeda swoje udziały na amerykańskiej giełdzie, dzięki czemu jej założyciele będą bardzo bogaci.",
+        "W ciągu zaledwie pięciu lat Anthropic przekształcił się z nieznanego start-upu w technologicznego giganta wartego ponad bilion dolarów.",
+        "Firmę stojącą za platformą AI Claude utworzyło siedem osób, które opuściły konkurencyjną platformę OpenAI w 2021 roku i w ciągu kilku godzin staną się multimiliarderami – przynajmniej na papierze."
+      ],
+      "extended_paragraphs": [
+        "Firma AI stojąca za Claudem wkrótce sprzeda swoje udziały na amerykańskiej giełdzie, dzięki czemu jej założyciele będą bardzo bogaci.",
+        "W ciągu zaledwie pięciu lat Anthropic przekształcił się z nieznanego start-upu w technologicznego giganta wartego ponad bilion dolarów.",
+        "Firmę stojącą za platformą AI Claude utworzyło siedem osób, które opuściły konkurencyjną platformę OpenAI w 2021 roku i w ciągu kilku godzin staną się multimiliarderami – przynajmniej na papierze.",
+        "W środę Anthropic poinformowała, że ​​wprowadza spółkę na amerykańską giełdę i będzie sprzedawać swoje akcje po 83 dolarów za sztukę.",
+        "Przy tej cenie udziały założycieli będą warte co najmniej 19,3 miliarda dolarów (14,7 miliarda funtów) każdy."
+      ]
+    },
+    {
       "id": "makro-1-49b164",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
@@ -1321,6 +1317,38 @@
         "Nawrocki przypomniał, że zawetował podobne przepisy w grudniu 2025 r . - Przekazałem szerokie uzasadnienie weta i projekt poprawiono w rządzie (...). Jednym z moich zasadniczych zastrzeżeń był brak wystarczającej gwarancji, że środki trafią wyłącznie na ochronę zdrowia , a nie będą kolejnym narzędziem do zasypywania dziury budżetowej ministra (finansów i gospodarki Andrzeja - red.) Domańskiego - powiedział prezydent.",
         "Jak dodał, w nowej ustawie zagwarantowano, że pieniądze trafią do służby zdrowia i dlatego zdecydował się ją podpisać. - Alkohol nie jest zwykłym towarem. Alkohol szkodzi i dochody z jego sprzedaży muszą być wykorzystane w celu naprawy tych szkód - ocenił prezydent Nawrocki.",
         "Na wino i pozostałe napoje fermentowane wzrośnie z 245 zł do 280,83 zł za hektolitr. Na wyroby pośrednie wzrośnie z 490 zł do 562,93 zł za hektolitr, a stawka akcyzy na cydr i perry o zawartości alkoholu do 5 proc. wzrośnie z 97 zł do 116,4 zł za hektolitr."
+      ]
+    },
+    {
+      "id": "makro-2-1d428e",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Anthropic debiutuje na giełdzie jedną z najcenniejszych spółek publicznych na świecie",
+      "original_title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:33",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Anthropic jest pierwszą spółką wykorzystującą wyłącznie sztuczną inteligencję notowaną na giełdzie, co stanowi test dla całej branży.",
+        "Źródło zdjęcia, Reuters Tytuł zdjęcia Firma Anthropic przeszła jedną z najszybszych w historii podróży od momentu rozpoczęcia działalności do pierwszej oferty publicznej.",
+        "Anthropic stała się jedną z najcenniejszych spółek publicznych na świecie po wejściu jej akcji na giełdę, a jej wycena osiągnęła około 1,76 biliona dolarów (1,34 biliona funtów)."
+      ],
+      "extended_paragraphs": [
+        "Anthropic jest pierwszą spółką wykorzystującą wyłącznie sztuczną inteligencję notowaną na giełdzie, co stanowi test dla całej branży.",
+        "Źródło zdjęcia, Reuters Tytuł zdjęcia Firma Anthropic przeszła jedną z najszybszych w historii podróży od momentu rozpoczęcia działalności do pierwszej oferty publicznej.",
+        "Anthropic stała się jedną z najcenniejszych spółek publicznych na świecie po wejściu jej akcji na giełdę, a jej wycena osiągnęła około 1,76 biliona dolarów (1,34 biliona funtów).",
+        "Czwartkowy debiut firmy zajmującej się sztuczną inteligencją (AI) na giełdzie Nasdaq był kluczowym testem dla branży, biorąc pod uwagę ogromne kwoty przeznaczane na rozwój technologii.",
+        "Akcje Anthropic przekroczyły cenę alokacji wynoszącą 83 dolary za sztukę, co pokazuje, że wokół sztucznej inteligencji było dużo emocji."
       ]
     },
     {
@@ -1356,7 +1384,7 @@
       ]
     },
     {
-      "id": "makro-6-e30604",
+      "id": "makro-7-e30604",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1386,211 +1414,210 @@
         "Hope, która w 2023 r. pracowała w oddziale w West Midlands, również powiedziała BBC News, że widziała starszych kolegów, którzy przyglądali się 16- i 17-letnim pracownikom i mówili, że chcą się z nimi przespać, gdy ukończą 18 lat.",
         "Hope jest jednym z setek pracowników, którzy wnoszą skargę o dyskryminację przeciwko McDonald's. W tym tygodniu sędzia odrzucił próbę wycofania roszczeń McDonald's, co Hope przyjęła z zadowoleniem."
       ]
-    },
-    {
-      "id": "makro-7-9e52f4",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Organ nadzorczy tymczasowo stwierdza, że Viagogo mogło złamać prawo dotyczące ukrytych opłat",
-      "original_title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:35",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3865/live/755fe980-e407-11f1-ab35-e1af93fa5cce.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "konkurencji twierdzi, że wstępne ustalenia sugerują, że witryna internetowa zajmująca się sprzedażą biletów stosowała ceny kroplowe.",
-        "Konkurencji i Rynków (CMA) stwierdził, że Viagogo nie pokazało konsumentom całkowitej ceny z góry przy zakupie biletów „i dodało opłaty na późniejszym etapie, co jest praktyką znaną jako kroplówka”.",
-        "CMA dodała, że ​​jest to wstępne ustalenie i nie należy zakładać, że spółka faktycznie złamała prawo."
-      ],
-      "extended_paragraphs": [
-        "Brytyjski organ ds. konkurencji twierdzi, że wstępne ustalenia sugerują, że witryna internetowa zajmująca się sprzedażą biletów stosowała ceny kroplowe.",
-        "Urząd ds. Konkurencji i Rynków (CMA) stwierdził, że Viagogo nie pokazało konsumentom całkowitej ceny z góry przy zakupie biletów „i dodało opłaty na późniejszym etapie, co jest praktyką znaną jako kroplówka”.",
-        "CMA dodała, że ​​jest to wstępne ustalenie i nie należy zakładać, że spółka faktycznie złamała prawo.",
-        "W oświadczeniu Viagogo oświadczyło, że w pełni współpracuje z CMA, dodając, że dochodzenie jest kontynuowane i „nie dokonano żadnych ostatecznych ustaleń”.",
-        "W zeszłym roku CMA poinformowała, że ​​bada wiele firm w związku z ich praktykami cenowymi w Internecie, w tym Viagogo."
-      ]
     }
   ],
   "tech": [
     {
-      "id": "tech-4-cbc8eb",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
+      "id": "tech-1-1b72c2",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 80 miliardów dolarów, 81 miliardów dolarów, 220 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) (kluczowe liczby: 10 miliardów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [
-        "80 miliardów dolarów",
-        "81 miliardów dolarów",
-        "220 miliardów dolarów"
+        "10 miliardów"
       ],
-      "title": "Anthropic osiąga cenę 111 dolarów na giełdach NASDAQ, 33% powyżej ceny IPO",
-      "original_title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:59",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": true,
-      "summary_points": [
-        "Cena IPO Anthropic została ustalona na 83 dolary, co stanowi ponad 80 miliardów dolarów pozyskanego nowego kapitału.",
-        "Akcje Anthropic są obecnie notowane na giełdzie NASDAQ po pomyślnym przeprowadzeniu przez spółkę pierwszej oferty publicznej.",
-        "W pierwszych minutach dostępności akcje były notowane po cenie 111,50 USD, co stanowiło premię o 33% w porównaniu z ceną IPO wynoszącą 83 USD."
-      ],
-      "extended_paragraphs": [
-        "Cena IPO Anthropic została ustalona na 83 dolary, co stanowi ponad 80 miliardów dolarów pozyskanego nowego kapitału.",
-        "Akcje Anthropic są obecnie notowane na giełdzie NASDAQ po pomyślnym przeprowadzeniu przez spółkę pierwszej oferty publicznej. W pierwszych minutach dostępności akcje były notowane po cenie 111,50 USD, co stanowiło premię o 33% w porównaniu z ceną IPO wynoszącą 83 USD.",
-        "Ustalona w środę cena IPO była już powyżej przewidywanego przedziału ustalonego przez spółkę, która przewidywała cenę pomiędzy 70 a 78 dolarów za akcję. W sumie oferta przyniesie ponad 81 miliardów dolarów przeznaczonych dla pracowników i własnej kasy firmy.",
-        "Finansowanie z oferty publicznej, w połączeniu z istniejącymi zbiórkami funduszy i nowymi ofertami prywatnymi zaplanowanymi w czasie z debiutem spółki na rynku publicznym, pozostawi Anthropic z oczekiwanymi rezerwami gotówkowymi o wartości 220 miliardów dolarów. Jak powiedział jeden z analityków TechCrunch: „Anthropic będzie mieć pod ręką więcej gotówki niż jakakolwiek inna firma”.",
-        "Cena akcji nadal się waha, ale cena otwarcia oznaczałaby kapitalizację rynkową spółki na poziomie ponad 2 bilionów dolarów, co czyniłoby ją bardziej wartościową niż Meta, Tesla czy Wal-Mart. Tylko pięć spółek może pochwalić się wyższą wyceną według kapitalizacji rynkowej: Apple, Amazon, Alphabet, Nvidia i Microsoft."
-      ]
-    },
-    {
-      "id": "tech-5-3b1805",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Jak można inwestować w sektor IT/tech?",
+      "title": "Sensacyjny eksperyment stworzył komunikację, której nie da się powstrzymać. Grawitacja posłużyła do nadania wiadomości",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "16:09",
+      "time": "19:51",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/jak-mozna-inwestowac-w-sektor-it-tech",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/adobestock_2156890196-1.jpg",
+      "source_url": "https://www.chip.pl/2026/11/grawitacja-wyslala-wiadomosc-winda",
+      "image_url": "https://konto.chip.pl/uploads/2023/09/dane.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
-        "Sektor technologiczny od lat przyciąga uwagę osób poszukujących ekspozycji na dynamicznie zmieniające się gałęzie gospodarki.",
-        "Przedsiębiorstwa tworzące oprogramowanie, infrastrukturę chmurową czy rozwiązania z zakresu sztucznej inteligencji wpływają na funkcjonowanie niemal każdej branży.",
-        "Należy jednak pamiętać, że angażowanie kapitału w ten obszar wiąże się z podwyższoną zmiennością notowań oraz ryzykiem utraty części lub całości zainwestowanych środków."
+        "Czy można przesłać wiadomość przez grubą, ceglaną ścianę bez użycia internetu, anten, fal radiowych i innych środków przekazu?",
+        "Okazuje się, że tak, co najlepiej pokazali naukowcy z australijskiego Uniwersytetu Queensland.",
+        "To właśnie oni stoją za niezwykłym eksperymentem, w którym pierwszoplanową rolę odegrała… grawitacja."
       ],
       "extended_paragraphs": [
-        "Sektor technologiczny od lat przyciąga uwagę osób poszukujących ekspozycji na dynamicznie zmieniające się gałęzie gospodarki. Przedsiębiorstwa tworzące oprogramowanie, infrastrukturę chmurową czy rozwiązania z zakresu sztucznej inteligencji wpływają na funkcjonowanie niemal każdej branży. Należy jednak pamiętać, że angażowanie kapitału w ten obszar wiąże się z podwyższoną zmiennością notowań oraz ryzykiem utraty części lub całości zainwestowanych środków. […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Jakie są główne sposoby lokowania kapitału w branży IT? Ekspozycję na sektor technologiczny można uzyskać na kilka sposobów, między innymi poprzez bezpośredni zakup akcji pojedynczych przedsiębiorstw, nabycie jednostek funduszy ETF lub wybór funduszy zarządzanych aktywnie. Dobór odpowiedniej ścieżki zależy przede wszystkim od poziomu wiedzy rynkowej, indywidualnej tolerancji na wahania wartości portfela oraz czasu, jaki można przeznaczyć na analizę sprawozdań finansowych. Poszczególne narzędzia różnią się stopniem rozproszenia kapitału, co bezpośrednio przekłada się na skalę ryzyka w okresach rynkowych korekt. Do najczęściej spotykanych metod uzyskania dostępu do spółek z branży IT należą:",
-        "Do głównych zalet tego rozwiązania należy pełna kontrola nad składem portfela oraz możliwość bezpośredniego udziału w wynikach finansowych wybranego przedsiębiorstwa, na przykład poprzez potencjalny wzrost kursu akcji lub ewentualną wypłatę dywidendy. Równocześnie takie podejście wiąże się z dwoma istotnymi ryzykami. Po pierwsze, występuje tu wysokie ryzyko specyficzne – błędy zarządu, nieudane wdrożenia technologiczne lub utrata przewagi konkurencyjnej mogą wywołać gwałtowny spadek notowań pojedynczej firmy i prowadzić do utraty znacznej części lub całości ulokowanego w niej kapitału. Po drugie, samodzielna selekcja wymaga regularnego śledzenia raportów kwartalnych oraz analizy wskaźników wyceny, które w sektorze IT bywają szczególnie wrażliwe na zmiany stóp procentowych i nastroje rynkowe.",
-        "Fundusze ETF (ang. Exchange Traded Funds) to fundusze inwestycyjne notowane na giełdzie, których jednostki można kupować i sprzedawać podczas sesji giełdowej podobnie jak akcje. Instrument ten naśladuje zachowanie wybranego indeksu rynkowego, co pozwala uzyskać ekspozycję na cały koszyk firm technologicznych – od producentów półprzewodników po dostawców oprogramowania – w ramach jednej transakcji.",
-        "Z perspektywy korzyści fundusze ETF rozkładają ekspozycję na wiele podmiotów oraz zazwyczaj wiążą się z niższymi kosztami zarządzania w porównaniu z tradycyjnymi funduszami zarządzanymi aktywnie. Z drugiej strony korzystanie z tego narzędzia niesie ze sobą konkretne zagrożenia. Zakup jednostek ETF nie chroni przed ryzykiem systemowym, dlatego podczas ogólnej dekoniunktury w branży technologicznej wartość funduszu również spada. Ponadto w wielu indeksach sektorowych kilka największych korporacji ma dominujący udział procentowy, co ogranicza rzeczywiste rozproszenie kapitału, a pasywna konstrukcja instrumentu oznacza pełną akceptację zmienności danego indeksu bez możliwości defensywnej reakcji zarządzającego."
+        "Czy można przesłać wiadomość przez grubą, ceglaną ścianę bez użycia internetu, anten, fal radiowych i innych środków przekazu? Okazuje się, że tak, co najlepiej pokazali naukowcy z australijskiego Uniwersytetu Queensland. To właśnie oni stoją za niezwykłym eksperymentem, w którym pierwszoplanową rolę odegrała… grawitacja. Być może jeszcze bardziej szalenie zabrzmi fakt, iż za nadajnik posłużyła im […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Być może jeszcze bardziej szalenie zabrzmi fakt, iż za nadajnik posłużyła im stara winda z lat 50., a odbiornik znajdował się w sąsiedniej łazience. W ten sposób australijscy uczeni byli w stanie przesłać jedno słowo: grawitacja . Kulisy ich szalonego eksperymentu trafiły na łamy Science Advances .",
+        "Czytaj też: Fizycy znaleźli ślady niezwykle rzadkiego rozpadu cząstki. To sytuacja jedna na 10 miliardów",
+        "Zamiast klasycznego laboratorium miejscem akcji był jeden z całkiem zwyczajnych budynków rozsianych na terenie Uniwersytetu Queensland. Zespół badawczy wykorzystał wspomnianą windę, której przeciwwaga wynosi około 1,8 tony. Uczestnicy eksperymentu odkryli, że przemieszczanie tak dużej masy powoduje niewielkie, acz mierzalne zmiany lokalnego pola grawitacyjnego.",
+        "Postanowili wykorzystać to zjawisko do przesyłania informacji. Winda poruszała się między dwoma poziomami, a jej przeciwwaga przyjmowała określone pozycje odpowiadające cyfrom binarnym: 0 i 1. W ten sposób badacze zakodowali wiadomość, którą następnie można było odczytać po drugiej stronie ceglanej ściany. Odbiornikiem był niezwykle czuły grawimetr umieszczony w sąsiedniej toalecie. Urządzenie rejestrowało minimalne zmiany pola grawitacyjnego wywołane ruchem przeciwwagi windy. Następnie zarejestrowane sygnały przekształcono w ciąg danych binarnych, z których dało się odtworzyć wiadomość."
       ]
     },
     {
-      "id": "tech-8-334eff",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
+      "id": "tech-2-fba4d4",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
       "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Klub walki myszy może wyjaśnić, dlaczego lubimy oglądać brutalne rzeczy",
-      "original_title": "Mouse fight club might explain why we like to watch violent things",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:04",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-1152x648.jpg",
-      "image_source": "Fot. / Źródło: Ars Technica",
-      "lead_story": false,
-      "summary_points": [
-        "Oglądanie walk nie było tak dobre, jak praktyczne doświadczenie, ale myszy osiągnęły połowę celu.",
-        "Zespół przydzielił losowo samce myszy do trzech różnych grup – wojowników, widzów i nowicjuszy – a następnie poddał każdą grupę ośmiodniowemu treningowi obejmującemu trzy 10-minutowe sesje dziennie.",
-        "Nowicjusze bawili się w izolacji pluszowymi myszami, podczas gdy widzowie obserwowali walczące ze sobą różne pary myszy myśliwskich z podwyższonej platformy za przezroczystą barierą – ustawienie wybrane tak, aby mogły wąchać i słuchać walk, a także je obserwować."
-      ],
-      "extended_paragraphs": [
-        "Oglądanie walk nie było tak dobre, jak praktyczne doświadczenie, ale myszy osiągnęły połowę celu.",
-        "Zespół przydzielił losowo samce myszy do trzech różnych grup – wojowników, widzów i nowicjuszy – a następnie poddał każdą grupę ośmiodniowemu treningowi obejmującemu trzy 10-minutowe sesje dziennie. Nowicjusze bawili się w izolacji pluszowymi myszami, podczas gdy widzowie obserwowali walczące ze sobą różne pary myszy myśliwskich z podwyższonej platformy za przezroczystą barierą – ustawienie wybrane tak, aby mogły wąchać i słuchać walk, a także je obserwować.",
-        "Dziewiąty dzień był „nocną walką”, kiedy wszystkie myszy musiały stawić czoła trudnemu przeciwnikowi w trzech 4-minutowych rundach. Każda walka była filmowana z góry, aby można było przeanalizować zachowanie myszy. Aby monitorować odpowiednie zmiany w aktywności mózgu, zespół zaprojektował pobudzające komórki mózgowe gryzoni tak, aby świeciły na zielono za każdym razem, gdy zostały aktywowane, podczas gdy hamujące komórki mózgowe świeciły na czerwono. Wszczepili także maleńkie włókna optyczne do 12 połączonych ze sobą obszarów mózgu, aby móc jednocześnie śledzić zmieniającą się aktywność w każdym obszarze mózgu.",
-        "Jak nakłonili myszy do walki? „Myszy są z natury terytorialne” – powiedział Ars współautor Jorge Iravedra-Garcia z Uniwersytetu Princeton. \"Tradycyjny test behawioralny stosowany przez eksperymentatorów nazywa się intruzem rezydentem. Po prostu wrzucasz myszy wyhodowane tak, aby były nieco słabsze i nieco bardziej posłuszne, do klatki domowej szczepów, o których wiemy, że są bardziej agresywne. Szczepy te są zazwyczaj bardzo dobre w naturalnym wywoływaniu takiego zachowania.\"",
-        "Dlatego walki nie były do ​​końca uczciwe. „Przechylamy szalę na korzyść wyraźnego zwycięzcy i wyraźnego przegranego, ponieważ wyraźny zwycięzca będzie u siebie, będzie większy i bardziej doświadczony” – powiedziała Ars współautorka Annegret Falkner, również z Princeton. \"Naprawdę chcieliśmy pokazać, że te zmiany mają w jakiś sposób charakter adaptacyjny. Zwierzęta nie wiedzą, jaki będzie wynik walki, zanim do niej przystąpią. Dlatego stworzyliśmy sytuację, w której wynik jest dla myszy nieco bardziej niepewny. \""
-      ]
-    },
-    {
-      "id": "tech-2-59db44",
-      "entity_tag": "Amazon (NASDAQ: AMZN)",
-      "sector": "E-commerce & Chmura",
-      "market_impact": "MEDIUM",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Amazon (NASDAQ: AMZN) (E-commerce & Chmura) (kluczowe liczby: 48,5 mln dolarów, 48,5 miliona dolarów, 100 milionów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) (kluczowe liczby: 17 miliardów dolarów, 8 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [
-        "48,5 mln dolarów",
-        "48,5 miliona dolarów",
-        "100 milionów dolarów"
+        "17 miliardów dolarów",
+        "8 miliardów dolarów"
       ],
-      "title": "Everful, były dyrektor wykonawczy Alibaby, zbiera 48,5 mln dolarów, aby połączyć sprzedawców detalicznych z chińskimi fabrykami",
-      "original_title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "title": "Elon Musk twierdzi, że SpaceX ma plan wyeliminowania martwych stref w telefonach komórkowych",
+      "original_title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
       "is_foreign": true,
       "lang": "EN",
-      "time": "17:00",
+      "time": "23:37",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
+      "source_url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Firma Everful zebrała 48,5 miliona dolarów na rozbudowę platformy zaopatrzenia bezpośredniego w fabryce, pomagając sprzedawcom detalicznym w pozyskiwaniu produktów od zagranicznych producentów.",
-        "Everful, były dyrektor wykonawczy Alibaba, zbiera 48,5 mln dolarów, aby połączyć sprzedawców detalicznych z chińskimi fabrykami.",
-        "Kate Park 9:00 PST · 19 listopada 2026 r. Everful, startup z siedzibą w San Francisco i Singapurze, który łączy mniejszych sprzedawców detalicznych i marki z chińskimi fabrykami oraz zarządza procesem od zamówienia do dostawy, zebrał 48,5 mln dolarów w ramach finansowania serii A."
+        "Dyrektor generalny SpaceX, Elon Musk, powiedział, że firma zakończyła projektowanie miniaturowej wieży komórkowej na dachu, która mogłaby zapewnić lepszy zasięg telefonom komórkowym i wyeliminować martwe strefy.",
+        "Elon Musk mówi, że SpaceX ma plan wyeliminowania martwych stref w telefonach komórkowych Kirsten Korosec 15:37 PST · 19 listopada 2026 Dyrektor generalny Elon Musk powiedział, że SpaceX ukończyło projekt miniaturowej wieży komórkowej na dachu, która mogłaby zapewnić lepszy zasięg telefonów komórkowych i wyeliminować martwe strefy wewnątrz budynków, do których trudno dotrzeć sygnałami z satelitów Starlink.",
+        "Oczekuje się, że te miniwieże telefonii komórkowej wejdą do produkcji w 2027 r., powiedział Musk podczas wywiadu na szczycie DealBook w tym tygodniu."
       ],
       "extended_paragraphs": [
-        "Firma Everful zebrała 48,5 miliona dolarów na rozbudowę platformy zaopatrzenia bezpośredniego w fabryce, pomagając sprzedawcom detalicznym w pozyskiwaniu produktów od zagranicznych producentów.",
-        "Everful, były dyrektor wykonawczy Alibaba, zbiera 48,5 mln dolarów, aby połączyć sprzedawców detalicznych z chińskimi fabrykami. Kate Park 9:00 PST · 19 listopada 2026 r. Everful, startup z siedzibą w San Francisco i Singapurze, który łączy mniejszych sprzedawców detalicznych i marki z chińskimi fabrykami oraz zarządza procesem od zamówienia do dostawy, zebrał 48,5 mln dolarów w ramach finansowania serii A.",
-        "Rundę poprowadziły Vertex Ventures Southeast Asia & India oraz January Capital, przy udziale istniejących inwestorów Square Peg i Lightspeed.",
-        "Everful jest na dobrej drodze do osiągnięcia 100 milionów dolarów rocznych przychodów do końca roku, około dwa i pół roku po uruchomieniu, powiedziała współzałożycielka Sisi Song. Dodała, że ​​firma wysyła miesięcznie ponad 5 milionów produktów do klientów w ponad 60 krajach i współpracuje z ponad 30 000 partnerów fabrycznych. Jej internetowy katalog hurtowy zawiera ponad 20 milionów produktów.",
-        "Song, były dyrektor Alibaba i seryjny przedsiębiorca Kevin Han, który sprzedał poprzednią firmę firmie Amazon, był współzałożycielem Everful w 2024 r. Firma zaczynała jako hurtownia biżuterii, a następnie przekształciła się w wielokategoriową platformę zaopatrzenia bezpośrednio w fabryce."
+        "Dyrektor generalny SpaceX, Elon Musk, powiedział, że firma zakończyła projektowanie miniaturowej wieży komórkowej na dachu, która mogłaby zapewnić lepszy zasięg telefonom komórkowym i wyeliminować martwe strefy.",
+        "Elon Musk mówi, że SpaceX ma plan wyeliminowania martwych stref w telefonach komórkowych Kirsten Korosec 15:37 PST · 19 listopada 2026 Dyrektor generalny Elon Musk powiedział, że SpaceX ukończyło projekt miniaturowej wieży komórkowej na dachu, która mogłaby zapewnić lepszy zasięg telefonów komórkowych i wyeliminować martwe strefy wewnątrz budynków, do których trudno dotrzeć sygnałami z satelitów Starlink.",
+        "Oczekuje się, że te miniwieże telefonii komórkowej wejdą do produkcji w 2027 r., powiedział Musk podczas wywiadu na szczycie DealBook w tym tygodniu.",
+        "„Mamy plan, który umożliwi wszechobecny dostęp na Ziemi, w tym za pośrednictwem telefonu komórkowego” – powiedział Musk, zauważając, że w przyszłym roku firma wystrzeliwuje konstelację satelitów Direct-to-Cell V2, która zwiększy przepustowość 40-krotnie. \"Ale brakuje tu elementu układanki, a mianowicie tego, że jeśli jesteś w pomieszczeniu, zwłaszcza jeśli masz metalowy dach, blokuje to sygnał z kosmosu. Dlatego potrzebujemy czegoś naziemnego, co poradzi sobie w sytuacjach, w których ludzie przebywają, no wiesz, w budynku z grubym dachem. \"",
+        "Wysiłki firmy początkowo skupiały się na zakupie widma bezprzewodowego po otrzymaniu w 2024 r. zgody Federalnej Komisji Łączności na kontynuację planów zaoferowania bezpośredniej wersji usługi Internetu satelitarnego Starlink we współpracy z T-Mobile. SpaceX zawarło w 2025 r. umowę o wartości 17 miliardów dolarów z EchoStar i zgodziło się w tym roku na zakup portfela widma dolnopasmowego o wartości 8 miliardów dolarów."
       ]
     },
     {
-      "id": "tech-6-25750e",
+      "id": "tech-4-ef76f8",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Po dzwonku otwierającym giełdę Nasdaq dyrektor generalny Anthropic ponownie zobowiązuje się do dalszego wspierania rozwoju sztucznej inteligencji",
-      "original_title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "title": "Chcesz zobaczyć na żywo wykorzystanie sztucznej inteligencji na ikonach komputera Mac? Ta nowa, sprytna aplikacja Ci na to pozwala",
+      "original_title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:19",
+      "time": "22:33",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+      "source_url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "W swoim przemówieniu otwierającym giełdę Nasdaq Dario Amodei ponownie podkreślił zaangażowanie Anthropic we wspieranie rozwoju sztucznej inteligencji, niezależnie od nacisków biznesowych i politycznych.",
-        "Po dzwonku otwierającym giełdę Nasdaq dyrektor generalny Anthropic ponownie zobowiązuje się do dalszego rozwoju sztucznej inteligencji Sarah Perez 8:19 czasu PST · 19 listopada 2026 r. Ponieważ w czwartek firma Anthropic zadebiutowała na Wall Street w ramach największej oferty publicznej w historii, dyrektor generalny Dario Amodei potwierdził zaangażowanie firmy w odpowiedzialny rozwój sztucznej inteligencji.",
-        "W swoim przemówieniu przed otwarciem giełdy Nasdaq Amodei obiecał, że firma zajmująca się sztuczną inteligencją nie ugnie się pod presją biznesową ani polityczną i „pozostanie pod kontrolą człowieka”."
+        "IconSwapper ożywia ikony aplikacji na komputerze Mac dzięki danym w czasie rzeczywistym, animacjom i zabawnym modyfikacjom, dzięki którym korzystanie z pulpitu będzie przyjemniejsze.",
+        "Chcesz zobaczyć na żywo wykorzystanie sztucznej inteligencji na ikonach komputera Mac?",
+        "Dzięki tej nowej, sprytnej aplikacji Sarah Perez 14:33 PST · 19 listopada 2026 r. Istnieje nowy sposób kontrolowania wykorzystania sztucznej inteligencji i resetowania limitów: za pomocą ikon aplikacji na komputerze Mac."
       ],
       "extended_paragraphs": [
-        "W swoim przemówieniu otwierającym giełdę Nasdaq Dario Amodei ponownie podkreślił zaangażowanie Anthropic we wspieranie rozwoju sztucznej inteligencji, niezależnie od nacisków biznesowych i politycznych.",
-        "Po dzwonku otwierającym giełdę Nasdaq dyrektor generalny Anthropic ponownie zobowiązuje się do dalszego rozwoju sztucznej inteligencji Sarah Perez 8:19 czasu PST · 19 listopada 2026 r. Ponieważ w czwartek firma Anthropic zadebiutowała na Wall Street w ramach największej oferty publicznej w historii, dyrektor generalny Dario Amodei potwierdził zaangażowanie firmy w odpowiedzialny rozwój sztucznej inteligencji. W swoim przemówieniu przed otwarciem giełdy Nasdaq Amodei obiecał, że firma zajmująca się sztuczną inteligencją nie ugnie się pod presją biznesową ani polityczną i „pozostanie pod kontrolą człowieka”.",
-        "Czytając przemówienie z wydruku, dyrektor generalny zaczął od opowiedzenia o początkach Anthropic jako sposobie zbudowania potężnej technologii, która mogłaby pomóc ludzkości. Jego zdaniem inspiracją była śmierć ojca z powodu choroby, która stała się uleczalna zaledwie kilka lat później.",
-        "Przyznał, że chociaż ludzka inteligencja sprawiła, że ​​choroby takie jak dżuma, ospa i polio stały się historią większości świata, wciąż było zbyt niewielu naukowców, którzy mieli zbyt mało czasu, aby poczynić postępy w innych obszarach chorób. Sztuczna inteligencja, stwierdził, może w tym pomóc, współpracując z ludźmi na rzecz dalszego postępu w medycynie.",
-        "Znaczące jest to, że Amodei zaczął od historii przedstawiającej zastosowania sztucznej inteligencji, które mogą potencjalnie ratować życie, ponieważ wielokrotnie ostrzegał przed ryzykiem związanym ze zbyt szybkim rozwojem tej technologii. We wrześniu Amodei trafił na pierwsze strony gazet, gdy nakreślił plan przyspieszenia rozwoju sztucznej inteligencji, który obejmował takie elementy, jak koordynacja z innymi wiodącymi firmami w zakresie standardów bezpieczeństwa i zaangażowanie ewaluatorów z organizacji zewnętrznych w celu sprawdzenia, czy firmy przestrzegają swoich zobowiązań w zakresie bezpieczeństwa."
+        "IconSwapper ożywia ikony aplikacji na komputerze Mac dzięki danym w czasie rzeczywistym, animacjom i zabawnym modyfikacjom, dzięki którym korzystanie z pulpitu będzie przyjemniejsze.",
+        "Chcesz zobaczyć na żywo wykorzystanie sztucznej inteligencji na ikonach komputera Mac? Dzięki tej nowej, sprytnej aplikacji Sarah Perez 14:33 PST · 19 listopada 2026 r. Istnieje nowy sposób kontrolowania wykorzystania sztucznej inteligencji i resetowania limitów: za pomocą ikon aplikacji na komputerze Mac. Tak, naprawdę!",
+        "Projektant Michael Flarup właśnie uruchomił nowe narzędzie dla komputerów Mac o nazwie IconSwapper, które umożliwia zastąpienie oficjalnej ikony dowolnej aplikacji ikoną własnego dzieła. Chociaż możesz używać tego narzędzia do zmiany wyglądu, projektu, cieniowania i innych ikon, jednym z ciekawszych sposobów jego wykorzystania jest zamiana ikon aplikacji AI, takich jak ChatGPT lub Claude, na wersje, które mogą wyświetlać Twoje wykorzystanie AI na żywo.",
+        "Wykonanie tej czynności jest dość proste i nie musisz posiadać wiedzy technicznej, aby to zadziałało. Po zainstalowaniu aplikacji na komputerze Mac wystarczy wybrać, dla której aplikacji chcesz utworzyć „aktywną” ikonę, czyli taką, która reaguje na konkretną aplikację.",
+        "Oprócz śledzenia wykorzystania sztucznej inteligencji w ChatGPT, Claude i Cursor, możesz także tworzyć żywe ikony dla wielu wbudowanych aplikacji Mac, takich jak Wiadomości, Mail, Safari, Finder, Muzyka i innych, takich jak Chrome i Spotify, ale te konfiguracje są zwykle bardziej zabawne niż praktyczne. Na przykład możesz skonfigurować kompas przeglądarki Safari tak, aby śledził ładowanie i pobieranie stron, lub możesz to zrobić tak, aby oczy Findera podążały za kursorem na ekranie. (To jest zabawne!)"
       ]
     },
     {
-      "id": "tech-1-954d8f",
+      "id": "tech-3-d5d217",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Koniec z przełączaniem się w tryb incognito przy jednym pytaniu. Google wprowadza tymczasowe wątki",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/google-wprowadza-tymczasowe-watki-tryb-ai",
+      "image_url": "https://konto.chip.pl/uploads/2024/12/wyszukiwarka-google.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Tryb incognito w przeglądarce przydaje się wbrew pozorom bardzo często (i to nie do tego, o czym myślicie).",
+        "Gdy wszędzie mamy algorytmy personalizacji, ta opcja pozwala na wyszukiwanie jednorazowych rzeczy bez ryzyka, że potem pojawią się one w formie reklam na innych witrynach.",
+        "Pytania o nietypowe problemy zdrowotne czy poszukiwania prezentów niespodzianek, wszystko to do […] Dlatego Google dodał do lubianego Trybu AI tymczasowe wątki."
+      ],
+      "extended_paragraphs": [
+        "Tryb incognito w przeglądarce przydaje się wbrew pozorom bardzo często (i to nie do tego, o czym myślicie). Gdy wszędzie mamy algorytmy personalizacji, ta opcja pozwala na wyszukiwanie jednorazowych rzeczy bez ryzyka, że potem pojawią się one w formie reklam na innych witrynach. Pytania o nietypowe problemy zdrowotne czy poszukiwania prezentów niespodzianek, wszystko to do […]",
+        "Dlatego Google dodał do lubianego Trybu AI tymczasowe wątki. Jak już sama nazwa wskazuje, chodzi o wyszukiwanie i uzyskanie odpowiedzi, które nie będą zostawiały śladu na naszym koncie. Ten mechanizm znamy już zresztą z Gemini, bo tam gigant też dodał opcję czatów tymczasowych.",
+        "Równolegle gigant z Mountain View rozwija swój ekosystem inteligentnego domu, wdrażając pakiet aktualizacji dla platformy Google Home. Użytkownicy smartfonów z Androidem posiadający kompatybilne inteligentne zamki zyskują możliwość otwierania drzwi wejściowych za pomocą cyfrowych kluczy domowych zapisanych bezpośrednio Google Wallet.",
+        "Czytaj też: Zegarki z Wear OS pożyczą GPS ze smartfona. Google ma sposób na dłuższą pracę podczas treningu",
+        "Google miał najwyraźniej ostatnio dużo pracy, bo dostaliśmy jeszcze do tego jedną nowość, tym razem dotyczącą Google Vids. Niedawno bowiem gigant odświeżył generator wideo, opierając go na modelu Omni 1.2 Flash. Teraz z kolei platforma otwiera przed użytkownikami funkcję osobistych awatarów, pozwalającą wygenerować własnego cyfrowego prezentera i wykorzystywać go w tworzonych materiałach wideo."
+      ]
+    },
+    {
+      "id": "tech-5-831f18",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 60%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "60%"
+      ],
+      "title": "Robot sprzątający tańszy nawet o 2600 zł? Roborock przygotował mocne promocje na Black Friday",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "18:30",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/roborock-black-friday-2026",
+      "image_url": "https://konto.chip.pl/uploads/2026/09/roborock-ifa-2026-37.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Black Friday kojarzy się przede wszystkim z jednym dniem wielkich wyprzedaży, ale w tym roku Roborock postanowił nieco wydłużyć to zakupowe szaleństwo.",
+        "Promocje trwają przez cały listopad, a przeceniono zarówno przystępniejsze cenowo roboty sprzątające, jak i najbardziej zaawansowane modele, które potrafią znacznie więcej niż samo odkurzanie.",
+        "Rabaty sięgają nawet 60%, a na niektórych urządzeniach można […] powrót Tech Testy Moto Nauka Publicystyka A z robotami sprzątającymi, jak już wielokrotnie w swoich testach wspomniałem, jest tak, że jeszcze kilka lat temu od takiego sprzętu oczekiwaliśmy przede wszystkim tego, żeby regularnie zbierał kurz i nie obijał się o wszystkie meble."
+      ],
+      "extended_paragraphs": [
+        "Black Friday kojarzy się przede wszystkim z jednym dniem wielkich wyprzedaży, ale w tym roku Roborock postanowił nieco wydłużyć to zakupowe szaleństwo. Promocje trwają przez cały listopad, a przeceniono zarówno przystępniejsze cenowo roboty sprzątające, jak i najbardziej zaawansowane modele, które potrafią znacznie więcej niż samo odkurzanie. Rabaty sięgają nawet 60%, a na niektórych urządzeniach można […]",
+        "powrót Tech Testy Moto Nauka Publicystyka A z robotami sprzątającymi, jak już wielokrotnie w swoich testach wspomniałem, jest tak, że jeszcze kilka lat temu od takiego sprzętu oczekiwaliśmy przede wszystkim tego, żeby regularnie zbierał kurz i nie obijał się o wszystkie meble. Dzisiaj poprzeczka znajduje się jednak znacznie wyżej. Nowoczesne konstrukcje rozpoznają przeszkody, dostosowują sposób pracy do rodzaju zabrudzeń, potrafią pokonywać wysokie progi, a nawet samodzielnie dbają o czystość swoich mopów. Coraz częściej ich zadaniem jest po prostu ograniczenie naszego udziału w sprzątaniu do absolutnego minimum.",
+        "I właśnie pod tym kątem warto spojrzeć na listopadową ofertę Roborocka. Producent przygotował promocje obejmujące około 20 urządzeń, ale szczególnie ciekawie prezentują się trzy modele: Qrevo Edge 2 Flow, Saros 20 oraz Saros 20 Flow Complete. Każdy z nich reprezentuje nieco inne podejście do sprzątania i odpowiada na trochę inne potrzeby domowników. Co dokładnie potrafią i ile kosztują podczas Black Friday ?",
+        "Zacznijmy od urządzenia, które może szczególnie zainteresować osoby mające w domu dużo twardych podłóg. Panele, płytki czy gres potrafią wyglądać pięknie, ale wystarczy deszczowy spacer z psem, rozlana kawa albo zwykłe przygotowywanie posiłków, żeby szybko pojawiły się na nich zabrudzenia. W takich sytuacjach samo odkurzanie zwyczajnie nie wystarcza.",
+        "Roborock Qrevo Edge 2 Flow został wyposażony w system SpiraFlow 2.0, czyli rozwiązanie wykorzystujące obracający się wałek mopujący. I to naprawdę istotna różnica względem konstrukcji opartych na tradycyjnych padach. Podczas pracy rolka jest stale odświeżana czystą wodą pod ciśnieniem, natomiast zabrudzona woda trafia do osobnego zbiornika. Dzięki temu robot może na bieżąco usuwać z mopa zebrane zanieczyszczenia, zamiast przenosić je z jednego fragmentu podłogi na kolejny."
+      ]
+    },
+    {
+      "id": "tech-6-7a530d",
+      "entity_tag": "Meta Platforms (NASDAQ: META)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Meta Platforms (NASDAQ: META) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Nowe urządzenie Meta Muse Charm może kosztować 300 dolarów",
+      "original_title": "Meta’s new Muse Charm device may cost $300",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:58",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Meta nie zaprzeczyła doniesieniom The Information, stwierdzając jedynie, że „wkrótce będzie miała więcej do powiedzenia” na temat nadchodzącego urządzenia do noszenia ze sztuczną inteligencją.",
+        "Meta planuje pobrać 300 dolarów za Muse Charm, nadchodzące urządzenie AI podobne do Tamagotchi, o którym zapowiadano na firmowym wydarzeniu Connect na początku tego roku, jak podaje The Information.",
+        "Rzecznik Meta, poproszony o komentarz przez TechCrunch, nie zaprzeczył tym twierdzeniom, jedynie przedstawił następujące oświadczenie: „Jesteśmy oczarowani zainteresowaniem naszymi urządzeniami AI i wkrótce będziemy mieli więcej do udostępnienia”."
+      ],
+      "extended_paragraphs": [
+        "Meta nie zaprzeczyła doniesieniom The Information, stwierdzając jedynie, że „wkrótce będzie miała więcej do powiedzenia” na temat nadchodzącego urządzenia do noszenia ze sztuczną inteligencją.",
+        "Meta planuje pobrać 300 dolarów za Muse Charm, nadchodzące urządzenie AI podobne do Tamagotchi, o którym zapowiadano na firmowym wydarzeniu Connect na początku tego roku, jak podaje The Information.",
+        "Rzecznik Meta, poproszony o komentarz przez TechCrunch, nie zaprzeczył tym twierdzeniom, jedynie przedstawił następujące oświadczenie: „Jesteśmy oczarowani zainteresowaniem naszymi urządzeniami AI i wkrótce będziemy mieli więcej do udostępnienia”.",
+        "Jak dotąd Meta stosunkowo skutecznie wkroczyła w konsumencką sztuczną inteligencję, uruchamiając Muse – swojego agenta-pomocnika – wraz z różnymi uroczymi awatarami, których użytkownicy mogą używać, aby nadać systemowi większą osobowość.",
+        "Muse Charm, wprowadzenie firmy na sprzęt AI, pozwoli użytkownikom nosić w kieszeni fizyczną personifikację oprogramowania (lub potencjalnie nosić ją na szyi), rozmawiać z nim, zadawać mu pytania i wydawać polecenia."
+      ]
+    },
+    {
+      "id": "tech-7-b917ed",
       "entity_tag": "Apple (NASDAQ: AAPL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1598,133 +1625,95 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Rollme idzie za trendem. W tej opasce ekranu nie znajdziesz",
+      "title": "iMac OLED? Na teraz nic z tego",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:01",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/rollme-idzie-za-trendem-w-tej-opasce-ekranu-nie-znajdziesz",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/rollme-pulsefit-5.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Ostatnimi czasy rynek urządzeń ubieralnych coraz mocniej skłania się ku sprzętom bez ekranu.",
-        "Przybywa nam inteligentnych pierścieni oraz opasek fitness, których zadaniem jest dyskretne monitorowanie zdrowia bez zalewania nas powiadomieniami.",
-        "Do tego trendu dołącza teraz marka Rollme, prezentując swój pierwszy bezekranowy model o nazwie PulseFit."
-      ],
-      "extended_paragraphs": [
-        "Ostatnimi czasy rynek urządzeń ubieralnych coraz mocniej skłania się ku sprzętom bez ekranu. Przybywa nam inteligentnych pierścieni oraz opasek fitness, których zadaniem jest dyskretne monitorowanie zdrowia bez zalewania nas powiadomieniami. Do tego trendu dołącza teraz marka Rollme, prezentując swój pierwszy bezekranowy model o nazwie PulseFit. Zero powiadomień, EKG i dwa tygodnie bez ładowarki. Oto Rollme […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Zero powiadomień, EKG i dwa tygodnie bez ładowarki. Oto Rollme PulseFit Konstrukcja stawia na pełny minimalizm i pasywne zbieranie danych w tle. Korpus opaski wykonano z lotniczego aluminium obrabianego na maszynach CNC w formie jednolitej bryły, którą zestawiono z gęsto tkanym, przyjemnym dla oka paskiem nylonowym.",
-        "Czytaj też: Zegarki z Wear OS pożyczą GPS ze smartfona. Google ma sposób na dłuższą pracę podczas treningu",
-        "Sercem urządzenia jest układ JL 7013A współpracujący z sensorem biometrycznym Goodix 3228T. Ciekawym rozwiązaniem jest umieszczenie dotykowej powierzchni do pomiaru EKG bezpośrednio na froncie obudowy (ta mała, srebrna plakietka), co według deklaracji producenta zapewnia wygodniejszy dostęp niż w przypadku tradycyjnych elektrod montowanych na bocznych krawędziach. Opaska rejestruje w czasie rzeczywistym zmienność rytmu zatokowego (HRV), a towarzysząca jej aplikacja mobilna wykorzystuje wykresy rozrzutu Lorenza do oceny kondycji układu krążenia oraz aktywności autonomicznego układu nerwowego.",
-        "Poza całodobowym pomiarem tętna, natlenienia krwi (SpO2) oraz analizą snu, producent przypisuje opasce niezwykle szeroką listę dodatkowych możliwości diagnostycznych. W specyfikacji wymieniono między innymi szacowanie ciśnienia krwi, analizę składu ciała (w tym wskaźnika BMI, poziomu tkanki tłuszczowej i masy mięśniowej), a nawet monitorowanie poziomu glukozy, kwasu moczowego oraz lipidów we krwi."
-      ]
-    },
-    {
-      "id": "tech-3-6a1559",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Zegarki z Wear OS pożyczą GPS ze smartfona. Google ma sposób na dłuższą pracę podczas treningu",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "16:30",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/zegarki-z-wear-os-pozycza-gps-ze-smartfona-google-ma-sposob-na-dluzsza-prace-podczas-treningu",
-      "image_url": "https://konto.chip.pl/uploads/2025/07/samsung-galaxy-watch8-classic-8.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Czas pracy baterii w smartwatchu zależy od wielu czynników.",
-        "Choć producent deklaruje czasem i kilka dni, to zwykle odnosi się to do dość umiarkowanego wykorzystywania dostępnych funkcji.",
-        "W Wear OS jednym z czynników, który mocno wpływa na drenaż baterii, jest korzystanie GPS-u, zwykle niezbędnego podczas ćwiczeń."
-      ],
-      "extended_paragraphs": [
-        "Czas pracy baterii w smartwatchu zależy od wielu czynników. Choć producent deklaruje czasem i kilka dni, to zwykle odnosi się to do dość umiarkowanego wykorzystywania dostępnych funkcji. W Wear OS jednym z czynników, który mocno wpływa na drenaż baterii, jest korzystanie GPS-u, zwykle niezbędnego podczas ćwiczeń. To kompromis, z którym wszyscy się już pogodzili, ale […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google W najnowszym wydaniu Usług Google Play oznaczonym numerem v26.45 amerykański gigant wprowadził rozwiązanie, które ma wyraźnie wydłużyć czas pracy zegarków z dala od ładowarki.",
-        "Mechanizm działa na prostej zasadzie delegowania zadań. Jeśli podczas treningu na świeżym powietrzu mamy przy sobie sparowany smartfon, smartwatch może teraz wykorzystywać jego moduł GNSS do rejestrowania lokalizacji zamiast uruchamiać własny odbiornik. Podobne rozwiązanie (znane pod nazwą Dynamic GPS) od dawna stosuje w wybranych opaskach należąca do Google marka Fitbit, a teraz trafia ono bezpośrednio do ekosystemu Wear OS.",
-        "Warunkiem oszczędzania energii na zegarku jest jedynie to, by smartfon nie pracował w tym czasie w trybie oszczędzania baterii – producent nie opublikował jeszcze pełnej listy konkretnych modeli zegarków obsługujących tę funkcję.",
-        "Czytaj też: Przy nim Apple Watch to grubasek. Nowy smartwatch Huawei prezentuje się obłędnie"
-      ]
-    },
-    {
-      "id": "tech-7-1d68b3",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 20%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "20%"
-      ],
-      "title": "Wszyscy nienawidzą GPT-6.2? OpenAI zebrało cięgi od swoich użytkowników",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:00",
+      "time": "20:57",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/gpt-6-2-opinie-oceny",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/gpt-6-2.jpeg",
+      "source_url": "https://antyweb.pl/imac-oled-na-teraz-nic-z-tego",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2024/12/imac-m4-17.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Czyżby coś było nie tak z GPT-6.2?",
-        "Po długich sesjach z Astrą niejako Theo Browne, jeden z programistów, nie dawał sobie z nią rady i przełączał się na Claude'a.",
-        "Inni użytkownicy narzekają albo na lenistwo modelu, albo na jego odchodzenie od pierwotnych instrukcji i zupełny brak \"pomysłowości\"."
+        "Jeśli wstrzymywaliście się z zakupem tego komputera, bo czekacie na taką propozycję ze strony Apple, możecie śmiało kupować obecny model.",
+        "Wszystko bowiem wskazuje na to, że iMac OLED nie powstanie.",
+        "Jak czytamy w serwisie SamMobile, to, że Apple nie spieszy się z prezentacją nowego modelu swojego komputera, będzie miało przełożenie również na koreańską firmę."
       ],
       "extended_paragraphs": [
-        "Czyżby coś było nie tak z GPT-6.2? Bardzo możliwe. Po długich sesjach z Astrą niejako Theo Browne, jeden z programistów, nie dawał sobie z nią rady i przełączał się na Claude'a. Inni użytkownicy narzekają albo na lenistwo modelu, albo na jego odchodzenie od pierwotnych instrukcji i zupełny brak \"pomysłowości\". Jeszcze ostrzejsi w ocenach są ci, którzy model testowali przed oficjalną premierą.",
-        "Dwa dni temu odbyła się premiera GPT-6.2 w ChatGPT Work, Codexie i przez API. Astrę poleca się do trudnych projektów, a Sola do tej bardziej \"codziennej\" roboty. W API, za jeden milion tokenów na wyjściu Astry, płaci się 40 dolarów (20% mniej, niż w GPT-6 Astra), podczas gdy w Solu ta sama jednostka kosztuje 10 dolarów. Jeszcze ostrzejszy w ocenie jest Matt Schumer , który nazwał mocniejszy model... bezużytecznym i też testował go przedpremierowo.",
-        "Niektórzy narzekają również na to, że model przedwcześnie kończy prace np. nad aplikacjami, a podsumowania skraca do takiego stopnia, że są one niezrozumiałe. I przyznam Wam szczerze, że ja mam takie samo zdanie: przynajmniej w drugiej części owej oceny. GPT-6.2 stara się być momentami tak zwięzły, że praktycznie \"nie wiadomo, o co chodzi\". O ile ja mam ten problem, że mówię i piszę za dużo, przez co niektórych z Was pewnie zamęczam, to gdyby tak mnie zastąpić Astrą, dostalibyście pewnie 20 procent tego, co daję Wam ja i nie dalibyście rady \"ogarnąć\", o co chodzi.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → W zadaniach graficznych natomiast, zarówno Astra i Sol, sięgały po niemal identyczne odcienie kolorów, a ich produkcje wyglądały na \"slopowe\" i generyczne. Przy czym są to oceny biorące pod uwagę użycie tego samego promptu na różnych modelach. Ponadto, model jest niesamowicie nierówno: według użytkowników albo robi \"za dużo\" i zbytnio fiksuje się na konkretnej części zadania, albo czegoś nie kończy, zaczyna mieszać wątki, a w zadaniach dłuższych potrafi \"zwariować\" i zwrócić wynik odbiegający szczególnie daleko od naszych najśmielszych wyobrażeń.",
-        "X-owy frontman OpenAI, czyli Tibo Sottiaux, wskazał iż część testerów mogła przeoczyć zmiany wprowadzone w ostatnich trzech-czterech dniach przed premierą. I tu odpowiedzi były mieszane: bowiem jedni wskazali, że wersje testowe sprawdzali do ostatniej chwili przed premierą, a inni rzeczywiście odczuli jakieś zmiany. Ale nikt w pełni nie potwierdził tego, o czym powiedział Tibo: GPT-6.2 Astra wcale nie stał się mądrzejszy, celniejszy i ogólnie rzecz biorąc \"ciekawszy\", niż wcześniejsze jego odsłony przed premierą."
+        "iMac z lepszym ekranem? Jeśli wstrzymywaliście się z zakupem tego komputera, bo czekacie na taką propozycję ze strony Apple, możecie śmiało kupować obecny model. Wszystko bowiem wskazuje na to, że iMac OLED nie powstanie. A przynajmniej nie teraz.",
+        "Jak czytamy w serwisie SamMobile, to, że Apple nie spieszy się z prezentacją nowego modelu swojego komputera, będzie miało przełożenie również na koreańską firmę. Samsung Display musi bowiem poszukać nowego odbiorcy dla produkowanych przez siebie paneli OLED. Co gorsza, Apple może też ograniczyć zamówienia na panele do iPadów Pro. Tablety te z uwagi na wysoką cenę nie sprzedają się tak dobrze, jak chciałby tego ich producent, co dla dostawców komponentów oznacza niższy wolumen zamówień.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Jako że iMac z ekranem OLED na ten moment nie powstanie, zachęcamy do zapoznania się z naszą recenzją obecnego modelu . Być może to ten komputer jest tym, który najlepiej wpisuje się w wasze upodobania."
+      ]
+    },
+    {
+      "id": "tech-8-a11361",
+      "entity_tag": "Amazon (NASDAQ: AMZN)",
+      "sector": "E-commerce & Chmura",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Amazon (NASDAQ: AMZN) (E-commerce & Chmura) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Amazon walczy z ustawą o ochronie dostaw za pomocą banera na stronie głównej i wyskakującego okienka w aplikacji",
+      "original_title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:16",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
+      "image_source": "Fot. / Źródło: Ars Technica",
+      "lead_story": false,
+      "summary_points": [
+        "Amazon wykorzystuje obecnie swoją platformę zakupową do celów politycznych.",
+        "Kiedy loguję się dzisiaj do Amazona, widzę pionowy baner z napisem: „UWAGA Rada Miasta Nowego Jorku może dodać do 5 dolarów za zamówienie” z przyciskiem „Działaj teraz”.",
+        "Jak podaje Bloomberg, wiadomość jest dostarczana w formie wyskakującego okienka użytkownikom aplikacji Amazon."
+      ],
+      "extended_paragraphs": [
+        "Amazon wykorzystuje obecnie swoją platformę zakupową do celów politycznych.",
+        "Kiedy loguję się dzisiaj do Amazona, widzę pionowy baner z napisem: „UWAGA Rada Miasta Nowego Jorku może dodać do 5 dolarów za zamówienie” z przyciskiem „Działaj teraz”.",
+        "Jak podaje Bloomberg, wiadomość jest dostarczana w formie wyskakującego okienka użytkownikom aplikacji Amazon. Amazon nie określił, czy wiadomości są kierowane do mieszkańców Nowego Jorku na podstawie adresów zapisanych na ich kontach Amazon, czy też korzystają z innych technik, takich jak usługi lokalizacji urządzeń, ale baner widzę tylko wtedy, gdy jestem zalogowany do Amazon.",
+        "Amazon nawiązuje do wprowadzenia 0518-2026 (518), znanego również jako ustawa o ochronie dostaw. Jeśli zostanie uchwalona, ​​Amazon będzie musiał bezpośrednio zatrudniać zewnętrznych dostawców usług, z których korzysta.",
+        "Kliknięcie „Działaj teraz” na stronie głównej Amazon lub w aplikacji powoduje wyświetlenie strony, która umożliwia kupującym skontaktowanie się z członkiem Rady Nowego Jorku i zawiera dalsze informacje:"
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-5-160342",
-      "entity_tag": "Unia Europejska",
-      "sector": "Gospodarka & Regulacje",
-      "market_impact": "MEDIUM",
+      "id": "swiat-1-47179e",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Gospodarka & Regulacje” (Unia Europejska) (kluczowe liczby: 11 tys.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "11 tys."
-      ],
-      "title": "Komisja Europejska ze skargą na Polskę. Kopalnie pod lupą TSUE",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Donald Trump zapytany o Wołodymyra Zełenskiego: \"Nie zrobiłbym niczego bez niego\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "15:34",
+      "time": "18:15",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-19/komisja-europejska-ze-skarga-na-polske-krajowe-przepisy-i-ocena-kopaln-pod-lupa-tsue/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/s2/s293j2hwmq1k87x78mkqmrnd1s8pxy14.png",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-19/trump-nie-bedziemy-podejmowac-decyzji-o-ukrainie-bez-ukrainy/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/sc/sccupdzkazzu7zy8pson5sfdaef1kss6.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": true,
       "summary_points": [
-        "Do Trybunału Sprawiedliwości Unii Europejskiej została skierowana skarga na Polskę złożona przez Komisję Europejską.",
-        "Dokument dotyczy niedostosowania krajowych przepisów do regulacji unijnych w zakresie zapobiegania poważnym awariom przemysłowym.",
-        "Zdaniem instytucji część wymogów została wdrożona nieprawidłowo."
+        "Donald Trump powiedział w czwartek telewizji NBC News, że zgadza się z Wołodymyrem Zełenskim, że USA nie powinny podejmować decyzji w sprawie Ukrainy za jej plecami.",
+        "Szczyt z przywódcami Rosji i Chin ocenił na 12 w 10-stopniowej skali.",
+        "Jak podał reporter NBC News Gabe Gutierrez, który rozmawiał z Trumpem telefonicznie w trakcie podróży powrotnej z Chin do USA , zapytał prezydenta o słowa Wołodymyra Zełenskiego , że Stany Zjednoczone nie powinny podejmować decyzji w sprawie Ukrainy bez Ukrainy."
       ],
       "extended_paragraphs": [
-        "Do Trybunału Sprawiedliwości Unii Europejskiej została skierowana skarga na Polskę złożona przez Komisję Europejską. Dokument dotyczy niedostosowania krajowych przepisów do regulacji unijnych w zakresie zapobiegania poważnym awariom przemysłowym. Zdaniem instytucji część wymogów została wdrożona nieprawidłowo. Polska została również ponaglona do poddania ocenie dziesięciu kopalń.",
-        "W skardze skierowanej do TSUE w czwartek Komisja Europejska zarzuca Polsce nieprawidłowe wdrożenie wymogów , które mają chronić mieszkańców i środowisko przed skażeniami . Instytucja ponagliła też władze w Warszawie do poddania dziesięciu kopalń węgla ocenie oddziaływania na środowisko.",
-        "Chodzi o dyrektywę Seveso III . Jej celem jest zapobieganie poważnym awariom przemysłowym, takim jak wyciek chemikaliów, pożary czy wybuchy , oraz ograniczanie negatywnych skutków takich katastrof dla zdrowia ludzi i środowiska. Przepisy te mają zastosowanie do około 11 tys. zakładów przemysłowych na terenie UE , działających m.in. w sektorach chemicznym i petrochemicznym, a także w branży hurtowej sprzedaży i magazynowania paliw.",
-        "Według KE Polska nie dopilnowała, aby zakłady przemysłowe przygotowywały pełne raporty o bezpieczeństwie i udostępniały je mieszkańcom. Dzięki takim raportom mieszkańcy są świadomi, jakie zagrożenia mogą stwarzać działające w ich okolicy fabryki.",
-        "Komisja uznała też, że polskie władze nie wdrożyły odpowiednio przepisów dotyczących planów operacyjno-ratowniczych, zagospodarowania przestrzennego oraz działań, jakie muszą podjąć właściwe organy po wystąpieniu poważnej awarii . Jak przekazała KE, Polska zadeklarowała nadrobienie zaległości, ale jej przepisy krajowe nie zostały zmienione od czasu wszczęcia postępowania o naruszenie prawa w 2021 r."
+        "Donald Trump powiedział w czwartek telewizji NBC News, że zgadza się z Wołodymyrem Zełenskim, że USA nie powinny podejmować decyzji w sprawie Ukrainy za jej plecami. Szczyt z przywódcami Rosji i Chin ocenił na 12 w 10-stopniowej skali.",
+        "Jak podał reporter NBC News Gabe Gutierrez, który rozmawiał z Trumpem telefonicznie w trakcie podróży powrotnej z Chin do USA , zapytał prezydenta o słowa Wołodymyra Zełenskiego , że Stany Zjednoczone nie powinny podejmować decyzji w sprawie Ukrainy bez Ukrainy.",
+        "- Zgadzam się z nim (...) Nie zrobiłbym niczego bez niego - on jest głową tego kraju, więc nie zrobiłbym tego - odpowiedział Trump.",
+        "Trump zakończone w czwartek spotkanie trójstronne z Xi Jinpingiem i Władimirem Putinem uznał za \"świetne\".",
+        "- Myślę, że to było 12. W skali od zera do 10 , myślę, że to było 12. Poszło świetnie (...) Zbudowaliśmy fantastyczne relacje - miał powiedzieć Trump."
       ]
     },
     {
-      "id": "swiat-1-65d2d9",
+      "id": "swiat-2-65d2d9",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1756,7 +1745,7 @@
       ]
     },
     {
-      "id": "swiat-2-98b5c7",
+      "id": "swiat-3-98b5c7",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1768,7 +1757,7 @@
       "original_title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:55",
+      "time": "20:07",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
@@ -1776,19 +1765,19 @@
       "lead_story": false,
       "summary_points": [
         "Bezprecedensowy wyrok Międzynarodowego Trybunału Sprawiedliwości dotyczy represji wojskowych z 2017 r., w wyniku których zginęło tysiące osób.",
-        "Podpis pod rysunkiem, Obejrzyj: Wyrok w sprawie ludobójstwa będzie „wielko znaczyć” dla społeczności Rohingjów Międzynarodowy Trybunał Sprawiedliwości (MTS) uznał Birmę za winną popełnienia ludobójstwa na mniejszości Rohingya.",
+        "Międzynarodowy Trybunał Sprawiedliwości (MTS) uznał Birmę za winną popełnienia ludobójstwa na mniejszości Rohingya.",
         "Wyrok ten jest pierwszym w historii orzeczeniem międzynarodowego sądu stwierdzającym, że państwo dopuściło się ludobójstwa."
       ],
       "extended_paragraphs": [
         "Bezprecedensowy wyrok Międzynarodowego Trybunału Sprawiedliwości dotyczy represji wojskowych z 2017 r., w wyniku których zginęło tysiące osób.",
-        "Podpis pod rysunkiem, Obejrzyj: Wyrok w sprawie ludobójstwa będzie „wielko znaczyć” dla społeczności Rohingjów",
         "Międzynarodowy Trybunał Sprawiedliwości (MTS) uznał Birmę za winną popełnienia ludobójstwa na mniejszości Rohingya.",
         "Wyrok ten jest pierwszym w historii orzeczeniem międzynarodowego sądu stwierdzającym, że państwo dopuściło się ludobójstwa.",
-        "Yuji Iwasawa, prezes Sądu Najwyższego ONZ, powiedział, że Birma „miała zamiar zniszczyć” znaczną część populacji Rohingjów i zaangażowała się w „szeroko zakrojone niszczenie dowodów”, aby ukryć swoje zbrodnie."
+        "Yuji Iwasawa, prezes Sądu Najwyższego ONZ, powiedział, że Birma „miała zamiar zniszczyć” znaczną część populacji Rohingjów i zaangażowała się w „szeroko zakrojone niszczenie dowodów”, aby ukryć swoje zbrodnie.",
+        "W wyniku represji wojskowych w 2017 r. zginęło tysiące Rohingjów, a ponad 700 000 zmusiło do ucieczki z Birmy, zamieszkanej przez większość buddyjską, Birmy. Birma zaprzeczyła stawianym jej zarzutom, twierdząc, że jej siły odpowiedziały na ataki grup zbrojnych."
       ]
     },
     {
-      "id": "swiat-3-c211ad",
+      "id": "swiat-4-c211ad",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1819,7 +1808,7 @@
       ]
     },
     {
-      "id": "swiat-4-aac095",
+      "id": "swiat-5-aac095",
       "entity_tag": "Ropa Naftowa",
       "sector": "Surowce Energetyczne",
       "market_impact": "LOW",
@@ -1831,27 +1820,27 @@
       "original_title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
       "is_foreign": true,
       "lang": "EN",
-      "time": "15:23",
+      "time": "17:38",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
         "Chociaż prezydenci spotykali się już wcześniej na spotkaniach jeden na jednego, jest to ich pierwsza rozmowa trójstronna.",
-        "Prezydent USA Donald Trump oraz jego rosyjscy i chińscy odpowiednicy Władimir Putin i Xi Jinping wydali „wspólną deklarację pokojową” w następstwie historycznych rozmów trójstronnych.",
-        "Trzej przywódcy spotkali się na 90 minut w południowo-wschodnim mieście Shenzhen w Chinach, na marginesie szczytu Współpracy Gospodarczej Azji i Pacyfiku (APEC)."
+        "Podpis pod rysunkiem, Obejrzyj: Co Trump, Xi i Putin wyciągnęli z historycznego spotkania?",
+        "Prezydent USA Donald Trump oraz jego rosyjscy i chińscy odpowiednicy Władimir Putin i Xi Jinping wydali „wspólną deklarację pokojową” w następstwie historycznych rozmów trójstronnych."
       ],
       "extended_paragraphs": [
         "Chociaż prezydenci spotykali się już wcześniej na spotkaniach jeden na jednego, jest to ich pierwsza rozmowa trójstronna.",
+        "Podpis pod rysunkiem, Obejrzyj: Co Trump, Xi i Putin wyciągnęli z historycznego spotkania?",
         "Prezydent USA Donald Trump oraz jego rosyjscy i chińscy odpowiednicy Władimir Putin i Xi Jinping wydali „wspólną deklarację pokojową” w następstwie historycznych rozmów trójstronnych.",
         "Trzej przywódcy spotkali się na 90 minut w południowo-wschodnim mieście Shenzhen w Chinach, na marginesie szczytu Współpracy Gospodarczej Azji i Pacyfiku (APEC).",
-        "Choć prezydenci odbywali już wcześniej spotkania jeden na jednego, to są ich pierwsze rozmowy trójstronne.",
-        "W deklaracji stwierdzili, że „wojny nuklearnej nie można wygrać i nigdy nie można jej prowadzić” oraz że kraje planują zwiększyć produkcję i dostawy ropy naftowej. Oświadczyli także, że są „zaangażowani w zreformowanie ONZ”, aby skuteczniej reagować na globalne wyzwania."
+        "Choć prezydenci odbywali już wcześniej spotkania jeden na jednego, to są ich pierwsze rozmowy trójstronne."
       ]
     },
     {
-      "id": "swiat-6-15fc9a",
+      "id": "swiat-6-341ef6",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1859,93 +1848,93 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Dziesiątki zaginęły po tym, jak łódź przewożąca migrantów zatonęła u wybrzeży Senegalu",
-      "original_title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "title": "Przywódcy twierdzą, że Europa jest gotowa do rozmów z Rosją w sprawie zakończenia wojny na Ukrainie",
+      "original_title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
       "is_foreign": true,
       "lang": "EN",
-      "time": "15:52",
+      "time": "21:21",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Z łodzi, która podobno przewoziła od 50 do 100 osób, wydobyto co najmniej cztery ciała.",
-        "Władze Senegalu kontynuują poszukiwania po tym, jak łódź przewożąca od 50 do 100 migrantów wywróciła się na Oceanie Atlantyckim.",
-        "Według doniesień, do tej pory odnaleziono cztery ciała."
+        "Europejscy sojusznicy Ukrainy twierdzą, że mają „wspólne” stanowisko negocjacyjne na szczycie w Berlinie.",
+        "Źródło zdjęcia, Reuters Autor: Jaroslav Lukiv, Laura Gozzi i Paul Kirby, europejski redaktor cyfrowy Opublikowano 19 listopada 2026 r., 19:16 GMT Zaktualizowano 2 godziny temu Europejscy przywódcy oświadczyli, że są gotowi do negocjacji z Rosją w sprawie zakończenia wojny na Ukrainie, co stanowi mocny wyraz wsparcia dla Kijowa.",
+        "„Europa ma jasne, spójne i zjednoczone stanowisko negocjacyjne” – powiedział premier Wielkiej Brytanii Andy Burnham, a kanclerz Niemiec Friedrich Merz podkreślił, że „maksymalistyczne żądania Moskwy są nierealistyczne”."
       ],
       "extended_paragraphs": [
-        "Z łodzi, która podobno przewoziła od 50 do 100 osób, wydobyto co najmniej cztery ciała.",
-        "Władze Senegalu kontynuują poszukiwania po tym, jak łódź przewożąca od 50 do 100 migrantów wywróciła się na Oceanie Atlantyckim.",
-        "Według doniesień, do tej pory odnaleziono cztery ciała. Wciąż brakuje kilkudziesięciu osób.",
-        "Rzeczy osobiste znaleziono na poważnie uszkodzonej łodzi, która została wyrzucona na brzeg w pobliżu wioski Yenne, na południe od Dakaru. Działania poszukiwawcze trwały przez całą środę i miały zostać wznowione w czwartek.",
-        "Nastąpiło to niecałe dwa tygodnie po katastrofie statku u wybrzeży północno-zachodniego miasta Thieppe, w której zginęło co najmniej 39 osób, co jest jedną z najbardziej śmiertelnych katastrof migracyjnych w Senegalu."
-      ]
-    },
-    {
-      "id": "swiat-7-0cc540",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Wenezuela podpisuje umowę wojskową z USA niecały rok po usunięciu Maduro",
-      "original_title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:31",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Sekretarz obrony USA twierdzi, że Wenezuela „przekształciła się z najbardziej agresywnego zagrożenia w regionie w zgodnego z prawem partnera w zakresie bezpieczeństwa”.",
-        "Źródło zdjęcia, Pałac Miraflores/Materiały informacyjne za pośrednictwem REUTERS Podpis pod zdjęciem: Pete Hegseth spotkał się z tymczasowym prezydentem Wenezueli w pałacu prezydenckim Stany Zjednoczone i Wenezuela ponownie nawiązały stosunki wojskowe niecały rok po tym, jak siły amerykańskie pojmały ówczesnego przywódcę państwa Ameryki Południowej Nicolása Maduro podczas nalotu na stolicę Caracas.",
-        "Rząd tymczasowy kierowany przez byłego wiceprezydenta Maduro Delcy’ego Rodrígueza podpisał w środę porozumienie o współpracy wojskowej z sekretarzem obrony USA Pete’em Hegsethem."
-      ],
-      "extended_paragraphs": [
-        "Sekretarz obrony USA twierdzi, że Wenezuela „przekształciła się z najbardziej agresywnego zagrożenia w regionie w zgodnego z prawem partnera w zakresie bezpieczeństwa”.",
-        "Źródło zdjęcia, Pałac Miraflores/Materiały informacyjne za pośrednictwem REUTERS Podpis pod zdjęciem: Pete Hegseth spotkał się z tymczasowym prezydentem Wenezueli w pałacu prezydenckim",
-        "Stany Zjednoczone i Wenezuela ponownie nawiązały stosunki wojskowe niecały rok po tym, jak siły amerykańskie pojmały ówczesnego przywódcę państwa Ameryki Południowej Nicolása Maduro podczas nalotu na stolicę Caracas.",
-        "Rząd tymczasowy kierowany przez byłego wiceprezydenta Maduro Delcy’ego Rodrígueza podpisał w środę porozumienie o współpracy wojskowej z sekretarzem obrony USA Pete’em Hegsethem.",
-        "Jak dotąd niewiele szczegółów umowy zostało ujawnionych, ale Hegseth powiedział, że Wenezuela „przekształciła się z najbardziej agresywnego zagrożenia w regionie w partnera, który przestrzega zasad bezpieczeństwa” w niecałe 12 miesięcy."
+        "Europejscy sojusznicy Ukrainy twierdzą, że mają „wspólne” stanowisko negocjacyjne na szczycie w Berlinie.",
+        "Źródło zdjęcia, Reuters Autor: Jaroslav Lukiv, Laura Gozzi i Paul Kirby, europejski redaktor cyfrowy Opublikowano 19 listopada 2026 r., 19:16 GMT Zaktualizowano 2 godziny temu Europejscy przywódcy oświadczyli, że są gotowi do negocjacji z Rosją w sprawie zakończenia wojny na Ukrainie, co stanowi mocny wyraz wsparcia dla Kijowa.",
+        "„Europa ma jasne, spójne i zjednoczone stanowisko negocjacyjne” – powiedział premier Wielkiej Brytanii Andy Burnham, a kanclerz Niemiec Friedrich Merz podkreślił, że „maksymalistyczne żądania Moskwy są nierealistyczne”.",
+        "Rozmawiali na berlińskim szczycie sojuszników Ukrainy znanych jako Koalicja Chętnych.",
+        "Zięć Donalda Trumpa, Jared Kushner, jeden z dwóch amerykańskich wysłanników przebywających w Berlinie, powiedział, że amerykański prezydent chce zawrzeć porozumienie z Moskwą „z Europą u swego boku”. Rosyjski Władimir Putin jak dotąd odrzucał jakąkolwiek rolę Europy w rozmowach pokojowych pod przewodnictwem USA."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-1-81cefa",
+      "id": "sport-5-c728a5",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Bronili najlepiej w PKO Ekstraklasie, później nadszedł kataklizm. \"Może poczuliśmy się za pewnie\"",
+      "title": "Transferowa karuzela nabiera tempa. W czwartek kluby nie próżnowały",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:20",
+      "time": "21:59",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285062/bronili-najlepiej-w-pko-ekstraklasie-pozniej-nadszedl-kataklizm-moze-poczulismy-",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff2e5f36cdc4_43003939.jpg",
+      "source_url": "https://sportowefakty.wp.pl/zuzel/1284850/transferowa-karuzela-nabiera-tempa-w-czwartek-kluby-nie-proznowaly",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a6798cc389f42_11005945.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Pogoń Szczecin zagra po przerwie reprezentacyjnej ze Śląskiem Wrocław.",
-        "Zadaniem na ten mecz jest uszczelnienie obrony, która była w opłakanym stanie we wcześniejszych spotkaniach.",
-        "Oscar Garcia próbował to wytłumaczyć."
+        "Czwarty dzień żużlowego okienka transferowego przyniósł kolejne ważne rozstrzygnięcia.",
+        "Nie zabrakło głośnych nazwisk, powrotów, przedłużeń kontraktów i zmian na kluczowych stanowiskach.",
+        "Skomentuj Czwarty dzień żużlowego okienka transferowego przyniósł kolejne ważne rozstrzygnięcia."
       ],
       "extended_paragraphs": [
-        "Pogoń Szczecin zagra po przerwie reprezentacyjnej ze Śląskiem Wrocław. Zadaniem na ten mecz jest uszczelnienie obrony, która była w opłakanym stanie we wcześniejszych spotkaniach. Oscar Garcia próbował to wytłumaczyć.",
-        "Skomentuj Pogoń Szczecin zagra po przerwie reprezentacyjnej ze Śląskiem Wrocław. Zadaniem na ten mecz jest uszczelnienie obrony, która była w opłakanym stanie we wcześniejszych spotkaniach. Oscar Garcia próbował to wytłumaczyć.",
-        "Pogoń Szczecin zwyciężała 4:3 z Radomiakiem , a także przegrywała 1:3 z Rakowem Częstochowa i 0:3 Widzewem Łódź . Drużyna Oscara Garcii straciła dziewięć goli w trzech kolejkach, a wcześniej sześć w 10 kolejkach. Różnica jest kolosalna, co budzi niepokój również u trenera z Hiszpanii .",
-        "- Nie można wskazać jednej rzeczy, która nie działała. Jeśli bowiem w trzech kolejnych meczach tracisz po trzy gole, to znaczy, że nie funkcjonuje więcej elementów. Może poczuliśmy się za pewnie. Pomyśleliśmy, że jesteśmy lepsi, niż naprawdę jesteśmy, zamiast koncentrować się na naszych podstawach. To była jedna z rzeczy, nad którymi pracowaliśmy, bo jeśli w meczu tracisz trzy gole, to musisz strzelić aż cztery, aby wygrać, a to trudne - mówi Oscar Garcia na konferencji prasowej.",
-        "Wsparciem dla zespołu Garcii jest powrót do składu po kontuzji Alessandro Riccio . Włoch normalnie trenował w przerwie reprezentacyjnej. Do dyspozycji są Hussein Ali i Attila Szalai , choć Węgier dopiero w czwartek wznowił treningi po pobycie na kadrze. Jedynym, nieobecnym do końca rundy pozostaje Benjamin Mendy , którego ostatnio zastępuje nominalny środkowy obrońca Lukas Willen ."
+        "Czwarty dzień żużlowego okienka transferowego przyniósł kolejne ważne rozstrzygnięcia. Nie zabrakło głośnych nazwisk, powrotów, przedłużeń kontraktów i zmian na kluczowych stanowiskach.",
+        "Skomentuj Czwarty dzień żużlowego okienka transferowego przyniósł kolejne ważne rozstrzygnięcia. Nie zabrakło głośnych nazwisk, powrotów, przedłużeń kontraktów i zmian na kluczowych stanowiskach.",
+        "Czwarty dzień okienka transferowego rozpoczęliśmy dość wcześnie, bo już z samego rana Abramczyk Polonia Bydgoszcz oficjalnie potwierdziła to, co nie było dużą niespodzianką - Szymon Woźniak w przyszłym roku będzie reprezentował ekipę beniaminka PGE Ekstraligi .",
+        "I nie było to jedyne ogłoszenie Gryfów tego dnia. Później \"na papierze\" do Woźniaka dołączyli Maksymilian Pawełczak oraz Krzysztof Buczkowski , którzy dołączyli do Maxa Fricke'a.",
+        "ZOBACZ WIDEO: Koszmarny wypadek mistrza Polski. Walka o powrót do zdrowia kosztuje fortunę"
+      ]
+    },
+    {
+      "id": "sport-1-1a01b0",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Niespodzianka! Debiutanci wyrzucili z ATP Finals obrońców tytułu",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:45",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1284996/niespodzianka-debiutanci-wyrzucili-z-atp-finals-obroncow-tytulu",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff7308b144f6_93144600.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Najwyżej rozstawiona para Harri Heliovaara i Henry Patten nie powtórzy zeszłorocznego triumfu w ATP Finals.",
+        "W decydującym o awansie do półfinału spotkaniu Fin i Brytyjczyk przegrali z francuskim duetem Theo Arribage i Albano Olivetti.",
+        "Skomentuj Najwyżej rozstawiona para Harri Heliovaara i Henry Patten nie powtórzy zeszłorocznego triumfu w ATP Finals."
+      ],
+      "extended_paragraphs": [
+        "Najwyżej rozstawiona para Harri Heliovaara i Henry Patten nie powtórzy zeszłorocznego triumfu w ATP Finals. W decydującym o awansie do półfinału spotkaniu Fin i Brytyjczyk przegrali z francuskim duetem Theo Arribage i Albano Olivetti.",
+        "Skomentuj Najwyżej rozstawiona para Harri Heliovaara i Henry Patten nie powtórzy zeszłorocznego triumfu w ATP Finals. W decydującym o awansie do półfinału spotkaniu Fin i Brytyjczyk przegrali z francuskim duetem Theo Arribage i Albano Olivetti.",
+        "W czwartkowej sesji wieczornej w Turynie zapadły ostateczne rozstrzygnięcia w grupie A turnieju debla, nazwanej na cześć Todda Woodbridge'a. Oznaczeni szóstym numerem Theo Arribage i Albano Olivetti wygrali mecz o drugie miejsce, pokonując najwyżej rozstawioną parę Harri Heliovaara i Henry Patten 7:6(5), 7:6(3).",
+        "Obrońcy tytułu mieli swoje problemy. Patten narzekał na chorobę. Francuzi wykorzystali swoją wielką szansę i pokonali faworyzowaną fińsko-brytyjską parę, która już wcześniej zapewniła sobie pierwsze miejsce na koniec roku.",
+        "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
       ]
     },
     {
@@ -1953,8 +1942,8 @@
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
       "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
       "title": "Kultura, obrona, Fernandes – priorytety Pochettino w Man Utd",
@@ -1969,51 +1958,147 @@
       "lead_story": false,
       "summary_points": [
         "Kultura, obrona i Bruno Fernandes – kluczowe kwestie, przed którymi staje Mauricio Pochettino, gdy obejmuje stanowisko menadżera Manchesteru United.",
-        "Reporter Manchesteru United Opublikowano 2 godziny temu „Musimy znaleźć sposób na wyrobienie w sobie najlepszych nawyków i kultury, które przybliżą nas do wygrania każdego meczu”.",
+        "Reporter Manchesteru United Opublikowano 8 godzin temu „Musimy znaleźć sposób na wyrobienie w sobie najlepszych nawyków i kultury, które przybliżą nas do zwycięstwa w każdym meczu”.",
         "Mauricio Pochettino wykorzystał swój pierwszy wywiad w roli głównego trenera Manchesteru United do przedstawienia swojej wizji klubu."
       ],
       "extended_paragraphs": [
         "Kultura, obrona i Bruno Fernandes – kluczowe kwestie, przed którymi staje Mauricio Pochettino, gdy obejmuje stanowisko menadżera Manchesteru United.",
-        "Reporter Manchesteru United Opublikowano 2 godziny temu „Musimy znaleźć sposób na wyrobienie w sobie najlepszych nawyków i kultury, które przybliżą nas do wygrania każdego meczu”.",
+        "Reporter Manchesteru United Opublikowano 8 godzin temu „Musimy znaleźć sposób na wyrobienie w sobie najlepszych nawyków i kultury, które przybliżą nas do zwycięstwa w każdym meczu”.",
         "Mauricio Pochettino wykorzystał swój pierwszy wywiad w roli głównego trenera Manchesteru United do przedstawienia swojej wizji klubu.",
         "Były menadżer Tottenhamu, Paris St-Germain i Chelsea nie tracił czasu na przeprawę przez Ocean Atlantycki po zakończeniu we wtorek swojej kadencji zarządzającej Stanami Zjednoczonymi.",
         "W środę spotkał się z kluczowym personelem, w czwartek po raz pierwszy wziął udział w szkoleniu, a w piątek poprowadzi swoją pierwszą szerszą konferencję medialną na poligonie United w Carrington."
       ]
     },
     {
-      "id": "sport-3-261b97",
-      "entity_tag": "Sport Światowy",
+      "id": "sport-3-2c7c6b",
+      "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Boniek nie mógł uwierzyć. \"Ta nominacja to nieporozumienie\"",
+      "title": "Przesadził? Porównał młodego piłkarza do Maradony i Messiego",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:05",
+      "time": "22:12",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285057/nieporozumienie-boniek-grzmi-ws-lewandowskiego",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff2ab08d1e70_93131094.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285112/przesadzil-porownal-mlodego-pilkarza-do-maradony-i-messiego",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff7421272638_08987091.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Zbigniew Boniek zareagował w mediach społecznościowych na to, że Robert Lewandowski został uwzględniony w 92.",
-        "Plebiscycie \"Przeglądu Sportowego\".",
-        "\"Szanuję Was i Roberta, ale ta nominacja to nieporozumienie w tym roku\" - stwierdził były prezes PZPN."
+        "Juan Sebastian Veron nie ma wątpliwości, że Nico Paz dysponuje wyjątkowymi umiejętnościami.",
+        "Były reprezentant Argentyny dostrzega w piłkarzu Como cechy, które wcześniej podziwiał u Lionela Messiego i Diego Maradony.",
+        "Skomentuj Juan Sebastian Veron nie ma wątpliwości, że Nico Paz dysponuje wyjątkowymi umiejętnościami."
       ],
       "extended_paragraphs": [
-        "Zbigniew Boniek zareagował w mediach społecznościowych na to, że Robert Lewandowski został uwzględniony w 92. Plebiscycie \"Przeglądu Sportowego\". \"Szanuję Was i Roberta, ale ta nominacja to nieporozumienie w tym roku\" - stwierdził były prezes PZPN.",
-        "3 Komentarze Zbigniew Boniek zareagował w mediach społecznościowych na to, że Robert Lewandowski został uwzględniony w 92. Plebiscycie \"Przeglądu Sportowego\". \"Szanuję Was i Roberta, ale ta nominacja to nieporozumienie w tym roku\" - stwierdził były prezes PZPN.",
-        "W czwartek redakcja \"Przeglądu Sportowego\" ujawniła nazwiska 25 nominowanych do tytułu Sportowca Roku ( więcej tuta j). Lista wywołała dyskusje w mediach społecznościowych. Internauci wskazali sportowców, którzy mogli się na niej znaleźć.",
-        "W gronie nominowanych jest choćby kapitan reprezentacji Polski, czyli Robert Lewandowski . Zdaniem Zbigniewa Bońka to inny piłkarz, Piotr Zieliński , bardziej zasłużył na to, by zostać uwzględnionym.",
-        "\" Szanuję Was i Roberta, ale ta nominacja to nieporozumienie w tym roku. Przepraszam za szczerość, jak już chcieliście wrzucić jakiegoś piłkarza, to chyba bardziej Zieliński by pasował \" - napisał były prezes PZPN na platformie X."
+        "Juan Sebastian Veron nie ma wątpliwości, że Nico Paz dysponuje wyjątkowymi umiejętnościami. Były reprezentant Argentyny dostrzega w piłkarzu Como cechy, które wcześniej podziwiał u Lionela Messiego i Diego Maradony.",
+        "Skomentuj Juan Sebastian Veron nie ma wątpliwości, że Nico Paz dysponuje wyjątkowymi umiejętnościami. Były reprezentant Argentyny dostrzega w piłkarzu Como cechy, które wcześniej podziwiał u Lionela Messiego i Diego Maradony.",
+        "Juan Sebastian Veron w rozmowie z włoskim dziennikiem \"La Gazzetta dello Sport\" podzielił się opinią na temat Nico Paza . Były pomocnik reprezentacji Argentyny , a obecnie prezydent Estudiantes La Plata , jest pod dużym wrażeniem możliwości 22-letniego zawodnika Como 1907 . Jego zdaniem młody piłkarz ma predyspozycje, by w przyszłości osiągnąć poziom największych legend argentyńskiego futbolu.",
+        "- W wieku 22 lat robi rzeczy, które widziałem tylko u Messiego i Diego Maradony - powiedział Juan Sebastian Veron. Zastrzegł jednak, że nie przesądza, czy Paz rzeczywiście zapisze się w historii futbolu na miarę tych dwóch zawodników.",
+        "Wśród największych atutów pomocnika Como wymienił jego osobowość, naturalność w rozgrywaniu akcji oraz umiejętność kontrolowania tempa spotkania. Zwrócił również uwagę, że koledzy z drużyny chętnie szukają go podaniem nawet wtedy, gdy znajduje się pod presją rywali. Veron określił go jako bardziej ofensywną wersję samego siebie, przesuniętą o 20 metrów bliżej bramki."
       ]
     },
     {
-      "id": "sport-4-e9f615",
+      "id": "sport-4-81e5c5",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Pierwsza sesja treningowa Pochettino w Man Utd sfilmowana przez operatora drona",
+      "original_title": "Pochettino's first Man Utd training session filmed by drone operator",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:45",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Pierwsza sesja treningowa Mauricio Pochettino w Manchesterze United została sfilmowana przez kibica za pomocą drona spoza poligonu klubowego w Carrington.",
+        "Reporter Manchesteru United Opublikowano 4 godziny temu Kibice Manchesteru United zyskali wyjątkowy i nieoczekiwany wgląd w pierwszą sesję treningową Mauricio Pochettino po nagraniu materiału przez drona przelatującego obok poligonu klubu w Carrington.",
+        "Dwanaście minut sesji zostało sfilmowanych przez operatora drona i przesłane na YouTube."
+      ],
+      "extended_paragraphs": [
+        "Pierwsza sesja treningowa Mauricio Pochettino w Manchesterze United została sfilmowana przez kibica za pomocą drona spoza poligonu klubowego w Carrington.",
+        "Reporter Manchesteru United Opublikowano 4 godziny temu Kibice Manchesteru United zyskali wyjątkowy i nieoczekiwany wgląd w pierwszą sesję treningową Mauricio Pochettino po nagraniu materiału przez drona przelatującego obok poligonu klubu w Carrington.",
+        "Dwanaście minut sesji zostało sfilmowanych przez operatora drona i przesłane na YouTube.",
+        "Pochettino i jego zawodnicy podzieleni na trzy grupy są wyraźnie widoczni, a sesja jest sfilmowana pod różnymi kątami i z różnych odległości.",
+        "„Dla osób pytających o legalność. To nieograniczona przestrzeń powietrzna, co oznacza, że ​​każdy może nad nią latać” – powiedział operator drona."
+      ]
+    },
+    {
+      "id": "sport-6-eda4ac",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Nierozstawiony Sykes ogłusza Humphriesa w thrillerze Wielkiego Szlema",
+      "original_title": "Unseeded Sykes stuns Humphries in Grand Slam thriller",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:45",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/darts/articles/ckzd9n5996zno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1e1a/live/b0aba780-e467-11f1-99a1-253766e7ad8b.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Luke Humphries podąża za Luke'iem Littlerem i opuszcza Grand Slam of Darts po przegranej 10-9 z nierozstawionym Tomem Sykesem w thrillerze drugiej rundy.",
+        "Luke Humphries podążył za Luke'iem Littlerem i opuścił Grand Slam of Darts po przegranej 10-9 z nierozstawionym Tomem Sykesem w thrillerze drugiej rundy.",
+        "Po przewadze 4:0 i 9:7, drużyna z drugiego rozstawienia podjęła walkę w decydującym meczu i miała przewagę w postaci rzutu jako pierwsza."
+      ],
+      "extended_paragraphs": [
+        "Luke Humphries podąża za Luke'iem Littlerem i opuszcza Grand Slam of Darts po przegranej 10-9 z nierozstawionym Tomem Sykesem w thrillerze drugiej rundy.",
+        "Luke Humphries podążył za Luke'iem Littlerem i opuścił Grand Slam of Darts po przegranej 10-9 z nierozstawionym Tomem Sykesem w thrillerze drugiej rundy.",
+        "Po przewadze 4:0 i 9:7, drużyna z drugiego rozstawienia podjęła walkę w decydującym meczu i miała przewagę w postaci rzutu jako pierwsza.",
+        "Ale jego kolega z Anglii, Sykes, był niewzruszony, szybko przejął kontrolę nad nogą, a kiedy Humphriesowi nie udało się zdobyć podwójnej 10 przy 128 bramkach i zapewnić sobie zwycięstwo, zawodnik z numerem 81 na świecie bez nerwów uderzył podwójną 18, zapewniając sobie miejsce w swoim pierwszym dużym ćwierćfinale.",
+        "„To niewiarygodne” – powiedział Sky Sports 34-letni Sykes. „Luke wypuścił mnie kilka razy w pierwszym fragmencie, ale wystartowałem naprawdę dobrze."
+      ]
+    },
+    {
+      "id": "sport-7-4c7b39",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Pokazali statystyki. Bednarek w ścisłej czołówce",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:55",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285100/pokazali-statystyki-bednarek-w-scislej-czolowce",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff71065a8fc5_14418296.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Brytyjski portal Squawka podsumował fazę grupową Ligi Narodów UEFA, prezentując statystyki indywidualne.",
+        "Wśród najlepszych zawodników w walce o górną piłkę znalazł się Jan Bednarek.",
+        "Wyróżnili się także m.in. Wiktor Nowak i Nicola Zalewski."
+      ],
+      "extended_paragraphs": [
+        "Brytyjski portal Squawka podsumował fazę grupową Ligi Narodów UEFA, prezentując statystyki indywidualne. Wśród najlepszych zawodników w walce o górną piłkę znalazł się Jan Bednarek. Wyróżnili się także m.in. Wiktor Nowak i Nicola Zalewski.",
+        "Skomentuj Brytyjski portal Squawka podsumował fazę grupową Ligi Narodów UEFA, prezentując statystyki indywidualne. Wśród najlepszych zawodników w walce o górną piłkę znalazł się Jan Bednarek. Wyróżnili się także m.in. Wiktor Nowak i Nicola Zalewski.",
+        "Reprezentacja Polski spisała się poniżej oczekiwań w Lidze Narodów UEFA 2026/27. Podopieczni Jana Urbana zakończyli rywalizację w grupie 4 Dywizji B na trzecim miejscu - za Szwecją oraz Bośnią i Hercegowiną, wyprzedzając jedynie Rumunię.",
+        "W sześciu meczach Polacy odnieśli tylko jedno zwycięstwo (6:0 u siebie z Rumunią). Trzy mecze przegrali (wszystkie wyjazdowe), zaś dwa zremisowali.",
+        "Choć nie udało się powalczyć o awans do Dywizji A, to kilku zawodników reprezentacji Polski uplasowało się wysoko w indywidualnych zestawieniach, które zaprezentował brytyjski portal Squawka."
+      ]
+    },
+    {
+      "id": "sport-8-e9f615",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2033,151 +2118,57 @@
       "lead_story": false,
       "summary_points": [
         "Jonathan Agnew mówi, że nie może sobie wyobrazić, jak Pat Cummins może poprowadzić Australię do przyszłorocznego letniego serialu Ashes w Anglii, po najnowszych wydarzeniach związanych ze skandalem Sandpapergate.",
-        "Główny komentator krykieta Opublikowano 2 godziny temu Kapitan Australii Pat Cummins, podobnie jak jego koledzy z meloników, znajduje się obecnie w oku burzy Sandpapergate.",
+        "Główny komentator krykieta Opublikowano 8 godzin temu Kapitan Australii Pat Cummins, podobnie jak jego koledzy z meloników, znajduje się obecnie w oku burzy Sandpapergate.",
         "Powód jest dla mnie prosty."
       ],
       "extended_paragraphs": [
         "Jonathan Agnew mówi, że nie może sobie wyobrazić, jak Pat Cummins może poprowadzić Australię do przyszłorocznego letniego serialu Ashes w Anglii, po najnowszych wydarzeniach związanych ze skandalem Sandpapergate.",
-        "Główny komentator krykieta Opublikowano 2 godziny temu Kapitan Australii Pat Cummins, podobnie jak jego koledzy z meloników, znajduje się obecnie w oku burzy Sandpapergate.",
+        "Główny komentator krykieta Opublikowano 8 godzin temu Kapitan Australii Pat Cummins, podobnie jak jego koledzy z meloników, znajduje się obecnie w oku burzy Sandpapergate.",
         "Powód jest dla mnie prosty. Sam pogląd, że Cameron Bancroft – najbardziej niedoświadczony odbijający w ówczesnej australijskiej drużynie – użyłby papieru ściernego na piłce przeciwko Republice Południowej Afryki bez wiedzy meloników, nigdy nie miał sensu.",
         "Mnie, jako byłemu melonikowi, nigdy nie wydawało się w najmniejszym stopniu prawdopodobne, że melonicy nie wiedzieli, co działo się w Kapsztadzie w 2018 roku. To po prostu nie wydaje się możliwe.",
         "Powiedzmy sobie jasno – tak długo, jak istniał krykiet, istniało manipulowanie piłką. Nie ma co się ukrywać przed faktem."
-      ]
-    },
-    {
-      "id": "sport-5-282444",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Rosjanie wystartują w Polsce? Jest reakcja rządu",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:03",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/lyzwiarstwo-figurowe/1285059/rosjanie-wystartuja-w-polsce-jest-reakcja-rzadu",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff2bb2abe1b2_26544520.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Rosyjska agencja TASS zapowiada występ pary tanecznej z tego kraju na listopadowych zawodach w Warszawie.",
-        "Prezes PZŁF Magdalena Tascher potwierdza \"Przeglądowi Sportowemu\", że duet jest na liście zgłoszeń.",
-        "Sytuację skomentowało ministerstwo sportu."
-      ],
-      "extended_paragraphs": [
-        "Rosyjska agencja TASS zapowiada występ pary tanecznej z tego kraju na listopadowych zawodach w Warszawie. Prezes PZŁF Magdalena Tascher potwierdza \"Przeglądowi Sportowemu\", że duet jest na liście zgłoszeń. Sytuację skomentowało ministerstwo sportu.",
-        "3 Komentarze Rosyjska agencja TASS zapowiada występ pary tanecznej z tego kraju na listopadowych zawodach w Warszawie. Prezes PZŁF Magdalena Tascher potwierdza \"Przeglądowi Sportowemu\", że duet jest na liście zgłoszeń. Sytuację skomentowało ministerstwo sportu.",
-        "- Jedziemy na turniej. Mamy wizy (do Polski - przyp. red.), zawodnicy są gotowi. Polecimy nieco wcześniej, aby zabezpieczyć się na wypadek ewentualnych opóźnień - powiedziała agencji TASS Jelena Sokołowa, trenerka Jekateriny Mironowej i Jewgienija Ustenki .",
-        "Według doniesień płynących z Rosji, para taneczna zamierza wystartować w zawodach PGE Warsaw Cup na Torwarze, które odbędą się w dniach 25-29 listopada.",
-        "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
-      ]
-    },
-    {
-      "id": "sport-6-c8e13f",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Kluby Premier League pokryją koszty prawne, jeśli sponsorzy Man City złożą pozew",
-      "original_title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:29",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4515/live/c1425af0-e41a-11f1-b37c-b3a71d7200af.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Kluby Premier League głosują za zapewnieniem ochrony prawnej pięciu dyrektorom zarządu organizacji na wypadek, gdyby sponsorzy Manchesteru City pozwali ich.",
-        "Redaktor sportowy Opublikowano 3 godziny temu Kluby Premier League zagłosowały za pokryciem kosztów prawnych pięciu dyrektorów zarządu organizacji, jeśli którykolwiek ze sponsorów Manchesteru City ich pozwie.",
-        "Kluby spotkały się w czwartek w Londynie po raz pierwszy od we wrześniu, w którym niezależna komisja uznała City za winne szeregu zarzutów związanych z łamaniem zasad finansowych."
-      ],
-      "extended_paragraphs": [
-        "Kluby Premier League głosują za zapewnieniem ochrony prawnej pięciu dyrektorom zarządu organizacji na wypadek, gdyby sponsorzy Manchesteru City pozwali ich.",
-        "Redaktor sportowy Opublikowano 3 godziny temu Kluby Premier League zagłosowały za pokryciem kosztów prawnych pięciu dyrektorów zarządu organizacji, jeśli którykolwiek ze sponsorów Manchesteru City ich pozwie.",
-        "Kluby spotkały się w czwartek w Londynie po raz pierwszy od we wrześniu, w którym niezależna komisja uznała City za winne szeregu zarzutów związanych z łamaniem zasad finansowych.",
-        "Sponsorzy klubu, Etihad i Etisalat, oświadczyli, że rozważają podjęcie kroków prawnych przeciwko Premier League.",
-        "Obecnie, zgodnie ze statutem ligi, dyrektor jest objęty ubezpieczeniem finansowym jedynie w przypadku wygrania sprawy sądowej wniesionej przeciwko niemu przez stronę trzecią. Jednak zasady ligi zostaną teraz zaktualizowane, aby rozszerzyć zabezpieczenie prawne dla dyrektora generalnego Richarda Mastersa, przewodniczącej Alison Brittan i trzech innych dyrektorów niewykonawczych."
-      ]
-    },
-    {
-      "id": "sport-7-a7ae7e",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 2,7 miliona) o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [
-        "2,7 miliona"
-      ],
-      "title": "Nazywana jest jedną z najładniejszych piłkarek na świecie",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:01",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/sportowybar/1285060/nazywana-jest-jedna-z-najladniejszych-pilkarek-na-swiecie",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff2a9949a4d8_15614378.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Ana Maria Marković od kilku lat przyciąga uwagę kibiców nie tylko swoimi występami na boisku, ale również urodą i aktywnością w mediach społecznościowych.",
-        "1 Komentarz Ana Maria Marković od kilku lat przyciąga uwagę kibiców nie tylko swoimi występami na boisku, ale również urodą i aktywnością w mediach społecznościowych.",
-        "Chorwacka piłkarka, która bywa nazywana jedną z najpiękniejszych zawodniczek świata, zbudowała ogromną popularność."
-      ],
-      "extended_paragraphs": [
-        "Ana Maria Marković od kilku lat przyciąga uwagę kibiców nie tylko swoimi występami na boisku, ale również urodą i aktywnością w mediach społecznościowych. Niedawno świętowała 27. urodziny.",
-        "1 Komentarz Ana Maria Marković od kilku lat przyciąga uwagę kibiców nie tylko swoimi występami na boisku, ale również urodą i aktywnością w mediach społecznościowych. Niedawno świętowała 27. urodziny.",
-        "Chorwacka piłkarka, która bywa nazywana jedną z najpiękniejszych zawodniczek świata, zbudowała ogromną popularność. Na Instagramie obserwuje ją około 2,7 miliona osób. Nie zamierza jednak ograniczać się do roli influencerki. Wciąż rozwija karierę sportową, a ostatnio zdecydowała się na bardzo ważny krok.",
-        "Marković urodziła się 9 listopada 1999 roku w Szwajcarii. Jej rodzice mają chorwackie korzenie, a rodzina ze strony matki pochodzi ze Splitu. Co ciekawe, piłka nożna nie była jej pierwszą sportową miłością. Przez dziesięć lat trenowała gimnastykę, zanim zainteresowała się futbolem. Inspiracją była młodsza siostra, która również grała w piłkę.",
-        "ZOBACZ WIDEO: Bednarek stanął w obronie Kiwiora. I zaapelował. \"Powinniśmy się wspierać\""
-      ]
-    },
-    {
-      "id": "sport-8-c7efc7",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Furbank prowadzi trio powracające z Anglii podczas wizyty All Blacks",
-      "original_title": "Furbank leads returning England trio for All Blacks visit",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:18",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckdd1y064y0go?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecc4/live/a4de45c0-e421-11f1-9e08-55a8a3b48445.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Anglię wzmocni powrót do zdrowia i powrót George'a Furbanka, Seba Atkinsona i Ollie Chessum do meczu z Nową Zelandią Źródło obrazu, Shutterstock Tytuł zdjęcia: Umiejętności Furbanka w zakresie rozgrywania akcji były kluczem do zwycięstwa Jacka van Poortvlieta w zwycięstwie nad Australią dwa tygodnie temu Reporter BBC Sport dotyczący związku rugby Opublikowano 3 godziny temu Anglia wzmocniła się dzięki wyzdrowieniu i powrocie George'a Furbanka, Seba Atkinsona i Ollie Chessum do wyjściowego składu na sobotni mecz z Nową Zelandią w Mistrzostwach Narodów.",
-        "Do całej trójki, której wszyscy opuścili zwycięstwo nad Japonią w ostatni weekend z powodu uderzeń, w wyjściowym składzie dołączył Will Joseph, który dośrodkował w pięciu próbach przeciwko Brave Blossoms.",
-        "Furbank sprostał wyzwaniu rzuconemu przez Freddiego Stewarda, który zaimponował Japonii, i odzyskał miejsce na bocznym obrońcy, podczas gdy wicekapitan Chessum przenosi balast do tylnego rzędu, który uzupełniają Ben Curry i Ben Earl."
-      ],
-      "extended_paragraphs": [
-        "Anglię wzmocni powrót do zdrowia i powrót George'a Furbanka, Seba Atkinsona i Ollie Chessum do meczu z Nową Zelandią",
-        "Źródło obrazu, Shutterstock Tytuł zdjęcia: Umiejętności Furbanka w zakresie rozgrywania akcji były kluczem do zwycięstwa Jacka van Poortvlieta w zwycięstwie nad Australią dwa tygodnie temu",
-        "Reporter BBC Sport dotyczący związku rugby Opublikowano 3 godziny temu Anglia wzmocniła się dzięki wyzdrowieniu i powrocie George'a Furbanka, Seba Atkinsona i Ollie Chessum do wyjściowego składu na sobotni mecz z Nową Zelandią w Mistrzostwach Narodów.",
-        "Do całej trójki, której wszyscy opuścili zwycięstwo nad Japonią w ostatni weekend z powodu uderzeń, w wyjściowym składzie dołączył Will Joseph, który dośrodkował w pięciu próbach przeciwko Brave Blossoms.",
-        "Furbank sprostał wyzwaniu rzuconemu przez Freddiego Stewarda, który zaimponował Japonii, i odzyskał miejsce na bocznym obrońcy, podczas gdy wicekapitan Chessum przenosi balast do tylnego rzędu, który uzupełniają Ben Curry i Ben Earl."
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-6f31b8",
+      "id": "rynki-1-c420be",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 107 mld dolarów, 17%, 2,25%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "107 mld dolarów",
+        "17%",
+        "2,25%"
+      ],
+      "title": "Udany debiut Anthopica. Nasdaq pogłębia korektę",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:05",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Udany-debiut-Anthopica-Nasdaq-poglebia-korekte-9232105.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/0/9/5ca8bfcbc825c6-948-568-262-358-2966-1779.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków.",
+        "Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
+        "fot. Lev Radin / / Zuma Press / Forum W czwartek na Wall Street liczyły się dwie premiery."
+      ],
+      "extended_paragraphs": [
+        "Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków. Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
+        "fot. Lev Radin / / Zuma Press / Forum W czwartek na Wall Street liczyły się dwie premiery. Tą ważniejszą był giełdowy debiut Anthopica. Firma stojąca za modelem AI Claude w ramach emisji akcji pozyskała ponad 107 mld dolarów , a rynek początkowo wycenił ją na ponad 1,5 biliona dolarów . Nominalnie było to największe IPO w historii. Akcje Anthopica rozpoczęły handel od 33-procentowej zwyżki, ale zamknęły dzień wzrostem o 17% i kapitalizacją rzędu 1,1 bln USD.",
+        "Ten sukces ginął jednak w czerwonym obrazie rynku. Nasdaq Composite po spadku o 2,25% zatrzymał się na poziomie 23 879,20 punktów. To najniższy kurs zamknięcia od połowy kwietnia, a więc już ponad 7 miesięcy. Od październikowego szczytu hossy Nasdaq stracił już prawie 14%, co Amerykanie określają mianem „korekty”.",
+        "Drugą istotną premierą było udostępnienie graczom gry Grand Theft Auto 6 . Ten długo oczekiwany hit stał się najwyżej ocenianą grą w historii serwisu Metacritic z notą 99 na 100 możliwych. Mimo to akcje Take-Two Interacticve – czyli właściciela studia Rockstar Games – potaniały o 3,7%.",
+        "Spadki zmonitowały także szeroki rynek. Indeks S&P500 zniżkował o 2,02% i finiszował z wynikiem 7 175,83 pkt. Także w tym przypadku był to najniższy kurs zamknięcia od kwietnia. Średnia przemysłowa Dow Jonesa straciła 2,19 % i po raz pierwszy od ponad pół roku zamknęła się poniżej 50 000 pkt."
+      ]
+    },
+    {
+      "id": "rynki-3-6f31b8",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
@@ -2196,7 +2187,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/OKI-od-2027-roku-Co-sie-zmieni-w-oszczedzaniu-i-inwestowaniu-Polakow-9209518.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/3/1/8b3cf8efb7fbb8-948-568-0-150-4000-2399.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Zamiast 19 proc. podatku Belki coroczna opłata od wartości aktywów lub pełne zwolnienie (do limitu) dla krajowych portfeli - Osobiste Konta Inwestycyjne (OKI) dołączą wkrótce do przybornika polskiego inwestora i oszczędzającego.",
         "Czym dokładnie jest to narzędzie?",
@@ -2208,42 +2199,6 @@
         "Inwestorzy indywidualni zyskają możliwość uniknięcia podatku Belki oraz corocznego rozliczania PIT-38, jednak w zamian wejdą w reżim podatku od wartości zgromadzonych aktywów.",
         "OKI premiują wybrane klasy aktywów i działają w ramach określonych limitów. O tym, jak te zasady przekładają się na opłacalność inwestycji w zależności od uzyskiwanych wyników, można dowiedzieć się z artykułu “Komu opłaci się OKI, a komu… niekoniecznie” .",
         "Osobiste Konto Inwestycyjne (OKI) to wyodrębniony rachunek finansowy wprowadzony ustawą z dnia 3 lipca 2026 r. o osobistych kontach inwestycyjnych (Dz.U. z 2026 r. poz. 1098). Przepisy ustawy wchodzą w życie 1 stycznia 2027 r."
-      ]
-    },
-    {
-      "id": "rynki-3-09ab68",
-      "entity_tag": "KGHM (GPW: KGH)",
-      "sector": "Surowce & Górnictwo",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,69 mld zł, 2,17 mld zł, 81,3 mld USD) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "2,69 mld zł",
-        "2,17 mld zł",
-        "81,3 mld USD"
-      ],
-      "title": "KGHM gasi pożar na kursie, PZU liderem spadków w WIG20. Wszyscy patrzą na debiut Anthropica i premierę GTA 6",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:15",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/KGHM-gasi-pozar-na-kursie-PZU-liderem-spadkow-w-WIG20-Wszyscy-patrza-na-debiut-Anthropica-i-premiere-GTA-6-9231932.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/a/1/7a2d33931a79c4-948-568-0-270-4000-2399.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Czwartkowy handel na GPW przebiegał pod znakiem próby odbicia indeksu krajowych blue chipów skutecznie spacyfikowanej w drugiej połowie dnia.",
-        "W WIG20 ciekawe wyglądało przeciągnie liny między rosnącym po wynikach kursem KGHM, a taniejącymi akcjami PZU, także reagującymi na sprawozdanie finansowe.",
-        "Ponadto znów wyróżniły się notowania CD Projektu i Orlenu."
-      ],
-      "extended_paragraphs": [
-        "Czwartkowy handel na GPW przebiegał pod znakiem próby odbicia indeksu krajowych blue chipów skutecznie spacyfikowanej w drugiej połowie dnia. W WIG20 ciekawe wyglądało przeciągnie liny między rosnącym po wynikach kursem KGHM, a taniejącymi akcjami PZU, także reagującymi na sprawozdanie finansowe. Ponadto znów wyróżniły się notowania CD Projektu i Orlenu. Podczas gdy krajowe indeksy zakończyły dzień pod kreską, globalni inwestorzy wstrzymali oddech przed historycznym debiutem twórców modelu Claude. Internet z kolei zalała fala treści dotyczących premiery wyczekiwanego Grand Theft Auto VI.",
-        "fot. katjen / / Shutterstock Na zamknięciu czwartkowych notowań WIG20 spadł o 0,51 proc. Gorzej poradził sobie szeroki rynek – indeks WIG zniżkował o 0,56 proc. , a grupujący średnie spółki mWIG40 spadł o 0,85 proc. Na czerwono dzień zakończył także sWIG80, który stracił 0,34 proc. Łączne obroty na GPW wyniosły 2,69 mld zł , z czego aż 2,17 mld zł przypadło na największe podmioty skupione w portfelu WIG20.",
-        "Warszawski parkiet zaprezentował się relatywnie stabilnie na tle pogarszających się nastrojów na głównych giełdach Starego Kontynentu. W momencie zamknięcia sesji w Polsce brytyjski FTSE 100 spadał o 0,8 proc. , niemiecki DAX tracił 0,9 proc. , a francuski CAC40 zniżkował o 0,6 proc. Nieco lepsze nastroje panowały za oceanem, gdzie po otwarciu handlu na Wall Street szeroki indeks S&P 500 spadał o 0,3 proc. , podczas gdy technologiczny Nasdaq Composite zwyżkował o 0,2 proc.",
-        "Głównym tematem na globalnych rynkach finansowych była w czwartek pierwsza oferta publiczna (IPO) spółki Anthropic , jednego z czołowych graczy sektora sztucznej inteligencji i twórcy popularnego modelu Claude . Firma pozyskała z rynku ponad 81,3 mld USD, sprzedając w ramach oferty 980 mln akcji po cenie emisyjnej 83 USD za sztukę . Choć sesja na Nasdaq rozpoczęła się o godzinie 15:30 czasu polskiego, pierwsze transakcje na walorach Anthropic spodziewane były dopiero przed godziną 18:00 ze względu na wydłużony proces aukcyjny. Wskazania z rynku kontraktów terminowych sygnalizowały jednak euforię – szacowana cena otwarcia oscylowała wokół 103 USD, co oznaczałoby skok kursu o około 25 proc.",
-        "Innym istotnym wydarzeniem, bardziej medialnym, ale mającym także swoje rynkowe tło była światowa premiera szóstej części gry Grand Theft Auto . Mimo ogromnego sukcesu przedsprzedażowego, notowania jej wydawcy – Take-Two Interactive Software – rozpoczęły sesję na Wall Street od około 2-proc. przeceny. Wydarzenie to odbiło się również echem na warszawskim parkiecie, wywołując podwyższoną zmienność na akcjach rodzimego lidera branży gamedev."
       ]
     },
     {
@@ -2281,7 +2236,43 @@
       ]
     },
     {
-      "id": "rynki-5-6e1313",
+      "id": "rynki-5-09ab68",
+      "entity_tag": "KGHM (GPW: KGH)",
+      "sector": "Surowce & Górnictwo",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,69 mld zł, 2,17 mld zł, 81,3 mld USD) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "2,69 mld zł",
+        "2,17 mld zł",
+        "81,3 mld USD"
+      ],
+      "title": "KGHM gasi pożar na kursie, PZU liderem spadków w WIG20. Wszyscy patrzą na debiut Anthropica i premierę GTA 6",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:15",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/KGHM-gasi-pozar-na-kursie-PZU-liderem-spadkow-w-WIG20-Wszyscy-patrza-na-debiut-Anthropica-i-premiere-GTA-6-9231932.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/a/1/7a2d33931a79c4-948-568-0-270-4000-2399.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Czwartkowy handel na GPW przebiegał pod znakiem próby odbicia indeksu krajowych blue chipów skutecznie spacyfikowanej w drugiej połowie dnia.",
+        "W WIG20 ciekawe wyglądało przeciągnie liny między rosnącym po wynikach kursem KGHM, a taniejącymi akcjami PZU, także reagującymi na sprawozdanie finansowe.",
+        "Ponadto znów wyróżniły się notowania CD Projektu i Orlenu."
+      ],
+      "extended_paragraphs": [
+        "Czwartkowy handel na GPW przebiegał pod znakiem próby odbicia indeksu krajowych blue chipów skutecznie spacyfikowanej w drugiej połowie dnia. W WIG20 ciekawe wyglądało przeciągnie liny między rosnącym po wynikach kursem KGHM, a taniejącymi akcjami PZU, także reagującymi na sprawozdanie finansowe. Ponadto znów wyróżniły się notowania CD Projektu i Orlenu. Podczas gdy krajowe indeksy zakończyły dzień pod kreską, globalni inwestorzy wstrzymali oddech przed historycznym debiutem twórców modelu Claude. Internet z kolei zalała fala treści dotyczących premiery wyczekiwanego Grand Theft Auto VI.",
+        "fot. katjen / / Shutterstock Na zamknięciu czwartkowych notowań WIG20 spadł o 0,51 proc. Gorzej poradził sobie szeroki rynek – indeks WIG zniżkował o 0,56 proc. , a grupujący średnie spółki mWIG40 spadł o 0,85 proc. Na czerwono dzień zakończył także sWIG80, który stracił 0,34 proc. Łączne obroty na GPW wyniosły 2,69 mld zł , z czego aż 2,17 mld zł przypadło na największe podmioty skupione w portfelu WIG20.",
+        "Warszawski parkiet zaprezentował się relatywnie stabilnie na tle pogarszających się nastrojów na głównych giełdach Starego Kontynentu. W momencie zamknięcia sesji w Polsce brytyjski FTSE 100 spadał o 0,8 proc. , niemiecki DAX tracił 0,9 proc. , a francuski CAC40 zniżkował o 0,6 proc. Nieco lepsze nastroje panowały za oceanem, gdzie po otwarciu handlu na Wall Street szeroki indeks S&P 500 spadał o 0,3 proc. , podczas gdy technologiczny Nasdaq Composite zwyżkował o 0,2 proc.",
+        "Głównym tematem na globalnych rynkach finansowych była w czwartek pierwsza oferta publiczna (IPO) spółki Anthropic , jednego z czołowych graczy sektora sztucznej inteligencji i twórcy popularnego modelu Claude . Firma pozyskała z rynku ponad 81,3 mld USD, sprzedając w ramach oferty 980 mln akcji po cenie emisyjnej 83 USD za sztukę . Choć sesja na Nasdaq rozpoczęła się o godzinie 15:30 czasu polskiego, pierwsze transakcje na walorach Anthropic spodziewane były dopiero przed godziną 18:00 ze względu na wydłużony proces aukcyjny. Wskazania z rynku kontraktów terminowych sygnalizowały jednak euforię – szacowana cena otwarcia oscylowała wokół 103 USD, co oznaczałoby skok kursu o około 25 proc.",
+        "Innym istotnym wydarzeniem, bardziej medialnym, ale mającym także swoje rynkowe tło była światowa premiera szóstej części gry Grand Theft Auto . Mimo ogromnego sukcesu przedsprzedażowego, notowania jej wydawcy – Take-Two Interactive Software – rozpoczęły sesję na Wall Street od około 2-proc. przeceny. Wydarzenie to odbiło się również echem na warszawskim parkiecie, wywołując podwyższoną zmienność na akcjach rodzimego lidera branży gamedev."
+      ]
+    },
+    {
+      "id": "rynki-7-6e1313",
       "entity_tag": "KGHM (GPW: KGH)",
       "sector": "Surowce & Górnictwo",
       "market_impact": "HIGH",
@@ -2317,42 +2308,6 @@
       ]
     },
     {
-      "id": "rynki-7-022085",
-      "entity_tag": "PZU (GPW: PZU)",
-      "sector": "Ubezpieczenia",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla PZU (GPW: PZU) (Ubezpieczenia) (kluczowe liczby: 100 mld zł, 30%, 75%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "100 mld zł",
-        "30%",
-        "75%"
-      ],
-      "title": "PZU pozycjonuje się pod OKI. Będą dwa nowe ETF-y",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "11:52",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/PZU-pozycjonuje-sie-pod-OKI-Beda-dwa-nowe-ETF-y-9231555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/8/d/b9c5d20dd5299c-945-560-0-191-3324-1994.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "PZU TFI poinformował o planach wprowadzenia na giełdę dwóch nowych ETF-ów, oferujące strategii inwestycyjne opracowane na potrzeby Osobistych Kont Inwestycyjnych.",
-        "Jeden z nich wykorzystuje furtkę, którą ustawodawca pozwolił wypuścić pieniądze na rynki zagraniczne.",
-        "fot. Andrzej Bogacz / / FORUM W polskiej branży finansowej rozpoczął się swoisty „wyścig zbrojeń”."
-      ],
-      "extended_paragraphs": [
-        "PZU TFI poinformował o planach wprowadzenia na giełdę dwóch nowych ETF-ów, oferujące strategii inwestycyjne opracowane na potrzeby Osobistych Kont Inwestycyjnych. Jeden z nich wykorzystuje furtkę, którą ustawodawca pozwolił wypuścić pieniądze na rynki zagraniczne.",
-        "fot. Andrzej Bogacz / / FORUM W polskiej branży finansowej rozpoczął się swoisty „wyścig zbrojeń”. Jeszcze w październiku w pole wyszły hufce PKO BP, który ogłosił zamiar uzyskania aż 30% udział ów w rynku OKI. Bank szacuje, że w ciągu trzech lat wartość całego rynku OKI sięgnie 100 mld zł. Jest więc o co walczyć. Wszakże opłaty i prowizje od stu miliardów złotych to nie byle co.",
-        "Z podobnego założenia wyszli w PZU TFI, które w czwartek zapowiedziało wprowadzenie nowych ETF-ów, skrojonych z myślą o posiadaczach Osobistych Kont Inwestycyjnych. - PZU ETF Akcje Polska i Świat 75/25 Portfelowy FIZ i PZU ETF Polskie Akcje i Obligacje 60/40 Portfelowy FIZ dostały zielone światło od Komisji Nadzoru Finansowego. Ich giełdowy debiut jest przewidywany na drugą połowę grudnia – czytamy w czwartkowym komunikacie TFI PZU .",
-        "– Na ten rok zaplanowaliśmy premierę sześciu ETF-ów. Plan zrealizujemy z nawiązką i najprawdopodobniej jeszcze przed świętami na rynku zadebiutują dwa fundusze skrojone specjalnie pod OKI. Będą to pierwsze krajowe fundusze ETF z mieszanymi benchmarkami notowane na warszawskiej giełdzie – powiedział Artur Trela, prezes zarządu TFI PZU, cytowany w komunikacie medialnym.",
-        "Zasadniczo w ramach Osobistych Kont Inwestycyjnych zwolnione od nowego podatku od aktywów są tylko tzw. aktywa kwalifikowane. W praktyce są to instrumenty dostępne jedynie na polskim rynku kapitałowym i oferujące ekspozycję jedynie na aktywa krajowe. Ustawodawca przewidział jednak furtkę, poprzez którą część kapitału będzie można bezpodatkowo ulokować na rynkach zagranicznych. Niestety nie samodzielnie i nie bez pomocy branży finansowej. I właśnie taką opcję postanowił udostępnić PZU TFI."
-      ]
-    },
-    {
       "id": "rynki-6-640dd2",
       "entity_tag": "Azja & Pacyfik",
       "sector": "Gospodarka Światowa",
@@ -2385,39 +2340,35 @@
       ]
     },
     {
-      "id": "rynki-8-a5f2fc",
+      "id": "rynki-8-948641",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
       "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 17%, 23%, 30%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "17%",
-        "23%",
-        "30%"
-      ],
-      "title": "Walmart podnosi perspektywy, gdy dyrektor generalny mówi CNBC, że sprzedawca detaliczny stara się utrzymać ceny na niskim poziomie pomimo rosnących kosztów paliwa",
-      "original_title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Gap mianuje nowego dyrektora generalnego Athleta i obniża prognozy na cały rok",
+      "original_title": "Gap names new Athleta CEO, lowers full-year guidance",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:23",
+      "time": "21:22",
       "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108549203-1794421348751-gettyimages-2292765585-US_RETAIL.jpeg?v=1795042518&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1794421646&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
-        "Walmart stwierdził, że w trzecim kwartale finansowym dostrzegł siłę dzięki odbiorom i dostawom w sklepach.",
-        "Walmart ogłosił w czwartek zyski i przychody, które nieznacznie przekroczyły szacunki, i podniósł swoje prognozy na cały rok, ponieważ odnotował silny wzrost handlu elektronicznego przed pracowitym sezonem świątecznym.",
-        "Walmart podał, że globalna sprzedaż e-commerce wzrosła o 17%, napędzana odbiorem i dostawą w sklepach, przy czym Walmart w USA wzrósł o 23%, a Sam's Club w USA o 30%."
+        "W czwartek Gap ogłosił, że Ashley Kechter zostanie nowym dyrektorem generalnym Athlety.",
+        "Sprzedawca podał również mieszane zyski za trzeci kwartał fiskalny.",
+        "ogłosiła, że Ashley Kechter zostanie kolejnym prezesem i dyrektorem generalnym marki Athleta ze skutkiem od 14 grudnia."
       ],
       "extended_paragraphs": [
-        "Walmart stwierdził, że w trzecim kwartale finansowym dostrzegł siłę dzięki odbiorom i dostawom w sklepach.",
-        "Walmart ogłosił w czwartek zyski i przychody, które nieznacznie przekroczyły szacunki, i podniósł swoje prognozy na cały rok, ponieważ odnotował silny wzrost handlu elektronicznego przed pracowitym sezonem świątecznym.",
-        "Walmart podał, że globalna sprzedaż e-commerce wzrosła o 17%, napędzana odbiorem i dostawą w sklepach, przy czym Walmart w USA wzrósł o 23%, a Sam's Club w USA o 30%. Działalność reklamowa Walmart w USA odnotowała w tym kwartale wzrost sprzedaży o 37%.",
-        "Walmart podał, że obniżył ceny prawie 8 000 produktów w swoich sklepach, co jest głównym tematem obaw amerykańskich konsumentów o koszty życia w obliczu podwyższonych cen żywności i gazu.",
-        "Dyrektor generalny John Furner powiedział Becky Quick z CNBC, że firma odnotowała wyższe niż oczekiwano koszty oleju napędowego, ale zwroty ceł pomogły sprzedawcy zrównoważyć te nakłady i utrzymać niższe ceny."
+        "W czwartek Gap ogłosił, że Ashley Kechter zostanie nowym dyrektorem generalnym Athlety. Sprzedawca podał również mieszane zyski za trzeci kwartał fiskalny.",
+        "W czwartek firma Gap Inc. ogłosiła, że Ashley Kechter zostanie kolejnym prezesem i dyrektorem generalnym marki Athleta ze skutkiem od 14 grudnia.",
+        "Kechter dołączyła do Gap ze sprzedawcy odzieży sportowej Vuori, gdzie była globalnym prezesem i nadzorowała globalną strategię biznesową, marketing i finanse marki. Wcześniej była globalną prezeską marki Fabletics, a wcześniej rozpoczęła karierę w Gap.",
+        "„Jestem podekscytowany powrotem do Gap Inc. i współpracą z [dyrektorem generalnym Gap Richardem Dicksonem] oraz zespołem, aby wzmocnić nasze więzi z klientami i ukształtować kolejny rozdział marki” – stwierdził Kechter w oświadczeniu.",
+        "Oświadczenie następuje po tym, jak w zeszłym miesiącu Lululemon zatrudnił byłą dyrektor generalną Athlety Maggie Gauger na stanowisko dyrektora ds. produktu."
       ]
     },
     {

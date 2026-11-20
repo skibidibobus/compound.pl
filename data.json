@@ -2,8 +2,8 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.323",
-    "last_updated": "2026-11-19 23:43",
+    "edition": "#2026.324",
+    "last_updated": "2026-11-20 04:47",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 18,
     "foreign_translated_count": 19,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$61,734",
-      "change": "-1.91%",
+      "price": "$61,491",
+      "change": "-3.20%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,749",
-      "change": "-1.47%",
+      "price": "$1,723",
+      "change": "-4.27%",
       "is_positive": false
     },
     {
@@ -1113,7 +1113,7 @@
         "Oczekuje się, że w czwartek prezydent USA Donald Trump, prezydent Chin Xi Jinping i prezydent Rosji Władimir Putin odbędą rzadkie spotkanie trójstronne.",
         "SHENZHEN, Chiny – Dla mnie, Amerykanina, była to podróż do Chin, aby po raz pierwszy osobiście spotkać się z prezydentem USA Donaldem Trumpem.",
         "Trump wyłonił się z grupy otaczających go ubranych na czarno fotografów i innego personelu podczas bankietu powitalnego w Shenzhen z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku, które odbyło się w dniach 17–19 listopada.",
-        "Zaledwie kilka miejsc po jego lewej stronie siedział prezydent Rosji Władimir Putin, który sięgnął po kieliszek czerwonego wina, aby dołączyć do toastu prowadzonego przez prezydenta Chin Xi Jinpinga.",
+        "Zaledwie kilka miejsc po jego lewej stronie siedział prezydent Rosji Władimir Putin, który wziął kieliszek czerwonego wina, aby dołączyć do toastu prowadzonego przez prezydenta Chin Xi Jinpinga.",
         "„Na jutrzejszym spotkaniu przywódców omówimy środki mające na celu poszerzenie wzajemnego otwarcia, zbadamy ścieżki wzrostu opartego na innowacjach i określimy możliwości rozszerzenia praktycznej współpracy na różne dziedziny, tak aby przełożyć więcej inicjatyw na wymierne rezultaty” – powiedział Xi w języku mandaryńskim, według tłumaczenia CNBC."
       ]
     },
@@ -1130,10 +1130,10 @@
       "original_title": "Gap names new Athleta CEO, lowers full-year guidance",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:22",
+      "time": "23:54",
       "source": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1794421646&amp;w=1920&amp;h=1080",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1795132423&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
@@ -1184,35 +1184,39 @@
   ],
   "makro": [
     {
-      "id": "makro-4-aea75d",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
+      "id": "makro-4-3b7626",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Sztuczna Inteligencja” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Simon Jack: Czy rekordowa oferta publiczna Anthropic może powstrzymać pęknięcie bańki AI?",
-      "original_title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 2,3 miliarda dolarów, 24,5 miliona, 2,36 miliarda dolarów) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "2,3 miliarda dolarów",
+        "24,5 miliona",
+        "2,36 miliarda dolarów"
+      ],
+      "title": "GTA 6 bije rekordy, osiągając najwyższą sprzedaż na poziomie 2,3 miliarda dolarów – szacunki branży",
+      "original_title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:28",
+      "time": "02:54",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": true,
       "summary_points": [
-        "Oczekuje się, że dzięki gorąco oczekiwanej ofercie publicznej Anthropic znajdzie się na liście 10 najcenniejszych spółek w USA, ale przyszłość jest niepewna.",
-        "To było w listopadzie 2020 roku gdzieś w San Francisco kobieta o imieniu Daniela Amodei zadzwoniła do przyjaciółki, prosząc o radę.",
-        "Daniela nadzorowała bezpieczeństwo i politykę w OpenAI, jednej z najczęściej omawianych firm zajmujących się sztuczną inteligencją na świecie."
+        "Rockstar Games zakończyło 13-letnie oczekiwanie, zapowiadając największą premierę rozrywkową w historii.",
+        "Szacuje się, że Grand Theft Auto 6 stało się największą premierą rozrywkową w historii po debiucie przebojowej gry wideo w czwartek, po 13 latach oczekiwania.",
+        "Według platformy analitycznej Sensor Tower, długo oczekiwana przygodowa gra akcji w otwartym świecie złożyła zamówienia w przedsprzedaży, a łączna sprzedaż pierwszego dnia przekroczyła 24,5 miliona egzemplarzy, co przyniosło około 2,36 miliarda dolarów (1,8 miliarda funtów)."
       ],
       "extended_paragraphs": [
-        "Oczekuje się, że dzięki gorąco oczekiwanej ofercie publicznej Anthropic znajdzie się na liście 10 najcenniejszych spółek w USA, ale przyszłość jest niepewna.",
-        "To było w listopadzie 2020 roku gdzieś w San Francisco kobieta o imieniu Daniela Amodei zadzwoniła do przyjaciółki, prosząc o radę.",
-        "Daniela nadzorowała bezpieczeństwo i politykę w OpenAI, jednej z najczęściej omawianych firm zajmujących się sztuczną inteligencją na świecie.",
-        "Jednak Daniela i jej brat Dario, którzy również tam pracowali, mieli wątpliwości co do poziomu bezpieczeństwa w OpenAI i pomyśleli, że może czas odejść.",
-        "Zrobiła więc to, co robi wielu, gdy nie możemy się o czymś zdecydować, zadzwoniła do przyjaciółki. Odpowiedź przyjaciela była bezpośrednia i rzeczowa: „Nie musisz ze mną rozmawiać przez telefon. Znasz już odpowiedź”."
+        "Rockstar Games zakończyło 13-letnie oczekiwanie, zapowiadając największą premierę rozrywkową w historii.",
+        "Szacuje się, że Grand Theft Auto 6 stało się największą premierą rozrywkową w historii po debiucie przebojowej gry wideo w czwartek, po 13 latach oczekiwania.",
+        "Według platformy analitycznej Sensor Tower, długo oczekiwana przygodowa gra akcji w otwartym świecie złożyła zamówienia w przedsprzedaży, a łączna sprzedaż pierwszego dnia przekroczyła 24,5 miliona egzemplarzy, co przyniosło około 2,36 miliarda dolarów (1,8 miliarda funtów).",
+        "Dla porównania, najbardziej dochodowy film tego roku, Spider-Man: Brand New Day, zarobił w kinach 2,5 miliarda dolarów.",
+        "Twórca GTA 6, Rockstar i spółka-matka Take-Two nie podali szczegółów sprzedaży gry, ale stwierdzili, że popyt jest „bezprecedensowy”. BBC skontaktowało się z obiema firmami w celu uzyskania komentarza."
       ]
     },
     {
@@ -1251,38 +1255,35 @@
       ]
     },
     {
-      "id": "makro-6-70d8fa",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
+      "id": "makro-6-6b1673",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) (kluczowe liczby: 19,3 miliarda dolarów, 14,7 miliarda funtów) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "19,3 miliarda dolarów",
-        "14,7 miliarda funtów"
-      ],
-      "title": "Siedmiu założycieli firmy Anthropic, którzy wkrótce zostaną multimiliarderami",
-      "original_title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Półprzewodniki & AI” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Kalifornia celuje w Nvidię w chińską sondę chipową AI",
+      "original_title": "California targets Nvidia in China AI chip probe",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:42",
+      "time": "23:04",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Firma AI stojąca za Claudem wkrótce sprzeda swoje udziały na amerykańskiej giełdzie, dzięki czemu jej założyciele będą bardzo bogaci.",
-        "W ciągu zaledwie pięciu lat Anthropic przekształcił się z nieznanego start-upu w technologicznego giganta wartego ponad bilion dolarów.",
-        "Firmę stojącą za platformą AI Claude utworzyło siedem osób, które opuściły konkurencyjną platformę OpenAI w 2021 roku i w ciągu kilku godzin staną się multimiliarderami – przynajmniej na papierze."
+        "Dochodzenie prowadzone w Kalifornii, gdzie producent chipów AI ma swoją globalną siedzibę, jest następstwem odejścia byłego dyrektora generalnego Jensena Huanga.",
+        "Źródło zdjęcia, Reuters Lily Jamali Korespondentka ds.",
+        "technologii w Ameryce Północnej Opublikowano 5 godzin temu Kalifornia wystosowała wezwanie dochodzeniowe w sprawie projektanta układów AI Nvidia w następstwie skandalu, który zakończył się odejściem wieloletniego dyrektora generalnego Jensena Huanga."
       ],
       "extended_paragraphs": [
-        "Firma AI stojąca za Claudem wkrótce sprzeda swoje udziały na amerykańskiej giełdzie, dzięki czemu jej założyciele będą bardzo bogaci.",
-        "W ciągu zaledwie pięciu lat Anthropic przekształcił się z nieznanego start-upu w technologicznego giganta wartego ponad bilion dolarów.",
-        "Firmę stojącą za platformą AI Claude utworzyło siedem osób, które opuściły konkurencyjną platformę OpenAI w 2021 roku i w ciągu kilku godzin staną się multimiliarderami – przynajmniej na papierze.",
-        "W środę Anthropic poinformowała, że ​​wprowadza spółkę na amerykańską giełdę i będzie sprzedawać swoje akcje po 83 dolarów za sztukę.",
-        "Przy tej cenie udziały założycieli będą warte co najmniej 19,3 miliarda dolarów (14,7 miliarda funtów) każdy."
+        "Dochodzenie prowadzone w Kalifornii, gdzie producent chipów AI ma swoją globalną siedzibę, jest następstwem odejścia byłego dyrektora generalnego Jensena Huanga.",
+        "Źródło zdjęcia, Reuters Lily Jamali Korespondentka ds. technologii w Ameryce Północnej Opublikowano 5 godzin temu Kalifornia wystosowała wezwanie dochodzeniowe w sprawie projektanta układów AI Nvidia w następstwie skandalu, który zakończył się odejściem wieloletniego dyrektora generalnego Jensena Huanga.",
+        "Najwyższy funkcjonariusz organów ścigania stanu, prokurator generalny Rob Bonta, powiedział, że bada, czy działania Nvidii lub Huanga doprowadziły do ​​uzyskania przez Chiny zaawansowanych chipów lub poufnych informacji, dodając, że takie działania mogą naruszać prawo Kalifornii, jeśli okaże się, że firma wprowadziła w błąd inwestorów i opinię publiczną.",
+        "„Nvidia znajduje się w niejasnej, międzynarodowej sytuacji, ale podstawowa zasada naszego prawa dotyczącego korporacyjnych papierów wartościowych jest jasna: spółki nie mogą wprowadzać w błąd swoich inwestorów” – powiedział w czwartek Bonta.",
+        "Na początku tego miesiąca wyszło na jaw, że Huang pozostawał w pozamałżeńskim związku z podejrzaną chińską szpiegoską Alice Huang, która była dyrektorem w singapurskiej firmie Megaspeed zajmującej się centrami danych."
       ]
     },
     {
@@ -1340,15 +1341,15 @@
       "lead_story": false,
       "summary_points": [
         "Anthropic jest pierwszą spółką wykorzystującą wyłącznie sztuczną inteligencję notowaną na giełdzie, co stanowi test dla całej branży.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia Firma Anthropic przeszła jedną z najszybszych w historii podróży od momentu rozpoczęcia działalności do pierwszej oferty publicznej.",
-        "Anthropic stała się jedną z najcenniejszych spółek publicznych na świecie po wejściu jej akcji na giełdę, a jej wycena osiągnęła około 1,76 biliona dolarów (1,34 biliona funtów)."
+        "Anthropic stała się jedną z najcenniejszych spółek publicznych na świecie po wejściu jej akcji na giełdę, a jej wycena osiągnęła około 1,76 biliona dolarów (1,34 biliona funtów).",
+        "Czwartkowy debiut firmy zajmującej się sztuczną inteligencją (AI) na giełdzie Nasdaq był kluczowym testem dla branży, biorąc pod uwagę ogromne kwoty przeznaczane na rozwój technologii."
       ],
       "extended_paragraphs": [
         "Anthropic jest pierwszą spółką wykorzystującą wyłącznie sztuczną inteligencję notowaną na giełdzie, co stanowi test dla całej branży.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia Firma Anthropic przeszła jedną z najszybszych w historii podróży od momentu rozpoczęcia działalności do pierwszej oferty publicznej.",
         "Anthropic stała się jedną z najcenniejszych spółek publicznych na świecie po wejściu jej akcji na giełdę, a jej wycena osiągnęła około 1,76 biliona dolarów (1,34 biliona funtów).",
         "Czwartkowy debiut firmy zajmującej się sztuczną inteligencją (AI) na giełdzie Nasdaq był kluczowym testem dla branży, biorąc pod uwagę ogromne kwoty przeznaczane na rozwój technologii.",
-        "Akcje Anthropic przekroczyły cenę alokacji wynoszącą 83 dolary za sztukę, co pokazuje, że wokół sztucznej inteligencji było dużo emocji."
+        "Akcje Anthropic przekroczyły cenę alokacji wynoszącą 83 dolary za sztukę, co pokazuje, że wokół sztucznej inteligencji było dużo emocji.",
+        "Jednak firma stojąca za chatbotem AI Claude będzie w nadchodzących miesiącach poddawana intensywnej analizie, aby odpowiedzieć na kluczowe pytanie dotyczące sztucznej inteligencji: czy to wszystko jest tego warte?"
       ]
     },
     {
@@ -1384,7 +1385,7 @@
       ]
     },
     {
-      "id": "makro-7-e30604",
+      "id": "makro-7-b0cdf9",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1392,27 +1393,27 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Wykorzystywanie seksualne w McDonald's: „Czekali, aż młodsze dziewczyny skończą 18 lat”",
-      "original_title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "title": "Dziesiątki tysięcy lodówek w Wielkiej Brytanii zabezpieczonych przed hakerami w ramach tajnej operacji ogólnokrajowej",
+      "original_title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
       "is_foreign": true,
       "lang": "EN",
-      "time": "00:00",
+      "time": "00:02",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b62/live/ccbeb3f0-e407-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Były pracownik McDonald's wzywa firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”, gdyż sędzia orzekł, że sprawa sądowa przeciwko sieci może zostać rozpatrzona.",
-        "Podpis pod rysunkiem, były pracownik McDonalda: „Musisz to naprawić, żeby to się więcej nie powtórzyło” Była pracownica McDonald's, która twierdzi, że menadżer nie zapewnił jej ochrony, gdy klienci molestowali ją seksualnie, wezwała firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”.",
-        "Hope, która w 2023 r. pracowała w oddziale w West Midlands, również powiedziała BBC News, że widziała starszych kolegów, którzy przyglądali się 16- i 17-letnim pracownikom i mówili, że chcą się z nimi przespać, gdy ukończą 18 lat."
+        "Supermarkety, magazyny, restauracje i stadiony dokładają wszelkich starań, aby zapewnić bezpieczeństwo swoim urządzeniom.",
+        "BBC dowiedziało się, że za kulisami miała miejsce zakulisowa operacja mająca na celu zabezpieczenie przed hakerami dziesiątek tysięcy lodówek i zamrażarek w głównych brytyjskich supermarketach, magazynach, restauracjach, stacjach benzynowych i na stadionach.",
+        "Niedawne fale cyberataków w Europie doprowadziły do ​​zepsucia się ton żywności w setkach sklepów, powodując wielomilionowe szkody."
       ],
       "extended_paragraphs": [
-        "Były pracownik McDonald's wzywa firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”, gdyż sędzia orzekł, że sprawa sądowa przeciwko sieci może zostać rozpatrzona.",
-        "Podpis pod rysunkiem, były pracownik McDonalda: „Musisz to naprawić, żeby to się więcej nie powtórzyło”",
-        "Była pracownica McDonald's, która twierdzi, że menadżer nie zapewnił jej ochrony, gdy klienci molestowali ją seksualnie, wezwała firmę do „zmiany sposobu, w jaki traktują młodszych pracowników”.",
-        "Hope, która w 2023 r. pracowała w oddziale w West Midlands, również powiedziała BBC News, że widziała starszych kolegów, którzy przyglądali się 16- i 17-letnim pracownikom i mówili, że chcą się z nimi przespać, gdy ukończą 18 lat.",
-        "Hope jest jednym z setek pracowników, którzy wnoszą skargę o dyskryminację przeciwko McDonald's. W tym tygodniu sędzia odrzucił próbę wycofania roszczeń McDonald's, co Hope przyjęła z zadowoleniem."
+        "Supermarkety, magazyny, restauracje i stadiony dokładają wszelkich starań, aby zapewnić bezpieczeństwo swoim urządzeniom.",
+        "BBC dowiedziało się, że za kulisami miała miejsce zakulisowa operacja mająca na celu zabezpieczenie przed hakerami dziesiątek tysięcy lodówek i zamrażarek w głównych brytyjskich supermarketach, magazynach, restauracjach, stacjach benzynowych i na stadionach.",
+        "Niedawne fale cyberataków w Europie doprowadziły do ​​zepsucia się ton żywności w setkach sklepów, powodując wielomilionowe szkody.",
+        "Francja oskarżyła Iran o jedną z fal ataków, które dotknęły jej supermarkety, czemu Teheran zaprzecza.",
+        "Uważano, że Wielkiej Brytanii w dużej mierze udało się uniknąć takich włamań, ponieważ brytyjski przemysł chłodniczy opiera się na różnych urządzeniach, ale w rzeczywistości istniała potencjalna luka, którą sektor spieszył się z naprawieniem."
       ]
     }
   ],
@@ -1452,70 +1453,103 @@
       ]
     },
     {
-      "id": "tech-2-fba4d4",
-      "entity_tag": "Tesla / SpaceX",
-      "sector": "Motoryzacja & Tech",
+      "id": "tech-4-10eb32",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) (kluczowe liczby: 17 miliardów dolarów, 8 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 2 miliardy dolarów, 280 milionów dolarów, 105 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [
-        "17 miliardów dolarów",
-        "8 miliardów dolarów"
+        "2 miliardy dolarów",
+        "280 milionów dolarów",
+        "105 miliardów dolarów"
       ],
-      "title": "Elon Musk twierdzi, że SpaceX ma plan wyeliminowania martwych stref w telefonach komórkowych",
-      "original_title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "title": "Siedmiu założycieli Anthropic wypłaciło prawie 2 miliardy dolarów w ramach rekordowej oferty publicznej",
+      "original_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:37",
+      "time": "00:43",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Dyrektor generalny SpaceX, Elon Musk, powiedział, że firma zakończyła projektowanie miniaturowej wieży komórkowej na dachu, która mogłaby zapewnić lepszy zasięg telefonom komórkowym i wyeliminować martwe strefy.",
-        "Elon Musk mówi, że SpaceX ma plan wyeliminowania martwych stref w telefonach komórkowych Kirsten Korosec 15:37 PST · 19 listopada 2026 Dyrektor generalny Elon Musk powiedział, że SpaceX ukończyło projekt miniaturowej wieży komórkowej na dachu, która mogłaby zapewnić lepszy zasięg telefonów komórkowych i wyeliminować martwe strefy wewnątrz budynków, do których trudno dotrzeć sygnałami z satelitów Starlink.",
-        "Oczekuje się, że te miniwieże telefonii komórkowej wejdą do produkcji w 2027 r., powiedział Musk podczas wywiadu na szczycie DealBook w tym tygodniu."
+        "Przy podwyższonej cenie IPO wynoszącej 83 dolarów za akcję, każdy z siedmiu założycieli Anthropic zarobił po 280 milionów dolarów, podczas gdy sama firma zarobiła prawie 105 miliardów dolarów.",
+        "Siedmiu założycieli Anthropic wypłaciło prawie 2 miliardy dolarów w ramach rekordowej pierwszej oferty publicznej.",
+        "Julie Bort 16:43 PST · 19 listopada 2026 r. Anthropic stała się w czwartek spółką publiczną, pozyskując łącznie 81,3 miliarda dolarów, w tym 1,95 miliarda dolarów dla siedmiu założycieli."
       ],
       "extended_paragraphs": [
-        "Dyrektor generalny SpaceX, Elon Musk, powiedział, że firma zakończyła projektowanie miniaturowej wieży komórkowej na dachu, która mogłaby zapewnić lepszy zasięg telefonom komórkowym i wyeliminować martwe strefy.",
-        "Elon Musk mówi, że SpaceX ma plan wyeliminowania martwych stref w telefonach komórkowych Kirsten Korosec 15:37 PST · 19 listopada 2026 Dyrektor generalny Elon Musk powiedział, że SpaceX ukończyło projekt miniaturowej wieży komórkowej na dachu, która mogłaby zapewnić lepszy zasięg telefonów komórkowych i wyeliminować martwe strefy wewnątrz budynków, do których trudno dotrzeć sygnałami z satelitów Starlink.",
-        "Oczekuje się, że te miniwieże telefonii komórkowej wejdą do produkcji w 2027 r., powiedział Musk podczas wywiadu na szczycie DealBook w tym tygodniu.",
-        "„Mamy plan, który umożliwi wszechobecny dostęp na Ziemi, w tym za pośrednictwem telefonu komórkowego” – powiedział Musk, zauważając, że w przyszłym roku firma wystrzeliwuje konstelację satelitów Direct-to-Cell V2, która zwiększy przepustowość 40-krotnie. \"Ale brakuje tu elementu układanki, a mianowicie tego, że jeśli jesteś w pomieszczeniu, zwłaszcza jeśli masz metalowy dach, blokuje to sygnał z kosmosu. Dlatego potrzebujemy czegoś naziemnego, co poradzi sobie w sytuacjach, w których ludzie przebywają, no wiesz, w budynku z grubym dachem. \"",
-        "Wysiłki firmy początkowo skupiały się na zakupie widma bezprzewodowego po otrzymaniu w 2024 r. zgody Federalnej Komisji Łączności na kontynuację planów zaoferowania bezpośredniej wersji usługi Internetu satelitarnego Starlink we współpracy z T-Mobile. SpaceX zawarło w 2025 r. umowę o wartości 17 miliardów dolarów z EchoStar i zgodziło się w tym roku na zakup portfela widma dolnopasmowego o wartości 8 miliardów dolarów."
+        "Przy podwyższonej cenie IPO wynoszącej 83 dolarów za akcję, każdy z siedmiu założycieli Anthropic zarobił po 280 milionów dolarów, podczas gdy sama firma zarobiła prawie 105 miliardów dolarów.",
+        "Siedmiu założycieli Anthropic wypłaciło prawie 2 miliardy dolarów w ramach rekordowej pierwszej oferty publicznej. Julie Bort 16:43 PST · 19 listopada 2026 r. Anthropic stała się w czwartek spółką publiczną, pozyskując łącznie 81,3 miliarda dolarów, w tym 1,95 miliarda dolarów dla siedmiu założycieli. Jak już informowaliśmy, każdy z nich zgromadził po około 3,4 mln akcji, aby sprzedać je w ramach IPO.",
+        "Przy podwyższonej cenie IPO wynoszącej 83 dolary za akcję oznacza to, że każda ze spółek zainkasowała około 280 milionów dolarów przed uwzględnieniem opłat ubezpieczeniowych i podatków. Wyglądało na to, że obliczyli liczbę akcji, które planowali sprzedać, aby dać im około 250 milionów dolarów, jeśli akcje osiągną poziom 74 dolarów. Była to średnia cena z pierwotnego przedziału cenowego Anthropic. To więc fajne 30 milionów dolarów więcej dla każdego z nich, niż być może chcieli.",
+        "Anthropic w swoich zgłoszeniach do IPO sugerował jednak, że założyciele nie są w tym całkowicie zaangażowani dla pieniędzy. Firma podała, że ​​każdy z założycieli zobowiązał się przeznaczyć 80% swojego kapitału osobistego w spółce na działalność filantropijną.",
+        "Jeśli jednak któremukolwiek z nich będzie trudno przeżyć za ćwierć miliarda, może ograniczyć swoje zobowiązania charytatywne. Firma podkreśla, że ​​zobowiązania te stanowią „dobrowolny i odwołalny wyraz filantropijnych zamiarów każdego współzałożyciela i nie stanowią prawnie wiążących zobowiązań”."
       ]
     },
     {
-      "id": "tech-4-ef76f8",
+      "id": "tech-6-b80660",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Chcesz zobaczyć na żywo wykorzystanie sztucznej inteligencji na ikonach komputera Mac? Ta nowa, sprytna aplikacja Ci na to pozwala",
-      "original_title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "title": "Antropiczny rywal twierdzi, że firmy mogą (w większości) pominąć drogie modele",
+      "original_title": "Anthropic rival says companies can (mostly) skip the pricey models",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:33",
+      "time": "00:26",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-12.43.24-AM.png?resize=1200,601",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "IconSwapper ożywia ikony aplikacji na komputerze Mac dzięki danym w czasie rzeczywistym, animacjom i zabawnym modyfikacjom, dzięki którym korzystanie z pulpitu będzie przyjemniejsze.",
-        "Chcesz zobaczyć na żywo wykorzystanie sztucznej inteligencji na ikonach komputera Mac?",
-        "Dzięki tej nowej, sprytnej aplikacji Sarah Perez 14:33 PST · 19 listopada 2026 r. Istnieje nowy sposób kontrolowania wykorzystania sztucznej inteligencji i resetowania limitów: za pomocą ikon aplikacji na komputerze Mac."
+        "W dniu wejścia Anthropic na giełdę współzałożyciel Fireworks AI przedstawił argumenty za modelami open source jako tańszą alternatywą i odniósł się do naruszeń, które kosztowały firmę zaufanie części klientów.",
+        "Rywal Anthropic twierdzi, że firmy mogą (w większości) pominąć drogie modele Connie Loizos 16:26 PST · 19 listopada 2026 r. Tego samego dnia, w którym Anthropic wszedł na giełdę podczas największej w historii oferty publicznej, przy ogromnym entuzjazmie inwestorów dla laboratorium sztucznej inteligencji, daleko od konferencji startupów Slush w Helsinkach, tematem dnia było wszystko na temat oprogramowania open source.",
+        "To ogromna szansa, którą wykorzystują firmy takie jak Fireworks AI, ponieważ przedsiębiorstwa szukają sposobów na uniknięcie płacenia kosmicznych cen za swoje potrzeby w zakresie sztucznej inteligencji."
       ],
       "extended_paragraphs": [
-        "IconSwapper ożywia ikony aplikacji na komputerze Mac dzięki danym w czasie rzeczywistym, animacjom i zabawnym modyfikacjom, dzięki którym korzystanie z pulpitu będzie przyjemniejsze.",
-        "Chcesz zobaczyć na żywo wykorzystanie sztucznej inteligencji na ikonach komputera Mac? Dzięki tej nowej, sprytnej aplikacji Sarah Perez 14:33 PST · 19 listopada 2026 r. Istnieje nowy sposób kontrolowania wykorzystania sztucznej inteligencji i resetowania limitów: za pomocą ikon aplikacji na komputerze Mac. Tak, naprawdę!",
-        "Projektant Michael Flarup właśnie uruchomił nowe narzędzie dla komputerów Mac o nazwie IconSwapper, które umożliwia zastąpienie oficjalnej ikony dowolnej aplikacji ikoną własnego dzieła. Chociaż możesz używać tego narzędzia do zmiany wyglądu, projektu, cieniowania i innych ikon, jednym z ciekawszych sposobów jego wykorzystania jest zamiana ikon aplikacji AI, takich jak ChatGPT lub Claude, na wersje, które mogą wyświetlać Twoje wykorzystanie AI na żywo.",
-        "Wykonanie tej czynności jest dość proste i nie musisz posiadać wiedzy technicznej, aby to zadziałało. Po zainstalowaniu aplikacji na komputerze Mac wystarczy wybrać, dla której aplikacji chcesz utworzyć „aktywną” ikonę, czyli taką, która reaguje na konkretną aplikację.",
-        "Oprócz śledzenia wykorzystania sztucznej inteligencji w ChatGPT, Claude i Cursor, możesz także tworzyć żywe ikony dla wielu wbudowanych aplikacji Mac, takich jak Wiadomości, Mail, Safari, Finder, Muzyka i innych, takich jak Chrome i Spotify, ale te konfiguracje są zwykle bardziej zabawne niż praktyczne. Na przykład możesz skonfigurować kompas przeglądarki Safari tak, aby śledził ładowanie i pobieranie stron, lub możesz to zrobić tak, aby oczy Findera podążały za kursorem na ekranie. (To jest zabawne!)"
+        "W dniu wejścia Anthropic na giełdę współzałożyciel Fireworks AI przedstawił argumenty za modelami open source jako tańszą alternatywą i odniósł się do naruszeń, które kosztowały firmę zaufanie części klientów.",
+        "Rywal Anthropic twierdzi, że firmy mogą (w większości) pominąć drogie modele Connie Loizos 16:26 PST · 19 listopada 2026 r. Tego samego dnia, w którym Anthropic wszedł na giełdę podczas największej w historii oferty publicznej, przy ogromnym entuzjazmie inwestorów dla laboratorium sztucznej inteligencji, daleko od konferencji startupów Slush w Helsinkach, tematem dnia było wszystko na temat oprogramowania open source.",
+        "To ogromna szansa, którą wykorzystują firmy takie jak Fireworks AI, ponieważ przedsiębiorstwa szukają sposobów na uniknięcie płacenia kosmicznych cen za swoje potrzeby w zakresie sztucznej inteligencji.",
+        "Fireworks obsługuje modele AI dla innych firm. Specjalizuje się w modelach o otwartej wadze, które każdy może pobrać, i pomaga klientom dostroić je na podstawie własnych danych, dzięki czemu działają szybciej i taniej niż modele Anthropic, OpenAI i innych graczy wagi ciężkiej, a także są trudniejsze do skopiowania przez rywali. Do klientów należą Uber, Shopify i Notion. Pod koniec dnia współzałożyciel Chenyu Zhao i ja rozmawialiśmy na scenie.",
+        "Zhao i wielu innych uważa, że ​​firmy skłaniają się ku platformom takim jak jego, ponieważ pionierskie modele są drogie i, jego zdaniem, w większości przypadków niepotrzebne, chyba że potrzebujesz najnowszej i najlepiej uogólnionej inteligencji. Rosną także obawy, że pionierskie laboratoria absorbują zbyt dużo wiedzy swoich klientów, nawet jeśli tylko za pomocą podpowiedzi używanych do uzyskania odpowiedzi, co zaniepokoił w lipcu dyrektor generalny Microsoft, Satya Nadella."
+      ]
+    },
+    {
+      "id": "tech-2-58e50d",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Apple może opracowywać własnego agenta AI obsługującego komputer Mac",
+      "original_title": "Apple may be developing its own AI agent that runs your Mac",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:56",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Wygląda na to, że producent iPhone'a tworzy agenty, które mogą konkurować z takimi firmami jak Meta Muse, Instinct, Claude i OpenAI Dots.",
+        "Apple może opracowywać własnego agenta sztucznej inteligencji obsługującego komputer Mac Lucas Ropek 16:56 czasu PST · 19 listopada 2026 r. Wygląda na to, że Apple pracuje nad własnym agentem sztucznej inteligencji, który będzie przeprowadzał pracę komputera w imieniu użytkowników — w tym między innymi korzystał z aplikacji, uzyskiwał dostęp do stron internetowych i kodował.",
+        "Wiadomość tę pierwotnie podał Bloomberg, który zauważył ogłoszenie o pracę opublikowane niedawno przez producenta iPhone'a dla starszego menedżera ds."
+      ],
+      "extended_paragraphs": [
+        "Wygląda na to, że producent iPhone'a tworzy agenty, które mogą konkurować z takimi firmami jak Meta Muse, Instinct, Claude i OpenAI Dots.",
+        "Apple może opracowywać własnego agenta sztucznej inteligencji obsługującego komputer Mac Lucas Ropek 16:56 czasu PST · 19 listopada 2026 r. Wygląda na to, że Apple pracuje nad własnym agentem sztucznej inteligencji, który będzie przeprowadzał pracę komputera w imieniu użytkowników — w tym między innymi korzystał z aplikacji, uzyskiwał dostęp do stron internetowych i kodował.",
+        "Wiadomość tę pierwotnie podał Bloomberg, który zauważył ogłoszenie o pracę opublikowane niedawno przez producenta iPhone'a dla starszego menedżera ds. inżynierii, którego zadaniem jest nadzorowanie stworzenia „agenta sztucznej inteligencji potrafiącego korzystać z komputera”.",
+        "„Wyobraźcie sobie agenta sztucznej inteligencji, który potrafi korzystać z komputera tak, jak robi to osoba zdolna do działania” – czytamy w ogłoszeniu. \"Przegląda sieć, działa między aplikacjami, uruchamia polecenia, pisze i debuguje kod oraz wywołuje usługi, a na każdym kroku wybiera odpowiednie narzędzie. Robi to wszystko prywatnie i z polskimi oczekiwaniami od Apple.\"",
+        "W poście zauważono dodatkowo, że agenci powinni mieć możliwość „płynnego poruszania się między narzędziami” i „wykonywania wieloetapowych zadań w aplikacjach, przeglądarkach, wierszach poleceń, kodzie i interfejsach API”."
       ]
     },
     {
@@ -1585,65 +1619,34 @@
       ]
     },
     {
-      "id": "tech-6-7a530d",
-      "entity_tag": "Meta Platforms (NASDAQ: META)",
-      "sector": "Big Tech",
+      "id": "tech-7-1fbe71",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Meta Platforms (NASDAQ: META) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Nowe urządzenie Meta Muse Charm może kosztować 300 dolarów",
-      "original_title": "Meta’s new Muse Charm device may cost $300",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:58",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Meta nie zaprzeczyła doniesieniom The Information, stwierdzając jedynie, że „wkrótce będzie miała więcej do powiedzenia” na temat nadchodzącego urządzenia do noszenia ze sztuczną inteligencją.",
-        "Meta planuje pobrać 300 dolarów za Muse Charm, nadchodzące urządzenie AI podobne do Tamagotchi, o którym zapowiadano na firmowym wydarzeniu Connect na początku tego roku, jak podaje The Information.",
-        "Rzecznik Meta, poproszony o komentarz przez TechCrunch, nie zaprzeczył tym twierdzeniom, jedynie przedstawił następujące oświadczenie: „Jesteśmy oczarowani zainteresowaniem naszymi urządzeniami AI i wkrótce będziemy mieli więcej do udostępnienia”."
-      ],
-      "extended_paragraphs": [
-        "Meta nie zaprzeczyła doniesieniom The Information, stwierdzając jedynie, że „wkrótce będzie miała więcej do powiedzenia” na temat nadchodzącego urządzenia do noszenia ze sztuczną inteligencją.",
-        "Meta planuje pobrać 300 dolarów za Muse Charm, nadchodzące urządzenie AI podobne do Tamagotchi, o którym zapowiadano na firmowym wydarzeniu Connect na początku tego roku, jak podaje The Information.",
-        "Rzecznik Meta, poproszony o komentarz przez TechCrunch, nie zaprzeczył tym twierdzeniom, jedynie przedstawił następujące oświadczenie: „Jesteśmy oczarowani zainteresowaniem naszymi urządzeniami AI i wkrótce będziemy mieli więcej do udostępnienia”.",
-        "Jak dotąd Meta stosunkowo skutecznie wkroczyła w konsumencką sztuczną inteligencję, uruchamiając Muse – swojego agenta-pomocnika – wraz z różnymi uroczymi awatarami, których użytkownicy mogą używać, aby nadać systemowi większą osobowość.",
-        "Muse Charm, wprowadzenie firmy na sprzęt AI, pozwoli użytkownikom nosić w kieszeni fizyczną personifikację oprogramowania (lub potencjalnie nosić ją na szyi), rozmawiać z nim, zadawać mu pytania i wydawać polecenia."
-      ]
-    },
-    {
-      "id": "tech-7-b917ed",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "iMac OLED? Na teraz nic z tego",
+      "title": "Samsung szykuje petardę. To będzie rewolucja w nagrywaniu smartfonem",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "20:57",
+      "time": "04:45",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/imac-oled-na-teraz-nic-z-tego",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2024/12/imac-m4-17.jpg",
+      "source_url": "https://antyweb.pl/samsung-szykuje-petarde-to-bedzie-rewolucja-w-nagrywaniu-smartfonem",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/08/samsung-galaxy-z-fold-8-2.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Jeśli wstrzymywaliście się z zakupem tego komputera, bo czekacie na taką propozycję ze strony Apple, możecie śmiało kupować obecny model.",
-        "Wszystko bowiem wskazuje na to, że iMac OLED nie powstanie.",
-        "Jak czytamy w serwisie SamMobile, to, że Apple nie spieszy się z prezentacją nowego modelu swojego komputera, będzie miało przełożenie również na koreańską firmę."
+        "Samsung szykuje się do wprowadzenia funkcji, z których korzystają najlepsze hybrydowe aparaty na rynku.",
+        "Dzięki niej nie będzie trzeba decydować, czy dany materiał wideo ma być nagrany pionowo, czy poziomo.",
+        "Właśnie rozpoczęły się testy wersji beta systemu One UI 9.5."
       ],
       "extended_paragraphs": [
-        "iMac z lepszym ekranem? Jeśli wstrzymywaliście się z zakupem tego komputera, bo czekacie na taką propozycję ze strony Apple, możecie śmiało kupować obecny model. Wszystko bowiem wskazuje na to, że iMac OLED nie powstanie. A przynajmniej nie teraz.",
-        "Jak czytamy w serwisie SamMobile, to, że Apple nie spieszy się z prezentacją nowego modelu swojego komputera, będzie miało przełożenie również na koreańską firmę. Samsung Display musi bowiem poszukać nowego odbiorcy dla produkowanych przez siebie paneli OLED. Co gorsza, Apple może też ograniczyć zamówienia na panele do iPadów Pro. Tablety te z uwagi na wysoką cenę nie sprzedają się tak dobrze, jak chciałby tego ich producent, co dla dostawców komponentów oznacza niższy wolumen zamówień.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Jako że iMac z ekranem OLED na ten moment nie powstanie, zachęcamy do zapoznania się z naszą recenzją obecnego modelu . Być może to ten komputer jest tym, który najlepiej wpisuje się w wasze upodobania."
+        "Samsung szykuje się do wprowadzenia funkcji, z których korzystają najlepsze hybrydowe aparaty na rynku. Dzięki niej nie będzie trzeba decydować, czy dany materiał wideo ma być nagrany pionowo, czy poziomo.",
+        "Właśnie rozpoczęły się testy wersji beta systemu One UI 9.5. Najnowsze oprogramowanie dla smartfonów Samsung trafiło do pierwszych użytkowników. Ci najbardziej wnikliwi i posiadający odpowiednie umiejętności postanowili zajrzeć pod maskę , gdzie dostrzegli zapowiedź ciekawej funkcji. Według nich wraz z finalną wersją One UI 9.5 do użytkowników może trafić funkcja znana z profesjonalnych aparatów hybrydowych, takich jak Lumix S5II. Smartfony Samsung mają nauczyć się nagrywania w trybie Open Gate. A to może być istotna zmiana reguł gry.",
+        "Zacznijmy od tego, czym tak właściwie jest tryb Open Gate. Dzięki jego zastosowaniu podczas nagrywania zapisywany jest obraz z całej matrycy, a nie jedynie wycinek. W praktyce oznacza to, że decyzję o tym, czy ten sam materiał wykorzystamy jako pionowy, czy poziomy, możemy podjąć już po tym, jak zostanie zarejestrowany i zapisany. To samo ujęcie możemy wykorzystać jako rolkę w serwisie Instagram czy TikTok, jak również jako panoramiczny materiał w serwisie YouTube.",
+        "Choć już teraz istnieje oprogramowanie, które pozwala smartfonom na nagrywanie w trybie Open Gate, nie należy do popularnych rozwiązań. Gdy funkcja ta zostanie zintegrowana z aplikacją systemową pochodzącą prosto od producenta smartfona można spodziewać się, że zdobędzie znacznie większą popularność."
       ]
     },
     {
@@ -1668,13 +1671,13 @@
       "summary_points": [
         "Amazon wykorzystuje obecnie swoją platformę zakupową do celów politycznych.",
         "Kiedy loguję się dzisiaj do Amazona, widzę pionowy baner z napisem: „UWAGA Rada Miasta Nowego Jorku może dodać do 5 dolarów za zamówienie” z przyciskiem „Działaj teraz”.",
-        "Jak podaje Bloomberg, wiadomość jest dostarczana w formie wyskakującego okienka użytkownikom aplikacji Amazon."
+        "Widziałem także mniejszą wersję powiadomienia na stronie potwierdzenia zamówienia w witrynie Amazon."
       ],
       "extended_paragraphs": [
         "Amazon wykorzystuje obecnie swoją platformę zakupową do celów politycznych.",
         "Kiedy loguję się dzisiaj do Amazona, widzę pionowy baner z napisem: „UWAGA Rada Miasta Nowego Jorku może dodać do 5 dolarów za zamówienie” z przyciskiem „Działaj teraz”.",
-        "Jak podaje Bloomberg, wiadomość jest dostarczana w formie wyskakującego okienka użytkownikom aplikacji Amazon. Amazon nie określił, czy wiadomości są kierowane do mieszkańców Nowego Jorku na podstawie adresów zapisanych na ich kontach Amazon, czy też korzystają z innych technik, takich jak usługi lokalizacji urządzeń, ale baner widzę tylko wtedy, gdy jestem zalogowany do Amazon.",
-        "Amazon nawiązuje do wprowadzenia 0518-2026 (518), znanego również jako ustawa o ochronie dostaw. Jeśli zostanie uchwalona, ​​Amazon będzie musiał bezpośrednio zatrudniać zewnętrznych dostawców usług, z których korzysta.",
+        "Widziałem także mniejszą wersję powiadomienia na stronie potwierdzenia zamówienia w witrynie Amazon. Jak podaje Bloomberg, wiadomość jest dostarczana w formie wyskakującego okienka użytkownikom aplikacji Amazon. Amazon nie określił, czy wiadomości są kierowane do mieszkańców Nowego Jorku na podstawie adresów zapisanych na ich kontach Amazon, czy też korzystają z innych technik, takich jak usługi lokalizacji urządzeń, ale baner widzę tylko wtedy, gdy jestem zalogowany do Amazon.",
+        "Amazon nawiązuje do wprowadzenia 0518-2026 (518), znanego również jako ustawa o ochronie dostaw. Jeśli zostanie przyjęta, Amazon będzie musiał bezpośrednio zatrudniać zewnętrznych dostawców usług, z których korzysta.",
         "Kliknięcie „Działaj teraz” na stronie głównej Amazon lub w aplikacji powoduje wyświetlenie strony, która umożliwia kupującym skontaktowanie się z członkiem Rady Nowego Jorku i zawiera dalsze informacje:"
       ]
     }
@@ -1713,7 +1716,39 @@
       ]
     },
     {
-      "id": "swiat-2-65d2d9",
+      "id": "swiat-2-be258b",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "BBC rozumie, że Wielka Brytania i UE uzgodnią program mobilności młodzieży",
+      "original_title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "04:35",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Oczekuje się, że program zostanie zatwierdzony na piątkowym szczycie Wielka Brytania-UE, a przedmiotem dyskusji będą również nowe porozumienia dotyczące handlu żywnością i emisji gazów cieplarnianych.",
+        "BBC rozumie, że w ramach nowego programu mobilności młodzieży, który ma zostać uzgodniony w piątek, aż 100 000 młodych ludzi z UE będzie mogło podróżować, pracować i studiować w Wielkiej Brytanii rocznie.",
+        "Ta sama liczba młodych Brytyjczyków zostanie wpuszczona do Europy w ramach programu, który ma zostać zatwierdzony na szczycie Wielka Brytania-UE w Brukseli."
+      ],
+      "extended_paragraphs": [
+        "Oczekuje się, że program zostanie zatwierdzony na piątkowym szczycie Wielka Brytania-UE, a przedmiotem dyskusji będą również nowe porozumienia dotyczące handlu żywnością i emisji gazów cieplarnianych.",
+        "BBC rozumie, że w ramach nowego programu mobilności młodzieży, który ma zostać uzgodniony w piątek, aż 100 000 młodych ludzi z UE będzie mogło podróżować, pracować i studiować w Wielkiej Brytanii rocznie.",
+        "Ta sama liczba młodych Brytyjczyków zostanie wpuszczona do Europy w ramach programu, który ma zostać zatwierdzony na szczycie Wielka Brytania-UE w Brukseli. Downing Street nie komentuje szczegółów, ale twierdzi, że w czwartek rozmowy zostały „doprowadzone do finiszu”.",
+        "Premier powiedział, że może zostać również uchwalony „plan działania dla kanału La Manche” dotyczący imigracji, podczas gdy negocjatorzy dążą do porozumień w sprawie zasad handlu żywnością i cen emisji dwutlenku węgla.",
+        "Lider konserwatystów Kemi Badenoch oskarżył Andy'ego Burnhama o „ponowne otwarcie podziałów” w referendum w sprawie Brexitu."
+      ]
+    },
+    {
+      "id": "swiat-3-65d2d9",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1742,38 +1777,6 @@
         "- Chociaż muszę powiedzieć, że na sali przyjęto je bardzo ostrożnie. Fajnie byłoby (...), gdyby rzeczywiście prędzej czy później okazało się, że Rosja jest gotowa na serio do podjęcia rozmów pokojowych - podkreślił.",
         "Lider Koalicji Obywatelskiej przyznał, że już wielokrotnie słyszał deklaracje ze strony Władimira Putina o chęci zakończenia wojny w Ukrainie, ale nie ma po stronie Rosji żadnych konkretnych ruchów.",
         "- Jeśli chodzi o przyszłość rozmów negocjacyjnych, Europa będzie reprezentowana przez państwa z grupy E5 i instytucje europejskie . Na pewno nie będziemy chcieli rozmawiać o przyszłości Ukrainy bez Ukrainy - wyjaśnił premier, odpowiadając na pytania dotyczące ewentualnych, dalszych rozmów na temat rozwiązania konfliktu."
-      ]
-    },
-    {
-      "id": "swiat-3-98b5c7",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Birma dopuściła się ludobójstwa na mniejszości Rohingya – jest to najważniejsze orzeczenie Trybunału ONZ",
-      "original_title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:07",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Bezprecedensowy wyrok Międzynarodowego Trybunału Sprawiedliwości dotyczy represji wojskowych z 2017 r., w wyniku których zginęło tysiące osób.",
-        "Międzynarodowy Trybunał Sprawiedliwości (MTS) uznał Birmę za winną popełnienia ludobójstwa na mniejszości Rohingya.",
-        "Wyrok ten jest pierwszym w historii orzeczeniem międzynarodowego sądu stwierdzającym, że państwo dopuściło się ludobójstwa."
-      ],
-      "extended_paragraphs": [
-        "Bezprecedensowy wyrok Międzynarodowego Trybunału Sprawiedliwości dotyczy represji wojskowych z 2017 r., w wyniku których zginęło tysiące osób.",
-        "Międzynarodowy Trybunał Sprawiedliwości (MTS) uznał Birmę za winną popełnienia ludobójstwa na mniejszości Rohingya.",
-        "Wyrok ten jest pierwszym w historii orzeczeniem międzynarodowego sądu stwierdzającym, że państwo dopuściło się ludobójstwa.",
-        "Yuji Iwasawa, prezes Sądu Najwyższego ONZ, powiedział, że Birma „miała zamiar zniszczyć” znaczną część populacji Rohingjów i zaangażowała się w „szeroko zakrojone niszczenie dowodów”, aby ukryć swoje zbrodnie.",
-        "W wyniku represji wojskowych w 2017 r. zginęło tysiące Rohingjów, a ponad 700 000 zmusiło do ucieczki z Birmy, zamieszkanej przez większość buddyjską, Birmy. Birma zaprzeczyła stawianym jej zarzutom, twierdząc, że jej siły odpowiedziały na ataki grup zbrojnych."
       ]
     },
     {
@@ -1808,39 +1811,41 @@
       ]
     },
     {
-      "id": "swiat-5-aac095",
-      "entity_tag": "Ropa Naftowa",
-      "sector": "Surowce Energetyczne",
+      "id": "swiat-5-ba8381",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Surowce Energetyczne” (Ropa Naftowa) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Trump, Putin i Xi ogłaszają „deklarację pokojową” po historycznym spotkaniu",
-      "original_title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 1 miliona) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "1 miliona"
+      ],
+      "title": "„Mówię synowi, że to tylko fajerwerki”: rozmawiają mieszkańcy oblężonego jemeńskiego miasta",
+      "original_title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
       "is_foreign": true,
       "lang": "EN",
-      "time": "17:38",
+      "time": "00:13",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Chociaż prezydenci spotykali się już wcześniej na spotkaniach jeden na jednego, jest to ich pierwsza rozmowa trójstronna.",
-        "Podpis pod rysunkiem, Obejrzyj: Co Trump, Xi i Putin wyciągnęli z historycznego spotkania?",
-        "Prezydent USA Donald Trump oraz jego rosyjscy i chińscy odpowiednicy Władimir Putin i Xi Jinping wydali „wspólną deklarację pokojową” w następstwie historycznych rozmów trójstronnych."
+        "Orla Guerin rozmawia z siedmioma osobami uwięzionymi w Taiz przez Houthi, które ujawniają, jak wygląda życie podczas oblężenia.",
+        "W jemeńskim mieście Taiz, otoczonym postrzępionymi górami i bojownikami rebeliantów Houthi, Ashwaq ma tylko jeden sposób, aby uspokoić swoje przestraszone dziecko – kłamstwo.",
+        "„Kiedy mój 11-letni syn słyszy głośny dźwięk, mówię mu: «Nie bój się, to tylko fajerwerki»” – mówi."
       ],
       "extended_paragraphs": [
-        "Chociaż prezydenci spotykali się już wcześniej na spotkaniach jeden na jednego, jest to ich pierwsza rozmowa trójstronna.",
-        "Podpis pod rysunkiem, Obejrzyj: Co Trump, Xi i Putin wyciągnęli z historycznego spotkania?",
-        "Prezydent USA Donald Trump oraz jego rosyjscy i chińscy odpowiednicy Władimir Putin i Xi Jinping wydali „wspólną deklarację pokojową” w następstwie historycznych rozmów trójstronnych.",
-        "Trzej przywódcy spotkali się na 90 minut w południowo-wschodnim mieście Shenzhen w Chinach, na marginesie szczytu Współpracy Gospodarczej Azji i Pacyfiku (APEC).",
-        "Choć prezydenci odbywali już wcześniej spotkania jeden na jednego, to są ich pierwsze rozmowy trójstronne."
+        "Orla Guerin rozmawia z siedmioma osobami uwięzionymi w Taiz przez Houthi, które ujawniają, jak wygląda życie podczas oblężenia.",
+        "W jemeńskim mieście Taiz, otoczonym postrzępionymi górami i bojownikami rebeliantów Houthi, Ashwaq ma tylko jeden sposób, aby uspokoić swoje przestraszone dziecko – kłamstwo.",
+        "„Kiedy mój 11-letni syn słyszy głośny dźwięk, mówię mu: «Nie bój się, to tylko fajerwerki»” – mówi. „Nie chcę, żeby wpadł w panikę, ale w głębi duszy wiem, że jest na tyle dorosły, aby zrozumieć, co się wokół niego dzieje. Przez większość swojego życia przeżył wojnę”.",
+        "W zeszłym miesiącu siły Houthi zacieśniły uścisk, całkowicie otaczając kontrolowane przez rząd miasto, a jego populację szacuje się na od 600 000 do 1 miliona.",
+        "Od tego czasu trzecie co do wielkości miasto Jemenu zostało odcięte od świata, a o jego mieszkańcach w dużej mierze nikt nie słyszał. Dotarliśmy do siedmiu osób w mieście, które nakreśliły anatomię oblężenia."
       ]
     },
     {
-      "id": "swiat-6-341ef6",
+      "id": "swiat-6-98b5c7",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1848,33 +1853,33 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Przywódcy twierdzą, że Europa jest gotowa do rozmów z Rosją w sprawie zakończenia wojny na Ukrainie",
-      "original_title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "title": "Birma dopuściła się ludobójstwa na mniejszości Rohingya – jest to najważniejsze orzeczenie Trybunału ONZ",
+      "original_title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:21",
+      "time": "20:07",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Europejscy sojusznicy Ukrainy twierdzą, że mają „wspólne” stanowisko negocjacyjne na szczycie w Berlinie.",
-        "Źródło zdjęcia, Reuters Autor: Jaroslav Lukiv, Laura Gozzi i Paul Kirby, europejski redaktor cyfrowy Opublikowano 19 listopada 2026 r., 19:16 GMT Zaktualizowano 2 godziny temu Europejscy przywódcy oświadczyli, że są gotowi do negocjacji z Rosją w sprawie zakończenia wojny na Ukrainie, co stanowi mocny wyraz wsparcia dla Kijowa.",
-        "„Europa ma jasne, spójne i zjednoczone stanowisko negocjacyjne” – powiedział premier Wielkiej Brytanii Andy Burnham, a kanclerz Niemiec Friedrich Merz podkreślił, że „maksymalistyczne żądania Moskwy są nierealistyczne”."
+        "Bezprecedensowy wyrok Międzynarodowego Trybunału Sprawiedliwości dotyczy represji wojskowych z 2017 r., w wyniku których zginęło tysiące osób.",
+        "Międzynarodowy Trybunał Sprawiedliwości (MTS) uznał Birmę za winną popełnienia ludobójstwa na mniejszości Rohingya.",
+        "Wyrok ten jest pierwszym w historii orzeczeniem międzynarodowego sądu stwierdzającym, że państwo dopuściło się ludobójstwa."
       ],
       "extended_paragraphs": [
-        "Europejscy sojusznicy Ukrainy twierdzą, że mają „wspólne” stanowisko negocjacyjne na szczycie w Berlinie.",
-        "Źródło zdjęcia, Reuters Autor: Jaroslav Lukiv, Laura Gozzi i Paul Kirby, europejski redaktor cyfrowy Opublikowano 19 listopada 2026 r., 19:16 GMT Zaktualizowano 2 godziny temu Europejscy przywódcy oświadczyli, że są gotowi do negocjacji z Rosją w sprawie zakończenia wojny na Ukrainie, co stanowi mocny wyraz wsparcia dla Kijowa.",
-        "„Europa ma jasne, spójne i zjednoczone stanowisko negocjacyjne” – powiedział premier Wielkiej Brytanii Andy Burnham, a kanclerz Niemiec Friedrich Merz podkreślił, że „maksymalistyczne żądania Moskwy są nierealistyczne”.",
-        "Rozmawiali na berlińskim szczycie sojuszników Ukrainy znanych jako Koalicja Chętnych.",
-        "Zięć Donalda Trumpa, Jared Kushner, jeden z dwóch amerykańskich wysłanników przebywających w Berlinie, powiedział, że amerykański prezydent chce zawrzeć porozumienie z Moskwą „z Europą u swego boku”. Rosyjski Władimir Putin jak dotąd odrzucał jakąkolwiek rolę Europy w rozmowach pokojowych pod przewodnictwem USA."
+        "Bezprecedensowy wyrok Międzynarodowego Trybunału Sprawiedliwości dotyczy represji wojskowych z 2017 r., w wyniku których zginęło tysiące osób.",
+        "Międzynarodowy Trybunał Sprawiedliwości (MTS) uznał Birmę za winną popełnienia ludobójstwa na mniejszości Rohingya.",
+        "Wyrok ten jest pierwszym w historii orzeczeniem międzynarodowego sądu stwierdzającym, że państwo dopuściło się ludobójstwa.",
+        "Yuji Iwasawa, president of the UN's top court, said Myanmar had the \"intention to destroy\" a substantial part of the Rohingya population and engaged in \"extensive destruction of evidence\" to hide its crimes.",
+        "A military crackdown in 2017 killed thousands of Rohingya and forced more than 700,000 to flee Buddhist-majority Myanmar, formerly known as Burma. Birma zaprzeczyła stawianym jej zarzutom, twierdząc, że jej siły odpowiedziały na ataki grup zbrojnych."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-5-c728a5",
+      "id": "sport-1-8f5a90",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1882,58 +1887,26 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Transferowa karuzela nabiera tempa. W czwartek kluby nie próżnowały",
+      "title": "Adam Małysz: Kacper Tomasiak? Może więcej osiągnąć niż Kamil i ja",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:59",
+      "time": "04:30",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/zuzel/1284850/transferowa-karuzela-nabiera-tempa-w-czwartek-kluby-nie-proznowaly",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a6798cc389f42_11005945.jpg",
+      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1284969/adam-malysz-kacper-tomasiak-moze-wiecej-osiagnac-niz-kamil-i-ja",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6afec7a6a400a1_92540823.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Czwarty dzień żużlowego okienka transferowego przyniósł kolejne ważne rozstrzygnięcia.",
-        "Nie zabrakło głośnych nazwisk, powrotów, przedłużeń kontraktów i zmian na kluczowych stanowiskach.",
-        "Skomentuj Czwarty dzień żużlowego okienka transferowego przyniósł kolejne ważne rozstrzygnięcia."
+        "Adam Małysz poszedł na trening polskich skoczków przed ich wylotem do Lillehammer.",
+        "- Po tym, co zobaczyłem, jestem optymistą - nie ukrywa Adam Małysz.",
+        "Skomentuj Adam Małysz poszedł na trening polskich skoczków przed ich wylotem do Lillehammer."
       ],
       "extended_paragraphs": [
-        "Czwarty dzień żużlowego okienka transferowego przyniósł kolejne ważne rozstrzygnięcia. Nie zabrakło głośnych nazwisk, powrotów, przedłużeń kontraktów i zmian na kluczowych stanowiskach.",
-        "Skomentuj Czwarty dzień żużlowego okienka transferowego przyniósł kolejne ważne rozstrzygnięcia. Nie zabrakło głośnych nazwisk, powrotów, przedłużeń kontraktów i zmian na kluczowych stanowiskach.",
-        "Czwarty dzień okienka transferowego rozpoczęliśmy dość wcześnie, bo już z samego rana Abramczyk Polonia Bydgoszcz oficjalnie potwierdziła to, co nie było dużą niespodzianką - Szymon Woźniak w przyszłym roku będzie reprezentował ekipę beniaminka PGE Ekstraligi .",
-        "I nie było to jedyne ogłoszenie Gryfów tego dnia. Później \"na papierze\" do Woźniaka dołączyli Maksymilian Pawełczak oraz Krzysztof Buczkowski , którzy dołączyli do Maxa Fricke'a.",
-        "ZOBACZ WIDEO: Koszmarny wypadek mistrza Polski. Walka o powrót do zdrowia kosztuje fortunę"
-      ]
-    },
-    {
-      "id": "sport-1-1a01b0",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Niespodzianka! Debiutanci wyrzucili z ATP Finals obrońców tytułu",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:45",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1284996/niespodzianka-debiutanci-wyrzucili-z-atp-finals-obroncow-tytulu",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff7308b144f6_93144600.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Najwyżej rozstawiona para Harri Heliovaara i Henry Patten nie powtórzy zeszłorocznego triumfu w ATP Finals.",
-        "W decydującym o awansie do półfinału spotkaniu Fin i Brytyjczyk przegrali z francuskim duetem Theo Arribage i Albano Olivetti.",
-        "Skomentuj Najwyżej rozstawiona para Harri Heliovaara i Henry Patten nie powtórzy zeszłorocznego triumfu w ATP Finals."
-      ],
-      "extended_paragraphs": [
-        "Najwyżej rozstawiona para Harri Heliovaara i Henry Patten nie powtórzy zeszłorocznego triumfu w ATP Finals. W decydującym o awansie do półfinału spotkaniu Fin i Brytyjczyk przegrali z francuskim duetem Theo Arribage i Albano Olivetti.",
-        "Skomentuj Najwyżej rozstawiona para Harri Heliovaara i Henry Patten nie powtórzy zeszłorocznego triumfu w ATP Finals. W decydującym o awansie do półfinału spotkaniu Fin i Brytyjczyk przegrali z francuskim duetem Theo Arribage i Albano Olivetti.",
-        "W czwartkowej sesji wieczornej w Turynie zapadły ostateczne rozstrzygnięcia w grupie A turnieju debla, nazwanej na cześć Todda Woodbridge'a. Oznaczeni szóstym numerem Theo Arribage i Albano Olivetti wygrali mecz o drugie miejsce, pokonując najwyżej rozstawioną parę Harri Heliovaara i Henry Patten 7:6(5), 7:6(3).",
-        "Obrońcy tytułu mieli swoje problemy. Patten narzekał na chorobę. Francuzi wykorzystali swoją wielką szansę i pokonali faworyzowaną fińsko-brytyjską parę, która już wcześniej zapewniła sobie pierwsze miejsce na koniec roku.",
+        "Adam Małysz poszedł na trening polskich skoczków przed ich wylotem do Lillehammer. Wniosek? - Po tym, co zobaczyłem, jestem optymistą - nie ukrywa Adam Małysz.",
+        "Skomentuj Adam Małysz poszedł na trening polskich skoczków przed ich wylotem do Lillehammer. Wniosek? - Po tym, co zobaczyłem, jestem optymistą - nie ukrywa Adam Małysz.",
+        "Podczas ostatniego międzynarodowego sprawdzianu polscy skoczkowie wypadli całkiem nieźle. Kacper Joniak w konkursie Letniego Grand Prix w Klingenthal zajął trzecie miejsce, natomiast Kacper Tomasiak siódme. Zawody jednak odbyły się miesiąc temu, a lato rzadko przekłada się na formę zimową. Czego możemy spodziewać się po polskich skoczkach w nowym sezonie, który startuje już w piątek?",
+        "Na to pytanie próbuje odpowiedzieć Adam Małysz. Czterokrotny medalista olimpijski, czterokrotny mistrz świata i czterokrotny zdobywca Kryształowej Kuli nie pracuje już na stanowisku prezesa Polskiego Związku Narciarskiego, ale był obecny na ostatnim treningu polskich skoczków. Ma więc aktualną widzę dotyczącą stanu kadry. Choć, jak twierdzi, tajemniczy spór z Apoloniuszem Tajnerem, nowym-starym prezesem, trwa.",
         "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
       ]
     },
@@ -1958,47 +1931,47 @@
       "lead_story": false,
       "summary_points": [
         "Kultura, obrona i Bruno Fernandes – kluczowe kwestie, przed którymi staje Mauricio Pochettino, gdy obejmuje stanowisko menadżera Manchesteru United.",
-        "Reporter Manchesteru United Opublikowano 8 godzin temu „Musimy znaleźć sposób na wyrobienie w sobie najlepszych nawyków i kultury, które przybliżą nas do zwycięstwa w każdym meczu”.",
-        "Mauricio Pochettino wykorzystał swój pierwszy wywiad w roli głównego trenera Manchesteru United do przedstawienia swojej wizji klubu."
+        "Reporter Manchesteru United Opublikowano 19 listopada 2026 r. „Musimy znaleźć sposób na wyrobienie w sobie najlepszych nawyków i kultury, które przybliżą nas do zwycięstwa w każdym meczu”.",
+        "Mauricio Pochettino wykorzystał swój pierwszy wywiad w roli głównego trenera Manchesteru United do nakreślenia swojej wizji klubu."
       ],
       "extended_paragraphs": [
         "Kultura, obrona i Bruno Fernandes – kluczowe kwestie, przed którymi staje Mauricio Pochettino, gdy obejmuje stanowisko menadżera Manchesteru United.",
-        "Reporter Manchesteru United Opublikowano 8 godzin temu „Musimy znaleźć sposób na wyrobienie w sobie najlepszych nawyków i kultury, które przybliżą nas do zwycięstwa w każdym meczu”.",
-        "Mauricio Pochettino wykorzystał swój pierwszy wywiad w roli głównego trenera Manchesteru United do przedstawienia swojej wizji klubu.",
+        "Reporter Manchesteru United Opublikowano 19 listopada 2026 r. „Musimy znaleźć sposób na wyrobienie w sobie najlepszych nawyków i kultury, które przybliżą nas do zwycięstwa w każdym meczu”.",
+        "Mauricio Pochettino wykorzystał swój pierwszy wywiad w roli głównego trenera Manchesteru United do nakreślenia swojej wizji klubu.",
         "Były menadżer Tottenhamu, Paris St-Germain i Chelsea nie tracił czasu na przeprawę przez Ocean Atlantycki po zakończeniu we wtorek swojej kadencji zarządzającej Stanami Zjednoczonymi.",
         "W środę spotkał się z kluczowym personelem, w czwartek po raz pierwszy wziął udział w szkoleniu, a w piątek poprowadzi swoją pierwszą szerszą konferencję medialną na poligonie United w Carrington."
       ]
     },
     {
-      "id": "sport-3-2c7c6b",
+      "id": "sport-3-35a833",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Przesadził? Porównał młodego piłkarza do Maradony i Messiego",
+      "title": "Ryan Douglas i Max Fricke mają być liderami. Pełny skład drużyny potwierdzony",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:12",
+      "time": "04:00",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285112/przesadzil-porownal-mlodego-pilkarza-do-maradony-i-messiego",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff7421272638_08987091.jpg",
+      "source_url": "https://sportowefakty.wp.pl/zuzel/1285095/ryan-douglas-i-max-fricke-maja-byc-liderami-pelny-sklad-druzyny-potwierdzony",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aa6251fafbe10_55795387.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Juan Sebastian Veron nie ma wątpliwości, że Nico Paz dysponuje wyjątkowymi umiejętnościami.",
-        "Były reprezentant Argentyny dostrzega w piłkarzu Como cechy, które wcześniej podziwiał u Lionela Messiego i Diego Maradony.",
-        "Skomentuj Juan Sebastian Veron nie ma wątpliwości, że Nico Paz dysponuje wyjątkowymi umiejętnościami."
+        "Trwa przerwa między sezonami, a kluby przygotowują się do kolejnych rozgrywek kompletując zestawienia.",
+        "Nie inaczej jest na Wyspach Brytyjskich, gdzie barw jednego zespołu w 2027 roku mają bronić Ryan Douglas i Max Fricke.",
+        "Skomentuj Trwa przerwa między sezonami, a kluby przygotowują się do kolejnych rozgrywek kompletując zestawienia."
       ],
       "extended_paragraphs": [
-        "Juan Sebastian Veron nie ma wątpliwości, że Nico Paz dysponuje wyjątkowymi umiejętnościami. Były reprezentant Argentyny dostrzega w piłkarzu Como cechy, które wcześniej podziwiał u Lionela Messiego i Diego Maradony.",
-        "Skomentuj Juan Sebastian Veron nie ma wątpliwości, że Nico Paz dysponuje wyjątkowymi umiejętnościami. Były reprezentant Argentyny dostrzega w piłkarzu Como cechy, które wcześniej podziwiał u Lionela Messiego i Diego Maradony.",
-        "Juan Sebastian Veron w rozmowie z włoskim dziennikiem \"La Gazzetta dello Sport\" podzielił się opinią na temat Nico Paza . Były pomocnik reprezentacji Argentyny , a obecnie prezydent Estudiantes La Plata , jest pod dużym wrażeniem możliwości 22-letniego zawodnika Como 1907 . Jego zdaniem młody piłkarz ma predyspozycje, by w przyszłości osiągnąć poziom największych legend argentyńskiego futbolu.",
-        "- W wieku 22 lat robi rzeczy, które widziałem tylko u Messiego i Diego Maradony - powiedział Juan Sebastian Veron. Zastrzegł jednak, że nie przesądza, czy Paz rzeczywiście zapisze się w historii futbolu na miarę tych dwóch zawodników.",
-        "Wśród największych atutów pomocnika Como wymienił jego osobowość, naturalność w rozgrywaniu akcji oraz umiejętność kontrolowania tempa spotkania. Zwrócił również uwagę, że koledzy z drużyny chętnie szukają go podaniem nawet wtedy, gdy znajduje się pod presją rywali. Veron określił go jako bardziej ofensywną wersję samego siebie, przesuniętą o 20 metrów bliżej bramki."
+        "Trwa przerwa między sezonami, a kluby przygotowują się do kolejnych rozgrywek kompletując zestawienia. Nie inaczej jest na Wyspach Brytyjskich, gdzie barw jednego zespołu w 2027 roku mają bronić Ryan Douglas i Max Fricke.",
+        "Skomentuj Trwa przerwa między sezonami, a kluby przygotowują się do kolejnych rozgrywek kompletując zestawienia. Nie inaczej jest na Wyspach Brytyjskich, gdzie barw jednego zespołu w 2027 roku mają bronić Ryan Douglas i Max Fricke.",
+        "Mowa tu o Leicester Lions , którzy tegoroczną kampanię w rozgrywkach SGB Premiership zakończyli na półfinałach, choć do awansu do wielkiego finału zabrakło im naprawdę niewiele. Po porażce na wyjeździe z Sheffield Tigers 33:57 \"Lwy\" przed własną publicznością były w stanie odrobić te straty, jednak przegrały tzw. \"super wyścig\" w stosunku 3:6.",
+        "Co ciekawe w tym decydującym biegu zwyciężył Max Fricke przed Ryanem Douglasem , a ten pierwszy w zakończonym niedawno sezonie bronił właśnie barw \"Tygrysów\" z Sheffield. Teraz obaj mają być liderami ekipy z Leicester, która będzie chciała powalczyć w sezonie 2027 o poprawienie tegorocznego osiągnięcia.",
+        "ZOBACZ WIDEO Koszmarny wypadek mistrza Polski. Walka o powrót do zdrowia kosztuje fortunę"
       ]
     },
     {
@@ -2022,19 +1995,115 @@
       "lead_story": false,
       "summary_points": [
         "Pierwsza sesja treningowa Mauricio Pochettino w Manchesterze United została sfilmowana przez kibica za pomocą drona spoza poligonu klubowego w Carrington.",
-        "Reporter Manchesteru United Opublikowano 4 godziny temu Kibice Manchesteru United zyskali wyjątkowy i nieoczekiwany wgląd w pierwszą sesję treningową Mauricio Pochettino po nagraniu materiału przez drona przelatującego obok poligonu klubu w Carrington.",
+        "Reporter Manchesteru United Opublikowano 9 godzin temu Kibice Manchesteru United zyskali wyjątkowy i nieoczekiwany wgląd w pierwszą sesję treningową Mauricio Pochettino po tym, jak materiał został zarejestrowany przez drona przelatującego obok poligonu klubu w Carrington.",
         "Dwanaście minut sesji zostało sfilmowanych przez operatora drona i przesłane na YouTube."
       ],
       "extended_paragraphs": [
         "Pierwsza sesja treningowa Mauricio Pochettino w Manchesterze United została sfilmowana przez kibica za pomocą drona spoza poligonu klubowego w Carrington.",
-        "Reporter Manchesteru United Opublikowano 4 godziny temu Kibice Manchesteru United zyskali wyjątkowy i nieoczekiwany wgląd w pierwszą sesję treningową Mauricio Pochettino po nagraniu materiału przez drona przelatującego obok poligonu klubu w Carrington.",
+        "Reporter Manchesteru United Opublikowano 9 godzin temu Kibice Manchesteru United zyskali wyjątkowy i nieoczekiwany wgląd w pierwszą sesję treningową Mauricio Pochettino po tym, jak materiał został zarejestrowany przez drona przelatującego obok poligonu klubu w Carrington.",
         "Dwanaście minut sesji zostało sfilmowanych przez operatora drona i przesłane na YouTube.",
         "Pochettino i jego zawodnicy podzieleni na trzy grupy są wyraźnie widoczni, a sesja jest sfilmowana pod różnymi kątami i z różnych odległości.",
         "„Dla osób pytających o legalność. To nieograniczona przestrzeń powietrzna, co oznacza, że ​​każdy może nad nią latać” – powiedział operator drona."
       ]
     },
     {
-      "id": "sport-6-eda4ac",
+      "id": "sport-5-c4a268",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Wisła i Industria pod kreską. Oto tabele Ligi Mistrzów",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "03:15",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-reczna/1285118/wisla-i-industria-pod-kreska-oto-tabele-ligi-mistrzow",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6affbb4e4a1548_74867612.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Orlen Wisła Płock i Industria Kielce są na piątych miejscach w swoich grupach po inauguracji rundy głównej Ligi Mistrzów.",
+        "Przed polskimi klubami wyjazdy do Paryża i Bukaresztu.",
+        "Skomentuj Orlen Wisła Płock i Industria Kielce są na piątych miejscach w swoich grupach po inauguracji rundy głównej Ligi Mistrzów."
+      ],
+      "extended_paragraphs": [
+        "Orlen Wisła Płock i Industria Kielce są na piątych miejscach w swoich grupach po inauguracji rundy głównej Ligi Mistrzów. Przed polskimi klubami wyjazdy do Paryża i Bukaresztu.",
+        "Skomentuj Orlen Wisła Płock i Industria Kielce są na piątych miejscach w swoich grupach po inauguracji rundy głównej Ligi Mistrzów. Przed polskimi klubami wyjazdy do Paryża i Bukaresztu.",
+        "Orlen Wisła rozpoczęła rundę główną Ligi Mistrzów od porażki z Veszprem HC . W środę (18 listopada) Płocczanie prowadzili do przerwy 17:14, ale ostatecznie przegrali przed własną publicznością 26:30. Węgrzy odwrócili losy spotkania w ostatnim kwadransie.",
+        "\"Nafciarze\" zakończyli pierwszą fazę na czele grupy B, choć jeszcze przed ostatnią kolejką nie byli pewni awansu. Do następnego etapu przenieśli jednak tylko dwa punkty za zwycięstwo 25:24 z MT Melsungen. W rewanżu ulegli Niemcom 26:28, dlatego przy identycznym dorobku są klasyfikowani za nimi. Wisła zajmuje obecnie piąte miejsce w grupie pierwszej.",
+        "ZOBACZ WIDEO: Tak wyglądają groby polskich mistrzów sportu. Odwiedziliśmy warszawskie Powązki"
+      ]
+    },
+    {
+      "id": "sport-6-baa19c",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Arsenal „ma składniki”, ale europejska elita to inny poziom",
+      "original_title": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:57",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Po trudnej porażce z francuskim gigantem Lyonem Arsenal pokazał, jaką lukę musi pokonać, aby walczyć o Ligę Mistrzów.",
+        "Źródło zdjęcia, PA Media Tytuł zdjęcia, bramkarz Arsenalu Misa Rodriguez obronił sześć razy, ale dwukrotnie został pokonany w porażce z Lyonem Reporterka BBC Sport dotycząca kobiecej piłki nożnej w Meadow Park Opublikowano 4 godziny temu Minęło zaledwie 18 miesięcy, odkąd Arsenal zasmakował europejskiej chwały, a mimo to nie znajduje się na liście faworytów tegorocznej Ligi Mistrzów Kobiet.",
+        "Dzieje się tak dlatego, że nie tylko Kanonierzy zawiedli się w pierwszych 15 meczach sezonu, ale także wydaje się, że elitarne drużyny w Europie wspięły się na wyższy poziom."
+      ],
+      "extended_paragraphs": [
+        "Po trudnej porażce z francuskim gigantem Lyonem Arsenal pokazał, jaką lukę musi pokonać, aby walczyć o Ligę Mistrzów.",
+        "Źródło zdjęcia, PA Media Tytuł zdjęcia, bramkarz Arsenalu Misa Rodriguez obronił sześć razy, ale dwukrotnie został pokonany w porażce z Lyonem",
+        "Reporterka BBC Sport dotycząca kobiecej piłki nożnej w Meadow Park Opublikowano 4 godziny temu Minęło zaledwie 18 miesięcy, odkąd Arsenal zasmakował europejskiej chwały, a mimo to nie znajduje się na liście faworytów tegorocznej Ligi Mistrzów Kobiet.",
+        "Dzieje się tak dlatego, że nie tylko Kanonierzy zawiedli się w pierwszych 15 meczach sezonu, ale także wydaje się, że elitarne drużyny w Europie wspięły się na wyższy poziom.",
+        "W ciągu siedmiu dni Arsenal był świadkiem na własne oczy, czego potrzeba, aby osiągnąć takie wyżyny i jaką przepaść muszą pokonać."
+      ]
+    },
+    {
+      "id": "sport-7-b5c5ff",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Problem poważniejszy niż sądzono. Jannik Sinner stoi przed dylematem",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "03:07",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1285113/problem-powazniejszy-niz-sadzono-jannik-sinner-stoi-przed-dylematem",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/65aaa2d5347d57_15879460.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Jannik Sinner ciągle zmaga się z kontuzją kolana.",
+        "Według najnowszych informacji problem jest na tyle poważny, że wymaga operacji.",
+        "Włoch jednak nie chce o tym słyszeć i szuka alternatywnych metod."
+      ],
+      "extended_paragraphs": [
+        "Jannik Sinner ciągle zmaga się z kontuzją kolana. Według najnowszych informacji problem jest na tyle poważny, że wymaga operacji. Włoch jednak nie chce o tym słyszeć i szuka alternatywnych metod.",
+        "Skomentuj Jannik Sinner ciągle zmaga się z kontuzją kolana. Według najnowszych informacji problem jest na tyle poważny, że wymaga operacji. Włoch jednak nie chce o tym słyszeć i szuka alternatywnych metod.",
+        "Z powodu kontuzji prawego kolana Jannik Sinner nie występuje od Wimbledonu, gdzie w finale pokonał Alexandra Zvereva . I wciąż nie wiadomo, kiedy wróci do gry. Absencja, która początkowo miała trwać kilka tygodni, przeciągnęła się do czterech miesięcy. A może być jeszcze dłuższa.",
+        "Wiadomości, jakie napływają z Włoch, nie są bowiem optymistyczne. Dziennik \"Quotidiano\" poinformował, że poza stanem zapalnym Sinner zmaga się także z problemem z łąkotką.",
+        "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
+      ]
+    },
+    {
+      "id": "sport-8-eda4ac",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2063,70 +2132,6 @@
         "Po przewadze 4:0 i 9:7, drużyna z drugiego rozstawienia podjęła walkę w decydującym meczu i miała przewagę w postaci rzutu jako pierwsza.",
         "Ale jego kolega z Anglii, Sykes, był niewzruszony, szybko przejął kontrolę nad nogą, a kiedy Humphriesowi nie udało się zdobyć podwójnej 10 przy 128 bramkach i zapewnić sobie zwycięstwo, zawodnik z numerem 81 na świecie bez nerwów uderzył podwójną 18, zapewniając sobie miejsce w swoim pierwszym dużym ćwierćfinale.",
         "„To niewiarygodne” – powiedział Sky Sports 34-letni Sykes. „Luke wypuścił mnie kilka razy w pierwszym fragmencie, ale wystartowałem naprawdę dobrze."
-      ]
-    },
-    {
-      "id": "sport-7-4c7b39",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Pokazali statystyki. Bednarek w ścisłej czołówce",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:55",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285100/pokazali-statystyki-bednarek-w-scislej-czolowce",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6aff71065a8fc5_14418296.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Brytyjski portal Squawka podsumował fazę grupową Ligi Narodów UEFA, prezentując statystyki indywidualne.",
-        "Wśród najlepszych zawodników w walce o górną piłkę znalazł się Jan Bednarek.",
-        "Wyróżnili się także m.in. Wiktor Nowak i Nicola Zalewski."
-      ],
-      "extended_paragraphs": [
-        "Brytyjski portal Squawka podsumował fazę grupową Ligi Narodów UEFA, prezentując statystyki indywidualne. Wśród najlepszych zawodników w walce o górną piłkę znalazł się Jan Bednarek. Wyróżnili się także m.in. Wiktor Nowak i Nicola Zalewski.",
-        "Skomentuj Brytyjski portal Squawka podsumował fazę grupową Ligi Narodów UEFA, prezentując statystyki indywidualne. Wśród najlepszych zawodników w walce o górną piłkę znalazł się Jan Bednarek. Wyróżnili się także m.in. Wiktor Nowak i Nicola Zalewski.",
-        "Reprezentacja Polski spisała się poniżej oczekiwań w Lidze Narodów UEFA 2026/27. Podopieczni Jana Urbana zakończyli rywalizację w grupie 4 Dywizji B na trzecim miejscu - za Szwecją oraz Bośnią i Hercegowiną, wyprzedzając jedynie Rumunię.",
-        "W sześciu meczach Polacy odnieśli tylko jedno zwycięstwo (6:0 u siebie z Rumunią). Trzy mecze przegrali (wszystkie wyjazdowe), zaś dwa zremisowali.",
-        "Choć nie udało się powalczyć o awans do Dywizji A, to kilku zawodników reprezentacji Polski uplasowało się wysoko w indywidualnych zestawieniach, które zaprezentował brytyjski portal Squawka."
-      ]
-    },
-    {
-      "id": "sport-8-e9f615",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Kapitan Cumminsa w Australii na rozdrożu – Agnew",
-      "original_title": "Cummins' Australia captaincy at a crossroads - Agnew",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:57",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/36a4/live/68bb4050-e41e-11f1-99b6-a35a62fa4264.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Jonathan Agnew mówi, że nie może sobie wyobrazić, jak Pat Cummins może poprowadzić Australię do przyszłorocznego letniego serialu Ashes w Anglii, po najnowszych wydarzeniach związanych ze skandalem Sandpapergate.",
-        "Główny komentator krykieta Opublikowano 8 godzin temu Kapitan Australii Pat Cummins, podobnie jak jego koledzy z meloników, znajduje się obecnie w oku burzy Sandpapergate.",
-        "Powód jest dla mnie prosty."
-      ],
-      "extended_paragraphs": [
-        "Jonathan Agnew mówi, że nie może sobie wyobrazić, jak Pat Cummins może poprowadzić Australię do przyszłorocznego letniego serialu Ashes w Anglii, po najnowszych wydarzeniach związanych ze skandalem Sandpapergate.",
-        "Główny komentator krykieta Opublikowano 8 godzin temu Kapitan Australii Pat Cummins, podobnie jak jego koledzy z meloników, znajduje się obecnie w oku burzy Sandpapergate.",
-        "Powód jest dla mnie prosty. Sam pogląd, że Cameron Bancroft – najbardziej niedoświadczony odbijający w ówczesnej australijskiej drużynie – użyłby papieru ściernego na piłce przeciwko Republice Południowej Afryki bez wiedzy meloników, nigdy nie miał sensu.",
-        "Mnie, jako byłemu melonikowi, nigdy nie wydawało się w najmniejszym stopniu prawdopodobne, że melonicy nie wiedzieli, co działo się w Kapsztadzie w 2018 roku. To po prostu nie wydaje się możliwe.",
-        "Powiedzmy sobie jasno – tak długo, jak istniał krykiet, istniało manipulowanie piłką. Nie ma co się ukrywać przed faktem."
       ]
     }
   ],
@@ -2335,7 +2340,7 @@
         "Oczekuje się, że w czwartek prezydent USA Donald Trump, prezydent Chin Xi Jinping i prezydent Rosji Władimir Putin odbędą rzadkie spotkanie trójstronne.",
         "SHENZHEN, Chiny – Dla mnie, Amerykanina, była to podróż do Chin, aby po raz pierwszy osobiście spotkać się z prezydentem USA Donaldem Trumpem.",
         "Trump wyłonił się z grupy otaczających go ubranych na czarno fotografów i innego personelu podczas bankietu powitalnego w Shenzhen z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku, które odbyło się w dniach 17–19 listopada.",
-        "Zaledwie kilka miejsc po jego lewej stronie siedział prezydent Rosji Władimir Putin, który sięgnął po kieliszek czerwonego wina, aby dołączyć do toastu prowadzonego przez prezydenta Chin Xi Jinpinga.",
+        "Zaledwie kilka miejsc po jego lewej stronie siedział prezydent Rosji Władimir Putin, który wziął kieliszek czerwonego wina, aby dołączyć do toastu prowadzonego przez prezydenta Chin Xi Jinpinga.",
         "„Na jutrzejszym spotkaniu przywódców omówimy środki mające na celu poszerzenie wzajemnego otwarcia, zbadamy ścieżki wzrostu opartego na innowacjach i określimy możliwości rozszerzenia praktycznej współpracy na różne dziedziny, tak aby przełożyć więcej inicjatyw na wymierne rezultaty” – powiedział Xi w języku mandaryńskim, według tłumaczenia CNBC."
       ]
     },
@@ -2352,10 +2357,10 @@
       "original_title": "Gap names new Athleta CEO, lowers full-year guidance",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:22",
+      "time": "23:54",
       "source": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1794421646&amp;w=1920&amp;h=1080",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1795132423&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [

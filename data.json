@@ -2,11 +2,11 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.324",
-    "last_updated": "2026-11-20 21:37",
+    "edition": "#2026.325",
+    "last_updated": "2026-11-21 02:54",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 18,
-    "foreign_translated_count": 20,
+    "foreign_translated_count": 18,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$58,613",
-      "change": "-4.64%",
+      "price": "$58,573",
+      "change": "-5.21%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,610",
-      "change": "-7.47%",
+      "price": "$1,617",
+      "change": "-6.93%",
       "is_positive": false
     },
     {
@@ -1108,11 +1108,11 @@
       "summary_points": [
         "Spółki przechodzą z wykupu akcji na emisję akcji, zwiększając podaż.",
         "Pierwsza oferta publiczna Anthropic o wartości 81 miliardów dolarów wystawia ten popyt na próbę.",
-        "Spółki przestawiły się z wykupu akcji na ich emisję, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa."
+        "Spółki przestawiły się z wykupu akcji na rzecz ich emisji, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa."
       ],
       "extended_paragraphs": [
         "Spółki przechodzą z wykupu akcji na emisję akcji, zwiększając podaż. Pierwsza oferta publiczna Anthropic o wartości 81 miliardów dolarów wystawia ten popyt na próbę.",
-        "Spółki przestawiły się z wykupu akcji na ich emisję, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa.",
+        "Spółki przestawiły się z wykupu akcji na rzecz ich emisji, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa.",
         "„Bez względu na to, jak to zmierzyć, amerykańskie korporacje zmieniły swoje zachowanie w ciągu ostatnich dwóch lat, przechodząc od wykupu w 2024 r. do emisji dzisiaj” – napisał w tym miesiącu menadżer portfela Acadian Asset Management Owen Lamont. „Pytanie, które powinieneś zadać, brzmi: dlaczego sprzedaje się inteligentne pieniądze?”",
         "Według ostatniej analizy Acadian, pod koniec ubiegłego tygodnia nowa emisja netto akcji wyniosła 3,1% całkowitej kapitalizacji rynkowej. Chociaż emisja netto utrzymuje się poniżej szczytów z bańki technologicznej i bańki covidowej, analiza pokazuje, że era wykupów dobiegła końca i rozpoczęła się era emisji akcji.",
         "W tym tygodniu na rynek przybyła większa podaż wraz z hitową ofertą publiczną Anthropic. Oferta początkowo spotkała się z dużym entuzjazmem, ponieważ pionierskie laboratorium AI sprzedało w ramach pierwszej oferty publicznej akcje po 83 dolarów za sztukę, powyżej oczekiwanego zakresu i pozyskując 81 miliardów dolarów. Jednak w piątek akcje spółki spadają, pociągając za sobą szerszy rynek akcji."
@@ -1163,7 +1163,7 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [],
-      "title": "Były dyrektor generalny GM o planowaniu sukcesji Mary Barra: „Będzie ciężko”",
+      "title": "Były dyrektor generalny GM o planowaniu sukcesji Mary Barra: „To będzie trudne”",
       "original_title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
       "is_foreign": true,
       "lang": "EN",
@@ -1181,7 +1181,7 @@
       "extended_paragraphs": [
         "Były dyrektor generalny GM, Dan Akerson, mówi, że ktokolwiek zastąpi Mary Barrę, będzie miał trudne zadanie, ponieważ odziedziczy szybkie zmiany w technologii i przemyśle samochodowym.",
         "Były dyrektor generalny i prezes General Motors, Dan Akerson, nie przebiera w słowach zapytany o wyzwania, jakie stoją przed producentem samochodów w związku ze znalezieniem następcy dla dyrektora generalnego GM, Mary Barry: „Będzie ciężko”.",
-        "Powinien wiedzieć. 78-letni biznesmen i weteran marynarki wojennej Stanów Zjednoczonych pomógł mu w planowaniu sukcesji i w 2013 r. zarekomendował zarządowi GM, aby Barra zastąpił go na stanowisku dyrektora generalnego. Najwyższe stanowisko piastuje od 15 stycznia 2014 r.",
+        "Powinien wiedzieć. 78-letni biznesmen i weteran marynarki wojennej Stanów Zjednoczonych pomógł mu w planowaniu sukcesji i w 2013 r. zarekomendował zarządowi GM, aby Barra zastąpił go na stanowisku dyrektora generalnego. Na najwyższym stanowisku pracuje od 15 stycznia 2014 r.",
         "Akerson powiedziała, że Barrę będzie trudno zastąpić, powołując się na jej sukces i pozycję pierwszej kobiety na stanowisku dyrektora generalnego dowolnego dużego producenta samochodów oraz ciągłe wyzwania stojące przed branżą motoryzacyjną, takie jak sztuczna inteligencja, cyfryzacja pojazdów oraz rozwój Chin i pojazdów autonomicznych.",
         "„To będzie bardzo, bardzo dynamiczne” – powiedział Akerson CNBC podczas wywiadu telefonicznego. „To będzie duża zmiana”."
       ]
@@ -1225,39 +1225,73 @@
       ]
     },
     {
-      "id": "makro-2-1ea438",
+      "id": "makro-4-1718c1",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 17 miliardów funtów) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "17 miliardów funtów"
+      ],
+      "title": "Wielka Brytania zamierza zbadać jeszcze bliższe więzi z UE po zawarciu porozumienia, mówi Burnham",
+      "original_title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "17:49",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Uzgodniona w piątek umowa między Wielką Brytanią a UE obejmuje eksport brytyjskiej żywności, handel emisjami i program doświadczeń młodych.",
+        "Źródło zdjęcia, EPA/Shutterstock Tytuł zdjęcia, przewodnicząca Komisji Europejskiej Ursula von der Leyen, premier Andy Burnham i przewodniczący Rady Europejskiej Antonio Costa łapią się za ręce na zakończenie konferencji prasowej podczas szczytu UE-Wielka Brytania w Brukseli Andy Burnham powiedział, że Wielka Brytania omówi możliwe opcje jeszcze bliższych stosunków z UE po uzgodnieniu umowy obejmującej brytyjski eksport żywności, handel uprawnieniami do emisji i program doświadczeń młodych.",
+        "Premier powiedział, że to „dobry dzień” dla Wielkiej Brytanii i Europy, dodając, że Ministerstwo Skarbu uważa, że ​​transakcja może pobudzić brytyjską gospodarkę nawet o 17 miliardów funtów rocznie."
+      ],
+      "extended_paragraphs": [
+        "Uzgodniona w piątek umowa między Wielką Brytanią a UE obejmuje eksport brytyjskiej żywności, handel emisjami i program doświadczeń młodych.",
+        "Źródło zdjęcia, EPA/Shutterstock Tytuł zdjęcia, przewodnicząca Komisji Europejskiej Ursula von der Leyen, premier Andy Burnham i przewodniczący Rady Europejskiej Antonio Costa łapią się za ręce na zakończenie konferencji prasowej podczas szczytu UE-Wielka Brytania w Brukseli",
+        "Andy Burnham powiedział, że Wielka Brytania omówi możliwe opcje jeszcze bliższych stosunków z UE po uzgodnieniu umowy obejmującej brytyjski eksport żywności, handel uprawnieniami do emisji i program doświadczeń młodych.",
+        "Premier powiedział, że to „dobry dzień” dla Wielkiej Brytanii i Europy, dodając, że Ministerstwo Skarbu uważa, że ​​transakcja może pobudzić brytyjską gospodarkę nawet o 17 miliardów funtów rocznie.",
+        "Przewodniczący Rady Europejskiej António Costa powiedział, że UE pozostaje „otwarta na utrzymywanie jak najściślejszych stosunków” z Wielką Brytanią."
+      ]
+    },
+    {
+      "id": "makro-2-306ebd",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Sztuczna Inteligencja” (kluczowe liczby: 2,8%, 1%, 10%) — istotne dla ochrony realnej wartości kapitału.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Sztuczna Inteligencja” (kluczowe liczby: 10%, 3,7%, 1,9%) — istotne dla ochrony realnej wartości kapitału.",
       "key_metrics": [
-        "2,8%",
-        "1%",
-        "10%"
+        "10%",
+        "3,7%",
+        "1,9%"
       ],
-      "title": "Akcje Anthropic spadają po hitowym otwarciu w związku z trwającą szerszą wyprzedażą technologii",
-      "original_title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "title": "Wyprzedaż akcji spółek technologicznych ciągnie rynki w dół wraz ze spadkiem akcji Anthropic",
+      "original_title": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:00",
+      "time": "22:42",
       "source": "BBC Business",
       "source_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Inne firmy technologiczne również odczuły straty, gdy rynki akcji znacznie się załamały.",
-        "Akcje Anthropic spadły z powrotem do swojej ceny początkowej po gwałtownym pierwszym dniu na giełdzie w miarę pogłębiania się szerszej wyprzedaży technologii.",
-        "Spadek cen akcji spółek technologicznych nadal wywierał wpływ na rynki przez cały piątek, przy czym do południa indeks S&P 500 spadł o około 2,8%, a Dow Jones Industrial Average spadł o ponad 1%."
+        "Na rynkach amerykańskich wzrosła presja, a indeksy S&P 500 i Dow Jones Industrial Average znalazły się w obszarze korekty.",
+        "Akcje Anthropic spadły z powrotem do swojej ceny początkowej po gwałtownym pierwszym dniu na giełdzie, w miarę jak szersza wyprzedaż technologii pociągnęła rynki w dół.",
+        "Wyprzedaż następuje w związku z utrzymującymi się obawami dotyczącymi szybkości i wielkości inwestycji w sztuczną inteligencję, ale także w związku z tym, że niektóre duże firmy, w tym Nvidia i SpaceX, stanęły w obliczu konkretnych problemów, które niepokoiły inwestorów."
       ],
       "extended_paragraphs": [
-        "Inne firmy technologiczne również odczuły straty, gdy rynki akcji znacznie się załamały.",
-        "Akcje Anthropic spadły z powrotem do swojej ceny początkowej po gwałtownym pierwszym dniu na giełdzie w miarę pogłębiania się szerszej wyprzedaży technologii.",
-        "Spadek cen akcji spółek technologicznych nadal wywierał wpływ na rynki przez cały piątek, przy czym do południa indeks S&P 500 spadł o około 2,8%, a Dow Jones Industrial Average spadł o ponad 1%.",
-        "Obydwa amerykańskie indeksy doszły do ​​obszaru korekty i osiągnęły poziom co najmniej 10% niższy od niedawnego maksimum.",
-        "Zafascynowany technologią indeks Nasdaq Composite Index również spadł o ponad 4% w trakcie popołudniowych notowań, w związku z dalszym spadkiem akcji głównych spółek technologicznych."
+        "Na rynkach amerykańskich wzrosła presja, a indeksy S&P 500 i Dow Jones Industrial Average znalazły się w obszarze korekty.",
+        "Akcje Anthropic spadły z powrotem do swojej ceny początkowej po gwałtownym pierwszym dniu na giełdzie, w miarę jak szersza wyprzedaż technologii pociągnęła rynki w dół.",
+        "Wyprzedaż następuje w związku z utrzymującymi się obawami dotyczącymi szybkości i wielkości inwestycji w sztuczną inteligencję, ale także w związku z tym, że niektóre duże firmy, w tym Nvidia i SpaceX, stanęły w obliczu konkretnych problemów, które niepokoiły inwestorów.",
+        "Łącznie te presje wywierały wpływ na rynki amerykańskie przez cały piątek, a wszystkie kluczowe indeksy w USA gwałtownie spadły w ciągu dnia, pogłębiając wcześniejsze spadki w ciągu tygodnia.",
+        "Indeksy S&P 500 i Dow Jones Industrial Average zepchnęły się na obszar korekty, do punktu, w którym ich notowania spadły o 10% lub więcej w stosunku do niedawnego maksimum."
       ]
     },
     {
@@ -1327,41 +1361,7 @@
       ]
     },
     {
-      "id": "makro-7-36d4fa",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 0,7%) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "0,7%"
-      ],
-      "title": "Konserwy i mleko o przedłużonej trwałości zwiększają sprzedaż detaliczną po rozpoczęciu kampanii „Bądź gotowy”.",
-      "original_title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "09:44",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Z oficjalnych danych wynika, że gromadzenie zapasów żywności o długim terminie przydatności do spożycia spowodowało wzrost sprzedaży detalicznej w październiku.",
-        "Urząd Statystyk Krajowych (ONS) podał, że wolumen sprzedaży wzrósł o 0,7%, ponieważ ludzie zareagowali na rządową kampanię gotowości na wypadek sytuacji kryzysowych „Bądź gotowy”.",
-        "Kampania zachęcała ludzi do gromadzenia zapasów na wypadek zakłóceń w świadczeniu podstawowych usług spowodowanych złą pogodą lub cyberatakami."
-      ],
-      "extended_paragraphs": [
-        "Z oficjalnych danych wynika, że gromadzenie zapasów żywności o długim terminie przydatności do spożycia spowodowało wzrost sprzedaży detalicznej w październiku.",
-        "Urząd Statystyk Krajowych (ONS) podał, że wolumen sprzedaży wzrósł o 0,7%, ponieważ ludzie zareagowali na rządową kampanię gotowości na wypadek sytuacji kryzysowych „Bądź gotowy”.",
-        "Kampania zachęcała ludzi do gromadzenia zapasów na wypadek zakłóceń w świadczeniu podstawowych usług spowodowanych złą pogodą lub cyberatakami.",
-        "Z odrębnego badania opublikowanego w zeszłym tygodniu wynika, że ​​chociaż gospodarstwa domowe gromadziły zapasy artykułów pierwszej potrzeby, nie wpadały w panikę podczas zakupów.",
-        "Kampania rządowa zachęcała ludzi, aby trzymali w domach żywność i wodę na trzy dni."
-      ]
-    },
-    {
-      "id": "makro-4-d4c083",
+      "id": "makro-6-d4c083",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1382,18 +1382,18 @@
       "summary_points": [
         "Umowa handlowa raczej nie obniży cen żywności dla kupujących, ale powinna pobudzić gospodarkę bardziej niż inne umowy po brexicie.",
         "W innym świecie Andy Burnham bardzo chciałby, aby supermarkety w całym kraju wyraźnie ogłosiły, że mogą obniżyć ceny żywności w wyniku najnowszego porozumienia w sprawie eksportu żywności.",
-        "I chociaż sklepy spożywcze z dużym zadowoleniem przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia."
+        "I chociaż sklepy spożywcze bardzo przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia."
       ],
       "extended_paragraphs": [
         "Umowa handlowa raczej nie obniży cen żywności dla kupujących, ale powinna pobudzić gospodarkę bardziej niż inne umowy po brexicie.",
         "W innym świecie Andy Burnham bardzo chciałby, aby supermarkety w całym kraju wyraźnie ogłosiły, że mogą obniżyć ceny żywności w wyniku najnowszego porozumienia w sprawie eksportu żywności.",
-        "I chociaż sklepy spożywcze z dużym zadowoleniem przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia.",
-        "Dyrektor zarządzający M&S, Alex Freudmann, nazwał tę transakcję „ważnym krokiem naprzód”, twierdząc, że usunie ona biurokrację. Dyrektor naczelny Tesco, Ken Murphy, dodał, że to „dobra wiadomość dla brytyjskich rolników i producentów”.",
+        "I chociaż sklepy spożywcze bardzo przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia.",
+        "Dyrektor zarządzający M&S, Alex Freudmann, nazwał transakcję „ważnym krokiem naprzód”, twierdząc, że usunie ona biurokrację. Dyrektor naczelny Tesco, Ken Murphy, dodał, że to „dobra wiadomość dla brytyjskich rolników i producentów”.",
         "Freudmann podkreślił pewne problemy, które szkodzą handlowi między Wielką Brytanią a UE, podając przykład, że „dostarczenie naszego spaghetti bolońskiego z Lincolnshire na półkę w Dublinie wymaga pokonywania setek dodatkowych mil, gór papierkowej roboty, podpisu weterynarza, a nawet łacińskiego imienia krowy”."
       ]
     },
     {
-      "id": "makro-6-0f0fee",
+      "id": "makro-7-0f0fee",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1468,7 +1468,7 @@
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
       "title": "Eksperci ostrzegają: prawie wszyscy w sztucznej inteligencji są obecnie podatni na pułapkę na miód",
-      "original_title": "Experts warn: Nearly everyone in AI is susceptible to a honey trap scheme right now",
+      "original_title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
       "is_foreign": true,
       "lang": "EN",
       "time": "20:58",
@@ -1478,15 +1478,15 @@
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Technicy tworzą technologię, która może rozwijać wszystkie aspekty świata – ale czy mogą chronić swoje serca?",
+        "Technicy tworzą technologię, która może rozwinąć wszystkie aspekty świata – ale czy mogą chronić swoje serca?",
         "To jest luka, którą wykorzystują Honey Pots.",
-        "Eksperci ostrzegają: Prawie wszyscy w sztucznej inteligencji są obecnie podatni na pułapkę na miody Dominic-Madori Davis 23:58 PST · 20 listopada 2026 r. Nawet gdy konflikt Nvidii w związku z rzekomym skandalem z pułapkami na miody Jensena Huanga wciąż się rozwija, Dolina Krzemowa nie musi się jeszcze liczyć z nową rzeczywistością: o wiele więcej osób spośród nich jest zagrożonych."
+        "Eksperci ostrzegają: prawie wszyscy w sztucznej inteligencji są obecnie podatni na pułapki na miody."
       ],
       "extended_paragraphs": [
-        "Technicy tworzą technologię, która może rozwijać wszystkie aspekty świata – ale czy mogą chronić swoje serca? To jest luka, którą wykorzystują Honey Pots.",
-        "Eksperci ostrzegają: Prawie wszyscy w sztucznej inteligencji są obecnie podatni na pułapkę na miody Dominic-Madori Davis 23:58 PST · 20 listopada 2026 r. Nawet gdy konflikt Nvidii w związku z rzekomym skandalem z pułapkami na miody Jensena Huanga wciąż się rozwija, Dolina Krzemowa nie musi się jeszcze liczyć z nową rzeczywistością: o wiele więcej osób spośród nich jest zagrożonych.",
+        "Technicy tworzą technologię, która może rozwinąć wszystkie aspekty świata – ale czy mogą chronić swoje serca? To jest luka, którą wykorzystują Honey Pots.",
+        "Eksperci ostrzegają: prawie wszyscy w sztucznej inteligencji są obecnie podatni na pułapki na miody. Dominic-Madori Davis 23:58 PST · 20 listopada 2026 r. Nawet gdy konflikt Nvidii w związku z rzekomym skandalem z pułapkami na miody Jensena Huanga wciąż się rozwija, Dolina Krzemowa nie musi się jeszcze liczyć z nową rzeczywistością: o wiele więcej osób spośród nich jest zagrożonych.",
         "„Nikt nie informuje założycieli o kontrwywiadzie” – powiedział TechCrunch Aaron Brown, były starszy oficer CIA i obecny założyciel firmy programistycznej Lumbra.",
-        "Dzieje się tak dlatego, że historycznie pułapki na miód kojarzono z politykami, wywiadem wojskowym i narodowym – ludźmi „za zezwoleniami i pracownikami przeszkolonymi, aby oczekiwać podejścia” ze strony szpiegów i innych napastników.",
+        "Dzieje się tak dlatego, że historycznie pułapki na miód kojarzono z politykami, wojskiem i wywiadem narodowym – ludźmi „za zezwoleniami i siłą roboczą przeszkoloną, aby spodziewać się podejścia” ze strony szpiegów i innych napastników.",
         "Ale teraz wiele z najcenniejszych tajemnic „skrywa się w firmach tworzących chipy, modele i infrastrukturę” – mówi Brown, dodając, że szpieg „chce tego, czego może dotknąć dyrektor generalny. Plan działania, decyzje eksportowe, lista klientów, kto otrzyma technologię. Dyrektor generalny to najkrótsza droga do tego wszystkiego”."
       ]
     },
@@ -1520,6 +1520,38 @@
         "Startup z siedzibą w Wielkiej Brytanii powstał w lutym, choć źródła TechCrunch podały, że założyciel, Nantas Nardelli, pracował nad pomysłem dłużej. Osoby prosiły o zachowanie anonimowości, ponieważ informacje nie są publiczne. Bloomberg jako pierwszy poinformował o wsparciu Ek dla Europa Fusion.",
         "Nardelli ma szerokie doświadczenie w świecie sztucznej inteligencji, wcześniej pracował w Google DeepMind, Facebook AI Research i Microsoft Research Cambridge. Ostatnio był dyrektorem ds. uczenia maszynowego w Pacific Fusion, startupie zajmującym się energią termojądrową z siedzibą we Fremont w Kalifornii.",
         "Firma Pacific Fusion uruchomiła niedawno obiekt demonstracyjny w Nowym Meksyku. Podobnie jak większość start-upów tej wielkości zajmujących się syntezą fuzji, Pacific Fusion w dużym stopniu opiera się na urządzeniach fizycznych, aby testować swoje teorie i ulepszać symulacje."
+      ]
+    },
+    {
+      "id": "tech-8-85b167",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Trump FCC oświadcza, że Kalifornia nie może egzekwować przepisów dotyczących usług telefonicznych",
+      "original_title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:28",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
+      "image_source": "Fot. / Źródło: Ars Technica",
+      "lead_story": false,
+      "summary_points": [
+        "FCC uchyla przepisy stanowe, które nakładają na AT&T obowiązek dalszego oferowania usług telefonii domowej.",
+        "Status AT&T jako przewoźnika ostatniej szansy w Kalifornii wymaga od niej oferowania usług telefonicznych każdemu potencjalnemu klientowi na swoim terytorium.",
+        "AT&T chce zaprzestać oferowania podstawowych usług telefonicznych nowym klientom oraz 184 000 klientów indywidualnych i 15 000 klientów biznesowych 1 czerwca 2027 r. Opublikowane dzisiaj zarządzenie uwzględniło wniosek AT&T o uchylenie przepisów stanowych w następstwie wcześniejszego zatwierdzenia przez FCC petycji AT&T o zaprzestaniu świadczenia usług."
+      ],
+      "extended_paragraphs": [
+        "FCC uchyla przepisy stanowe, które nakładają na AT&T obowiązek dalszego oferowania usług telefonii domowej.",
+        "Status AT&T jako przewoźnika ostatniej szansy w Kalifornii wymaga od niej oferowania usług telefonicznych każdemu potencjalnemu klientowi na swoim terytorium. AT&T chce zaprzestać oferowania podstawowych usług telefonicznych nowym klientom oraz 184 000 klientów indywidualnych i 15 000 klientów biznesowych 1 czerwca 2027 r.",
+        "Opublikowane dzisiaj zarządzenie uwzględniło wniosek AT&T o uchylenie przepisów stanowych w następstwie wcześniejszego zatwierdzenia przez FCC petycji AT&T o zaprzestaniu świadczenia usług. AT&T próbowała osiągnąć ten sam rezultat w sądzie, ale sędzia federalny odrzucił w lipcu jej wniosek o uchylenie przepisów Kalifornii.",
+        "Nakaz FCC prawdopodobnie nie jest ostatnim słowem, ponieważ Kalifornia może pozwać komisję. Kalifornia wystąpiła samotnie przeciwko firmie AT&T, która uzyskała zwolnienie z obowiązków wynikających z ustawy COLR w 20 z 21 stanów na obszarze świadczenia usług przewodowych.",
+        "„Kalifornijski program Carrier of Last Resort mógł mieć sens, kiedy został ustanowiony 30 lat temu” – stwierdził prezes FCC Brendan Carr w oświadczeniu wydanym wraz z dzisiejszym zarządzeniem. „Ale te zasady zostały opracowane na potrzeby minionej epoki i nie mają już sensu na dzisiejszym konkurencyjnym, zaawansowanym rynku”."
       ]
     },
     {
@@ -1564,7 +1596,7 @@
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
       "title": "Sztuczna inteligencja znalazła rozwiązanie 167-letniej hipotezy Riemanna – i człowiek też to zrobił",
-      "original_title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "original_title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "is_foreign": true,
       "lang": "EN",
       "time": "19:32",
@@ -1575,14 +1607,14 @@
       "lead_story": false,
       "summary_points": [
         "Matematycy są pod ogromnym wrażeniem najnowszego wyniku opartego na sztucznej inteligencji – istnieje też konkurencyjne rozwiązanie ludzkie.",
-        "Sztuczna inteligencja znalazła rozwiązanie 167-letniej hipotezy Riemanna — i człowiek też to zrobił Tim Fernholz 11:32 czasu PST · 20 listopada 2026 To ważny tydzień dla Leventa Alpöge: matematyk zobaczył, jak jego pracodawca, Anthropic, stał się pierwszym pionierskim laboratorium AI notowanym na giełdzie.",
+        "Sztuczna inteligencja znalazła rozwiązanie 167-letniej hipotezy Riemanna — i człowiek też to zrobił Tim Fernholz 11:32 czasu PST · 20 listopada 2026 To ważny tydzień dla Leventa Alpöge: matematyk zobaczył, jak jego pracodawca, Anthropic, stał się pierwszym notowanym na giełdzie pionierskim laboratorium sztucznej inteligencji.",
         "Wydaje się również, że rozwiązał jeden z najważniejszych problemów matematyki."
       ],
       "extended_paragraphs": [
         "Matematycy są pod ogromnym wrażeniem najnowszego wyniku opartego na sztucznej inteligencji – istnieje też konkurencyjne rozwiązanie ludzkie.",
-        "Sztuczna inteligencja znalazła rozwiązanie 167-letniej hipotezy Riemanna — i człowiek też to zrobił Tim Fernholz 11:32 czasu PST · 20 listopada 2026 To ważny tydzień dla Leventa Alpöge: matematyk zobaczył, jak jego pracodawca, Anthropic, stał się pierwszym pionierskim laboratorium AI notowanym na giełdzie. Wydaje się również, że rozwiązał jeden z najważniejszych problemów matematyki.",
-        "„Dokładny moment jest okropny” – napisał w eseju, w którym ogłosił swoje odkrycia i opisał, jak w zeszłą niedzielę wieczorem wysłał wiadomość do dyrektora generalnego firmy Anthropic, Dario Amodei, z pytaniem, jak ogłosić, że znalazł możliwe do skompilowania metodą Lean rozwiązanie hipotezy Riemanna, której początki sięgają 1859 r. i które znajduje się wśród problemów matematycznych nagrodzonych Nagrodą Milenijną.",
-        "Hipoteza zakłada, że ​​za pojawieniem się liczb pierwszych kryje się ukryta struktura. Jeśli twierdzony wynik jest prawdziwy, wkraczamy na terytorium wzniosłych tajemnic wszechświata.",
+        "Sztuczna inteligencja znalazła rozwiązanie 167-letniej hipotezy Riemanna — i człowiek też to zrobił Tim Fernholz 11:32 czasu PST · 20 listopada 2026 To ważny tydzień dla Leventa Alpöge: matematyk zobaczył, jak jego pracodawca, Anthropic, stał się pierwszym notowanym na giełdzie pionierskim laboratorium sztucznej inteligencji. Wydaje się również, że rozwiązał jeden z najważniejszych problemów matematyki.",
+        "„Dokładny moment jest okropny” – napisał w eseju, w którym ogłosił swoje ustalenia i opisał, jak w zeszłą niedzielę wieczorem wysłał wiadomość do dyrektora generalnego firmy Anthropic, Dario Amodei, z pytaniem, jak ogłosić, że znalazł rozwiązanie hipotezy Riemanna, którą można skompilować w technologii Lean, która sięga 1859 r. i znajduje się wśród problemów matematycznych nagrodzonych Nagrodą Milenijną.",
+        "Hipoteza zakłada, że ​​istnieje ukryta struktura leżąca u podstaw pojawienia się liczb pierwszych. Jeśli twierdzony wynik jest prawdziwy, wkraczamy na terytorium wzniosłych tajemnic wszechświata.",
         "Być może najlepszym sposobem, aby zrozumieć, jak ekscytujące jest to dla społeczności matematycznej, jest obserwowanie, jak eksperci zastanawiają się nad wynikami na czacie w serwisie Zulip. Matematycy tacy jak Chris Birkbeck, teoretyk liczb na Uniwersytecie Anglii Wschodniej, publikują takie przemyślenia…"
       ]
     },
@@ -1620,12 +1652,12 @@
     },
     {
       "id": "tech-7-206cb1",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
       "title": "Kevin sam w domu powraca! Fani będą zachwyceni",
       "original_title": "",
@@ -1634,91 +1666,26 @@
       "time": "19:50",
       "source": "Antyweb Innowacje",
       "source_url": "https://antyweb.pl/kevin-sam-w-domu-powraca-fani-beda-zachwyceni",
-      "image_url": "https://static.antyweb.pl/img/w_full/wp-content/uploads/2025/12/Kevin-sam-w-domu.jpeg",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2025/12/Kevin-sam-w-domu.jpeg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
         "Dorosły Kevin powróci na ekrany.",
-        "Obszar tematyczny: Sektor Tech (Technologia & Innowacje).",
-        "Wydarzenie sklasyfikowano w sektorze: Sektor Tech (wpływ: LOW)."
+        "Macaulay Culkin wraca jako Kevin!",
+        "Powstaje nowy „Kevin sam w domu” od twórców hitów komediowych."
       ],
       "extended_paragraphs": [
         "Dorosły Kevin powróci na ekrany. Fani będą zachwyceni.",
-        "Kontekst sektorowy (Sektor Tech — Technologia & Innowacje): Informacja o charakterze równoważnym lub sprawozdawczym."
-      ]
-    },
-    {
-      "id": "tech-8-f91b47",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 2 miliony) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "2 miliony"
-      ],
-      "title": "Badacz umieszcza 2 miliony kanarków w łańcuchu dostaw AI. Wystąpiła katastrofa dotycząca prywatności.",
-      "original_title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:59",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
-      "image_source": "Fot. / Źródło: Ars Technica",
-      "lead_story": false,
-      "summary_points": [
-        "Testy z wykorzystaniem podpowiedzi z unikalnymi, możliwymi do śledzenia sekretami dowodzą, że dane nie pozostają prywatne.",
-        "Narażenie stwierdzono w wyniku genialnego eksperymentu zaprojektowanego w celu sprawdzenia, czy wrażliwe informacje mogą wyciekać przez rozległy łańcuch szeroko stosowanych usług sztucznej inteligencji oraz w jaki sposób te informacje są wykorzystywane w takim przypadku.",
-        "Wiele współczesnych aplikacji AI korzysta z usług takich jak OpenRouter lub Vercel, które działają jako brokerzy."
-      ],
-      "extended_paragraphs": [
-        "Testy z wykorzystaniem podpowiedzi z unikalnymi, możliwymi do śledzenia sekretami dowodzą, że dane nie pozostają prywatne.",
-        "Narażenie stwierdzono w wyniku genialnego eksperymentu zaprojektowanego w celu sprawdzenia, czy wrażliwe informacje mogą wyciekać przez rozległy łańcuch szeroko stosowanych usług sztucznej inteligencji oraz w jaki sposób te informacje są wykorzystywane w takim przypadku. Wiele współczesnych aplikacji AI korzysta z usług takich jak OpenRouter lub Vercel, które działają jako brokerzy. Te „routery AI”, czasami nazywane także „bramkami AI”, odbierają dużą liczbę monitów wysyłanych od użytkowników końcowych aplikacji AI i kierują je do dostępnego silnika wnioskowania na podstawie takich kryteriów, jak ten, który pobiera najniższą cenę lub najlepiej nadaje się do danego zadania. Zamiast korzystać z Anthropic, OpenAI lub innego dużego dostawcy, programista wynajmuje router AI, aby znaleźć najbardziej odpowiedni model.",
-        "Aby przetestować potencjalny wyciek, badacz HD Moore zebrał zbiór kluczy dostępu AWS, działających danych uwierzytelniających powiązanych z pustymi kontami AWS, haseł do usług takich jak SSH oraz unikalnych adresów URL, nazw DNS i odnośników do prywatnego repozytorium Git. Żaden z sekretów nie był nigdy wcześniej używany, a on kontrolował infrastrukturę, która otrzymywała wszelkie żądania, korzystając z poświadczeń. Następnie umieścił każdy sekret w dokładnie jednym monitie wysłanym do jednego dostawcy. W przypadku ujawnienia któregokolwiek z sekretów te „kanarki” – zwane tak, ponieważ przypominają rolę ptaka zabranego do kopalni węgla – umożliwiłyby Moore’owi zidentyfikowanie każdego ogniwa w łańcuchu, które było za to odpowiedzialne.",
-        "„Wysłaliśmy prawie dwa miliony podpowiedzi AI zawierających unikalne, możliwe do śledzenia tajemnice do dostawców sztucznej inteligencji, a następnie obserwowaliśmy, gdzie te tajemnice wyszły na jaw” – napisał w czwartek Moore, dyrektor ds. badań w firmie zajmującej się bezpieczeństwem Dragos. „To, co znaleźliśmy, ujawniło naruszenia bezpieczeństwa, szybkie kradzieże i powszechne błędy w ochronie danych klientów”.",
-        "Chociaż monity są szyfrowane podczas przesyłania, są odszyfrowywane przy każdym przeskoku w dużej sieci sprzedawców wnioskowania. Podpowiedź jest najpierw wysyłana do routera AI, który odczytuje zawarty w niej tekst jawny w celu określenia najbardziej odpowiednich dostawców wnioskowania do obsługi żądania. Często monit jest następnie wysyłany do puli dostępnych modeli, które czasami działają u różnych dostawców usług hostingowych. Podpowiedzi mogą również przechodzić z jednego routera AI (takiego jak Vercel) do innego (np. OpenRouter). Każdy z tych graczy prawdopodobnie zarejestruje monit i przechowa go tak długo, jak wymagają tego zasady (jeśli nie w nieskończoność)."
+        "Macaulay Culkin wraca jako Kevin! Powstaje nowy „Kevin sam w domu” od twórców hitów komediowych. Czy to jest to, na co fani czekali od lat?",
+        "Trudno wyobrazić sobie większy świąteczny klasyk od kultowego \"Kevina\" z filmu Kevin sam w domu , który od premiery w 1990 roku nieustannie i co rok buduje świąteczną atmosferę w milionach domów na całym świecie. W Polsce coś o tym wiemy, bo święta wcale nie muszą być białe, ale bez kultowego \"Kevina\" ich sobie po prostu nie wyobrażamy. Mimo kilku prób odświeżenia legendy, żadna z nich bez udziału oryginalnej obsady nie okazała się być ani sukcesem, ani filmami wartymi uwagi. Na szczęście mamy dla was dobre wieści - jak potwierdza serwis Deadline, w 20th Century Studios na wczesnym etapie prac znajduje się bezpośrednia kontynuacja \"Kevina samego w domu\", w której główną rolę ponownie zagra Macaulay Culkin - ten legendarny i oryginalny odtwórca kultowej, uwielbianej roli rezolutnego chłopca.",
+        "A najlepsze w całej sprawie jest to, że impulsem do powrotu serii (lub marki, jakkolwiek to uniwersum nazwać) był sam aktor. Podobno Macaulay Culkin spotkał się kilka miesięcy temu z szefem Disney Motion Pictures, Davidem Greenbaumem i przedstawił własny pomysł na to, jak mogłyby potoczyć się losy Kevina McCallistera kilkadziesiąt lat po traumatycznych, świątecznych przygodach z dzieciństwa i starciach z rabusiami. Nowy film miałby opowiadać losy Kevina właśnie jako już dorosłego i względnie ustatkowanego mężczyzny. A to w sumie zgadza się z życiowym miejscem, w jakim znajduje się sam odtwórca jego roli.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Za wykreowaniem wizji nowego filmu stoi prawdziwa maszyna komediowa, bo do zadania zatrudniono m.in. Setha Rogena oraz Evana Goldberga, którzy scenariusz piszą wspólnie z Culkinem. Na ten moment nie potwierdzono jeszcze, kto zajmie fotel reżysera, ani też czy do projektu powróci twórca pierwszych dwóch odsłon, Chris Columbus. Sam Disney tradycyjnie odmówił oficjalnego komentarza na tym etapie produkcji, co jest w pełni zrozumiałe - dowiemy się oficjalnie więcej bliżej samej premiery."
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-2-1718c1",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 17 miliardów funtów) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "17 miliardów funtów"
-      ],
-      "title": "Wielka Brytania zamierza zbadać jeszcze bliższe więzi z UE po zawarciu porozumienia, mówi Burnham",
-      "original_title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:49",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": true,
-      "summary_points": [
-        "Uzgodniona w piątek umowa między Wielką Brytanią a UE obejmuje eksport brytyjskiej żywności, handel emisjami i program doświadczeń młodych.",
-        "Źródło zdjęcia, EPA/Shutterstock Tytuł zdjęcia, przewodnicząca Komisji Europejskiej Ursula von der Leyen, premier Andy Burnham i przewodniczący Rady Europejskiej Antonio Costa łapią się za ręce na zakończenie konferencji prasowej podczas szczytu UE-Wielka Brytania w Brukseli Andy Burnham powiedział, że Wielka Brytania omówi możliwe opcje jeszcze bliższych stosunków z UE po uzgodnieniu umowy obejmującej brytyjski eksport żywności, handel uprawnieniami do emisji i program doświadczeń młodych.",
-        "Premier powiedział, że to „dobry dzień” dla Wielkiej Brytanii i Europy, dodając, że Ministerstwo Skarbu uważa, że ​​transakcja może pobudzić brytyjską gospodarkę nawet o 17 miliardów funtów rocznie."
-      ],
-      "extended_paragraphs": [
-        "Uzgodniona w piątek umowa między Wielką Brytanią a UE obejmuje eksport brytyjskiej żywności, handel emisjami i program doświadczeń młodych.",
-        "Źródło zdjęcia, EPA/Shutterstock Tytuł zdjęcia, przewodnicząca Komisji Europejskiej Ursula von der Leyen, premier Andy Burnham i przewodniczący Rady Europejskiej Antonio Costa łapią się za ręce na zakończenie konferencji prasowej podczas szczytu UE-Wielka Brytania w Brukseli",
-        "Andy Burnham powiedział, że Wielka Brytania omówi możliwe opcje jeszcze bliższych stosunków z UE po uzgodnieniu umowy obejmującej brytyjski eksport żywności, handel uprawnieniami do emisji i program doświadczeń młodych.",
-        "Premier powiedział, że to „dobry dzień” dla Wielkiej Brytanii i Europy, dodając, że Ministerstwo Skarbu uważa, że ​​transakcja może pobudzić brytyjską gospodarkę nawet o 17 miliardów funtów rocznie.",
-        "Przewodniczący Rady Europejskiej António Costa powiedział, że UE pozostaje „otwarta na utrzymywanie jak najściślejszych stosunków” z Wielką Brytanią."
-      ]
-    },
-    {
-      "id": "swiat-5-c49380",
+      "id": "swiat-3-c49380",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
@@ -1735,7 +1702,7 @@
       "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-20/wladimir-putin-o-modlitwie-i-zjednoczeniu-z-ukraina-udzielil-wywiadu-do-filmu-dokumentalnego/",
       "image_url": "https://ipla.pluscdn.pl/dituel/cp/dn/dnrq3m5enw2fq5dqwsgrjpkpy7y7446h.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
         "Rosjanie jako arka dla chrześcijaństwa, dążenie do zjednoczenia Ukrainy i Rosji i codzienna modlitwa - to fragmenty z wywiadu, którego udzielił Władimir Putin przy okazji nagrywania filmu dokumentalnego o patriarsze Cyrylu.",
         "W trakcie rozmowy kremlowski przywódca przedstawił cały absurd przekazu propagandowego używanego od wielu lat m.in. w kontekście wojny w Ukrainie.",
@@ -1750,7 +1717,7 @@
       ]
     },
     {
-      "id": "swiat-6-cba49c",
+      "id": "swiat-5-86e5f3",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "MEDIUM",
@@ -1758,27 +1725,27 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Rosja atakuje przejścia graniczne w Kijowie kilka dni po uderzeniu Ukrainy w Most Krymski",
-      "original_title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "title": "Francuscy policjanci skazani za pobicie producenta muzycznego Michela Zeclera",
+      "original_title": "French police officers sentenced for beating of music producer Michel Zecler",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:01",
+      "time": "22:37",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Rosja przeprowadziła jeden z największych w swojej historii ataków powietrznych, odrzucając perspektywę gwarancji bezpieczeństwa dla Ukrainy.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Magazyny, stacje kolejowe, zakłady energetyczne i budynki mieszkalne zostały zniszczone podczas nocnych ciężkich rosyjskich strajków Rosja w nocy zaatakowała mosty w Kijowie i stacje kolejowe w ramach poważnego ataku rozpoczętego kilka dni po tym, jak Ukraina poważnie uszkodziła strategicznie ważny most krymski.",
-        "Pociski balistyczne trafiły w kluczowe przejścia graniczne w stolicy podczas ogólnokrajowego ataku, który według prezydenta Ukrainy Wołodymyra Zełenskiego był „jednym z najpotężniejszych ataków” w dotychczasowej wojnie, w wyniku którego zginęło co najmniej dziewięć osób."
+        "Sąd podtrzymał pobicie czarnoskórego producenta muzycznego w 2020 r. jako okoliczność obciążającą świadczącą o rasizmie.",
+        "Podpis pod rysunkiem: Na nagraniu wideo widziano trzech funkcjonariuszy, którzy pobili producenta muzycznego Michela Zeclera w jego studiu Trzech francuskich funkcjonariuszy policji zostało skazanych sześć lat temu w Paryżu za pobicie czarnoskórego producenta muzycznego, co sąd uznał za okoliczność obciążającą rasizmu.",
+        "Cała trójka została również uznana za winną podpisania sfałszowanego raportu policyjnego stwierdzającego, że producent – ​​Michel Zecler, lat 47 – brutalnie stawiał opór próbie aresztowania go."
       ],
       "extended_paragraphs": [
-        "Rosja przeprowadziła jeden z największych w swojej historii ataków powietrznych, odrzucając perspektywę gwarancji bezpieczeństwa dla Ukrainy.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia, Magazyny, stacje kolejowe, zakłady energetyczne i budynki mieszkalne zostały zniszczone podczas nocnych ciężkich rosyjskich strajków",
-        "Rosja w nocy zaatakowała mosty w Kijowie i stacje kolejowe w ramach poważnego ataku rozpoczętego kilka dni po tym, jak Ukraina poważnie uszkodziła strategicznie ważny most krymski.",
-        "Pociski balistyczne trafiły w kluczowe przejścia graniczne w stolicy podczas ogólnokrajowego ataku, który według prezydenta Ukrainy Wołodymyra Zełenskiego był „jednym z najpotężniejszych ataków” w dotychczasowej wojnie, w wyniku którego zginęło co najmniej dziewięć osób.",
-        "Prezydent Rosji Władimir Putin zagroził odwetem za atak na Most Krymski, który Kreml zbudował, aby połączyć Rosję z okupowanym Półwyspem Krymskim."
+        "Sąd podtrzymał pobicie czarnoskórego producenta muzycznego w 2020 r. jako okoliczność obciążającą świadczącą o rasizmie.",
+        "Podpis pod rysunkiem: Na nagraniu wideo widziano trzech funkcjonariuszy, którzy pobili producenta muzycznego Michela Zeclera w jego studiu",
+        "Trzech francuskich funkcjonariuszy policji zostało skazanych sześć lat temu w Paryżu za pobicie czarnoskórego producenta muzycznego, co sąd uznał za okoliczność obciążającą rasizmu.",
+        "Cała trójka została również uznana za winną podpisania sfałszowanego raportu policyjnego stwierdzającego, że producent – ​​Michel Zecler, lat 47 – brutalnie stawiał opór próbie aresztowania go.",
+        "Ich kłamstwa zostały ujawnione, ponieważ cała scena w studiu nagraniowym Zeclera została zarejestrowana w telewizji przemysłowej, co ujawniło, że producent otrzymał około 30 ciosów, kopnięć i uderzeń pałką, nie stawiając przy tym żadnego oporu."
       ]
     },
     {
@@ -1814,7 +1781,7 @@
       ]
     },
     {
-      "id": "swiat-3-d27e37",
+      "id": "swiat-2-d27e37",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1857,7 +1824,7 @@
       "original_title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:54",
+      "time": "02:09",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
@@ -1875,139 +1842,209 @@
         "Rosja nie skomentowała naruszeń, do których doszło podczas jednego z największych ataków powietrznych na Ukrainę od rozpoczęcia inwazji na pełną skalę w 2022 roku.",
         "Minister obrony Władysław Kosiniak-Kamysz powiedział, że rakieta Kh-101 uderzyła w obszar wiejski w Nowym Lipowcu w południowo-wschodniej Polsce, około 50 km (31 mil) od granicy z Ukrainą."
       ]
-    },
-    {
-      "id": "swiat-7-4df510",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Gérard Depardieu i francuski autor prowadzili dochodzenie w sprawie zarzutów o charakterze seksualnym",
-      "original_title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:45",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Dochodzenie sądowe wszczęto po złożeniu w ubiegłym roku skargi w związku z „zarzutami o charakterze seksualnym”.",
-        "Władze francuskie prowadzą dochodzenie w sprawie zhańbionego aktora Gérarda Depardieu i autora Michela Houellebecqa w związku z „zarzutami o charakterze seksualnym”, twierdzi źródło posiadające wiedzę na temat śledztwa.",
-        "Potwierdzenie następuje po doniesieniach francuskich mediów, że oboje zostali oskarżeni przez aktorkę o udział w „zbiorowym gwałcie” na planie filmu Thalasso w 2018 roku."
-      ],
-      "extended_paragraphs": [
-        "Dochodzenie sądowe wszczęto po złożeniu w ubiegłym roku skargi w związku z „zarzutami o charakterze seksualnym”.",
-        "Władze francuskie prowadzą dochodzenie w sprawie zhańbionego aktora Gérarda Depardieu i autora Michela Houellebecqa w związku z „zarzutami o charakterze seksualnym”, twierdzi źródło posiadające wiedzę na temat śledztwa.",
-        "Potwierdzenie następuje po doniesieniach francuskich mediów, że oboje zostali oskarżeni przez aktorkę o udział w „zbiorowym gwałcie” na planie filmu Thalasso w 2018 roku.",
-        "Źródło poinformowało BBC, że po złożeniu skargi w maju 2025 r. wszczęto dochodzenie sądowe.",
-        "Depardieu był już oddzielnie skazany za niepowiązane napaści na tle seksualnym. BBC skontaktowało się z prawnikami Depardieu i Houellebecqiem, uznanym francuskim pisarzem i okazjonalnym aktorem, z prośbą o komentarz."
-      ]
     }
   ],
   "sport": [
     {
-      "id": "sport-1-f5549f",
+      "id": "sport-2-f95cfc",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Zaszył się w domu po śmierci piłkarza. Teraz go przyłapano",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:34",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285268/zaszyl-sie-w-domu-po-smierci-pilkarza-teraz-go-przylapano",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00b7c0279ea1_67859105.png",
-      "image_source": "Fot. / Źródło: SportoweFakty",
+      "title": "Price pokonuje Kotaskovą i zostaje niekwestionowanym mistrzem",
+      "original_title": "Price beats Kotaskova to become undisputed champion",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:30",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/795f/live/1dc78710-e53c-11f1-8e3b-a9faa658e88c.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": true,
       "summary_points": [
-        "Jesus Owono od ponad dwóch tygodni nie trenuje z FC Andorra.",
-        "Bramkarz nie może otrząsnąć się po tragicznej śmierci Jesusa de Miguela z CD Tenerife.",
-        "Teraz po raz pierwszy od dłuższego czasu pojawił się publicznie."
+        "Lauren Price zdominowała Michaelę Kotaskovą i przypieczętowała swoje miejsce w historii, zostając niekwestionowaną mistrzynią świata wagi półśredniej.",
+        "Price (32 l.) podjęła jednomyślną, wykluczającą decyzję i zyskała uznanie publiczności, aby dodać tytuł WBO do swojej kolekcji i zostać pierwszą walijską zawodniczką, która zdobyła uznanie w postaci posiadania wszystkich czterech głównych tytułów mistrza świata.",
+        "Była już mistrzynią olimpijską i mistrzynią świata z czasów amatorskich, co jeszcze bardziej podkreśliło jej roszczenia do bycia jedną z najlepszych w boksie."
       ],
       "extended_paragraphs": [
-        "Jesus Owono od ponad dwóch tygodni nie trenuje z FC Andorra. Bramkarz nie może otrząsnąć się po tragicznej śmierci Jesusa de Miguela z CD Tenerife. Teraz po raz pierwszy od dłuższego czasu pojawił się publicznie. Kamery uchwyciły go na trybunach.",
-        "Skomentuj Jesus Owono od ponad dwóch tygodni nie trenuje z FC Andorra. Bramkarz nie może otrząsnąć się po tragicznej śmierci Jesusa de Miguela z CD Tenerife. Teraz po raz pierwszy od dłuższego czasu pojawił się publicznie. Kamery uchwyciły go na trybunach.",
-        "W piątek, 20 listopada, FC Andorra podejmowała CD Leganes w rozgrywkach drugiej ligi hiszpańskiej. Na trybunach stadionu w Encamp pojawił się niespodziewany gość. Jesus Owono, który po tragicznym zdarzeniu w meczu z CD Tenerife odizolował się od świata, zdecydował się opuścić dom. Bramkarz przyszedł obejrzeć spotkanie swoich kolegów. Wszystko uchwyciły kamery telewizyjne.",
-        "25-latek siedział obok kontuzjowanych zawodników FC Andorra, Aleksa Calvo i Theo Le Normanda. Szczególnie poruszający moment nastąpił jeszcze przed pierwszym gwizdkiem. Piłkarze i kibice uczcili pamięć zmarłego Jesusa de Miguela minutą ciszy. Owono nie krył emocji. Po zakończeniu uroczystości pogrążył się w modlitwie. O wszystkim poinformowały hiszpańskie dzienniki \"Marca\" i \"AS\".",
-        "Przypomnijmy, że do tragedii doszło 2 listopada, podczas spotkania CD Tenerife z FC Andorra. W końcówce meczu Owono brutalnie zderzył się z Jesusem de Miguelem, próbując interweniować poza bramką. Napastnik doznał poważnych obrażeń i trafił do szpitala. Następnego dnia przekazano informację o jego śmierci. Miał zaledwie 30 lat."
+        "Lauren Price zdominowała Michaelę Kotaskovą i przypieczętowała swoje miejsce w historii, zostając niekwestionowaną mistrzynią świata wagi półśredniej.",
+        "Price (32 l.) podjęła jednomyślną, wykluczającą decyzję i zyskała uznanie publiczności, aby dodać tytuł WBO do swojej kolekcji i zostać pierwszą walijską zawodniczką, która zdobyła uznanie w postaci posiadania wszystkich czterech głównych tytułów mistrza świata.",
+        "Była już mistrzynią olimpijską i mistrzynią świata z czasów amatorskich, co jeszcze bardziej podkreśliło jej roszczenia do bycia jedną z najlepszych w boksie.",
+        "Jednak sposób, w jaki tego dokonała, przedłużając swój doskonały rekord zawodowy do 11 zwycięstw w 11 walkach, sugerował, że może jeszcze wydarzyć się coś więcej.",
+        "Opublikowano 1 dzień temu Price wygrywała każdą rundę od każdego sędziego przed partyzancką publicznością w Cardiff, utrzymując nieubłagane tempo, które karało jej przeciwniczkę przy każdej okazji."
       ]
     },
     {
-      "id": "sport-2-eaae13",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Krytyka fanów Man Utd czasami sięgała za daleko – Berrada",
-      "original_title": "Man Utd fan criticism has gone too far at times - Berrada",
+      "id": "sport-4-75736e",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 100 milionów funtów, 10 milionów funtów, 7,5 miliona funtów) o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [
+        "100 milionów funtów",
+        "10 milionów funtów",
+        "7,5 miliona funtów"
+      ],
+      "title": "Koszt zatrudniania i zwalniania menedżerów Man Utd zbliża się do 100 milionów funtów",
+      "original_title": "Cost of Man Utd hiring and firing managers nears £100m",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:55",
+      "time": "23:18",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f72e/live/c613bd70-e4fc-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Dyrektor naczelny Manchesteru United, Omar Berrada, mówi, że część niedawnej krytyki pod adresem hierarchii klubu „przekroczyła granicę”.",
-        "Reporter Manchesteru United Opublikowano 20 listopada 2026, 16:24 GMT Zaktualizowano 4 godziny temu Dyrektor naczelny Manchesteru United, Omar Berrada, twierdzi, że część krytyki skierowanej pod adresem hierarchii klubu „przekroczyła granicę”.",
-        "W rzadkim wywiadzie dla Sky Sports, w którym główny trener Mauricio Pochettino przygotowuje się do swojego pierwszego meczu w niedzielę w Liverpoolu, Berrada powiedział, że „rozumie” frustrację kibiców United, którzy zajmują 18."
+        "Manchester United pożyczył 10 milionów funtów trzy dni po potwierdzeniu, że Mauricio Pochettino będzie ich nowym głównym trenerem, co będzie kosztować 7,5 miliona funtów w ramach rekompensaty dla US Soccer.",
+        "Reporter Manchesteru United Opublikowano 3 godziny temu Manchester United pożyczył kolejne 10 milionów funtów trzy dni po zatwierdzeniu Mauricio Pochettino na nowego głównego trenera.",
+        "W rozszerzonym wniosku giełdowym dotyczącym wyników finansowych za pierwszy kwartał, który został opublikowany w czwartek, United stwierdziło, że będzie zobowiązane zapłacić 7,5 miliona funtów odszkodowania na rzecz US Soccer za zatrudnienie Argentyńczyka."
       ],
       "extended_paragraphs": [
-        "Dyrektor naczelny Manchesteru United, Omar Berrada, mówi, że część niedawnej krytyki pod adresem hierarchii klubu „przekroczyła granicę”.",
-        "Reporter Manchesteru United Opublikowano 20 listopada 2026, 16:24 GMT Zaktualizowano 4 godziny temu Dyrektor naczelny Manchesteru United, Omar Berrada, twierdzi, że część krytyki skierowanej pod adresem hierarchii klubu „przekroczyła granicę”.",
-        "W rzadkim wywiadzie dla Sky Sports, w którym główny trener Mauricio Pochettino przygotowuje się do swojego pierwszego meczu w niedzielę w Liverpoolu, Berrada powiedział, że „rozumie” frustrację kibiców United, którzy zajmują 18. miejsce w Premier League. Powiedział też, że część krytyki była „uczciwa”.",
-        "„Zajmowanie tego stanowiska wiąże się naturalnie z krytyką i analizą, jaką spotkamy” – powiedział. „Akceptujemy to. Część z nich jest sprawiedliwa, a część przekracza granicę.",
-        "„Żyjemy w świecie mediów społecznościowych, gdzie ludzie lubią generować negatywne historie na temat klubu, ponieważ zwiększa to zaangażowanie oraz powoduje większy hałas i aktywność wokół klubu. Ale to parkujemy.”"
+        "Manchester United pożyczył 10 milionów funtów trzy dni po potwierdzeniu, że Mauricio Pochettino będzie ich nowym głównym trenerem, co będzie kosztować 7,5 miliona funtów w ramach rekompensaty dla US Soccer.",
+        "Reporter Manchesteru United Opublikowano 3 godziny temu Manchester United pożyczył kolejne 10 milionów funtów trzy dni po zatwierdzeniu Mauricio Pochettino na nowego głównego trenera.",
+        "W rozszerzonym wniosku giełdowym dotyczącym wyników finansowych za pierwszy kwartał, który został opublikowany w czwartek, United stwierdziło, że będzie zobowiązane zapłacić 7,5 miliona funtów odszkodowania na rzecz US Soccer za zatrudnienie Argentyńczyka.",
+        "United ogłosiło 13 listopada, że ​​Pochettino zgodził się na dwuipółletni kontrakt. 16 listopada pożyczyli 10 milionów funtów.",
+        "Pożyczka jest jedną z trzech potwierdzonych po dacie sprawozdawczej za pierwszy kwartał 30 września, co oznacza, że ​​łączna kwota należna z tytułu odnawialnego limitu kredytowego wynosi 240 mln funtów."
       ]
     },
     {
-      "id": "sport-3-9df953",
+      "id": "sport-5-e464c9",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
+      "market_impact": "HIGH",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Koszmarny wieczór Bayernu. Stracił punkty i dwóch liderów",
+      "title": "Trener Pogoni Szczecin broni się po porażkach. \"Moje podejście nie zmienia się\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:33",
+      "time": "22:35",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285277/koszmarny-wieczor-bayernu-stracil-punkty-i-dwoch-liderow",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00bd32930923_47813785.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285287/trener-pogoni-szczecin-broni-sie-po-porazkach-moje-podejscie-nie-zmienia-sie",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00adbcab3020_42932338.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Bayern Monachium tylko zremisował 1:1 z 1.",
-        "Strata punktów może jednak nie być najgorszą wiadomością tego wieczoru.",
-        "Z powodu urazów boisko przedwcześnie opuścili Harry Kane i Michael Olise."
+        "Trzy porażki Pogoni Szczecin poszły w parze z nieporozumieniami trenera Oscara Garcii z zarządem klubu.",
+        "Hiszpan przekonuje, że jego niedoszłe przenosiny do Dinama Zagrzeb nie miały wpływu na zespół.",
+        "1 Komentarz Trzy porażki Pogoni Szczecin poszły w parze z nieporozumieniami trenera Oscara Garcii z zarządem klubu."
       ],
       "extended_paragraphs": [
-        "Bayern Monachium tylko zremisował 1:1 z 1. FC Köln. Strata punktów może jednak nie być najgorszą wiadomością tego wieczoru. Z powodu urazów boisko przedwcześnie opuścili Harry Kane i Michael Olise.",
-        "Skomentuj Bayern Monachium tylko zremisował 1:1 z 1. FC Köln. Strata punktów może jednak nie być najgorszą wiadomością tego wieczoru. Z powodu urazów boisko przedwcześnie opuścili Harry Kane i Michael Olise.",
-        "Bayern Monachium był zdecydowanym faworytem, ale już od początku miał problemy. Gospodarze szybko stracili gola, a jeszcze przed przerwą dwóch kluczowych zawodników. Ostatecznie uratowali remis, choć w końcówce to 1.FC Koeln miało znakomitą okazję, aby sensacyjnie wywieźć z Monachium komplet punktów.",
-        "Pierwszy cios gospodarze otrzymali już w 12. minucie. Michael Olise niedokładnie podał do Konrada Laimera , goście przejęli piłkę i wyprowadzili skuteczną kontrę. Akcję wykończył Mikey Moore, dając Köln niespodziewane prowadzenie 1:0.",
-        "Osiem minut później Bayern miał znacznie większy problem. Harry Kane ucierpiał po interwencji Joela Schmieda w okolicach stawu skokowego. Anglik próbował jeszcze kontynuować grę, ale ostatecznie musiał zejść z boiska. Zastąpił go Tom Bischof ."
+        "Trzy porażki Pogoni Szczecin poszły w parze z nieporozumieniami trenera Oscara Garcii z zarządem klubu. Hiszpan przekonuje, że jego niedoszłe przenosiny do Dinama Zagrzeb nie miały wpływu na zespół.",
+        "1 Komentarz Trzy porażki Pogoni Szczecin poszły w parze z nieporozumieniami trenera Oscara Garcii z zarządem klubu. Hiszpan przekonuje, że jego niedoszłe przenosiny do Dinama Zagrzeb nie miały wpływu na zespół.",
+        "Pogoń Szczecin potrafiła w tym sezonie być niepokonana przez 10 kolejek, a w pięciu meczach z rzędu zwyciężała. Teraz wpadła w głęboki dołek, a Oscar Garcia nie będzie miał prostego zadania w ostatnich kolejkach w rundzie jesiennej w PKO Ekstraklasie . Przeciwnikami Pogoni będą drużyny z czołówki, a gra Portowców pozostawia dużo do życzenia. W piątek przegrali 1:2 ze Śląskiem Wrocław .",
+        "- Zanim strzeliliśmy gola na 1:0, byliśmy znacznie lepszym zespołem na boisku. Mieliśmy nasze szanse na zwycięstwo i kolejne gole, ale jesteśmy w takim momencie, że wszystko idzie przeciwko nam. Po dwóch klarownych błędach straciliśmy dwa gole, a nasza gra przestała funkcjonować dobrze. Nie potrafiliśmy \"zabić\" tego meczu - mówi Oscar Garcia na konferencji prasowej.",
+        "- Mam takie same podejście, jak w czasie serii pięciu zwycięstw. Nie można było oczekiwać, że nigdy nie przegramy meczu. Było jasne, że nie dotrwamy z serią do końca sezonu. Kilka razy byliśmy na limicie. Kiedy teraz mamy gorszy moment w defensywie i jesteśmy nieskuteczni, to taki mamy tego rezultat. Zwyciężamy i przegramy jako cała drużyna - opowiada trener."
       ]
     },
     {
-      "id": "sport-4-454509",
+      "id": "sport-8-75628e",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 950 milionów funtów) o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [
+        "950 milionów funtów"
+      ],
+      "title": "Świetny NFL, Brady, mógłby kupić udziały w Chelsea",
+      "original_title": "NFL great Brady could buy Chelsea stake",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:36",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Wielki futbol amerykański Tom Brady chce zainwestować w Chelsea za pośrednictwem grupy właścicielskiej Clearlake Capital.",
+        "Reporter Chelsea Opublikowano 4 godziny temu Wielki futbol amerykański Tom Brady chce zainwestować w Chelsea za pośrednictwem grupy właścicielskiej Clearlake Capital.",
+        "Siedmiokrotny zwycięzca Super Bowl niedawno sprzedał swoje udziały w klubie Championship Birmingham City, który kupił po przejęciu Knighthead Capital przez Toma Wagnera w 2023 roku."
+      ],
+      "extended_paragraphs": [
+        "Wielki futbol amerykański Tom Brady chce zainwestować w Chelsea za pośrednictwem grupy właścicielskiej Clearlake Capital.",
+        "Reporter Chelsea Opublikowano 4 godziny temu Wielki futbol amerykański Tom Brady chce zainwestować w Chelsea za pośrednictwem grupy właścicielskiej Clearlake Capital.",
+        "Siedmiokrotny zwycięzca Super Bowl niedawno sprzedał swoje udziały w klubie Championship Birmingham City, który kupił po przejęciu Knighthead Capital przez Toma Wagnera w 2023 roku.",
+        "Teraz wydaje się, że mógłby przenieść się do Chelsea, gdzie ma pozytywne relacje z wpływowym współwłaścicielem Behdadem Eghbalim, będąc głównym gościem na after-party po triumfie klubu w Klubowych Mistrzostwach Świata w 2025 roku.",
+        "Brady nie miałby prawa głosu ani kontroli w Chelsea, chociaż grupa właścicieli mogłaby rozważyć mianowanie go do zarządu, gdyby odpowiadało to wszystkim stronom."
+      ]
+    },
+    {
+      "id": "sport-1-11a57a",
+      "entity_tag": "Formuła 1",
+      "sector": "Motorsport",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Dominacja Russella w Las Vegas. I kuriozalny kontakt z Verstappenem",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "01:42",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/formula-1/1285296/dominacja-russella-w-las-vegas-i-kuriozalny-kontakt-z-verstappenem",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00f0a487d571_24825567.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "George Russell okazał się najszybszy w trzecim treningu F1 przed GP Las Vegas, a Mercedes potwierdził dobrą dyspozycję po zwycięstwie kierowcy w drugiej sesji.",
+        "Nie brakowało jednak interesujących przetasowań i incydentów.",
+        "Skomentuj George Russell okazał się najszybszy w trzecim treningu F1 przed GP Las Vegas, a Mercedes potwierdził dobrą dyspozycję po zwycięstwie kierowcy w drugiej sesji."
+      ],
+      "extended_paragraphs": [
+        "George Russell okazał się najszybszy w trzecim treningu F1 przed GP Las Vegas, a Mercedes potwierdził dobrą dyspozycję po zwycięstwie kierowcy w drugiej sesji. Nie brakowało jednak interesujących przetasowań i incydentów.",
+        "Skomentuj George Russell okazał się najszybszy w trzecim treningu F1 przed GP Las Vegas, a Mercedes potwierdził dobrą dyspozycję po zwycięstwie kierowcy w drugiej sesji. Nie brakowało jednak interesujących przetasowań i incydentów.",
+        "Trzeci trening Formuły 1 przed GP Las Vegas miał szczególne znaczenie dla zespołów. Opady deszczu mocno ograniczyły bowiem możliwość zebrania reprezentatywnych danych w pierwszej i drugiej sesji. Dość powiedzieć, że na otwarcie weekendu żaden kierowca nie ustanowił mierzonego czasu . Druga odbywała się na mokrej, stopniowo przesychającej nawierzchni. Najlepszy okazał się w niej George Russell , który uzyskał czas 1:47.272.",
+        "W trzeciej sesji początkowo na czele tabeli znajdował się Max Verstappen . Holender dobrze rozpoczął ostatnie przejazdy przed kwalifikacjami i w jej trakcie wyprzedzał m.in. Isacka Hadjara oraz Lando Norrisa . W czołówce znajdowali się również Pierre Gasly i George Russell .",
+        "Sytuacja zmieniła się po kolejnych przejazdach. Russell zaczął poprawiać swoje rezultaty i odebrał prowadzenie Verstappenowi. Brytyjczyk najpierw uzyskał 1:35.124, a następnie poprawił się na 1:34.805. Już wtedy dysponował wyraźną przewagą nad rywalami."
+      ]
+    },
+    {
+      "id": "sport-3-b3358d",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "FC Porto uciekło spod topora! Zdecydowały rzuty karne, Pietuszewski nie wykorzystał jedenastki",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "23:43",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285291/fc-porto-ucieklo-spod-topora-zdecydowaly-rzuty-karne-pietuszewski-nie-wykorzysta",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00dab75d6c80_25858240.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "FC Porto było o krok od gigantycznej wpadki z trzecioligowym USC Paredes.",
+        "Faworyt potrzebował dogrywki i rzutów karnych, by wywalczyć awans.",
+        "Oskar Pietuszewski zmarnował swoją jedenastkę, ale pomyłka Polaka ostatecznie nie okazała się kosztowna."
+      ],
+      "extended_paragraphs": [
+        "FC Porto było o krok od gigantycznej wpadki z trzecioligowym USC Paredes. Faworyt potrzebował dogrywki i rzutów karnych, by wywalczyć awans. Oskar Pietuszewski zmarnował swoją jedenastkę, ale pomyłka Polaka ostatecznie nie okazała się kosztowna.",
+        "Skomentuj FC Porto było o krok od gigantycznej wpadki z trzecioligowym USC Paredes. Faworyt potrzebował dogrywki i rzutów karnych, by wywalczyć awans. Oskar Pietuszewski zmarnował swoją jedenastkę, ale pomyłka Polaka ostatecznie nie okazała się kosztowna.",
+        "To miał być jeden z tych wieczorów, podczas których FC Porto szybko załatwia sprawę i może oszczędzać najważniejszych zawodników. Zamiast tego na Estadio do Dragão zrobiło się nerwowo, bo trzecioligowiec nie tylko postawił się gospodarzom, ale momentami tworzył groźniejsze sytuacje. USC Paredes doprowadziło do dogrywki, a po 120 minutach wciąż było 1:1. O wszystkim musiały zdecydować rzuty karne.",
+        "Problemy gospodarzy były widoczne właściwie od początku. Paredes nie zamierzało ograniczać się do obrony i już w pierwszej połowie kilkukrotnie mogło objąć prowadzenie. W 22. minucie Daniel Rodrigues pomylił się minimalnie, a później Claudio Ramos musiał ratować Porto po kolejnej znakomitej okazji gości.",
+        "Niewykorzystane sytuacje zemściły się w 41. minucie. Seko Fofana wbiegł w pole karne i mocnym uderzeniem dał Porto prowadzenie. Wynik 1:0 zupełnie nie odzwierciedlał jednak tego, jak duże problemy faworyt miał z trzecioligowym przeciwnikiem."
+      ]
+    },
+    {
+      "id": "sport-6-454509",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2026,146 +2063,48 @@
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "W sobotę łatwe w odbiorze ożywienie w Anglii zostanie wystawione na próbę przez drużynę nowozelandzką pod nagłą presją Reporter wiadomości o związku rugby BBC Sport Opublikowano 4 godziny temu Na lewej stopie Willa Stuarta wytatuowano ciąg symboli.",
+        "W sobotę łatwe w odbiorze ożywienie w Anglii zostanie wystawione na próbę przez drużynę nowozelandzką pod nagłą presją Reporter wiadomości o związku rugby BBC Sport Opublikowano 20 listopada 2026 r. Na lewej stopie Willa Stuarta wytatuowano ciąg symboli.",
         "Okrąg, dwa trójkąty, strzałka w górę, kolejne kółko, R1, L2, strzałka w górę, trójkąt i na koniec trzy razy L1.",
         "Stuart, gwiazdor reprezentacji Anglii oraz brytyjskiej i irlandzkiej drużyny Lions, jest trwale, choć żartobliwie, ostemplowany kodem do Grand Theft Auto, zewnętrznym, który dodaje Twojej postaci maksymalnego seksapilu w grze."
       ],
       "extended_paragraphs": [
         "W sobotę łatwe w odbiorze ożywienie w Anglii zostanie wystawione na próbę przez drużynę nowozelandzką pod nagłą presją",
-        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 4 godziny temu Na lewej stopie Willa Stuarta wytatuowano ciąg symboli.",
+        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 20 listopada 2026 r. Na lewej stopie Willa Stuarta wytatuowano ciąg symboli.",
         "Okrąg, dwa trójkąty, strzałka w górę, kolejne kółko, R1, L2, strzałka w górę, trójkąt i na koniec trzy razy L1.",
         "Stuart, gwiazdor reprezentacji Anglii oraz brytyjskiej i irlandzkiej drużyny Lions, jest trwale, choć żartobliwie, ostemplowany kodem do Grand Theft Auto, zewnętrznym, który dodaje Twojej postaci maksymalnego seksapilu w grze.",
         "Pod nieobecność kontuzjowanego Stuarta i jego kodu na początku tego roku Anglia z pewnością straciła zapał."
       ]
     },
     {
-      "id": "sport-5-b52854",
+      "id": "sport-7-c25246",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Dramatyczny występ na poziomie koszykarskiej ekstraklasy. Tylko 52 punkty",
+      "title": "Dramat Harry'ego Kane'a. Zdobywca Złotej Piłki wypada na wiele miesięcy!",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:33",
+      "time": "22:34",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/koszykowka/1285275/dramatyczny-wystep-na-poziomie-koszykarskiej-ekstraklasy-tylko-52-punkty",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6ac3f196684219_87764527.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285290/dramat-harryego-kanea-zdobywca-zlotej-pilki-wypada-na-wiele-miesiecy",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00cab43c8118_98640082.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Górnik Zamek Książ Wałbrzych po trzech porażkach z rzędu wraca na właściwe tory.",
-        "Pokonał Euvic GTK Gliwice.",
-        "Skomentuj Górnik Zamek Książ Wałbrzych po trzech porażkach z rzędu wraca na właściwe tory."
+        "Fatalne wieści dla Bayernu Monachium.",
+        "Harry Kane doznał zerwania więzozrostu podczas meczu z 1.",
+        "Max Eberl potwierdził diagnozę, a według \"Bilda\" zdobywcy Złotej Piłki grożą nawet cztery miesiące przerwy."
       ],
       "extended_paragraphs": [
-        "Górnik Zamek Książ Wałbrzych po trzech porażkach z rzędu wraca na właściwe tory. Pokonał Euvic GTK Gliwice. Goście rzucili tylko... 52 punkty.",
-        "Skomentuj Górnik Zamek Książ Wałbrzych po trzech porażkach z rzędu wraca na właściwe tory. Pokonał Euvic GTK Gliwice. Goście rzucili tylko... 52 punkty.",
-        "O tym meczu drużyna z Gliwic będzie chciała jak najszybciej zapomnieć. Goście w piątkowy wieczór wypadli koszmarnie.",
-        "Euvic GTK w Wałbrzychu zdobył zaledwie... 52 punkty . Jak na koszykarską ekstraklasę jest to wynik fatalny. Gracze Nebojsi Vidicia trafili zaledwie 5 na 29 rzutów za trzy, a więcej, niż 10 oczek, wywalczyli tylko Selton Miguel (12) i Eric Nottage (15).",
-        "Górnik Zamek Książ Wałbrzych dobił rywali w trzeciej kwarcie, wygrywając tę odsłonę 27:14, a cały mecz 70:52."
-      ]
-    },
-    {
-      "id": "sport-6-dc7385",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Filmowanie treningów przez drony powinno być nielegalne – Iraola",
-      "original_title": "Filming training by drones should be illegal - Iraola",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:08",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fcc/live/7922cff0-e4ee-11f1-8781-bf15c9202663.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Główny trener Liverpoolu Andoni Iraola twierdzi, że filmowanie przy użyciu dronów wokół pól treningowych powinno być nielegalne.",
-        "Reporter piłkarski Opublikowano 6 godzin temu Główny trener Liverpoolu Andoni Iraola twierdzi, że filmowanie przy użyciu dronów wokół pól treningowych powinno być nielegalne po tym, jak pierwsza sesja Mauricio Pochettino jako menadżera Manchesteru United została uchwycona i udostępniona w Internecie.",
-        "Pochettino i jego zawodnicy byli wyraźnie widoczni na materiale filmowym, który został nakręcony nad bazą treningową drużyny United w Carrington, pod różnymi kątami i z różnych odległości."
-      ],
-      "extended_paragraphs": [
-        "Główny trener Liverpoolu Andoni Iraola twierdzi, że filmowanie przy użyciu dronów wokół pól treningowych powinno być nielegalne.",
-        "Reporter piłkarski Opublikowano 6 godzin temu Główny trener Liverpoolu Andoni Iraola twierdzi, że filmowanie przy użyciu dronów wokół pól treningowych powinno być nielegalne po tym, jak pierwsza sesja Mauricio Pochettino jako menadżera Manchesteru United została uchwycona i udostępniona w Internecie.",
-        "Pochettino i jego zawodnicy byli wyraźnie widoczni na materiale filmowym, który został nakręcony nad bazą treningową drużyny United w Carrington, pod różnymi kątami i z różnych odległości.",
-        "Operator drona przeprosił, a później usunął nagranie, a źródła poinformowały BBC Sport, że niewzruszenie zapewniają, że nie doszło do naruszenia bezpieczeństwa i nie zamierzają podejmować działań prawnych.",
-        "Iraola powiedział, że 12 minut materiału przesłano mu w czwartek – trzy dni przed wyjazdem Manchesteru United na Anfield na mecz Premier League."
-      ]
-    },
-    {
-      "id": "sport-7-500ac3",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Zagrał niczym profesor. W nagrodę wywalczył awans do półfinału",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:31",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1285276/zagral-niczym-profesor-w-nagrode-wywalczyl-awans-do-polfinalu",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00bae9c5ac84_98191081.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Danił Miedwiediew został ostatnim półfinalistą rozgrywanych na korcie twardym w hali w Turynie ATP Finals 2026.",
-        "W piątkowy wieczór, w meczu o drugie miejsce w Grupie Ivana Lendla, tenisista z Moskwy pokonał Francesa Tiafoe'a.",
-        "Skomentuj Danił Miedwiediew został ostatnim półfinalistą rozgrywanych na korcie twardym w hali w Turynie ATP Finals 2026."
-      ],
-      "extended_paragraphs": [
-        "Danił Miedwiediew został ostatnim półfinalistą rozgrywanych na korcie twardym w hali w Turynie ATP Finals 2026. W piątkowy wieczór, w meczu o drugie miejsce w Grupie Ivana Lendla, tenisista z Moskwy pokonał Francesa Tiafoe'a.",
-        "Skomentuj Danił Miedwiediew został ostatnim półfinalistą rozgrywanych na korcie twardym w hali w Turynie ATP Finals 2026. W piątkowy wieczór, w meczu o drugie miejsce w Grupie Ivana Lendla, tenisista z Moskwy pokonał Francesa Tiafoe'a.",
-        "Ostatni mecz fazy grupowej ATP Finals miał jasno zdefiniowaną stawkę. Danił Miedwiediew i Frances Tiafoe zmierzyli się ze sobą w bezpośrednim pojedynku o awans do półfinału. Niespodzianki nie było. Rozstawiony z numerem czwartym Moskwianin pokazał się ze świetnej strony i pokonał oznaczonego \"siódemką\" Amerykanina 6:3, 6:4.",
-        "Bardziej utytułowany i doświadczony w takich meczach Miedwiediew zagrał niczym profesor. Moskwianin był regularny, spokojny, wspaniale serwował i znakomicie wykorzystywał słabość Tiafoe'a - bekhend Amerykanina.",
-        "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
-      ]
-    },
-    {
-      "id": "sport-8-6ba5f2",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna (kluczowe liczby: 100 milionów funtów) o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [
-        "100 milionów funtów"
-      ],
-      "title": "Osimhen zainteresowany transferem do Man Utd – sobotnia plotka",
-      "original_title": "Osimhen keen on Man Utd move - Saturday's gossip",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:06",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e193/live/602d2330-e519-11f1-a094-5fdc692f3e33.png",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Victor Osimhen jest zainteresowany przeprowadzką do Manchesteru United, Aston Villa jest zainteresowana Amadem Diallo, a Ivan Toney jest celem Crystal Palace i nie tylko.",
-        "Napastnik Galatasaray i Nigerii Victor Osimhen (27 l.) jest skłonny przenieść się do Manchesteru United za styczniową umowę o wartości 100 milionów funtów, jeśli uda mu się dopasować jego obecną pensję.",
-        "(Słońce), zewnętrzne 24-letni Amad Diallo jest gotowy opuścić Manchester United, jeśli nie będzie miał regularnych występów pod okiem nowego trenera Mauricio Pochettino, a skrzydłowym Wybrzeża Kości Słoniowej interesuje się Aston Villa."
-      ],
-      "extended_paragraphs": [
-        "Victor Osimhen jest zainteresowany przeprowadzką do Manchesteru United, Aston Villa jest zainteresowana Amadem Diallo, a Ivan Toney jest celem Crystal Palace i nie tylko.",
-        "Napastnik Galatasaray i Nigerii Victor Osimhen (27 l.) jest skłonny przenieść się do Manchesteru United za styczniową umowę o wartości 100 milionów funtów, jeśli uda mu się dopasować jego obecną pensję. (Słońce), zewnętrzne",
-        "24-letni Amad Diallo jest gotowy opuścić Manchester United, jeśli nie będzie miał regularnych występów pod okiem nowego trenera Mauricio Pochettino, a skrzydłowym Wybrzeża Kości Słoniowej interesuje się Aston Villa. (Afryka Foot, przez Teamtalk), zewnętrzny",
-        "Napastnik Anglii Ivan Toney (30 l.) może być celem Crystal Palace w styczniu w przypadku posunięcia, które wiązałoby się z połączeniem go z menadżerem Eagles Thomasem Frankiem, pod którym napastnik Al-Ahli grał w Brentford. (Talksport), zewnętrzny",
-        "Oczekuje się, że brazylijski napastnik Richarlison opuści Tottenham w styczniu, ale jest mało prawdopodobne, że 29-latek będzie mógł dołączyć do innego klubu z Premier League. (Football Insider), zewnętrzny"
+        "Fatalne wieści dla Bayernu Monachium. Harry Kane doznał zerwania więzozrostu podczas meczu z 1. FC Koeln. Max Eberl potwierdził diagnozę, a według \"Bilda\" zdobywcy Złotej Piłki grożą nawet cztery miesiące przerwy.",
+        "2 Komentarze Fatalne wieści dla Bayernu Monachium. Harry Kane doznał zerwania więzozrostu podczas meczu z 1. FC Koeln. Max Eberl potwierdził diagnozę, a według \"Bilda\" zdobywcy Złotej Piłki grożą nawet cztery miesiące przerwy.",
+        "Remis 1:1 z 1.FC Koeln zszedł w Monachium na dalszy plan. Harry Kane opuścił murawę już po 20 minutach, a po zakończeniu spotkania Bayern Monachium poznał diagnozę swojej największej gwiazdy. Jest znacznie poważniejsza, niż można było początkowo przypuszczać. Zdobywca Złotej Piłki wypada z gry na kilka miesięcy. Co więcej, klub musi zdecydować, czy konieczna będzie operacja.",
+        "- W przypadku Harry'ego Kane'a mamy zerwanie więzozrostu. Przerwa będzie podobna jak u Ismaela Saibariego. W tej chwili trwają dyskusje, czy potrzebna będzie operacja - przekazał Max Eberl w strefie mieszanej.",
+        "\"Bild\" podaje już konkretny przewidywany czas absencji. Według informacji niemieckiego dziennika Kane może wypaść z gry na trzy lub nawet cztery miesiące."
       ]
     }
   ],
@@ -2369,11 +2308,11 @@
       "summary_points": [
         "Spółki przechodzą z wykupu akcji na emisję akcji, zwiększając podaż.",
         "Pierwsza oferta publiczna Anthropic o wartości 81 miliardów dolarów wystawia ten popyt na próbę.",
-        "Spółki przestawiły się z wykupu akcji na ich emisję, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa."
+        "Spółki przestawiły się z wykupu akcji na rzecz ich emisji, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa."
       ],
       "extended_paragraphs": [
         "Spółki przechodzą z wykupu akcji na emisję akcji, zwiększając podaż. Pierwsza oferta publiczna Anthropic o wartości 81 miliardów dolarów wystawia ten popyt na próbę.",
-        "Spółki przestawiły się z wykupu akcji na ich emisję, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa.",
+        "Spółki przestawiły się z wykupu akcji na rzecz ich emisji, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa.",
         "„Bez względu na to, jak to zmierzyć, amerykańskie korporacje zmieniły swoje zachowanie w ciągu ostatnich dwóch lat, przechodząc od wykupu w 2024 r. do emisji dzisiaj” – napisał w tym miesiącu menadżer portfela Acadian Asset Management Owen Lamont. „Pytanie, które powinieneś zadać, brzmi: dlaczego sprzedaje się inteligentne pieniądze?”",
         "Według ostatniej analizy Acadian, pod koniec ubiegłego tygodnia nowa emisja netto akcji wyniosła 3,1% całkowitej kapitalizacji rynkowej. Chociaż emisja netto utrzymuje się poniżej szczytów z bańki technologicznej i bańki covidowej, analiza pokazuje, że era wykupów dobiegła końca i rozpoczęła się era emisji akcji.",
         "W tym tygodniu na rynek przybyła większa podaż wraz z hitową ofertą publiczną Anthropic. Oferta początkowo spotkała się z dużym entuzjazmem, ponieważ pionierskie laboratorium AI sprzedało w ramach pierwszej oferty publicznej akcje po 83 dolarów za sztukę, powyżej oczekiwanego zakresu i pozyskując 81 miliardów dolarów. Jednak w piątek akcje spółki spadają, pociągając za sobą szerszy rynek akcji."
@@ -2424,7 +2363,7 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [],
-      "title": "Były dyrektor generalny GM o planowaniu sukcesji Mary Barra: „Będzie ciężko”",
+      "title": "Były dyrektor generalny GM o planowaniu sukcesji Mary Barra: „To będzie trudne”",
       "original_title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
       "is_foreign": true,
       "lang": "EN",
@@ -2442,7 +2381,7 @@
       "extended_paragraphs": [
         "Były dyrektor generalny GM, Dan Akerson, mówi, że ktokolwiek zastąpi Mary Barrę, będzie miał trudne zadanie, ponieważ odziedziczy szybkie zmiany w technologii i przemyśle samochodowym.",
         "Były dyrektor generalny i prezes General Motors, Dan Akerson, nie przebiera w słowach zapytany o wyzwania, jakie stoją przed producentem samochodów w związku ze znalezieniem następcy dla dyrektora generalnego GM, Mary Barry: „Będzie ciężko”.",
-        "Powinien wiedzieć. 78-letni biznesmen i weteran marynarki wojennej Stanów Zjednoczonych pomógł mu w planowaniu sukcesji i w 2013 r. zarekomendował zarządowi GM, aby Barra zastąpił go na stanowisku dyrektora generalnego. Najwyższe stanowisko piastuje od 15 stycznia 2014 r.",
+        "Powinien wiedzieć. 78-letni biznesmen i weteran marynarki wojennej Stanów Zjednoczonych pomógł mu w planowaniu sukcesji i w 2013 r. zarekomendował zarządowi GM, aby Barra zastąpił go na stanowisku dyrektora generalnego. Na najwyższym stanowisku pracuje od 15 stycznia 2014 r.",
         "Akerson powiedziała, że Barrę będzie trudno zastąpić, powołując się na jej sukces i pozycję pierwszej kobiety na stanowisku dyrektora generalnego dowolnego dużego producenta samochodów oraz ciągłe wyzwania stojące przed branżą motoryzacyjną, takie jak sztuczna inteligencja, cyfryzacja pojazdów oraz rozwój Chin i pojazdów autonomicznych.",
         "„To będzie bardzo, bardzo dynamiczne” – powiedział Akerson CNBC podczas wywiadu telefonicznego. „To będzie duża zmiana”."
       ]

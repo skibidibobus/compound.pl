@@ -3,10 +3,10 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.325",
-    "last_updated": "2026-11-21 02:54",
+    "last_updated": "2026-11-21 10:25",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 18,
-    "foreign_translated_count": 18,
+    "foreign_translated_count": 19,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$58,573",
-      "change": "-5.21%",
+      "price": "$57,906",
+      "change": "-6.24%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,617",
-      "change": "-6.93%",
+      "price": "$1,637",
+      "change": "-6.34%",
       "is_positive": false
     },
     {
@@ -910,7 +910,43 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-429d90",
+      "id": "rynki-1-e60a24",
+      "entity_tag": "Złoto (XAU/USD)",
+      "sector": "Surowce Szlachetne",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Złoto (XAU/USD) (Surowce Szlachetne) (kluczowe liczby: 7,5 mld zł, 2%, 3%) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "7,5 mld zł",
+        "2%",
+        "3%"
+      ],
+      "title": "GTA 6 bije rekordy, giełdy dostają zadyszki. Złoto tonie, bitcoin drży, a miliardy płyną do AI",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/GTA-6-bije-rekordy-gieldy-dostaja-zadyszki-Zloto-tonie-bitcoin-drzy-a-miliardy-plyna-do-AI-9232342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/5/e/72dd5ad4f02032-948-568-66-153-1945-1167.png",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Dzień dobry, tutaj Inwestor Wojtek.",
+        "W tym tygodniu rynki finansowe wchodzą w okres podwyższonej niepewności.",
+        "Mocniejszy dolar spycha złoto i srebro do najniższych poziomów od wielu miesięcy, bitcoin zmaga się z presją sprzedających, a inwestorzy coraz uważniej przyglądają się wycenom spółek surowcowych."
+      ],
+      "extended_paragraphs": [
+        "Dzień dobry, tutaj Inwestor Wojtek. W tym tygodniu rynki finansowe wchodzą w okres podwyższonej niepewności. Mocniejszy dolar spycha złoto i srebro do najniższych poziomów od wielu miesięcy, bitcoin zmaga się z presją sprzedających, a inwestorzy coraz uważniej przyglądają się wycenom spółek surowcowych. W centrum uwagi pozostaje KGHM, który umacnia pozycję światowego lidera produkcji srebra, ale jednocześnie musi mierzyć się z rynkowymi oczekiwaniami dotyczącymi cen miedzi. Do tego inflacyjne problemy Europy, kondycja największych giełdowych gigantów oraz gorące wydarzenia ze świata technologii - od Nvidii po rekordowe transakcje związane z Anthropic.",
+        "fot. tło: Szymon Laszewski / / FORUM / Bankier.pl 1. Złoto i srebro meldują się na nowych rocznych minimach. Takich cen nie było od jesieni 2025 r. Globalna aprecjacja dolara napędzana rosnącymi oczekiwania na podwyżki stóp procentowych w USA spowodowała wyraźne ochłodzenie nastrojów wokół metali szlachetnych. Notowania złota znów osunęły się poniżej psychologicznej bariery 4000 dolarów za uncję do najniższego poziomu od września 2025 r. W jeszcze gorszej sytuacji zdaje się być srebro tracące nie tylko psychologiczne, ale też techniczne wsparcie cenowe na poziomach poprzednich historycznych szczytów.",
+        "2. Ile miedzi jest dziś w cenie KGHM? Analiza Bloomberga i komentarz zarządu Choć po trzech kwartałach 2026 roku KGHM wypracował ponad 7,5 mld zł zysku netto, notowania spółki uległy jesiennej przecenie razem z całym sektorem wydobywczym. Raport Bloomberg Intelligence pokazuje, że kurs polskiego koncernu dyskontuje obecnie najwyższą długoterminową cenę miedzi spośród innych spółek o średniej wielkości. Zarząd odpowiada na rynkową zmienność aktywnym hedgingiem i chwali się umiejętnym wykorzystaniem warunków rynkowych.",
+        "3. Euroinflacja rozlewa się po Europie. Lider może być tylko jeden W niemal wszystkich krajach Unii Europejskiej inflacja przekraczała 2%. W miażdżącej większości było to ponad 3%, a w jednej trzeciej państw członkowskich ceny rosły w tempie bliskim lub wyższym od 5%.",
+        "4. Srebrny numer jeden. KGHM ponownie największym producentem białego metalu KGHM Polska Miedź obronił pozycję największego producenta srebra na świecie w trzecim kwartale 2026 roku. Z najnowszego zestawienia przygotowanego przez serwis MinerDeck wynika, że lubiński gigant wyprzedził amerykańskiego Newmonta oraz meksykańskie Fresnillo. Tego ostatniego dotyczy ciekawe zastrzeżenie, dotyczące ujmowania w rankingu jego spółki matki."
+      ]
+    },
+    {
+      "id": "rynki-3-429d90",
       "entity_tag": "KGHM (GPW: KGH)",
       "sector": "Surowce & Górnictwo",
       "market_impact": "HIGH",
@@ -931,7 +967,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/Krwawy-piatek-na-gieldzie-Indeksy-spadaja-niczym-niezidentyfikowane-obiekty-nad-Polska-9232426.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/c/8/e8fa253501c203-948-568-16-8-1553-932.png",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Fala wyprzedaży przetacza się przez Giełdę Papierów Wartościowych w Warszawie.",
         "Spadki sprowadziły główne indeksy na poziomy niewidziane od początku września.",
@@ -946,7 +982,7 @@
       ]
     },
     {
-      "id": "rynki-2-621803",
+      "id": "rynki-4-621803",
       "entity_tag": "Wall Street (USA)",
       "sector": "Rynki Globalne",
       "market_impact": "HIGH",
@@ -982,7 +1018,7 @@
       ]
     },
     {
-      "id": "rynki-3-6ae855",
+      "id": "rynki-5-6ae855",
       "entity_tag": "NBP / RPP",
       "sector": "Polityka Pieniężna",
       "market_impact": "HIGH",
@@ -1016,7 +1052,7 @@
       ]
     },
     {
-      "id": "rynki-4-9aae46",
+      "id": "rynki-6-9aae46",
       "entity_tag": "Fed (USA)",
       "sector": "Banki Centralne",
       "market_impact": "HIGH",
@@ -1048,7 +1084,7 @@
       ]
     },
     {
-      "id": "rynki-5-5d7e92",
+      "id": "rynki-7-5d7e92",
       "entity_tag": "JSW (GPW: JSW)",
       "sector": "Górnictwo",
       "market_impact": "HIGH",
@@ -1084,74 +1120,35 @@
       ]
     },
     {
-      "id": "rynki-6-a06184",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 81 miliardów dolarów, 3,1%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "81 miliardów dolarów",
-        "3,1%"
-      ],
-      "title": "Rynek byka ma nowy problem. Sprzedaje się „inteligentne pieniądze”.",
-      "original_title": "The bull market has a new problem. The 'smart money' is selling",
+      "id": "rynki-2-c4c9d0",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [],
+      "title": "Jak Chiny wykorzystują szczyty do poszerzania swoich globalnych wpływów",
+      "original_title": "How China is using summits to expand its global influence",
       "is_foreign": true,
       "lang": "EN",
-      "time": "14:15",
+      "time": "06:00",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108555311-1795100709058-gettyimages-2305894647-mms24821_52qceprh.jpeg?v=1795100757&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Spółki przechodzą z wykupu akcji na emisję akcji, zwiększając podaż.",
-        "Pierwsza oferta publiczna Anthropic o wartości 81 miliardów dolarów wystawia ten popyt na próbę.",
-        "Spółki przestawiły się z wykupu akcji na rzecz ich emisji, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa."
+        "Prezydent Chin Xi Jinping pomógł w koordynowaniu kolejnej sesji zdjęciowej o znaczeniu globalnym.",
+        "SHENZHEN, Chiny – Drugi rok z rzędu chiński prezydent Xi Jinping spotkał prezydenta Rosji Władimira Putina z innym głównym światowym przywódcą na wybrzeżach Chin kontynentalnych.",
+        "Prezydent USA Donald Trump odbył w czwartek trójstronne spotkanie z Xi i Putinem, po tym, jak cała trójka spotkała się poprzedniego wieczoru podczas bankietu powitalnego z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku w Shenzhen."
       ],
       "extended_paragraphs": [
-        "Spółki przechodzą z wykupu akcji na emisję akcji, zwiększając podaż. Pierwsza oferta publiczna Anthropic o wartości 81 miliardów dolarów wystawia ten popyt na próbę.",
-        "Spółki przestawiły się z wykupu akcji na rzecz ich emisji, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa.",
-        "„Bez względu na to, jak to zmierzyć, amerykańskie korporacje zmieniły swoje zachowanie w ciągu ostatnich dwóch lat, przechodząc od wykupu w 2024 r. do emisji dzisiaj” – napisał w tym miesiącu menadżer portfela Acadian Asset Management Owen Lamont. „Pytanie, które powinieneś zadać, brzmi: dlaczego sprzedaje się inteligentne pieniądze?”",
-        "Według ostatniej analizy Acadian, pod koniec ubiegłego tygodnia nowa emisja netto akcji wyniosła 3,1% całkowitej kapitalizacji rynkowej. Chociaż emisja netto utrzymuje się poniżej szczytów z bańki technologicznej i bańki covidowej, analiza pokazuje, że era wykupów dobiegła końca i rozpoczęła się era emisji akcji.",
-        "W tym tygodniu na rynek przybyła większa podaż wraz z hitową ofertą publiczną Anthropic. Oferta początkowo spotkała się z dużym entuzjazmem, ponieważ pionierskie laboratorium AI sprzedało w ramach pierwszej oferty publicznej akcje po 83 dolarów za sztukę, powyżej oczekiwanego zakresu i pozyskując 81 miliardów dolarów. Jednak w piątek akcje spółki spadają, pociągając za sobą szerszy rynek akcji."
-      ]
-    },
-    {
-      "id": "rynki-7-c420be",
-      "entity_tag": "Wall Street (USA)",
-      "sector": "Rynki Globalne",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 107 mld dolarów, 17%, 2,25%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "107 mld dolarów",
-        "17%",
-        "2,25%"
-      ],
-      "title": "Udany debiut Anthopica. Nasdaq pogłębia korektę",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:05",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Udany-debiut-Anthopica-Nasdaq-poglebia-korekte-9232105.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/0/9/5ca8bfcbc825c6-948-568-262-358-2966-1779.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków.",
-        "Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
-        "fot. Lev Radin / / Zuma Press / Forum W czwartek na Wall Street liczyły się dwie premiery."
-      ],
-      "extended_paragraphs": [
-        "Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków. Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
-        "fot. Lev Radin / / Zuma Press / Forum W czwartek na Wall Street liczyły się dwie premiery. Tą ważniejszą był giełdowy debiut Anthopica. Firma stojąca za modelem AI Claude w ramach emisji akcji pozyskała ponad 107 mld dolarów , a rynek początkowo wycenił ją na ponad 1,5 biliona dolarów . Nominalnie było to największe IPO w historii. Akcje Anthopica rozpoczęły handel od 33-procentowej zwyżki, ale zamknęły dzień wzrostem o 17% i kapitalizacją rzędu 1,1 bln USD.",
-        "Ten sukces ginął jednak w czerwonym obrazie rynku. Nasdaq Composite po spadku o 2,25% zatrzymał się na poziomie 23 879,20 punktów. To najniższy kurs zamknięcia od połowy kwietnia, a więc już ponad 7 miesięcy. Od październikowego szczytu hossy Nasdaq stracił już prawie 14%, co Amerykanie określają mianem „korekty”.",
-        "Drugą istotną premierą było udostępnienie graczom gry Grand Theft Auto 6 . Ten długo oczekiwany hit stał się najwyżej ocenianą grą w historii serwisu Metacritic z notą 99 na 100 możliwych. Mimo to akcje Take-Two Interacticve – czyli właściciela studia Rockstar Games – potaniały o 3,7%.",
-        "Spadki zmonitowały także szeroki rynek. Indeks S&P500 zniżkował o 2,02% i finiszował z wynikiem 7 175,83 pkt. Także w tym przypadku był to najniższy kurs zamknięcia od kwietnia. Średnia przemysłowa Dow Jonesa straciła 2,19 % i po raz pierwszy od ponad pół roku zamknęła się poniżej 50 000 pkt."
+        "Prezydent Chin Xi Jinping pomógł w koordynowaniu kolejnej sesji zdjęciowej o znaczeniu globalnym.",
+        "SHENZHEN, Chiny – Drugi rok z rzędu chiński prezydent Xi Jinping spotkał prezydenta Rosji Władimira Putina z innym głównym światowym przywódcą na wybrzeżach Chin kontynentalnych.",
+        "Prezydent USA Donald Trump odbył w czwartek trójstronne spotkanie z Xi i Putinem, po tym, jak cała trójka spotkała się poprzedniego wieczoru podczas bankietu powitalnego z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku w Shenzhen. Było to ich pierwsze osobiste spotkanie.",
+        "We wrześniu 2025 r. Xi, Putin i premier Indii Narendra Modi przez chwilę śmiali się razem podczas przyjacielskiej sesji zdjęciowej podczas dorocznego spotkania Szanghajskiej Organizacji Współpracy w Tianjin w Chinach. Spotkanie nastąpiło po złagodzeniu napięć między Pekinem a New Delhi.",
+        "„Zdolność Chin do bezpośredniego współdziałania z głównymi mocarstwami światowymi” odzwierciedla wpływ tego kraju na Globalne Południe i Eurazję, stwierdziła Jodie Wen, doktorantka w Centrum Bezpieczeństwa Międzynarodowego i Strategii na Uniwersytecie Tsinghua. „Chiny mają nadzieję odegrać bardziej konstruktywną rolę w tym [ogarniętym konfliktem] i niestabilnym świecie”."
       ]
     },
     {
@@ -1291,7 +1288,7 @@
         "Akcje Anthropic spadły z powrotem do swojej ceny początkowej po gwałtownym pierwszym dniu na giełdzie, w miarę jak szersza wyprzedaż technologii pociągnęła rynki w dół.",
         "Wyprzedaż następuje w związku z utrzymującymi się obawami dotyczącymi szybkości i wielkości inwestycji w sztuczną inteligencję, ale także w związku z tym, że niektóre duże firmy, w tym Nvidia i SpaceX, stanęły w obliczu konkretnych problemów, które niepokoiły inwestorów.",
         "Łącznie te presje wywierały wpływ na rynki amerykańskie przez cały piątek, a wszystkie kluczowe indeksy w USA gwałtownie spadły w ciągu dnia, pogłębiając wcześniejsze spadki w ciągu tygodnia.",
-        "Indeksy S&P 500 i Dow Jones Industrial Average zepchnęły się na obszar korekty, do punktu, w którym ich notowania spadły o 10% lub więcej w stosunku do niedawnego maksimum."
+        "Zarówno S&P 500, jak i Dow Jones Industrial Average zepchnęły się na obszar korekty, do punktu, w którym ich notowania spadły o 10% lub więcej w stosunku do niedawnego maksimum."
       ]
     },
     {
@@ -1427,39 +1424,43 @@
   ],
   "tech": [
     {
-      "id": "tech-1-820c62",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
+      "id": "tech-2-21a197",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
       "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Jedna z największych zagadek matematyki rozwikłana. Pracownik Anthropic pokonał hipotezę Riemanna",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:54",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/hipoteza-riemanna-rozwiazanie-anthropic",
-      "image_url": "https://konto.chip.pl/uploads/2025/05/liczby.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) (kluczowe liczby: 162 milionów dolarów, 15 miliardów funtów, 161,86 miliona dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "162 milionów dolarów",
+        "15 miliardów funtów",
+        "161,86 miliona dolarów"
+      ],
+      "title": "Startup pozywa Apple w Indiach w związku z funkcją kontaktów „dotknij i udostępnij”.",
+      "original_title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "04:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": true,
       "summary_points": [
-        "Hipoteza Riemanna to bez wątpienia jeden z najważniejszych nierozwiązanych problemów matematycznych.",
-        "Wygląda jednak na to, że wkrótce możemy o nim mówić w czasie przeszłym.",
-        "O ile wierzymy temu, co mówi Levent Alpöge, matematyk pracujący w firmie Anthropic."
+        "Amerykański startup domaga się odszkodowania w wysokości 162 milionów dolarów oraz nakazu mającego wpływ na import iPhone'a i Apple Watch do Indii.",
+        "Startup pozywa Apple w Indiach w związku z funkcją kontaktów „dotknij, aby udostępnić” Jagmeet Singh 20:00 PST · 20 listopada 2026 r. Apple został pozwany w Indiach przez amerykański start-up, który zarzuca twórcy iPhone'a funkcję NameDrop, która umożliwia użytkownikom udostępnianie informacji kontaktowych poprzez zbliżanie urządzeń do siebie, co narusza jego opatentowaną technologię.",
+        "GG Technologies, startup stojący za aplikacją StayTouch, która umożliwia użytkownikom wymianę danych kontaktowych poprzez zbliżenie telefonów, żąda 15 miliardów funtów (około 161,86 miliona dolarów) odszkodowania i nakazu sądowego przeciwko Apple, zgodnie z dokumentami sądowymi sprawdzonymi przez TechCrunch."
       ],
       "extended_paragraphs": [
-        "Hipoteza Riemanna to bez wątpienia jeden z najważniejszych nierozwiązanych problemów matematycznych. Wygląda jednak na to, że wkrótce możemy o nim mówić w czasie przeszłym. O ile wierzymy temu, co mówi Levent Alpöge, matematyk pracujący w firmie Anthropic. Jak wynika z przekazanych przez niego informacji, przy współpracy z modelem sztucznej inteligencji Claude udało się zaproponować rozwiązanie […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Jak wynika z przekazanych przez niego informacji, przy współpracy z modelem sztucznej inteligencji Claude udało się zaproponować rozwiązanie zagadnienia, które pozostaje nierozstrzygnięte od 1859 roku. Co więcej, wspomniany badacz twierdzi, że jego metoda pozwala udowodnić również uogólnioną wersję hipotezy. Na razie środowisko naukowe podchodzi jednak do tych doniesień z dystansem. I nie ma się co temu dziwić.",
-        "Czytaj też: Na styku ogólnej teorii względności i mechaniki kwantowej. Chińscy fizycy zmierzyli przyciąganie grawitacyjne obiektów o masie 7,6 miligrama",
-        "Alpöge opublikował na swojej stronie internetowej krótkie opracowanie, w którym przedstawił wyniki wielomiesięcznej pracy prowadzonej wspólnie z Claude. Według jego deklaracji rozwiązanie obejmuje nie tylko pierwotną hipotezę, lecz również jej uogólnioną wersję, znaną jako GTH (Generalized Riemann Hypothesis). Alpöge zaznaczył, że sztuczna inteligencja odegrała szczególnie istotną rolę na końcowym etapie pracy. Claude w pewnym momencie miał znacznie wyprzedzić go w poszukiwaniu kolejnych elementów argumentacji matematycznej.",
-        "Problem, o którym dziś mówimy, został sformułowany w 1859 roku przez niemieckiego matematyka Bernharda Riemanna. Dotyczy rozmieszczenia liczb pierwszych, czyli liczb naturalnych większych od jedności, które dzielą się wyłącznie przez jeden i samą siebie. Choć na pierwszy rzut oka ich występowanie na osi liczbowej wydaje się przypadkowe, matematycy od dawna poszukują ukrytych prawidłowości opisujących ich rozkład."
+        "Amerykański startup domaga się odszkodowania w wysokości 162 milionów dolarów oraz nakazu mającego wpływ na import iPhone'a i Apple Watch do Indii.",
+        "Startup pozywa Apple w Indiach w związku z funkcją kontaktów „dotknij, aby udostępnić” Jagmeet Singh 20:00 PST · 20 listopada 2026 r. Apple został pozwany w Indiach przez amerykański start-up, który zarzuca twórcy iPhone'a funkcję NameDrop, która umożliwia użytkownikom udostępnianie informacji kontaktowych poprzez zbliżanie urządzeń do siebie, co narusza jego opatentowaną technologię.",
+        "GG Technologies, startup stojący za aplikacją StayTouch, która umożliwia użytkownikom wymianę danych kontaktowych poprzez zbliżenie telefonów, żąda 15 miliardów funtów (około 161,86 miliona dolarów) odszkodowania i nakazu sądowego przeciwko Apple, zgodnie z dokumentami sądowymi sprawdzonymi przez TechCrunch.",
+        "GG Technologies z siedzibą w Santa Monica złożyło pozew w Indiach w październiku po niepowodzeniu postępowania mediacyjnego wszczętego w kwietniu we wrześniu, powiedział TechCrunch startup. Przed złożeniem pozwu handlowego w Indiach na ogół wymagana jest mediacja przed złożeniem wniosku do instytucji. W kwietniu firma pozwała także Apple w USA w związku z powiązanymi roszczeniami o naruszenie patentów.",
+        "W 781-stronicowym pozwie złożonym przed Sądem Najwyższym w Bombaju firma GG Technologies zarzuciła, że ​​NameDrop firmy Apple narusza jej indyjski patent na technologię, która pomaga telefonom wymieniać dane kontaktowe z urządzeniami w pobliżu bez konieczności ręcznego parowania. Firma uruchomiła StayTouch w 2019 r., w tym samym roku, w którym po raz pierwszy wystąpiła o ochronę patentową technologii w USA. Zgłoszenie patentowe w Indiach złożyła w 2021 r., a patent otrzymała w lipcu 2024 r."
       ]
     },
     {
-      "id": "tech-2-b82422",
+      "id": "tech-4-b82422",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
@@ -1491,7 +1492,7 @@
       ]
     },
     {
-      "id": "tech-4-34b143",
+      "id": "tech-6-34b143",
       "entity_tag": "Microsoft (NASDAQ: MSFT)",
       "sector": "Chmura & AI",
       "market_impact": "HIGH",
@@ -1555,7 +1556,7 @@
       ]
     },
     {
-      "id": "tech-3-1b794a",
+      "id": "tech-3-a3359a",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "MEDIUM",
@@ -1563,63 +1564,95 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Trzynaście sposobów na wejście do domu. Xiaomi pokazuje nowy zamek Smart Door Lock 5",
+      "title": "Jednoczesny rozpad alfa-beta. Nowy model kwantowy rozwiązuje półwieczną zagadkę widm jądrowych",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:00",
+      "time": "09:41",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/trzynascie-sposobow-na-wejscie-do-domu-xiaomi-pokazuje-nowy-zamek-smart-door-lock-5",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/xiaomi-inteligentny-zamek-1.jpg",
+      "source_url": "https://www.chip.pl/2026/11/jednoczesny-rozpad-alfa-beta-nowy-model-kwantowy-rozwiazuje-polwieczna-zagadke-widm-jadrowych",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/rozpad-alfa-beta.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Prawdziwe smart home nie może się obyć bez inteligentnego zamka.",
-        "Na rynku mamy już sporo różnych modeli, choć większość producentów raczej celuje w podstawowe sposoby odblokowywania wejścia – odcisk palca, karta i ewentualnie kod.",
-        "Tymczasem Xiaomi nie chce nas tak ograniczać."
+        "Rozbieżność pomiędzy teoretycznymi przewidywaniami a laboratoryjnymi pomiarami widm emisji cząstek alfa w procesach rozpadów opóźnionych pozostawała nierozwiązaną zagadką fizyki jądrowej od lat 70.",
+        "W standardowym, obowiązującym przez ostatnie półwiecze schemacie sekwencyjnym zakładano, że jądro atomowe przechodzi najpierw rozpad beta, po czym powstały stan wzbudzony niemal natychmiast emituje cząstkę alfa (proces typu beta-delayed alpha decay).",
+        "W pracy opublikowanej na łamach prestiżowego czasopisma Physical Review Letters , Wenqiang Zhang z Chińskiej Akademii Nauk oraz Chong Qi z AlbaNova University Centre w Sztokholmie wykazali, że problem ten znika bez konieczności wprowadzania sztucznych założeń, jeśli założy się istnienie bezpośredniego, jednoczesnego rozpadu alfa-beta zachodzącego w pojedynczym przejściu kwantowym."
       ],
       "extended_paragraphs": [
-        "Prawdziwe smart home nie może się obyć bez inteligentnego zamka. Na rynku mamy już sporo różnych modeli, choć większość producentów raczej celuje w podstawowe sposoby odblokowywania wejścia – odcisk palca, karta i ewentualnie kod. Tymczasem Xiaomi nie chce nas tak ograniczać. Chiński producent zaprezentował na rodzimym rynku Smart Door Lock 5 Face Recognition Edition. Nowość […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Chiński producent zaprezentował na rodzimym rynku Smart Door Lock 5 Face Recognition Edition. Nowość dołącza do oferowanych już wariantów Smart Door Lock 5, Smart Door Lock 5C Cat Eye Edition oraz Smart Lock 5 Max. Podczas gdy wspomniany model Max oferował dwanaście metod odblokowywania, opracowany we współpracy z marką Loock wariant Face Recognition Edition podbija tę stawkę do aż trzynastu różnych sposobów otwierania drzwi.",
-        "Jeszcze ciekawszym dodatkiem jest jednak bezdotykowe rozpoznawanie układu żył dłoni. Czujnik wykorzystuje światło bliskiej podczerwieni, aby zeskanować dłoń uniesioną na odległość od 12 do 20 centymetrów od panelu. Cały proces trwa krócej niż sekundę, działa dla dzieci powyżej 1,1 metra wzrostu i rozwiązuje odwieczny problem czytników linii papilarnych – zamek otworzy drzwi nawet wtedy, gdy mamy mokre, brudne dłonie albo gdy z drzwi korzystają seniorzy z mniej wyraźnymi liniami papilarnymi.",
-        "Czytaj też: Samsung szykuje słuchawki idealne do ćwiczeń. Zabraknie w nich jednak kluczowej funkcji",
-        "Oczywiście na liście trzynastu metod otwierania nie zabrakło też klasycznego czytnika odcisków palców, haseł stałych i tymczasowych dla gości, odblokowania przez Bluetooth i zdalnie w aplikacji, mini-programów WeChat, wsparcia dla zegarków, opasek i telefonów Xiaomi, osobnych kart NFC oraz tradycyjnego klucza mechanicznego."
+        "Rozbieżność pomiędzy teoretycznymi przewidywaniami a laboratoryjnymi pomiarami widm emisji cząstek alfa w procesach rozpadów opóźnionych pozostawała nierozwiązaną zagadką fizyki jądrowej od lat 70. XX wieku. W standardowym, obowiązującym przez ostatnie półwiecze schemacie sekwencyjnym zakładano, że jądro atomowe przechodzi najpierw rozpad beta, po czym powstały stan wzbudzony niemal natychmiast emituje cząstkę alfa (proces typu beta-delayed alpha decay). Podejście to nie potrafiło jednak […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Podejście to nie potrafiło jednak zreprodukować charakterystycznych, dzwonowatych widm energetycznych obserwowanych w doświadczeniach. W pracy opublikowanej na łamach prestiżowego czasopisma Physical Review Letters , Wenqiang Zhang z Chińskiej Akademii Nauk oraz Chong Qi z AlbaNova University Centre w Sztokholmie wykazali, że problem ten znika bez konieczności wprowadzania sztucznych założeń, jeśli założy się istnienie bezpośredniego, jednoczesnego rozpadu alfa-beta zachodzącego w pojedynczym przejściu kwantowym.",
+        "Klasyczna fizyka jądrowa od ponad stu lat dzieli samorzutne przemiany promieniotwórcze na trzy odrębne kategorie rządzone różnymi oddziaływaniami fundamentalnymi: rozpad alfa polegający na tunelowaniu jądra helu (dwóch protonów i dwóch neutronów) pod wpływem sił silnych i elektromagnetycznych, rozpad beta kontrolowany przez oddziaływanie słabe (emisję elektronu z antyneutrinem lub pozytonu z neutrinem, przekształcającą neutron w proton bądź odwrotnie) oraz rozpad gamma emitujący wysokoenergetyczny foton.",
+        "Choć w ostatnich dekadach badano zjawiska wielokrotne – takie jak jednoczesna emisja dwóch cząstek tego samego typu – teoretycy rzadko rozważali scenariusz, w którym dwa zupełnie różne typy promieniotwórczości łączą się w jedno elementarne zdarzenie. W zaproponowanym przez Zhanga i Qi modelu oba procesy traktowane są jako etapy jednego aktu kwantowego, połączone przejściowym,wirtualnym stanem pośrednim, którego jądro nigdy fizycznie nie okupuje, a w którym bezpośrednio współpracują ze sobą siły silne i słabe.",
+        "Matematyczna konstrukcja modelu opiera się na analizie konkurencji dwóch przeciwstawnych czynników kinetycznych i statystycznych. W kanale alfa kluczowe jest prawdopodobieństwo tunelowania kwantowego przez barierę kulombowską,które rośnie wraz ze wzrostem energii emitowanej cząstki alfa. Z kolei w kanale beta energia kinetyczna jest dzielona pomiędzy wyemitowane leptony (elektron lub pozyton oraz odpowiadające im neutrino)."
       ]
     },
     {
-      "id": "tech-6-dac273",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
+      "id": "tech-5-d26a1e",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
       "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Sztuczna inteligencja znalazła rozwiązanie 167-letniej hipotezy Riemanna – i człowiek też to zrobił",
-      "original_title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:32",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
-      "image_source": "Fot. / Źródło: TechCrunch",
+      "title": "Zdjęcie Marsa pokazuje coś, co wygląda jak las. To wyrasta z zamarzniętych wydm",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:55",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/mars-zdjecie-las-zamarzniete-wydmy",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/drzewa-mars.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Matematycy są pod ogromnym wrażeniem najnowszego wyniku opartego na sztucznej inteligencji – istnieje też konkurencyjne rozwiązanie ludzkie.",
-        "Sztuczna inteligencja znalazła rozwiązanie 167-letniej hipotezy Riemanna — i człowiek też to zrobił Tim Fernholz 11:32 czasu PST · 20 listopada 2026 To ważny tydzień dla Leventa Alpöge: matematyk zobaczył, jak jego pracodawca, Anthropic, stał się pierwszym notowanym na giełdzie pionierskim laboratorium sztucznej inteligencji.",
-        "Wydaje się również, że rozwiązał jeden z najważniejszych problemów matematyki."
+        "Zdjęcie, jakie wykonała sonda Mars Reconnaissance Orbiter, przedstawia krajobraz, który wydaje się zaskakująco znajomy.",
+        "Bo choć las wyrastający z zamarzniętych wydm nie należy na Ziemi do zwyczajnych widoków, to i tak łatwiej go powiązać z Błękitną, aniżeli Czerwoną Planetą.",
+        "Naukowcy postanowili w związku z tym zabrać głos w sprawie."
       ],
       "extended_paragraphs": [
-        "Matematycy są pod ogromnym wrażeniem najnowszego wyniku opartego na sztucznej inteligencji – istnieje też konkurencyjne rozwiązanie ludzkie.",
-        "Sztuczna inteligencja znalazła rozwiązanie 167-letniej hipotezy Riemanna — i człowiek też to zrobił Tim Fernholz 11:32 czasu PST · 20 listopada 2026 To ważny tydzień dla Leventa Alpöge: matematyk zobaczył, jak jego pracodawca, Anthropic, stał się pierwszym notowanym na giełdzie pionierskim laboratorium sztucznej inteligencji. Wydaje się również, że rozwiązał jeden z najważniejszych problemów matematyki.",
-        "„Dokładny moment jest okropny” – napisał w eseju, w którym ogłosił swoje ustalenia i opisał, jak w zeszłą niedzielę wieczorem wysłał wiadomość do dyrektora generalnego firmy Anthropic, Dario Amodei, z pytaniem, jak ogłosić, że znalazł rozwiązanie hipotezy Riemanna, którą można skompilować w technologii Lean, która sięga 1859 r. i znajduje się wśród problemów matematycznych nagrodzonych Nagrodą Milenijną.",
-        "Hipoteza zakłada, że ​​istnieje ukryta struktura leżąca u podstaw pojawienia się liczb pierwszych. Jeśli twierdzony wynik jest prawdziwy, wkraczamy na terytorium wzniosłych tajemnic wszechświata.",
-        "Być może najlepszym sposobem, aby zrozumieć, jak ekscytujące jest to dla społeczności matematycznej, jest obserwowanie, jak eksperci zastanawiają się nad wynikami na czacie w serwisie Zulip. Matematycy tacy jak Chris Birkbeck, teoretyk liczb na Uniwersytecie Anglii Wschodniej, publikują takie przemyślenia…"
+        "Zdjęcie, jakie wykonała sonda Mars Reconnaissance Orbiter, przedstawia krajobraz, który wydaje się zaskakująco znajomy. Bo choć las wyrastający z zamarzniętych wydm nie należy na Ziemi do zwyczajnych widoków, to i tak łatwiej go powiązać z Błękitną, aniżeli Czerwoną Planetą. Naukowcy postanowili w związku z tym zabrać głos w sprawie. Fotografia, która ponownie zwróciła uwagę na […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Zdjęcie Marsa pokazuje coś, co wygląda jak las. To wyrasta z zamarzniętych wydm \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Fotografia, która ponownie zwróciła uwagę na niezwykłe krajobrazy Marsa, powstała w 2008. Stoi (a w zasadzie lata) za nią sonda Mars Reconnaissance Orbiter. Obraz uwieczniła kamera HiRISE, umożliwiająca wykonywanie szczegółowych zdjęć powierzchni planety z orbity. Widoczny na nim obszar znajduje się w pobliżu północnego bieguna Marsa, gdzie rozległe pola wydmowe w określonych porach roku pokrywa warstwa lodu.",
+        "Czytaj też: Marsjańskie formacje powstają w sposób, jakiego nikt się nie spodziewał. Zamiast wody kształtuje je coś innego",
+        "Na fotografii można dostrzec liczne ciemne smugi rozchodzące się po jasnej powierzchni. Ich układ przypomina pnie i korony drzew, a całość wygląda jak fragment lasu sfotografowanego z dużej wysokości. To jednak złudzenie optyczne. W rzeczywistości obserwujemy przemieszczający się piasek, którego ruch jest napędzany przez nietypowy proces zachodzący podczas marsjańskiej wiosny.",
+        "Jak wyjaśnić ten fenomen? Odpowiedź wiąże się z obecnością zamarzniętego dwutlenku węgla. Podczas marsjańskiej zimy temperatury na obszarach polarnych spadają tak nisko, że dwutlenek węgla z atmosfery osadza się na powierzchni w postaci szronu i lodu. W ten sposób wydmy zostają przykryte jasną warstwą suchego lodu. Kiedy nadchodzi wiosna, promienie słoneczne zaczynają ogrzewać powierzchnię. Na Marsie lód z dwutlenku węgla nie przechodzi jednak w stan ciekły, jak dzieje się to z wodą na Ziemi. Zamiast tego bezpośrednio zamienia się w gaz. Proces ten znamy pod nazwą sublimacji."
       ]
     },
     {
-      "id": "tech-5-87f196",
+      "id": "tech-1-64579d",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Brytyjska legenda wróciła, ale jej motocykle powstają w Chinach",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/brytyjska-marka-motocyklowa-phelon-moore-capetown",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/brytyjska-marka-motocyklowa-phelon-moore-capetown-1.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Stare logo kultowej marki zawsze służy marketingowi.",
+        "Kiedy więc widzę kolejną historyczną markę wracającą na rynek po dziesięcioleciach nieobecności, zastanawiam się przede wszystkim nad jednym – co właściwie dostaje klient poza znaczkiem na zbiorniku?",
+        "W przypadku brytyjskiego Phelon & Moore sprawa jest szczególnie ciekawa, bo jego współczesne motocykle mają więcej wspólnego z Włochami i Chinami […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Brytyjska legenda wróciła, ale jej motocykle powstają w Chinach \" ?"
+      ],
+      "extended_paragraphs": [
+        "Stare logo kultowej marki zawsze służy marketingowi. Kiedy więc widzę kolejną historyczną markę wracającą na rynek po dziesięcioleciach nieobecności, zastanawiam się przede wszystkim nad jednym – co właściwie dostaje klient poza znaczkiem na zbiorniku? W przypadku brytyjskiego Phelon & Moore sprawa jest szczególnie ciekawa, bo jego współczesne motocykle mają więcej wspólnego z Włochami i Chinami […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Brytyjska legenda wróciła, ale jej motocykle powstają w Chinach \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Historia marki sięga 1904 roku, kiedy to w angielskim Yorkshire rozpoczęła działalność firma znana później przede wszystkim z motocykli Panther. Ich produkcja zakończyła się w 1966 roku, a dopiero w 2022 roku grupa inwestorów postanowiła przywrócić Phelon & Moore do życia. Tyle że te współczesne motocykle powstają według zupełnie innego modelu biznesowego, bo za ich projektowanie i rozwój odpowiada zaplecze we Włoszech, a produkcją zajmują się partnerzy w Chinach. Czy więc możemy jeszcze mówić o brytyjskich motocyklach?",
+        "Korzystanie z chińskich fabryk nie jest rzadkością. Przy okazji SWM Versante 550 pisałem już o podobnym połączeniu europejskiej marki z azjatyckim zapleczem przemysłowym. Taka praktyka bierze się stąd, że Chińczycy potrafią dziś produkować naprawdę zaawansowane motocykle, a proces produkcji jest tam zwykle na tyle tani, aby uzasadnić konieczność transportu na inny kontynent. Zresztą samo miejsce montażu nie świadczy jeszcze o jakości wykonania i dlatego bardziej ciekawy mnie fakt, czy sama historyczna nazwa rzeczywiście daje współczesnemu klientowi coś więcej.",
+        "Czytaj też: Harley-Davidson wraca do tanich motocykli. Nowy model kosztuje mniej niż niejeden dobry e-bike",
+        "Wygląda na to, że Phelon & Moore najwyraźniej zamierza wykorzystać swoje dziedzictwo do zbudowania całej gamy motocykli, bo oto obok większych Capetown 7, klasycznych Brighton i skuterów Panthette do oferty na 2027 rok dołączają dwa kolejne adventure – Capetown 5X i Capetown 5 Rally . Nieprzypadkowa jest nawet sama nazwa tej rodziny, bo nawiązuje ona do historycznej wyprawy Theresy Wallach i Florence Blenkiron przez Afrykę na motocyklu Panther z wózkiem bocznym. Firma ma więc autentyczną historię, na której może budować swoją tożsamość, ale czy nowe maszyny są równie interesujące?"
+      ]
+    },
+    {
+      "id": "tech-7-fccb97",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1627,65 +1660,65 @@
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Samsung szykuje słuchawki idealne do ćwiczeń. Zabraknie w nich jednak kluczowej funkcji",
+      "title": "Mam dość Disney+. Ta aplikacja powinna wylądować w koszu",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:01",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/samsung-szykuje-sluchawki-idealne-do-cwiczen-zabraknie-w-nich-jednak-kluczowej-funkcji",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/pexels-picography-3114-1600x1067.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Klasyczne dokanałowe słuchawki niezbyt dobrze spisują się podczas ćwiczeń.",
-        "Nawet pomimo najlepiej dobranych gumek i tak, gdy pojawi się pot, potrafią niepostrzeżenie wyśliznąć się z ucha.",
-        "Dlatego wiele aktywnych osób sięga po modele z mostkiem mocowanym na małżowinie, który zapobiega zgubieniu słuchawki."
-      ],
-      "extended_paragraphs": [
-        "Klasyczne dokanałowe słuchawki niezbyt dobrze spisują się podczas ćwiczeń. Nawet pomimo najlepiej dobranych gumek i tak, gdy pojawi się pot, potrafią niepostrzeżenie wyśliznąć się z ucha. Dlatego wiele aktywnych osób sięga po modele z mostkiem mocowanym na małżowinie, który zapobiega zgubieniu słuchawki. Najwyraźniej wkrótce taki sprzęt kupimy też od Samsunga. W plikach wersji beta nakładki […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Samsung szykuje słuchawki idealne do ćwiczeń. Zabraknie w nich jednak kluczowej funkcji \" ? Dodaj CHIP.pl do preferowanych źródeł w Google W plikach wersji beta nakładki One UI 9.5 redakcja SammyGuru dokopała się do licznych wzmianek na temat zupełnie nowego modelu o nazwie Galaxy Buds Active. Grafiki z kolei potwierdzają ich konstrukcję.",
-        "Mimo zbliżonej filozofii aktywnego użytkowania, w oprogramowaniu widnieją one jako całkowicie odrębny produkt względem modelu Buds On, który producent zaprezentował niedawno. Tutaj nie ma mowy o otwartej konstrukcji – dostajemy pełnoprawne słuchawki dokanałowe wyposażone w duże, wyprofilowane zaczepy zakładane za ucho.",
-        "Z samouczka zaszytego w systemie wynika, że końcówkę umieszcza się standardowo w kanale słuchowym, a następnie obraca całą słuchawkę ku górze, aż stabilnie zakotwiczy się na małżowinie. W pudełku mają znaleźć się dwa różne rodzaje nakładek dousznych, które będzie można dowolnie mieszać między lewym a prawym uchem, by uzyskać optymalne uszczelnienie. Całość otrzymała też certyfikat IP68, gwarantujący pełną odporność na pył, wodę i pot (choć pliki systemowe nie potwierdzają, by tak wysoką normę spełniało również etui ładujące).",
-        "Najlepsza wiadomość jest taka, że Samsung nie potraktował sportowej wersji po macoszemu pod względem jakości brzmienia. Z wycieku wynika, że nie będą to okrojone słuchawki treningowe, lecz sprzęt czerpiący garściami z droższych modeli producenta. Na pokładzie znalazła się aktywna redukcja hałasu (ANC) z regulacją intensywności, tryb dźwięków otoczenia, korektor graficzny, funkcja podbijania wyrazistości dialogów, normalizacja głośności oraz dedykowany tryb gamingowy."
-      ]
-    },
-    {
-      "id": "tech-7-206cb1",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Kevin sam w domu powraca! Fani będą zachwyceni",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:50",
+      "time": "10:00",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/kevin-sam-w-domu-powraca-fani-beda-zachwyceni",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2025/12/Kevin-sam-w-domu.jpeg",
+      "source_url": "https://antyweb.pl/mam-dosc-disney-ta-aplikacja-powinna-wyladowac-w-koszu",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/06/najlepsze-seriale-na-disney-wakacje-2026-2.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Dorosły Kevin powróci na ekrany.",
-        "Macaulay Culkin wraca jako Kevin!",
-        "Powstaje nowy „Kevin sam w domu” od twórców hitów komediowych."
+        "Chcę oglądać seriale, a nie rozwiązywać zagadki interfejsu.",
+        "Dlatego Disney+ za każdym razem, gdy wracam, przypomina mi, jak bardzo nie znoszę ich platformy.",
+        "Ostatnio podliczyłem sobie, ile wydaję na wszystkie usługi subskrypcyjne, i aż złapałem się za głowę."
       ],
       "extended_paragraphs": [
-        "Dorosły Kevin powróci na ekrany. Fani będą zachwyceni.",
-        "Macaulay Culkin wraca jako Kevin! Powstaje nowy „Kevin sam w domu” od twórców hitów komediowych. Czy to jest to, na co fani czekali od lat?",
-        "Trudno wyobrazić sobie większy świąteczny klasyk od kultowego \"Kevina\" z filmu Kevin sam w domu , który od premiery w 1990 roku nieustannie i co rok buduje świąteczną atmosferę w milionach domów na całym świecie. W Polsce coś o tym wiemy, bo święta wcale nie muszą być białe, ale bez kultowego \"Kevina\" ich sobie po prostu nie wyobrażamy. Mimo kilku prób odświeżenia legendy, żadna z nich bez udziału oryginalnej obsady nie okazała się być ani sukcesem, ani filmami wartymi uwagi. Na szczęście mamy dla was dobre wieści - jak potwierdza serwis Deadline, w 20th Century Studios na wczesnym etapie prac znajduje się bezpośrednia kontynuacja \"Kevina samego w domu\", w której główną rolę ponownie zagra Macaulay Culkin - ten legendarny i oryginalny odtwórca kultowej, uwielbianej roli rezolutnego chłopca.",
-        "A najlepsze w całej sprawie jest to, że impulsem do powrotu serii (lub marki, jakkolwiek to uniwersum nazwać) był sam aktor. Podobno Macaulay Culkin spotkał się kilka miesięcy temu z szefem Disney Motion Pictures, Davidem Greenbaumem i przedstawił własny pomysł na to, jak mogłyby potoczyć się losy Kevina McCallistera kilkadziesiąt lat po traumatycznych, świątecznych przygodach z dzieciństwa i starciach z rabusiami. Nowy film miałby opowiadać losy Kevina właśnie jako już dorosłego i względnie ustatkowanego mężczyzny. A to w sumie zgadza się z życiowym miejscem, w jakim znajduje się sam odtwórca jego roli.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Za wykreowaniem wizji nowego filmu stoi prawdziwa maszyna komediowa, bo do zadania zatrudniono m.in. Setha Rogena oraz Evana Goldberga, którzy scenariusz piszą wspólnie z Culkinem. Na ten moment nie potwierdzono jeszcze, kto zajmie fotel reżysera, ani też czy do projektu powróci twórca pierwszych dwóch odsłon, Chris Columbus. Sam Disney tradycyjnie odmówił oficjalnego komentarza na tym etapie produkcji, co jest w pełni zrozumiałe - dowiemy się oficjalnie więcej bliżej samej premiery."
+        "Chcę oglądać seriale, a nie rozwiązywać zagadki interfejsu. Dlatego Disney+ za każdym razem, gdy wracam, przypomina mi, jak bardzo nie znoszę ich platformy.",
+        "Ostatnio podliczyłem sobie, ile wydaję na wszystkie usługi subskrypcyjne, i aż złapałem się za głowę. Tu 20 złotych, tam kolejne 30 zł, jeszcze jakieś „drobne” 15 zł za coś, co miało być „na miesiąc, żeby sprawdzić”, i tak z pozornie małych kwot zbiera się naprawdę pokaźny wydatek. A nawet ze sporej części z nich nie korzystam regularnie. To był moment, w którym stwierdziłem, że będę żonglował platformami do oglądania seriali. Zamiast wykupować wszystko na raz, będę się trzymał jednej, może dwóch, na których aktualnie coś oglądam, a w razie potrzeby zmienię na inną. Teraz jest kolej na Disney+ i przypomniałem sobie, dlaczego nie znoszę tej aplikacji.",
+        "Zacznijmy od rzeczy, która powinna być absolutnym minimum w 2026 roku, a w Disney+ brzmi jak fantastyka naukowa: możliwość podejrzenia listy odcinków i sezonów bez wychodzenia z odtwarzacza. Podczas oglądania odcinka nie mogę bezpośrednio wyświetlić listy wszystkich odcinków i sezonów. By je zobaczyć, muszę wyjść do ekranu głównego i wpisać nazwę serialu w wyszukiwarce albo zejść niżej do ostatnio oglądanych i wejść stamtąd. W tym drugim przypadku trzeba jednak uważać, by kliknąć na napisy, gdyż miniaturka przenosi nas z powrotem do ostatnio oglądanego odcinka. Serio?",
+        "To jest projekt interfejsu, który przeszedł testy z użytkownikami i ktoś uznał: „tak, to jest dobre doświadczenie”? Na Netfliksie wystarczy najechać na pasek zadań. Podobnie na HBO, choć tutaj wyłącznie na komputerze, gdyż aplikacja na tablety i smartfony ma podobny problem, co Disney+.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Innym problemem są napisy i lektor, które potrafią się same zmienić. Ustawiam sobie oryginalny dźwięk z polskimi lub angielskimi napisami, by po którymś wejściu zastać inny dubbing. Tak miałem w przypadku oglądania ostatniego sezonu „Bleacha”. Jako fan oryginalnej ścieżki dźwiękowej i polskich lub angielskich napisów ( w zależności od dostępności i jakości) w anime właśnie tak sobie ustawiłem podczas pierwszego oglądania. Gdy wróciłem po kilku dniach, okazało się, że znowu wybrany był angielski dubbing. To jest aplikacja, która ma pamiętać preferencje użytkownika, a zachowuje się jak ktoś, kto za każdym razem pyta cię, jak masz na imię, mimo że znasz się od lat."
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-3-c49380",
+      "id": "swiat-1-3132d2",
+      "entity_tag": "NBP / RPP",
+      "sector": "Polityka Pieniężna",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny NBP / RPP.",
+      "key_metrics": [],
+      "title": "Silne trzęsienie ziemi w Peru. Przerażeni ludzie wybiegali na ulice",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:14",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/trzesienie-ziemi-w-ameryce-poludniowej/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/wf/wfini2ocm1h2n94bku4yzmpfa6ebpup9.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": true,
+      "summary_points": [
+        "Trzęsienie ziemi o magnitudzie 6,7 nawiedziło środkowe Peru.",
+        "Wstrząs był odczuwalny w kilku regionach kraju, w tym w Limie, gdzie mieszkańcy uciekali z domów, a parlamentarzyści opuścili Kongres.",
+        "Eksperci przypominają, że Peru leży w obszarze wzmożonej aktywności sejsmicznej - w tzw. pacyficznym pierścieniu ognia."
+      ],
+      "extended_paragraphs": [
+        "Trzęsienie ziemi o magnitudzie 6,7 nawiedziło środkowe Peru. Wstrząs był odczuwalny w kilku regionach kraju, w tym w Limie, gdzie mieszkańcy uciekali z domów, a parlamentarzyści opuścili Kongres. Eksperci przypominają, że Peru leży w obszarze wzmożonej aktywności sejsmicznej - w tzw. pacyficznym pierścieniu ognia. W 2007 r. w wyniku trzęsienia ziemi o magnitudzie 8,0 w kraju zginęło ok. 600 osób.",
+        "Peruwiański Instytut Geofizyki (IGP) poinformował, że trzęsienie ziemi o magnitudzie 6,7 nawiedziło w piątek departament Junin. Nie pojawiły się jak dotąd doniesienia o zabitych ani rannych, ale władze Junin, poinformowały o uszkodzeniach budynków i zablokowanych drogach – przekazało radio RPP.",
+        "Dyrektor regionalnej obrony cywilnej w Junin Julio Galvez powiedział, że uszkodzonych zostało między innymi 14 budynków mieszkalnych w miejscowości Ulcumayo, a w prowincji Chanchamayo odnotowano zniszczenia infrastruktury Peruwiańskiego Uniwersytetu Andyjskiego.",
+        "Wstrząs nastąpił po godz. 19 czasu miejscowego (godz. 1 w nocy z piątku na sobotę w Polsce). Ognisko trzęsienia znajdowało się na głębokości 129 kilometrów w departamencie Junin , leżącym w Andach w środkowej części kraju, na wschód od Limy.",
+        "Według mediów trzęsienie było silnie odczuwalne w stolicy kraju . Peruwiańska telewizja pokazała ujęcia mieszkańców opuszczających w pośpiechu swoje domy oraz parlamentarzystów i pracowników ewakuujących się z siedziby Kongresu."
+      ]
+    },
+    {
+      "id": "swiat-6-2fe4fa",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
@@ -1693,63 +1726,31 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Władimir Putin o \"modlitwie\" i \"zjednoczeniu z Ukrainą\". Udzielił wywiadu do filmu dokumentalnego",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:51",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-20/wladimir-putin-o-modlitwie-i-zjednoczeniu-z-ukraina-udzielil-wywiadu-do-filmu-dokumentalnego/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/dn/dnrq3m5enw2fq5dqwsgrjpkpy7y7446h.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": true,
-      "summary_points": [
-        "Rosjanie jako arka dla chrześcijaństwa, dążenie do zjednoczenia Ukrainy i Rosji i codzienna modlitwa - to fragmenty z wywiadu, którego udzielił Władimir Putin przy okazji nagrywania filmu dokumentalnego o patriarsze Cyrylu.",
-        "W trakcie rozmowy kremlowski przywódca przedstawił cały absurd przekazu propagandowego używanego od wielu lat m.in. w kontekście wojny w Ukrainie.",
-        "\"Rosjanie jako arka dla chrześcijaństwa\", \"dążenie do zjednoczenia Ukrainy i Rosji\" i \"codzienna modlitwa\" - to fragmenty z wywiadu, którego udzielił Władimir Putin przy okazji nagrywania filmu dokumentalnego o patriarsze Cyrylu."
-      ],
-      "extended_paragraphs": [
-        "Rosjanie jako arka dla chrześcijaństwa, dążenie do zjednoczenia Ukrainy i Rosji i codzienna modlitwa - to fragmenty z wywiadu, którego udzielił Władimir Putin przy okazji nagrywania filmu dokumentalnego o patriarsze Cyrylu. W trakcie rozmowy kremlowski przywódca przedstawił cały absurd przekazu propagandowego używanego od wielu lat m.in. w kontekście wojny w Ukrainie.",
-        "\"Rosjanie jako arka dla chrześcijaństwa\", \"dążenie do zjednoczenia Ukrainy i Rosji\" i \"codzienna modlitwa\" - to fragmenty z wywiadu, którego udzielił Władimir Putin przy okazji nagrywania filmu dokumentalnego o patriarsze Cyrylu. W trakcie rozmowy kremlowski przywódca przedstawił cały absurd przekazu propagandowego używanego od wielu lat m.in. w kontekście wojny w Ukrainie.",
-        "\"Nasz chrzest. Prymas\" to tytuł filmu dokumentalnego, który powstał z okazji 80. urodzin patriarchy Cyryla . Jedną z osób wypowiadających się był Władimir Putin. Choć materiał tworzony dla rosyjskiej telewizji publicznej dotyczył głównie aspektów religijnych m.in. przeszłości i przyszłości prawosławia, to nie zabrakło w nim politycznych odniesień do aktualnych wydarzeń w Europie i na świecie.",
-        "W rozmowie z Emirem Kustricą Władimir Putin mówił między innymi o ogromnym sukcesie, który odniosła w ostatnich latach Federacja Rosyjska . Prezydent podkreślił, że to jego \" osobisty sukces, osobiste zwycięstwo \", a wszystko to potwierdza się w zaufaniu Rosjan do jego osoby.",
-        "- Z pewnością doceniam wsparcie naszego narodu i jestem za nie bardzo wdzięczny. (…) Jedno co wiem na pewno, to to, że modlę się za Rosję i za nasz naród każdego dnia - mówił."
-      ]
-    },
-    {
-      "id": "swiat-5-86e5f3",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Francuscy policjanci skazani za pobicie producenta muzycznego Michela Zeclera",
-      "original_title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "title": "FBI podobno prowadzi dochodzenie w sprawie włamania do jego bazy danych kryminalnych",
+      "original_title": "FBI reportedly investigating apparent hack of its criminal database",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:37",
+      "time": "09:34",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Sąd podtrzymał pobicie czarnoskórego producenta muzycznego w 2020 r. jako okoliczność obciążającą świadczącą o rasizmie.",
-        "Podpis pod rysunkiem: Na nagraniu wideo widziano trzech funkcjonariuszy, którzy pobili producenta muzycznego Michela Zeclera w jego studiu Trzech francuskich funkcjonariuszy policji zostało skazanych sześć lat temu w Paryżu za pobicie czarnoskórego producenta muzycznego, co sąd uznał za okoliczność obciążającą rasizmu.",
-        "Cała trójka została również uznana za winną podpisania sfałszowanego raportu policyjnego stwierdzającego, że producent – ​​Michel Zecler, lat 47 – brutalnie stawiał opór próbie aresztowania go."
+        "Baza danych Krajowego Centrum Informacji o Przestępczości jest wykorzystywana przez federalne i lokalne organy ścigania do wymiany informacji.",
+        "Federalne i lokalne organy ścigania korzystają z bazy danych Krajowego Centrum Informacji o Przestępczości (NCIC) w celu udostępniania informacji na temat nakazów sądowych i sprawdzania przeszłości.",
+        "BBC skontaktowało się z FBI w celu uzyskania komentarza."
       ],
       "extended_paragraphs": [
-        "Sąd podtrzymał pobicie czarnoskórego producenta muzycznego w 2020 r. jako okoliczność obciążającą świadczącą o rasizmie.",
-        "Podpis pod rysunkiem: Na nagraniu wideo widziano trzech funkcjonariuszy, którzy pobili producenta muzycznego Michela Zeclera w jego studiu",
-        "Trzech francuskich funkcjonariuszy policji zostało skazanych sześć lat temu w Paryżu za pobicie czarnoskórego producenta muzycznego, co sąd uznał za okoliczność obciążającą rasizmu.",
-        "Cała trójka została również uznana za winną podpisania sfałszowanego raportu policyjnego stwierdzającego, że producent – ​​Michel Zecler, lat 47 – brutalnie stawiał opór próbie aresztowania go.",
-        "Ich kłamstwa zostały ujawnione, ponieważ cała scena w studiu nagraniowym Zeclera została zarejestrowana w telewizji przemysłowej, co ujawniło, że producent otrzymał około 30 ciosów, kopnięć i uderzeń pałką, nie stawiając przy tym żadnego oporu."
+        "Baza danych Krajowego Centrum Informacji o Przestępczości jest wykorzystywana przez federalne i lokalne organy ścigania do wymiany informacji.",
+        "Federalne i lokalne organy ścigania korzystają z bazy danych Krajowego Centrum Informacji o Przestępczości (NCIC) w celu udostępniania informacji na temat nakazów sądowych i sprawdzania przeszłości. BBC skontaktowało się z FBI w celu uzyskania komentarza.",
+        "Nastąpiło to po serii przerw technologicznych, które w zeszłym tygodniu dotknęły bankowość, kontrolę ruchu lotniczego i inne sektory w USA. Urzędnicy powiedzieli, że nie były one spowodowane cyberatakami, ale przerwy w dostawie prądu wywołały analizę ze strony prawodawców.",
+        "Krajowy dyrektor ds. cyberbezpieczeństwa w Białym Domu Sean Cairncross został w tym tygodniu zwolniony, a prezydent USA Donald Trump stwierdził, że nie jest wystarczająco dobry.",
+        "Nie byłby to pierwszy przypadek, gdy hakerzy zaatakowali FBI, krajowe służby wywiadowcze i bezpieczeństwa Stanów Zjednoczonych."
       ]
     },
     {
-      "id": "swiat-1-99ba0b",
+      "id": "swiat-2-99ba0b",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1781,7 +1782,39 @@
       ]
     },
     {
-      "id": "swiat-2-d27e37",
+      "id": "swiat-3-85252f",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Zełenski mówi, że Putin jest „zabójcą”, po tym jak Trump nazwał rosyjskiego przywódcę przyjacielem",
+      "original_title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "08:10",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Na początku tygodnia Trump powitał Putina przed spotkaniem w Chinach i powiedział, że łączą ich „świetne stosunki”.",
+        "Prezydent Ukrainy Wołodymyr Zełenski powiedział, że Władimir Putin jest „zabójcą” w odpowiedzi na to, że Donald Trump nazwał w tym tygodniu rosyjskiego przywódcę swoim „przyjacielem” w Chinach.",
+        "W rozmowie z CNN Zełenski powiedział, że to od prezydenta USA zależy, „jak zadzwonić do Putina”, ale „dla nas jest on wrogiem… dla nas jest zabójcą”."
+      ],
+      "extended_paragraphs": [
+        "Na początku tygodnia Trump powitał Putina przed spotkaniem w Chinach i powiedział, że łączą ich „świetne stosunki”.",
+        "Prezydent Ukrainy Wołodymyr Zełenski powiedział, że Władimir Putin jest „zabójcą” w odpowiedzi na to, że Donald Trump nazwał w tym tygodniu rosyjskiego przywódcę swoim „przyjacielem” w Chinach.",
+        "W rozmowie z CNN Zełenski powiedział, że to od prezydenta USA zależy, „jak zadzwonić do Putina”, ale „dla nas jest on wrogiem… dla nas jest zabójcą”.",
+        "Przed czwartkowym historycznym spotkaniem trójstronnym z chińskim przywódcą Xi Jinpingiem i Putinem Trump nazwał Putina swoim „przyjacielem” i powiedział, że obu przywódców łączy „świetne stosunki od wielu lat”.",
+        "Rosyjskie ataki trwały przez noc, w wyniku czego dwie osoby zginęły, w tym chłopiec, a 52 zostały ranne w atakach rakietowych i dronów na rodzinne miasto Zełenskiego, Krzywy Róg w środkowym obwodzie dniepropietrowskim – podają urzędnicy."
+      ]
+    },
+    {
+      "id": "swiat-4-d27e37",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1812,41 +1845,107 @@
       ]
     },
     {
-      "id": "swiat-4-ca089c",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
+      "id": "swiat-5-f91fdd",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Surowce Energetyczne” (Ropa Naftowa) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Rosyjski pocisk uderzył w Polskę podczas ćwiczeń wojskowych sojuszników Ukrainy – mówi Tusk",
-      "original_title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "title": "Walka o paliwa kopalne wpycha rozmowy klimatyczne podczas COP31 w impas",
+      "original_title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "is_foreign": true,
       "lang": "EN",
-      "time": "02:09",
+      "time": "09:52",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Nikt nie odniósł obrażeń i nie zgłoszono żadnych szkód, ale Warszawa określiła incydent jako „prowokację” ze strony Moskwy.",
-        "Podpis pod rysunkiem, Obejrzyj: CCTV pokazuje eksplozję po tym, jak Polska stwierdziła, że przestrzeń powietrzna naruszyła rosyjska rakieta Polska twierdzi, że rosyjski pocisk manewrujący znalazł się wśród trzech obiektów, które w piątek wcześnie rano naruszyły jej przestrzeń powietrzną, a premier Donald Tusk stwierdził, że nie wydaje się to być wypadkiem, gdy w regionie odbywały się zachodnie ćwiczenia wojskowe.",
-        "Rosja nie skomentowała naruszeń, do których doszło podczas jednego z największych ataków powietrznych na Ukrainę od rozpoczęcia inwazji na pełną skalę w 2022 roku."
+        "Kraje z prawie 200 krajów znajdują się w impasie, jeśli chodzi o próbę uzyskania nowego globalnego porozumienia klimatycznego.",
+        "Negocjacje na szczycie klimatycznym ONZ COP31 w Turcji utknęły w impasie, przeciągając się przez całą noc, ponieważ kraje nadal nie są w stanie osiągnąć porozumienia w sprawie nowego światowego porozumienia klimatycznego.",
+        "W piątek podczas późnej interwencji grupa krajów pod przewodnictwem Francji i Panamy sprzeciwiła się projektowi porozumienia, które nie zawierało żadnej wzmianki o zmniejszeniu światowego zapotrzebowania na paliwa kopalne."
       ],
       "extended_paragraphs": [
-        "Nikt nie odniósł obrażeń i nie zgłoszono żadnych szkód, ale Warszawa określiła incydent jako „prowokację” ze strony Moskwy.",
-        "Podpis pod rysunkiem, Obejrzyj: CCTV pokazuje eksplozję po tym, jak Polska stwierdziła, że przestrzeń powietrzna naruszyła rosyjska rakieta",
-        "Polska twierdzi, że rosyjski pocisk manewrujący znalazł się wśród trzech obiektów, które w piątek wcześnie rano naruszyły jej przestrzeń powietrzną, a premier Donald Tusk stwierdził, że nie wydaje się to być wypadkiem, gdy w regionie odbywały się zachodnie ćwiczenia wojskowe.",
-        "Rosja nie skomentowała naruszeń, do których doszło podczas jednego z największych ataków powietrznych na Ukrainę od rozpoczęcia inwazji na pełną skalę w 2022 roku.",
-        "Minister obrony Władysław Kosiniak-Kamysz powiedział, że rakieta Kh-101 uderzyła w obszar wiejski w Nowym Lipowcu w południowo-wschodniej Polsce, około 50 km (31 mil) od granicy z Ukrainą."
+        "Kraje z prawie 200 krajów znajdują się w impasie, jeśli chodzi o próbę uzyskania nowego globalnego porozumienia klimatycznego.",
+        "Negocjacje na szczycie klimatycznym ONZ COP31 w Turcji utknęły w impasie, przeciągając się przez całą noc, ponieważ kraje nadal nie są w stanie osiągnąć porozumienia w sprawie nowego światowego porozumienia klimatycznego.",
+        "W piątek podczas późnej interwencji grupa krajów pod przewodnictwem Francji i Panamy sprzeciwiła się projektowi porozumienia, które nie zawierało żadnej wzmianki o zmniejszeniu światowego zapotrzebowania na paliwa kopalne.",
+        "Niezależnie od tego Grupa Afrykańska walczy o uzyskanie zobowiązań w zakresie większych środków na adaptację, twierdząc, że nie przybyła na COP „żebrać”.",
+        "Opublikowano dzień temu Ministrowie państw wyspiarskich, Panamy i silnego kontyngentu krajów UE, do których należą Hiszpania, Francja, Belgia, Szwecja i Finlandia, oświadczyli, że nalegają, aby uzyskać zobowiązanie do odejścia od ropy, gazu i węgla z powrotem do ostatecznego porozumienia po tym, jak producenci paliw kopalnych pod przewodnictwem Arabii Saudyjskiej nalegali na jego usunięcie."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-2-f95cfc",
+      "id": "sport-3-e0596e",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 25 mln euro) o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [
+        "25 mln euro"
+      ],
+      "title": "Burza wokół gwiazdy Bayernu. Poszło o jego zarobki",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:19",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285344/burza-wokol-gwiazdy-bayernu-poszlo-o-jego-zarobki",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b016fd604ae63_10116902.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": true,
+      "summary_points": [
+        "Jamal Musiala dopiero wrócił do gry, a w Bayernie już wybuchła dyskusja o jego przyszłości.",
+        "Karl-Heinz Rummenigge zasugerował, że przy obecnej sytuacji zdrowotnej gwiazdora klub może w końcu poruszyć temat jego ogromnych zarobków.",
+        "Skomentuj Jamal Musiala dopiero wrócił do gry, a w Bayernie już wybuchła dyskusja o jego przyszłości."
+      ],
+      "extended_paragraphs": [
+        "Jamal Musiala dopiero wrócił do gry, a w Bayernie już wybuchła dyskusja o jego przyszłości. Karl-Heinz Rummenigge zasugerował, że przy obecnej sytuacji zdrowotnej gwiazdora klub może w końcu poruszyć temat jego ogromnych zarobków.",
+        "Skomentuj Jamal Musiala dopiero wrócił do gry, a w Bayernie już wybuchła dyskusja o jego przyszłości. Karl-Heinz Rummenigge zasugerował, że przy obecnej sytuacji zdrowotnej gwiazdora klub może w końcu poruszyć temat jego ogromnych zarobków.",
+        "Jamal Musiala ma kontrakt do 2030 roku i według niemieckich mediów inkasuje około 25 mln euro rocznie, co stawia go w gronie najlepiej opłacanych piłkarzy Bayernu Monachium . Karl-Heinz Rummenigge przyznał jednak, że w klubie istnieją obawy, czy 23-latek po problemach zdrowotnych zdoła jeszcze wrócić do poziomu, który prezentował przed dłuższymi przerwami.",
+        "- To jest możliwe i nie można tego wykluczyć. To, co wiemy, niestety sugeruje, że powrót do poziomu, który wielokrotnie tutaj prezentował, może być trudny - powiedział były prezes Bayernu.",
+        "Gdy zapytano go o ewentualne zmiany finansowe, odpowiedział jeszcze mocniej: - Wtedy trzeba porozmawiać z rodziną, zawodnikiem i przede wszystkim z agencją. Takie kwoty nie są już do udźwignięcia."
+      ]
+    },
+    {
+      "id": "sport-4-0465ee",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Szewczenko kłamie w sprawie twierdzeń o testach narkotykowych – Mudryk",
+      "original_title": "Shevchenko lying about drugs test claims - Mudryk",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:54",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Mychajło Mudryk oskarża legendę Ukrainy Andrija Szewczenkę o kłamstwo na temat okoliczności związanych z pozytywnym wynikiem testu na obecność narkotyków u skrzydłowego w związku z trwającym jego sporem z rodzimą federacją piłkarską.",
+        "Mychajło Mudryk oskarżył legendę Ukrainy Andrija Szewczenkę o kłamstwo na temat okoliczności związanych z pozytywnym wynikiem testu na obecność narkotyków u skrzydłowego w związku z trwającym jego sporem z rodzimą federacją piłkarską.",
+        "Skrzydłowy Tottenhamu Hotspur Mudryk, który przebywa na sezonowym wypożyczeniu w Chelsea, został zawieszony od listopada 2024 r. do lipca 2026 r. po pozytywnym wyniku testu na obecność zakazanej substancji meldonium."
+      ],
+      "extended_paragraphs": [
+        "Mychajło Mudryk oskarża legendę Ukrainy Andrija Szewczenkę o kłamstwo na temat okoliczności związanych z pozytywnym wynikiem testu na obecność narkotyków u skrzydłowego w związku z trwającym jego sporem z rodzimą federacją piłkarską.",
+        "Mychajło Mudryk oskarżył legendę Ukrainy Andrija Szewczenkę o kłamstwo na temat okoliczności związanych z pozytywnym wynikiem testu na obecność narkotyków u skrzydłowego w związku z trwającym jego sporem z rodzimą federacją piłkarską.",
+        "Skrzydłowy Tottenhamu Hotspur Mudryk, który przebywa na sezonowym wypożyczeniu w Chelsea, został zawieszony od listopada 2024 r. do lipca 2026 r. po pozytywnym wyniku testu na obecność zakazanej substancji meldonium.",
+        "W środowym wywiadzie Mudryk powiedział, że obwinia Ukraiński Związek Piłki Nożnej (UAF) za nieudany test na obecność narkotyków i późniejszy zakaz, wierząc, że dostał się on do jego organizmu podczas pełnienia obowiązków międzynarodowych.",
+        "W odpowiedzi prezydent UAF Szewczenko oskarżył przedstawicieli Mudryka o wielokrotne proszenie pracownika UAF o „fałszywe” przyjęcie na siebie winy za niezdany egzamin."
+      ]
+    },
+    {
+      "id": "sport-6-f95cfc",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1863,7 +1962,7 @@
       "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/795f/live/1dc78710-e53c-11f1-8e3b-a9faa658e88c.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Lauren Price zdominowała Michaelę Kotaskovą i przypieczętowała swoje miejsce w historii, zostając niekwestionowaną mistrzynią świata wagi półśredniej.",
         "Price (32 l.) podjęła jednomyślną, wykluczającą decyzję i zyskała uznanie publiczności, aby dodać tytuł WBO do swojej kolekcji i zostać pierwszą walijską zawodniczką, która zdobyła uznanie w postaci posiadania wszystkich czterech głównych tytułów mistrza świata.",
@@ -1878,109 +1977,39 @@
       ]
     },
     {
-      "id": "sport-4-75736e",
+      "id": "sport-1-0adcad",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
+      "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 100 milionów funtów, 10 milionów funtów, 7,5 miliona funtów) o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [
-        "100 milionów funtów",
-        "10 milionów funtów",
-        "7,5 miliona funtów"
-      ],
-      "title": "Koszt zatrudniania i zwalniania menedżerów Man Utd zbliża się do 100 milionów funtów",
-      "original_title": "Cost of Man Utd hiring and firing managers nears £100m",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:18",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Manchester United pożyczył 10 milionów funtów trzy dni po potwierdzeniu, że Mauricio Pochettino będzie ich nowym głównym trenerem, co będzie kosztować 7,5 miliona funtów w ramach rekompensaty dla US Soccer.",
-        "Reporter Manchesteru United Opublikowano 3 godziny temu Manchester United pożyczył kolejne 10 milionów funtów trzy dni po zatwierdzeniu Mauricio Pochettino na nowego głównego trenera.",
-        "W rozszerzonym wniosku giełdowym dotyczącym wyników finansowych za pierwszy kwartał, który został opublikowany w czwartek, United stwierdziło, że będzie zobowiązane zapłacić 7,5 miliona funtów odszkodowania na rzecz US Soccer za zatrudnienie Argentyńczyka."
-      ],
-      "extended_paragraphs": [
-        "Manchester United pożyczył 10 milionów funtów trzy dni po potwierdzeniu, że Mauricio Pochettino będzie ich nowym głównym trenerem, co będzie kosztować 7,5 miliona funtów w ramach rekompensaty dla US Soccer.",
-        "Reporter Manchesteru United Opublikowano 3 godziny temu Manchester United pożyczył kolejne 10 milionów funtów trzy dni po zatwierdzeniu Mauricio Pochettino na nowego głównego trenera.",
-        "W rozszerzonym wniosku giełdowym dotyczącym wyników finansowych za pierwszy kwartał, który został opublikowany w czwartek, United stwierdziło, że będzie zobowiązane zapłacić 7,5 miliona funtów odszkodowania na rzecz US Soccer za zatrudnienie Argentyńczyka.",
-        "United ogłosiło 13 listopada, że ​​Pochettino zgodził się na dwuipółletni kontrakt. 16 listopada pożyczyli 10 milionów funtów.",
-        "Pożyczka jest jedną z trzech potwierdzonych po dacie sprawozdawczej za pierwszy kwartał 30 września, co oznacza, że ​​łączna kwota należna z tytułu odnawialnego limitu kredytowego wynosi 240 mln funtów."
-      ]
-    },
-    {
-      "id": "sport-5-e464c9",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Trener Pogoni Szczecin broni się po porażkach. \"Moje podejście nie zmienia się\"",
+      "title": "Mecz Realu Madryt dzisiaj: transmisja za darmo. Gdzie oglądać?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:35",
+      "time": "10:21",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285287/trener-pogoni-szczecin-broni-sie-po-porazkach-moje-podejscie-nie-zmienia-sie",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00adbcab3020_42932338.jpg",
+      "source_url": "https://sportowefakty.wp.pl/bukmacherzy/1285064/mecz-realu-madryt-dzisiaj-transmisja-za-darmo-gdzie-ogladac",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/671b949277a035_80211740.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Trzy porażki Pogoni Szczecin poszły w parze z nieporozumieniami trenera Oscara Garcii z zarządem klubu.",
-        "Hiszpan przekonuje, że jego niedoszłe przenosiny do Dinama Zagrzeb nie miały wpływu na zespół.",
-        "1 Komentarz Trzy porażki Pogoni Szczecin poszły w parze z nieporozumieniami trenera Oscara Garcii z zarządem klubu."
+        "Real Madryt zmierzy się dzisiaj z Celtą Vigo w kolejnym ligowym spotkaniu.",
+        "Mecz rozpocznie się o godzinie 21:00.",
+        "Przedstawiamy informacje o dostępnych transmisjach z dzisiejszego spotkania."
       ],
       "extended_paragraphs": [
-        "Trzy porażki Pogoni Szczecin poszły w parze z nieporozumieniami trenera Oscara Garcii z zarządem klubu. Hiszpan przekonuje, że jego niedoszłe przenosiny do Dinama Zagrzeb nie miały wpływu na zespół.",
-        "1 Komentarz Trzy porażki Pogoni Szczecin poszły w parze z nieporozumieniami trenera Oscara Garcii z zarządem klubu. Hiszpan przekonuje, że jego niedoszłe przenosiny do Dinama Zagrzeb nie miały wpływu na zespół.",
-        "Pogoń Szczecin potrafiła w tym sezonie być niepokonana przez 10 kolejek, a w pięciu meczach z rzędu zwyciężała. Teraz wpadła w głęboki dołek, a Oscar Garcia nie będzie miał prostego zadania w ostatnich kolejkach w rundzie jesiennej w PKO Ekstraklasie . Przeciwnikami Pogoni będą drużyny z czołówki, a gra Portowców pozostawia dużo do życzenia. W piątek przegrali 1:2 ze Śląskiem Wrocław .",
-        "- Zanim strzeliliśmy gola na 1:0, byliśmy znacznie lepszym zespołem na boisku. Mieliśmy nasze szanse na zwycięstwo i kolejne gole, ale jesteśmy w takim momencie, że wszystko idzie przeciwko nam. Po dwóch klarownych błędach straciliśmy dwa gole, a nasza gra przestała funkcjonować dobrze. Nie potrafiliśmy \"zabić\" tego meczu - mówi Oscar Garcia na konferencji prasowej.",
-        "- Mam takie same podejście, jak w czasie serii pięciu zwycięstw. Nie można było oczekiwać, że nigdy nie przegramy meczu. Było jasne, że nie dotrwamy z serią do końca sezonu. Kilka razy byliśmy na limicie. Kiedy teraz mamy gorszy moment w defensywie i jesteśmy nieskuteczni, to taki mamy tego rezultat. Zwyciężamy i przegramy jako cała drużyna - opowiada trener."
+        "Real Madryt zmierzy się dzisiaj z Celtą Vigo w kolejnym ligowym spotkaniu. Mecz rozpocznie się o godzinie 21:00. Przedstawiamy informacje o dostępnych transmisjach z dzisiejszego spotkania.",
+        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów",
+        "Real Madryt w ostatnich tygodniach kroczył w lidze od zwycięstwa do zwycięstwa. Przed dzisiejszym meczem traci tylko trzy punkty do prowadzącej w tabeli Barcelony. Podopieczni Jose Mourinho mogą się z nią zrównać pokonując dzisiaj na Bernabeu Celtę Vigo.",
+        "Dzisiejszy mecz Realu Madryt z Celtą Vigo będzie można oglądać w TV na kanale CANAL+ Sport 6. Mecz drogą internetową można oglądać korzystając z platformy CANAL+ online. Dostęp do darmowej transmisji na platformie STS TV będą mieli klienci STS z aktywnym koncie i środkami na nim w dowolnej wysokości.",
+        "Pierwszy po przerwie na reprezentacje mecz Realu Madryt można oglądać na platformie STS TV. Teraz bezpłatny dostęp do niej mają aktywni klienci STS, którzy posiadają na swoim koncie środki w dowolnej kwocie. Dostęp można uzyskać również w każdej chwili spełniając dwa proste warunki:"
       ]
     },
     {
-      "id": "sport-8-75628e",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 950 milionów funtów) o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [
-        "950 milionów funtów"
-      ],
-      "title": "Świetny NFL, Brady, mógłby kupić udziały w Chelsea",
-      "original_title": "NFL great Brady could buy Chelsea stake",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "22:36",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Wielki futbol amerykański Tom Brady chce zainwestować w Chelsea za pośrednictwem grupy właścicielskiej Clearlake Capital.",
-        "Reporter Chelsea Opublikowano 4 godziny temu Wielki futbol amerykański Tom Brady chce zainwestować w Chelsea za pośrednictwem grupy właścicielskiej Clearlake Capital.",
-        "Siedmiokrotny zwycięzca Super Bowl niedawno sprzedał swoje udziały w klubie Championship Birmingham City, który kupił po przejęciu Knighthead Capital przez Toma Wagnera w 2023 roku."
-      ],
-      "extended_paragraphs": [
-        "Wielki futbol amerykański Tom Brady chce zainwestować w Chelsea za pośrednictwem grupy właścicielskiej Clearlake Capital.",
-        "Reporter Chelsea Opublikowano 4 godziny temu Wielki futbol amerykański Tom Brady chce zainwestować w Chelsea za pośrednictwem grupy właścicielskiej Clearlake Capital.",
-        "Siedmiokrotny zwycięzca Super Bowl niedawno sprzedał swoje udziały w klubie Championship Birmingham City, który kupił po przejęciu Knighthead Capital przez Toma Wagnera w 2023 roku.",
-        "Teraz wydaje się, że mógłby przenieść się do Chelsea, gdzie ma pozytywne relacje z wpływowym współwłaścicielem Behdadem Eghbalim, będąc głównym gościem na after-party po triumfie klubu w Klubowych Mistrzostwach Świata w 2025 roku.",
-        "Brady nie miałby prawa głosu ani kontroli w Chelsea, chociaż grupa właścicieli mogłaby rozważyć mianowanie go do zarządu, gdyby odpowiadało to wszystkim stronom."
-      ]
-    },
-    {
-      "id": "sport-1-11a57a",
+      "id": "sport-2-5ee297",
       "entity_tag": "Formuła 1",
       "sector": "Motorsport",
       "market_impact": "LOW",
@@ -1988,95 +2017,31 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Dominacja Russella w Las Vegas. I kuriozalny kontakt z Verstappenem",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "01:42",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/formula-1/1285296/dominacja-russella-w-las-vegas-i-kuriozalny-kontakt-z-verstappenem",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00f0a487d571_24825567.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "George Russell okazał się najszybszy w trzecim treningu F1 przed GP Las Vegas, a Mercedes potwierdził dobrą dyspozycję po zwycięstwie kierowcy w drugiej sesji.",
-        "Nie brakowało jednak interesujących przetasowań i incydentów.",
-        "Skomentuj George Russell okazał się najszybszy w trzecim treningu F1 przed GP Las Vegas, a Mercedes potwierdził dobrą dyspozycję po zwycięstwie kierowcy w drugiej sesji."
-      ],
-      "extended_paragraphs": [
-        "George Russell okazał się najszybszy w trzecim treningu F1 przed GP Las Vegas, a Mercedes potwierdził dobrą dyspozycję po zwycięstwie kierowcy w drugiej sesji. Nie brakowało jednak interesujących przetasowań i incydentów.",
-        "Skomentuj George Russell okazał się najszybszy w trzecim treningu F1 przed GP Las Vegas, a Mercedes potwierdził dobrą dyspozycję po zwycięstwie kierowcy w drugiej sesji. Nie brakowało jednak interesujących przetasowań i incydentów.",
-        "Trzeci trening Formuły 1 przed GP Las Vegas miał szczególne znaczenie dla zespołów. Opady deszczu mocno ograniczyły bowiem możliwość zebrania reprezentatywnych danych w pierwszej i drugiej sesji. Dość powiedzieć, że na otwarcie weekendu żaden kierowca nie ustanowił mierzonego czasu . Druga odbywała się na mokrej, stopniowo przesychającej nawierzchni. Najlepszy okazał się w niej George Russell , który uzyskał czas 1:47.272.",
-        "W trzeciej sesji początkowo na czele tabeli znajdował się Max Verstappen . Holender dobrze rozpoczął ostatnie przejazdy przed kwalifikacjami i w jej trakcie wyprzedzał m.in. Isacka Hadjara oraz Lando Norrisa . W czołówce znajdowali się również Pierre Gasly i George Russell .",
-        "Sytuacja zmieniła się po kolejnych przejazdach. Russell zaczął poprawiać swoje rezultaty i odebrał prowadzenie Verstappenowi. Brytyjczyk najpierw uzyskał 1:35.124, a następnie poprawił się na 1:34.805. Już wtedy dysponował wyraźną przewagą nad rywalami."
-      ]
-    },
-    {
-      "id": "sport-3-b3358d",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "FC Porto uciekło spod topora! Zdecydowały rzuty karne, Pietuszewski nie wykorzystał jedenastki",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "23:43",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285291/fc-porto-ucieklo-spod-topora-zdecydowaly-rzuty-karne-pietuszewski-nie-wykorzysta",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00dab75d6c80_25858240.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "FC Porto było o krok od gigantycznej wpadki z trzecioligowym USC Paredes.",
-        "Faworyt potrzebował dogrywki i rzutów karnych, by wywalczyć awans.",
-        "Oskar Pietuszewski zmarnował swoją jedenastkę, ale pomyłka Polaka ostatecznie nie okazała się kosztowna."
-      ],
-      "extended_paragraphs": [
-        "FC Porto było o krok od gigantycznej wpadki z trzecioligowym USC Paredes. Faworyt potrzebował dogrywki i rzutów karnych, by wywalczyć awans. Oskar Pietuszewski zmarnował swoją jedenastkę, ale pomyłka Polaka ostatecznie nie okazała się kosztowna.",
-        "Skomentuj FC Porto było o krok od gigantycznej wpadki z trzecioligowym USC Paredes. Faworyt potrzebował dogrywki i rzutów karnych, by wywalczyć awans. Oskar Pietuszewski zmarnował swoją jedenastkę, ale pomyłka Polaka ostatecznie nie okazała się kosztowna.",
-        "To miał być jeden z tych wieczorów, podczas których FC Porto szybko załatwia sprawę i może oszczędzać najważniejszych zawodników. Zamiast tego na Estadio do Dragão zrobiło się nerwowo, bo trzecioligowiec nie tylko postawił się gospodarzom, ale momentami tworzył groźniejsze sytuacje. USC Paredes doprowadziło do dogrywki, a po 120 minutach wciąż było 1:1. O wszystkim musiały zdecydować rzuty karne.",
-        "Problemy gospodarzy były widoczne właściwie od początku. Paredes nie zamierzało ograniczać się do obrony i już w pierwszej połowie kilkukrotnie mogło objąć prowadzenie. W 22. minucie Daniel Rodrigues pomylił się minimalnie, a później Claudio Ramos musiał ratować Porto po kolejnej znakomitej okazji gości.",
-        "Niewykorzystane sytuacje zemściły się w 41. minucie. Seko Fofana wbiegł w pole karne i mocnym uderzeniem dał Porto prowadzenie. Wynik 1:0 zupełnie nie odzwierciedlał jednak tego, jak duże problemy faworyt miał z trzecioligowym przeciwnikiem."
-      ]
-    },
-    {
-      "id": "sport-6-454509",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Celem Stacked England jest nabranie stylu i zwiększenie nieszczęścia All Black",
-      "original_title": "Stacked England aim to pile on style and add to All Black misery",
+      "title": "„Ktoś musi przeciwstawić się temu facetowi” – a Russell ma swoją szansę w Vegas",
+      "original_title": "'Somebody has to stand up to that guy' - and Russell has his chance in Vegas",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:51",
+      "time": "08:13",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrmgjpp0l48o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e87/live/68fccf90-e502-11f1-9e2f-7fb5281f0b3c.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/618b/live/83c124c0-e57a-11f1-a5f6-b3028adf2d6d.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "W sobotę łatwe w odbiorze ożywienie w Anglii zostanie wystawione na próbę przez drużynę nowozelandzką pod nagłą presją Reporter wiadomości o związku rugby BBC Sport Opublikowano 20 listopada 2026 r. Na lewej stopie Willa Stuarta wytatuowano ciąg symboli.",
-        "Okrąg, dwa trójkąty, strzałka w górę, kolejne kółko, R1, L2, strzałka w górę, trójkąt i na koniec trzy razy L1.",
-        "Stuart, gwiazdor reprezentacji Anglii oraz brytyjskiej i irlandzkiej drużyny Lions, jest trwale, choć żartobliwie, ostemplowany kodem do Grand Theft Auto, zewnętrznym, który dodaje Twojej postaci maksymalnego seksapilu w grze."
+        "Feud George'a Russella-Maxa Verstappena ponownie wypłynął w Las Vegas, dodając pikanterii wyścigowi, w którym obaj zawodnicy wystartują z pierwszego rzędu.",
+        "Korespondent F1 w Las Vegas Opublikowano godzinę temu Grand Prix Las Vegas rozpocznie się z dwoma kierowcami w pierwszym rzędzie, którzy się nie lubią, a po kwalifikacjach jeden powiedział o drugim, że „ktoś musi stawić czoła temu gościowi”.",
+        "„Ten facet” to Max Verstappen, który startuje w Red Bullu z pole position."
       ],
       "extended_paragraphs": [
-        "W sobotę łatwe w odbiorze ożywienie w Anglii zostanie wystawione na próbę przez drużynę nowozelandzką pod nagłą presją",
-        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 20 listopada 2026 r. Na lewej stopie Willa Stuarta wytatuowano ciąg symboli.",
-        "Okrąg, dwa trójkąty, strzałka w górę, kolejne kółko, R1, L2, strzałka w górę, trójkąt i na koniec trzy razy L1.",
-        "Stuart, gwiazdor reprezentacji Anglii oraz brytyjskiej i irlandzkiej drużyny Lions, jest trwale, choć żartobliwie, ostemplowany kodem do Grand Theft Auto, zewnętrznym, który dodaje Twojej postaci maksymalnego seksapilu w grze.",
-        "Pod nieobecność kontuzjowanego Stuarta i jego kodu na początku tego roku Anglia z pewnością straciła zapał."
+        "Feud George'a Russella-Maxa Verstappena ponownie wypłynął w Las Vegas, dodając pikanterii wyścigowi, w którym obaj zawodnicy wystartują z pierwszego rzędu.",
+        "Korespondent F1 w Las Vegas Opublikowano godzinę temu Grand Prix Las Vegas rozpocznie się z dwoma kierowcami w pierwszym rzędzie, którzy się nie lubią, a po kwalifikacjach jeden powiedział o drugim, że „ktoś musi stawić czoła temu gościowi”.",
+        "„Ten facet” to Max Verstappen, który startuje w Red Bullu z pole position. Kierowcą, który go krytykuje, jest George Russell z Mercedesa, który zajmuje drugie miejsce.",
+        "Obaj awansowali po tym, jak najszybszy kwalifikator, nowy mistrz świata Kimi Antonelli, został zdegradowany przez karę przesunięcia o pięć miejsc za przekroczenie przydzielonego mu silnika na sezon.",
+        "Problemy Russella wynikały z incydentu na ostatnim treningu, podczas którego Verstappen wyprzedził Mercedesa na Las Vegas Strip, a następnie skręcił przed nim w zakręt nr 14."
       ]
     },
     {
-      "id": "sport-7-c25246",
+      "id": "sport-5-256419",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2084,33 +2049,133 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Dramat Harry'ego Kane'a. Zdobywca Złotej Piłki wypada na wiele miesięcy!",
+      "title": "Są nowe wieści ws. Kane'a. Bayern opublikował oficjalny komunikat",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:34",
+      "time": "10:17",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285290/dramat-harryego-kanea-zdobywca-zlotej-pilki-wypada-na-wiele-miesiecy",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b00cab43c8118_98640082.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285343/sa-nowe-wiesci-ws-kanea-bayern-opublikowal-oficjalny-komunikat",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b016fa5a70bd9_52894149.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Fatalne wieści dla Bayernu Monachium.",
-        "Harry Kane doznał zerwania więzozrostu podczas meczu z 1.",
-        "Max Eberl potwierdził diagnozę, a według \"Bilda\" zdobywcy Złotej Piłki grożą nawet cztery miesiące przerwy."
+        "Bayern Monachium przekazał najnowsze informacje na temat stanu zdrowia Harry'ego Kane'a.",
+        "Klub poinformował w mediach społecznościowych, że napastnik jest już po operacji.",
+        "Skomentuj Bayern Monachium przekazał najnowsze informacje na temat stanu zdrowia Harry'ego Kane'a."
       ],
       "extended_paragraphs": [
-        "Fatalne wieści dla Bayernu Monachium. Harry Kane doznał zerwania więzozrostu podczas meczu z 1. FC Koeln. Max Eberl potwierdził diagnozę, a według \"Bilda\" zdobywcy Złotej Piłki grożą nawet cztery miesiące przerwy.",
-        "2 Komentarze Fatalne wieści dla Bayernu Monachium. Harry Kane doznał zerwania więzozrostu podczas meczu z 1. FC Koeln. Max Eberl potwierdził diagnozę, a według \"Bilda\" zdobywcy Złotej Piłki grożą nawet cztery miesiące przerwy.",
-        "Remis 1:1 z 1.FC Koeln zszedł w Monachium na dalszy plan. Harry Kane opuścił murawę już po 20 minutach, a po zakończeniu spotkania Bayern Monachium poznał diagnozę swojej największej gwiazdy. Jest znacznie poważniejsza, niż można było początkowo przypuszczać. Zdobywca Złotej Piłki wypada z gry na kilka miesięcy. Co więcej, klub musi zdecydować, czy konieczna będzie operacja.",
-        "- W przypadku Harry'ego Kane'a mamy zerwanie więzozrostu. Przerwa będzie podobna jak u Ismaela Saibariego. W tej chwili trwają dyskusje, czy potrzebna będzie operacja - przekazał Max Eberl w strefie mieszanej.",
-        "\"Bild\" podaje już konkretny przewidywany czas absencji. Według informacji niemieckiego dziennika Kane może wypaść z gry na trzy lub nawet cztery miesiące."
+        "Bayern Monachium przekazał najnowsze informacje na temat stanu zdrowia Harry'ego Kane'a. Klub poinformował w mediach społecznościowych, że napastnik jest już po operacji.",
+        "Skomentuj Bayern Monachium przekazał najnowsze informacje na temat stanu zdrowia Harry'ego Kane'a. Klub poinformował w mediach społecznościowych, że napastnik jest już po operacji.",
+        "\"Harry Kane przeszedł w nocy pomyślną operację po zerwaniu więzozrostu w lewej kostce - kontuzji, której nabawił się wczoraj podczas meczu Bundesligi przeciwko 1. FC Koeln. Teraz czeka go proces rehabilitacji. Życzymy szybkiego powrotu do zdrowia, Harry!\" - czytamy w komunikacie Bayernu Monachium na portalu X.",
+        "Harry Kane odniósł kontuzję już w 15. minucie meczu 10. kolejki Bundesligi z 1.FC Koeln . Joel Schmied zdecydował się na wślizg od tyłu i choć najpierw sięgnął piłki, później trafił wprost w kostkę Anglika. Napastnik starał się jeszcze biegać, lecz po około pięciu minutach poprosił o zmianę. W asyście sztabu medycznego zszedł z murawy, a jego miejsce zajął Tom Bischof.",
+        "ZOBACZ WIDEO: Bednarek stanął w obronie Kiwiora. I zaapelował. \"Powinniśmy się wspierać\""
+      ]
+    },
+    {
+      "id": "sport-7-2c9e21",
+      "entity_tag": "Sport Światowy",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "W 1996 roku mówiła o niej cała Polska. Tak dziś wygląda",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:16",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/sportowybar/1285342/w-1996-roku-mowila-o-niej-cala-polska-tak-dzis-wyglada",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b016df8622e09_38859008.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "W 1996 roku sensacyjnie wygrała juniorski Australian Open, czym zaskarbiła sobie sympatię w całej Polsce.",
+        "O Magdalenie Grzybowskiej mówił wówczas cały kraj.",
+        "Skomentuj W 1996 roku sensacyjnie wygrała juniorski Australian Open, czym zaskarbiła sobie sympatię w całej Polsce."
+      ],
+      "extended_paragraphs": [
+        "W 1996 roku sensacyjnie wygrała juniorski Australian Open, czym zaskarbiła sobie sympatię w całej Polsce. O Magdalenie Grzybowskiej mówił wówczas cały kraj. Oto co dziś robi.",
+        "Skomentuj W 1996 roku sensacyjnie wygrała juniorski Australian Open, czym zaskarbiła sobie sympatię w całej Polsce. O Magdalenie Grzybowskiej mówił wówczas cały kraj. Oto co dziś robi.",
+        "W niedzielę Grzybowska będzie obchodzić 48. urodziny. Najwyżej w rankingu WTA Magdalena Grzybowska była na 30. miejscu. Działo się to w 1998 roku. Dzisiaj taka pozycja nie robi na nikim wrażenia, gdy Iga Świątek przez wiele miesięcy była absolutną liderką. Świetną formę prezentuje Maja Chwalińska, a i Magda Linette już nieraz zaskoczyła. Ale za czasów Grzybowskiej żadna Polka wcześniej nie zaszła aż tak wysoko w kobiecym tenisie.",
+        "Mieliśmy nadzieję, że przez lata będziemy emocjonować się występami Grzybowskiej w najważniejszych tenisowych turniejach. Tym bardziej, że w 1996 roku wygrała juniorski turniej Australian Open. Niestety dwa lata później doznała poważnej kontuzji kolana. Pauzowała bardzo długo, próbowała wrócić do grania, ale ostatecznie w wieku 24 lat musiała zakończyć karierę.",
+        "- Kontuzja sprawiła, że się pożegnałam z zawodowym tenisem i wydaje mi się, że to była dobra decyzja. Pod koniec kariery zaczynałam się męczyć z takimi prozaicznymi rzeczami jak ból albo to, że nie mogę grać na sto procent. Do tego ciągłe wyjazdy. Decyzja została zatem przeze mnie podjęta z wielką ulgą i staram się do tego nie wracać - mówiła kilka lat temu w wywiadzie dla \"Przeglądu Sportowego\"."
+      ]
+    },
+    {
+      "id": "sport-8-a2eb91",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Sportowiec, który stracił rękę, ratując przyjaciół w ataku, „zrobiłby to jeszcze raz”",
+      "original_title": "Athlete who lost hand saving friends in attack 'would do it again'",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "06:35",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/taekwondo/articles/crpdwljj0v89o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b6fb/live/8c560a20-e4f7-11f1-a8e4-b1e12a49db15.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Ismael Ox miał 11 lat, kiedy stracił rękę, próbując chronić swoich przyjaciół przed granatem, a obecnie startuje w para-taekwondo w USA.",
+        "Kiedy islamistyczna grupa bojowników rzuciła granat w 11-letniego Ismaela „Oxa” Oumarou i jego przyjaciół w Nigrze, ten nie uciekł przed nim, tylko pobiegł w jego stronę.",
+        "„Po prostu go chwycił”, ale gdy próbował wyrzucić go znajomym, eksplodował."
+      ],
+      "extended_paragraphs": [
+        "Ismael Ox miał 11 lat, kiedy stracił rękę, próbując chronić swoich przyjaciół przed granatem, a obecnie startuje w para-taekwondo w USA.",
+        "Kiedy islamistyczna grupa bojowników rzuciła granat w 11-letniego Ismaela „Oxa” Oumarou i jego przyjaciół w Nigrze, ten nie uciekł przed nim, tylko pobiegł w jego stronę.",
+        "„Po prostu go chwycił”, ale gdy próbował wyrzucić go znajomym, eksplodował.",
+        "Obiecujący sportowiec taekwondo, który uczył się sam, wyglądając przez okno lokalnego dojo, w wyniku eksplozji stracił prawą rękę.",
+        "Wszyscy wokół niego spisali na straty jego sportowe ambicje, nikt nie wyobrażał sobie go pewnego dnia na mistrzostwach świata, a tym bardziej reprezentowania USA."
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-429d90",
+      "id": "rynki-1-e60a24",
+      "entity_tag": "Złoto (XAU/USD)",
+      "sector": "Surowce Szlachetne",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Złoto (XAU/USD) (Surowce Szlachetne) (kluczowe liczby: 7,5 mld zł, 2%, 3%) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "7,5 mld zł",
+        "2%",
+        "3%"
+      ],
+      "title": "GTA 6 bije rekordy, giełdy dostają zadyszki. Złoto tonie, bitcoin drży, a miliardy płyną do AI",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/GTA-6-bije-rekordy-gieldy-dostaja-zadyszki-Zloto-tonie-bitcoin-drzy-a-miliardy-plyna-do-AI-9232342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/5/e/72dd5ad4f02032-948-568-66-153-1945-1167.png",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Dzień dobry, tutaj Inwestor Wojtek.",
+        "W tym tygodniu rynki finansowe wchodzą w okres podwyższonej niepewności.",
+        "Mocniejszy dolar spycha złoto i srebro do najniższych poziomów od wielu miesięcy, bitcoin zmaga się z presją sprzedających, a inwestorzy coraz uważniej przyglądają się wycenom spółek surowcowych."
+      ],
+      "extended_paragraphs": [
+        "Dzień dobry, tutaj Inwestor Wojtek. W tym tygodniu rynki finansowe wchodzą w okres podwyższonej niepewności. Mocniejszy dolar spycha złoto i srebro do najniższych poziomów od wielu miesięcy, bitcoin zmaga się z presją sprzedających, a inwestorzy coraz uważniej przyglądają się wycenom spółek surowcowych. W centrum uwagi pozostaje KGHM, który umacnia pozycję światowego lidera produkcji srebra, ale jednocześnie musi mierzyć się z rynkowymi oczekiwaniami dotyczącymi cen miedzi. Do tego inflacyjne problemy Europy, kondycja największych giełdowych gigantów oraz gorące wydarzenia ze świata technologii - od Nvidii po rekordowe transakcje związane z Anthropic.",
+        "fot. tło: Szymon Laszewski / / FORUM / Bankier.pl 1. Złoto i srebro meldują się na nowych rocznych minimach. Takich cen nie było od jesieni 2025 r. Globalna aprecjacja dolara napędzana rosnącymi oczekiwania na podwyżki stóp procentowych w USA spowodowała wyraźne ochłodzenie nastrojów wokół metali szlachetnych. Notowania złota znów osunęły się poniżej psychologicznej bariery 4000 dolarów za uncję do najniższego poziomu od września 2025 r. W jeszcze gorszej sytuacji zdaje się być srebro tracące nie tylko psychologiczne, ale też techniczne wsparcie cenowe na poziomach poprzednich historycznych szczytów.",
+        "2. Ile miedzi jest dziś w cenie KGHM? Analiza Bloomberga i komentarz zarządu Choć po trzech kwartałach 2026 roku KGHM wypracował ponad 7,5 mld zł zysku netto, notowania spółki uległy jesiennej przecenie razem z całym sektorem wydobywczym. Raport Bloomberg Intelligence pokazuje, że kurs polskiego koncernu dyskontuje obecnie najwyższą długoterminową cenę miedzi spośród innych spółek o średniej wielkości. Zarząd odpowiada na rynkową zmienność aktywnym hedgingiem i chwali się umiejętnym wykorzystaniem warunków rynkowych.",
+        "3. Euroinflacja rozlewa się po Europie. Lider może być tylko jeden W niemal wszystkich krajach Unii Europejskiej inflacja przekraczała 2%. W miażdżącej większości było to ponad 3%, a w jednej trzeciej państw członkowskich ceny rosły w tempie bliskim lub wyższym od 5%.",
+        "4. Srebrny numer jeden. KGHM ponownie największym producentem białego metalu KGHM Polska Miedź obronił pozycję największego producenta srebra na świecie w trzecim kwartale 2026 roku. Z najnowszego zestawienia przygotowanego przez serwis MinerDeck wynika, że lubiński gigant wyprzedził amerykańskiego Newmonta oraz meksykańskie Fresnillo. Tego ostatniego dotyczy ciekawe zastrzeżenie, dotyczące ujmowania w rankingu jego spółki matki."
+      ]
+    },
+    {
+      "id": "rynki-3-429d90",
       "entity_tag": "KGHM (GPW: KGH)",
       "sector": "Surowce & Górnictwo",
       "market_impact": "HIGH",
@@ -2131,7 +2196,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/Krwawy-piatek-na-gieldzie-Indeksy-spadaja-niczym-niezidentyfikowane-obiekty-nad-Polska-9232426.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/c/8/e8fa253501c203-948-568-16-8-1553-932.png",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Fala wyprzedaży przetacza się przez Giełdę Papierów Wartościowych w Warszawie.",
         "Spadki sprowadziły główne indeksy na poziomy niewidziane od początku września.",
@@ -2146,7 +2211,7 @@
       ]
     },
     {
-      "id": "rynki-2-621803",
+      "id": "rynki-4-621803",
       "entity_tag": "Wall Street (USA)",
       "sector": "Rynki Globalne",
       "market_impact": "HIGH",
@@ -2182,7 +2247,7 @@
       ]
     },
     {
-      "id": "rynki-3-6ae855",
+      "id": "rynki-5-6ae855",
       "entity_tag": "NBP / RPP",
       "sector": "Polityka Pieniężna",
       "market_impact": "HIGH",
@@ -2216,7 +2281,7 @@
       ]
     },
     {
-      "id": "rynki-4-9aae46",
+      "id": "rynki-6-9aae46",
       "entity_tag": "Fed (USA)",
       "sector": "Banki Centralne",
       "market_impact": "HIGH",
@@ -2248,7 +2313,7 @@
       ]
     },
     {
-      "id": "rynki-5-5d7e92",
+      "id": "rynki-7-5d7e92",
       "entity_tag": "JSW (GPW: JSW)",
       "sector": "Górnictwo",
       "market_impact": "HIGH",
@@ -2284,74 +2349,35 @@
       ]
     },
     {
-      "id": "rynki-6-a06184",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 81 miliardów dolarów, 3,1%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "81 miliardów dolarów",
-        "3,1%"
-      ],
-      "title": "Rynek byka ma nowy problem. Sprzedaje się „inteligentne pieniądze”.",
-      "original_title": "The bull market has a new problem. The 'smart money' is selling",
+      "id": "rynki-2-c4c9d0",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Azja & Pacyfik (Gospodarka Światowa) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [],
+      "title": "Jak Chiny wykorzystują szczyty do poszerzania swoich globalnych wpływów",
+      "original_title": "How China is using summits to expand its global influence",
       "is_foreign": true,
       "lang": "EN",
-      "time": "14:15",
+      "time": "06:00",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108555311-1795100709058-gettyimages-2305894647-mms24821_52qceprh.jpeg?v=1795100757&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Spółki przechodzą z wykupu akcji na emisję akcji, zwiększając podaż.",
-        "Pierwsza oferta publiczna Anthropic o wartości 81 miliardów dolarów wystawia ten popyt na próbę.",
-        "Spółki przestawiły się z wykupu akcji na rzecz ich emisji, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa."
+        "Prezydent Chin Xi Jinping pomógł w koordynowaniu kolejnej sesji zdjęciowej o znaczeniu globalnym.",
+        "SHENZHEN, Chiny – Drugi rok z rzędu chiński prezydent Xi Jinping spotkał prezydenta Rosji Władimira Putina z innym głównym światowym przywódcą na wybrzeżach Chin kontynentalnych.",
+        "Prezydent USA Donald Trump odbył w czwartek trójstronne spotkanie z Xi i Putinem, po tym, jak cała trójka spotkała się poprzedniego wieczoru podczas bankietu powitalnego z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku w Shenzhen."
       ],
       "extended_paragraphs": [
-        "Spółki przechodzą z wykupu akcji na emisję akcji, zwiększając podaż. Pierwsza oferta publiczna Anthropic o wartości 81 miliardów dolarów wystawia ten popyt na próbę.",
-        "Spółki przestawiły się z wykupu akcji na rzecz ich emisji, zwiększając podaż, którą musi wchłonąć trwająca od czterech lat hossa.",
-        "„Bez względu na to, jak to zmierzyć, amerykańskie korporacje zmieniły swoje zachowanie w ciągu ostatnich dwóch lat, przechodząc od wykupu w 2024 r. do emisji dzisiaj” – napisał w tym miesiącu menadżer portfela Acadian Asset Management Owen Lamont. „Pytanie, które powinieneś zadać, brzmi: dlaczego sprzedaje się inteligentne pieniądze?”",
-        "Według ostatniej analizy Acadian, pod koniec ubiegłego tygodnia nowa emisja netto akcji wyniosła 3,1% całkowitej kapitalizacji rynkowej. Chociaż emisja netto utrzymuje się poniżej szczytów z bańki technologicznej i bańki covidowej, analiza pokazuje, że era wykupów dobiegła końca i rozpoczęła się era emisji akcji.",
-        "W tym tygodniu na rynek przybyła większa podaż wraz z hitową ofertą publiczną Anthropic. Oferta początkowo spotkała się z dużym entuzjazmem, ponieważ pionierskie laboratorium AI sprzedało w ramach pierwszej oferty publicznej akcje po 83 dolarów za sztukę, powyżej oczekiwanego zakresu i pozyskując 81 miliardów dolarów. Jednak w piątek akcje spółki spadają, pociągając za sobą szerszy rynek akcji."
-      ]
-    },
-    {
-      "id": "rynki-7-c420be",
-      "entity_tag": "Wall Street (USA)",
-      "sector": "Rynki Globalne",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 107 mld dolarów, 17%, 2,25%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "107 mld dolarów",
-        "17%",
-        "2,25%"
-      ],
-      "title": "Udany debiut Anthopica. Nasdaq pogłębia korektę",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:05",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Udany-debiut-Anthopica-Nasdaq-poglebia-korekte-9232105.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/0/9/5ca8bfcbc825c6-948-568-262-358-2966-1779.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków.",
-        "Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
-        "fot. Lev Radin / / Zuma Press / Forum W czwartek na Wall Street liczyły się dwie premiery."
-      ],
-      "extended_paragraphs": [
-        "Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków. Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
-        "fot. Lev Radin / / Zuma Press / Forum W czwartek na Wall Street liczyły się dwie premiery. Tą ważniejszą był giełdowy debiut Anthopica. Firma stojąca za modelem AI Claude w ramach emisji akcji pozyskała ponad 107 mld dolarów , a rynek początkowo wycenił ją na ponad 1,5 biliona dolarów . Nominalnie było to największe IPO w historii. Akcje Anthopica rozpoczęły handel od 33-procentowej zwyżki, ale zamknęły dzień wzrostem o 17% i kapitalizacją rzędu 1,1 bln USD.",
-        "Ten sukces ginął jednak w czerwonym obrazie rynku. Nasdaq Composite po spadku o 2,25% zatrzymał się na poziomie 23 879,20 punktów. To najniższy kurs zamknięcia od połowy kwietnia, a więc już ponad 7 miesięcy. Od październikowego szczytu hossy Nasdaq stracił już prawie 14%, co Amerykanie określają mianem „korekty”.",
-        "Drugą istotną premierą było udostępnienie graczom gry Grand Theft Auto 6 . Ten długo oczekiwany hit stał się najwyżej ocenianą grą w historii serwisu Metacritic z notą 99 na 100 możliwych. Mimo to akcje Take-Two Interacticve – czyli właściciela studia Rockstar Games – potaniały o 3,7%.",
-        "Spadki zmonitowały także szeroki rynek. Indeks S&P500 zniżkował o 2,02% i finiszował z wynikiem 7 175,83 pkt. Także w tym przypadku był to najniższy kurs zamknięcia od kwietnia. Średnia przemysłowa Dow Jonesa straciła 2,19 % i po raz pierwszy od ponad pół roku zamknęła się poniżej 50 000 pkt."
+        "Prezydent Chin Xi Jinping pomógł w koordynowaniu kolejnej sesji zdjęciowej o znaczeniu globalnym.",
+        "SHENZHEN, Chiny – Drugi rok z rzędu chiński prezydent Xi Jinping spotkał prezydenta Rosji Władimira Putina z innym głównym światowym przywódcą na wybrzeżach Chin kontynentalnych.",
+        "Prezydent USA Donald Trump odbył w czwartek trójstronne spotkanie z Xi i Putinem, po tym, jak cała trójka spotkała się poprzedniego wieczoru podczas bankietu powitalnego z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku w Shenzhen. Było to ich pierwsze osobiste spotkanie.",
+        "We wrześniu 2025 r. Xi, Putin i premier Indii Narendra Modi przez chwilę śmiali się razem podczas przyjacielskiej sesji zdjęciowej podczas dorocznego spotkania Szanghajskiej Organizacji Współpracy w Tianjin w Chinach. Spotkanie nastąpiło po złagodzeniu napięć między Pekinem a New Delhi.",
+        "„Zdolność Chin do bezpośredniego współdziałania z głównymi mocarstwami światowymi” odzwierciedla wpływ tego kraju na Globalne Południe i Eurazję, stwierdziła Jodie Wen, doktorantka w Centrum Bezpieczeństwa Międzynarodowego i Strategii na Uniwersytecie Tsinghua. „Chiny mają nadzieję odegrać bardziej konstruktywną rolę w tym [ogarniętym konfliktem] i niestabilnym świecie”."
       ]
     },
     {

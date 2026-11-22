@@ -3,10 +3,10 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.326",
-    "last_updated": "2026-11-22 17:58",
+    "last_updated": "2026-11-22 23:13",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
-    "polish_articles_count": 18,
-    "foreign_translated_count": 20,
+    "polish_articles_count": 19,
+    "foreign_translated_count": 19,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -81,8 +81,8 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$60,799",
-      "change": "+1.36%",
+      "price": "$60,792",
+      "change": "+1.03%",
       "is_positive": true
     },
     {
@@ -90,7 +90,7 @@
       "name": "Ethereum",
       "group": "crypto",
       "price": "$1,714",
-      "change": "+2.02%",
+      "change": "+1.99%",
       "is_positive": true
     },
     {
@@ -945,6 +945,41 @@
       ]
     },
     {
+      "id": "rynki-2-06061c",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 150 milionów dolarów, 4,6 miliona dolarów) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "150 milionów dolarów",
+        "4,6 miliona dolarów"
+      ],
+      "title": "Pracownicy wspieranego przez Erica Trumpa startupu robotycznego tracą świadczenia zdrowotne w miarę pogłębiania się kryzysu finansowego firmy",
+      "original_title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:55",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Fundacja stara się o awaryjny kredyt pomostowy i prowadzi rozmowy z firmami VC w oczekiwaniu na inwestycję o wartości 150 milionów dolarów od południowokoreańskiej Base Group.",
+        "Jak wynika z notatki uzyskanej przez CNBC, pracownikom Foundation Future Industries powiedziano, że ich świadczenia zdrowotne za pośrednictwem administratora Ripplinga zostały zakończone.",
+        "Fundacja poinformowała pracowników w piątkowy wieczór e-mailem, że zostanie im zaoferowane ubezpieczenie w ramach COBRA – prawa federalnego, które zasadniczo pozwala pracownikom tymczasowo zachować ubezpieczenie zdrowotne po utracie świadczeń, płacąc pełną składkę z własnej kieszeni."
+      ],
+      "extended_paragraphs": [
+        "Fundacja stara się o awaryjny kredyt pomostowy i prowadzi rozmowy z firmami VC w oczekiwaniu na inwestycję o wartości 150 milionów dolarów od południowokoreańskiej Base Group.",
+        "Jak wynika z notatki uzyskanej przez CNBC, pracownikom Foundation Future Industries powiedziano, że ich świadczenia zdrowotne za pośrednictwem administratora Ripplinga zostały zakończone.",
+        "Fundacja poinformowała pracowników w piątkowy wieczór e-mailem, że zostanie im zaoferowane ubezpieczenie w ramach COBRA – prawa federalnego, które zasadniczo pozwala pracownikom tymczasowo zachować ubezpieczenie zdrowotne po utracie świadczeń, płacąc pełną składkę z własnej kieszeni.",
+        "„Ponieważ nasza ostatnia wypłata w Rippling miała miejsce w październiku, zakończyli oni nasze świadczenia z mocą wsteczną od października” – stwierdził w notatce menadżer ds. zasobów ludzkich Fundacji. „COBRA będzie oferowana wszystkim pracownikom przez cały listopad”.",
+        "Fundacja trafiła na pierwsze strony gazet po odważnych twierdzeniach współzałożyciela Sankaeta Pathaka – którego poprzedni startup upadł w 2024 r. – na temat swoich robotów i ich potencjalnego zastosowania w strefach objętych działaniami wojennymi. Ostatnią wypłatę pracownikom wypłacono 15 października, a część pracowników firmy jest wściekła na Pathaka za pożyczkę o wartości 4,6 miliona dolarów, którą wziął od swojej firmy w zeszłym roku, jak podało CNBC na początku tego miesiąca."
+      ]
+    },
+    {
       "id": "rynki-3-e60a24",
       "entity_tag": "Złoto (XAU/USD)",
       "sector": "Surowce Szlachetne",
@@ -978,42 +1013,6 @@
         "2. Ile miedzi jest dziś w cenie KGHM? Analiza Bloomberga i komentarz zarządu Choć po trzech kwartałach 2026 roku KGHM wypracował ponad 7,5 mld zł zysku netto, notowania spółki uległy jesiennej przecenie razem z całym sektorem wydobywczym. Raport Bloomberg Intelligence pokazuje, że kurs polskiego koncernu dyskontuje obecnie najwyższą długoterminową cenę miedzi spośród innych spółek o średniej wielkości. Zarząd odpowiada na rynkową zmienność aktywnym hedgingiem i chwali się umiejętnym wykorzystaniem warunków rynkowych.",
         "3. Euroinflacja rozlewa się po Europie. Lider może być tylko jeden W niemal wszystkich krajach Unii Europejskiej inflacja przekraczała 2%. W miażdżącej większości było to ponad 3%, a w jednej trzeciej państw członkowskich ceny rosły w tempie bliskim lub wyższym od 5%.",
         "4. Srebrny numer jeden. KGHM ponownie największym producentem białego metalu KGHM Polska Miedź obronił pozycję największego producenta srebra na świecie w trzecim kwartale 2026 roku. Z najnowszego zestawienia przygotowanego przez serwis MinerDeck wynika, że lubiński gigant wyprzedził amerykańskiego Newmonta oraz meksykańskie Fresnillo. Tego ostatniego dotyczy ciekawe zastrzeżenie, dotyczące ujmowania w rankingu jego spółki matki."
-      ]
-    },
-    {
-      "id": "rynki-4-621803",
-      "entity_tag": "Wall Street (USA)",
-      "sector": "Rynki Globalne",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 70%, 6%, 72%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "70%",
-        "6%",
-        "72%"
-      ],
-      "title": "Rynki prognostyczne perspektywy dla akcji w 2026 r. pogarszają się w obliczu wyprzedaży sztucznej inteligencji",
-      "original_title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:59",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "Szanse na to, że S&P 500 przekroczy 8000, co kiedyś znajdowało się na północ od 70%, są na platformie Kalshi wyjątkowo niskie.",
-        "W miarę kontynuowania wyprzedaży akcji spowodowanej technologią, inwestorzy na rynkach prognostycznych widzą coraz bardziej ponure perspektywy na pozostałą część roku.",
-        "Na platformie Kalshi spekulanci stawiają zaledwie 6% szans na to, że w 2026 r. indeks S&P 500 przekroczy 8000."
-      ],
-      "extended_paragraphs": [
-        "Szanse na to, że S&P 500 przekroczy 8000, co kiedyś znajdowało się na północ od 70%, są na platformie Kalshi wyjątkowo niskie.",
-        "W miarę kontynuowania wyprzedaży akcji spowodowanej technologią, inwestorzy na rynkach prognostycznych widzą coraz bardziej ponure perspektywy na pozostałą część roku.",
-        "Na platformie Kalshi spekulanci stawiają zaledwie 6% szans na to, że w 2026 r. indeks S&P 500 przekroczy 8000. 13 października szanse te wynosiły aż 72%.",
-        "W kontraktach inwestorzy pytają, czy indeks S&P 500 przekroczy różne poziomy w 2026 r., a rozstrzygnięcie następuje na podstawie danych z indeksów S&P Dow Jones.",
-        "W piątek indeks Nasdaq Composite osiągnął wynik ujemny w ujęciu rocznym, ponieważ inwestorzy w dalszym ciągu porzucali akcje spółek technologicznych, głównie tych z ekspozycją na rozwój sztucznej inteligencji. Dow Jones Industrial Average oraz S&P 500 również znalazły się w obszarze korekty."
       ]
     },
     {
@@ -1051,35 +1050,39 @@
       ]
     },
     {
-      "id": "rynki-6-9aae46",
-      "entity_tag": "Fed (USA)",
-      "sector": "Banki Centralne",
+      "id": "rynki-6-621803",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
       "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe.",
-      "key_metrics": [],
-      "title": "Warsh chce, aby urzędnicy Fed mniej mówili. Zamiast tego mówią więcej",
-      "original_title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 70%, 6%, 72%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "70%",
+        "6%",
+        "72%"
+      ],
+      "title": "Rynki prognostyczne perspektywy dla akcji w 2026 r. pogarszają się w obliczu wyprzedaży sztucznej inteligencji",
+      "original_title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:10",
+      "time": "19:59",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108476194-17932143232026-10-28t190313z_1179407772_rc2icoaqsfjn_rtrmadp_0_usa-fed.jpeg?v=1793214357&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Urzędnicy Fed ostatnio spieszyli się do mikrofonów, podczas gdy prezes Fed pozostaje na uboczu.",
-        "Przez pierwsze sześć miesięcy swojej kadencji na stanowisku prezesa Rezerwy Federalnej Kevin Warsh pilnie unikał sygnalizowania kierunku, w jakim według niego zmierza polityka pieniężna i stopy procentowe.",
-        "Jego koledzy z radością wypełnili tę pustkę."
+        "Szanse na to, że S&P 500 przekroczy 8000, co kiedyś znajdowało się na północ od 70%, są na platformie Kalshi wyjątkowo niskie.",
+        "W miarę kontynuowania wyprzedaży akcji spowodowanej technologią, inwestorzy na rynkach prognostycznych widzą coraz bardziej ponure perspektywy na pozostałą część roku.",
+        "Na platformie Kalshi spekulanci stawiają zaledwie 6% szans na to, że w 2026 r. indeks S&P 500 przekroczy 8000."
       ],
       "extended_paragraphs": [
-        "Urzędnicy Fed ostatnio spieszyli się do mikrofonów, podczas gdy prezes Fed pozostaje na uboczu.",
-        "Przez pierwsze sześć miesięcy swojej kadencji na stanowisku prezesa Rezerwy Federalnej Kevin Warsh pilnie unikał sygnalizowania kierunku, w jakim według niego zmierza polityka pieniężna i stopy procentowe. Jego koledzy z radością wypełnili tę pustkę.",
-        "Ostatnio urzędnicy Fed rzucili się do mikrofonu, wyrażając czasami sprzeczne opinie na temat tego, jak bank centralny powinien radzić sobie z błędem inflacyjnym, z którym gospodarka nie może się otrząsnąć.",
-        "Większość zgadza się, że stopy należy podnieść – i to wkrótce. Niektórzy są skłonni do podwyżek w umiarkowanym tempie w zależności od panujących warunków, podczas gdy inni, jak gubernator Christopher Waller i prezes Fed w St. Louis Alberto Musalem, rozważają bardziej agresywne podwyżki w krótszym czasie.",
-        "W dużej mierze na marginesie debaty znajduje się Warsh, który wyraził pogardę dla tego rodzaju przyszłych wskazówek i argumentował, że zakuwa to decydentów w kajdanki na długo przed faktycznym podjęciem przez nich decyzji. Nie powstrzymuje to jednak większości z pozostałych 18 urzędników uczestniczących w posiedzeniach Federalnego Komitetu Otwartego Rynku."
+        "Szanse na to, że S&P 500 przekroczy 8000, co kiedyś znajdowało się na północ od 70%, są na platformie Kalshi wyjątkowo niskie.",
+        "W miarę kontynuowania wyprzedaży akcji spowodowanej technologią, inwestorzy na rynkach prognostycznych widzą coraz bardziej ponure perspektywy na pozostałą część roku.",
+        "Na platformie Kalshi spekulanci stawiają zaledwie 6% szans na to, że w 2026 r. indeks S&P 500 przekroczy 8000. 13 października szanse te wynosiły aż 72%.",
+        "W kontraktach inwestorzy pytają, czy indeks S&P 500 przekroczy różne poziomy w 2026 r., a rozstrzygnięcie następuje na podstawie danych z indeksów S&P Dow Jones.",
+        "W piątek indeks Nasdaq Composite osiągnął wynik ujemny w ujęciu rocznym, ponieważ inwestorzy w dalszym ciągu porzucali akcje spółek technologicznych, głównie tych z ekspozycją na rozwój sztucznej inteligencji. Dow Jones Industrial Average oraz S&P 500 również znalazły się w obszarze korekty."
       ]
     },
     {
@@ -1119,7 +1122,41 @@
       ]
     },
     {
-      "id": "rynki-2-c4c9d0",
+      "id": "rynki-8-6ae855",
+      "entity_tag": "NBP / RPP",
+      "sector": "Polityka Pieniężna",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny NBP / RPP (kluczowe liczby: 10%).",
+      "key_metrics": [
+        "10%"
+      ],
+      "title": "Tym będą żyły rynki: święta w Ameryce, Czarny Piątek i paczka danych z Polski",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "14:01",
+      "source": "Bankier Rynki",
+      "source_url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-swieta-w-Ameryce-Czarny-Piatek-i-paczka-danych-z-Polski-9232581.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "image_url": "https://galeria.bankier.pl/p/e/d/13c3ea279ce357-948-568-153-163-3328-1996.jpg",
+      "image_source": "Fot. / Źródło: Bankier Rynki",
+      "lead_story": false,
+      "summary_points": [
+        "Z Polski i reszty Europy napłynie sporo danych makroekonomicznych, w tym zwłaszcza najnowsze statystyki inflacyjne.",
+        "Nie zabraknie też już mocno przestarzałych raportów kwartalnych na GPW.",
+        "fot. CineVI / / Shutterstock Poniedziałek, 23 listopada W Europie pojawią się wstępne odczyty PMI za listopad."
+      ],
+      "extended_paragraphs": [
+        "Z Polski i reszty Europy napłynie sporo danych makroekonomicznych, w tym zwłaszcza najnowsze statystyki inflacyjne. Nie zabraknie też już mocno przestarzałych raportów kwartalnych na GPW.",
+        "fot. CineVI / / Shutterstock Poniedziałek, 23 listopada W Europie pojawią się wstępne odczyty PMI za listopad. Poznamy wyniki dla Francji (9:15), Niemiec (9:30), strefy euro jako całości (10:00) oraz Wielkiej Brytanii (10:30) i USA (15:45).",
+        "W Polsce GUS otworzy worek z raportami makro za październik. Na pierwszy ogień pójdzie produkcja przemysłowa oraz inflacja PPI, produkcja budowlano-montażowa oraz przeciętne zatrudnienie i wynagrodzenia w sektorze przedsiębiorstw. Wszystko na raz o godzinie 9:30.",
+        "Wyniki za zakończony niemal dwa miesiące temu III kwartał pokażą: Unibep, Dekpol, Polimex czy Airway.",
+        "W ramach danych drugiego rzutu o 9:30 GUS zaprezentuje nam wyniki październikowej sprzedaży detalicznej. Pół godziny później Niemcy pokażą indeks Ifo mierzący nastroje korporacyjnych menedżerów. O 14:00 NBP pokaże statystyki podaży pieniądza, którego od wielu miesięcy przybywa tempie przeszło 10% w skali roku."
+      ]
+    },
+    {
+      "id": "rynki-4-c4c9d0",
       "entity_tag": "Azja & Pacyfik",
       "sector": "Gospodarka Światowa",
       "market_impact": "MEDIUM",
@@ -1145,41 +1182,9 @@
       "extended_paragraphs": [
         "Prezydent Chin Xi Jinping pomógł w koordynowaniu kolejnej sesji zdjęciowej o znaczeniu globalnym.",
         "SHENZHEN, Chiny – Drugi rok z rzędu chiński prezydent Xi Jinping spotkał prezydenta Rosji Władimira Putina z innym głównym światowym przywódcą na wybrzeżach Chin kontynentalnych.",
-        "Prezydent USA Donald Trump odbył w czwartek trójstronne spotkanie z Xi i Putinem, po tym, jak cała trójka spotkała się poprzedniego wieczoru podczas bankietu powitalnego z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku w Shenzhen. Było to dla nich pierwsze osobiste spotkanie.",
+        "Prezydent USA Donald Trump odbył w czwartek trójstronne spotkanie z Xi i Putinem, po tym, jak cała trójka spotkała się poprzedniego wieczoru podczas bankietu powitalnego z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku w Shenzhen. Było to ich pierwsze osobiste spotkanie.",
         "We wrześniu 2025 r. Xi, Putin i premier Indii Narendra Modi przez chwilę śmiali się razem podczas przyjacielskiej sesji zdjęciowej podczas dorocznego spotkania Szanghajskiej Organizacji Współpracy w Tianjin w Chinach. Spotkanie nastąpiło po złagodzeniu napięć między Pekinem a New Delhi.",
         "„Zdolność Chin do bezpośredniego współdziałania z głównymi mocarstwami światowymi” odzwierciedla wpływ tego kraju na Globalne Południe i Eurazję, stwierdziła Jodie Wen, doktorantka w Centrum Bezpieczeństwa Międzynarodowego i Strategii na Uniwersytecie Tsinghua. „Chiny mają nadzieję odegrać bardziej konstruktywną rolę w tym [ogarniętym konfliktem] i niestabilnym świecie”."
-      ]
-    },
-    {
-      "id": "rynki-8-a7e30a",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Międzynarodowa pierwsza klasa dobiegła końca dla amerykańskich linii lotniczych. Wejdź do mega kabiny klasy biznes",
-      "original_title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:00",
-      "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Finance",
-      "lead_story": false,
-      "summary_points": [
-        "Linie lotnicze decydują się na budowę gigantycznych kabin klasy biznes z coraz bardziej luksusowymi apartamentami.",
-        "Era długodystansowych, międzynarodowych lotów amerykańskich linii lotniczych zakończyła się w tym tygodniu wraz z wylądowaniem ostatniego lotu American Airlines z sekcją z ośmioma apartamentami.",
-        "Na jego miejscu powstanie masywna kabina klasy biznes z miejscem dla 70 pasażerów."
-      ],
-      "extended_paragraphs": [
-        "Linie lotnicze decydują się na budowę gigantycznych kabin klasy biznes z coraz bardziej luksusowymi apartamentami.",
-        "Era długodystansowych, międzynarodowych lotów amerykańskich linii lotniczych zakończyła się w tym tygodniu wraz z wylądowaniem ostatniego lotu American Airlines z sekcją z ośmioma apartamentami. Na jego miejscu powstanie masywna kabina klasy biznes z miejscem dla 70 pasażerów.",
-        "Amerykańskie linie lotnicze rezygnują z międzynarodowych kabin pierwszej klasy na rzecz nowego, najwyższego poziomu: większych i odświeżonych klas biznesowych, wyposażonych w apartamenty z przesuwanymi drzwiami, projekt du jour. Na ten krok zdecydowały się już linie Delta Air Lines i United Airlines. American była ostatnią amerykańską linią lotniczą, która nadal posiadała pierwszą klasę na długodystansowych trasach międzynarodowych.",
-        "Wielu podróżnych może nie zauważyć różnicy. Dzieje się tak dzięki inwestycjom linii lotniczych w klasę biznes: nowe apartamenty, większe ekrany, lepsza technologia, taka jak podkładki do ładowania urządzeń, i lepsza pościel.",
-        "To część wielkiego planu linii lotniczych na masowy luksus. Konsumenci byli skłonni wydać więcej, aby latać wygodnie, co pomaga zwiększyć przychody linii lotniczych. Jest to tym ważniejsze, że rosną koszty wszystkiego, od paliwa po opłaty za lądowanie na lotnisku, pochłaniając większą część zysków branży."
       ]
     }
   ],
@@ -1241,12 +1246,12 @@
       "lead_story": false,
       "summary_points": [
         "Chris O'Shea twierdzi, że liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
-        "Autor: Nick Edser Reporter biznesowy Opublikowano 4 godziny temu Szef firmy Centrica, właściciela brytyjskiej firmy Gas, mówi, że jest „bardzo zaniepokojony” wpływem, jaki spodziewany wzrost rachunków za energię w styczniu będzie miał na konsumentów.",
+        "Autor: Nick Edser Reporter biznesowy Opublikowano 9 godzin temu Szef firmy Centrica, właściciela brytyjskiej firmy Gas, mówi, że jest „bardzo zaniepokojony” wpływem, jaki spodziewany w styczniu wzrost rachunków za energię będzie miał na konsumentów.",
         "Chris O'Shea powiedział BBC, że jego zdaniem liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku."
       ],
       "extended_paragraphs": [
         "Chris O'Shea twierdzi, że liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
-        "Autor: Nick Edser Reporter biznesowy Opublikowano 4 godziny temu Szef firmy Centrica, właściciela brytyjskiej firmy Gas, mówi, że jest „bardzo zaniepokojony” wpływem, jaki spodziewany wzrost rachunków za energię w styczniu będzie miał na konsumentów.",
+        "Autor: Nick Edser Reporter biznesowy Opublikowano 9 godzin temu Szef firmy Centrica, właściciela brytyjskiej firmy Gas, mówi, że jest „bardzo zaniepokojony” wpływem, jaki spodziewany w styczniu wzrost rachunków za energię będzie miał na konsumentów.",
         "Chris O'Shea powiedział BBC, że jego zdaniem liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
         "Nowy pułap cen energii, który zacznie obowiązywać od stycznia, zostanie ogłoszony w środę, a firma doradcza Cornwall Insight prognozuje, że wzrośnie on o 443 funtów rocznie w przypadku typowego gospodarstwa domowego.",
         "Rząd powiedział, że niektóre gospodarstwa domowe otrzymają 100 funtów na pomoc w opłaceniu rachunków za energię, ale Citizens Advice stwierdziło, że to „kropla w morzu”, podczas gdy jedna grupa nacisku wezwała do podjęcia działań w sprawie „zawyżonych zysków przedsiębiorstw energetycznych”."
@@ -1409,20 +1414,88 @@
       "summary_points": [
         "Umowa handlowa raczej nie obniży cen żywności dla kupujących, ale powinna pobudzić gospodarkę bardziej niż inne umowy po brexicie.",
         "W innym świecie Andy Burnham bardzo chciałby, aby supermarkety w całym kraju wyraźnie ogłosiły, że mogą obniżyć ceny żywności w wyniku najnowszego porozumienia w sprawie eksportu żywności.",
-        "I chociaż sklepy spożywcze z dużym zadowoleniem przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia."
+        "I chociaż sklepy spożywcze bardzo przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia."
       ],
       "extended_paragraphs": [
         "Umowa handlowa raczej nie obniży cen żywności dla kupujących, ale powinna pobudzić gospodarkę bardziej niż inne umowy po brexicie.",
         "W innym świecie Andy Burnham bardzo chciałby, aby supermarkety w całym kraju wyraźnie ogłosiły, że mogą obniżyć ceny żywności w wyniku najnowszego porozumienia w sprawie eksportu żywności.",
-        "I chociaż sklepy spożywcze z dużym zadowoleniem przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia.",
-        "Dyrektor zarządzający M&S, Alex Freudmann, nazwał tę transakcję „ważnym krokiem naprzód”, twierdząc, że usunie ona biurokrację. Dyrektor naczelny Tesco, Ken Murphy, dodał, że to „dobra wiadomość dla brytyjskich rolników i producentów”.",
+        "I chociaż sklepy spożywcze bardzo przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia.",
+        "Dyrektor zarządzający M&S, Alex Freudmann, nazwał transakcję „ważnym krokiem naprzód”, twierdząc, że usunie ona biurokrację. Dyrektor naczelny Tesco, Ken Murphy, dodał, że to „dobra wiadomość dla brytyjskich rolników i producentów”.",
         "Freudmann podkreślił pewne problemy, które szkodzą handlowi między Wielką Brytanią a UE, podając przykład, że „dostarczenie naszego spaghetti bolońskiego z Lincolnshire na półkę w Dublinie wymaga pokonywania setek dodatkowych mil, gór papierkowej roboty, podpisu weterynarza, a nawet łacińskiego imienia krowy”."
       ]
     }
   ],
   "tech": [
     {
-      "id": "tech-1-459e7d",
+      "id": "tech-1-1cca0f",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Claude odkrył matematyczne skarby ukryte przez lata. W notatkach kryły się nieznane twierdzenia",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:57",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/kurt-godel-notatki-matematyka-claude-ai",
+      "image_url": "https://konto.chip.pl/uploads/2026/09/claude-1600x1029.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": true,
+      "summary_points": [
+        "Setki nieznanych dotąd twierdzeń matematycznych zapisanych w prywatnych notatnikach Kurta Gödla, jednego z najwybitniejszych matematyków i logików XX wieku, ujrzały światło dzienne za sprawą aktywności modelu opartego na sztucznej inteligencji.",
+        "Zacznijmy od tego, że wspomniane narzędzie zajęło się analizą 1009 stron rękopisów, które przez dziesięciolecia pozostawały niemal niedostępne dla naukowców ze […] powrót Tech Testy Moto Nauka Publicystyka Claude Chcesz czytać więcej treści jak „ Claude odkrył matematyczne skarby ukryte przez lata.",
+        "W notatkach kryły się nieznane twierdzenia \" ?"
+      ],
+      "extended_paragraphs": [
+        "Setki nieznanych dotąd twierdzeń matematycznych zapisanych w prywatnych notatnikach Kurta Gödla, jednego z najwybitniejszych matematyków i logików XX wieku, ujrzały światło dzienne za sprawą aktywności modelu opartego na sztucznej inteligencji. O co dokładnie chodzi? Zacznijmy od tego, że wspomniane narzędzie zajęło się analizą 1009 stron rękopisów, które przez dziesięciolecia pozostawały niemal niedostępne dla naukowców ze […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Claude Chcesz czytać więcej treści jak „ Claude odkrył matematyczne skarby ukryte przez lata. W notatkach kryły się nieznane twierdzenia \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Zacznijmy od tego, że wspomniane narzędzie zajęło się analizą 1009 stron rękopisów, które przez dziesięciolecia pozostawały niemal niedostępne dla naukowców ze względu na zastosowany przez autora przestarzały system stenograficzny. Efektem pracy jest identyfikacja 663 twierdzeń i pomysłów matematycznych, a także rekonstrukcja niemal kompletnego dowodu ważnego problemu z teorii mnogości.",
+        "Czytaj też: Jedna z największych zagadek matematyki rozwikłana. Pracownik Anthropic pokonał hipotezę Riemanna",
+        "Badaniami kierował Jan von Plato z Uniwersytetu Helsińskiego, który od 2017 roku zajmował się analizą 16 zeszytów Gödla, powstałych na początku lat 40. ubiegłego wieku. Największą przeszkodą okazało się pismo. Austriacki matematyk korzystał z systemu stenograficznego Gabelsbergera, który już w jego czasach był przestarzały. Odczytanie jednej strony mogło zajmować badaczom nawet tydzień, co sprawiało, iż analiza całego zbioru wymagałaby wielu lat pracy.",
+        "Przełom nastąpił we wrześniu, kiedy von Plato zdecydował się wykorzystać model Claude opracowany przez firmę Anthropic. Naukowiec udostępnił mu własne transkrypcje rękopisów, sześć książek poświęconych Gödlowi oraz dodatkową literaturę naukową. W ciągu zaledwie kilku dni sztuczna inteligencja przygotowała liczące około 650 stron opracowanie, łącząc rozproszone idee matematyczne i identyfikując nieznane wcześniej zależności."
+      ]
+    },
+    {
+      "id": "tech-2-c576af",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 100 milionów dolarów, 102,4 miliona dolarów, 93,4 miliona dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "100 milionów dolarów",
+        "102,4 miliona dolarów",
+        "93,4 miliona dolarów"
+      ],
+      "title": "„You Can See Everything” zarobiło na całym świecie ponad 100 milionów dolarów",
+      "original_title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:42",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Nowy dokument o Elizabeth Holmes dopiero zaczyna zdobywać międzynarodową sławę.",
+        "„You Can See Everything” – dokument Nathana Fieldera i Lance’a Oppenheima o założycielce Theranos, Elizabeth Holmes, osiągnął w ten weekend imponujący wynik kasowy, stając się jednym z niewielu filmów dokumentalnych, które zarobiły na całym świecie ponad 100 milionów dolarów.",
+        "Variety podaje, że prawie całość wpływów ze sprzedaży biletów wynoszących 102,4 miliona dolarów pochodziła od widzów w USA, dzięki którym film zarobił dotychczas 93,4 miliona dolarów."
+      ],
+      "extended_paragraphs": [
+        "Nowy dokument o Elizabeth Holmes dopiero zaczyna zdobywać międzynarodową sławę.",
+        "„You Can See Everything” – dokument Nathana Fieldera i Lance’a Oppenheima o założycielce Theranos, Elizabeth Holmes, osiągnął w ten weekend imponujący wynik kasowy, stając się jednym z niewielu filmów dokumentalnych, które zarobiły na całym świecie ponad 100 milionów dolarów.",
+        "Variety podaje, że prawie całość wpływów ze sprzedaży biletów wynoszących 102,4 miliona dolarów pochodziła od widzów w USA, dzięki którym film zarobił dotychczas 93,4 miliona dolarów.",
+        "W ciągu najbliższych kilku miesięcy „You Can See Everything” będzie mieć premierę w wielu innych krajach – począwszy od Meksyku, Brazylii i Argentyny 25 i 26 listopada – więc łączna sprzedaż biletów może być znacznie wyższa.",
+        "I choć dokument był już niezaprzeczalnym sukcesem komercyjnym niezależnego studia A24 (zwłaszcza przy budżecie wynoszącym 7 milionów dolarów), teraz może pobić rekordy ustanowione przez najbardziej dochodowe filmy dokumentalne wszechczasów – „Marsz pingwinów” (127 milionów dolarów na całym świecie) i „Fahrenheit 9/11” (222 miliony dolarów na całym świecie)."
+      ]
+    },
+    {
+      "id": "tech-3-459e7d",
       "entity_tag": "Złoto (XAU/USD)",
       "sector": "Surowce Szlachetne",
       "market_impact": "HIGH",
@@ -1442,7 +1515,7 @@
       "source_url": "https://www.chip.pl/2026/11/pakistan-zloza-naturalne-10-bln-dolarow-wartosc",
       "image_url": "https://konto.chip.pl/uploads/2026/11/pakistan-1600x926.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Pakistan może dysponować zasobami naturalnymi o ogromnej wartości, o czym poinformował wicepremier i minister spraw zagranicznych, Ishaq Dar.",
         "Za sprawą ostatnich wypowiedzi poznaliśmy informacje na temat potencjalnych źródeł tych bogactw oraz perspektyw, jakie roztaczają się przed całym krajem.",
@@ -1457,39 +1530,7 @@
       ]
     },
     {
-      "id": "tech-2-52a9ed",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Mobilność TechCrunch: testy A/B robotów kontra ludzie",
-      "original_title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:06",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Witamy ponownie w TechCrunch Mobility, Twoim centrum przyszłości transportu i, teraz bardziej niż kiedykolwiek, roli, jaką odgrywa w nim sztuczna inteligencja.",
-        "TechCrunch Mobility: testy A/B robotów kontra ludzie Kirsten Korosec 9:06 PST · 22 listopada 2026 Witamy ponownie w TechCrunch Mobility, Twoim centrum przyszłości transportu i, teraz bardziej niż kiedykolwiek, roli, jaką odgrywa w nim sztuczna inteligencja.",
-        "Aby otrzymać to w swojej skrzynce odbiorczej, zarejestruj się tutaj bezpłatnie — po prostu kliknij TechCrunch Mobility!"
-      ],
-      "extended_paragraphs": [
-        "Witamy ponownie w TechCrunch Mobility, Twoim centrum przyszłości transportu i, teraz bardziej niż kiedykolwiek, roli, jaką odgrywa w nim sztuczna inteligencja.",
-        "TechCrunch Mobility: testy A/B robotów kontra ludzie Kirsten Korosec 9:06 PST · 22 listopada 2026 Witamy ponownie w TechCrunch Mobility, Twoim centrum przyszłości transportu i, teraz bardziej niż kiedykolwiek, roli, jaką odgrywa w nim sztuczna inteligencja. Aby otrzymać to w swojej skrzynce odbiorczej, zarejestruj się tutaj bezpłatnie — po prostu kliknij TechCrunch Mobility!",
-        "Waymo wycofuje swoją robotyczną oś z autostrad (ponownie) i uruchomienie robotyki Zoox w aplikacji Uber ilustrują różnicę między postępem a niepowodzeniami w branży pojazdów autonomicznych.",
-        "Są oznaki wzrostu. Na przykład Tesla przekroczyła obecnie Waymo w Teksasie pod względem liczby robotaks zarejestrowanych w tym stanie (Tesla ma 1507, a Waymo 1345). Ale czy to przekłada się na dominację na rynku?",
-        "Lepszym miernikiem, jeśli chcemy określić, kto prowadzi, byłyby mile przejechane komercyjnie bez kierowcy. A jeśli mierzymy efektywność kosztową, kolejnym przydatnym miernikiem będą mile przejechane bez kierowcy na pojazd. Pod tym względem Waymo nadal ma przewagę, jak wynika z dostępnych mi danych. Jednak w obliczu niedawnych niepowodzeń Waymo na autostradach i wysiłków Tesli na rozbudowę floty robotxi o Cybercabs przewaga ta może się zmniejszyć."
-      ]
-    },
-    {
-      "id": "tech-3-edbea2",
+      "id": "tech-5-edbea2",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
@@ -1521,129 +1562,104 @@
       ]
     },
     {
-      "id": "tech-4-1bdff1",
+      "id": "tech-4-a90760",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Główny naukowiec OpenAI ma przemyślenia, jak ograniczyć rozwój sztucznej inteligencji",
+      "original_title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Aby ustalić ograniczenie prędkości w rozwoju sztucznej inteligencji, należy uzgodnić sposób pomiaru prędkości.",
+        "Główny naukowiec OpenAI ma przemyślenia, jak ograniczyć rozwój sztucznej inteligencji Anthony Ha 13:14 PST · 22 listopada 2026 Nowy wpis na blogu głównego naukowca OpenAI Jakuba Pachockiego omawia potencjalne ograniczenia rozwoju sztucznej inteligencji, ze szczególnym uwzględnieniem pomiaru zwanego zakłopotaniem.",
+        "Spowolnienie rozwoju sztucznej inteligencji stało się szczególnie gorącym tematem po tym, jak były badacz OpenAI i Anthropic stwierdził, że firmy „igrają z naszym życiem”, a nawet zgłoszenie Anthropic do oferty publicznej sugerowało, że technologia ta może stwarzać „katastrofalne lub egzystencjalne ryzyko dla społeczeństwa”."
+      ],
+      "extended_paragraphs": [
+        "Aby ustalić ograniczenie prędkości w rozwoju sztucznej inteligencji, należy uzgodnić sposób pomiaru prędkości.",
+        "Główny naukowiec OpenAI ma przemyślenia, jak ograniczyć rozwój sztucznej inteligencji Anthony Ha 13:14 PST · 22 listopada 2026 Nowy wpis na blogu głównego naukowca OpenAI Jakuba Pachockiego omawia potencjalne ograniczenia rozwoju sztucznej inteligencji, ze szczególnym uwzględnieniem pomiaru zwanego zakłopotaniem.",
+        "Spowolnienie rozwoju sztucznej inteligencji stało się szczególnie gorącym tematem po tym, jak były badacz OpenAI i Anthropic stwierdził, że firmy „igrają z naszym życiem”, a nawet zgłoszenie Anthropic do oferty publicznej sugerowało, że technologia ta może stwarzać „katastrofalne lub egzystencjalne ryzyko dla społeczeństwa”.",
+        "Dyrektor generalny Anthropic, Dario Amodei, opublikował następnie plan „przekroczenia granicy”, najwyraźniej zatwierdzony przez dyrektora generalnego OpenAI Sama Altmana i dyrektora generalnego SpaceX Elona Muska. Amodei wezwał między innymi firmy do wyrażenia zgody na „wspólne standardy bezpieczeństwa, a także ograniczenia tempa niekontrolowanego postępu AI”.",
+        "Aby jednak ustalić ograniczenie prędkości w rozwoju sztucznej inteligencji, musisz uzgodnić sposób pomiaru prędkości. Post Pachockiego — opisany przez Altmana jako „najważniejsza rzecz, jaką OpenAI opublikowało od jakiegoś czasu” — sugeruje, że miarą może być zakłopotanie (nie mylić z firmą o tej samej nazwie)."
+      ]
+    },
+    {
+      "id": "tech-6-2ce135",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
-      "market_impact": "MEDIUM",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 16 milionów dolarów, 4,3 miliona) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "16 milionów dolarów",
+        "4,3 miliona"
+      ],
+      "title": "Najlepsze aplikacje do zawierania nowych znajomości już teraz",
+      "original_title": "The best apps to make new friends right now",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Zebraliśmy listę aplikacji do przyjaźni, od platform do odkrywania znajomych, takich jak BFF, po platformy skupiające się na wydarzeniach, takie jak Timeleft.",
+        "Najlepsze aplikacje do zawierania nowych znajomości już teraz Lauren Forristal 13:00 PST · 22 listopada 2026 W ostatnich latach ludzie coraz częściej szukają nowych sposobów nawiązywania kontaktów platonicznych, ponieważ samotność i izolacja społeczna stają się coraz bardziej powszechne.",
+        "W 2023 r. naczelny chirurg Stanów Zjednoczonych posunął się nawet do określenia tej kwestii jako kryzysu zdrowia publicznego."
+      ],
+      "extended_paragraphs": [
+        "Zebraliśmy listę aplikacji do przyjaźni, od platform do odkrywania znajomych, takich jak BFF, po platformy skupiające się na wydarzeniach, takie jak Timeleft.",
+        "Najlepsze aplikacje do zawierania nowych znajomości już teraz Lauren Forristal 13:00 PST · 22 listopada 2026 W ostatnich latach ludzie coraz częściej szukają nowych sposobów nawiązywania kontaktów platonicznych, ponieważ samotność i izolacja społeczna stają się coraz bardziej powszechne.",
+        "W 2023 r. naczelny chirurg Stanów Zjednoczonych posunął się nawet do określenia tej kwestii jako kryzysu zdrowia publicznego. Pracownicy zdalni, którym brakuje codziennych interakcji w biurze, oraz młodsze osoby chcące tworzyć swoje dorosłe kręgi społeczne w oparciu o wspólne zainteresowania i hobby, należą do osób poszukujących znaczących przyjaźni.",
+        "Dzięki aplikacjom randkowym online piętno związane ze znajdowaniem kontaktów w Internecie w dużej mierze zniknęło. To z radością powitało nową falę aplikacji skupiających się na wspieraniu przyjaźni i budowaniu lokalnych społeczności.",
+        "Według szacunków Appfigures kilkanaście lokalnych aplikacji służących do przyjaźni wygenerowało w tym roku łącznie około 16 milionów dolarów wydatków konsumenckich w USA. Niektóre godne uwagi przykłady to Timeleft, Meet5 i BFF Bumble. Ponadto w 2025 r. aplikacje te zebrano do tej pory około 4,3 miliona pobrań."
+      ]
+    },
+    {
+      "id": "tech-7-93f9ee",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Czy telewizor może być za duży? Śledztwo",
-      "original_title": "Can a TV be too large? An investigation",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:00",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Image-from-iOS.jpg?resize=1200,900",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Czy telewizor może być za duży?",
-        "Niedawna aktualizacja tego pisarza do 65-calowego OLED wiązała się z pewnymi nieoczekiwanymi wyzwaniami.",
-        "Dochodzenie Lucas Ropek 7:00 AM PST · 22 listopada 2026 r. Przez ostatnie kilka lat chciałem unowocześnić moją ofertę domowej rozrywki, zastępując skromne wyposażenie mojego wystarczająco długiego, 55-calowego telewizora Smart TV TCL, do modelu bardzo pożądanego przez kinomanów na całym świecie: OLED."
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 53%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "53%"
       ],
-      "extended_paragraphs": [
-        "Czy telewizor może być za duży? Niedawna aktualizacja tego pisarza do 65-calowego OLED wiązała się z pewnymi nieoczekiwanymi wyzwaniami.",
-        "Czy telewizor może być za duży? Dochodzenie Lucas Ropek 7:00 AM PST · 22 listopada 2026 r. Przez ostatnie kilka lat chciałem unowocześnić moją ofertę domowej rozrywki, zastępując skromne wyposażenie mojego wystarczająco długiego, 55-calowego telewizora Smart TV TCL, do modelu bardzo pożądanego przez kinomanów na całym świecie: OLED.",
-        "Organiczne diody elektroluminescencyjne to specyficzna technologia monitorów, która naprawdę zmieniła branżę telewizyjną. W przeciwieństwie do telewizorów LED, które tworzą obraz poprzez świecenie podświetlenia przez panel pikseli, telewizory OLED wykorzystują miliony samoświecących pikseli, co zapewnia znacznie lepszą kontrolę pikseli i może generować znacznie bardziej dopracowany obraz z głęboko żywymi kolorami oraz intensywniejszym światłem i cieniami.",
-        "Są też znacznie droższe, co jest jednym z powodów, dla których od lat wstrzymuję się z inwestycją w jeden. Jednak w tym roku nie mogłam już dłużej czekać. W końcu zdecydowałem się na upgrade, a ponieważ już poprawiałem jakość obrazu, zdecydowałem się również na zwiększenie rozmiaru: kupiłem 65-calowy LG evo C4, który jest jednostką średniej klasy firmy wypuszczoną na rynek w 2024 roku.",
-        "Na początku doświadczenie było niesamowite. Telewizor wspaniale oddawał kolory i cienie, a ponieważ jednym z celów tego zakupu było zaspokojenie mojego nawyku korzystania z mediów fizycznych, zacząłem przeglądać moją kolekcję płyt Blu-ray 4K z szaloną energią prawdziwego fanatyka."
-      ]
-    },
-    {
-      "id": "tech-5-4983c1",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Test CUPRA Formentor Tribe Edition. Matowa elegancja i 204 KM, które okazują się złotym środkiem",
+      "title": "Razer pobił samego siebie. DeathAdder V4 Pro Carbon to mysz piękna i szokująco lekka",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "16:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/cupra-formentor-tribe-edition-test-recenzja",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/cupra-formentor-tribe-edition-7.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Cuprę Formentor trudno dziś nazwać rzadkim widokiem na polskich ulicach.",
-        "I trudno się temu dziwić, bo marka stworzyła w Martorell model o wyjątkowo udanych proporcjach, charakterystycznym wyglądzie i sportowym usposobieniu, który od początku miał sporo argumentów przemawiających na swoją korzyść.",
-        "Tyle że kiedy dobrze znany projekt spotykamy po raz kolejny, coraz trudniej o zaskoczenie."
-      ],
-      "extended_paragraphs": [
-        "Cuprę Formentor trudno dziś nazwać rzadkim widokiem na polskich ulicach. I trudno się temu dziwić, bo marka stworzyła w Martorell model o wyjątkowo udanych proporcjach, charakterystycznym wyglądzie i sportowym usposobieniu, który od początku miał sporo argumentów przemawiających na swoją korzyść. Tyle że kiedy dobrze znany projekt spotykamy po raz kolejny, coraz trudniej o zaskoczenie. Firma […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Tribe Edition jest trochę jak nowa interpretacja zaufanego i wygodnego garnituru. Krój pozostał znajomy — ba, nie zmienił się od studniówki — ale zmieniły się za to materiały, faktury i detale. Czujemy się tak samo, a wyglądamy bardziej high-endowo — dobry deal. Tutaj bowiem matowy lakier Manganese Matt, ciemne wykończenia, charakterystyczne felgi i bardziej wyrazista kabina sprawiają, że Formentor nabiera zupełnie innej osobowości. Jest w nim odrobina ekstrawagancji, ale też pewna dojrzałość, której nie zawsze można było doszukać się w najbardziej krzykliwych konfiguracjach tej marki.",
-        "Co równie istotne, pod maską testowanej odmiany pracuje dwulitrowy silnik benzynowy o mocy 204 KM, współpracujący z automatyczną skrzynią DSG i napędem na cztery koła. Brzmi znajomo, prawda? Tyle że w gamie, w której znajdziemy zarówno znacznie słabsze odmiany, jak i prawdziwie sportowe warianty VZ czy nawet królewskie VZ5, właśnie taka konfiguracja może okazać się… wyjątkowo interesująca.",
-        "Matowe lakiery mają w sobie coś, co potrafi nadać nawet dobrze znanej sylwetce zupełnie nowego charakteru — najlepszym tego dla mnie przykładem w tym roku był Defender OCTA, który w czarnym macie wyglądał zjawiskowo. W przypadku Formentora ten efekt jest również bardzo udany. Karoseria nabiera głębi, przetłoczenia stają się bardziej wyraziste, a całość wygląda zdecydowanie szlachetniej niż w klasycznym lakierze z połyskiem. Jest w tym pewna surowość, która znakomicie współgra ze sportową naturą Cupry — i muszę przyznać, że właśnie w takim wydaniu Formentor podoba mi się najbardziej.",
-        "Manganese Matt jest odcieniem wymykającym się prostemu określeniu zieleni. W zależności od oświetlenia potrafi wyglądać niemal jak ciemna oliwka, momentami zbliżając się do przygaszonej szarości. Pięknie podkreśla ostre przetłoczenia maski, rozbudowane nadkola i charakterystyczną linię boczną Formentora. Samochód wygląda dzięki temu bardziej elegancko, a jednocześnie zachowuje ten lekko prowokacyjny charakter, który od początku jest znakiem rozpoznawczym hiszpańskiej marki."
-      ]
-    },
-    {
-      "id": "tech-6-015490",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Signal ogranicza zrzuty ekranu z telefonów komórkowych, ponieważ stawia czoła „egzystencjalnemu zagrożeniu” inwigilacji AI",
-      "original_title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:37",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Signal ogranicza możliwość wykonywania zrzutów ekranu przez użytkowników zarówno w aplikacjach na Androida, jak i iOS.",
-        "Signal ogłosił w piątek, że ogranicza możliwość wykonywania zrzutów ekranu przez użytkowników w ramach bezpiecznej aplikacji do przesyłania wiadomości – jest to odpowiedź na to, co prezydent Meredith Whittaker określiła jako „egzystencjalne zagrożenie” systemów operacyjnych integrujących agentyczną sztuczną inteligencję.",
-        "Whittaker napisał, że dając agentom AI możliwość „skanowania” informacji na ekranach użytkowników, systemy Windows, Android i macOS/iOS „podważają zdolność Signal do niezależnego gwarantowania prywatności”."
-      ],
-      "extended_paragraphs": [
-        "Signal ogranicza możliwość wykonywania zrzutów ekranu przez użytkowników zarówno w aplikacjach na Androida, jak i iOS.",
-        "Signal ogłosił w piątek, że ogranicza możliwość wykonywania zrzutów ekranu przez użytkowników w ramach bezpiecznej aplikacji do przesyłania wiadomości – jest to odpowiedź na to, co prezydent Meredith Whittaker określiła jako „egzystencjalne zagrożenie” systemów operacyjnych integrujących agentyczną sztuczną inteligencję.",
-        "Whittaker napisał, że dając agentom AI możliwość „skanowania” informacji na ekranach użytkowników, systemy Windows, Android i macOS/iOS „podważają zdolność Signal do niezależnego gwarantowania prywatności”.",
-        "„Teraz, dzięki możliwościom agenta AI, Twoje wrażliwe dane są przechwytywane, przechowywane i udostępniane dowolnej lokalnej bazie danych lub zdalnemu serwerowi, z którego w danym momencie korzysta agent AI na poziomie systemu operacyjnego” – powiedziała. „Po przechwyceniu danych wszystko to pozostaje poza kontrolą Signal i zagraża prywatności wszystkich uczestników rozmowy”.",
-        "Signal już starał się ograniczyć to ryzyko, domyślnie blokując zrzuty ekranu swojej aplikacji dla systemu Windows. Teraz dodaje podobne ograniczenia na Androidzie i iOS."
-      ]
-    },
-    {
-      "id": "tech-7-4fe7c5",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Tani abonament bez lojalki? Ta oferta miażdży konkurencję",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "16:00",
+      "time": "18:00",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/tani-abonament-bez-lojalki-ta-oferta-miazdzy-konkurencje",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/02/virgin_mobile_cover.jpg",
+      "source_url": "https://antyweb.pl/razer-pobil-samego-siebie-deathadder-v4-pro-carbon-to-mysz-piekna-i-szokujaco-lekka",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/DeathAdder-carbon--scaled.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Virgin Mobile przygotowało świetną ofertę z okazji Black Firday.",
-        "200 GB internetu i wszystko bez limitu za 35 zł miesięcznie.",
-        "Virgin Mobile odpala mocną ofertę na Black Week."
+        "Razer DeathAdder V4 Pro Carbon to dowód na to, że nawet sprzęt świetny sprzęt można doszlifować – niestety ulepszenia trzeba słono zapłacić.",
+        "W sierpniu ubiegłego roku testowałem Razer DeathAdder V4 Pro , a tekst zamknąłem sformułowaniem, że jest to myszka dla graczy oczekujących bezkompromisowej jakości.",
+        "Szokująco lekka, zabójczo precyzyjna i bardzo dobrze leżąca w dłoni."
       ],
       "extended_paragraphs": [
-        "Virgin Mobile przygotowało świetną ofertę z okazji Black Firday.",
-        "200 GB internetu i wszystko bez limitu za 35 zł miesięcznie. Virgin Mobile odpala mocną ofertę na Black Week.",
-        "Coraz szersze grono tych \"mniejszych\" operatorów komórkowych stanowi naprawdę potężną przeciwwagę dla dużych sieci znanych w Polsce od lat. Ich największą siłą jest elastyczność, bo w ramach oferowanych pakietów za relatywnie niewielką kasę otrzymujemy często sporo, a przy okazji nie musimy wcale wiązać się z siecią umową na np. 24 miesiące. Tak jest choćby w przypadku sieci Virgin Mobile, która uruchomiła właśnie świetną promocję z okazji Black Week i corocznego, listopadowego święta wyprzedaży. Co powiecie na pakiet za 35 złotych, w ramach którego macie aż 200 gigabajtów internetu i brak limitu na wszystko inne?"
+        "Razer DeathAdder V4 Pro Carbon to dowód na to, że nawet sprzęt świetny sprzęt można doszlifować – niestety ulepszenia trzeba słono zapłacić.",
+        "W sierpniu ubiegłego roku testowałem Razer DeathAdder V4 Pro , a tekst zamknąłem sformułowaniem, że jest to myszka dla graczy oczekujących bezkompromisowej jakości. Szokująco lekka, zabójczo precyzyjna i bardzo dobrze leżąca w dłoni. Choć od tamtego momentu na rynku pojawiło się wiele świetnych gryzoni, to właśnie DeathAdder V4 Pro jest moim pierwszym wyborem w kategorii myszek do grania. Zupełnie nie czułem bowiem, bym mógł potrzebować czy oczekiwać czegoś więcej, i prawdopodobnie ta mysz dalej byłaby moim głównym orężem, gdyby nie to, że Razer zdołał te już i tak świetne podzespoły podrasować. Razer DeathAdder V4 Pro Carbon to na pierwszy rzut oka niby to samo, ale magia jak zwykle tkwi w szczegółach. Karbonowa wersja jest jeszcze lżejsza, jeszcze bardziej precyzyjna i jeszcze dłużej pracuje na baterii.",
+        "W tekście o Razer DeathAdder V4 Pro pisałem o dość bezpiecznym i zachowawczym designie myszki, która kontynuowała wzornictwo poprzednika. Jeśli chodzi o kształt i wymiary, to o Razer DeathAdder V4 Pro Carbon można powiedzieć to samo, jednak pod względem zastosowanych materiałów i generalnego odbioru myszki różnica jest znacząca. Skorupa myszki została bowiem wykonana z tkanego włókna węglowego.",
+        "Razer zastosował splot skośny 2×2, czyli tzw. twill, w którym nitka przechodzi kolejno nad dwiema i pod dwiema nitkami poprzecznymi, tworząc charakterystyczny ukośny wzór. Arkusze materiału najpierw prasowane są na gorąco, a następnie przycinane maszyną CNC pod kontur DeathAddera. Zrezygnowano też z malowania – myszkę pokryto jedynie przezroczystą powłoką utwardzaną promieniami UV, więc splot pozostaje widoczny na całej powierzchni.",
+        "Dzięki tym wszystkim zabiegom udało się nie tylko uzyskać elegancki efekt wizualny, ale też odchudzić już i tak bardzo lekką myszkę – wariant karbonowy waży 49 g, czyli o 7 g mniej niż czarna wersja standardowego DeathAddera V4 Pro."
       ]
     },
     {
@@ -1685,39 +1701,71 @@
   ],
   "swiat": [
     {
-      "id": "swiat-5-a2e041",
-      "entity_tag": "Unia Europejska",
-      "sector": "Gospodarka & Regulacje",
-      "market_impact": "MEDIUM",
+      "id": "swiat-1-72faea",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Gospodarka & Regulacje” (Unia Europejska) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Kluczowe negocjacje bez powodzenia. Chaos na posiedzeniu w Turcji",
+      "title": "Ławrow uderza z narracją o \"obronie\" Ukrainy. Obnażył wojenny cel Rosji",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "14:42",
+      "time": "23:28",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/kluczowe-negocjacje-bez-powodzenia-chaos-na-posiedzeniu-w-turcji/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/v2/v2g9p8sfdxw3rket95vr7jo4pqg1hhba.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/lawrow-uderza-z-narracja-o-obronie-ukrainy-obnazyl-wojenny-cel-rosji/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/rk/rk11yao1qjjvrgbeobhrmn7q12k1idd5.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": true,
       "summary_points": [
-        "Nie osiągnięto porozumienia klimatycznego podczas szczytu COP31.",
-        "Zaproponowanych rozwiązań nie zaakceptowała m.in. Unia Europejska, która argumentowała, że zmiany są zbyt słabe, by walczyć z ociepleniem klimatu.",
-        "Obecni na spotkaniu przedstawiciele Wysp Marshalla, którzy najbardziej odczuwają ekstremalne zmiany pogody, mówili, że zawiodły ich wszystkie strony."
+        "Siergiej Ławrow, szef rosyjskiego MSZ, podważył prawo Ukrainy do posiadania własnego terytorium.",
+        "- Południowy wschód Ukrainy i znaczna część środkowej Ukrainy, w tym Kijów, to bez wątpienia ziemie odwiecznie rosyjskie - przekonywał w jednym z wywiadów.",
+        "Twierdził również, że część Ukraińców wyparła się - jego zdaniem - braterskiego narodu."
       ],
       "extended_paragraphs": [
-        "Nie osiągnięto porozumienia klimatycznego podczas szczytu COP31. Zaproponowanych rozwiązań nie zaakceptowała m.in. Unia Europejska, która argumentowała, że zmiany są zbyt słabe, by walczyć z ociepleniem klimatu. Obecni na spotkaniu przedstawiciele Wysp Marshalla, którzy najbardziej odczuwają ekstremalne zmiany pogody, mówili, że zawiodły ich wszystkie strony.",
-        "W stolicy Turcji odbywają się rozmowy 31. Konferencji Stron Ramowej Konwencji Narodów Zjednoczonych w sprawie zmian klimatu. COP31 to pierwsza edycja wydarzenia od czasu, gdy organ ONZ ds. środowiska potwierdził, że wzrost globalnej temperatury przekroczy poziom 1,5 st.",
-        "Ponad 10 lat temu w Paryżu państwa członkowskie uznały bowiem, że jest to próg którego nie należy przekraczać w obawie przed nasileniem ekstremalnych zjawisk pogodowych.",
-        "Rozmowy klimatyczne nie przyniosły jednak oczekiwanego skutku. Agencja Reuters podaje, że Unia Europejska, wraz z innymi krajami, nie zaakceptowała porozumienia przedstawionego przez przewodniczących COP31 - Turcję i Australię. UE uznała, że wdrożone zmiany są zbyt słabe by walczyć z globalnym ociepleniem.",
-        "- Jest oczywiste, że w tej sali znajdują się strony, które sprzeciwiają się tym poprawkom . Zdajemy sobie sprawę, że nie ma konsensusu w sprawie tego dokumentu. W związku z tym decyzje nie zostały przyjęte - powiedział przewodniczący konferencji, turecki minister środowiska Murat Kurum podczas sesji zamykającej konferencję."
+        "Siergiej Ławrow, szef rosyjskiego MSZ, podważył prawo Ukrainy do posiadania własnego terytorium. - Południowy wschód Ukrainy i znaczna część środkowej Ukrainy, w tym Kijów, to bez wątpienia ziemie odwiecznie rosyjskie - przekonywał w jednym z wywiadów. Twierdził również, że część Ukraińców wyparła się - jego zdaniem - braterskiego narodu. Zapowiedział przy tym walkę z jaskiniową rusofobią.",
+        "Przywódca Rosji Władimir Putin tezę o \"jednym narodzie\" wygłaszał wielokrotnie. W październiku powołał się nawet na rzekome badania genetyczne, które miałyby dowodzić jego słowom, choć ich autorów czy nazwy nie podał. Ukraińskie media z kolei odpowiadały na te wypowiedzi kpiąco i zdecydowanie: Ukraińcy i Rosjanie to dwa oddzielne narody .",
+        "W rosyjskim projekcie \"Nasz chrzest. Prymas\", cytowanym w sobotę przez ukraińskie media, do narracja Putina wrócił Siergiej Ławrow . - Południowy wschód Ukrainy i znaczna część środkowej Ukrainy, w tym Kijów, to bez wątpienia ziemie odwiecznie rosyjskie. Żyje tam naród, który został ochrzczony w tej samej chrzcielnicy co my , z którą wszyscy mamy coś wspólnego - powiedział.",
+        "Ławrow oskarżył ukraińskich prezydentów, począwszy od Leonida Kuczmy, że aby nie obrażać zachodniej Ukrainy i jej mieszkańców, łagodzili problem nacjonalizmu zamiast go rozwiązywać - przez co, jego zdaniem, ostatecznie wybuchł. Sugerował, że Rosjanie rozpętali obecną wojnę, aby \"obronić\" część Ukraińców przed rzekomym reżimem i dalszym \"szkodliwym\" wpływem Zachodu.",
+        "- Uważam, że naszym najważniejszym zwycięstwem - poza realizacją celów \"specjalnej operacji wojskowej\", ale także zadania wynikającego z tego celu - będzie zwycięstwo nad jaskiniową rusofobią , którą próbuje się wszczepić na Ukrainie, a raczej na obszarze, który obecnie nazywa się Ukrainą - podsumował Ławrow."
       ]
     },
     {
-      "id": "swiat-1-4f62f9",
+      "id": "swiat-2-b6ec47",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "COP31 nie osiąga dużego porozumienia klimatycznego, ponieważ rozmowy ujawniają głębokie podziały",
+      "original_title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:17",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Po kłótni o wzmiankę o paliwach kopalnych w rozmowach nie doszło do przełomu w sprawie rozwiązania problemu zmian klimatycznych.",
+        "Źródło zdjęcia, Reuters Mark Poynting, Esme Stallard i Justin Rowlatt BBC Klimat i nauka Opublikowano 4 godziny temu Krajom nie udało się osiągnąć nowego, ważnego porozumienia w sprawie przeciwdziałania zmianom klimatycznym po tym, jak podczas rozmów ONZ COP31 w Turcji pojawiły się głębokie podziały w sprawie paliw kopalnych i pieniędzy.",
+        "Negocjacje miały zakończyć się w piątek, ale w poszukiwaniu wspólnej płaszczyzny trwały do ​​późna w niedzielę, stając się najdłuższą konferencją klimatyczną ONZ w historii."
+      ],
+      "extended_paragraphs": [
+        "Po kłótni o wzmiankę o paliwach kopalnych w rozmowach nie doszło do przełomu w sprawie rozwiązania problemu zmian klimatycznych.",
+        "Źródło zdjęcia, Reuters Mark Poynting, Esme Stallard i Justin Rowlatt BBC Klimat i nauka Opublikowano 4 godziny temu Krajom nie udało się osiągnąć nowego, ważnego porozumienia w sprawie przeciwdziałania zmianom klimatycznym po tym, jak podczas rozmów ONZ COP31 w Turcji pojawiły się głębokie podziały w sprawie paliw kopalnych i pieniędzy.",
+        "Negocjacje miały zakończyć się w piątek, ale w poszukiwaniu wspólnej płaszczyzny trwały do ​​późna w niedzielę, stając się najdłuższą konferencją klimatyczną ONZ w historii.",
+        "Ostateczne porozumienie okazało się jednak nie do przyjęcia dla UE, wyspiarskich krajów Pacyfiku i innych krajów, ponieważ nie wspomniało w nim bezpośrednio o paliwach kopalnych, głównej przyczynie globalnego ocieplenia.",
+        "Tymczasem wiele biedniejszych krajów sprzeciwiło się brakowi jakichkolwiek wyraźnych zobowiązań finansowych ze strony bogatszych krajów, które pomogłyby im przystosować się do skutków rosnących temperatur."
+      ]
+    },
+    {
+      "id": "swiat-3-069ebf",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1725,31 +1773,94 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Ponad tysiąc ubogich na obiedzie z papieżem. \"Stół wyszedł poza watykańskie mury\"",
+      "title": "Cios za ciosem w rosyjską marynarkę. Sieć obiegły nagrania",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:43",
+      "time": "22:30",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/ponad-tysiac-ubogich-na-obiedzie-z-papiezem-stol-wyszedl-poza-watykanskie-mury/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/kn/knu615xtdv1owcu8aszbhmhmu5spcvo4.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/cios-za-ciosem-w-rosyjska-marynarke-siec-obiegly-nagrania/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/yg/ygjzcvupe8bw52tku1nz2no7emv64zvd.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Papież Leon XIV spotkał się z 1300 ubogimi na obiedzie w Watykanie.",
-        "Tradycję wspólnego posiłku z osobami w potrzebie ustanowił lata temu papież Franciszek.",
-        "Tym razem, jak podają watykańskie media, papieski stół wyszedł też poza watykańskie mury."
+        "Kolejne dwa rosyjskie statki zostały zaatakowane u wybrzeży Libii - podaje The Jerusalem Post.",
+        "Tym razem chodzi o jednostki towarowe.",
+        "Wcześniej natomiast libijskie źródła informowały, że doszło do eksplozji na rosyjskim okręcie wojennym zacumowanym w porcie w Bengazi."
       ],
       "extended_paragraphs": [
-        "Papież Leon XIV spotkał się z 1300 ubogimi na obiedzie w Watykanie. Tradycję wspólnego posiłku z osobami w potrzebie ustanowił lata temu papież Franciszek. Tym razem, jak podają watykańskie media, papieski stół wyszedł też poza watykańskie mury. Poza możliwością skosztowania nie tylko włoskich specjałów - podano m.in. gulasz i cannelloni, uczestnicy otrzymali również upominki.",
-        "Obiad papieża i około 1300 ubogich odbył się w Auli Pawła VI w Watykanie. Tradycyjny posiłek zorganizował abp Luis Marin de San Martin, prefekt Dykasterii ds. Posługi Miłosierdzia.",
-        "- Dziś wszyscy jesteśmy rodziną - podkreślił Leon XIV , dziękując za pomoc w obsłudze wydarzenia. Następnie papież modlił się, aby nikomu nie zabrakło \"tego, co konieczne do życia\".",
-        "- Panie, pomóż nam być świadkami twojej miłości. Daj każdej rodzinie radość jedności w pokoju. Upewnij się, że nikomu nie brakuje tego, co niezbędne do życia. Dziękujemy ci, panie, za ten braterski stół i za wszystkich, którzy pomogli przygotować tę ucztę - mówił papież.",
-        "Bezpośrednio przy papieskim stole zasiadło 18 ubogich - relacjonuje Vatican News. Jak podaje, podczas obiadu zaserwowano cannelloni , gulasz z groszkiem i deser niespodziankę . Obsługa składa się z wolontariuszy Włoskiego Czerwonego Krzyża."
+        "Kolejne dwa rosyjskie statki zostały zaatakowane u wybrzeży Libii - podaje The Jerusalem Post. Tym razem chodzi o jednostki towarowe. Wcześniej natomiast libijskie źródła informowały, że doszło do eksplozji na rosyjskim okręcie wojennym zacumowanym w porcie w Bengazi. Niedzielne incydenty nastąpiły po tym, jak w sobotę rosyjski okręt został zaatakowany i unieruchomiony na Bałtyku.",
+        "Informacje o dwóch rosyjskich statkach towarowych , trafionych u wybrzeży Libii, \"The Jerusalem Post\" potwierdziło we własnych źródłach. Doniesień nie skomentowały dotąd ani władze ukraińskie, ani Służba Bezpieczeństwa Ukrainy, której gazeta przypisuje odpowiedzialność za ten atak.",
+        "\"W pobliżu Bengazi w Libii inny statek, prawdopodobnie powiązany z rosyjską flotą cieni , został zaatakowany przez bezzałogowe łodzie\" - podał również ukraiński kanał Exilenova na Telegramie. Według jego ustaleń chodzi m.in. o statek ASCALON , który pod koniec października miał wypłynąć z portu w Bałtyjsku w obwodzie królewieckim i transportować broń.",
+        "Exilenova, a za nią także agencja NEXTA, opublikowały nagranie, które ma rzekomo przedstawiać drona morskiego poruszającego się w pobliżu miejsca opisywanego ataku.",
+        "🚨 BREAKING: Another ship is on fire off the coast of Benghazi! Associated Press, citing Libyan military officials, reports that another Russian vessel may have been attacked by unmanned surface drones. The drones were most likely launched from a base in western Libya reportedly used by Ukrainian forces. The extent of the damage and the consequences remain unclear. The vessel's name is also unknown, but it is believed to be linked to Russia's shadow fleet."
       ]
     },
     {
-      "id": "swiat-2-3c0518",
+      "id": "swiat-4-7d8691",
+      "entity_tag": "Unia Europejska",
+      "sector": "Gospodarka & Regulacje",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Gospodarka & Regulacje” (Unia Europejska) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Co dalej po braku porozumienia podczas rozmów klimatycznych COP31?",
+      "original_title": "What's next after no deal at COP31 climate talks?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:57",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Rozmowy te są najdłuższe w historii szczytu, a negocjacje zostały zerwane dwa dni po ich zakończeniu.",
+        "Co dalej po braku porozumienia podczas rozmów klimatycznych COP31?",
+        "Zamknij Szczyt klimatyczny COP31 w Turcji oficjalnie dobiegł końca po tym, jak krajom nie udało się osiągnąć konsensusu w sprawie nowego porozumienia."
+      ],
+      "extended_paragraphs": [
+        "Rozmowy te są najdłuższe w historii szczytu, a negocjacje zostały zerwane dwa dni po ich zakończeniu.",
+        "Co dalej po braku porozumienia podczas rozmów klimatycznych COP31? Zamknij Szczyt klimatyczny COP31 w Turcji oficjalnie dobiegł końca po tym, jak krajom nie udało się osiągnąć konsensusu w sprawie nowego porozumienia.",
+        "Unia Europejska i niektóre inne kraje odrzuciły czwarty projekt porozumienia, ponieważ nie wspomniał w nim o konieczności stopniowego wycofywania paliw kopalnych, największej siły napędowej globalnej zmiany klimatu.",
+        "Przedstawiciel UE oskarża niektóre państwa naftowe o przejmowanie rozmów, podczas gdy Rosja sprzeciwia się włączeniu takiego zobowiązania i w swoim przemówieniu bezpośrednio krytykuje UE."
+      ]
+    },
+    {
+      "id": "swiat-5-5a9fdd",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Decyzja podjęta nagle. Transport koleją czołgów Bundeswehry na Litwę przez Polskę",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:22",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/decyzja-podjeta-nagle-transport-koleja-czolgow-bundeswehry-na-litwe-przez-polske/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/9h/9hwi1pcbsqs824z4rrs126t7m44kd7ih.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Bundeswehra do przerzutu czołgów na Litwę wykorzysta transport kolejowy.",
+        "Wcześniej sprzęt bojowy miał jechać przez Polskę drogami.",
+        "Decyzja została podjęta nagle, a powodem jest obawa władz Niemiec przed prowokowaniem Rosji – podały w niedzielę niemieckie media."
+      ],
+      "extended_paragraphs": [
+        "Bundeswehra do przerzutu czołgów na Litwę wykorzysta transport kolejowy. Wcześniej sprzęt bojowy miał jechać przez Polskę drogami. Decyzja została podjęta nagle, a powodem jest obawa władz Niemiec przed prowokowaniem Rosji – podały w niedzielę niemieckie media.",
+        "\" Bundeswehra zmieniła plany : czołgi i pojazdy zostały przetransportowane koleją zamiast transportem drogowym\" – przekazał tygodnik \"Der Spiegel\". Widocznie chciano zapobiec sytuacji, że poruszający się po polskich drogach konwój jest dla wszystkich widoczny – wyjaśnia redakcja.",
+        "\"Decyzja została podjęta nagle\" – napisał \"Spiegel\", który informuje, że chodzi o oddziały biorące udział w manewrach \"Grand Eagle 26\" na Litwie.",
+        "Wyznaczone do ćwiczeń jednostki 10. Dywizji Pancernej miały początkowo jako konwój przemieszczać się przez Polskę drogami . Po zmianie decyzji ciężki sprzęt dywizji został przerzucony na Litwę transportem kolejowym.",
+        "Jak napisał \"Bild am Sonntag\", powodem zmiany decyzji była obawa przed \"niepotrzebnym prowokowaniem\" Rosji widokiem kolumny niemieckich czołgów zmierzających w kierunku wschodniej flanki NATO. Decyzja została skonsultowana z Sojuszem."
+      ]
+    },
+    {
+      "id": "swiat-6-3c0518",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1761,27 +1872,27 @@
       "original_title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "is_foreign": true,
       "lang": "EN",
-      "time": "17:16",
+      "time": "20:28",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
         "Wschodni rząd Libii twierdzi, że statek w drodze powrotnej do Rosji zatrzymał się w celu zdobycia paliwa i zapasów.",
-        "Źródło zdjęcia, Planet Labs PBC Tytuł zdjęcia, Zdjęcia satelitarne pokazały statek płonący w porcie w niedzielę wcześnie rano Eksplozja na rosyjskim statku zacumowanym w porcie bazy marynarki wojennej w Benghazi była spowodowana podejrzeniem ataku dronem – podał wschodni rząd Libii.",
+        "Eksplozja na rosyjskim statku zacumowanym w bazie marynarki wojennej w Bengazi była spowodowana podejrzeniem ataku dronem – podał wschodni rząd Libii.",
         "Do eksplozji doszło w niedzielę o świcie, kiedy statek zatrzymał się w drodze powrotnej do Rosji w celu uzupełnienia paliwa i zapasów – podały libijskie media państwowe, powołując się na wschodni rząd."
       ],
       "extended_paragraphs": [
         "Wschodni rząd Libii twierdzi, że statek w drodze powrotnej do Rosji zatrzymał się w celu zdobycia paliwa i zapasów.",
-        "Źródło zdjęcia, Planet Labs PBC Tytuł zdjęcia, Zdjęcia satelitarne pokazały statek płonący w porcie w niedzielę wcześnie rano",
-        "Eksplozja na rosyjskim statku zacumowanym w porcie bazy marynarki wojennej w Benghazi była spowodowana podejrzeniem ataku dronem – podał wschodni rząd Libii.",
+        "Eksplozja na rosyjskim statku zacumowanym w bazie marynarki wojennej w Bengazi była spowodowana podejrzeniem ataku dronem – podał wschodni rząd Libii.",
         "Do eksplozji doszło w niedzielę o świcie, kiedy statek zatrzymał się w drodze powrotnej do Rosji w celu uzupełnienia paliwa i zapasów – podały libijskie media państwowe, powołując się na wschodni rząd.",
-        "Dodała, że ​​miejsce zdarzenia zostało zabezpieczone i nie było ofiar śmiertelnych. Moskwa na razie nie skomentowała tej sprawy."
+        "W niedzielę ministerstwo zdrowia poinformowało, że otrzymało rannych z innego statku, statku handlowego, który również był celem u wybrzeży Bengazi – podały media państwowe. Jak podało ministerstwo, ich obrażenia były lekkie, a ich stan stabilny.",
+        "Filmy opublikowane w mediach społecznościowych i geolokalizowane przez BBC Verify pokazują, że statek, który został uderzony rano, pochłonął płomienie i dym. Zdjęcia satelitarne z Planet Labs PBC pokazują również płonącą łódź o godzinie 05:47 GMT w porcie w Benghazi."
       ]
     },
     {
-      "id": "swiat-3-d76b70",
+      "id": "swiat-7-b710a1",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1789,381 +1900,282 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Rosyjska korweta stanęła w płomieniach. Wybuch u wybrzeży Libii",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "16:34",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/rosyjska-korweta-stanela-w-plomieniach-wybuch-u-wybrzezy-libii/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/qu/quxakc3yyy5cytg6fzkvt7xttnszzoc3.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Rosyjska korweta rakietowa zapłonęła u wybrzeży Libii - podaje Naval News.",
-        "Agencja Reutera donosi, że na pokładzie doszło do eksplozji, prawdopodobnie z powodu ataku dronem.",
-        "Wiadomo o rannych, choć ich dokładna liczba nie jest znana."
-      ],
-      "extended_paragraphs": [
-        "Rosyjska korweta rakietowa zapłonęła u wybrzeży Libii - podaje Naval News. Agencja Reutera donosi, że na pokładzie doszło do eksplozji, prawdopodobnie z powodu ataku dronem. Wiadomo o rannych, choć ich dokładna liczba nie jest znana. Okręt wojenny miał konwojować inne rosyjskie statki i wracać już do Rosji.",
-        "Według ustaleń Naval News w porcie Bengazi w Libii \"niemal na pewno zniszczony\" został rosyjski okręt wojenny. Prawdopodobnie chodzi o korwetę Merkury, która od kilku dni przebywała w tym porcie. Jak informowała agencja Reutera, powołując się na libijski rząd, jednostka zawinęła do Bengazi, aby uzupełnić paliwo i zapasy podczas rejsu powrotnego do Rosji .",
-        "Okręt należy do Floty Czarnomorskiej , lecz w ostatnim czasie działał z baz Floty Północnej w Arktyce z powodu wojny na Morzu Czarnym. Odpowiadał za eskortę innych statków wykorzystywanych do transportu broni.",
-        "Rząd Libii potwierdził eksplozję, jednak nie podał jej przyczyny - donosi agencja Reutera. Podejrzewa się, że jednostka została zaatakowana przy użyciu drona .",
-        "Nie wiadomo, czy w wyniku pożaru doszło do zatonięcia okrętu . Media donoszą o rannych, choć i w tym przypadku nie podają ich liczby. Początkowo po stronie libańskiej pojawiły się sprzeczne informacje o zdarzeniu w porcie - wstępnie informowano o wybuchu amunicji w tamtejszej bazie morskiej. Dopiero w późniejszym oświadczeniu dla libańskich mediów rząd podał informacje o pożarze statku."
-      ]
-    },
-    {
-      "id": "swiat-4-46fe72",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Minister edukacji Korei Południowej podał się do dymisji w związku ze skandalem dotyczącym ściągania egzaminów",
-      "original_title": "South Korea education minister resigns over exam cheating scandal",
+      "title": "„Zagrożenie wydaje się cały czas większe”: Ukraińcy szukają zaginionych po rosyjskich atakach",
+      "original_title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "is_foreign": true,
       "lang": "EN",
-      "time": "09:20",
+      "time": "22:37",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Choi Kyo-jin przyznaje, że podjęte w ostatniej chwili kroki mające na celu powstrzymanie oszustw wspomaganych sztuczną inteligencją podczas egzaminów wstępnych na studia spowodowały chaos.",
-        "Minister edukacji Korei Południowej Choi Kyo-jin złożył rezygnację ze stanowiska w związku ze skandalem związanym ze ściąganiem egzaminów, który wstrząsnął narodem.",
-        "Powiedział, że wziął na siebie pełną odpowiedzialność za zamieszanie spowodowane podjętymi w ostatniej chwili działaniami mającymi na celu powstrzymanie oszustw wspomaganych przez sztuczną inteligencję podczas czwartkowych corocznych egzaminów wstępnych na studia, znanych jako Suneung."
+        "Sarah Rainsford z BBC relacjonuje miejsce zawalenia się budynku mieszkalnego w obwodzie kijowskim na Ukrainie.",
+        "„Niebezpieczeństwo wydaje się cały czas większe”: Ukraińcy szukają zaginionych po rosyjskich strajkach Zamknij Kilka ciał odnaleziono na terenie budynku mieszkalnego, który został uderzony w wyniku rosyjskiego strajku w obwodzie kijowskim, poinformowały Państwowe Służby Ratunkowe Ukrainy.",
+        "W niedzielnym ranku w ataku we wsi Dymer zginęło sześć osób – powiedział szef obwodu kijowskiego Tymur Tkaczenko."
       ],
       "extended_paragraphs": [
-        "Choi Kyo-jin przyznaje, że podjęte w ostatniej chwili kroki mające na celu powstrzymanie oszustw wspomaganych sztuczną inteligencją podczas egzaminów wstępnych na studia spowodowały chaos.",
-        "Minister edukacji Korei Południowej Choi Kyo-jin złożył rezygnację ze stanowiska w związku ze skandalem związanym ze ściąganiem egzaminów, który wstrząsnął narodem.",
-        "Powiedział, że wziął na siebie pełną odpowiedzialność za zamieszanie spowodowane podjętymi w ostatniej chwili działaniami mającymi na celu powstrzymanie oszustw wspomaganych przez sztuczną inteligencję podczas czwartkowych corocznych egzaminów wstępnych na studia, znanych jako Suneung.",
-        "Tydzień temu królowa krajowego egzaminu z zakresu księgowości podatkowej przyznała się, że korzysta z miniaparatu, telefonu komórkowego i narzędzi AI. To skłoniło urzędników do pilnych działań w celu wykrycia ukrytych urządzeń, w tym do wysłania alertów alarmowych na każdy telefon komórkowy w kraju.",
-        "Ukończenie Suneung zajmuje do dziewięciu godzin i odgrywa dużą rolę w ścieżkach kariery milionów Koreańczyków z południa."
-      ]
-    },
-    {
-      "id": "swiat-6-4d9095",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Statek płynący do Rosji odholowano po ataku w Zatoce Fińskiej",
-      "original_title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:18",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Fińskie siły obronne twierdzą, że za sobotnim atakiem dronów prawdopodobnie stała Ukraina.",
-        "Kijów nie skomentował jeszcze tej sytuacji.",
-        "Źródło zdjęcia, fińska straż graniczna / Reuters Podpis pod zdjęciem Według Finlandii w niedzielę prace na statku Sparta II będą kontynuowane Władze podały, że rosyjski statek towarowy, który został trafiony atakiem dronów we wschodniej części Zatoki Fińskiej, został odholowany."
-      ],
-      "extended_paragraphs": [
-        "Fińskie siły obronne twierdzą, że za sobotnim atakiem dronów prawdopodobnie stała Ukraina. Kijów nie skomentował jeszcze tej sytuacji.",
-        "Źródło zdjęcia, fińska straż graniczna / Reuters Podpis pod zdjęciem Według Finlandii w niedzielę prace na statku Sparta II będą kontynuowane",
-        "Władze podały, że rosyjski statek towarowy, który został trafiony atakiem dronów we wschodniej części Zatoki Fińskiej, został odholowany.",
-        "Sparta II leciała do bałtyckiej eksklawy Kaliningradu, kiedy w sobotę rano została uderzona, co wywołało pożar na pokładzie.",
-        "Następnie dryfował na wody fińskie, a jego załoga została ewakuowana do Rosji. Fińskie siły obronne stwierdziły, że za atakiem prawdopodobnie stoi Ukraina. Kijów nie skomentował jeszcze tej sytuacji."
-      ]
-    },
-    {
-      "id": "swiat-7-8f5a29",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Meksykański baron narkotykowy z listy 10 najbardziej poszukiwanych osób FBI aresztowany w wyniku strzelaniny",
-      "original_title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "01:25",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Fausto Isidro „Chapo Idisro” Meza Flores, oskarżony o handel narkotykami i tortury, zostaje zatrzymany po strzelaninie z władzami.",
-        "Podpis pod rysunkiem, zegarek: Podejrzany baron narkotykowy „El Chapo Isidro” przeniesiony do stolicy Meksyku Meksykański baron narkotykowy, który znajdował się na liście 10 najbardziej poszukiwanych osób przez FBI, został aresztowany po strzelaninie z władzami meksykańskimi.",
-        "Fausto Isidro „Chapo Isidro” Meza Flores i siedem innych osób zostało zatrzymanych w piątek przez meksykańskie siły specjalne w Guasave w stanie Sinaloa, poinformował sekretariat obrony Meksyku."
-      ],
-      "extended_paragraphs": [
-        "Fausto Isidro „Chapo Idisro” Meza Flores, oskarżony o handel narkotykami i tortury, zostaje zatrzymany po strzelaninie z władzami.",
-        "Podpis pod rysunkiem, zegarek: Podejrzany baron narkotykowy „El Chapo Isidro” przeniesiony do stolicy Meksyku",
-        "Meksykański baron narkotykowy, który znajdował się na liście 10 najbardziej poszukiwanych osób przez FBI, został aresztowany po strzelaninie z władzami meksykańskimi.",
-        "Fausto Isidro „Chapo Isidro” Meza Flores i siedem innych osób zostało zatrzymanych w piątek przez meksykańskie siły specjalne w Guasave w stanie Sinaloa, poinformował sekretariat obrony Meksyku.",
-        "Sekretariat dodał, że w operacji zginęło siedmiu podejrzanych, a także czterech członków armii meksykańskiej, którzy podróżowali, aby wzmocnić bezpieczeństwo w Guasave."
+        "Sarah Rainsford z BBC relacjonuje miejsce zawalenia się budynku mieszkalnego w obwodzie kijowskim na Ukrainie.",
+        "„Niebezpieczeństwo wydaje się cały czas większe”: Ukraińcy szukają zaginionych po rosyjskich strajkach Zamknij Kilka ciał odnaleziono na terenie budynku mieszkalnego, który został uderzony w wyniku rosyjskiego strajku w obwodzie kijowskim, poinformowały Państwowe Służby Ratunkowe Ukrainy.",
+        "W niedzielnym ranku w ataku we wsi Dymer zginęło sześć osób – powiedział szef obwodu kijowskiego Tymur Tkaczenko. Sześć osób zostało rannych, a inne nadal są zaginione.",
+        "Służba dodała, że ​​ciągłe ostrzeżenia o dalszych zagrożeniach ze strony dronów w pobliżu miejsca zdarzenia utrudniają wysiłki, ale niektóre osoby udało się ewakuować wcześniej tego samego dnia.",
+        "„Przeżywamy koszmar... tylko Bóg wie, kiedy to się skończy” – powiedziała jedna z kobiet Sarah Rainsford z BBC, reporterka z obwodu kijowskiego na Ukrainie."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-3-bca00b",
-      "entity_tag": "Sport & Biznes",
+      "id": "sport-3-2d7b5b",
+      "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Polski talent daleko za liderem! Tomasiak ze słabym wynikiem na inaugurację",
+      "title": "Carlos Alcaraz nie posiada się z radości. \"Trudno ubrać to w słowa\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:37",
+      "time": "22:11",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1284837/polski-talent-na-koncu-stawki-tomasiak-z-fatalnym-wynikiem-na-inauguracje",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0322c9203831_36368731.jpg",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1285655/carlos-alcaraz-nie-posiada-sie-z-radosci-trudno-ubrac-to-w-slowa",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0367f1439900_13932317.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Nowa klasyfikacja Pucharu Świata miała urozmaicić rywalizację młodych skoczków, ale inauguracja przyniosła jednostronny obraz zmagań.",
-        "Kacper Tomasiak po dwóch konkursach zajmuje ostatnie miejsce z zaledwie czterema punktami.",
-        "Skomentuj Nowa klasyfikacja Pucharu Świata miała urozmaicić rywalizację młodych skoczków, ale inauguracja przyniosła jednostronny obraz zmagań."
+        "Carlos Alcaraz pokonał Alexandra Zvereva i pierwszy raz w karierze wygrał ATP Finals.",
+        "Po meczu Hiszpan nie posiadał się z radości.",
+        "- Trudno obrać to w słowa."
       ],
       "extended_paragraphs": [
-        "Nowa klasyfikacja Pucharu Świata miała urozmaicić rywalizację młodych skoczków, ale inauguracja przyniosła jednostronny obraz zmagań. Kacper Tomasiak po dwóch konkursach zajmuje ostatnie miejsce z zaledwie czterema punktami.",
-        "Skomentuj Nowa klasyfikacja Pucharu Świata miała urozmaicić rywalizację młodych skoczków, ale inauguracja przyniosła jednostronny obraz zmagań. Kacper Tomasiak po dwóch konkursach zajmuje ostatnie miejsce z zaledwie czterema punktami.",
-        "Klasyfikacja dla zawodników do lat 23 to nowość w Pucharze Świata w skokach narciarskich , która ma urozmaicić rywalizację i zmobilizować młodszych skoczków. Jednak już pierwszy weekend w Lillehammer pokazał, że czeka nas jednostronna batalia, a różnica poziomu jest potężna.",
-        "Lider - Stephan Embacher zgromadził 145 punktów, a drugi Isak Andreas Langmo 89. Wirtualne podium w tej chwili uzupełnia Kazach Danił Wasiljew z dorobkiem... 14 oczek.",
-        "ZOBACZ WIDEO: Maciej Maciusiak dla WP SportoweFakty: Hejt? Biorę na klatę. Gorzej nasze dzieci"
-      ]
-    },
-    {
-      "id": "sport-6-4f8c8a",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [],
-      "title": "Anglia nie da się ponieść zwycięstwu nad All Blacks",
-      "original_title": "England will not get carried away by beating All Blacks",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:45",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gdpm1q5no?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "W swoim najnowszym felietonie w BBC Sport zwycięzca Pucharu Świata Anglii Matt Dawson wspomina rekordowe zwycięstwo drużyny Steve'a Borthwicka nad Nową Zelandią i zapowiada ostatnią rundę spotkań w Mistrzostwach Narodów.",
-        "Opublikowano 5 godzin temu W swoim najnowszym felietonie w BBC Sport zwycięzca Pucharu Świata Anglii Matt Dawson wspomina rekordowe zwycięstwo drużyny Steve'a Borthwicka nad Nową Zelandią i zapowiada ostatnią rundę spotkań w Mistrzostwach Narodów.",
-        "Gdyby Anglia dwa lata temu zapewniła sobie taki występ w meczu przeciwko Nowej Zelandii, odbyłaby się okrążenie honorowe i szalone świętowanie."
-      ],
-      "extended_paragraphs": [
-        "W swoim najnowszym felietonie w BBC Sport zwycięzca Pucharu Świata Anglii Matt Dawson wspomina rekordowe zwycięstwo drużyny Steve'a Borthwicka nad Nową Zelandią i zapowiada ostatnią rundę spotkań w Mistrzostwach Narodów.",
-        "Opublikowano 5 godzin temu W swoim najnowszym felietonie w BBC Sport zwycięzca Pucharu Świata Anglii Matt Dawson wspomina rekordowe zwycięstwo drużyny Steve'a Borthwicka nad Nową Zelandią i zapowiada ostatnią rundę spotkań w Mistrzostwach Narodów.",
-        "Gdyby Anglia dwa lata temu zapewniła sobie taki występ w meczu przeciwko Nowej Zelandii, odbyłaby się okrążenie honorowe i szalone świętowanie.",
-        "Było to rekordowe zwycięstwo drużyny z półkuli północnej nad All Blacks, ale w pełnym wymiarze czasu gry prawie byś o tym nie wiedział.",
-        "Nawet pomeczowe wiadomości od ich liderów – Maro Itoje, Ellisa Genge i Steve’a Borthwicka – mówiły, że ten występ zawsze w nich był i nikt nie był zaskoczony."
-      ]
-    },
-    {
-      "id": "sport-8-719e15",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [],
-      "title": "Czy pokonana Walia nadal pokazała, że ​​przebyła długą drogę?",
-      "original_title": "Did beaten Wales still show they have come a long way?",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:07",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a1a3/live/f4c9b4c0-e683-11f1-a8fd-13fffcb9ff5a.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Walia wierzy, że jest na dobrej drodze, mimo że nie udało jej się powtórzyć zwycięstwa nad Nową Zelandią, gdy została pokonana przez Australię w Mistrzostwach Narodów.",
-        "Źródło zdjęcia, Agencja zdjęciowa Huw Evans Tytuł zdjęcia Walia wygrała cztery z ostatnich siedmiu testów Dla doświadczonego prostytutki Ryana Eliasa dowodem na postęp Walii był moment, gdy rozejrzał się po zgromadzeniu po meczu i zobaczył przewrócone głowy po niewielkiej porażce z Australią.",
-        "Zespół Steve'a Tandy'ego nie zdołał utrzymać historycznego zwycięstwa nad Nową Zelandią, gdy przegrał z Wallabies 29:26 w Mistrzostwach Narodów."
-      ],
-      "extended_paragraphs": [
-        "Walia wierzy, że jest na dobrej drodze, mimo że nie udało jej się powtórzyć zwycięstwa nad Nową Zelandią, gdy została pokonana przez Australię w Mistrzostwach Narodów.",
-        "Źródło zdjęcia, Agencja zdjęciowa Huw Evans Tytuł zdjęcia Walia wygrała cztery z ostatnich siedmiu testów",
-        "Dla doświadczonego prostytutki Ryana Eliasa dowodem na postęp Walii był moment, gdy rozejrzał się po zgromadzeniu po meczu i zobaczył przewrócone głowy po niewielkiej porażce z Australią.",
-        "Zespół Steve'a Tandy'ego nie zdołał utrzymać historycznego zwycięstwa nad Nową Zelandią, gdy przegrał z Wallabies 29:26 w Mistrzostwach Narodów.",
-        "Walii nie udało się zdobyć kolejnego skalpu w meczu z Australijczykami, którzy są dwa miejsca nad nimi i zajmują siódme miejsce w rankingach World Rugby, ale byli blisko."
-      ]
-    },
-    {
-      "id": "sport-1-e0616c",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
-      "key_metrics": [],
-      "title": "Tomasiak jasno. Tego brakowało na starcie sezonu",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:50",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1285617/tomasiak-jasno-tego-brakowalo-na-starcie-sezonu",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b032a5dc77ed9_17711176.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Polacy zawiedli w pierwszych konkursach PŚ w skokach narciarskich.",
-        "Jako jedyny punkty zdobył Tomasiak, ale ten też nie zachwycał.",
-        "- Mamy wsparcie Horngachera."
-      ],
-      "extended_paragraphs": [
-        "Polacy zawiedli w pierwszych konkursach PŚ w skokach narciarskich. Jako jedyny punkty zdobył Tomasiak, ale ten też nie zachwycał. Jak to naprawić? - Mamy wsparcie Horngachera. On działa w tej chwili właściwie jak dodatkowy trener - mówi.",
-        "Skomentuj Polacy zawiedli w pierwszych konkursach PŚ w skokach narciarskich. Jako jedyny punkty zdobył Tomasiak, ale ten też nie zachwycał. Jak to naprawić? - Mamy wsparcie Horngachera. On działa w tej chwili właściwie jak dodatkowy trener - mówi.",
-        "Reprezentacja Polski w skokach narciarskich zaliczyła bardzo złe wejście w sezon. Jedynym, który zdobył punkty Pucharu Świata podczas inauguracyjnego weekendu w Lillehammer, jest Kacper Tomasiak .",
-        "Jednak i trzykrotny medalista olimpijski nie miał łatwego początku sezonu. W sobotę został praktycznie \"zdmuchnięty\" przez wiatr i nie awansował do drugiej serii. W niedzielę jego skoki były gorsze niż to, co prezentował chociażby w piątkowych w kwalifikacjach. Polak zajął 27. miejsce.",
+        "Carlos Alcaraz pokonał Alexandra Zvereva i pierwszy raz w karierze wygrał ATP Finals. Po meczu Hiszpan nie posiadał się z radości. - Trudno obrać to w słowa. Towarzyszą mi wspaniałe uczucia. Jestem dumny, że to osiągnąłem - mówił.",
+        "Skomentuj Carlos Alcaraz pokonał Alexandra Zvereva i pierwszy raz w karierze wygrał ATP Finals. Po meczu Hiszpan nie posiadał się z radości. - Trudno obrać to w słowa. Towarzyszą mi wspaniałe uczucia. Jestem dumny, że to osiągnąłem - mówił.",
+        "Carlos Alcaraz zdobył upragniony tytuł w ATP Finals. W niedzielę Hiszpan pokonał 6:2, 7:6(7) Alexandra Zvereva i pierwszy raz w karierze triumfował w turnieju kończącym sezon.",
+        "- Od dawna chciałem wygrać ten turniej. Gdy w końcu tego dokonałem, mnie i członków mojego zespołu ogarnęły ogromne emocje. Moja mama, która jest bardzo emocjonalna, rozpłakała się - mówił podczas konferencji prasowej, cytowany przez atptour.com.",
         "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
       ]
     },
     {
-      "id": "sport-5-4b1896",
-      "entity_tag": "Sport & Biznes",
+      "id": "sport-1-922e93",
+      "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
-      "key_metrics": [],
-      "title": "Dramat Polaków na starcie sezonu! Wynik mówi sam za siebie",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:33",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1284836/dramat-polakow-na-starcie-sezonu-wynik-mowi-sam-za-siebie",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0322fc5cbe34_40715951.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Dwa konkursy inaugurujące sezon Pucharu Świata przyniosły wyraźny podział sił w rywalizacji o Puchar Narodów.",
-        "Austriacy i Norwegowie odjechali konkurencji, a reprezentacja Polski ma sporo do nadrobienia.",
-        "Skomentuj Dwa konkursy inaugurujące sezon Pucharu Świata przyniosły wyraźny podział sił w rywalizacji o Puchar Narodów."
-      ],
-      "extended_paragraphs": [
-        "Dwa konkursy inaugurujące sezon Pucharu Świata przyniosły wyraźny podział sił w rywalizacji o Puchar Narodów. Austriacy i Norwegowie odjechali konkurencji, a reprezentacja Polski ma sporo do nadrobienia.",
-        "Skomentuj Dwa konkursy inaugurujące sezon Pucharu Świata przyniosły wyraźny podział sił w rywalizacji o Puchar Narodów. Austriacy i Norwegowie odjechali konkurencji, a reprezentacja Polski ma sporo do nadrobienia.",
-        "Wszystko wskazuje na to, że już pierwszy weekend z Pucharem Świata w skokach narciarskich pokazał nam, które nacje będą bić się w tym sezonie o triumf w Pucharze Narodów. Po dwóch konkursach na czele są Austriacy , którzy zgromadzili 668 punktów.",
-        "Po piętach depczą im jednak Norwegowie ze stratą zaledwie 32 oczek. Obie reprezentacje mają już sporą zaliczkę nad konkurencją - trzecia Japonia ma tylko 287 punktów, co pokazuje, jak dobitna jest przepaść.",
-        "ZOBACZ WIDEO: Maciej Maciusiak dla WP SportoweFakty: Hejt? Biorę na klatę. Gorzej nasze dzieci"
-      ]
-    },
-    {
-      "id": "sport-7-db6055",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "MEDIUM",
+      "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Katastrofalny start Polaków. Tego nie było od 28 lat",
+      "title": "Wszystko jasne. Trener podjął decyzję ws. Lewandowskiego",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:32",
+      "time": "22:32",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1285613/katastrofalny-start-polakow-tego-nie-bylo-od-28-lat",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0327061f79b0_53907645.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285602/wszystko-jasne-trener-podjal-decyzje-ws-lewandowskiego",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b031b1050ef51_78581623.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Cztery punkty po dwóch konkursach.",
-        "Tak źle reprezentacja Polski nie rozpoczęła sezonu Pucharu Świata od 28 lat.",
-        "Na wyjątkowo wymowną statystykę po zawodach w Lillehammer zwrócił uwagę Adam Bucholz ze skijumping.pl."
+        "Trener Gregg Berhalter odkrył karty: znamy składy na pierwszy mecz I rundy play-off pomiędzy Chicago Fire i Charlotte FC.",
+        "Robert Lewandowski zaczyna w wyjściowym składzie.",
+        "Skomentuj Trener Gregg Berhalter odkrył karty: znamy składy na pierwszy mecz I rundy play-off pomiędzy Chicago Fire i Charlotte FC."
       ],
       "extended_paragraphs": [
-        "Cztery punkty po dwóch konkursach. Tak źle reprezentacja Polski nie rozpoczęła sezonu Pucharu Świata od 28 lat. Na wyjątkowo wymowną statystykę po zawodach w Lillehammer zwrócił uwagę Adam Bucholz ze skijumping.pl.",
-        "2 Komentarze Cztery punkty po dwóch konkursach. Tak źle reprezentacja Polski nie rozpoczęła sezonu Pucharu Świata od 28 lat. Na wyjątkowo wymowną statystykę po zawodach w Lillehammer zwrócił uwagę Adam Bucholz ze skijumping.pl.",
-        "Biało-Czerwoni już w sobotę zanotowali fatalny występ. Żaden z nich nie awansował do drugiej serii, a najwyżej sklasyfikowany Maciej Kot zajął 32. miejsce. Kacper Tomasiak był dopiero 46., choć w jego przypadku ogromny wpływ miały fatalne warunki. Polak został wypuszczony przy bardzo trudnym bocznym wietrze i wylądował na 105. metrze. W podobnych okolicznościach przepadli również Domen Prevc i Ren Nikaido.",
-        "Niedziela miała przynieść rehabilitację, ale skończyło się jedynie niewielkim przełamaniem. Do konkursu awansowali Tomasiak, Klemens Joniak i Kot, podczas gdy Paweł Wąsek, Dawid Kubacki i Jakub Wolny odpadli już w kwalifikacjach. W zawodach jedynym Polakiem w drugiej serii był Tomasiak. Po skokach na 133 i 129,5 metra zajął 27. miejsce i zdobył cztery punkty. Joniak uplasował się na 40., a Kot na 42. pozycji.",
-        "To właśnie końcowy dorobek kadry zwrócił uwagę Adama Bucholza. Dziennikarz skijumping.pl wyliczył, że cztery punkty zdobyte przez reprezentację Polski w dwóch pierwszych konkursach indywidualnych to jej najgorszy wynik od sezonu 1998/99. Wtedy Biało-Czerwoni rozpoczęli zimę od dwóch zawodów bez ani jednego punktu."
+        "Trener Gregg Berhalter odkrył karty: znamy składy na pierwszy mecz I rundy play-off pomiędzy Chicago Fire i Charlotte FC. Robert Lewandowski zaczyna w wyjściowym składzie.",
+        "Skomentuj Trener Gregg Berhalter odkrył karty: znamy składy na pierwszy mecz I rundy play-off pomiędzy Chicago Fire i Charlotte FC. Robert Lewandowski zaczyna w wyjściowym składzie.",
+        "Od zakończenia zgrupowania reprezentacji Polski minęło parę dni, Robert Lewandowski wrócił do treningów z Chicago Fire i trener Gregg Berhalter uznał, że nie ma sensu trzymać go na ławce rezerwowych w jednym z najważniejszych meczów sezonu 2026.",
+        "Lewandowski znalazł się w wyjściowym składzie na pierwszy mecz z Charlotte FC w I rundzie play-off i będzie szukał kolejnych goli w Major League Soccer.",
+        "Przypomnijmy, że w I rundzie play-off gra się do dwóch zwycięstw. Nie ma klasycznego formatu z meczem i rewanżem. Drugie spotkanie odbędzie się w Charlotte, a ewentualne trzecie ponownie w Chicago."
       ]
     },
     {
-      "id": "sport-2-c4ec29",
-      "entity_tag": "Formuła 1",
-      "sector": "Motorsport",
+      "id": "sport-2-3b01a2",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Mecz dnia",
+      "original_title": "Match of the Day",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:22",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3162.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Skróty meczów Liverpoolu z Manchesterem United i Hull City z Brighton.",
+        "Zamknij menu Kategorie Promowane kategorie Zdrajcy Strictly Come Dancing Dramat i mydła Filmy Komedia Dokumentalne Wiadomości sportowe Rozrywka Muzyka Jedzenie Styl życia Historia Nauka i przyroda Sztuka Z archiwum Dostępne formaty alternatywne Audio opisane Podpisane regiony Irlandia Północna Szkocja Walia Dziecięce CBeebies CBBC A-Z Przewodnik telewizyjny Lista obserwowanych BBC Jeden gracz Teraz ogląda - 22:30 Teraz ogląda - 22:30 Mecz dnia.",
+        "Wydarzenie sklasyfikowano w sektorze: Wydarzenia Sportowe (wpływ: LOW)."
+      ],
+      "extended_paragraphs": [
+        "Skróty meczów Liverpoolu z Manchesterem United i Hull City z Brighton.",
+        "Zamknij menu Kategorie Promowane kategorie Zdrajcy Strictly Come Dancing Dramat i mydła Filmy Komedia Dokumentalne Wiadomości sportowe Rozrywka Muzyka Jedzenie Styl życia Historia Nauka i przyroda Sztuka Z archiwum Dostępne formaty alternatywne Audio opisane Podpisane regiony Irlandia Północna Szkocja Walia Dziecięce CBeebies CBBC A-Z Przewodnik telewizyjny Lista obserwowanych BBC Jeden gracz Teraz ogląda - 22:30 Teraz ogląda - 22:30 Mecz dnia"
+      ]
+    },
+    {
+      "id": "sport-4-e14f91",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Chaotyczny tydzień, koszmarny początek i wielka konfrontacja z rzeczywistością dla Pochettino",
+      "original_title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:22",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Nie można było rozpocząć panowania Mauricio Pochettino na stanowisku menadżera Manchesteru United w bardziej obiecujący sposób, pisze Simon Stone.",
+        "Główny reporter wiadomości piłkarskich Opublikowano godzinę temu „Zwolniony rano, rano zostajesz zwolniony…” Po czternastu minutach z założonymi rękami, dwoma golami straty dla Liverpoolu i zespołem Manchesteru United zredukowanym do 10 zawodników Mauricio Pochettino nie mógł zignorować okrutnych drwin odbijających się echem po Anfield.",
+        "O czym do cholery musiał myśleć Pochettino, gdy stał na skraju swojej strefy technicznej?"
+      ],
+      "extended_paragraphs": [
+        "Nie można było rozpocząć panowania Mauricio Pochettino na stanowisku menadżera Manchesteru United w bardziej obiecujący sposób, pisze Simon Stone.",
+        "Główny reporter wiadomości piłkarskich Opublikowano godzinę temu „Zwolniony rano, rano zostajesz zwolniony…”",
+        "Po czternastu minutach z założonymi rękami, dwoma golami straty dla Liverpoolu i zespołem Manchesteru United zredukowanym do 10 zawodników Mauricio Pochettino nie mógł zignorować okrutnych drwin odbijających się echem po Anfield.",
+        "O czym do cholery musiał myśleć Pochettino, gdy stał na skraju swojej strefy technicznej?",
+        "Jeśli chodzi o odległość, do swojego ostatniego zadania menedżerskiego przeciwko Haiti w Cincinnati brakowało mu 5800 mil, we wczesnych godzinach porannych środowego poranka czasu brytyjskiego."
+      ]
+    },
+    {
+      "id": "sport-5-767650",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Święto w Katowicach. Tak uczcili pamięć Furtoka. Fantastyczna oprawa",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:58",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285653/swieto-w-katowicach-tak-uczcili-pamiec-furtoka-fantastyczna-oprawa",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b036075f315a1_32896064.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Przed meczem z Lechem Poznań GKS Katowice złożył uroczysty hołd Janowi Furtokowi.",
+        "Oficjalnie odsłonięto pomnik legendy klubu, a stadion zyskał jego imię.",
+        "Wyjątkowe chwile uświetniła efektowna oprawa kibiców oraz symboliczny gest wnuka sławy."
+      ],
+      "extended_paragraphs": [
+        "Przed meczem z Lechem Poznań GKS Katowice złożył uroczysty hołd Janowi Furtokowi. Oficjalnie odsłonięto pomnik legendy klubu, a stadion zyskał jego imię. Wyjątkowe chwile uświetniła efektowna oprawa kibiców oraz symboliczny gest wnuka sławy.",
+        "Skomentuj Przed meczem z Lechem Poznań GKS Katowice złożył uroczysty hołd Janowi Furtokowi. Oficjalnie odsłonięto pomnik legendy klubu, a stadion zyskał jego imię. Wyjątkowe chwile uświetniła efektowna oprawa kibiców oraz symboliczny gest wnuka sławy.",
+        "Uroczystość odbyła się tuż przed rozpoczęciem niedzielnego (22 listopada) spotkania 15. kolejki PKO BP Ekstraklasy, w którym GKS Katowice przegrał z Lechem Poznań (0:1 - więcej TUTAJ>> ).",
+        "Jak relacjonował \"Dziennik Zachodni\", w podniosłym wydarzeniu uczestniczyli m.in. żona zmarłego piłkarza, prezydent Katowic Marcin Krupa, prezes GKS-u Sławomir Witek oraz wojewoda śląski Marek Wójcik.",
+        "Odsłonięty monument Jana Furtoka (zobacz zdjęcie poniżej) to dzieło śląskiego rzeźbiarza Tomasza Wenklara, a jego realizacja była możliwa dzięki głosom mieszkańców w Budżecie Obywatelskim. Z kolei uchwałę o oficjalnym nadaniu katowickiemu obiektowi imienia Jana Furtoka miejscy radni przyjęli jednogłośnie we wrześniu 2026 r."
+      ]
+    },
+    {
+      "id": "sport-6-0c5614",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Verstappen nieprzerwanie panuje w chaosie, twierdząc, że Russell jest „znacznie poniżej mojego poziomu”",
-      "original_title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+      "title": "„Najlepszy na świecie mógł przegrać 4:0”, ale czy Man Utd powinien zrobić więcej na Anfield?",
+      "original_title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
       "is_foreign": true,
       "lang": "EN",
-      "time": "11:07",
+      "time": "21:36",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Max Verstappen był gwiazdą Grand Prix Las Vegas, innego niż jakikolwiek wyścig F1, jaki kiedykolwiek widział ktokolwiek młodszy niż około 70 lat.",
-        "Źródło zdjęcia, Press Association Tytuł zdjęcia: Max Verstappen wygrał trzy z czterech Grand Prix Las Vegas Korespondent F1 w Las Vegas Opublikowano 6 godzin temu Ostrzeżenie: ten artykuł zawiera obraźliwy język Był gwiazdą wyścigu, który obejmował 34 ruchy wyprzedzania zapewniające prowadzenie na 50 okrążeń i 352 w sumie, w którym największa przewaga lidera w historii wyniosła 1,5 sekundy i w którym pięć samochodów walczyło łeb w łeb o prowadzenie do ostatniego okrążenia, a przez większą część wyścigu o wiele więcej.",
-        "Co jeszcze lepsze dla Verstappena, George Russell popełnił krytyczny błąd 24 godziny po wznowieniu swojej długotrwałej sprzeczki z Holendrem."
+        "Mauricio Pochettino uważa, że ​​w sytuacji Manchesteru United nawet najlepsza drużyna na świecie mogła stracić cztery gole na stadionie Liverpoolu, ale czy Czerwone Diabły powinny zrobić więcej po porażce?",
+        "Mauricio Pochettino wierzy, że nawet najlepsza drużyna na świecie mogła stracić cztery gole na stadionie Liverpoolu w okolicznościach Manchesteru United, ale czy walczące Czerwone Diabły powinny zrobić więcej po kolejnej rozczarowującej porażce?",
+        "Pierwszy mecz byłego menadżera Tottenhamu i Chelsea na stanowisku trenera United rozpoczął się fatalnie, ponieważ w ósmej minucie wyrzucono z boiska obrońcę Leny'ego Yoro, a w 13."
       ],
       "extended_paragraphs": [
-        "Max Verstappen był gwiazdą Grand Prix Las Vegas, innego niż jakikolwiek wyścig F1, jaki kiedykolwiek widział ktokolwiek młodszy niż około 70 lat.",
-        "Źródło zdjęcia, Press Association Tytuł zdjęcia: Max Verstappen wygrał trzy z czterech Grand Prix Las Vegas",
-        "Korespondent F1 w Las Vegas Opublikowano 6 godzin temu Ostrzeżenie: ten artykuł zawiera obraźliwy język",
-        "Był gwiazdą wyścigu, który obejmował 34 ruchy wyprzedzania zapewniające prowadzenie na 50 okrążeń i 352 w sumie, w którym największa przewaga lidera w historii wyniosła 1,5 sekundy i w którym pięć samochodów walczyło łeb w łeb o prowadzenie do ostatniego okrążenia, a przez większą część wyścigu o wiele więcej.",
-        "Co jeszcze lepsze dla Verstappena, George Russell popełnił krytyczny błąd 24 godziny po wznowieniu swojej długotrwałej sprzeczki z Holendrem."
+        "Mauricio Pochettino uważa, że ​​w sytuacji Manchesteru United nawet najlepsza drużyna na świecie mogła stracić cztery gole na stadionie Liverpoolu, ale czy Czerwone Diabły powinny zrobić więcej po porażce?",
+        "Mauricio Pochettino wierzy, że nawet najlepsza drużyna na świecie mogła stracić cztery gole na stadionie Liverpoolu w okolicznościach Manchesteru United, ale czy walczące Czerwone Diabły powinny zrobić więcej po kolejnej rozczarowującej porażce?",
+        "Pierwszy mecz byłego menadżera Tottenhamu i Chelsea na stanowisku trenera United rozpoczął się fatalnie, ponieważ w ósmej minucie wyrzucono z boiska obrońcę Leny'ego Yoro, a w 13. minucie przegrywali 2:0.",
+        "To postawiło ich przed wspinaniem się na górę, a Liverpool strzelił dwa razy więcej w drugiej połowie i zapewnił sobie zwycięstwo 4:0, co zapewniło United drugie miejsce od końca tabeli.",
+        "– Myślisz, że to łatwe? powiedział Pochettino o sytuacji, w jakiej znalazł się jego nowy zespół po tych fatalnych pierwszych 13 minutach."
       ]
     },
     {
-      "id": "sport-4-a67754",
-      "entity_tag": "Formuła 1",
-      "sector": "Motorsport",
+      "id": "sport-7-7bf514",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Kolizja Hamilton-Leclerc jest całkowicie niedopuszczalna, mówi szef Ferrari",
-      "original_title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+      "title": "Chwile grozy 19-latki. Nagle upadła na murawę. Jest komunikat",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:54",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285654/chwile-grozy-19-latki-nagle-upadla-na-murawe-jest-komunikat",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b035eee512b75_77147192.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "19-letnia skrzydłowa Arsenal Lisa Baum zasłabła bez kontaktu z rywalką podczas spotkania Women's Super League z West Ham United (0:0).",
+        "Po długiej interwencji medycznej opuściła murawę na noszach, korzystając z tlenu.",
+        "Skomentuj 19-letnia skrzydłowa Arsenal Lisa Baum zasłabła bez kontaktu z rywalką podczas spotkania Women's Super League z West Ham United (0:0)."
+      ],
+      "extended_paragraphs": [
+        "19-letnia skrzydłowa Arsenal Lisa Baum zasłabła bez kontaktu z rywalką podczas spotkania Women's Super League z West Ham United (0:0). Po długiej interwencji medycznej opuściła murawę na noszach, korzystając z tlenu.",
+        "Skomentuj 19-letnia skrzydłowa Arsenal Lisa Baum zasłabła bez kontaktu z rywalką podczas spotkania Women's Super League z West Ham United (0:0). Po długiej interwencji medycznej opuściła murawę na noszach, korzystając z tlenu.",
+        "Incydent miał miejsce około 30. minuty meczu, gdy piłka nie była w grze. Zespół medyczny Arsenalu szybko pojawił się przy zawodniczce. Lisa Baum otrzymała tlen, a po kilkuminutowej pomocy została przetransportowana na noszach w 34. minucie. Niemkę zastąpiła Caitlin Foord.",
+        "Kibice najedli się strachu, bo sytuacja wyglądała naprawdę niebezpiecznie. Arsenal w komunikacie cytowanym przez BBC przekazał, że Baum miała problemy z oddychaniem, ale jej stan szybko zaczął się poprawiać. Klub nie podał dodatkowych szczegółów dotyczących przyczyn zasłabnięcia.",
+        "Baum dołączyła do Arsenalu latem, przechodząc z RB Lipsk. Reprezentantka Niemiec zdążyła już zaznaczyć swoją obecność w nowym zespole. W spotkaniu otwierającym sezon zdobyła bramkę przeciwko Brighton."
+      ]
+    },
+    {
+      "id": "sport-8-48136b",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Price wygrywa Wielkiego Szlema, aby zakończyć oczekiwanie na główny tytuł",
+      "original_title": "Price wins Grand Slam to end wait for major title",
       "is_foreign": true,
       "lang": "EN",
-      "time": "09:07",
+      "time": "21:06",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3fd5/live/5dd75760-e64d-11f1-a563-e14cd8b02601.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e2ae/live/3b964520-e6bc-11f1-99a1-253766e7ad8b.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Kierowcy Ferrari, Lewis Hamilton i Charles Leclerc, stają przed kolejną burzliwą dyskusją na temat możliwości płynnego ścigania się na torze po zderzeniu w Las Vegas.",
-        "Korespondent F1 w Las Vegas Opublikowano 8 godzin temu Kierowcy Ferrari Lewis Hamilton i Charles Leclerc stają przed kolejną napiętą dyskusją na temat ich zdolności do czystego wspólnego ścigania się na torze po zderzeniu podczas Grand Prix Las Vegas.",
-        "Na 22 okrążenia przed końcem Leclerc wytrącił Hamiltona z równowagi, co kosztowało go oba punkty w wyścigu, w którym na pewnym etapie ścigali się z McLarenami, którzy stanęli na podium."
+        "Gerwyn Price kończy swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
+        "Źródło zdjęcia, Stowarzyszenie Prasowe Tytuł zdjęcia: Gerwyn Price czterokrotnie wygrała Wielkiego Szlema w rzutkach Gerwyn Price zakończył swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
+        "Walijczyk ostatni raz zdobył ważny tytuł, zdobywając mistrzostwo świata w 2022 r., ale ostatecznie przekroczył granicę po porażkach w trzech finałach w 2026 r. 41-latek był wicemistrzem World Matchplay, World Grand Prix i World Series, a także odchodził z półfinału Premier League, World Masters, UK Open i Mistrzostw Europy."
       ],
       "extended_paragraphs": [
-        "Kierowcy Ferrari, Lewis Hamilton i Charles Leclerc, stają przed kolejną burzliwą dyskusją na temat możliwości płynnego ścigania się na torze po zderzeniu w Las Vegas.",
-        "Korespondent F1 w Las Vegas Opublikowano 8 godzin temu Kierowcy Ferrari Lewis Hamilton i Charles Leclerc stają przed kolejną napiętą dyskusją na temat ich zdolności do czystego wspólnego ścigania się na torze po zderzeniu podczas Grand Prix Las Vegas.",
-        "Na 22 okrążenia przed końcem Leclerc wytrącił Hamiltona z równowagi, co kosztowało go oba punkty w wyścigu, w którym na pewnym etapie ścigali się z McLarenami, którzy stanęli na podium.",
-        "Leclerc został ukarany 10-sekundową karą za incydent, co oznaczało, że w wyścigu wygranym przez Maxa Verstappena z Red Bulla zajął 10. miejsce, trzy miejsca za Hamiltonem.",
-        "Był to drugi incydent zakłócający wyścig w ciągu trzech Grand Prix i miał miejsce po tym, jak kierowcy zebrali się, aby oczyścić atmosferę podczas ostatniego wyścigu w Brazylii, po tym jak walka na pierwszym okrążeniu w Meksyku kosztowała ich zwycięstwo."
+        "Gerwyn Price kończy swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
+        "Źródło zdjęcia, Stowarzyszenie Prasowe Tytuł zdjęcia: Gerwyn Price czterokrotnie wygrała Wielkiego Szlema w rzutkach",
+        "Gerwyn Price zakończył swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
+        "Walijczyk ostatni raz zdobył ważny tytuł, zdobywając mistrzostwo świata w 2022 r., ale ostatecznie przekroczył granicę po porażkach w trzech finałach w 2026 r.",
+        "41-latek był wicemistrzem World Matchplay, World Grand Prix i World Series, a także odchodził z półfinału Premier League, World Masters, UK Open i Mistrzostw Europy."
       ]
     }
   ],
@@ -2204,6 +2216,41 @@
       ]
     },
     {
+      "id": "rynki-2-06061c",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 150 milionów dolarów, 4,6 miliona dolarów) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "150 milionów dolarów",
+        "4,6 miliona dolarów"
+      ],
+      "title": "Pracownicy wspieranego przez Erica Trumpa startupu robotycznego tracą świadczenia zdrowotne w miarę pogłębiania się kryzysu finansowego firmy",
+      "original_title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:55",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Fundacja stara się o awaryjny kredyt pomostowy i prowadzi rozmowy z firmami VC w oczekiwaniu na inwestycję o wartości 150 milionów dolarów od południowokoreańskiej Base Group.",
+        "Jak wynika z notatki uzyskanej przez CNBC, pracownikom Foundation Future Industries powiedziano, że ich świadczenia zdrowotne za pośrednictwem administratora Ripplinga zostały zakończone.",
+        "Fundacja poinformowała pracowników w piątkowy wieczór e-mailem, że zostanie im zaoferowane ubezpieczenie w ramach COBRA – prawa federalnego, które zasadniczo pozwala pracownikom tymczasowo zachować ubezpieczenie zdrowotne po utracie świadczeń, płacąc pełną składkę z własnej kieszeni."
+      ],
+      "extended_paragraphs": [
+        "Fundacja stara się o awaryjny kredyt pomostowy i prowadzi rozmowy z firmami VC w oczekiwaniu na inwestycję o wartości 150 milionów dolarów od południowokoreańskiej Base Group.",
+        "Jak wynika z notatki uzyskanej przez CNBC, pracownikom Foundation Future Industries powiedziano, że ich świadczenia zdrowotne za pośrednictwem administratora Ripplinga zostały zakończone.",
+        "Fundacja poinformowała pracowników w piątkowy wieczór e-mailem, że zostanie im zaoferowane ubezpieczenie w ramach COBRA – prawa federalnego, które zasadniczo pozwala pracownikom tymczasowo zachować ubezpieczenie zdrowotne po utracie świadczeń, płacąc pełną składkę z własnej kieszeni.",
+        "„Ponieważ nasza ostatnia wypłata w Rippling miała miejsce w październiku, zakończyli oni nasze świadczenia z mocą wsteczną od października” – stwierdził w notatce menadżer ds. zasobów ludzkich Fundacji. „COBRA będzie oferowana wszystkim pracownikom przez cały listopad”.",
+        "Fundacja trafiła na pierwsze strony gazet po odważnych twierdzeniach współzałożyciela Sankaeta Pathaka – którego poprzedni startup upadł w 2024 r. – na temat swoich robotów i ich potencjalnego zastosowania w strefach objętych działaniami wojennymi. Ostatnią wypłatę pracownikom wypłacono 15 października, a część pracowników firmy jest wściekła na Pathaka za pożyczkę o wartości 4,6 miliona dolarów, którą wziął od swojej firmy w zeszłym roku, jak podało CNBC na początku tego miesiąca."
+      ]
+    },
+    {
       "id": "rynki-3-e60a24",
       "entity_tag": "Złoto (XAU/USD)",
       "sector": "Surowce Szlachetne",
@@ -2237,42 +2284,6 @@
         "2. Ile miedzi jest dziś w cenie KGHM? Analiza Bloomberga i komentarz zarządu Choć po trzech kwartałach 2026 roku KGHM wypracował ponad 7,5 mld zł zysku netto, notowania spółki uległy jesiennej przecenie razem z całym sektorem wydobywczym. Raport Bloomberg Intelligence pokazuje, że kurs polskiego koncernu dyskontuje obecnie najwyższą długoterminową cenę miedzi spośród innych spółek o średniej wielkości. Zarząd odpowiada na rynkową zmienność aktywnym hedgingiem i chwali się umiejętnym wykorzystaniem warunków rynkowych.",
         "3. Euroinflacja rozlewa się po Europie. Lider może być tylko jeden W niemal wszystkich krajach Unii Europejskiej inflacja przekraczała 2%. W miażdżącej większości było to ponad 3%, a w jednej trzeciej państw członkowskich ceny rosły w tempie bliskim lub wyższym od 5%.",
         "4. Srebrny numer jeden. KGHM ponownie największym producentem białego metalu KGHM Polska Miedź obronił pozycję największego producenta srebra na świecie w trzecim kwartale 2026 roku. Z najnowszego zestawienia przygotowanego przez serwis MinerDeck wynika, że lubiński gigant wyprzedził amerykańskiego Newmonta oraz meksykańskie Fresnillo. Tego ostatniego dotyczy ciekawe zastrzeżenie, dotyczące ujmowania w rankingu jego spółki matki."
-      ]
-    },
-    {
-      "id": "rynki-4-621803",
-      "entity_tag": "Wall Street (USA)",
-      "sector": "Rynki Globalne",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 70%, 6%, 72%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "70%",
-        "6%",
-        "72%"
-      ],
-      "title": "Rynki prognostyczne perspektywy dla akcji w 2026 r. pogarszają się w obliczu wyprzedaży sztucznej inteligencji",
-      "original_title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:59",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "Szanse na to, że S&P 500 przekroczy 8000, co kiedyś znajdowało się na północ od 70%, są na platformie Kalshi wyjątkowo niskie.",
-        "W miarę kontynuowania wyprzedaży akcji spowodowanej technologią, inwestorzy na rynkach prognostycznych widzą coraz bardziej ponure perspektywy na pozostałą część roku.",
-        "Na platformie Kalshi spekulanci stawiają zaledwie 6% szans na to, że w 2026 r. indeks S&P 500 przekroczy 8000."
-      ],
-      "extended_paragraphs": [
-        "Szanse na to, że S&P 500 przekroczy 8000, co kiedyś znajdowało się na północ od 70%, są na platformie Kalshi wyjątkowo niskie.",
-        "W miarę kontynuowania wyprzedaży akcji spowodowanej technologią, inwestorzy na rynkach prognostycznych widzą coraz bardziej ponure perspektywy na pozostałą część roku.",
-        "Na platformie Kalshi spekulanci stawiają zaledwie 6% szans na to, że w 2026 r. indeks S&P 500 przekroczy 8000. 13 października szanse te wynosiły aż 72%.",
-        "W kontraktach inwestorzy pytają, czy indeks S&P 500 przekroczy różne poziomy w 2026 r., a rozstrzygnięcie następuje na podstawie danych z indeksów S&P Dow Jones.",
-        "W piątek indeks Nasdaq Composite osiągnął wynik ujemny w ujęciu rocznym, ponieważ inwestorzy w dalszym ciągu porzucali akcje spółek technologicznych, głównie tych z ekspozycją na rozwój sztucznej inteligencji. Dow Jones Industrial Average oraz S&P 500 również znalazły się w obszarze korekty."
       ]
     },
     {
@@ -2310,35 +2321,39 @@
       ]
     },
     {
-      "id": "rynki-6-9aae46",
-      "entity_tag": "Fed (USA)",
-      "sector": "Banki Centralne",
+      "id": "rynki-6-621803",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
       "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Wpływ na kapitał: Sygnał ostrożności dla ekspozycji na sektor finansowy i stopy procentowe.",
-      "key_metrics": [],
-      "title": "Warsh chce, aby urzędnicy Fed mniej mówili. Zamiast tego mówią więcej",
-      "original_title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 70%, 6%, 72%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "70%",
+        "6%",
+        "72%"
+      ],
+      "title": "Rynki prognostyczne perspektywy dla akcji w 2026 r. pogarszają się w obliczu wyprzedaży sztucznej inteligencji",
+      "original_title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:10",
+      "time": "19:59",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108476194-17932143232026-10-28t190313z_1179407772_rc2icoaqsfjn_rtrmadp_0_usa-fed.jpeg?v=1793214357&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Urzędnicy Fed ostatnio spieszyli się do mikrofonów, podczas gdy prezes Fed pozostaje na uboczu.",
-        "Przez pierwsze sześć miesięcy swojej kadencji na stanowisku prezesa Rezerwy Federalnej Kevin Warsh pilnie unikał sygnalizowania kierunku, w jakim według niego zmierza polityka pieniężna i stopy procentowe.",
-        "Jego koledzy z radością wypełnili tę pustkę."
+        "Szanse na to, że S&P 500 przekroczy 8000, co kiedyś znajdowało się na północ od 70%, są na platformie Kalshi wyjątkowo niskie.",
+        "W miarę kontynuowania wyprzedaży akcji spowodowanej technologią, inwestorzy na rynkach prognostycznych widzą coraz bardziej ponure perspektywy na pozostałą część roku.",
+        "Na platformie Kalshi spekulanci stawiają zaledwie 6% szans na to, że w 2026 r. indeks S&P 500 przekroczy 8000."
       ],
       "extended_paragraphs": [
-        "Urzędnicy Fed ostatnio spieszyli się do mikrofonów, podczas gdy prezes Fed pozostaje na uboczu.",
-        "Przez pierwsze sześć miesięcy swojej kadencji na stanowisku prezesa Rezerwy Federalnej Kevin Warsh pilnie unikał sygnalizowania kierunku, w jakim według niego zmierza polityka pieniężna i stopy procentowe. Jego koledzy z radością wypełnili tę pustkę.",
-        "Ostatnio urzędnicy Fed rzucili się do mikrofonu, wyrażając czasami sprzeczne opinie na temat tego, jak bank centralny powinien radzić sobie z błędem inflacyjnym, z którym gospodarka nie może się otrząsnąć.",
-        "Większość zgadza się, że stopy należy podnieść – i to wkrótce. Niektórzy są skłonni do podwyżek w umiarkowanym tempie w zależności od panujących warunków, podczas gdy inni, jak gubernator Christopher Waller i prezes Fed w St. Louis Alberto Musalem, rozważają bardziej agresywne podwyżki w krótszym czasie.",
-        "W dużej mierze na marginesie debaty znajduje się Warsh, który wyraził pogardę dla tego rodzaju przyszłych wskazówek i argumentował, że zakuwa to decydentów w kajdanki na długo przed faktycznym podjęciem przez nich decyzji. Nie powstrzymuje to jednak większości z pozostałych 18 urzędników uczestniczących w posiedzeniach Federalnego Komitetu Otwartego Rynku."
+        "Szanse na to, że S&P 500 przekroczy 8000, co kiedyś znajdowało się na północ od 70%, są na platformie Kalshi wyjątkowo niskie.",
+        "W miarę kontynuowania wyprzedaży akcji spowodowanej technologią, inwestorzy na rynkach prognostycznych widzą coraz bardziej ponure perspektywy na pozostałą część roku.",
+        "Na platformie Kalshi spekulanci stawiają zaledwie 6% szans na to, że w 2026 r. indeks S&P 500 przekroczy 8000. 13 października szanse te wynosiły aż 72%.",
+        "W kontraktach inwestorzy pytają, czy indeks S&P 500 przekroczy różne poziomy w 2026 r., a rozstrzygnięcie następuje na podstawie danych z indeksów S&P Dow Jones.",
+        "W piątek indeks Nasdaq Composite osiągnął wynik ujemny w ujęciu rocznym, ponieważ inwestorzy w dalszym ciągu porzucali akcje spółek technologicznych, głównie tych z ekspozycją na rozwój sztucznej inteligencji. Dow Jones Industrial Average oraz S&P 500 również znalazły się w obszarze korekty."
       ]
     },
     {
@@ -2378,7 +2393,41 @@
       ]
     },
     {
-      "id": "rynki-2-c4c9d0",
+      "id": "rynki-8-6ae855",
+      "entity_tag": "NBP / RPP",
+      "sector": "Polityka Pieniężna",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Wpływ na kapitał: Czynnik równowagi dla kosztu kredytu, rentowności obligacji skarbowych oraz wyceny NBP / RPP (kluczowe liczby: 10%).",
+      "key_metrics": [
+        "10%"
+      ],
+      "title": "Tym będą żyły rynki: święta w Ameryce, Czarny Piątek i paczka danych z Polski",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "14:01",
+      "source": "Bankier Rynki",
+      "source_url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-swieta-w-Ameryce-Czarny-Piatek-i-paczka-danych-z-Polski-9232581.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "image_url": "https://galeria.bankier.pl/p/e/d/13c3ea279ce357-948-568-153-163-3328-1996.jpg",
+      "image_source": "Fot. / Źródło: Bankier Rynki",
+      "lead_story": false,
+      "summary_points": [
+        "Z Polski i reszty Europy napłynie sporo danych makroekonomicznych, w tym zwłaszcza najnowsze statystyki inflacyjne.",
+        "Nie zabraknie też już mocno przestarzałych raportów kwartalnych na GPW.",
+        "fot. CineVI / / Shutterstock Poniedziałek, 23 listopada W Europie pojawią się wstępne odczyty PMI za listopad."
+      ],
+      "extended_paragraphs": [
+        "Z Polski i reszty Europy napłynie sporo danych makroekonomicznych, w tym zwłaszcza najnowsze statystyki inflacyjne. Nie zabraknie też już mocno przestarzałych raportów kwartalnych na GPW.",
+        "fot. CineVI / / Shutterstock Poniedziałek, 23 listopada W Europie pojawią się wstępne odczyty PMI za listopad. Poznamy wyniki dla Francji (9:15), Niemiec (9:30), strefy euro jako całości (10:00) oraz Wielkiej Brytanii (10:30) i USA (15:45).",
+        "W Polsce GUS otworzy worek z raportami makro za październik. Na pierwszy ogień pójdzie produkcja przemysłowa oraz inflacja PPI, produkcja budowlano-montażowa oraz przeciętne zatrudnienie i wynagrodzenia w sektorze przedsiębiorstw. Wszystko na raz o godzinie 9:30.",
+        "Wyniki za zakończony niemal dwa miesiące temu III kwartał pokażą: Unibep, Dekpol, Polimex czy Airway.",
+        "W ramach danych drugiego rzutu o 9:30 GUS zaprezentuje nam wyniki październikowej sprzedaży detalicznej. Pół godziny później Niemcy pokażą indeks Ifo mierzący nastroje korporacyjnych menedżerów. O 14:00 NBP pokaże statystyki podaży pieniądza, którego od wielu miesięcy przybywa tempie przeszło 10% w skali roku."
+      ]
+    },
+    {
+      "id": "rynki-4-c4c9d0",
       "entity_tag": "Azja & Pacyfik",
       "sector": "Gospodarka Światowa",
       "market_impact": "MEDIUM",
@@ -2404,41 +2453,9 @@
       "extended_paragraphs": [
         "Prezydent Chin Xi Jinping pomógł w koordynowaniu kolejnej sesji zdjęciowej o znaczeniu globalnym.",
         "SHENZHEN, Chiny – Drugi rok z rzędu chiński prezydent Xi Jinping spotkał prezydenta Rosji Władimira Putina z innym głównym światowym przywódcą na wybrzeżach Chin kontynentalnych.",
-        "Prezydent USA Donald Trump odbył w czwartek trójstronne spotkanie z Xi i Putinem, po tym, jak cała trójka spotkała się poprzedniego wieczoru podczas bankietu powitalnego z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku w Shenzhen. Było to dla nich pierwsze osobiste spotkanie.",
+        "Prezydent USA Donald Trump odbył w czwartek trójstronne spotkanie z Xi i Putinem, po tym, jak cała trójka spotkała się poprzedniego wieczoru podczas bankietu powitalnego z okazji Spotkania Liderów Gospodarczych regionu Azji i Pacyfiku w Shenzhen. Było to ich pierwsze osobiste spotkanie.",
         "We wrześniu 2025 r. Xi, Putin i premier Indii Narendra Modi przez chwilę śmiali się razem podczas przyjacielskiej sesji zdjęciowej podczas dorocznego spotkania Szanghajskiej Organizacji Współpracy w Tianjin w Chinach. Spotkanie nastąpiło po złagodzeniu napięć między Pekinem a New Delhi.",
         "„Zdolność Chin do bezpośredniego współdziałania z głównymi mocarstwami światowymi” odzwierciedla wpływ tego kraju na Globalne Południe i Eurazję, stwierdziła Jodie Wen, doktorantka w Centrum Bezpieczeństwa Międzynarodowego i Strategii na Uniwersytecie Tsinghua. „Chiny mają nadzieję odegrać bardziej konstruktywną rolę w tym [ogarniętym konfliktem] i niestabilnym świecie”."
-      ]
-    },
-    {
-      "id": "rynki-8-a7e30a",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Międzynarodowa pierwsza klasa dobiegła końca dla amerykańskich linii lotniczych. Wejdź do mega kabiny klasy biznes",
-      "original_title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:00",
-      "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Finance",
-      "lead_story": false,
-      "summary_points": [
-        "Linie lotnicze decydują się na budowę gigantycznych kabin klasy biznes z coraz bardziej luksusowymi apartamentami.",
-        "Era długodystansowych, międzynarodowych lotów amerykańskich linii lotniczych zakończyła się w tym tygodniu wraz z wylądowaniem ostatniego lotu American Airlines z sekcją z ośmioma apartamentami.",
-        "Na jego miejscu powstanie masywna kabina klasy biznes z miejscem dla 70 pasażerów."
-      ],
-      "extended_paragraphs": [
-        "Linie lotnicze decydują się na budowę gigantycznych kabin klasy biznes z coraz bardziej luksusowymi apartamentami.",
-        "Era długodystansowych, międzynarodowych lotów amerykańskich linii lotniczych zakończyła się w tym tygodniu wraz z wylądowaniem ostatniego lotu American Airlines z sekcją z ośmioma apartamentami. Na jego miejscu powstanie masywna kabina klasy biznes z miejscem dla 70 pasażerów.",
-        "Amerykańskie linie lotnicze rezygnują z międzynarodowych kabin pierwszej klasy na rzecz nowego, najwyższego poziomu: większych i odświeżonych klas biznesowych, wyposażonych w apartamenty z przesuwanymi drzwiami, projekt du jour. Na ten krok zdecydowały się już linie Delta Air Lines i United Airlines. American była ostatnią amerykańską linią lotniczą, która nadal posiadała pierwszą klasę na długodystansowych trasach międzynarodowych.",
-        "Wielu podróżnych może nie zauważyć różnicy. Dzieje się tak dzięki inwestycjom linii lotniczych w klasę biznes: nowe apartamenty, większe ekrany, lepsza technologia, taka jak podkładki do ładowania urządzeń, i lepsza pościel.",
-        "To część wielkiego planu linii lotniczych na masowy luksus. Konsumenci byli skłonni wydać więcej, aby latać wygodnie, co pomaga zwiększyć przychody linii lotniczych. Jest to tym ważniejsze, że rosną koszty wszystkiego, od paliwa po opłaty za lądowanie na lotnisku, pochłaniając większą część zysków branży."
       ]
     }
   ]

@@ -3,9 +3,9 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.326",
-    "last_updated": "2026-11-22 02:44",
+    "last_updated": "2026-11-22 10:29",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
-    "polish_articles_count": 12,
+    "polish_articles_count": 18,
     "foreign_translated_count": 20,
     "breaking_banner": {
       "enabled": false,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$59,561",
-      "change": "+1.77%",
+      "price": "$60,811",
+      "change": "+4.87%",
       "is_positive": true
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,669",
-      "change": "+3.34%",
+      "price": "$1,708",
+      "change": "+4.19%",
       "is_positive": true
     },
     {
@@ -1185,41 +1185,108 @@
   ],
   "makro": [
     {
-      "id": "makro-2-1718c1",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-5-7859a0",
+      "entity_tag": "Cyfrowy Polsat (GPW: CPS)",
+      "sector": "Telekomunikacja & Media",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 17 miliardów funtów) przy planowaniu budżetu i inwestycji.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Telekomunikacja & Media” (kluczowe liczby: 3,5 mld zł, 800 mln euro) wspierający aktywność gospodarczą i siłę nabywczą.",
       "key_metrics": [
-        "17 miliardów funtów"
+        "3,5 mld zł",
+        "800 mln euro"
       ],
-      "title": "Wielka Brytania zamierza zbadać jeszcze bliższe więzi z UE po zawarciu porozumienia, mówi Burnham",
-      "original_title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:49",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
+      "title": "Miliardy złotych na małe reaktory jądrowe. \"Podpisaliśmy fantastyczną umowę\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:33",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/miliardy-zlotych-na-male-reaktory-jadrowe-inwestycje-moze-wesprzec-panstwo/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/4p/4pdcqekqtu8x9ni5ub1gmbd5qzogymbt.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
       "lead_story": true,
       "summary_points": [
-        "Uzgodniona w piątek umowa między Wielką Brytanią a UE obejmuje eksport brytyjskiej żywności, handel emisjami i program doświadczeń młodych.",
-        "Źródło zdjęcia, EPA/Shutterstock Tytuł zdjęcia, przewodnicząca Komisji Europejskiej Ursula von der Leyen, premier Andy Burnham i przewodniczący Rady Europejskiej Antonio Costa łapią się za ręce na zakończenie konferencji prasowej podczas szczytu UE-Wielka Brytania w Brukseli Andy Burnham powiedział, że Wielka Brytania omówi możliwe opcje jeszcze bliższych stosunków z UE po uzgodnieniu umowy obejmującej brytyjski eksport żywności, handel uprawnieniami do emisji i program doświadczeń młodych.",
-        "Premier powiedział, że to „dobry dzień” dla Wielkiej Brytanii i Europy, dodając, że Ministerstwo Skarbu uważa, że ​​transakcja może pobudzić brytyjską gospodarkę nawet o 17 miliardów funtów rocznie."
+        "Polski biznes stawia na SMR-y - modułowe reaktory jądrowe w amerykańskiej technologii.",
+        "Do końca roku finansowanie tej inwestycji ma sięgnąć 3,5 mld zł.",
+        "- Udało nam się z prezesem Grupy Polsat Plus Piotrem Żakiem podpisać fantastyczną umowę i będziemy dewelopować sześć SMR-ów w lokalizacji pakowskiej - podkreśla Michał Sołowow (SGE)."
       ],
       "extended_paragraphs": [
-        "Uzgodniona w piątek umowa między Wielką Brytanią a UE obejmuje eksport brytyjskiej żywności, handel emisjami i program doświadczeń młodych.",
-        "Źródło zdjęcia, EPA/Shutterstock Tytuł zdjęcia, przewodnicząca Komisji Europejskiej Ursula von der Leyen, premier Andy Burnham i przewodniczący Rady Europejskiej Antonio Costa łapią się za ręce na zakończenie konferencji prasowej podczas szczytu UE-Wielka Brytania w Brukseli",
-        "Andy Burnham powiedział, że Wielka Brytania omówi możliwe opcje jeszcze bliższych stosunków z UE po uzgodnieniu umowy obejmującej brytyjski eksport żywności, handel uprawnieniami do emisji i program doświadczeń młodych.",
-        "Premier powiedział, że to „dobry dzień” dla Wielkiej Brytanii i Europy, dodając, że Ministerstwo Skarbu uważa, że ​​transakcja może pobudzić brytyjską gospodarkę nawet o 17 miliardów funtów rocznie.",
-        "Przewodniczący Rady Europejskiej António Costa powiedział, że UE pozostaje „otwarta na utrzymywanie jak najściślejszych stosunków” z Wielką Brytanią."
+        "Polski biznes stawia na SMR-y - modułowe reaktory jądrowe w amerykańskiej technologii. Do końca roku finansowanie tej inwestycji ma sięgnąć 3,5 mld zł. - Udało nam się z prezesem Grupy Polsat Plus Piotrem Żakiem podpisać fantastyczną umowę i będziemy dewelopować sześć SMR-ów w lokalizacji pakowskiej - podkreśla Michał Sołowow (SGE). Włączenie się do projektu rozważa także Polski Fundusz Rozwoju.",
+        "- Mapa drogowa jest już gotowa, przyjęliśmy całkiem niedawno Polski Program Energetyki Jądrowej i to jest kolejny krok, który zrobimy - myślę - już w najbliższych dniach. To da inwestorom więcej przestrzeni i zrozumienia, co do tego jak rząd będzie wspierał małe reaktory jądrowe - powiedział wiceminister energii, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej Wojciech Wrochna.",
+        "Podkreślił również, że proces budowy SMR-ów należy rozpocząć jak najszybciej. - Rząd musi zapewnić, żeby energia w Polsce była dostępna, żeby była czysta i żeby była tania. Bez tych trzech celów nie jesteśmy w stanie zapewnić rozwoju czy przetrwania polskiego przemysłu. Energetyka jądrowa daje taką szansę. Polski Fundusz Rozwoju, według mojej najlepszej wiedzy, jest w zaawansowanych rozmowach. Jeżeli uzna, że jest potencjał biznesowy do tego, żeby tam zainwestować, to zakładam, że tak będzie. To też będzie taka kropka nad \"i\" potwierdzająca, że ten projekt ma sens biznesowy - dodał wiceszef resortu energii.",
+        "Michał Sołowow, założyciel Synthos Green Energy (SGE), spółki rozwijającej technologię małych reaktorów jądrowych przekazał, że do końca roku spodziewa się sfinalizować umowy z inwestorami gotowymi zainwestować w ten projekt. - Myślę, że to będzie ponad 800 mln euro w tej rundzie. Udało nam się z prezesem Zarządu Grupy Polsat Plus, prezesem ZE PAK Piotrem Żakiem podpisać fantastyczną umowę i będziemy dewelopować sześć SMR-ów w \"lokalizacji pakowskiej\". Wydaje mi się, że to jest bardzo istotny kamień milowy, zwłaszcza że ta lokalizacja jest doskonała, w centrum Polski - argumentował Michał Sołowow.",
+        "Jak dodał \"bez racjonalnie wycenionej energii nie będzie inwestycji w Polsce, nie zbudujemy Data Center, które są niezbędne do tego, żeby na nich rozwijać AI, nie stworzymy konkurencyjności dla naszych dzieci, wnuków... po prostu musimy to zrobić\"."
       ]
     },
     {
-      "id": "makro-1-306ebd",
+      "id": "makro-1-49b164",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 5 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "5 proc."
+      ],
+      "title": "Wyższa akcyza na alkohol. Prezydent Karol Nawrocki zdecydował",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "16:36",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-18/wyzsza-akcyza-na-alkohol-prezydent-karol-nawrocki-zdecydowal/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/xc/xcbep7n4k1rxj6w38bu32378btjgghp1.png",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
+      "lead_story": false,
+      "summary_points": [
+        "Karol Nawrocki podpisał ustawę podwyższającą akcyzę na alkohol.",
+        "Prezydent przekazał to w internetowym oświadczeniu.",
+        "Jak uzasadnił, zgodził się na zwiększenie daniny, ponieważ w przepisach zagwarantowano, że dodatkowe środki trafią na ochronę zdrowia."
+      ],
+      "extended_paragraphs": [
+        "Karol Nawrocki podpisał ustawę podwyższającą akcyzę na alkohol. Prezydent przekazał to w internetowym oświadczeniu. Jak uzasadnił, zgodził się na zwiększenie daniny, ponieważ w przepisach zagwarantowano, że dodatkowe środki trafią na ochronę zdrowia. Z kolei jego aprobaty nie zyskała ustawa dotycząca podniesienia stawki VAT na napoje bezalkoholowe.",
+        "Karol Nawrocki w nagraniu opublikowanym na platformie X poinformował o podpisaniu trzech i zawetowaniu jednej ustawy . Wśród nowelizacji, które zostały przyjęte przez prezydenta, jest ta dotycząca podatku akcyzowego oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.",
+        "Nawrocki przypomniał, że zawetował podobne przepisy w grudniu 2025 r . - Przekazałem szerokie uzasadnienie weta i projekt poprawiono w rządzie (...). Jednym z moich zasadniczych zastrzeżeń był brak wystarczającej gwarancji, że środki trafią wyłącznie na ochronę zdrowia , a nie będą kolejnym narzędziem do zasypywania dziury budżetowej ministra (finansów i gospodarki Andrzeja - red.) Domańskiego - powiedział prezydent.",
+        "Jak dodał, w nowej ustawie zagwarantowano, że pieniądze trafią do służby zdrowia i dlatego zdecydował się ją podpisać. - Alkohol nie jest zwykłym towarem. Alkohol szkodzi i dochody z jego sprzedaży muszą być wykorzystane w celu naprawy tych szkód - ocenił prezydent Nawrocki.",
+        "Na wino i pozostałe napoje fermentowane wzrośnie z 245 zł do 280,83 zł za hektolitr. Na wyroby pośrednie wzrośnie z 490 zł do 562,93 zł za hektolitr, a stawka akcyzy na cydr i perry o zawartości alkoholu do 5 proc. wzrośnie z 97 zł do 116,4 zł za hektolitr."
+      ]
+    },
+    {
+      "id": "makro-3-635edf",
+      "entity_tag": "PGE (GPW: PGE)",
+      "sector": "Energetyka",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Energetyka” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Wyzwania dla Europy i przyszłość polskiego przemysłu. Polska Moc Biznesu 2026",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "18:16",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/wyzwania-dla-europy-i-przyszlosc-polskiego-przemyslu-polska-moc-biznesu-2026/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/8m/8m7mh947uwr936s86njp1igh6ebuiywc.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
+      "lead_story": false,
+      "summary_points": [
+        "Przyszłość europejskiej gospodarki, bezpieczeństwo, energetyka i nowe technologie zdominowały VI Kongres Społeczno-Gospodarczy Polska Moc Biznesu.",
+        "Wśród najważniejszych tematów znalazły się konkurencyjność Europy, transformacja energetyczna, sztuczna inteligencja oraz rozwój polskiego przemysłu.",
+        "Wydarzenie odbyło się na PGE Narodowym w Warszawie, a jego program obejmował ponad 50 debat."
+      ],
+      "extended_paragraphs": [
+        "Przyszłość europejskiej gospodarki, bezpieczeństwo, energetyka i nowe technologie zdominowały VI Kongres Społeczno-Gospodarczy Polska Moc Biznesu. Wśród najważniejszych tematów znalazły się konkurencyjność Europy, transformacja energetyczna, sztuczna inteligencja oraz rozwój polskiego przemysłu. Wydarzenie odbyło się na PGE Narodowym w Warszawie, a jego program obejmował ponad 50 debat.",
+        "Europa, zdaniem José Manuela Barroso, byłego przewodniczącego Komisji Europejskiej, przegrywa ze Stanami Zjednoczonymi nie tylko pod względem tempa rozwoju technologii i inwestycji, ale również zdolności do podejmowania szybkich decyzji. Bez pogłębienia współpracy i wykorzystania potencjału wspólnego rynku Unia Europejska będzie miała coraz większe trudności z konkurowaniem z największymi światowymi gospodarkami. Były premier Portugalii mówił o tym podczas sesji otwierającej obrady VI Kongresu Polska Moc Biznesu.",
+        "- Musimy zrozumieć, że najlepszym sposobem obrony naszych interesów i wartości jest działanie na skalę europejską. Jaką siłę oddziaływania miałyby samodzielnie Polska czy Portugalia? - mówił José Manuel Barroso.",
+        "Były szef Komisji Europejskiej wskazywał, że przewaga gospodarcza Stanów Zjednoczonych wynika nie tylko z większej dostępności kapitału, ale również z podejścia do inwestycji i podejmowania ryzyka. - Amerykanie mają kulturę wzrostu, są bardziej skłonni do podejmowania ryzyka, dysponują odpowiednią skalą i zintegrowanym rynkiem. To wyjaśnia, dlaczego w niektórych obszarach radzą sobie znacznie lepiej od nas - podkreślał.",
+        "Barroso zwrócił także uwagę na ograniczenia wynikające ze sposobu funkcjonowania Unii Europejskiej. Jego zdaniem konieczność uzgadniania decyzji między 27 państwami sprawia, że Europa częściej reaguje na zmiany w światowej gospodarce, niż sama je inicjuje."
+      ]
+    },
+    {
+      "id": "makro-6-306ebd",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
@@ -1231,7 +1298,7 @@
         "3,7%",
         "1,9%"
       ],
-      "title": "Wyprzedaże akcji spółek technologicznych ciągną rynki w dół wraz ze spadkiem akcji Anthropic",
+      "title": "Wyprzedaż akcji spółek technologicznych ciągnie rynki w dół wraz ze spadkiem akcji Anthropic",
       "original_title": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "is_foreign": true,
       "lang": "EN",
@@ -1251,11 +1318,80 @@
         "Akcje Anthropic spadły z powrotem do swojej ceny początkowej po gwałtownym pierwszym dniu na giełdzie, w miarę jak szersza wyprzedaż technologii pociągnęła rynki w dół.",
         "Wyprzedaż następuje w związku z utrzymującymi się obawami dotyczącymi szybkości i wielkości inwestycji w sztuczną inteligencję, ale także w związku z tym, że niektóre duże firmy, w tym Nvidia i SpaceX, stanęły w obliczu konkretnych problemów, które niepokoiły inwestorów.",
         "Łącznie te presje wywierały wpływ na rynki amerykańskie przez cały piątek, a wszystkie kluczowe indeksy w USA gwałtownie spadły w ciągu dnia, pogłębiając wcześniejsze spadki w ciągu tygodnia.",
-        "Zarówno S&P 500, jak i Dow Jones Industrial Average znalazły się na obszarze korekty, do punktu, w którym ich notowania spadły o 10% lub więcej w stosunku do niedawnego maksimum."
+        "Zarówno S&P 500, jak i Dow Jones Industrial Average zepchnęły się na obszar korekty, do punktu, w którym ich notowania spadły o 10% lub więcej w stosunku do niedawnego maksimum."
       ]
     },
     {
-      "id": "makro-3-d4c083",
+      "id": "makro-2-cf53bf",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” (kluczowe liczby: 13%, 5%) — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [
+        "13%",
+        "5%"
+      ],
+      "title": "Pracodawcy proszeni są o wyrażenie opinii na temat rozmowy kwalifikacyjnej – oto, czego oczekują kandydaci",
+      "original_title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:04",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Ludzie mówią, że często nie otrzymują żadnej odpowiedzi po złożeniu wniosku o pracę.",
+        "Czy jednak można zmusić pracodawców do udzielenia odpowiedzi każdemu kandydatowi?",
+        "Źródło zdjęcia, dostarczony podpis pod zdjęciem, Ffion, Yugraj i Jessica twierdzą, że bycie duchem stało się powszechną częścią ubiegania się o pracę Czy kiedykolwiek ubiegałeś się o pracę lub byłeś na rozmowie kwalifikacyjnej i nie usłyszałeś żadnej odpowiedzi od pracodawcy?"
+      ],
+      "extended_paragraphs": [
+        "Ludzie mówią, że często nie otrzymują żadnej odpowiedzi po złożeniu wniosku o pracę. Czy jednak można zmusić pracodawców do udzielenia odpowiedzi każdemu kandydatowi?",
+        "Źródło zdjęcia, dostarczony podpis pod zdjęciem, Ffion, Yugraj i Jessica twierdzą, że bycie duchem stało się powszechną częścią ubiegania się o pracę",
+        "Czy kiedykolwiek ubiegałeś się o pracę lub byłeś na rozmowie kwalifikacyjnej i nie usłyszałeś żadnej odpowiedzi od pracodawcy?",
+        "Tak zwany „job Ghosting” stał się poważnym problemem dla osób poszukujących pracy w Wielkiej Brytanii, powodując „demoralizację”, podważając ich pewność siebie i podważając ich nadzieje na znalezienie pracy.",
+        "Jest to kwestia poruszona w tym tygodniu w ważnym przeglądzie byłego ministra Alana Milburna dotyczącym młodych ludzi, którzy nie pracują, nie kształcą się ani nie szkolą – nazywanych Neets."
+      ]
+    },
+    {
+      "id": "makro-4-47e9db",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) (kluczowe liczby: 36%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "36%"
+      ],
+      "title": "Czy sztuczna inteligencja naprawdę może pomóc wykryć oferty z okazji Czarnego Piątku? Poddaliśmy to próbie",
+      "original_title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:06",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Przetestowaliśmy cztery modele AI, aby sprawdzić, czy pozwolą nam zaoszczędzić pieniądze na nowym telewizorze.",
+        "Sprzedawcy obiecują okazje, ale sama liczba ofert może sprawić, że nie będziemy bliżej znalezienia najlepszej oferty.",
+        "Jest to obszar, w którym produkty generatywnej sztucznej inteligencji, takie jak ChatGPT, Claude i Gemini, obiecały pomóc."
+      ],
+      "extended_paragraphs": [
+        "Przetestowaliśmy cztery modele AI, aby sprawdzić, czy pozwolą nam zaoszczędzić pieniądze na nowym telewizorze.",
+        "Sprzedawcy obiecują okazje, ale sama liczba ofert może sprawić, że nie będziemy bliżej znalezienia najlepszej oferty.",
+        "Jest to obszar, w którym produkty generatywnej sztucznej inteligencji, takie jak ChatGPT, Claude i Gemini, obiecały pomóc.",
+        "Ale czy są dobrzy w znajdowaniu ofert na Czarny Piątek? Sami wybraliśmy się na tydzień przed tym wielkim dniem.",
+        "Z niedawnego badania YouGov przeprowadzonego w 19 krajach wynika, że ​​Wielka Brytania zajmuje drugie od końca miejsce pod względem odsetka osób, które stwierdziły, że korzystały ze sztucznej inteligencji przy robieniu zakupów."
+      ]
+    },
+    {
+      "id": "makro-7-d4c083",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1276,52 +1412,54 @@
       "summary_points": [
         "Umowa handlowa raczej nie obniży cen żywności dla kupujących, ale powinna pobudzić gospodarkę bardziej niż inne umowy po brexicie.",
         "W innym świecie Andy Burnham bardzo chciałby, aby supermarkety w całym kraju wyraźnie ogłosiły, że mogą obniżyć ceny żywności w wyniku najnowszego porozumienia w sprawie eksportu żywności.",
-        "I chociaż sklepy spożywcze z dużym zadowoleniem przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia."
+        "I chociaż sklepy spożywcze bardzo przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia."
       ],
       "extended_paragraphs": [
         "Umowa handlowa raczej nie obniży cen żywności dla kupujących, ale powinna pobudzić gospodarkę bardziej niż inne umowy po brexicie.",
         "W innym świecie Andy Burnham bardzo chciałby, aby supermarkety w całym kraju wyraźnie ogłosiły, że mogą obniżyć ceny żywności w wyniku najnowszego porozumienia w sprawie eksportu żywności.",
-        "I chociaż sklepy spożywcze z dużym zadowoleniem przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia.",
-        "Dyrektor zarządzający M&S, Alex Freudmann, nazwał tę transakcję „ważnym krokiem naprzód”, twierdząc, że usunie ona biurokrację. Dyrektor naczelny Tesco, Ken Murphy, dodał, że to „dobra wiadomość dla brytyjskich rolników i producentów”.",
+        "I chociaż sklepy spożywcze bardzo przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia.",
+        "Dyrektor zarządzający M&S, Alex Freudmann, nazwał transakcję „ważnym krokiem naprzód”, twierdząc, że usunie ona biurokrację. Dyrektor naczelny Tesco, Ken Murphy, dodał, że to „dobra wiadomość dla brytyjskich rolników i producentów”.",
         "Freudmann podkreślił pewne problemy, które szkodzą handlowi między Wielką Brytanią a UE, podając przykład, że „dostarczenie naszego spaghetti bolońskiego z Lincolnshire na półkę w Dublinie wymaga pokonywania setek dodatkowych mil, gór papierkowej roboty, podpisu weterynarza, a nawet łacińskiego imienia krowy”."
-      ]
-    },
-    {
-      "id": "makro-4-0f0fee",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Big Tech” (Alphabet (NASDAQ: GOOGL)) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Trump grozi zakazem amerykańskim firmom budowania centrów danych AI za granicą",
-      "original_title": "Trump threatens ban on US firms building AI data centres overseas",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:54",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Prezydent USA nie podał zbyt wielu szczegółów na temat potencjalnej polityki, twierdząc, że inni członkowie jego zespołu słyszą o niej po raz pierwszy.",
-        "Podpis pod rysunkiem Trump twierdzi, że nie pozwoli amerykańskim firmom budować centrów danych „poza” Stanami Zjednoczonymi Donald Trump powiedział, że zabroni amerykańskim firmom budowania centrów danych AI za granicą, grożąc „ogromnym podatkiem” dla firm technologicznych, które to robią.",
-        "„Zatrzymamy to wszystko w tym kraju” – powiedział amerykański prezydent, podając niewiele szczegółów na temat potencjalnej polityki, o której, jak powiedział, inni członkowie jego gabinetu słyszeli po raz pierwszy."
-      ],
-      "extended_paragraphs": [
-        "Prezydent USA nie podał zbyt wielu szczegółów na temat potencjalnej polityki, twierdząc, że inni członkowie jego zespołu słyszą o niej po raz pierwszy.",
-        "Podpis pod rysunkiem Trump twierdzi, że nie pozwoli amerykańskim firmom budować centrów danych „poza” Stanami Zjednoczonymi",
-        "Donald Trump powiedział, że zabroni amerykańskim firmom budowania centrów danych AI za granicą, grożąc „ogromnym podatkiem” dla firm technologicznych, które to robią.",
-        "„Zatrzymamy to wszystko w tym kraju” – powiedział amerykański prezydent, podając niewiele szczegółów na temat potencjalnej polityki, o której, jak powiedział, inni członkowie jego gabinetu słyszeli po raz pierwszy.",
-        "Centra danych były głównym tematem wyborów śródokresowych, które odbyły się na początku listopada, a wielu kandydatów Demokratów obiecało zaostrzenie przepisów dotyczących ich budowy."
       ]
     }
   ],
   "tech": [
     {
-      "id": "tech-1-6fadbb",
+      "id": "tech-1-dd6dbe",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 1,2 miliarda) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "1,2 miliarda"
+      ],
+      "title": "Supersamochody już im nie wystarczają. Policja w Dubaju dostała motocykl o mocy 218 KM",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/dubaj-policja-supermotocykl-bmw-m-1000-rr",
+      "image_url": "https://konto.chip.pl/uploads/2025/04/dubaj-zjednoczone-emiraty-arabskie-ai.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": true,
+      "summary_points": [
+        "Po co policjantowi motocykl, który potrafi przekroczyć 300 km/h, ma aerodynamiczne skrzydełka i silnik rozwijający pełną moc dopiero przy 14500 obr./min?",
+        "Przecież podczas zwykłego patrolu znacznie większe znaczenie mają zwrotność, wygoda i możliwość przewożenia wyposażenia niż osiągi rodem z toru wyścigowego.",
+        "Tym bardziej trudno mi zrozumieć, dlaczego ktoś miałby wybrać rasowego superbike’a do codziennej służby, […] powrót Tech Testy Moto Nauka Publicystyka sztuczna inteligencja dubaj Chcesz czytać więcej treści jak „ Supersamochody już im nie wystarczają."
+      ],
+      "extended_paragraphs": [
+        "Po co policjantowi motocykl, który potrafi przekroczyć 300 km/h, ma aerodynamiczne skrzydełka i silnik rozwijający pełną moc dopiero przy 14500 obr./min? Przecież podczas zwykłego patrolu znacznie większe znaczenie mają zwrotność, wygoda i możliwość przewożenia wyposażenia niż osiągi rodem z toru wyścigowego. Tym bardziej trudno mi zrozumieć, dlaczego ktoś miałby wybrać rasowego superbike’a do codziennej służby, […]",
+        "powrót Tech Testy Moto Nauka Publicystyka sztuczna inteligencja dubaj Chcesz czytać więcej treści jak „ Supersamochody już im nie wystarczają. Policja w Dubaju dostała motocykl o mocy 218 KM \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Najlepszym przykładem jest Dubaj, gdzie policja od dawna dysponuje samochodami, które większość z nas kojarzy raczej z kolekcjami milionerów. Rolls-Royce Cullinan, Porsche 918 Spyder czy Ferrari FF już nikogo tam specjalnie nie dziwią, więc miejscowi funkcjonariusze postanowili poszerzyć flotę o coś na dwóch kołach. Wybór padł na BMW M 1000 RR, czyli jeden z najbardziej ekstremalnych motocykli dopuszczonych do ruchu drogowego. Maszyna dołączyła do policyjnej floty 16 listopada 2026 roku, więc teraz nasuwa się najważniejsze pytanie – po co?",
+        "BMW M 1000 RR jest drogowym superbike’em, który czerpie garściami z technologii wykorzystywanych w wyścigach WorldSBK. Jego czterocylindrowy silnik o pojemności 999 cm³ korzysta z systemu zmiennych faz rozrządu ShiftCam i generuje 218 KM przy 14500 obr./min oraz 113 Nm momentu obrotowego. Producent deklaruje przyspieszenie do 100 km/h w 3,1 sekundy i prędkość maksymalną na poziomie 314 km/h, a to wszystko przy masie gotowego do jazdy motocykla wynoszącej 194 kg. Innymi słowy, mamy do czynienia z maszyną, której możliwości większość kierowców wykorzysta wyłącznie na torze.",
+        "Czytaj też: Elektryczne motocykle nie mają szans z benzyniakami? 1,2 miliarda mówi coś innego",
+        "Sporo mówi o niej również wyposażenie. Aerodynamiczne skrzydełka zwiększają docisk przedniego koła przy wysokich prędkościach, ograniczając tendencję do jego unoszenia, a zaawansowane systemy elektroniczne pomagają kontrolować potężną moc silnika. Dochodzą do tego hamulce M, tytanowy układ wydechowy i rozwiązania ograniczające masę. Swoją drogą, niedawno pisałem o BMW M 1000 RS , które również rozwija 218 KM, ale ma nieco bardziej drogową charakterystykę i bardziej pasuje do ulicznego ruchu. Tymczasem M 1000 RR pozostaje konstrukcją nastawioną przede wszystkim na możliwie najlepsze osiągi."
+      ]
+    },
+    {
+      "id": "tech-3-81af19",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "HIGH",
@@ -1329,61 +1467,27 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Tajemnicze przejście plazmy już nie będzie stało nam na drodze do źródła nieograniczonej energii",
+      "title": "Impulsy laserowe rozstrzygają wieloletni spór w fizyce miedziowców. Pseudoprzerwa rywalizuje z nadprzewodnictwem",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:55",
+      "time": "08:44",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/przejscie-plazmy-fuzja-jadrowa-tokamak",
-      "image_url": "https://konto.chip.pl/uploads/2023/07/fuzja-jadrowa-1600x900.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": true,
-      "summary_points": [
-        "Fuzja jądrowa od lat stanowi jedną z najbardziej obiecujących technologii przyszłej energetyki.",
-        "Proces ten polega na łączeniu lekkich jąder atomowych w cięższe, czemu towarzyszy uwalnianie dużych ilości energii.",
-        "Aby jednak wykorzystać go na Ziemi, konieczne jest stworzenie i utrzymanie plazmy o ekstremalnie wysokiej temperaturze."
-      ],
-      "extended_paragraphs": [
-        "Fuzja jądrowa od lat stanowi jedną z najbardziej obiecujących technologii przyszłej energetyki. Proces ten polega na łączeniu lekkich jąder atomowych w cięższe, czemu towarzyszy uwalnianie dużych ilości energii. Aby jednak wykorzystać go na Ziemi, konieczne jest stworzenie i utrzymanie plazmy o ekstremalnie wysokiej temperaturze. Jednym z największych wyzwań pozostaje ograniczenie strat energii powodowanych przez turbulencje. […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google A tak się składa, że badacze z Politechniki Federalnej w Lozannie opracowali teorię, która wyjaśnia mechanizm nagłego przejścia plazmy w stan wysokiego uwięzienia energii. To z kolei pozwala lepiej przewidywać moc grzewczą potrzebną do uzyskania tego stanu w reaktorach fuzyjnych. Model wyjaśnia nawet, dlaczego znaczenie dla tego procesu mają gęstość plazmy i kierunek pola magnetycznego.",
-        "Czytaj też: Tytan zwiększył wydajność materiału 250 razy. Teraz dostarczy energii elektrycznej",
-        "To istotne, ponieważ do prowadzenia fuzji wykorzystuje się między innymi tokamaki, czyli urządzenia, w których plazma podlega kontroli za pomocą silnych pól magnetycznych wewnątrz komory o kształcie torusa. W 1982 roku badacze zaobserwowali zjawisko, które stało się jednym z kluczowych elementów współczesnych badań nad fuzją. Okazało się, że po przekroczeniu określonej wartości mocy grzewczej plazma może gwałtownie zmienić swoje właściwości. Turbulencje w jej zewnętrznych obszarach wyraźnie słabną, a straty ciepła maleją. W rezultacie plazma znacznie skuteczniej zatrzymuje energię.",
-        "Zjawisko nazwano przejściem z trybu niskiego uwięzienia energii do trybu wysokiego uwięzienia. Ten drugi stan ma fundamentalne znaczenie dla przyszłych elektrowni fuzyjnych, ponieważ umożliwia uzyskanie znacznie lepszych parametrów pracy reaktora. Mimo wieloletnich badań naukowcom nie udało się jednak stworzyć teorii, która jednocześnie wyjaśniałaby wszystkie obserwowane zależności. Szczególnie problematyczny był wpływ gęstości plazmy oraz kierunku pola magnetycznego na moc niezbędną do wywołania przejścia."
-      ]
-    },
-    {
-      "id": "tech-3-290cc0",
-      "entity_tag": "Złoto (XAU/USD)",
-      "sector": "Surowce Szlachetne",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Złoto (XAU/USD) (Surowce Szlachetne) (kluczowe liczby: 80 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "80 miliardów dolarów"
-      ],
-      "title": "Chińczycy odkryli u siebie żyłę złota, o której nie mieli pojęcia. Nowa podaż tego kruszcu może zmienić światowy rynek",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:58",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/chiny-nowe-zasoby-zlota-miliardy-dolarow",
-      "image_url": "https://konto.chip.pl/uploads/2024/04/zloto.jpg",
+      "source_url": "https://www.chip.pl/2026/11/impulsy-laserowe-rozstrzygaja-wieloletni-spor-w-fizyce-miedziowcow-pseudoprzerwa-rywalizuje-z-nadprzewodnictwem",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/miedziowce.avif",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Chińscy geolodzy poinformowali o serii spektakularnych odkryć dotyczących złóż złota, których łączna wartość jest liczona w miliardach dolarów.",
-        "Największe z nich znajduje się w prowincji Hunan, choć nie należy zapominać o innych pokładach, zidentyfikowanych chociażby na półwyspie Jiaodong w prowincji Szantung.",
-        "Chiny od lat należą do najważniejszych graczy na światowym rynku złota."
+        "Zrozumienie mikroskopowych mechanizmów rządzących nadprzewodnictwem w materiałach miedziowo-tlenowych (kupratach) stanowi od dziesięcioleci jeden z najważniejszych celów fizyki materii skondensowanej, otwierający perspektywę bezstratnego przesyłu energii w sieciach elektroenergetycznych, miniaturyzacji układów kwantowych oraz postępu w zaawansowanej diagnostyce medycznej.",
+        "W klasycznym metalu prąd płynie na poziomie energii Fermiego, natomiast w nadprzewodniku nośniki ładunku łączą się w pary Coopera, otwierając w widmie energetycznym symetryczną przerwę o identycznych właściwościach po obu stronach.",
+        "Główną osią trwającego od lat sporu teoretycznego pozostawała jednak natura tzw.pseudoprzerwy ( pseudogap ) – częściowej, asymetrycznej przerwy energetycznej obserwowanej w temperaturach zbyt wysokich dla pojawienia się bezoporowego przepływu prądu."
       ],
       "extended_paragraphs": [
-        "Chińscy geolodzy poinformowali o serii spektakularnych odkryć dotyczących złóż złota, których łączna wartość jest liczona w miliardach dolarów. Największe z nich znajduje się w prowincji Hunan, choć nie należy zapominać o innych pokładach, zidentyfikowanych chociażby na półwyspie Jiaodong w prowincji Szantung. Chiny od lat należą do najważniejszych graczy na światowym rynku złota. Państwo Środka jest […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Chińczycy odkryli u siebie żyłę złota, o której nie mieli pojęcia. Nowa podaż tego kruszcu może zmienić światowy rynek \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Chiny od lat należą do najważniejszych graczy na światowym rynku złota. Państwo Środka jest zarówno największym producentem, jak i jednym z największych konsumentów tego metalu. Rosnące zapotrzebowanie na kruszec, wykorzystywany między innymi w jubilerstwie, elektronice i rezerwach banków centralnych, sprawia, że kraj intensyfikuje poszukiwania nowych zasobów.",
-        "Czytaj też: Chińczycy odkryli ogromne złoże na głębokości niemal 6 kilometrów. Ogłosili przełom w poszukiwaniach w Zatoce Pohaj",
-        "Ostatnie doniesienia jasno pokazują, iż tamtejsi geolodzy zidentyfikowali kilka dużych złóż, które mogą należeć do najważniejszych odkryć geologicznych XXI wieku. Największe zainteresowanie wzbudza Wangu, położone w prowincji Hunan. Pierwsze informacje o odkryciu pojawiły się w 2024 roku, kiedy to badacze zidentyfikowali ponad 40 żył złotonośnych znajdujących się na głębokości do około 2000 metrów. Wstępne rozpoznanie wykazało zasoby szacowane na około 300 ton złota. Wykorzystanie modelowania geologicznego 3D pozwoliło naukowcom przewidzieć, że mineralizacja może rozciągać się znacznie głębiej, nawet do 3000 metrów. W takim przypadku całkowita ilość złota w złożu mogłaby przekroczyć 1000 ton.",
-        "Szczególną uwagę zwracają wyniki analiz próbek skalnych. W niektórych z nich naukowcy wykryli koncentrację dochodzącą do 138 gramów złota na tonę urobku. To wyjątkowo wysoka wartość, zwłaszcza że w wielu podziemnych kopalniach eksploatuje się złoża o zawartości zaledwie kilku gramów złota na tonę skały. Kwestią sporną pozostaje to, jaka część złoża będzie nadawała się do wydobycia."
+        "Zrozumienie mikroskopowych mechanizmów rządzących nadprzewodnictwem w materiałach miedziowo-tlenowych (kupratach) stanowi od dziesięcioleci jeden z najważniejszych celów fizyki materii skondensowanej, otwierający perspektywę bezstratnego przesyłu energii w sieciach elektroenergetycznych, miniaturyzacji układów kwantowych oraz postępu w zaawansowanej diagnostyce medycznej. Odkryte w 1986 roku i uhonorowane Nagrodą Nobla już w kolejnym roku kupraty wykazują zerowy opór elektryczny w temperaturach stosunkowo wysokich jak […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Badany w najnowszym eksperymencie kryształ na bazie bizmutu przechodzi w stan nadprzewodzący poniżej około –182°C. W klasycznym metalu prąd płynie na poziomie energii Fermiego, natomiast w nadprzewodniku nośniki ładunku łączą się w pary Coopera, otwierając w widmie energetycznym symetryczną przerwę o identycznych właściwościach po obu stronach.",
+        "Główną osią trwającego od lat sporu teoretycznego pozostawała jednak natura tzw.pseudoprzerwy ( pseudogap ) – częściowej, asymetrycznej przerwy energetycznej obserwowanej w temperaturach zbyt wysokich dla pojawienia się bezoporowego przepływu prądu.",
+        "Odpowiedź na pytanie o relację między tymi dwoma stanami przyniosła praca opublikowana na łamach prestiżowego czasopisma Nature Physics przez międzynarodowy zespół pod kierunkiem prof. Fabio Boschiniego z Institut National de la Recherche Scientifique (INRS) w Varennes koło Montrealu, kierownika laboratorium i posiadacza Canada Research Chair w dziedzinie dynamiki materiałów kwantowych, którego pierwszym autorem jest doktorant Dario Armanno.",
+        "Naukowcy zastosowali ultrakrótki impuls promieniowania podczerwonego, aby precyzyjnie rozbić pary elektronowe niosące superprąd w krysztale schłodzonym do około –263°C. Taki zabieg pozwolił na natychmiastowe,optyczne wyłączenie nadprzewodnictwa na zaledwie jedną bilionową część sekundy (pikosekundę), bez konieczności termicznego podgrzewania całej sieci krystalicznej powyżej punktu krytycznego, w którym stan ten samoistnie zanika."
       ]
     },
     {
@@ -1451,6 +1555,38 @@
       ]
     },
     {
+      "id": "tech-5-082e53",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Uran i Neptun źródłem dziwnej anomalii. Co kryje się we wnętrzu lodowych olbrzymów?",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:53",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/uran-i-neptun-anomalia-pola-magnetyczne",
+      "image_url": "https://konto.chip.pl/uploads/2023/03/sonda-voyager.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Pola magnetyczne Urana i Neptuna od dziesięcioleci stanowią zagadkę dla astronomów.",
+        "W przeciwieństwie do Ziemi, której pole magnetyczne przypomina stosunkowo regularny wykres, oba lodowe olbrzymy mają silnie pochylone i nieregularne struktury magnetyczne.",
+        "Nowe badania naukowców z Uniwersytetu Teksańskiego w Austin sugerują, co może odpowiadać za tę osobliwość."
+      ],
+      "extended_paragraphs": [
+        "Pola magnetyczne Urana i Neptuna od dziesięcioleci stanowią zagadkę dla astronomów. W przeciwieństwie do Ziemi, której pole magnetyczne przypomina stosunkowo regularny wykres, oba lodowe olbrzymy mają silnie pochylone i nieregularne struktury magnetyczne. Nowe badania naukowców z Uniwersytetu Teksańskiego w Austin sugerują, co może odpowiadać za tę osobliwość. Tytułowa zagadka sięga lat 80. XX wieku, kiedy […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Uran i Neptun źródłem dziwnej anomalii. Co kryje się we wnętrzu lodowych olbrzymów? \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Tytułowa zagadka sięga lat 80. XX wieku, kiedy sonda Voyager 2 przeleciała w pobliżu dwóch najdalszych planet Układu Słonecznego. W 1986 roku odwiedziła Urana, a trzy lata później dotarła do Neptuna. Zebrane dane ujawniły, że ich pola magnetyczne znacząco różnią się od wszystkiego, co wcześniej obserwowano w przypadku planet.",
+        "Na Ziemi oś głównego pola magnetycznego jest nachylona o około 11 stopni względem osi obrotu planety. W przypadku Urana wartość ta wynosi aż 59 stopni, natomiast u Neptuna około 47 stopni. Jeszcze bardziej zaskakujący jest fakt, że pola obu planet nie mają regularnego, dwubiegunowego charakteru. Są znacznie bardziej skomplikowane i niesymetryczne.",
+        "Czytaj też: Hera dotarła do odległych planetoid. Pierwsze zdjęcia zszokowały członków misji",
+        "Zacznijmy jednak od podstaw. Pola magnetyczne planet powstają dzięki procesowi nazywanemu dynamem. Polega on na ruchu elektrycznie przewodzących płynów we wnętrzu ciała niebieskiego. Przemieszczająca się materia generuje prądy elektryczne, które z kolei wytwarzają pole magnetyczne. Na Ziemi proces ten zachodzi przede wszystkim w płynnym jądrze zbudowanym głównie z żelaza. Uran i Neptun mają jednak zupełnie inną budowę. Ich wnętrza zawierają znaczne ilości wody, amoniaku i metanu, a także wodoru, helu oraz materiału skalnego. Dokładny skład tych planet wciąż pozostaje nieznany. Naukowcy podejrzewają, że panujące w ich głębi ekstremalne ciśnienie i temperatura mogą całkowicie zmieniać właściwości znajdujących się tam substancji."
+      ]
+    },
+    {
       "id": "tech-2-015490",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
@@ -1483,65 +1619,35 @@
       ]
     },
     {
-      "id": "tech-5-88dd2b",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
+      "id": "tech-7-cd77ea",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Microsoft (NASDAQ: MSFT) (Chmura & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Ukryta międzywarstwa w chiralnych antyferromagnetykach. Fizycy wyjaśniają anomalie w materiale przyszłości",
+      "title": "Windows 11 pożegna jeden z najbardziej irytujących błędów audio",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/ukryta-miedzywarstwa-w-chiralnych-antyferromagnetykach-fizycy-wyjasniaja-anomalie-w-materiale-przyszlosci",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/ultrakrotkie-impulsy-laserowe.jpeg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Współczesna spintronika upatruje przełomu w materiałach antyferromagnetycznych, które łączą całkowitą odporność na zewnętrzne zakłócenia elektromagnetyczne z brakiem niepożądanych, rozproszonych pól magnetycznych.",
-        "Na zewnątrz sprawiają one wrażenie niemagnetycznych, ponieważ momenty magnetyczne (spiny) sąsiadujących atomów znoszą się wzajemnie, jednak wewnątrz kryją potężny potencjał aplikacyjny: potrafią przełączać stany kwantowe nawet 1000 razy szybciej niż konwencjonalne ferromagnesy.",
-        "Szczególnie obiecujący pod tym względem jest chiralny związek […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Ukryta międzywarstwa w chiralnych antyferromagnetykach."
-      ],
-      "extended_paragraphs": [
-        "Współczesna spintronika upatruje przełomu w materiałach antyferromagnetycznych, które łączą całkowitą odporność na zewnętrzne zakłócenia elektromagnetyczne z brakiem niepożądanych, rozproszonych pól magnetycznych. Na zewnątrz sprawiają one wrażenie niemagnetycznych, ponieważ momenty magnetyczne (spiny) sąsiadujących atomów znoszą się wzajemnie, jednak wewnątrz kryją potężny potencjał aplikacyjny: potrafią przełączać stany kwantowe nawet 1000 razy szybciej niż konwencjonalne ferromagnesy. Szczególnie obiecujący pod tym względem jest chiralny związek […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Ukryta międzywarstwa w chiralnych antyferromagnetykach. Fizycy wyjaśniają anomalie w materiale przyszłości \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Szczególnie obiecujący pod tym względem jest chiralny związek manganu i cyny (Mn3Sn), w którym spiny atomowe są obrócone względem siebie o 120 stopni, tworząc strukturę niemożliwą do nałożenia na swoje lustrzane odbicie. Ta specyficzna konfiguracja pozwala na generowanie unikalnych zjawisk magnetooptycznych, blokowania spin-pęd oraz wydajną konwersję prądów spinowych na sygnały elektryczne, co czyni Mn3Sn idealnym budulcem ultraszybkiej, energooszczędnej elektroniki nowej generacji.",
-        "Mimo tych teoretycznych zalet, praktyczne badania nad Mn 3 Sn Mn3Sn napotykały dotychczas trudne do wyjaśnienia bariery metrologiczne, uniemożliwiające precyzyjne określenie rzeczywistych właściwości transportowych materiału. Jak wynika z pracy opublikowanej na łamach prestiżowego czasopisma Advanced Materials , źródło tych anomalii zidentyfikowali naukowcy z Martin-Luther-Universität Halle-Wittenberg (MLU) oraz Instytutu Fizyki Mikrostruktury Maxa Plancka, działający w ramach klastra doskonałości Center for Chiral Electronics.",
-        "Zespół odkrył, że dotychczasowe pomiary laboratoryjne były fałszowane przez obecność niezamierzonej, ukrytej fazy granicznej o właściwościach ferromagnetycznych, której sygnał magnetyczny okazywał się ponad 100 razy silniejszy niż właściwa odpowiedź badanego antyferromagnetyka.",
-        "Do wykrycia artefaktu doszło podczas eksperymentów z wykorzystaniem ultrakrótkich impulsów laserowych, którymi badacze zamierzali rejestrować skoki napięcia generowane w warstwie Mn 3 Sn Mn3Sn o grubości zaledwie kilku nanometrów w skali bilionowych części sekundy (pikosekund). Próbki zestawiano z warstwami stopu platyny, niklu i żelaza, jednak układ pomiarowy z czystą platyną odmawiał poprawnego działania."
-      ]
-    },
-    {
-      "id": "tech-7-e719e5",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Pierwszy taki wyrok w Polsce: firma zapłaci za głos lektora podrobiony przez AI. Co to oznacza dla reklam, filmów na YouTube i dubbingu",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:00",
+      "time": "10:00",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/pierwszy-taki-wyrok-w-polsce-firma-zaplaci-za-glos-lektora-podrobiony-przez-ai-co-to-oznacza-dla-reklam-filmow-na-youtube-i-dubbingu",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/633348668_S.jpg",
+      "source_url": "https://antyweb.pl/windows-11-pozegna-jeden-z-najbardziej-irytujacych-bledow-audio",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/08/co-daje-przycisk-windows-na-klawiaturze-4.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Sąd w Warszawie wydał pierwszy w Polsce wyrok w sprawie głosu sklonowanego przez AI.",
-        "Jego konsekwencje mogą wykraczać daleko poza jedną reklamę.",
-        "Podobne ryzyko dotyczy twórców, którzy podkładają pod zarabiające filmy na YouTube głosy łudząco przypominające znanych lektorów, zwłaszcza że narzędzie platformy do wykrywania podobizny na razie rozpoznaje wyłącznie twarze, więc lektor, który trafi na swojego głosowego sobowtóra, musi sam zgłosić film albo pójść do sądu."
+        "Windows 11 jest pełen dziur i problemów.",
+        "Co jakiś czas Microsoft naprawia kilka z nich.",
+        "Teraz padło na irytujące zachowanie audio."
       ],
       "extended_paragraphs": [
-        "Sąd w Warszawie wydał pierwszy w Polsce wyrok w sprawie głosu sklonowanego przez AI. Jego konsekwencje mogą wykraczać daleko poza jedną reklamę.",
-        "Podobne ryzyko dotyczy twórców, którzy podkładają pod zarabiające filmy na YouTube głosy łudząco przypominające znanych lektorów, zwłaszcza że narzędzie platformy do wykrywania podobizny na razie rozpoznaje wyłącznie twarze, więc lektor, który trafi na swojego głosowego sobowtóra, musi sam zgłosić film albo pójść do sądu.",
-        "Z tej sprawy nasuwa się więc jeden konkretny wniosek. Sztuczna inteligencja może skopiować głos, ale nie powinna przejmować prawa do decydowania o tym, gdzie i w jakim celu zostanie on wykorzystany. W przeciwnym wypadku można naciąć się na konsekwencje prawne."
+        "Windows 11 jest pełen dziur i problemów. Co jakiś czas Microsoft naprawia kilka z nich. Teraz padło na irytujące zachowanie audio. W końcu pojawi się opcja, by nie przełączała się jakość dźwięku w trakcie pracy mikrofonu.",
+        "Jeżeli często słuchacie muzyki i korzystacie z internetowych komunikatorów głosowych, to pewnie jesteście świadomi tego, że czasem muzyka zacznie brzmieć, jakby ktoś włożył wam słuchawki do wiadra z wodą albo podczas wideokonferencji głos współpracownika zamienia się w telefon z lat 90. Nie jest to wina twoich drogich słuchawek. To jeden z najbardziej irytujących błędów Windowsa, z którym mierzymy się od lat. I wreszcie jest na to rozwiązanie.",
+        "Problem dotyczył wszystkich wersji systemu, począwszy od Windows 7 przez Windows 10 aż po Windows 11. Gdy tylko jakaś aplikacja zaczynała korzystać z mikrofonu, system przełączał słuchawki Bluetooth z profilu A2DP (wysokiej jakości dźwięk stereo) na profil Hands-Free (HFP), zaprojektowany głównie do rozmów. To sprawiało, że pojawiało się nagłe, zauważalne pogorszenie jakości dźwięku na cały czas aktywności mikrofonu. Słuchawki za kilkaset złotych brzmiały jak tanie zestawy słuchawkowe sprzed dwóch dekad.",
+        "Teraz Microsoft wziął się za naprawę tego stanu rzeczy. W najnowszej kompilacji testowej Windows 11 Insider pojawiła się opcja, która pozwala odtwarzać dźwięk w pełnym stereo 48 kHz nawet przy włączonym mikrofonie. W ustawieniach dźwięku znajdziemy nową pozycję: „2 kanały, 16 bitów, 48000 Hz” jako format wyjściowy przy aktywnym mikrofonie. Wystarczy ją wybrać, by cieszyć się pełną jakością dźwięku podczas rozmów, gier czy wpisywania głosem. Nowość trafi najpierw do testerów z programu Insider, a według zapowiedzi ma pojawić się na wszystkich obsługiwanych komputerach do marca 2027 roku.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Niestety, jest jeden haczyk. Nowe ustawienie nie zadziała ze wszystkimi słuchawkami. Potrzebny jest sprzęt obsługujący Bluetooth LE Audio oraz odtwarzanie 48 kHz, a komputer musi wspierać Super Wideband Stereo."
       ]
     },
     {
@@ -1581,7 +1687,39 @@
   ],
   "swiat": [
     {
-      "id": "swiat-1-52dd92",
+      "id": "swiat-3-227a82",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Atak czy prowokacja w obwodzie królewieckim? Rosja może pójść o krok dalej",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "09:05",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/doniesienia-o-eksplozjach-w-obwodzie-krolewieckim-mozliwa-prowokacja/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/9o/9oym8t2dx95115wmmz2jpky5ffy5e8g9.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": true,
+      "summary_points": [
+        "Kategorycznie odrzucamy pogłoski o naszym udziale w ataku w obwodzie królewieckim - oświadczył szef MSZ Litwy Kestutis Budrys.",
+        "Dodał, że Wilno nie zezwoliło na wykorzystanie przestrzeni powietrznej do nalotów.",
+        "Z kolei ukraiński ekspert Ołeksandr Kowałenko wyraził wątpliwości co do relacji ws. ataku."
+      ],
+      "extended_paragraphs": [
+        "Kategorycznie odrzucamy pogłoski o naszym udziale w ataku w obwodzie królewieckim - oświadczył szef MSZ Litwy Kestutis Budrys. Dodał, że Wilno nie zezwoliło na wykorzystanie przestrzeni powietrznej do nalotów. Z kolei ukraiński ekspert Ołeksandr Kowałenko wyraził wątpliwości co do relacji ws. ataku. Jego zdaniem incydent mógł być rosyjską prowokacją.",
+        "\"Kategorycznie odrzucamy pogłoski o naszym udziale w ataku w obwodzie królewieckim\" - oświadczył szef MSZ Litwy Kestutis Budrys. Dodał, że Wilno nie zezwoliło na wykorzystanie przestrzeni powietrznej do nalotów. Z kolei ukraiński ekspert Ołeksandr Kowałenko wyraził wątpliwości co do relacji ws. ataku. Jego zdaniem incydent mógł być rosyjską prowokacją.",
+        "Wypowiedź ministra spraw zagranicznych Litwy , zamieszczona w serwisie X, odnosiła się do domniemanego sobotniego ataku dronów na cele w obwodzie królewieckim .",
+        "Ukraiński kanał na Telegramie Exilenova+ (regularnie przedstawiający wiarygodne doniesienia o skutkach ukraińskich uderzeń w Rosji) przekazał, że w mieście portowym Bałtyjsk, w którym znajduje się baza Floty Bałtyckiej Federacji Rosyjskiej, zarejestrowano \"liczne eksplozje i odgłosy (ataków) dronów\".",
+        "Aleksiej Biesprozwannych, gubernator obwodu królewieckiego , poinformował w sobotę wieczorem o uruchomieniu systemu ostrzegania przed dronami w rejonie (powiecie) niemańskim na północy tego terytorium, przy granicy z Litwą. \"System zareagował na podejrzany obiekt nadlatujący z Litwy\" - napisał na Telegramie."
+      ]
+    },
+    {
+      "id": "swiat-1-4cd10b",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1589,31 +1727,63 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Zełenski twierdzi, że Most Krymski spotkał się z „uczciwą reakcją” na spotkaniu z brytyjskim Streetingiem",
-      "original_title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:17",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": true,
+      "title": "Atak na rosyjski statek w Zatoce Fińskiej. Nowe informacje Straży Przybrzeżnej",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:08",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/atak-na-rosyjski-statek-w-zatoce-finskiej-nowe-informacje-strazy-przybrzeznej/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/4d/4d6v8n7c5813j9n4b8vxta4arhd3yyv4.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
       "summary_points": [
-        "Prezydent Ukrainy twierdzi, że Kijów podjął działania po 109 odrębnych rosyjskich atakach powietrznych na mosty na Ukrainie.",
-        "Źródło zdjęcia, EPA/Shutterstock Tytuł zdjęcia Wes Streeting powiedział Wołodymyrowi Zełenskiemu, że był w Kijowie, aby pokazać, że Europa jest zjednoczona w swoim wsparciu dla Ukrainy Prezydent Ukrainy Wołodymyr Zełenski uzasadnił powtarzające się ataki Kijowa na krytyczny most łączący Rosję z okupowanym Krymem, nazywając je „uczciwą reakcją” na 109 odrębnych rosyjskich ataków na mosty na Ukrainie.",
-        "W komentarzach dla BBC w Kijowie Zełenski powiedział, że intensywne ataki Rosji na Ukrainę, które nastąpiły po strajkach na moście krymskim, były jedynie „sygnałem, że Władimir Putin nie chce przestać."
+        "Załoga statku Sparta II, który w sobotę został zaatakowany dronami w Zatoce Fińskiej, została ewakuowana - poinformowała Straż Przybrzeżna Finlandii.",
+        "Na jej pokładzie w momencie ataku znajdowało się 16 osób.",
+        "W akcji gaśniczej biorą udział fińskie, estońskie oraz rosyjskie jednostki."
       ],
       "extended_paragraphs": [
-        "Prezydent Ukrainy twierdzi, że Kijów podjął działania po 109 odrębnych rosyjskich atakach powietrznych na mosty na Ukrainie.",
-        "Źródło zdjęcia, EPA/Shutterstock Tytuł zdjęcia Wes Streeting powiedział Wołodymyrowi Zełenskiemu, że był w Kijowie, aby pokazać, że Europa jest zjednoczona w swoim wsparciu dla Ukrainy",
-        "Prezydent Ukrainy Wołodymyr Zełenski uzasadnił powtarzające się ataki Kijowa na krytyczny most łączący Rosję z okupowanym Krymem, nazywając je „uczciwą reakcją” na 109 odrębnych rosyjskich ataków na mosty na Ukrainie.",
-        "W komentarzach dla BBC w Kijowie Zełenski powiedział, że intensywne ataki Rosji na Ukrainę, które nastąpiły po strajkach na moście krymskim, były jedynie „sygnałem, że Władimir Putin nie chce przestać. Chce powodu do eskalacji”.",
-        "Odrzucił twierdzenie prezydenta Rosji, że most łączący Rosję z półwyspem, który Rosja nielegalnie zaanektowała od Ukrainy, był używany „wyłącznie cywilnie”."
+        "Załoga statku Sparta II, który w sobotę został zaatakowany dronami w Zatoce Fińskiej, została ewakuowana - poinformowała Straż Przybrzeżna Finlandii. Na jej pokładzie w momencie ataku znajdowało się 16 osób. W akcji gaśniczej biorą udział fińskie, estońskie oraz rosyjskie jednostki.",
+        "Na statku Sparta II płynącym w sobotę przez Zatokę Fińską z Petersburga do Bałtyjska w obwodzie królewieckim doszło do eksplozji i jednostka stanęła w płomieniach. Siły zbrojne Finlandii przekazały, że za uderzeniem w statek stoi prawdopodobnie Ukraina , która przeprowadziła powietrzny atak na rosyjskie cele nad Zatoką Fińską.",
+        "Według estońskiej Policji i Straży Granicznej (PPA) do wybuchu na pokładzie jednostki doszło, gdy znajdowała się ona w estońskiej strefie ekonomicznej , lecz w obszarze odpowiedzialności morskiego centrum ratowniczego w Petersburgu oraz na szlakach żeglugowych dostępnych dla statków międzynarodowych . Następnie trafiona jednostka dryfowała na północ, na wody fińskie.",
+        "Załoga statku została ewakuowana na inny rosyjski statek towarowy, który płynie w stronę Rosji. Akcja gaszenia pożaru na Sparcie II oraz zabezpieczenia obszaru przed możliwymi szkodami środowiskowymi przeprowadzana jest niedaleko Loviisa, kilkadziesiąt kilometrów na płd.-wsch. od Helsinek. Celem jest późniejsze odholowanie statku na rosyjskie wody. Służby są przygotowane także na możliwe zatonięcie jednostki.",
+        "- Nie mamy informacji co dokładnie jest na pokładzie statku , ale wiemy, że znajduje się tam, ładunek łatwopalny - powiedział dowódca marynarki wojennej Estonii, komandor Ivo Vark w rozmowie z telewizją ETV."
       ]
     },
     {
-      "id": "swiat-2-7fb36c",
+      "id": "swiat-2-46fe72",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Minister edukacji Korei Południowej podał się do dymisji w związku ze skandalem dotyczącym ściągania egzaminów",
+      "original_title": "South Korea education minister resigns over exam cheating scandal",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "09:20",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Choi Kyo-jin przyznaje, że podjęte w ostatniej chwili kroki mające na celu powstrzymanie oszustw wspomaganych sztuczną inteligencją podczas egzaminów wstępnych na studia spowodowały chaos.",
+        "Minister edukacji Korei Południowej Choi Kyo-jin złożył rezygnację ze stanowiska w związku ze skandalem związanym ze ściąganiem egzaminów, który wstrząsnął narodem.",
+        "Powiedział, że wziął na siebie pełną odpowiedzialność za zamieszanie spowodowane podjętymi w ostatniej chwili działaniami mającymi na celu powstrzymanie oszustw wspomaganych przez sztuczną inteligencję podczas czwartkowych corocznych egzaminów wstępnych na studia, znanych jako Suneung."
+      ],
+      "extended_paragraphs": [
+        "Choi Kyo-jin przyznaje, że podjęte w ostatniej chwili kroki mające na celu powstrzymanie oszustw wspomaganych sztuczną inteligencją podczas egzaminów wstępnych na studia spowodowały chaos.",
+        "Minister edukacji Korei Południowej Choi Kyo-jin złożył rezygnację ze stanowiska w związku ze skandalem związanym ze ściąganiem egzaminów, który wstrząsnął narodem.",
+        "Powiedział, że wziął na siebie pełną odpowiedzialność za zamieszanie spowodowane podjętymi w ostatniej chwili działaniami mającymi na celu powstrzymanie oszustw wspomaganych przez sztuczną inteligencję podczas czwartkowych corocznych egzaminów wstępnych na studia, znanych jako Suneung.",
+        "Tydzień temu królowa krajowego egzaminu z zakresu księgowości podatkowej przyznała się, że korzysta z miniaparatu, telefonu komórkowego i narzędzi AI. To skłoniło urzędników do pilnych działań w celu wykrycia ukrytych urządzeń, w tym do wysłania alertów alarmowych na każdy telefon komórkowy w kraju.",
+        "Ukończenie Suneung zajmuje do dziewięciu godzin i odgrywa dużą rolę w ścieżkach kariery milionów Koreańczyków z południa."
+      ]
+    },
+    {
+      "id": "swiat-4-7fb36c",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1634,50 +1804,50 @@
       "summary_points": [
         "Fińskie siły obronne twierdzą, że za atakiem dronów na statek prawdopodobnie stała Ukraina.",
         "Źródło zdjęcia, fińska straż graniczna Tytuł zdjęcia, Fińska Straż Graniczna dowodzi operacjami z udziałem Sparty II Rosyjski statek towarowy płynący do bałtyckiej eksklawy Kaliningrad został trafiony atakiem dronów we wschodniej części Zatoki Fińskiej – twierdzą władze rosyjskie i fińskie.",
-        "Statek Sparta II zapalił się po strajku w sobotę rano, zanim wpłynął na fińskie wody."
+        "Statek Sparta II zapalił się po strajku w sobotę rano, a następnie wpłynął na fińskie wody."
       ],
       "extended_paragraphs": [
         "Fińskie siły obronne twierdzą, że za atakiem dronów na statek prawdopodobnie stała Ukraina.",
         "Źródło zdjęcia, fińska straż graniczna Tytuł zdjęcia, Fińska Straż Graniczna dowodzi operacjami z udziałem Sparty II",
         "Rosyjski statek towarowy płynący do bałtyckiej eksklawy Kaliningrad został trafiony atakiem dronów we wschodniej części Zatoki Fińskiej – twierdzą władze rosyjskie i fińskie.",
-        "Statek Sparta II zapalił się po strajku w sobotę rano, zanim wpłynął na fińskie wody. Fińskie siły obronne stwierdziły, że za atakiem prawdopodobnie stoi Ukraina. Kijów nie skomentował jeszcze tej sytuacji.",
+        "Statek Sparta II zapalił się po strajku w sobotę rano, a następnie wpłynął na fińskie wody. Fińskie siły obronne stwierdziły, że za atakiem prawdopodobnie stoi Ukraina. Kijów nie skomentował jeszcze tej sytuacji.",
         "„Wojna rozprzestrzenia się na nasze bezpośrednie sąsiedztwo” – powiedział premier Finlandii Petteri Orpo. „Ukraina ma prawo odeprzeć agresora”."
       ]
     },
     {
-      "id": "swiat-3-f91fdd",
+      "id": "swiat-5-45fedf",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Walka o paliwa kopalne wpycha rozmowy klimatyczne podczas COP31 w impas",
-      "original_title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "22:19",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
+      "title": "Seria zdjęć Trumpa z Chin. Fotografię z Putinem podpisał: Mój przyjaciel",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:09",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/seria-zdjec-trumpa-z-chin-fotografie-z-putinem-podpisal-moj-przyjaciel/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/yp/ypju1nqh8w9nvgwarhjf53tcievkgjxc.png",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Kraje z prawie 200 krajów znajdują się w impasie, jeśli chodzi o próbę uzyskania nowego globalnego porozumienia klimatycznego.",
-        "Negocjacje na szczycie klimatycznym ONZ COP31 w Turcji utknęły w impasie i zostały zawieszone na noc po ponad jednym dniu, ponieważ kraje nie były w stanie osiągnąć porozumienia w sprawie nowego globalnego porozumienia klimatycznego.",
-        "UE i kraje wyspiarskie Pacyfiku należą do grupy sprzeciwiającej się najnowszemu projektowi porozumienia, które nie zawierało żadnej wzmianki o zmniejszeniu światowego zapotrzebowania na paliwa kopalne."
+        "Donald Trump opublikował na Truth Social serię zdjęć z niedawnej wizyty w Chinach.",
+        "Jedno z nich przedstawia prezydenta USA z przywódcą Rosji Władimirem Putinem.",
+        "Dołączono do niej podpis: Mój przyjaciel."
       ],
       "extended_paragraphs": [
-        "Kraje z prawie 200 krajów znajdują się w impasie, jeśli chodzi o próbę uzyskania nowego globalnego porozumienia klimatycznego.",
-        "Negocjacje na szczycie klimatycznym ONZ COP31 w Turcji utknęły w impasie i zostały zawieszone na noc po ponad jednym dniu, ponieważ kraje nie były w stanie osiągnąć porozumienia w sprawie nowego globalnego porozumienia klimatycznego.",
-        "UE i kraje wyspiarskie Pacyfiku należą do grupy sprzeciwiającej się najnowszemu projektowi porozumienia, które nie zawierało żadnej wzmianki o zmniejszeniu światowego zapotrzebowania na paliwa kopalne.",
-        "Drugi punkt sporny dotyczy nacisków ze strony Grupy Afrykańskiej, aby uzyskać zobowiązania w zakresie większych środków finansowych na adaptację, ale UE stwierdziła już wcześniej, że tego nie poprze.",
-        "Zespoły negocjacyjne, które mają wylecieć w niedzielę rano, przenoszą teraz swoje loty na poniedziałek, co oznacza, że ​​porozumienia nie widać jeszcze."
+        "Donald Trump opublikował na Truth Social serię zdjęć z niedawnej wizyty w Chinach. Jedno z nich przedstawia prezydenta USA z przywódcą Rosji Władimirem Putinem. Dołączono do niej podpis: Mój przyjaciel. Inne zdjęcie, na którym widać Putina, Xi Jinpinga i Trumpa, zestawiono ze zdjęciem, na którym jest Stalin, Roosevelt i Churchill. Opatrzono je podpisem Wielkie mocarstwa 1945, 2026.",
+        "Prezydent USA Donald Trump opublikował w sobotę w serwisie społecznościowym Truth Social serię zdjęć z niedawnej wizyty w Chinach. Na jednym z nich widać amerykańskiego prezydenta z przywódcą Rosji Władimirem Putinem. Podpisano je: \"Mój przyjaciel\".",
+        "Trump nazwał też Putina swoim przyjacielem, gdy spotkał się z nim w czwartek na marginesie szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC) w chińskim Shenzhen.",
+        "Opublikowaną w sobotę przez Trumpa grafikę przedstawiającą jego powitanie z Putinem udostępnił na swoim profilu wysłannik rosyjskiego przywódcy Kiriłł Dmitrijew.",
+        "Trump opublikował również na swojej platformie społecznościowej m.in. grafikę z witającym go przywódcą Chin Xi Jinpingiem. Ją też opatrzono podpisem \"Przyjaciele\"."
       ]
     },
     {
-      "id": "swiat-4-8f5a29",
+      "id": "swiat-6-8f5a29",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1707,11 +1877,43 @@
         "Fausto Isidro „Chapo Isidro” Meza Flores i siedem innych osób zostało zatrzymanych w piątek przez meksykańskie siły specjalne w Guasave w stanie Sinaloa, poinformował sekretariat obrony Meksyku.",
         "Sekretariat dodał, że w operacji zginęło siedmiu podejrzanych, a także czterech członków armii meksykańskiej, którzy podróżowali, aby wzmocnić bezpieczeństwo w Guasave."
       ]
+    },
+    {
+      "id": "swiat-7-f10c69",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Trzy osoby zginęły, a dziesiątki zaginęły po pożarze w indonezyjskiej fabryce",
+      "original_title": "Three killed and dozens missing after fire at Indonesian factory",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "06:05",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Co najmniej trzy osoby zginęły, a 36 nadal uważa się za zaginione po pożarze fabryki słodyczy.",
+        "W niedzielę strażacy nadal walczyli z płomieniami, a ratownicy szukali zaginionych w częściach uszkodzonego budynku, w którym prawdopodobnie byli uwięzieni pracownicy.",
+        "Indonezyjska Krajowa Agencja Poszukiwań i Ratownictwa podała w niedzielę, że odnaleziono 15 osób, które przeżyły, a cztery inne osoby z nieujawnionymi obrażeniami trafiły do ​​szpitala i lokalnej kliniki."
+      ],
+      "extended_paragraphs": [
+        "Co najmniej trzy osoby zginęły, a 36 nadal uważa się za zaginione po pożarze fabryki słodyczy.",
+        "W niedzielę strażacy nadal walczyli z płomieniami, a ratownicy szukali zaginionych w częściach uszkodzonego budynku, w którym prawdopodobnie byli uwięzieni pracownicy.",
+        "Indonezyjska Krajowa Agencja Poszukiwań i Ratownictwa podała w niedzielę, że odnaleziono 15 osób, które przeżyły, a cztery inne osoby z nieujawnionymi obrażeniami trafiły do ​​szpitala i lokalnej kliniki.",
+        "Fabryka znajduje się w dystrykcie Serang w prowincji Banten, około 50 km (31 km) na zachód od Dżakarty. Władze nie ustaliły jeszcze przyczyny pożaru.",
+        "Gubernator Banten, Andra Soni, powiedziała mediom, że w sobotę wieczorem w fabryce, która zapaliła się, mogło przebywać około 60 osób."
+      ]
     }
   ],
   "sport": [
     {
-      "id": "sport-7-b10be1",
+      "id": "sport-5-43da5d",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "HIGH",
@@ -1719,153 +1921,191 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Held nowym mistrzem, odrodzenie Ziółkowskiego. Sprawdź wyniki XTB KSW 123",
+      "title": "Gwiazda podważyła konkurs w Lillehammer. \"Nie było szans\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:39",
+      "time": "10:14",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/mma/1285500/held-nowym-mistrzem-odrodzenie-ziolkowskiego-sprawdz-wyniki-xtb-ksw-123",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/67e2dc585fff69_30441056.jpg",
+      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1285548/gwiazda-podwazyla-konkurs-w-lillehammer-nie-bylo-szans",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b02c0631fe7c2_38570478.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Za nami przedostatnie wydarzenie Konfrontacji Sztuk Walki w tym roku.",
-        "W Szczecinie odbyła się gala XTB KSW 123, podczas której poznaliśmy nowego mistrza wagi lekkiej.",
-        "Marcin Held pokonał po twardym boju Valeriu Mirceę."
+        "Austriacy mieli powody do świętowania po konkursie w Lillehammer, ale Stefan Kraft nie gryzł się w język.",
+        "Doświadczony skoczek wprost zasugerował, że zmienne warunki mocno wpłynęły na końcowe wyniki.",
+        "Skomentuj Austriacy mieli powody do świętowania po konkursie w Lillehammer, ale Stefan Kraft nie gryzł się w język."
       ],
       "extended_paragraphs": [
-        "Za nami przedostatnie wydarzenie Konfrontacji Sztuk Walki w tym roku. W Szczecinie odbyła się gala XTB KSW 123, podczas której poznaliśmy nowego mistrza wagi lekkiej. Marcin Held pokonał po twardym boju Valeriu Mirceę.",
-        "Skomentuj Za nami przedostatnie wydarzenie Konfrontacji Sztuk Walki w tym roku. W Szczecinie odbyła się gala XTB KSW 123, podczas której poznaliśmy nowego mistrza wagi lekkiej. Marcin Held pokonał po twardym boju Valeriu Mirceę.",
-        "Walka wieczoru nie zawiodła oczekiwań kibiców. Polak i Mołdawianin toczyli przez 25 minut niezwykle wyrównaną batalię w okrągłej klatce. Ostatecznie wszyscy sędziowie punktowi przyznali zwycięstwo Marcinowi Heldowi, który sięgnął po pas w kategorii do 70,3 kg.",
-        "W co-main evencie gali XTB KSW 123 doszło do zakończenia trylogii pomiędzy Marianem Ziółkowskim a Romanem Szymańskim. \"Złoty Chłopiec\" znokautował Poznaniaka w 1. rundzie i wrócił na zwycięskie tory po pechowej, drugiej porażce z Wilsonem Varelą.",
-        "Ze świetnej strony w Szczecinie pokazali się też m.in. Madars Fleminas czy Kamil Szkaradek , który efektownie poddał w 1. rundzie weterana UFC, Rogerio Bontorina i zgłosił swoje aspiracje do mistrzowskiego starcia w kategorii koguciej."
+        "Austriacy mieli powody do świętowania po konkursie w Lillehammer, ale Stefan Kraft nie gryzł się w język. Doświadczony skoczek wprost zasugerował, że zmienne warunki mocno wpłynęły na końcowe wyniki.",
+        "Skomentuj Austriacy mieli powody do świętowania po konkursie w Lillehammer, ale Stefan Kraft nie gryzł się w język. Doświadczony skoczek wprost zasugerował, że zmienne warunki mocno wpłynęły na końcowe wyniki.",
+        "Dla Austrii inauguracja sezonu była bardzo udana. Stephan Embacher odniósł zwycięstwo, a debiutujący w Pucharze Świata Raffael Zimmermann sensacyjnie stanął na najniższym stopniu podium. W czołowej dziesiątce znalazło się łącznie aż pięciu Austriaków.",
+        "Nie wszystkim dopisało jednak szczęście. Stefan Kraft w drugiej serii trafił na bardzo niekorzystne warunki i szybko zakończył lot. Po konkursie nie ukrywał, że jego zdaniem w takich okolicznościach nie był w stanie zrobić nic więcej.",
+        "- Myślę, że wielu zawodników z czołówki jest tam, gdzie powinno być, ale oczywiście nie wszyscy. Było to widać już w pierwszej serii, a później u mnie w drugiej. Nie było żadnej szansy, żebym doleciał w dół skoczni - ocenił Austriak w rozmowie z ORF."
       ]
     },
     {
-      "id": "sport-1-8f5de6",
+      "id": "sport-8-281758",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
+      "key_metrics": [],
+      "title": "„Zobaczy, na co stać Man Utd” – Pulis o pierwszym meczu Pochettino",
+      "original_title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "06:21",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b56b/live/6a92bb70-e44a-11f1-9192-3924a59e54c7.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Felietonista BBC Sport Tony Pulis wyjaśnia, jak nowy trener Manchesteru United Mauricio Pochettino będzie przygotowywał się do niedzielnego meczu z Liverpoolem już po kilku dniach spędzonych ze swoim składem.",
+        "Opublikowano 3 godziny temu Podjęcie pracy takiej, jaką Mauricio Pochettino wykonywał w Manchesterze United, gdzie menedżerowie często przychodzili i odchodzili, zawsze będzie prowadzić do zastanowienia się, dlaczego inni nie przetrwali zbyt długo.",
+        "Niezależnie od wyników, pierwsze dni na nowym stanowisku podchodzisz do tego z podejrzliwością."
+      ],
+      "extended_paragraphs": [
+        "Felietonista BBC Sport Tony Pulis wyjaśnia, jak nowy trener Manchesteru United Mauricio Pochettino będzie przygotowywał się do niedzielnego meczu z Liverpoolem już po kilku dniach spędzonych ze swoim składem.",
+        "Opublikowano 3 godziny temu Podjęcie pracy takiej, jaką Mauricio Pochettino wykonywał w Manchesterze United, gdzie menedżerowie często przychodzili i odchodzili, zawsze będzie prowadzić do zastanowienia się, dlaczego inni nie przetrwali zbyt długo.",
+        "Niezależnie od wyników, pierwsze dni na nowym stanowisku podchodzisz do tego z podejrzliwością.",
+        "Tak więc, chociaż to, co wydarzy się podczas niedzielnego pierwszego meczu Pochettino z Liverpoolem, jest ważne, nie wpłynie to na jego wczesną opinię o klubie – dobrą czy złą.",
+        "Ilekroć przejmujesz drużynę w połowie sezonu, co zrobiłem kilka razy, zwykle nie masz zbyt wiele czasu na pracę z zawodnikami przed pierwszym meczem."
+      ]
+    },
+    {
+      "id": "sport-1-01e415",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Co za pech! Walka wieczoru odwołana, Polak trafił do szpitala",
+      "title": "\"Nie jesteśmy Polkami, które można bić\". Dość czekania, pędzą po marzenia",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "23:56",
+      "time": "10:24",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/mma/1285501/co-za-pech-walka-wieczoru-odwolana-polak-trafil-do-szpitala",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/5fb0470d1b4d62_37037147.jpeg",
+      "source_url": "https://sportowefakty.wp.pl/koszykowka/1285550/nie-jestesmy-polkami-ktore-mozna-bic-dosc-czekania-pedza-po-marzenia",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b02c1af1de113_55514012.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Mateusz Legierski (14-2) w walce wieczoru gali OKTAGON 98 w Trzyńcu miał bronić mistrzowskiego pasa wagi lekkiej przeciwko Ivanowi Buchingerowi (46-10).",
-        "Polak tuż przed wyjściem do klatki doznał kontuzji podczas rozgrzewki i trafił do szpitala.",
-        "Skomentuj Mateusz Legierski (14-2) w walce wieczoru gali OKTAGON 98 w Trzyńcu miał bronić mistrzowskiego pasa wagi lekkiej przeciwko Ivanowi Buchingerowi (46-10)."
+        "- W ogóle nie patrzymy na to, jak ludzie na nas patrzą oprócz tego, że wiemy, że się nas boją.",
+        "I to jest dla nas dobry znak.",
+        "To z kolei oznacza tyle, że my musimy być jeszcze mocniej przygotowane - mówi Liliana Banaszak, polska koszykarka."
       ],
       "extended_paragraphs": [
-        "Mateusz Legierski (14-2) w walce wieczoru gali OKTAGON 98 w Trzyńcu miał bronić mistrzowskiego pasa wagi lekkiej przeciwko Ivanowi Buchingerowi (46-10). Polak tuż przed wyjściem do klatki doznał kontuzji podczas rozgrzewki i trafił do szpitala.",
-        "Skomentuj Mateusz Legierski (14-2) w walce wieczoru gali OKTAGON 98 w Trzyńcu miał bronić mistrzowskiego pasa wagi lekkiej przeciwko Ivanowi Buchingerowi (46-10). Polak tuż przed wyjściem do klatki doznał kontuzji podczas rozgrzewki i trafił do szpitala.",
-        "Organizacja poinformowała w mediach społecznościowych, że mistrz zerwał mięsień dwugłowy uda i pojedynek wieczoru został odwołany. Szczegółowa diagnoza ma pozwolić ustalić, jak długo potrwa jego powrót do zdrowia.",
-        "Legierski w Trzyńcu miał stanąć do obrony pasa wagi lekkiej w starciu z doświadczonym Ivanem Buchingerem ze Słowacji. \"Dynamit\" był wyraźnym faworytem bukmacherów przed tym starciem.",
-        "Nie wiadomo jeszcze, kiedy i czy dojdzie do ponownego zestawienia obu zawodników. Wszystko zależy obecnie od wyników badań Legierskiego i czasu potrzebnego na powrót do pełnej sprawności."
+        "- W ogóle nie patrzymy na to, jak ludzie na nas patrzą oprócz tego, że wiemy, że się nas boją. I to jest dla nas dobry znak. To z kolei oznacza tyle, że my musimy być jeszcze mocniej przygotowane - mówi Liliana Banaszak, polska koszykarka.",
+        "Skomentuj - W ogóle nie patrzymy na to, jak ludzie na nas patrzą oprócz tego, że wiemy, że się nas boją. I to jest dla nas dobry znak. To z kolei oznacza tyle, że my musimy być jeszcze mocniej przygotowane - mówi Liliana Banaszak, polska koszykarka.",
+        "Kluczową fazę kwalifikacji do mistrzostw Europy reprezentacja Polski koszykarek rozpoczęła od dwóch zwycięstw i jednej porażki. Porażki, która miała duży wpływ na fantastyczny występ w starciu z faworyzowaną Turcją.",
+        "Czy Polki po dwunastu latach wrócą na EuroBasket? Szanse są duże. Liliana Banaszak , skrzydłowa Biało-Czerwonych mówi wprost, że jest to marzenie każdej, która gra z orzełkiem na piersi.",
+        "Krzysztof Kaczmarczyk, WP SportoweFakty: Czujesz satysfakcję po tym okienku reprezentacyjnym czy pozostał delikatny niedosyt po przegranej w Podgoricy?"
       ]
     },
     {
-      "id": "sport-2-bad15a",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
+      "id": "sport-2-a67754",
+      "entity_tag": "Formuła 1",
+      "sector": "Motorsport",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Leeds zdominowało Chelsea i odniosło pierwsze zwycięstwo na Stamford Bridge od 1999 roku",
-      "original_title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "title": "Kolizja Hamilton-Leclerc jest całkowicie niedopuszczalna, mówi szef Ferrari",
+      "original_title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
       "is_foreign": true,
       "lang": "EN",
-      "time": "19:59",
+      "time": "09:07",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed41/live/db5e04d0-e5d6-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3fd5/live/5dd75760-e64d-11f1-a563-e14cd8b02601.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Noah Okafor strzela dwa gole i zapewnia Leeds United pierwsze zwycięstwo z Chelsea od 27 lat, po imponującym zwycięstwie 4:1 na Stamford Bridge.",
-        "Awansują na szóste miejsce w Premier League.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Chelsea Obserwuj Chelsea."
+        "Kierowcy Ferrari, Lewis Hamilton i Charles Leclerc, stają przed kolejną burzliwą dyskusją na temat możliwości płynnego ścigania się na torze po zderzeniu w Las Vegas.",
+        "Korespondent F1 w Las Vegas Opublikowano godzinę temu Kierowcy Ferrari Lewis Hamilton i Charles Leclerc stają przed kolejną napiętą dyskusją na temat ich zdolności do czystego wspólnego ścigania się na torze po zderzeniu podczas Grand Prix Las Vegas.",
+        "Na 22 okrążenia przed końcem Leclerc wytrącił Hamiltona z równowagi, co kosztowało go oba punkty w wyścigu, w którym na pewnym etapie ścigali się z McLarenami, którzy stanęli na podium."
       ],
       "extended_paragraphs": [
-        "Noah Okafor strzela dwa gole i zapewnia Leeds United pierwsze zwycięstwo z Chelsea od 27 lat, po imponującym zwycięstwie 4:1 na Stamford Bridge. Awansują na szóste miejsce w Premier League.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Chelsea Obserwuj Chelsea"
+        "Kierowcy Ferrari, Lewis Hamilton i Charles Leclerc, stają przed kolejną burzliwą dyskusją na temat możliwości płynnego ścigania się na torze po zderzeniu w Las Vegas.",
+        "Korespondent F1 w Las Vegas Opublikowano godzinę temu Kierowcy Ferrari Lewis Hamilton i Charles Leclerc stają przed kolejną napiętą dyskusją na temat ich zdolności do czystego wspólnego ścigania się na torze po zderzeniu podczas Grand Prix Las Vegas.",
+        "Na 22 okrążenia przed końcem Leclerc wytrącił Hamiltona z równowagi, co kosztowało go oba punkty w wyścigu, w którym na pewnym etapie ścigali się z McLarenami, którzy stanęli na podium.",
+        "Leclerc został ukarany 10-sekundową karą za incydent, co oznaczało, że w wyścigu wygranym przez Maxa Verstappena z Red Bulla zajął 10. miejsce, trzy miejsca za Hamiltonem.",
+        "Był to drugi incydent mający wpływ na wyścig podczas Grand Prix i miał miejsce po tym, jak kierowcy zebrali się, aby oczyścić atmosferę podczas ostatniego wyścigu w Brazylii, po tym jak walka na pierwszym okrążeniu w Meksyku kosztowała ich zwycięstwo."
       ]
     },
     {
-      "id": "sport-3-563c95",
+      "id": "sport-3-4ceebf",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Rywal miał dość. Adam Kownacki udanie wrócił do ringu!",
+      "title": "Trafiła do więzienia. Słynna piłkarka współpracowała z mafią?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "23:22",
+      "time": "10:23",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/boks-zawodowy/1285502/rywal-mial-dosc-adam-kownacki-udanie-wrocil-do-ringu",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b016505d4a230_60452178.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285547/trafila-do-wiezienia-slynna-pilkarka-wspolpracowala-z-mafia",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b02bd40424d62_37748414.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Adam Kownacki (21-4) ponownie zwycięski w bokserskim ringu.",
-        "\"Babyface\" pokonał przed czasem Ezequiela Madernę (31-15) w walce wieczoru gali Fight District 4 w Łomży.",
-        "Na to zwycięstwo 37-latek czekał ponad siedem lat."
+        "Gabi Morais trafiła do aresztu po operacji brazylijskiej policji przeciwko grupie Comando Vermelho.",
+        "Śledczy podejrzewają byłą reprezentantkę Brazylii o legalizowanie dochodów z handlu narkotykami.",
+        "Skomentuj Gabi Morais trafiła do aresztu po operacji brazylijskiej policji przeciwko grupie Comando Vermelho."
       ],
       "extended_paragraphs": [
-        "Stało się! Adam Kownacki (21-4) ponownie zwycięski w bokserskim ringu. \"Babyface\" pokonał przed czasem Ezequiela Madernę (31-15) w walce wieczoru gali Fight District 4 w Łomży. Na to zwycięstwo 37-latek czekał ponad siedem lat.",
-        "Skomentuj Stało się! Adam Kownacki (21-4) ponownie zwycięski w bokserskim ringu. \"Babyface\" pokonał przed czasem Ezequiela Madernę (31-15) w walce wieczoru gali Fight District 4 w Łomży. Na to zwycięstwo 37-latek czekał ponad siedem lat.",
-        "Argentyńczyk ruszył od pierwszych sekund na Polaka. Maderna ulokował kilka mocnych ciosów na twarzy Kownackiego. \"Babyface\" zaczął wywierać presję, nie szukał klinczu i chciał mocnych wymian z rywalem. Pod koniec pierwszej rundy doszło do otwartej bijatyki, którą przerwał gong.",
-        "W drugiej rundzie tempo walki nie spadło. Polak napierał, ale zapominał o obronie i co rusz przyjmował mocne uderzenia kontrujące ze strony doświadczonego Argentyńczyka. Maderna wykorzystywał luki w defensywie Kownackiego. Pięściarz z Łomży, pomimo przyjętych ciosów, nadal był stroną dominującą, szukał przełamania rywala.",
-        "Trzecie starcie bardzo dobre w wykonaniu Kownackiego. Maderna coraz częściej dążył do klinczu, który \"Babyface\" rozrywał. Polak z powodzeniem umieszczał ciosy na korpusie rywala, bił z dużą częstotliwością, trafiał seriami."
+        "Gabi Morais trafiła do aresztu po operacji brazylijskiej policji przeciwko grupie Comando Vermelho. Śledczy podejrzewają byłą reprezentantkę Brazylii o legalizowanie dochodów z handlu narkotykami.",
+        "Skomentuj Gabi Morais trafiła do aresztu po operacji brazylijskiej policji przeciwko grupie Comando Vermelho. Śledczy podejrzewają byłą reprezentantkę Brazylii o legalizowanie dochodów z handlu narkotykami.",
+        "Gabi Morais została zatrzymana 17 listopada w Fortalezie. Akcja wymierzona w Comando Vermelho, jedną z największych organizacji przestępczych w Ameryce Południowej, objęła osoby podejrzewane o udział w działalności przestępczej. Według dostępnych informacji sąd zdecydował o dalszym areszcie 32-letniej byłej piłkarki.",
+        "Śledczy twierdzą, że była reprezentantka Brazylii w piłce nożnej miała pomagać w ukrywaniu pochodzenia pieniędzy związanych z handlem narkotykami. Podejrzewana działalność miała przebiegać za pośrednictwem legalnie działających firm.",
+        "Wśród przedsiębiorstw wskazanych przez śledczych znalazł się bar, w którym regularnie organizowano imprezy. Policja sprawdza, czy lokal służył do wprowadzania nielegalnych dochodów do oficjalnego obrotu."
       ]
     },
     {
-      "id": "sport-4-16b50e",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
+      "id": "sport-4-1cc07f",
+      "entity_tag": "Formuła 1",
+      "sector": "Motorsport",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Arsenal ma sześć punktów przewagi po żywiołowym remisie z Newcastle",
-      "original_title": "Arsenal go six points clear after lively draw at Newcastle",
+      "title": "Znakomity samochód wyścigowy Verstappena i kosztowny błąd Russella – oceny kierowców",
+      "original_title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
       "is_foreign": true,
       "lang": "EN",
-      "time": "19:59",
+      "time": "09:35",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52d9/live/fcb7f580-e5e2-11f1-99a1-253766e7ad8b.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/27e6/live/ced7c200-e64e-11f1-99a1-253766e7ad8b.png",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Bramka Noni Madueke w drugiej połowie zapewnia Arsenalowi remis 2:2 z Newcastle United na St James' Park, a obecni mistrzowie mają sześć punktów przewagi na szczycie tabeli Premier League.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Piłka nożna Śledź piłkę nożną.",
-        "Wydarzenie sklasyfikowano w sektorze: Sport Międzynarodowy (wpływ: LOW)."
+        "Komentator BBC Radio 5 Live F1, Harry Benjamin, ocenia zachowanie kierowców podczas weekendu Grand Prix Las Vegas.",
+        "Max Verstappen przypieczętował swoje czwarte zwycięstwo w sezonie oszałamiającym zwycięstwem podczas chaotycznego Grand Prix Las Vegas.",
+        "Kierowca Red Bulla przez cały wyścig walczył z rywalami o prowadzenie i przekroczył linię mety przed dwoma McLarenami: Lando Norrisem i Oscarem Piastrim."
       ],
       "extended_paragraphs": [
-        "Bramka Noni Madueke w drugiej połowie zapewnia Arsenalowi remis 2:2 z Newcastle United na St James' Park, a obecni mistrzowie mają sześć punktów przewagi na szczycie tabeli Premier League.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Piłka nożna Śledź piłkę nożną"
+        "Komentator BBC Radio 5 Live F1, Harry Benjamin, ocenia zachowanie kierowców podczas weekendu Grand Prix Las Vegas.",
+        "Max Verstappen przypieczętował swoje czwarte zwycięstwo w sezonie oszałamiającym zwycięstwem podczas chaotycznego Grand Prix Las Vegas.",
+        "Kierowca Red Bulla przez cały wyścig walczył z rywalami o prowadzenie i przekroczył linię mety przed dwoma McLarenami: Lando Norrisem i Oscarem Piastrim.",
+        "George Russell, który wystartował jako drugi, został zablokowany późno po próbie ataku na kolegę z zespołu Mercedesa, Kimiego Antonelliego, i zajął dziewiąte miejsce, podczas gdy Charles Leclerc otrzymał 10 sekund kary za kontakt z kolegą z zespołu Ferrari, Lewisem Hamiltonem.",
+        "Wspaniały pokaz wyścigów. Odziedziczył pole position po karze Kimi Antonelliego na starcie i praktycznie przez cały wyścig był atakowany, mijał, a następnie znajdował drogę powrotną, jednocześnie pracując nad optymalnym rozmieszczeniem energii ze swojego Red Bulla. Jedno z jego najlepszych zwycięstw."
       ]
     },
     {
-      "id": "sport-5-ef373c",
+      "id": "sport-6-930818",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -1873,85 +2113,59 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Lider Serie A zwycięża, ale za plecami trwa pościg",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:43",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285499/lider-serie-a-zwycieza-ale-za-plecami-trwa-poscig",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b021c547d31b9_66025595.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
+      "title": "Kontuzjowany Jacks wypada z trasy T20 po Australii",
+      "original_title": "Injured Jacks out of T20 Australia tour",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "10:00",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed0e/live/c327b730-e653-11f1-a563-e14cd8b02601.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Sobota dla faworytów i pucharowiczów w lidze włoskiej.",
-        "Lider Lazio zwyciężył 3:0 z US Lecce.",
-        "Jeszcze bardziej okazała była wygrana 5:1 AS Romy z Parmą."
+        "Wszechstronny reprezentant Anglii Will Jacks zostanie wykluczony z dalszej części tournee po Australii ze względu na złamaną rękę.",
+        "Źródło obrazu, EPA Tytuł zdjęcia: Will Jacks zdobył 24 bramki w meczach międzynarodowych T20 dla Anglii Wszechstronny reprezentant Anglii Will Jacks został wykluczony z reszty tournee po Australii ze względu na złamaną rękę.",
+        "28-latek doznał kontuzji po czterech piłkach w przedostatnim meczu, gdy Australia odniosła zwycięstwo w pierwszym międzynarodowym meczu T20 w Melbourne w sobotę."
       ],
       "extended_paragraphs": [
-        "Sobota dla faworytów i pucharowiczów w lidze włoskiej. Lider Lazio zwyciężył 3:0 z US Lecce. Jeszcze bardziej okazała była wygrana 5:1 AS Romy z Parmą.",
-        "Skomentuj Sobota dla faworytów i pucharowiczów w lidze włoskiej. Lider Lazio zwyciężył 3:0 z US Lecce. Jeszcze bardziej okazała była wygrana 5:1 AS Romy z Parmą.",
-        "Lazio pewnie pokonało Lecce , a głównym bohaterem spotkania został Tijjani Noslin. Holender otworzył wynik w 26. minucie, dając gospodarzom prowadzenie jeszcze przed przerwą. Po zmianie stron ponownie wpisał się na listę strzelców, tym razem w 68. minucie, i praktycznie rozstrzygnął losy rywalizacji. Wynik ustalił w 90. minucie Davide Frattesi . Lazio dopisało do swojego dorobku komplet punktów, zachowując przy tym czyste konto.",
-        "AS Roma urządziła sobie prawdziwy festiwal strzelecki w Parmie , wygrywając aż 5:1. Pierwsza połowa zakończyła się skromnym prowadzeniem gości po trafieniu Donyella Malena z 39. minuty. Po przerwie Nesta Elphege doprowadził do wyrównania, ale końcówka należała już zdecydowanie do Romy. Malen ponownie trafił w 68. minucie, a trzy minuty później Rodrigo Mora podwyższył na 3:1. Holender nie zamierzał jednak na tym poprzestać. W 77. minucie skompletował hat-tricka, a w doliczonym czasie gry ustalił wynik na 5:1, zdobywając swoją czwartą bramkę w meczu.",
-        "Como 1907 wykorzystało atut własnego boiska i pokonało Cagliari Calcio 2:0. Gospodarze objęli prowadzenie w 24. minucie, kiedy do siatki trafił Jacobo Ramon . Goście nie zdołali odpowiedzieć, a po przerwie Como podwyższyło przewagę. W 56. minucie na listę strzelców wpisał się Lucas Da Cunha , ustalając wynik spotkania. Cagliari nie znalazło sposobu na sforsowanie defensywy rywali, a Como mogło cieszyć się z kolejnego zwycięstwa bez straty bramki."
+        "Wszechstronny reprezentant Anglii Will Jacks zostanie wykluczony z dalszej części tournee po Australii ze względu na złamaną rękę.",
+        "Źródło obrazu, EPA Tytuł zdjęcia: Will Jacks zdobył 24 bramki w meczach międzynarodowych T20 dla Anglii",
+        "28-latek doznał kontuzji po czterech piłkach w przedostatnim meczu, gdy Australia odniosła zwycięstwo w pierwszym międzynarodowym meczu T20 w Melbourne w sobotę.",
+        "Kontuzja oznacza, że ​​wszechstronny Tom Banton będzie kapitanem drużyny podczas piątego i ostatniego T20 w Canberze 2 grudnia.",
+        "Jacks został zatrudniony na to stanowisko, ponieważ stały kapitan Harry Brook opuści Australię wcześniej, aby przygotować się do tournee po Republice Południowej Afryki."
       ]
     },
     {
-      "id": "sport-6-2e59c5",
+      "id": "sport-7-b20626",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Nastolatek Williams-Barnett błyszczy, gdy Spurs pokonują Ipswich",
-      "original_title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:59",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/67dd/live/c58c8e30-e5cf-11f1-99b6-a35a62fa4264.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
+      "title": "To jego trzecia żona. W sumie ma piątkę dzieci",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:04",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/sportowybar/1285546/spora-roznica-wieku-miedzy-malzonkami-to-legenda-sportu",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/69218bf7362320_77230126.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Nastolatek Tottenhamu Hotspur, Luca Williams-Barnett, występuje w drużynie Roberto de Zerbiego w wygodnym meczu pokonującym Ipswich Town.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy powiązane Tottenham Hotspur Śledź Tottenham Hotspur.",
-        "Wydarzenie sklasyfikowano w sektorze: Wydarzenia Sportowe (wpływ: LOW)."
+        "Boris Becker to legenda tenisa, która w niedzielę obchodzi 59 lat.",
+        "Dziś u jego boku jest Lilian de Carvalho Monteiro, kobieta młodsza od niego o ponad dwie dekady 1 Komentarz Boris Becker to legenda tenisa, która w niedzielę obchodzi 59 lat.",
+        "Niemiec zapisał się w historii sportu dzięki spektakularnym sukcesom, ale jego życie poza kortem nie zawsze układało się pomyślnie."
       ],
       "extended_paragraphs": [
-        "Nastolatek Tottenhamu Hotspur, Luca Williams-Barnett, występuje w drużynie Roberto de Zerbiego w wygodnym meczu pokonującym Ipswich Town.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy powiązane Tottenham Hotspur Śledź Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "sport-8-d9375a",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Coventry pokonało Palace w pierwszym meczu Franka po samobójczym golu w końcówce meczu",
-      "original_title": "Coventry beat Palace in Frank's first game after late own goal",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "19:58",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca40/live/81c33140-e5cf-11f1-a094-5fdc692f3e33.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Samobójczy gol Dwighta McNeila w 85.",
-        "minucie dał Coventry City zwycięstwo 3:2 i wysunięcie się na trzy punkty od strefy spadkowej, a pierwszy mecz Thomasa Franka na ławce trenerskiej w Crystal Palace kończy się porażką w Premier League.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Coventry City Śledź Coventry City."
-      ],
-      "extended_paragraphs": [
-        "Samobójczy gol Dwighta McNeila w 85. minucie dał Coventry City zwycięstwo 3:2 i wysunięcie się na trzy punkty od strefy spadkowej, a pierwszy mecz Thomasa Franka na ławce trenerskiej w Crystal Palace kończy się porażką w Premier League.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Coventry City Śledź Coventry City"
+        "Boris Becker to legenda tenisa, która w niedzielę obchodzi 59 lat. Dziś u jego boku jest Lilian de Carvalho Monteiro, kobieta młodsza od niego o ponad dwie dekady",
+        "1 Komentarz Boris Becker to legenda tenisa, która w niedzielę obchodzi 59 lat. Dziś u jego boku jest Lilian de Carvalho Monteiro, kobieta młodsza od niego o ponad dwie dekady",
+        "Boris Becker przez lata był jedną z największych gwiazd światowego tenisa. Niemiec zapisał się w historii sportu dzięki spektakularnym sukcesom, ale jego życie poza kortem nie zawsze układało się pomyślnie.",
+        "Problemy finansowe, głośne związki, rozwody, a nawet pobyt w więzieniu sprawiły, że o byłym mistrzu Wimbledon mówiło się nie tylko w kontekście sportowym. Dziś u jego boku jest Lilian de Carvalho Monteiro, kobieta młodsza od niego o ponad dwie dekady. Rok temu urodziło im się dziecko.",
+        "ZOBACZ WIDEO: Bednarek stanął w obronie Kiwiora. I zaapelował. \"Powinniśmy się wspierać\""
       ]
     }
   ],

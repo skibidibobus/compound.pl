@@ -2,8 +2,8 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.326",
-    "last_updated": "2026-11-22 23:13",
+    "edition": "#2026.327",
+    "last_updated": "2026-11-23 03:51",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 19,
     "foreign_translated_count": 19,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$60,792",
-      "change": "+1.03%",
+      "price": "$61,187",
+      "change": "+3.64%",
       "is_positive": true
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,714",
-      "change": "+1.99%",
+      "price": "$1,730",
+      "change": "+4.68%",
       "is_positive": true
     },
     {
@@ -956,7 +956,7 @@
         "150 milionów dolarów",
         "4,6 miliona dolarów"
       ],
-      "title": "Pracownicy wspieranego przez Erica Trumpa startupu robotycznego tracą świadczenia zdrowotne w miarę pogłębiania się kryzysu finansowego firmy",
+      "title": "Pracownicy startupu robotycznego wspieranego przez Erica Trumpa tracą świadczenia zdrowotne w miarę pogłębiania się kryzysu finansowego firmy",
       "original_title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
       "is_foreign": true,
       "lang": "EN",
@@ -1171,7 +1171,7 @@
       "time": "06:00",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&amp;w=1920&amp;h=1080",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795404935&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
@@ -1190,75 +1190,42 @@
   ],
   "makro": [
     {
-      "id": "makro-1-6412d6",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-5-7859a0",
+      "entity_tag": "Cyfrowy Polsat (GPW: CPS)",
+      "sector": "Telekomunikacja & Media",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 24,5 mln, 2,36 mld, 24,5 miliona) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Telekomunikacja & Media” (kluczowe liczby: 3,5 mld zł, 800 mln euro) wspierający aktywność gospodarczą i siłę nabywczą.",
       "key_metrics": [
-        "24,5 mln",
-        "2,36 mld",
-        "24,5 miliona"
+        "3,5 mld zł",
+        "800 mln euro"
       ],
-      "title": "GTA 6 z rekordem sprzedaży. Gigantyczny przychód producenta gry",
+      "title": "Miliardy złotych na małe reaktory jądrowe. \"Podpisaliśmy fantastyczną umowę\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "16:02",
+      "time": "17:33",
       "source": "PolsatNews Biznes",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-20/gta-6-z-rekordem-sprzedazy-gigantyczny-przychod-producenta-gry/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/2b/2b8zjaqmbffxf3fjzep9ij297i832rb7.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/miliardy-zlotych-na-male-reaktory-jadrowe-inwestycje-moze-wesprzec-panstwo/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/4p/4pdcqekqtu8x9ni5ub1gmbd5qzogymbt.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Biznes",
       "lead_story": true,
       "summary_points": [
-        "Studio Rockstar Games sprzedało ponad 24,5 mln egzemplarzy gry GTA 6 w dniu premiery - wynika z danych, na które powołuje się rozgłośnia BBC.",
-        "Firma osiągnęła w ten sposób przychody szacowane na 2,36 mld dol.",
-        "To największe otwarcie w historii branży rozrywkowej."
+        "Polski biznes stawia na SMR-y - modułowe reaktory jądrowe w amerykańskiej technologii.",
+        "Do końca roku finansowanie tej inwestycji ma sięgnąć 3,5 mld zł.",
+        "- Udało nam się z prezesem Grupy Polsat Plus Piotrem Żakiem podpisać fantastyczną umowę i będziemy dewelopować sześć SMR-ów w lokalizacji pakowskiej - podkreśla Michał Sołowow (SGE)."
       ],
       "extended_paragraphs": [
-        "Studio Rockstar Games sprzedało ponad 24,5 mln egzemplarzy gry GTA 6 w dniu premiery - wynika z danych, na które powołuje się rozgłośnia BBC. Firma osiągnęła w ten sposób przychody szacowane na 2,36 mld dol. To największe otwarcie w historii branży rozrywkowej.",
-        "Według serwisu analitycznego Sensor Tower, na który powołuje się BBC, łączna liczba zamówień przedpremierowych oraz egzemplarzy sprzedanych pierwszego dnia przekroczyła 24,5 miliona sztuk .",
-        "Z szacunków wynika, że przełożyło się na przychód rzędu 2,36 miliarda dolarów . Żadna gra w historii nie może poszczycić się takim wynikiem.",
-        "Dane te bazują na szacunkach. Twórcy gry, studio Rockstar, oraz spółka macierzysta Take-Two nie ujawnili szczegółowych danych sprzedażowych, określając jednak popyt jako \"bezprecedensowy\".",
-        "BBC zwróciło się do obu firm z prośbą o komentarz w sprawie tych liczb. Do piątku nie otrzymało jednak odpowiedzi. Przekazały one jedynie w publicznym komunikacie, że zainteresowanie grą jest \"bezprecedensowe\"."
+        "Polski biznes stawia na SMR-y - modułowe reaktory jądrowe w amerykańskiej technologii. Do końca roku finansowanie tej inwestycji ma sięgnąć 3,5 mld zł. - Udało nam się z prezesem Grupy Polsat Plus Piotrem Żakiem podpisać fantastyczną umowę i będziemy dewelopować sześć SMR-ów w lokalizacji pakowskiej - podkreśla Michał Sołowow (SGE). Włączenie się do projektu rozważa także Polski Fundusz Rozwoju.",
+        "- Mapa drogowa jest już gotowa, przyjęliśmy całkiem niedawno Polski Program Energetyki Jądrowej i to jest kolejny krok, który zrobimy - myślę - już w najbliższych dniach. To da inwestorom więcej przestrzeni i zrozumienia, co do tego jak rząd będzie wspierał małe reaktory jądrowe - powiedział wiceminister energii, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej Wojciech Wrochna.",
+        "Podkreślił również, że proces budowy SMR-ów należy rozpocząć jak najszybciej. - Rząd musi zapewnić, żeby energia w Polsce była dostępna, żeby była czysta i żeby była tania. Bez tych trzech celów nie jesteśmy w stanie zapewnić rozwoju czy przetrwania polskiego przemysłu. Energetyka jądrowa daje taką szansę. Polski Fundusz Rozwoju, według mojej najlepszej wiedzy, jest w zaawansowanych rozmowach. Jeżeli uzna, że jest potencjał biznesowy do tego, żeby tam zainwestować, to zakładam, że tak będzie. To też będzie taka kropka nad \"i\" potwierdzająca, że ten projekt ma sens biznesowy - dodał wiceszef resortu energii.",
+        "Michał Sołowow, założyciel Synthos Green Energy (SGE), spółki rozwijającej technologię małych reaktorów jądrowych przekazał, że do końca roku spodziewa się sfinalizować umowy z inwestorami gotowymi zainwestować w ten projekt. - Myślę, że to będzie ponad 800 mln euro w tej rundzie. Udało nam się z prezesem Zarządu Grupy Polsat Plus, prezesem ZE PAK Piotrem Żakiem podpisać fantastyczną umowę i będziemy dewelopować sześć SMR-ów w \"lokalizacji pakowskiej\". Wydaje mi się, że to jest bardzo istotny kamień milowy, zwłaszcza że ta lokalizacja jest doskonała, w centrum Polski - argumentował Michał Sołowow.",
+        "Jak dodał \"bez racjonalnie wycenionej energii nie będzie inwestycji w Polsce, nie zbudujemy Data Center, które są niezbędne do tego, żeby na nich rozwijać AI, nie stworzymy konkurencyjności dla naszych dzieci, wnuków... po prostu musimy to zrobić\"."
       ]
     },
     {
-      "id": "makro-2-0852fe",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Szef Centrica twierdzi, że jest „bardzo zaniepokojony” wpływem rosnących rachunków za energię",
-      "original_title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:50",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Chris O'Shea twierdzi, że liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
-        "Autor: Nick Edser Reporter biznesowy Opublikowano 9 godzin temu Szef firmy Centrica, właściciela brytyjskiej firmy Gas, mówi, że jest „bardzo zaniepokojony” wpływem, jaki spodziewany w styczniu wzrost rachunków za energię będzie miał na konsumentów.",
-        "Chris O'Shea powiedział BBC, że jego zdaniem liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku."
-      ],
-      "extended_paragraphs": [
-        "Chris O'Shea twierdzi, że liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
-        "Autor: Nick Edser Reporter biznesowy Opublikowano 9 godzin temu Szef firmy Centrica, właściciela brytyjskiej firmy Gas, mówi, że jest „bardzo zaniepokojony” wpływem, jaki spodziewany w styczniu wzrost rachunków za energię będzie miał na konsumentów.",
-        "Chris O'Shea powiedział BBC, że jego zdaniem liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
-        "Nowy pułap cen energii, który zacznie obowiązywać od stycznia, zostanie ogłoszony w środę, a firma doradcza Cornwall Insight prognozuje, że wzrośnie on o 443 funtów rocznie w przypadku typowego gospodarstwa domowego.",
-        "Rząd powiedział, że niektóre gospodarstwa domowe otrzymają 100 funtów na pomoc w opłaceniu rachunków za energię, ale Citizens Advice stwierdziło, że to „kropla w morzu”, podczas gdy jedna grupa nacisku wezwała do podjęcia działań w sprawie „zawyżonych zysków przedsiębiorstw energetycznych”."
-      ]
-    },
-    {
-      "id": "makro-3-49b164",
+      "id": "makro-1-49b164",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "MEDIUM",
@@ -1292,7 +1259,39 @@
       ]
     },
     {
-      "id": "makro-5-635edf",
+      "id": "makro-2-0852fe",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Szef Centrica twierdzi, że jest „bardzo zaniepokojony” wpływem rosnących rachunków za energię",
+      "original_title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "13:50",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Chris O'Shea twierdzi, że liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
+        "Autor: Nick Edser Reporter biznesowy Opublikowano 22 listopada 2026 r. Szef firmy Centrica, właściciela British Gas, twierdzi, że jest „bardzo zaniepokojony” wpływem, jaki spodziewany wzrost rachunków za energię w styczniu będzie miał na konsumentów.",
+        "Chris O'Shea powiedział BBC, że jego zdaniem liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku."
+      ],
+      "extended_paragraphs": [
+        "Chris O'Shea twierdzi, że liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
+        "Autor: Nick Edser Reporter biznesowy Opublikowano 22 listopada 2026 r. Szef firmy Centrica, właściciela British Gas, twierdzi, że jest „bardzo zaniepokojony” wpływem, jaki spodziewany wzrost rachunków za energię w styczniu będzie miał na konsumentów.",
+        "Chris O'Shea powiedział BBC, że jego zdaniem liczba osób, które nie są w stanie lub nie chcą płacić rachunków za energię, wzrośnie wraz ze wzrostem cen w nowym roku.",
+        "Nowy pułap cen energii, który zacznie obowiązywać od stycznia, zostanie ogłoszony w środę, a firma doradcza Cornwall Insight prognozuje, że wzrośnie on o 443 funtów rocznie w przypadku typowego gospodarstwa domowego.",
+        "Rząd powiedział, że niektóre gospodarstwa domowe otrzymają 100 funtów na pomoc w opłaceniu rachunków za energię, ale Citizens Advice stwierdziło, że to „kropla w morzu”, podczas gdy jedna grupa nacisku wezwała do podjęcia działań w sprawie „zawyżonych zysków przedsiębiorstw energetycznych”."
+      ]
+    },
+    {
+      "id": "makro-3-635edf",
       "entity_tag": "PGE (GPW: PGE)",
       "sector": "Energetyka",
       "market_impact": "MEDIUM",
@@ -1324,7 +1323,77 @@
       ]
     },
     {
-      "id": "makro-4-cf53bf",
+      "id": "makro-6-a3850b",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 26%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "26%"
+      ],
+      "title": "Rachunki za energię wzrosną – oto, jak możesz złagodzić ból",
+      "original_title": "Energy bills will soar - here's how you can ease the pain",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:05",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Rachunki za energię w gospodarstwach domowych wkrótce wzrosną, ale istnieją sposoby na kontrolowanie wydatków.",
+        "kosztów utrzymania Opublikowano 27 sierpnia 2025 r. Zaktualizowano 2 godziny temu Przewiduje się, że w styczniu ceny energii w milionach domów wzrosną o 26%, jednak eksperci twierdzą, że istnieją sposoby na kontrolowanie rosnących rachunków.",
+        "Limit cenowy Ofgem, regulatora energii, a także stałe umowy dostawców, ustalają limit ceny każdej jednostki energii, a nie całkowitego rachunku."
+      ],
+      "extended_paragraphs": [
+        "Rachunki za energię w gospodarstwach domowych wkrótce wzrosną, ale istnieją sposoby na kontrolowanie wydatków.",
+        "Korespondent ds. kosztów utrzymania Opublikowano 27 sierpnia 2025 r. Zaktualizowano 2 godziny temu Przewiduje się, że w styczniu ceny energii w milionach domów wzrosną o 26%, jednak eksperci twierdzą, że istnieją sposoby na kontrolowanie rosnących rachunków.",
+        "Limit cenowy Ofgem, regulatora energii, a także stałe umowy dostawców, ustalają limit ceny każdej jednostki energii, a nie całkowitego rachunku.",
+        "Płacisz więc za to, z czego korzystasz. W latach stosunkowo wysokich cen miliony ludzi ograniczyły zużycie energii.",
+        "W obliczu gwałtownego wzrostu cen jednostkowych zwłaszcza gazu eksperci twierdzą, że należy na nowo przyjrzeć się zużyciu energii i odnowić dobre nawyki."
+      ]
+    },
+    {
+      "id": "makro-4-d3b537",
+      "entity_tag": "Pepco Group (GPW: PCO)",
+      "sector": "Handel Detaliczny",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Handel Detaliczny” (kluczowe liczby: 68 mln funtów, 18,1 mln funtów, 1,9 mln funtów) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "68 mln funtów",
+        "18,1 mln funtów",
+        "1,9 mln funtów"
+      ],
+      "title": "Co się dzieje z Poundlandem?",
+      "original_title": "What is going on with Poundland?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:22",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Poundland ma kilka dni na znalezienie kupca, w przeciwnym razie grozi mu administracja.",
+        "Jego właściciel, amerykańska firma inwestycyjna Gordon Brothers, wystawił go na sprzedaż we wrześniu, ale następnie odrzucił oferty utrzymania firmy na rynku.",
+        "Poundland jest obecny głównie na High Street, posiadając 600 sklepów w Wielkiej Brytanii i Irlandii, gdzie prowadzi sprzedaż pod marką Dealz."
+      ],
+      "extended_paragraphs": [
+        "Poundland ma kilka dni na znalezienie kupca, w przeciwnym razie grozi mu administracja. Dlaczego?",
+        "Jego właściciel, amerykańska firma inwestycyjna Gordon Brothers, wystawił go na sprzedaż we wrześniu, ale następnie odrzucił oferty utrzymania firmy na rynku.",
+        "Poundland jest obecny głównie na High Street, posiadając 600 sklepów w Wielkiej Brytanii i Irlandii, gdzie prowadzi sprzedaż pod marką Dealz.",
+        "Gdyby upadł, zagrożone byłyby stanowiska pracy 11 000 pracowników firmy, a także potencjalnie tysięcy innych osób w firmach zaopatrujących detalistę.",
+        "Chociaż sieć borykała się z trudnościami, gdy w zeszłym roku została sprzedana przez Pepco za 1 funta, w ciągu roku do września firma odnotowała poprawę, odnotowując stratę z 68 mln funtów do zysku wynoszącego 18,1 mln funtów przed odsetkami, podatkami i niektórymi opłatami księgowymi."
+      ]
+    },
+    {
+      "id": "makro-7-cf53bf",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1356,72 +1425,6 @@
         "Czy kiedykolwiek ubiegałeś się o pracę lub byłeś na rozmowie kwalifikacyjnej i nie usłyszałeś żadnej odpowiedzi od pracodawcy?",
         "Tak zwany „job Ghosting” stał się poważnym problemem dla osób poszukujących pracy w Wielkiej Brytanii, powodując „demoralizację”, podważając ich pewność siebie i podważając ich nadzieje na znalezienie pracy.",
         "Jest to kwestia poruszona w tym tygodniu w ważnym przeglądzie byłego ministra Alana Milburna dotyczącym młodych ludzi, którzy nie pracują, nie kształcą się ani nie szkolą – nazywanych Neets."
-      ]
-    },
-    {
-      "id": "makro-6-47e9db",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Sztuczna Inteligencja” (Sektor AI) (kluczowe liczby: 36%) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "36%"
-      ],
-      "title": "Czy sztuczna inteligencja naprawdę może pomóc wykryć oferty z okazji Czarnego Piątku? Poddaliśmy to próbie",
-      "original_title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "00:06",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Przetestowaliśmy cztery modele AI, aby sprawdzić, czy pozwolą nam zaoszczędzić pieniądze na nowym telewizorze.",
-        "Sprzedawcy obiecują okazje, ale sama liczba ofert może sprawić, że nie będziemy bliżej znalezienia najlepszej oferty.",
-        "Jest to obszar, w którym produkty generatywnej sztucznej inteligencji, takie jak ChatGPT, Claude i Gemini, obiecały pomóc."
-      ],
-      "extended_paragraphs": [
-        "Przetestowaliśmy cztery modele AI, aby sprawdzić, czy pozwolą nam zaoszczędzić pieniądze na nowym telewizorze.",
-        "Sprzedawcy obiecują okazje, ale sama liczba ofert może sprawić, że nie będziemy bliżej znalezienia najlepszej oferty.",
-        "Jest to obszar, w którym produkty generatywnej sztucznej inteligencji, takie jak ChatGPT, Claude i Gemini, obiecały pomóc.",
-        "Ale czy są dobrzy w znajdowaniu ofert na Czarny Piątek? Sami wybraliśmy się na tydzień przed tym wielkim dniem.",
-        "Z niedawnego badania YouGov przeprowadzonego w 19 krajach wynika, że ​​Wielka Brytania zajmuje drugie od końca miejsce pod względem odsetka osób, które stwierdziły, że korzystały ze sztucznej inteligencji przy robieniu zakupów."
-      ]
-    },
-    {
-      "id": "makro-7-d4c083",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
-      "key_metrics": [],
-      "title": "Faisal Islam: Ta obcinająca koszty umowa między Wielką Brytanią a UE nie oznacza, że nastąpią niższe ceny",
-      "original_title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:41",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Umowa handlowa raczej nie obniży cen żywności dla kupujących, ale powinna pobudzić gospodarkę bardziej niż inne umowy po brexicie.",
-        "W innym świecie Andy Burnham bardzo chciałby, aby supermarkety w całym kraju wyraźnie ogłosiły, że mogą obniżyć ceny żywności w wyniku najnowszego porozumienia w sprawie eksportu żywności.",
-        "I chociaż sklepy spożywcze bardzo przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia."
-      ],
-      "extended_paragraphs": [
-        "Umowa handlowa raczej nie obniży cen żywności dla kupujących, ale powinna pobudzić gospodarkę bardziej niż inne umowy po brexicie.",
-        "W innym świecie Andy Burnham bardzo chciałby, aby supermarkety w całym kraju wyraźnie ogłosiły, że mogą obniżyć ceny żywności w wyniku najnowszego porozumienia w sprawie eksportu żywności.",
-        "I chociaż sklepy spożywcze bardzo przyjęły piątkowe ogłoszenie, w szczególności nie zobowiązały się do obniżek cen będących bezpośrednim skutkiem tego posunięcia.",
-        "Dyrektor zarządzający M&S, Alex Freudmann, nazwał transakcję „ważnym krokiem naprzód”, twierdząc, że usunie ona biurokrację. Dyrektor naczelny Tesco, Ken Murphy, dodał, że to „dobra wiadomość dla brytyjskich rolników i producentów”.",
-        "Freudmann podkreślił pewne problemy, które szkodzą handlowi między Wielką Brytanią a UE, podając przykład, że „dostarczenie naszego spaghetti bolońskiego z Lincolnshire na półkę w Dublinie wymaga pokonywania setek dodatkowych mil, gór papierkowej roboty, podpisu weterynarza, a nawet łacińskiego imienia krowy”."
       ]
     }
   ],
@@ -1459,39 +1462,39 @@
       ]
     },
     {
-      "id": "tech-2-c576af",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
+      "id": "tech-2-1d8b89",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 100 milionów dolarów, 102,4 miliona dolarów, 93,4 miliona dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 61,5 miliarda dolarów, 81,3 miliarda dolarów, 10%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [
-        "100 milionów dolarów",
-        "102,4 miliona dolarów",
-        "93,4 miliona dolarów"
+        "61,5 miliarda dolarów",
+        "81,3 miliarda dolarów",
+        "10%"
       ],
-      "title": "„You Can See Everything” zarobiło na całym świecie ponad 100 milionów dolarów",
-      "original_title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "title": "Jak Notable Capital, GIC i Baillie Gifford postawiły na Anthropic przed pierwszą ofertą publiczną",
+      "original_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:42",
+      "time": "01:25",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "source_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Nowy dokument o Elizabeth Holmes dopiero zaczyna zdobywać międzynarodową sławę.",
-        "„You Can See Everything” – dokument Nathana Fieldera i Lance’a Oppenheima o założycielce Theranos, Elizabeth Holmes, osiągnął w ten weekend imponujący wynik kasowy, stając się jednym z niewielu filmów dokumentalnych, które zarobiły na całym świecie ponad 100 milionów dolarów.",
-        "Variety podaje, że prawie całość wpływów ze sprzedaży biletów wynoszących 102,4 miliona dolarów pochodziła od widzów w USA, dzięki którym film zarobił dotychczas 93,4 miliona dolarów."
+        "Trzej znaczący sponsorzy dzielą się tym, co przekonało ich do postawienia miliardów na Anthropic.",
+        "Jak Notable Capital, GIC i Baillie Gifford postawiły na Anthropic przed pierwszą ofertą publiczną Marina Temkin 17:25 PST · 22 listopada 2026 r. Kiedy Notable Capital wpłaciło około 10% amerykańskiej części swojego funduszu o wartości ponad miliarda dolarów na serię E Anthropic, wielu komandytariuszy było zakłopotanych tym ogromnym zakładem.",
+        "Twórca Claude'a wciąż pozostawał w tyle za swoim największym rywalem, OpenAI, a DeepSeek wypuścił swój model R1 zaledwie kilka tygodni wcześniej, grożąc wyprzedzeniem konkurentów korzystających z zamkniętego kodu źródłowego."
       ],
       "extended_paragraphs": [
-        "Nowy dokument o Elizabeth Holmes dopiero zaczyna zdobywać międzynarodową sławę.",
-        "„You Can See Everything” – dokument Nathana Fieldera i Lance’a Oppenheima o założycielce Theranos, Elizabeth Holmes, osiągnął w ten weekend imponujący wynik kasowy, stając się jednym z niewielu filmów dokumentalnych, które zarobiły na całym świecie ponad 100 milionów dolarów.",
-        "Variety podaje, że prawie całość wpływów ze sprzedaży biletów wynoszących 102,4 miliona dolarów pochodziła od widzów w USA, dzięki którym film zarobił dotychczas 93,4 miliona dolarów.",
-        "W ciągu najbliższych kilku miesięcy „You Can See Everything” będzie mieć premierę w wielu innych krajach – począwszy od Meksyku, Brazylii i Argentyny 25 i 26 listopada – więc łączna sprzedaż biletów może być znacznie wyższa.",
-        "I choć dokument był już niezaprzeczalnym sukcesem komercyjnym niezależnego studia A24 (zwłaszcza przy budżecie wynoszącym 7 milionów dolarów), teraz może pobić rekordy ustanowione przez najbardziej dochodowe filmy dokumentalne wszechczasów – „Marsz pingwinów” (127 milionów dolarów na całym świecie) i „Fahrenheit 9/11” (222 miliony dolarów na całym świecie)."
+        "Trzej znaczący sponsorzy dzielą się tym, co przekonało ich do postawienia miliardów na Anthropic.",
+        "Jak Notable Capital, GIC i Baillie Gifford postawiły na Anthropic przed pierwszą ofertą publiczną Marina Temkin 17:25 PST · 22 listopada 2026 r. Kiedy Notable Capital wpłaciło około 10% amerykańskiej części swojego funduszu o wartości ponad miliarda dolarów na serię E Anthropic, wielu komandytariuszy było zakłopotanych tym ogromnym zakładem. Twórca Claude'a wciąż pozostawał w tyle za swoim największym rywalem, OpenAI, a DeepSeek wypuścił swój model R1 zaledwie kilka tygodni wcześniej, grożąc wyprzedzeniem konkurentów korzystających z zamkniętego kodu źródłowego. Co więcej, wycena Anthropic na poziomie 61,5 miliarda dolarów była zdecydowanie najwyższą kwotą, jaką w swojej 25-letniej historii zainwestowała ta firma venture capital, głównie na wczesnym etapie rozwoju.",
+        "Inwestorzy w firmie Notable, znanej wcześniej jako GGV Capital przed wydzieleniem jej z działalności w Chinach w 2024 r., byli jednak pewni przyszłości Anthropic. Zespół składający się z partnerów zarządzających Hansa Tunga i Glenna Solomona oraz dyrektora Dana Cahany przeanalizował liczby i odkrył, że programiści w coraz większym stopniu faworyzują Claude'a zamiast ChatGPT, korzystając z Claude'a w 70% przypadków, co stanowi odwrotność sytuacji z poprzedniego roku.",
+        "„Po prostu wiedzieliśmy, że w przypadku sztucznej inteligencji programista jest w centrum uwagi, ponieważ to oni pierwsi wdrażają rozwiązanie” – powiedział TechCrunch Tung, współzałożyciel firmy.",
+        "Po zapoznaniu się ze złożonością stosunków USA-Chiny, Notable był również przekonany, że prace „o znaczeniu krytycznym” zawsze będą wymagały amerykańskich modeli o zamkniętym kodzie źródłowym, powiedział Tung."
       ]
     },
     {
@@ -1530,6 +1533,42 @@
       ]
     },
     {
+      "id": "tech-4-c576af",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 100 milionów dolarów, 102,4 miliona dolarów, 93,4 miliona dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "100 milionów dolarów",
+        "102,4 miliona dolarów",
+        "93,4 miliona dolarów"
+      ],
+      "title": "„You Can See Everything” zarobiło na całym świecie ponad 100 milionów dolarów",
+      "original_title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:42",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Nowy dokument o Elizabeth Holmes dopiero zaczyna zdobywać międzynarodową sławę.",
+        "„You Can See Everything” – dokument Nathana Fieldera i Lance’a Oppenheima o założycielce Theranos, Elizabeth Holmes, osiągnął w ten weekend imponujący wynik kasowy, stając się jednym z niewielu filmów dokumentalnych, które zarobiły na całym świecie ponad 100 milionów dolarów.",
+        "Variety podaje, że prawie całość wpływów ze sprzedaży biletów wynoszących 102,4 miliona dolarów pochodziła od widzów w USA, dzięki którym film zarobił dotychczas 93,4 miliona dolarów."
+      ],
+      "extended_paragraphs": [
+        "Nowy dokument o Elizabeth Holmes dopiero zaczyna zdobywać międzynarodową sławę.",
+        "„You Can See Everything” – dokument Nathana Fieldera i Lance’a Oppenheima o założycielce Theranos, Elizabeth Holmes, osiągnął w ten weekend imponujący wynik kasowy, stając się jednym z niewielu filmów dokumentalnych, które zarobiły na całym świecie ponad 100 milionów dolarów.",
+        "Variety podaje, że prawie całość wpływów ze sprzedaży biletów wynoszących 102,4 miliona dolarów pochodziła od widzów w USA, dzięki którym film zarobił dotychczas 93,4 miliona dolarów.",
+        "W ciągu najbliższych kilku miesięcy „You Can See Everything” będzie mieć premierę w wielu innych krajach – począwszy od Meksyku, Brazylii i Argentyny 25 i 26 listopada – więc łączna sprzedaż biletów może być znacznie wyższa.",
+        "I chociaż dokument był już niezaprzeczalnym sukcesem komercyjnym niezależnego studia A24 (zwłaszcza przy budżecie wynoszącym 7 milionów dolarów), teraz może pobić rekordy ustanowione przez najbardziej dochodowe filmy dokumentalne wszechczasów – „Marsz pingwinów” (127 milionów dolarów na całym świecie) i „Fahrenheit 9/11” (222 miliony dolarów na całym świecie)."
+      ]
+    },
+    {
       "id": "tech-5-edbea2",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
@@ -1562,7 +1601,7 @@
       ]
     },
     {
-      "id": "tech-4-a90760",
+      "id": "tech-6-a90760",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "LOW",
@@ -1581,51 +1620,16 @@
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Aby ustalić ograniczenie prędkości w rozwoju sztucznej inteligencji, należy uzgodnić sposób pomiaru prędkości.",
+        "Aby ustalić ograniczenie prędkości w rozwoju sztucznej inteligencji, musisz uzgodnić sposób pomiaru prędkości.",
         "Główny naukowiec OpenAI ma przemyślenia, jak ograniczyć rozwój sztucznej inteligencji Anthony Ha 13:14 PST · 22 listopada 2026 Nowy wpis na blogu głównego naukowca OpenAI Jakuba Pachockiego omawia potencjalne ograniczenia rozwoju sztucznej inteligencji, ze szczególnym uwzględnieniem pomiaru zwanego zakłopotaniem.",
         "Spowolnienie rozwoju sztucznej inteligencji stało się szczególnie gorącym tematem po tym, jak były badacz OpenAI i Anthropic stwierdził, że firmy „igrają z naszym życiem”, a nawet zgłoszenie Anthropic do oferty publicznej sugerowało, że technologia ta może stwarzać „katastrofalne lub egzystencjalne ryzyko dla społeczeństwa”."
       ],
       "extended_paragraphs": [
-        "Aby ustalić ograniczenie prędkości w rozwoju sztucznej inteligencji, należy uzgodnić sposób pomiaru prędkości.",
+        "Aby ustalić ograniczenie prędkości w rozwoju sztucznej inteligencji, musisz uzgodnić sposób pomiaru prędkości.",
         "Główny naukowiec OpenAI ma przemyślenia, jak ograniczyć rozwój sztucznej inteligencji Anthony Ha 13:14 PST · 22 listopada 2026 Nowy wpis na blogu głównego naukowca OpenAI Jakuba Pachockiego omawia potencjalne ograniczenia rozwoju sztucznej inteligencji, ze szczególnym uwzględnieniem pomiaru zwanego zakłopotaniem.",
         "Spowolnienie rozwoju sztucznej inteligencji stało się szczególnie gorącym tematem po tym, jak były badacz OpenAI i Anthropic stwierdził, że firmy „igrają z naszym życiem”, a nawet zgłoszenie Anthropic do oferty publicznej sugerowało, że technologia ta może stwarzać „katastrofalne lub egzystencjalne ryzyko dla społeczeństwa”.",
         "Dyrektor generalny Anthropic, Dario Amodei, opublikował następnie plan „przekroczenia granicy”, najwyraźniej zatwierdzony przez dyrektora generalnego OpenAI Sama Altmana i dyrektora generalnego SpaceX Elona Muska. Amodei wezwał między innymi firmy do wyrażenia zgody na „wspólne standardy bezpieczeństwa, a także ograniczenia tempa niekontrolowanego postępu AI”.",
         "Aby jednak ustalić ograniczenie prędkości w rozwoju sztucznej inteligencji, musisz uzgodnić sposób pomiaru prędkości. Post Pachockiego — opisany przez Altmana jako „najważniejsza rzecz, jaką OpenAI opublikowało od jakiegoś czasu” — sugeruje, że miarą może być zakłopotanie (nie mylić z firmą o tej samej nazwie)."
-      ]
-    },
-    {
-      "id": "tech-6-2ce135",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 16 milionów dolarów, 4,3 miliona) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "16 milionów dolarów",
-        "4,3 miliona"
-      ],
-      "title": "Najlepsze aplikacje do zawierania nowych znajomości już teraz",
-      "original_title": "The best apps to make new friends right now",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:00",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Zebraliśmy listę aplikacji do przyjaźni, od platform do odkrywania znajomych, takich jak BFF, po platformy skupiające się na wydarzeniach, takie jak Timeleft.",
-        "Najlepsze aplikacje do zawierania nowych znajomości już teraz Lauren Forristal 13:00 PST · 22 listopada 2026 W ostatnich latach ludzie coraz częściej szukają nowych sposobów nawiązywania kontaktów platonicznych, ponieważ samotność i izolacja społeczna stają się coraz bardziej powszechne.",
-        "W 2023 r. naczelny chirurg Stanów Zjednoczonych posunął się nawet do określenia tej kwestii jako kryzysu zdrowia publicznego."
-      ],
-      "extended_paragraphs": [
-        "Zebraliśmy listę aplikacji do przyjaźni, od platform do odkrywania znajomych, takich jak BFF, po platformy skupiające się na wydarzeniach, takie jak Timeleft.",
-        "Najlepsze aplikacje do zawierania nowych znajomości już teraz Lauren Forristal 13:00 PST · 22 listopada 2026 W ostatnich latach ludzie coraz częściej szukają nowych sposobów nawiązywania kontaktów platonicznych, ponieważ samotność i izolacja społeczna stają się coraz bardziej powszechne.",
-        "W 2023 r. naczelny chirurg Stanów Zjednoczonych posunął się nawet do określenia tej kwestii jako kryzysu zdrowia publicznego. Pracownicy zdalni, którym brakuje codziennych interakcji w biurze, oraz młodsze osoby chcące tworzyć swoje dorosłe kręgi społeczne w oparciu o wspólne zainteresowania i hobby, należą do osób poszukujących znaczących przyjaźni.",
-        "Dzięki aplikacjom randkowym online piętno związane ze znajdowaniem kontaktów w Internecie w dużej mierze zniknęło. To z radością powitało nową falę aplikacji skupiających się na wspieraniu przyjaźni i budowaniu lokalnych społeczności.",
-        "Według szacunków Appfigures kilkanaście lokalnych aplikacji służących do przyjaźni wygenerowało w tym roku łącznie około 16 milionów dolarów wydatków konsumenckich w USA. Niektóre godne uwagi przykłady to Timeleft, Meet5 i BFF Bumble. Ponadto w 2025 r. aplikacje te zebrano do tej pory około 4,3 miliona pobrań."
       ]
     },
     {
@@ -1693,7 +1697,7 @@
       "extended_paragraphs": [
         "Leki GLP-1 mogą zmniejszyć popyt na żywność na tyle, aby uwolnić pola uprawne większe niż Włochy.",
         "Globalny system żywnościowy ostatecznie napędzany jest popytem. Jeśli ludzie jedzą mniej, producenci reagują, wpływając na produkcję, ceny, handel i ilość potrzebnej ziemi. Wykorzystaliśmy potężną symulację komputerową do zbadania scenariuszy sięgających od stosowania GLP-1 skoncentrowanego w krajach o wysokich dochodach po powszechny dostęp na całym świecie.",
-        "Szacujemy, że w związku z powszechnym stosowaniem tych leków wśród osób dorosłych cierpiących na otyłość zmniejszenie spożycia kalorii może zapobiec aż do 6,6 miliona zgonów rocznie do 2050 r., uwalniając jednocześnie aż 32 miliony hektarów gruntów rolnych – obszar nieco większy niż Włochy – do innych zastosowań.",
+        "Szacujemy, że w związku z powszechnym stosowaniem tych leków wśród osób dorosłych cierpiących na otyłość zmniejszenie spożycia kalorii może zapobiec aż do 6,6 miliona zgonów rocznie do 2050 r., uwalniając jednocześnie aż 32 miliony hektarów gruntów rolnych – obszar nieco większy niż Włochy – do innych celów.",
         "Jednak największe efekty wystąpiły, gdy zmniejszone spożycie kalorii połączono z przejściem na zdrowszą dietę. W tym scenariuszu do 2050 r. można by uniknąć nawet 7 milionów zgonów rocznie, a około 46 milionów hektarów gruntów rolnych stałoby się dostępnych do innych zastosowań. Sugeruje to, że obok leków odchudzających musimy sprawić, że zdrowsze opcje będą szerzej dostępne, niedrogie i atrakcyjniejsze.",
         "Systemy żywnościowe są ze sobą powiązane w różnych krajach. Jeśli popyt spadnie w jednej części świata, może to mieć wpływ na rolnictwo, handel i ceny żywności w innych częściach świata, co będzie miało konsekwencje dla osób, które w ogóle nie przyjmują leków."
       ]
@@ -1737,28 +1741,28 @@
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
       "title": "COP31 nie osiąga dużego porozumienia klimatycznego, ponieważ rozmowy ujawniają głębokie podziały",
       "original_title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:17",
+      "time": "00:50",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Po kłótni o wzmiankę o paliwach kopalnych w rozmowach nie doszło do przełomu w sprawie rozwiązania problemu zmian klimatycznych.",
-        "Źródło zdjęcia, Reuters Mark Poynting, Esme Stallard i Justin Rowlatt BBC Klimat i nauka Opublikowano 4 godziny temu Krajom nie udało się osiągnąć nowego, ważnego porozumienia w sprawie przeciwdziałania zmianom klimatycznym po tym, jak podczas rozmów ONZ COP31 w Turcji pojawiły się głębokie podziały w sprawie paliw kopalnych i pieniędzy.",
-        "Negocjacje miały zakończyć się w piątek, ale w poszukiwaniu wspólnej płaszczyzny trwały do ​​późna w niedzielę, stając się najdłuższą konferencją klimatyczną ONZ w historii."
+        "Nadzieje na porozumienie w sprawie przeciwdziałania zmianom klimatycznym zniknęły po kłótni na temat wzmianki o paliwach kopalnych Źródło zdjęcia, Reuters Autor: Mark Poynting, Esme Stallard i Justin Rowlatt BBC Klimat i nauka Opublikowano 22 listopada 2026 r. Zaktualizowano 2 godziny temu Krajom nie udało się osiągnąć nowego, ważnego porozumienia w sprawie przeciwdziałania zmianom klimatycznym po tym, jak podczas rozmów ONZ COP31 w Turcji wyłoniły się głębokie podziały w sprawie paliw kopalnych i pieniędzy.",
+        "Negocjacje miały zakończyć się w piątek, ale w poszukiwaniu wspólnej płaszczyzny trwały do ​​późna w niedzielę, stając się najdłuższą konferencją klimatyczną ONZ w historii.",
+        "Ostateczne porozumienie okazało się jednak nie do przyjęcia dla UE, wyspiarskich krajów Pacyfiku i innych krajów, ponieważ nie wspomniało w nim bezpośrednio o paliwach kopalnych, głównej przyczynie globalnego ocieplenia."
       ],
       "extended_paragraphs": [
-        "Po kłótni o wzmiankę o paliwach kopalnych w rozmowach nie doszło do przełomu w sprawie rozwiązania problemu zmian klimatycznych.",
-        "Źródło zdjęcia, Reuters Mark Poynting, Esme Stallard i Justin Rowlatt BBC Klimat i nauka Opublikowano 4 godziny temu Krajom nie udało się osiągnąć nowego, ważnego porozumienia w sprawie przeciwdziałania zmianom klimatycznym po tym, jak podczas rozmów ONZ COP31 w Turcji pojawiły się głębokie podziały w sprawie paliw kopalnych i pieniędzy.",
+        "Nadzieje na porozumienie w sprawie przeciwdziałania zmianom klimatycznym zniknęły po kłótni na temat wzmianki o paliwach kopalnych",
+        "Źródło zdjęcia, Reuters Autor: Mark Poynting, Esme Stallard i Justin Rowlatt BBC Klimat i nauka Opublikowano 22 listopada 2026 r. Zaktualizowano 2 godziny temu Krajom nie udało się osiągnąć nowego, ważnego porozumienia w sprawie przeciwdziałania zmianom klimatycznym po tym, jak podczas rozmów ONZ COP31 w Turcji wyłoniły się głębokie podziały w sprawie paliw kopalnych i pieniędzy.",
         "Negocjacje miały zakończyć się w piątek, ale w poszukiwaniu wspólnej płaszczyzny trwały do ​​późna w niedzielę, stając się najdłuższą konferencją klimatyczną ONZ w historii.",
         "Ostateczne porozumienie okazało się jednak nie do przyjęcia dla UE, wyspiarskich krajów Pacyfiku i innych krajów, ponieważ nie wspomniało w nim bezpośrednio o paliwach kopalnych, głównej przyczynie globalnego ocieplenia.",
         "Tymczasem wiele biedniejszych krajów sprzeciwiło się brakowi jakichkolwiek wyraźnych zobowiązań finansowych ze strony bogatszych krajów, które pomogłyby im przystosować się do skutków rosnących temperatur."
@@ -1860,7 +1864,7 @@
       ]
     },
     {
-      "id": "swiat-6-3c0518",
+      "id": "swiat-6-496050",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1868,158 +1872,129 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Eksplozja na rosyjskim statku w porcie w Libii spowodowana podejrzeniem ataku dronem – twierdzą urzędnicy",
-      "original_title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "title": "Ratownicy twierdzą, że 7-letni chłopiec został wyciągnięty żywcem spod gruzów kilka godzin po rosyjskim ataku na Ukrainę",
+      "original_title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:28",
+      "time": "02:37",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Wschodni rząd Libii twierdzi, że statek w drodze powrotnej do Rosji zatrzymał się w celu zdobycia paliwa i zapasów.",
-        "Eksplozja na rosyjskim statku zacumowanym w bazie marynarki wojennej w Bengazi była spowodowana podejrzeniem ataku dronem – podał wschodni rząd Libii.",
-        "Do eksplozji doszło w niedzielę o świcie, kiedy statek zatrzymał się w drodze powrotnej do Rosji w celu uzupełnienia paliwa i zapasów – podały libijskie media państwowe, powołując się na wschodni rząd."
+        "W ataku zginęło dziewięć osób, a akcja ratownicza ma na celu odnalezienie tych, którzy nadal są zaginieni w budynku mieszkalnym.",
+        "Podpis pod rysunkiem „Zagrożenie wydaje się cały czas większe”: Ukraińcy szukają osób zaginionych po rosyjskich atakach na Kijów Siedmioletni chłopiec został uratowany spod gruzów budynku mieszkalnego w Dymer po 14 godzinach nocnych rosyjskich ataków na Dymer w obwodzie kijowskim, w których zginęło dziewięć osób – podają ukraińskie władze.",
+        "Do ataku doszło w niedzielę nad ranem."
       ],
       "extended_paragraphs": [
-        "Wschodni rząd Libii twierdzi, że statek w drodze powrotnej do Rosji zatrzymał się w celu zdobycia paliwa i zapasów.",
-        "Eksplozja na rosyjskim statku zacumowanym w bazie marynarki wojennej w Bengazi była spowodowana podejrzeniem ataku dronem – podał wschodni rząd Libii.",
-        "Do eksplozji doszło w niedzielę o świcie, kiedy statek zatrzymał się w drodze powrotnej do Rosji w celu uzupełnienia paliwa i zapasów – podały libijskie media państwowe, powołując się na wschodni rząd.",
-        "W niedzielę ministerstwo zdrowia poinformowało, że otrzymało rannych z innego statku, statku handlowego, który również był celem u wybrzeży Bengazi – podały media państwowe. Jak podało ministerstwo, ich obrażenia były lekkie, a ich stan stabilny.",
-        "Filmy opublikowane w mediach społecznościowych i geolokalizowane przez BBC Verify pokazują, że statek, który został uderzony rano, pochłonął płomienie i dym. Zdjęcia satelitarne z Planet Labs PBC pokazują również płonącą łódź o godzinie 05:47 GMT w porcie w Benghazi."
+        "W ataku zginęło dziewięć osób, a akcja ratownicza ma na celu odnalezienie tych, którzy nadal są zaginieni w budynku mieszkalnym.",
+        "Podpis pod rysunkiem „Zagrożenie wydaje się cały czas większe”: Ukraińcy szukają osób zaginionych po rosyjskich atakach na Kijów",
+        "Siedmioletni chłopiec został uratowany spod gruzów budynku mieszkalnego w Dymer po 14 godzinach nocnych rosyjskich ataków na Dymer w obwodzie kijowskim, w których zginęło dziewięć osób – podają ukraińskie władze.",
+        "Do ataku doszło w niedzielę nad ranem. Z zawalonego budynku uratowano także żywą 79-letnią kobietę – powiedział szef obwodu kijowskiego Tymur Tkaczenko.",
+        "Dodał, że w ataku na prywatny dom w Białej Cerkwi zginęła jeszcze jedna osoba, a budynek podpalił się."
       ]
     },
     {
-      "id": "swiat-7-b710a1",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
+      "id": "swiat-7-c765b2",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Sztuczna Inteligencja” (Sektor AI) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "„Zagrożenie wydaje się cały czas większe”: Ukraińcy szukają zaginionych po rosyjskich atakach",
-      "original_title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "title": "San Francisco cieszy się rozkwitem sztucznej inteligencji, ale rosną obawy o awarię",
+      "original_title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:37",
+      "time": "00:08",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Sarah Rainsford z BBC relacjonuje miejsce zawalenia się budynku mieszkalnego w obwodzie kijowskim na Ukrainie.",
-        "„Niebezpieczeństwo wydaje się cały czas większe”: Ukraińcy szukają zaginionych po rosyjskich strajkach Zamknij Kilka ciał odnaleziono na terenie budynku mieszkalnego, który został uderzony w wyniku rosyjskiego strajku w obwodzie kijowskim, poinformowały Państwowe Służby Ratunkowe Ukrainy.",
-        "W niedzielnym ranku w ataku we wsi Dymer zginęło sześć osób – powiedział szef obwodu kijowskiego Tymur Tkaczenko."
+        "Pracownicy AI w epicentrum branży – San Francisco – obawiają się, że sektor jest przegrzany.",
+        "Źródło zdjęcia, Stowarzyszenie Podróży w San Francisco Tytuł zdjęcia, Miasto San Francisco jest sercem sektora sztucznej inteligencji Lauren Goldboss jest zajęta.",
+        "Właścicielka małej firmy zajmującej się wyprowadzaniem psów w San Francisco."
       ],
       "extended_paragraphs": [
-        "Sarah Rainsford z BBC relacjonuje miejsce zawalenia się budynku mieszkalnego w obwodzie kijowskim na Ukrainie.",
-        "„Niebezpieczeństwo wydaje się cały czas większe”: Ukraińcy szukają zaginionych po rosyjskich strajkach Zamknij Kilka ciał odnaleziono na terenie budynku mieszkalnego, który został uderzony w wyniku rosyjskiego strajku w obwodzie kijowskim, poinformowały Państwowe Służby Ratunkowe Ukrainy.",
-        "W niedzielnym ranku w ataku we wsi Dymer zginęło sześć osób – powiedział szef obwodu kijowskiego Tymur Tkaczenko. Sześć osób zostało rannych, a inne nadal są zaginione.",
-        "Służba dodała, że ​​ciągłe ostrzeżenia o dalszych zagrożeniach ze strony dronów w pobliżu miejsca zdarzenia utrudniają wysiłki, ale niektóre osoby udało się ewakuować wcześniej tego samego dnia.",
-        "„Przeżywamy koszmar... tylko Bóg wie, kiedy to się skończy” – powiedziała jedna z kobiet Sarah Rainsford z BBC, reporterka z obwodu kijowskiego na Ukrainie."
+        "Pracownicy AI w epicentrum branży – San Francisco – obawiają się, że sektor jest przegrzany.",
+        "Źródło zdjęcia, Stowarzyszenie Podróży w San Francisco Tytuł zdjęcia, Miasto San Francisco jest sercem sektora sztucznej inteligencji",
+        "Lauren Goldboss jest zajęta. Właścicielka małej firmy zajmującej się wyprowadzaniem psów w San Francisco. Zatrudnia pracowników i kupuje samochody dostawcze.",
+        "Motorem rozwoju jest jej nowa usługa wyprowadzania psów w biurze Paw Perk, popularna wśród niektórych lokalnych start-upów zajmujących się sztuczną inteligencją.",
+        "Jej firma jest przykładem tego, jak boom AI w San Francisco przynosi korzyści innym sektorom."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-3-2d7b5b",
+      "id": "sport-3-f75d87",
       "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako HIGH.",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako MEDIUM.",
       "key_metrics": [],
-      "title": "Carlos Alcaraz nie posiada się z radości. \"Trudno ubrać to w słowa\"",
+      "title": "Gol Lewandowskiego na nic. Dramat Chicago Fire w 102. minucie",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:11",
+      "time": "01:42",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1285655/carlos-alcaraz-nie-posiada-sie-z-radosci-trudno-ubrac-to-w-slowa",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0367f1439900_13932317.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285601/gol-lewandowskiego-na-nic-dramat-chicago-fire-w-102-minucie",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0399c3aa1996_14484442.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Carlos Alcaraz pokonał Alexandra Zvereva i pierwszy raz w karierze wygrał ATP Finals.",
-        "Po meczu Hiszpan nie posiadał się z radości.",
-        "- Trudno obrać to w słowa."
+        "Chicago Fire przegrało z Charlotte FC 1:2 w pierwszym meczu play-off Major League Soccer.",
+        "Gol Roberta Lewandowskiego nic nie dał, bo w 12.",
+        "minucie doliczonego czasu zwycięstwo gościom zapewnił Pep Biel."
       ],
       "extended_paragraphs": [
-        "Carlos Alcaraz pokonał Alexandra Zvereva i pierwszy raz w karierze wygrał ATP Finals. Po meczu Hiszpan nie posiadał się z radości. - Trudno obrać to w słowa. Towarzyszą mi wspaniałe uczucia. Jestem dumny, że to osiągnąłem - mówił.",
-        "Skomentuj Carlos Alcaraz pokonał Alexandra Zvereva i pierwszy raz w karierze wygrał ATP Finals. Po meczu Hiszpan nie posiadał się z radości. - Trudno obrać to w słowa. Towarzyszą mi wspaniałe uczucia. Jestem dumny, że to osiągnąłem - mówił.",
-        "Carlos Alcaraz zdobył upragniony tytuł w ATP Finals. W niedzielę Hiszpan pokonał 6:2, 7:6(7) Alexandra Zvereva i pierwszy raz w karierze triumfował w turnieju kończącym sezon.",
-        "- Od dawna chciałem wygrać ten turniej. Gdy w końcu tego dokonałem, mnie i członków mojego zespołu ogarnęły ogromne emocje. Moja mama, która jest bardzo emocjonalna, rozpłakała się - mówił podczas konferencji prasowej, cytowany przez atptour.com.",
-        "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
+        "Chicago Fire przegrało z Charlotte FC 1:2 w pierwszym meczu play-off Major League Soccer. Gol Roberta Lewandowskiego nic nie dał, bo w 12. minucie doliczonego czasu zwycięstwo gościom zapewnił Pep Biel. Dla Polaka to był mecz zmarnowanych szans.",
+        "9 Komentarzy Chicago Fire przegrało z Charlotte FC 1:2 w pierwszym meczu play-off Major League Soccer. Gol Roberta Lewandowskiego nic nie dał, bo w 12. minucie doliczonego czasu zwycięstwo gościom zapewnił Pep Biel. Dla Polaka to był mecz zmarnowanych szans.",
+        "Była 68. minuta, gdy Robert Lewandowski uderzeniem głową wykończył dośrodkowanie Philipa Zinckernagela i doprowadził do remisu w meczu Chicago Fire - Charlotte FC ( ----> ZOBACZ ). Polak zachował się jak przystało na rasowego napastnika, wyskoczył najwyżej, trafił idealnie. Zrehabilitował się za niewykorzystanej okazje w pierwszej połowie.",
+        "Było 1:1, trener Gregg Berhalter już szykował się na rzuty karne i zmienił bramkarza. Chris Brady sprintem pobiegł na ławkę, a jego miejsce zajął Josh Cohen.",
+        "I Cohen niedługo później musiał bronić karnego, ale nie w w konkursie \"jedenastek\": w doliczonym czasie gry Jack Elliott odbił ręką strzał Rodolfo Aloko w polu karnym. Sędzia Filip Dujić bardzo długo czekał na decyzję z centrum VAR, natomiast finalnie został zawołany do monitora i podyktował rzut karny dla Charlotte. A żeby mało było dramaturgii, to Cohen obronił strzał Pepa Biela, jednak wobec dobitki był bezradny."
       ]
     },
     {
-      "id": "sport-1-922e93",
-      "entity_tag": "Sport Światowy",
+      "id": "sport-1-24a680",
+      "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Wszystko jasne. Trener podjął decyzję ws. Lewandowskiego",
+      "title": "Ostrovia walczyła do końca. Gorzkie zwycięstwo Polaków",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:32",
+      "time": "01:46",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285602/wszystko-jasne-trener-podjal-decyzje-ws-lewandowskiego",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b031b1050ef51_78581623.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-reczna/1285660/ostrovia-walczyla-do-konca-gorzkie-zwyciestwo-polakow",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b039aa30dd695_60370940.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Trener Gregg Berhalter odkrył karty: znamy składy na pierwszy mecz I rundy play-off pomiędzy Chicago Fire i Charlotte FC.",
-        "Robert Lewandowski zaczyna w wyjściowym składzie.",
-        "Skomentuj Trener Gregg Berhalter odkrył karty: znamy składy na pierwszy mecz I rundy play-off pomiędzy Chicago Fire i Charlotte FC."
+        "Rebud KPR Ostrovia Ostrów Wielkopolski pokonała H71 30:29 w rewanżu 3.",
+        "rundy Pucharu Europejskiego EHF.",
+        "Mimo zwycięstwa polski zespół zakończył udział w rozgrywkach."
       ],
       "extended_paragraphs": [
-        "Trener Gregg Berhalter odkrył karty: znamy składy na pierwszy mecz I rundy play-off pomiędzy Chicago Fire i Charlotte FC. Robert Lewandowski zaczyna w wyjściowym składzie.",
-        "Skomentuj Trener Gregg Berhalter odkrył karty: znamy składy na pierwszy mecz I rundy play-off pomiędzy Chicago Fire i Charlotte FC. Robert Lewandowski zaczyna w wyjściowym składzie.",
-        "Od zakończenia zgrupowania reprezentacji Polski minęło parę dni, Robert Lewandowski wrócił do treningów z Chicago Fire i trener Gregg Berhalter uznał, że nie ma sensu trzymać go na ławce rezerwowych w jednym z najważniejszych meczów sezonu 2026.",
-        "Lewandowski znalazł się w wyjściowym składzie na pierwszy mecz z Charlotte FC w I rundzie play-off i będzie szukał kolejnych goli w Major League Soccer.",
-        "Przypomnijmy, że w I rundzie play-off gra się do dwóch zwycięstw. Nie ma klasycznego formatu z meczem i rewanżem. Drugie spotkanie odbędzie się w Charlotte, a ewentualne trzecie ponownie w Chicago."
+        "Rebud KPR Ostrovia Ostrów Wielkopolski pokonała H71 30:29 w rewanżu 3. rundy Pucharu Europejskiego EHF. Mimo zwycięstwa polski zespół zakończył udział w rozgrywkach.",
+        "Skomentuj Rebud KPR Ostrovia Ostrów Wielkopolski pokonała H71 30:29 w rewanżu 3. rundy Pucharu Europejskiego EHF. Mimo zwycięstwa polski zespół zakończył udział w rozgrywkach.",
+        "Po sobotniej porażce 31:33 Rebud KPR Ostrovia przystępowała do rewanżu z koniecznością odrabiania strat. Oba spotkania rozegrano na Wyspach Owczych, choć w niedzielę formalnym gospodarzem byli Ostrowianie. Do bezpośredniego awansu potrzebowali zwycięstwa różnicą co najmniej trzech bramek.",
+        "Początek rywalizacji należał do H71, które w ósmej minucie prowadziło 4:2. Polski zespół odwrócił jednak sytuację i w 16. minucie sam miał dwie bramki przewagi (9:7). Sytuację skomplikowała czerwona kartka dla Krzysztofa Misiejuka, który w 22. minucie musiał opuścić boisko.",
+        "ZOBACZ WIDEO: Tak wyglądają groby polskich mistrzów sportu. Odwiedziliśmy warszawskie Powązki"
       ]
     },
     {
-      "id": "sport-2-3b01a2",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Mecz dnia",
-      "original_title": "Match of the Day",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:22",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3162.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Skróty meczów Liverpoolu z Manchesterem United i Hull City z Brighton.",
-        "Zamknij menu Kategorie Promowane kategorie Zdrajcy Strictly Come Dancing Dramat i mydła Filmy Komedia Dokumentalne Wiadomości sportowe Rozrywka Muzyka Jedzenie Styl życia Historia Nauka i przyroda Sztuka Z archiwum Dostępne formaty alternatywne Audio opisane Podpisane regiony Irlandia Północna Szkocja Walia Dziecięce CBeebies CBBC A-Z Przewodnik telewizyjny Lista obserwowanych BBC Jeden gracz Teraz ogląda - 22:30 Teraz ogląda - 22:30 Mecz dnia.",
-        "Wydarzenie sklasyfikowano w sektorze: Wydarzenia Sportowe (wpływ: LOW)."
-      ],
-      "extended_paragraphs": [
-        "Skróty meczów Liverpoolu z Manchesterem United i Hull City z Brighton.",
-        "Zamknij menu Kategorie Promowane kategorie Zdrajcy Strictly Come Dancing Dramat i mydła Filmy Komedia Dokumentalne Wiadomości sportowe Rozrywka Muzyka Jedzenie Styl życia Historia Nauka i przyroda Sztuka Z archiwum Dostępne formaty alternatywne Audio opisane Podpisane regiony Irlandia Północna Szkocja Walia Dziecięce CBeebies CBBC A-Z Przewodnik telewizyjny Lista obserwowanych BBC Jeden gracz Teraz ogląda - 22:30 Teraz ogląda - 22:30 Mecz dnia"
-      ]
-    },
-    {
-      "id": "sport-4-e14f91",
+      "id": "sport-2-e14f91",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2039,47 +2014,79 @@
       "lead_story": false,
       "summary_points": [
         "Nie można było rozpocząć panowania Mauricio Pochettino na stanowisku menadżera Manchesteru United w bardziej obiecujący sposób, pisze Simon Stone.",
-        "Główny reporter wiadomości piłkarskich Opublikowano godzinę temu „Zwolniony rano, rano zostajesz zwolniony…” Po czternastu minutach z założonymi rękami, dwoma golami straty dla Liverpoolu i zespołem Manchesteru United zredukowanym do 10 zawodników Mauricio Pochettino nie mógł zignorować okrutnych drwin odbijających się echem po Anfield.",
+        "Główny reporter wiadomości piłkarskich Opublikowano 6 godzin temu „Zwolniony rano, rano zostajesz zwolniony…” Po czternastu minutach z założonymi rękami, dwoma golami straty dla Liverpoolu i zespołem Manchesteru United zredukowanym do 10 zawodników Mauricio Pochettino nie mógł zignorować okrutnych drwin odbijających się echem po Anfield.",
         "O czym do cholery musiał myśleć Pochettino, gdy stał na skraju swojej strefy technicznej?"
       ],
       "extended_paragraphs": [
         "Nie można było rozpocząć panowania Mauricio Pochettino na stanowisku menadżera Manchesteru United w bardziej obiecujący sposób, pisze Simon Stone.",
-        "Główny reporter wiadomości piłkarskich Opublikowano godzinę temu „Zwolniony rano, rano zostajesz zwolniony…”",
+        "Główny reporter wiadomości piłkarskich Opublikowano 6 godzin temu „Zwolniony rano, rano zostajesz zwolniony…”",
         "Po czternastu minutach z założonymi rękami, dwoma golami straty dla Liverpoolu i zespołem Manchesteru United zredukowanym do 10 zawodników Mauricio Pochettino nie mógł zignorować okrutnych drwin odbijających się echem po Anfield.",
         "O czym do cholery musiał myśleć Pochettino, gdy stał na skraju swojej strefy technicznej?",
         "Jeśli chodzi o odległość, do swojego ostatniego zadania menedżerskiego przeciwko Haiti w Cincinnati brakowało mu 5800 mil, we wczesnych godzinach porannych środowego poranka czasu brytyjskiego."
       ]
     },
     {
-      "id": "sport-5-767650",
+      "id": "sport-4-294dc2",
       "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Gracz „wow” – dlaczego Ngumoha już zmienił zasady gry w Liverpoolu",
+      "original_title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:20",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Ekspert meczu dnia, Danny Murphy, wyjaśnia, jak Rio Ngumoha pokazał wszystkim, do czego jest zdolny, w zwycięskim 4:0 meczu Liverpoolu z Manchesterem United.",
+        "Opublikowano 4 godziny temu Rio Ngumoha będzie zawodnikiem Liverpoolu, który wywoła „wow” – i pokazał wszystkim, do czego jest zdolny w niedzielnym zwycięstwie 4:0 nad Manchesterem United.",
+        "Zaliczył znakomitą asystę, a następnie piękne wykończenie, a przed nim jeszcze wiele innych spotkań."
+      ],
+      "extended_paragraphs": [
+        "Ekspert meczu dnia, Danny Murphy, wyjaśnia, jak Rio Ngumoha pokazał wszystkim, do czego jest zdolny, w zwycięskim 4:0 meczu Liverpoolu z Manchesterem United.",
+        "Opublikowano 4 godziny temu Rio Ngumoha będzie zawodnikiem Liverpoolu, który wywoła „wow” – i pokazał wszystkim, do czego jest zdolny w niedzielnym zwycięstwie 4:0 nad Manchesterem United.",
+        "Zaliczył znakomitą asystę, a następnie piękne wykończenie, a przed nim jeszcze wiele innych spotkań. Gra bez strachu, więc w ten sam sposób będzie strzelał i zdobywał o wiele więcej bramek.",
+        "Ngumoha dopiero co skończył 18 lat, ale już zmienił zasady gry i ekscytuje ludzi, ponieważ w grach jeden na jednego trudno go zatrzymać.",
+        "Oczywiście on też może czasami frustrować, ale tak właśnie robią kreatywni i wybuchowi skrzydłowi tacy jak on – a to dlatego, że jest tak utalentowany, że każdy chce widzieć jego produkt końcowy za każdym razem, gdy dostaje się przy piłce."
+      ]
+    },
+    {
+      "id": "sport-5-5acba0",
+      "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Święto w Katowicach. Tak uczcili pamięć Furtoka. Fantastyczna oprawa",
+      "title": "Na kłopoty Lewandowski. Zobacz bramkę Polaka w play-off",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:58",
+      "time": "01:16",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285653/swieto-w-katowicach-tak-uczcili-pamiec-furtoka-fantastyczna-oprawa",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b036075f315a1_32896064.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285659/na-klopoty-lewandowski-zobacz-bramke-polaka-w-play-off",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b03937ed0b0b0_76451094.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Przed meczem z Lechem Poznań GKS Katowice złożył uroczysty hołd Janowi Furtokowi.",
-        "Oficjalnie odsłonięto pomnik legendy klubu, a stadion zyskał jego imię.",
-        "Wyjątkowe chwile uświetniła efektowna oprawa kibiców oraz symboliczny gest wnuka sławy."
+        "Nie szło Chicago Fire w meczu z Charlotte FC, ale w 68.",
+        "minucie wiarę w sukces gospodarzom przywrócił Robert Lewandowski.",
+        "To Polak strzelił wyrównującego gola na SeatGeek Stadium."
       ],
       "extended_paragraphs": [
-        "Przed meczem z Lechem Poznań GKS Katowice złożył uroczysty hołd Janowi Furtokowi. Oficjalnie odsłonięto pomnik legendy klubu, a stadion zyskał jego imię. Wyjątkowe chwile uświetniła efektowna oprawa kibiców oraz symboliczny gest wnuka sławy.",
-        "Skomentuj Przed meczem z Lechem Poznań GKS Katowice złożył uroczysty hołd Janowi Furtokowi. Oficjalnie odsłonięto pomnik legendy klubu, a stadion zyskał jego imię. Wyjątkowe chwile uświetniła efektowna oprawa kibiców oraz symboliczny gest wnuka sławy.",
-        "Uroczystość odbyła się tuż przed rozpoczęciem niedzielnego (22 listopada) spotkania 15. kolejki PKO BP Ekstraklasy, w którym GKS Katowice przegrał z Lechem Poznań (0:1 - więcej TUTAJ>> ).",
-        "Jak relacjonował \"Dziennik Zachodni\", w podniosłym wydarzeniu uczestniczyli m.in. żona zmarłego piłkarza, prezydent Katowic Marcin Krupa, prezes GKS-u Sławomir Witek oraz wojewoda śląski Marek Wójcik.",
-        "Odsłonięty monument Jana Furtoka (zobacz zdjęcie poniżej) to dzieło śląskiego rzeźbiarza Tomasza Wenklara, a jego realizacja była możliwa dzięki głosom mieszkańców w Budżecie Obywatelskim. Z kolei uchwałę o oficjalnym nadaniu katowickiemu obiektowi imienia Jana Furtoka miejscy radni przyjęli jednogłośnie we wrześniu 2026 r."
+        "Nie szło Chicago Fire w meczu z Charlotte FC, ale w 68. minucie wiarę w sukces gospodarzom przywrócił Robert Lewandowski. To Polak strzelił wyrównującego gola na SeatGeek Stadium.",
+        "Skomentuj Nie szło Chicago Fire w meczu z Charlotte FC, ale w 68. minucie wiarę w sukces gospodarzom przywrócił Robert Lewandowski. To Polak strzelił wyrównującego gola na SeatGeek Stadium.",
+        "Drużyna Chicago Fire miała poważne kłopoty, bo na początku drugiej połowy przytrafiła się drzemka w defensywie przy stałym fragmencie gry i Charlotte FC wyszło na prowadzenie w pierwszym meczu I rundy play-off Major League Soccer.",
+        "Nie szło gospodarzom, ale w 68. minucie obejrzeliśmy akcję, która przyniosła bramkę na 1:1.",
+        "Philip Zinckernagel zagrał w pole karne, piłkę podbił Jonathan Dean, a wszystko sfinalizował strzałem głową Robert Lewandowski."
       ]
     },
     {
@@ -2115,35 +2122,35 @@
       ]
     },
     {
-      "id": "sport-7-7bf514",
+      "id": "sport-7-e306d0",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Chwile grozy 19-latki. Nagle upadła na murawę. Jest komunikat",
+      "title": "Industria zdominowała rywali. Niecodzienny wybór MVP",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:54",
+      "time": "00:58",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285654/chwile-grozy-19-latki-nagle-upadla-na-murawe-jest-komunikat",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b035eee512b75_77147192.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-reczna/1285658/industria-zdominowala-rywali-niecodzienny-wybor-mvp",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0388a0658f23_32132717.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "19-letnia skrzydłowa Arsenal Lisa Baum zasłabła bez kontaktu z rywalką podczas spotkania Women's Super League z West Ham United (0:0).",
-        "Po długiej interwencji medycznej opuściła murawę na noszach, korzystając z tlenu.",
-        "Skomentuj 19-letnia skrzydłowa Arsenal Lisa Baum zasłabła bez kontaktu z rywalką podczas spotkania Women's Super League z West Ham United (0:0)."
+        "Industria Kielce pokonała na wyjeździe Corotop Gwardię Opole 34:22 w 10.",
+        "kolejce Lotto Superligi Mężczyzn.",
+        "Mimo wysokiej porażki gospodarzy nagrodę MVP otrzymał ich bramkarz Jakub Ałaj."
       ],
       "extended_paragraphs": [
-        "19-letnia skrzydłowa Arsenal Lisa Baum zasłabła bez kontaktu z rywalką podczas spotkania Women's Super League z West Ham United (0:0). Po długiej interwencji medycznej opuściła murawę na noszach, korzystając z tlenu.",
-        "Skomentuj 19-letnia skrzydłowa Arsenal Lisa Baum zasłabła bez kontaktu z rywalką podczas spotkania Women's Super League z West Ham United (0:0). Po długiej interwencji medycznej opuściła murawę na noszach, korzystając z tlenu.",
-        "Incydent miał miejsce około 30. minuty meczu, gdy piłka nie była w grze. Zespół medyczny Arsenalu szybko pojawił się przy zawodniczce. Lisa Baum otrzymała tlen, a po kilkuminutowej pomocy została przetransportowana na noszach w 34. minucie. Niemkę zastąpiła Caitlin Foord.",
-        "Kibice najedli się strachu, bo sytuacja wyglądała naprawdę niebezpiecznie. Arsenal w komunikacie cytowanym przez BBC przekazał, że Baum miała problemy z oddychaniem, ale jej stan szybko zaczął się poprawiać. Klub nie podał dodatkowych szczegółów dotyczących przyczyn zasłabnięcia.",
-        "Baum dołączyła do Arsenalu latem, przechodząc z RB Lipsk. Reprezentantka Niemiec zdążyła już zaznaczyć swoją obecność w nowym zespole. W spotkaniu otwierającym sezon zdobyła bramkę przeciwko Brighton."
+        "Industria Kielce pokonała na wyjeździe Corotop Gwardię Opole 34:22 w 10. kolejce Lotto Superligi Mężczyzn. Mimo wysokiej porażki gospodarzy nagrodę MVP otrzymał ich bramkarz Jakub Ałaj.",
+        "Skomentuj Industria Kielce pokonała na wyjeździe Corotop Gwardię Opole 34:22 w 10. kolejce Lotto Superligi Mężczyzn. Mimo wysokiej porażki gospodarzy nagrodę MVP otrzymał ich bramkarz Jakub Ałaj.",
+        "Po czwartkowej porażce z FC Barceloną w Lidze Mistrzów Industria Kielce przystąpiła do wyjazdowego spotkania z Corotop Gwardią Opole. Początek niedzielnej rywalizacji w Stegu Arenie należał do bramkarzy obu zespołów. Pierwsze trafienie padło dopiero w czwartej minucie, gdy Faruk Yusuf wykorzystał odbitą piłkę i otworzył wynik.",
+        "W ósmej minucie goście prowadzili już 3:0, a trener gospodarzy Bartosz Jurecki poprosił o czas. Przerwa nie przyniosła poprawy, ponieważ jego podopieczni nadal mieli problemy w ofensywie. Dopiero w 11. minucie Kelian Janikowski zdobył pierwszą bramkę dla Gwardii, zmniejszając straty do 1:5. Gra z siódmym zawodnikiem w ataku pozwoliła później Opolanom zbliżyć się na 3:7.",
+        "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
       ]
     },
     {
@@ -2167,12 +2174,12 @@
       "lead_story": false,
       "summary_points": [
         "Gerwyn Price kończy swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
-        "Źródło zdjęcia, Stowarzyszenie Prasowe Tytuł zdjęcia: Gerwyn Price czterokrotnie wygrała Wielkiego Szlema w rzutkach Gerwyn Price zakończył swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
+        "Źródło zdjęcia, Stowarzyszenie Prasowe Tytuł zdjęcia, Gerwyn Price czterokrotnie wygrała Wielkiego Szlema w rzutkach Gerwyn Price zakończył swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
         "Walijczyk ostatni raz zdobył ważny tytuł, zdobywając mistrzostwo świata w 2022 r., ale ostatecznie przekroczył granicę po porażkach w trzech finałach w 2026 r. 41-latek był wicemistrzem World Matchplay, World Grand Prix i World Series, a także odchodził z półfinału Premier League, World Masters, UK Open i Mistrzostw Europy."
       ],
       "extended_paragraphs": [
         "Gerwyn Price kończy swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
-        "Źródło zdjęcia, Stowarzyszenie Prasowe Tytuł zdjęcia: Gerwyn Price czterokrotnie wygrała Wielkiego Szlema w rzutkach",
+        "Źródło zdjęcia, Stowarzyszenie Prasowe Tytuł zdjęcia, Gerwyn Price czterokrotnie wygrała Wielkiego Szlema w rzutkach",
         "Gerwyn Price zakończył swoje czteroletnie oczekiwanie na ważny tytuł PDC, pokonując Gian van Veena 16:11 w finale Wielkiego Szlema w Darts.",
         "Walijczyk ostatni raz zdobył ważny tytuł, zdobywając mistrzostwo świata w 2022 r., ale ostatecznie przekroczył granicę po porażkach w trzech finałach w 2026 r.",
         "41-latek był wicemistrzem World Matchplay, World Grand Prix i World Series, a także odchodził z półfinału Premier League, World Masters, UK Open i Mistrzostw Europy."
@@ -2227,7 +2234,7 @@
         "150 milionów dolarów",
         "4,6 miliona dolarów"
       ],
-      "title": "Pracownicy wspieranego przez Erica Trumpa startupu robotycznego tracą świadczenia zdrowotne w miarę pogłębiania się kryzysu finansowego firmy",
+      "title": "Pracownicy startupu robotycznego wspieranego przez Erica Trumpa tracą świadczenia zdrowotne w miarę pogłębiania się kryzysu finansowego firmy",
       "original_title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
       "is_foreign": true,
       "lang": "EN",
@@ -2442,7 +2449,7 @@
       "time": "06:00",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&amp;w=1920&amp;h=1080",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795404935&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [

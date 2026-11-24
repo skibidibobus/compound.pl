@@ -3,10 +3,10 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.328",
-    "last_updated": "2026-11-24 01:21",
+    "last_updated": "2026-11-24 11:13",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 18,
-    "foreign_translated_count": 20,
+    "foreign_translated_count": 19,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -22,76 +22,76 @@
       "symbol": "USD/PLN",
       "name": "Dolar amerykański",
       "group": "fx",
-      "mid": 4.0601,
-      "price": "4.0601",
-      "prev_price": "4.0613",
-      "change": "-0.03%",
-      "is_positive": false,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "mid": 4.0819,
+      "price": "4.0819",
+      "prev_price": "4.0601",
+      "change": "+0.54%",
+      "is_positive": true,
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "EUR",
       "symbol": "EUR/PLN",
       "name": "Euro",
       "group": "fx",
-      "mid": 4.4556,
-      "price": "4.4556",
-      "prev_price": "4.4559",
-      "change": "-0.01%",
-      "is_positive": false,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "mid": 4.4633,
+      "price": "4.4633",
+      "prev_price": "4.4556",
+      "change": "+0.17%",
+      "is_positive": true,
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "CHF",
       "symbol": "CHF/PLN",
       "name": "Frank szwajcarski",
       "group": "fx",
-      "mid": 4.8383,
-      "price": "4.8383",
-      "prev_price": "4.8282",
-      "change": "+0.21%",
+      "mid": 4.8535,
+      "price": "4.8535",
+      "prev_price": "4.8383",
+      "change": "+0.31%",
       "is_positive": true,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "GBP",
       "symbol": "GBP/PLN",
       "name": "Funt szterling",
       "group": "fx",
-      "mid": 5.3246,
-      "price": "5.3246",
-      "prev_price": "5.3214",
-      "change": "+0.06%",
+      "mid": 5.3338,
+      "price": "5.3338",
+      "prev_price": "5.3246",
+      "change": "+0.17%",
       "is_positive": true,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "symbol": "ZŁOTO (g)",
       "name": "Złoto NBP (PLN/g)",
       "group": "commodities",
-      "price": "465.83 zł",
-      "change": "-3.20%",
-      "is_positive": false
+      "price": "471.74 zł",
+      "change": "+1.27%",
+      "is_positive": true
     },
     {
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$61,442",
-      "change": "+0.91%",
-      "is_positive": true
+      "price": "$59,657",
+      "change": "-2.65%",
+      "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,716",
-      "change": "+0.26%",
-      "is_positive": true
+      "price": "$1,682",
+      "change": "-2.27%",
+      "is_positive": false
     },
     {
       "symbol": "WIG20",
@@ -228,156 +228,156 @@
       "symbol": "USD/PLN",
       "name": "Dolar amerykański",
       "group": "fx",
-      "mid": 4.0601,
-      "price": "4.0601",
-      "prev_price": "4.0613",
-      "change": "-0.03%",
-      "is_positive": false,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "mid": 4.0819,
+      "price": "4.0819",
+      "prev_price": "4.0601",
+      "change": "+0.54%",
+      "is_positive": true,
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "EUR",
       "symbol": "EUR/PLN",
       "name": "Euro",
       "group": "fx",
-      "mid": 4.4556,
-      "price": "4.4556",
-      "prev_price": "4.4559",
-      "change": "-0.01%",
-      "is_positive": false,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "mid": 4.4633,
+      "price": "4.4633",
+      "prev_price": "4.4556",
+      "change": "+0.17%",
+      "is_positive": true,
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "CHF",
       "symbol": "CHF/PLN",
       "name": "Frank szwajcarski",
       "group": "fx",
-      "mid": 4.8383,
-      "price": "4.8383",
-      "prev_price": "4.8282",
-      "change": "+0.21%",
+      "mid": 4.8535,
+      "price": "4.8535",
+      "prev_price": "4.8383",
+      "change": "+0.31%",
       "is_positive": true,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "GBP",
       "symbol": "GBP/PLN",
       "name": "Funt szterling",
       "group": "fx",
-      "mid": 5.3246,
-      "price": "5.3246",
-      "prev_price": "5.3214",
-      "change": "+0.06%",
+      "mid": 5.3338,
+      "price": "5.3338",
+      "prev_price": "5.3246",
+      "change": "+0.17%",
       "is_positive": true,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "JPY",
       "symbol": "JPY/PLN",
       "name": "Jen japoński (100)",
       "group": "fx",
-      "mid": 0.025515,
-      "price": "2.5515",
-      "prev_price": "2.5589",
-      "change": "-0.29%",
-      "is_positive": false,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "mid": 0.025581,
+      "price": "2.5581",
+      "prev_price": "2.5515",
+      "change": "+0.26%",
+      "is_positive": true,
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "CZK",
       "symbol": "CZK/PLN",
       "name": "Korona czeska",
       "group": "fx",
-      "mid": 0.1822,
-      "price": "0.1822",
+      "mid": 0.1826,
+      "price": "0.1826",
       "prev_price": "0.1822",
-      "change": "+0.00%",
+      "change": "+0.22%",
       "is_positive": true,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "NOK",
       "symbol": "NOK/PLN",
       "name": "Korona norweska",
       "group": "fx",
-      "mid": 0.4174,
-      "price": "0.4174",
-      "prev_price": "0.4149",
-      "change": "+0.60%",
-      "is_positive": true,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "mid": 0.4156,
+      "price": "0.4156",
+      "prev_price": "0.4174",
+      "change": "-0.43%",
+      "is_positive": false,
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "SEK",
       "symbol": "SEK/PLN",
       "name": "Korona szwedzka",
       "group": "fx",
-      "mid": 0.3973,
-      "price": "0.3973",
-      "prev_price": "0.3982",
-      "change": "-0.23%",
+      "mid": 0.3971,
+      "price": "0.3971",
+      "prev_price": "0.3973",
+      "change": "-0.05%",
       "is_positive": false,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "CAD",
       "symbol": "CAD/PLN",
       "name": "Dolar kanadyjski",
       "group": "fx",
-      "mid": 2.8344,
-      "price": "2.8344",
-      "prev_price": "2.8358",
-      "change": "-0.05%",
-      "is_positive": false,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "mid": 2.8458,
+      "price": "2.8458",
+      "prev_price": "2.8344",
+      "change": "+0.40%",
+      "is_positive": true,
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "AUD",
       "symbol": "AUD/PLN",
       "name": "Dolar australijski",
       "group": "fx",
-      "mid": 2.698,
-      "price": "2.6980",
-      "prev_price": "2.7033",
-      "change": "-0.20%",
-      "is_positive": false,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "mid": 2.7055,
+      "price": "2.7055",
+      "prev_price": "2.6980",
+      "change": "+0.28%",
+      "is_positive": true,
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "DKK",
       "symbol": "DKK/PLN",
       "name": "Korona duńska",
       "group": "fx",
-      "mid": 0.5961,
-      "price": "0.5961",
+      "mid": 0.5972,
+      "price": "0.5972",
       "prev_price": "0.5961",
-      "change": "+0.00%",
+      "change": "+0.18%",
       "is_positive": true,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     },
     {
       "code": "HUF",
       "symbol": "HUF/PLN",
       "name": "Forint węgierski (100)",
       "group": "fx",
-      "mid": 0.011965,
-      "price": "1.1965",
-      "prev_price": "1.1942",
-      "change": "+0.19%",
+      "mid": 0.012074,
+      "price": "1.2074",
+      "prev_price": "1.1965",
+      "change": "+0.91%",
       "is_positive": true,
-      "table_no": "227/A/NBP/2026",
-      "date": "2026-11-23"
+      "table_no": "228/A/NBP/2026",
+      "date": "2026-11-24"
     }
   ],
   "analizy": [
@@ -910,39 +910,35 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-65fd9c",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
+      "id": "rynki-1-2bb544",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 31%, 6,51%, 5,3%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "31%",
-        "6,51%",
-        "5,3%"
-      ],
-      "title": "Wielki powrót Jensena. Nvidia urosła o 31%, napędzając odbicie na Wall Street",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Prezes Euronext Amsterdam: Jeśli giełda koncentruje się na krótkoterminowych zyskach, zaczyna konsumować własną przyszłość",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:05",
+      "time": "06:30",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Wielki-powrot-Jensena-Nvidia-urosla-o-31-napedzajac-odbicie-na-Wall-Street-9233824.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/a/e53509dc8b7e82-948-568-0-242-4618-2770.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Prezes-Euronext-Amsterdam-Jesli-gielda-koncentruje-sie-na-krotkoterminowych-zyskach-zaczyna-konsumowac-wlasna-przyszlosc-9233760.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/e/9/29f31a0e4953f7-948-568-900-1180-2250-1350.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Powrót Jensena Huanga na stanowisko prezydenta i CEO Nvidii dźwignęła kurs technologicznego giganta o niewiarygodne 31%, co na mocno wyprzedanym rynku doprowadziło do potężnych zwyżek.",
-        "fot. Kylie Cooper / Reuters / / / FORUM Nasdaq Composite zyskał 6,51% po tym, jak w piątek zanurkował o 5,3% i znalazł się najniżej od kwietnia.",
-        "Po poniedziałkowej sesji Nasdaq nawiązką odrobił piątkowe straty, ale wciąż znajduje się 13% poniżej październikowego szczytu hossy."
+        "Europa nie cierpi na brak kapitału, lecz na problemy z jego efektywnym wykorzystaniem.",
+        "Potrzebujemy większej integracji giełd, silniejszej płynności i lepszego dostępu firm do finansowania – przekonuje René van Vlerken, prezes Euronext Amsterdam, w rozmowie z Bankier.pl.",
+        "We wtorek, 24 listopada, w Warszawie odbywa się Euronext IPO Day, wydarzenie poświęcone finansowaniu przedsiębiorstw przez europejski rynek kapitałowy."
       ],
       "extended_paragraphs": [
-        "Powrót Jensena Huanga na stanowisko prezydenta i CEO Nvidii dźwignęła kurs technologicznego giganta o niewiarygodne 31%, co na mocno wyprzedanym rynku doprowadziło do potężnych zwyżek.",
-        "fot. Kylie Cooper / Reuters / / / FORUM Nasdaq Composite zyskał 6,51% po tym, jak w piątek zanurkował o 5,3% i znalazł się najniżej od kwietnia. Po poniedziałkowej sesji Nasdaq nawiązką odrobił piątkowe straty, ale wciąż znajduje się 13% poniżej październikowego szczytu hossy.",
-        "Tak wielki entuzjazm inwestorów wywołany został informacją z Nvidii, której rada dyrektorów uległa presji akcjonariuszy, pracowników i samego prezydenta Donalda Trumpa przywracając na wcześniejsze stanowiska prezesa i założyciela spółki Jensena Huanga . To zdjęło ze stołu część obaw o przyszłość Nvidii i wyniosło kurs akcje producenta chipów o 31,48% w górę. Jest to coś, co w przypadku tak wielkiej spółki praktycznie się nie zdarza. Warto jednak pamiętać, że przez poprzedni miesiąc kurs Nvidii spadł o 44%. Ma zatem co odrabiać.",
-        "- Było zdecydowanie wielu ludzi, którzy chcieli jego powrotu. Nie jest możliwym ocenić, czy w jakim stopniu zdecydowała presja akcjonariuszy, w jakim pracowników, a w jakim rządu – skwitował Steve Sosnick, główny strateg Interactive Brokers cytowany przez agencję Reuters. Wolta rady dyrektorów Nvidii jest o tyle niespodziewana, że jeszcze w ubiegłym tygodniu kategorycznie wykluczała powrót Jensena Huanga. Jak widać wiarygodność nie jest jej mocną stroną.",
-        "Optymizm udzielił się całemu sektorowi technologicznemu na Wall Street. Notowania Tesli wzrosły o 11,5%. Kurs akcji Micron Technology poszedł w górę o 19%, Intela o 16%, a walory Mety i Alphabetu zyskiwały po przeszło 6%."
+        "Europa nie cierpi na brak kapitału, lecz na problemy z jego efektywnym wykorzystaniem. Potrzebujemy większej integracji giełd, silniejszej płynności i lepszego dostępu firm do finansowania – przekonuje René van Vlerken, prezes Euronext Amsterdam, w rozmowie z Bankier.pl. We wtorek, 24 listopada, w Warszawie odbywa się Euronext IPO Day, wydarzenie poświęcone finansowaniu przedsiębiorstw przez europejski rynek kapitałowy.",
+        "fot. Piroschka Van De Wouw / / Reuters / Forum Andrzej Stec: Jakie są najważniejsze strategiczne priorytety Euronextu na najbliższe lata?",
+        "René van Vlerken, CEO Euronext Amsterdam: Europa wkracza w decydującą dekadę. Musimy sfinansować reindustrializację, transformację energetyczną, inwestycje w obronność oraz rozwój kolejnego pokolenia europejskich liderów technologicznych. Problem nie polega na tym, że Europie brakuje kapitału. Dysponujemy jednymi z największych na świecie zasobów oszczędności. Wyzwaniem jest skuteczniejsze kierowanie tych pieniędzy na inwestycje w Europie.",
+        "Dlatego strategicznym priorytetem Euronextu jest wspieranie budowy prawdziwej unii oszczędności i inwestycji oraz rzeczywiście zintegrowanego europejskiego rynku kapitałowego. Europa potrzebuje większych i bardziej płynnych rynków, mniejszych barier dla inwestycji transgranicznych oraz sprawniejszej infrastruktury.",
+        "W Euronext pokazaliśmy już, jakie korzyści może przynieść integracja. Obecnie grupa łączy osiem rynków w ramach modelu federacyjnego, który pozwala zachować silne lokalne ekosystemy, a jednocześnie zapewnia wspólną europejską pulę płynności, jednolitą technologię i zintegrowaną infrastrukturę rozliczeniową."
       ]
     },
     {
@@ -981,39 +977,75 @@
       ]
     },
     {
-      "id": "rynki-5-1140ef",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-3-d489b7",
+      "entity_tag": "GUS / Makro Polska",
+      "sector": "Makroekonomia",
       "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 0,1%, 2,7%, 1,7%) — wymaga obserwacji marż i wsparć cenowych.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GUS / Makro Polska (Makroekonomia) (kluczowe liczby: 3,5%, 3,3%, 3,8%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "0,1%",
-        "2,7%",
-        "1,7%"
+        "3,5%",
+        "3,3%",
+        "3,8%"
       ],
-      "title": "Kiepściutkie wyniki z polskiego przemysłu. Szczyt cyklu chyba mamy za sobą",
+      "title": "Sprzedaż detaliczna nie zachwyciła. Polski konsument jakoś się nie uśmiecha",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
       "time": "09:30",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Produkcja-przemyslowa-w-Polsce-w-pazdzierniku-2026-rozczarowala-Szczyt-cyklu-chyba-mamy-za-soba-9233303.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/8/6/b43ac696dd8806-948-568-350-0-3650-2189.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Sprzedaz-detaliczna-nie-zachwycila-Polski-konsument-jakos-sie-nie-usmiecha-9233973.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/0/3/e30a84b4d7c347-948-568-0-114-1885-1131.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Zamiast spowolnienia mieliśmy ostre hamowanie produkcji przemysłowej.",
-        "Takie dane mogą sugerować koniec i tak bardzo rachitycznego cyklu koniunkturalnego w polskim sektorze wytwórczym.",
-        "fot. ultramansk / / Shutterstock W październiku 2026 roku produkcja przemysłowa w Polsce była o ledwie o 0,1% wyższa niż przed rokiem – poinformował Główny Urząd Statystyczny."
+        "Po dwóch miesiącach rozczarowań ekonomiści wreszcie obniżyli swoje oczekiwania na tyle, aby wyniki sprzedaży detalicznej przestały negatywnie zaskakiwać.",
+        "fot. Andrzej Sidor / / Forum Sprzedaż detaliczna liczona w cenach stałych (czyli już po uwzględnieniu zmian cen) w październiku 2026 roku była o 3,5% wyższa niż przed rokiem – poinformował Główny Urząd Statystyczny.",
+        "To rezultat ciut wyższy od rynkowego konsensusu leżącego na poziomie 3,3%."
       ],
       "extended_paragraphs": [
-        "Zamiast spowolnienia mieliśmy ostre hamowanie produkcji przemysłowej. Takie dane mogą sugerować koniec i tak bardzo rachitycznego cyklu koniunkturalnego w polskim sektorze wytwórczym.",
-        "fot. ultramansk / / Shutterstock W październiku 2026 roku produkcja przemysłowa w Polsce była o ledwie o 0,1% wyższa niż przed rokiem – poinformował Główny Urząd Statystyczny. Był to rezultat wyraźnie niższy od i tak skromnych oczekiwań ekonomistów, którzy spodziewali się wzrostu produkcji o 2,7% rdr. Natomiast względem września wartość produkcji wzrosła o 1,7%.",
-        "Od ponad roku wyniki polskiej produkcji przemysłowej cechują się wyższą niż dawniej zmiennością. Po jednym znakomitym miesiącu potrafi przyjść rozczarowanie i marny wynik w miesiącu następnym. Tak było np. w marcu, gdy nieoczekiwanie wartość produkcji przemysłowej wystrzeliła w górę o 9,4% rdr (choć później ten rezultat zrewidowano w dół do 7,4%) notując najlepszy wynik od 2022 roku. Ale wcześniej były bardzo słabe odczyty za luty i styczeń następujące po rewelacyjnym odczycie za grudzień 2025 r. Podobny skok (do 7,4% rdr) odnotowano w czerwcu, który z kolei nastąpił po kiepskim maju i jeszcze słabszym kwietniu . A później mieliśmy spowolnienie w lipcu .",
-        "Bankier.pl Także sierpniowe rezultaty polskiego przemysłu rozczarowały ekonomistów, a względem lipca odnotowano dość silny spadek produkcji. Później jednak mieliśmy pozytywne zaskoczenie w danych za wrzesień , choć same wyniki nie były przesadnie mocne. Aby nieco wyciszyć ten szum informacyjny, uśredniłem wyniki polskiego przemysłu przy pomocy trzymiesięcznej średniej kroczącej rocznej dynamiki produkcji przemysłowej .",
-        "Po październiku wyniosła ona 3,07% względem 5,50% odnotowanych we wrześniu , gdy przybrała najwyższą wartość od listopada 2022 roku. Teraz mamy najniższą wartość od marca, co może sygnalizować, że cykliczny szczyt koniunktury w polskim przemyśle jest już za nami. Jeśli tak jest, bo mieliśmy do czynienia z bardzo słabym cyklem, podobnym do tego z lat 2013-14."
+        "Po dwóch miesiącach rozczarowań ekonomiści wreszcie obniżyli swoje oczekiwania na tyle, aby wyniki sprzedaży detalicznej przestały negatywnie zaskakiwać.",
+        "fot. Andrzej Sidor / / Forum Sprzedaż detaliczna liczona w cenach stałych (czyli już po uwzględnieniu zmian cen) w październiku 2026 roku była o 3,5% wyższa niż przed rokiem – poinformował Główny Urząd Statystyczny. To rezultat ciut wyższy od rynkowego konsensusu leżącego na poziomie 3,3%.",
+        "GUS Jest to zarazem rezultat nieznacznie wyższy od tego, co polscy statystycy odnotowali we wrześniu. Wrześniowy wzrost wolumenu sprzedaży detalicznej wyniósł 3,3%, co okazało się rezultatem niższy od większości prognoz ekonomistów. Także wzrost sierpniowy (3,8% rdr) okazał się rozczarowaniem . Generalnie w danych widać, że po czerwcu ’26 dynamika sprzedaży detalicznej pozostaje mocno przytłumiona.",
+        "W okresie od stycznia do października sprzedaż detaliczna liczona w cenach stałych była tylko o 2,7% wyższa niż w takim samym okresie roku poprzedniego. Rok temu w analogicznym okresie wzrost sprzedaży wyniósł 4,3%, ale został osiągnięty w bardziej sprzyjających warunkach makroekonomicznych.",
+        "Po wyeliminowaniu wpływu czynników o charakterze sezonowym październikowa sprzedaż detaliczna w cenach stałych ukształtowała się na poziomie o 3,9% wyższym niż rok wcześniej. W porównaniu z wrześniem bieżącego roku obroty sklepów po wyrównaniu sezonowym wzrosły o 1,9% – dodaje GUS."
+      ]
+    },
+    {
+      "id": "rynki-5-0bbc69",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 3 miliony, 100 tys. zł, 51,4%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3 miliony",
+        "100 tys. zł",
+        "51,4%"
+      ],
+      "title": "Rekordy na giełdzie, a Polacy wciąż wściekli na ten sam podatek. Prompt zamiast maklera, czyli wyniki OBI 2026",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Oto-portfel-polskiego-inwestora-w-2026-r-100-tys-zl-w-portfelu-to-juz-standard-9233661.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/e/7/6c1e604cb9ae13-948-568-7-0-992-595.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Ogólnopolskie Badanie Inwestorów (OBI), przygotowywane co roku przez Stowarzyszenie Inwestorów Indywidualnych (SII), to najważniejsza fotografia rodzimego rynku detalicznego .",
+        "już edycji ankiety (przeprowadzonej na przełomie października i listopada) wzięło udział 3388 aktywnych inwestorów.",
+        "fot. Hryshchyshen Serhii / / Shutterstock Badanie przypadło na moment wyjątkowy w historii polskich finansów."
+      ],
+      "extended_paragraphs": [
+        "Ogólnopolskie Badanie Inwestorów (OBI), przygotowywane co roku przez Stowarzyszenie Inwestorów Indywidualnych (SII), to najważniejsza fotografia rodzimego rynku detalicznego . W tegorocznej, 24. już edycji ankiety (przeprowadzonej na przełomie października i listopada) wzięło udział 3388 aktywnych inwestorów.",
+        "fot. Hryshchyshen Serhii / / Shutterstock Badanie przypadło na moment wyjątkowy w historii polskich finansów. W sierpniu 2026 roku indeks WIG20 po niemal dwóch dekadach wreszcie rozprawił się ze swoim legendarnym szczytem z października 2007 roku – poprawiając go potem jeszcze kilkukrotnie (ostatni raz 16 listopada), a szeroki WIG po raz pierwszy w dziejach przebił barierę 160 000 punktów.",
+        "Wszystko to działo się przy akompaniamencie globalnego rajdu rynków wschodzących (do których zaliczana jest GPW), historycznych rekordów wyceny Orlenu, napędzanych drogą ropą i wojną na Bliskim Wschodzie oraz eksplozji popularności inwestowania w Polsce, gdzie liczba rachunków maklerskich przekroczyła rekordowe 3 miliony.",
+        "Trwająca hossa oraz systematyczne, comiesięczne dopłaty do portfela – deklarowane już przez ponad połowę badanych (51,4%) – przyniosły bezprecedensowy skok zamożności polskich inwestorów. Jeszcze kilka lat temu posiadanie aktywów rzędu 100 tys. zł windowało do giełdowej elity. Dziś portfele o wartości przekraczającej 100 tysięcy złotych posiada aż 65,8% uczestników badania",
+        "Prawdziwy wystrzał widać jednak na samym szczycie majątkowej piramidy: odsetek giełdowych milionerów wzrósł do rekordowych 14,4% (wobec 9,8% przed rokiem i zaledwie 6,1% w 2023 r.). To już nie tylko zasługa inflacyjnego puchnięcia nominalnych wycen, ale owoc wieloletniej akumulacji aktywów i korzystania z hossy na rynkach wschodzących."
       ]
     },
     {
@@ -1052,42 +1084,6 @@
       ]
     },
     {
-      "id": "rynki-7-6e1d7d",
-      "entity_tag": "Azja & Pacyfik",
-      "sector": "Gospodarka Światowa",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 500 mld, 627 mld USD, 20%) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [
-        "500 mld",
-        "627 mld USD",
-        "20%"
-      ],
-      "title": "Bilionowe straty na giełdach w Azji. Chiny, Korea i Tajwan ruszyły z interwencjami",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "08:55",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Bilionowe-straty-na-gieldach-w-Azji-Chiny-Korea-i-Tajwan-ruszyly-z-interwencjami-9233245.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/2/2/9d37d3a9306439-945-560-0-101-1500-899.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Główne indeksy giełdowe w Chinach, Korei Południowej i na Tajwanie weszły w techniczną bessę, tracąc ponad 20% od swoich ostatnich szczytów.",
-        "W odpowiedzi regulatorzy z tych trzech rynków ogłosili serię interwencji, by powstrzymać dalsze spadki - od rekordowego skupu akcji po ograniczenia krótkiej sprzedaży.",
-        "fot. Zhengyi Xie / / FORUM Odwrót inwestorów od spółek powiązanych ze sztuczną inteligencją uderzył w azjatyckie giełdy, odznaczające się wysoką koncentracją spółek produkujących układy scalone do centrów danych AI."
-      ],
-      "extended_paragraphs": [
-        "Główne indeksy giełdowe w Chinach, Korei Południowej i na Tajwanie weszły w techniczną bessę, tracąc ponad 20% od swoich ostatnich szczytów. W odpowiedzi regulatorzy z tych trzech rynków ogłosili serię interwencji, by powstrzymać dalsze spadki - od rekordowego skupu akcji po ograniczenia krótkiej sprzedaży.",
-        "fot. Zhengyi Xie / / FORUM Odwrót inwestorów od spółek powiązanych ze sztuczną inteligencją uderzył w azjatyckie giełdy, odznaczające się wysoką koncentracją spółek produkujących układy scalone do centrów danych AI. W trwającej serii spadkowej z rynków akcji w Korei Południowej, Chinach i na Tajwanie wyparowały biliony dolarów kapitalizacji.",
-        "Od swojego czerwcowego szczytu południowokoreański indeks KOSPI stracił ponad 46%, a łączna kapitalizacja należących do niego spółek zmniejszyła się o ponad 1,8 bln dol. Tajwański Taiex skurczył się o ponad 500 mld dol. w samym minionym tygodniu, a chiński CSI 300 oraz hongkoński Hang Seng straciły od końca września łącznie 627 mld USD.",
-        "W poniedziałek rano nastroje na azjatyckich giełdach pozostawały kiepskie - KOSPI spadał początkowo o 5%, by w dalszej części sesji ograniczyć zniżkę do około 2,6%, podczas gdy indeks na Tajwanie odrobił wczesne straty i zyskiwał ponad 2,3%. Giełda w Japonii była zamknięta przez obchody Dnia Dziękczynienia za Pracę. CSI 300 i Hang Seng zakończyły handel w pobliżu punktu odniesienia.",
-        "Tajwańska Komisja Nadzoru Finansowego (FSC) wprowadziła w piątek całkowity zakaz krótkiej sprzedaży akcji i kwitów depozytowych po cenie niższej niż kurs zamknięcia z poprzedniej sesji, co częściowo tłumaczy poniedziałkowe odbicie TAIEX-u."
-      ]
-    },
-    {
       "id": "rynki-4-c6415c",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
@@ -1122,7 +1118,7 @@
       ]
     },
     {
-      "id": "rynki-3-37617b",
+      "id": "rynki-7-37617b",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "LOW",
@@ -1188,6 +1184,40 @@
   ],
   "makro": [
     {
+      "id": "makro-4-4bb53d",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” (kluczowe liczby: 2 tys. funtów) — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [
+        "2 tys. funtów"
+      ],
+      "title": "Tajny film BBC pokazuje, jak hodowca psów sprzedaje chore szczenięta po 2 tysiące funtów za sztukę",
+      "original_title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:11",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": true,
+      "summary_points": [
+        "Dochodzenie wykazało, że ocena hodowcy została obniżona, ale nadal reklamował się jako pięciogwiazdkowy.",
+        "Podpis pod rysunkiem, tajne nagranie BBC przedstawiające hodowcę psów sprzedającego chore szczenięta po 2 tys. funtów za sztukę Kiedy Katie Thornton zapłaciła 2000 funtów za dziewięciotygodniowego szczeniaka dla swojego syna, wiedziała, że to wysoka cena, ale była szczęśliwa, że może robić interesy z „legalnym” hodowcą zatwierdzonym przez samorząd.",
+        "Jednak w drodze do domu szczeniak dobermana Ozzy zaczął kaszleć w samochodzie i po 48 godzinach znalazł się w szpitalu weterynaryjnym, gdzie otrzymał pilne leczenie z powodu zapalenia płuc."
+      ],
+      "extended_paragraphs": [
+        "Dochodzenie wykazało, że ocena hodowcy została obniżona, ale nadal reklamował się jako pięciogwiazdkowy.",
+        "Podpis pod rysunkiem, tajne nagranie BBC przedstawiające hodowcę psów sprzedającego chore szczenięta po 2 tys. funtów za sztukę",
+        "Kiedy Katie Thornton zapłaciła 2000 funtów za dziewięciotygodniowego szczeniaka dla swojego syna, wiedziała, że to wysoka cena, ale była szczęśliwa, że może robić interesy z „legalnym” hodowcą zatwierdzonym przez samorząd.",
+        "Jednak w drodze do domu szczeniak dobermana Ozzy zaczął kaszleć w samochodzie i po 48 godzinach znalazł się w szpitalu weterynaryjnym, gdzie otrzymał pilne leczenie z powodu zapalenia płuc.",
+        "Od tego czasu jego ciągłe problemy zdrowotne oznaczają, że Katie zarobiła na rachunkach za weterynarza ponad 5000 funtów."
+      ]
+    },
+    {
       "id": "makro-5-6412d6",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
@@ -1209,7 +1239,7 @@
       "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-20/gta-6-z-rekordem-sprzedazy-gigantyczny-przychod-producenta-gry/",
       "image_url": "https://ipla.pluscdn.pl/dituel/cp/2b/2b8zjaqmbffxf3fjzep9ij297i832rb7.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Biznes",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Studio Rockstar Games sprzedało ponad 24,5 mln egzemplarzy gry GTA 6 w dniu premiery - wynika z danych, na które powołuje się rozgłośnia BBC.",
         "Firma osiągnęła w ten sposób przychody szacowane na 2,36 mld dol.",
@@ -1224,19 +1254,21 @@
       ]
     },
     {
-      "id": "makro-2-3a00f6",
+      "id": "makro-6-fe3f02",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Półprzewodniki & AI” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Nvidia przywraca na stanowisko dyrektora generalnego Jensena Huanga po romansie z rzekomym szpiegiem, gdy Trump mówi: „Zawarłem umowę”",
-      "original_title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Półprzewodniki & AI” (NVIDIA (NASDAQ: NVDA)) (kluczowe liczby: 31%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "31%"
+      ],
+      "title": "Trump spotyka się z ostrymi reakcjami po tym, jak stwierdził, że „przekonał” Nvidię do przywrócenia na stanowisko dyrektora generalnego Jensena Huanga",
+      "original_title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
       "is_foreign": true,
       "lang": "EN",
-      "time": "01:11",
+      "time": "10:53",
       "source": "BBC Business",
       "source_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
@@ -1244,19 +1276,19 @@
       "lead_story": false,
       "summary_points": [
         "Nvidia znalazła się pod presją prezydenta Trumpa, aby ponownie mianować Huanga, którego powrót pomógł zwiększyć wartość akcji firmy o 1 bilion dolarów.",
-        "Podpis pod rysunkiem: Powrót na wieki: wpływ Trumpa na powrót Huanga do Nvidii Nvidia przywróciła na stanowisko dyrektora generalnego Jensena Huanga zaledwie kilka dni po odrzuceniu jego oferty powrotu do producenta chipów AI i niecałe dwa tygodnie po tym, jak został zmuszony do rezygnacji w związku z doniesieniami o romansie z podejrzanym chińskim szpiegiem.",
-        "Firma znalazła się pod presją Donalda Trumpa, aby ponownie mianować Huanga, a w poniedziałek amerykański prezydent oznajmił, że „zawarł umowę”, aby „przekonać” zarząd technologicznego giganta do zmiany kursu i sprowadzenia Huanga z powrotem."
+        "Podpis pod rysunkiem: Powrót na wieki: wpływ Trumpa na powrót Huanga do Nvidii Jensen Huang został przywrócony na stanowisko szefa Nvidii niecałe dwa tygodnie po tym, jak został zmuszony do rezygnacji po ujawnieniu informacji o romansach pozamałżeńskich, w tym jednym z podejrzanym chińskim szpiegiem.",
+        "Producent chipów AI oddał swojemu współzałożycielowi pracę z powrotem, mimo że odrzucił jego pierwotną ofertę powrotu pod naciskiem prezydenta USA Donalda Trumpa."
       ],
       "extended_paragraphs": [
         "Nvidia znalazła się pod presją prezydenta Trumpa, aby ponownie mianować Huanga, którego powrót pomógł zwiększyć wartość akcji firmy o 1 bilion dolarów.",
         "Podpis pod rysunkiem: Powrót na wieki: wpływ Trumpa na powrót Huanga do Nvidii",
-        "Nvidia przywróciła na stanowisko dyrektora generalnego Jensena Huanga zaledwie kilka dni po odrzuceniu jego oferty powrotu do producenta chipów AI i niecałe dwa tygodnie po tym, jak został zmuszony do rezygnacji w związku z doniesieniami o romansie z podejrzanym chińskim szpiegiem.",
-        "Firma znalazła się pod presją Donalda Trumpa, aby ponownie mianować Huanga, a w poniedziałek amerykański prezydent oznajmił, że „zawarł umowę”, aby „przekonać” zarząd technologicznego giganta do zmiany kursu i sprowadzenia Huanga z powrotem.",
-        "Jednak Demokraci oskarżyli administrację Trumpa o wyprzedanie bezpieczeństwa narodowego w celu uzyskania korzyści finansowych. Huang ma składać zeznania przed Kongresem na początku grudnia."
+        "Jensen Huang został przywrócony na stanowisko szefa Nvidii niecałe dwa tygodnie po tym, jak został zmuszony do rezygnacji po ujawnieniu informacji o romansach pozamałżeńskich, w tym jednym z podejrzanym chińskim szpiegiem.",
+        "Producent chipów AI oddał swojemu współzałożycielowi pracę z powrotem, mimo że odrzucił jego pierwotną ofertę powrotu pod naciskiem prezydenta USA Donalda Trumpa.",
+        "Trump powiedział, że „zawarł umowę” z zarządem technologicznego giganta, aby przywrócić Huangowi pracę, ale zarówno prezydent, jak i Nvidia spotykają się z ostrym sprzeciwem ze strony prawodawców."
       ]
     },
     {
-      "id": "makro-4-9ba9f5",
+      "id": "makro-7-9ba9f5",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "MEDIUM",
@@ -1271,56 +1303,20 @@
       "time": "17:11",
       "source": "BBC Business",
       "source_url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc0b/live/456f5c10-e772-11f1-99a1-253766e7ad8b.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d27/live/d9940160-e7d2-11f1-939f-471cde339c0e.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
         "Rola Huanga w centrum podróży jego firmy do podpory sztucznej inteligencji okazała się kluczowa.",
         "Podpis pod rysunkiem „Największy zwrot w historii gospodarki”: eksperci reagują na powrót Jensena Huanga do Nvidii Redaktor ds.",
-        "ekonomii Opublikowano 8 godzin temu W ciągu ostatnich kilku godzin miały miejsce trzy wstrząsające momenty w związku z przywróceniem Jensena Huanga na stanowisko dyrektora generalnego Nvidii po tym, jak przyznał się do romansu z kobietą rzekomo chińskiego szpiega."
+        "ekonomii Opublikowano 23 listopada 2026 r. W ciągu ostatnich kilku godzin miały miejsce trzy wstrząsające momenty w związku z przywróceniem Jensena Huanga na stanowisko dyrektora generalnego Nvidii po tym, jak przyznał się do romansu z kobietą rzekomo chińskiego szpiega."
       ],
       "extended_paragraphs": [
         "Rola Huanga w centrum podróży jego firmy do podpory sztucznej inteligencji okazała się kluczowa.",
         "Podpis pod rysunkiem „Największy zwrot w historii gospodarki”: eksperci reagują na powrót Jensena Huanga do Nvidii",
-        "Redaktor ds. ekonomii Opublikowano 8 godzin temu W ciągu ostatnich kilku godzin miały miejsce trzy wstrząsające momenty w związku z przywróceniem Jensena Huanga na stanowisko dyrektora generalnego Nvidii po tym, jak przyznał się do romansu z kobietą rzekomo chińskiego szpiega.",
+        "Redaktor ds. ekonomii Opublikowano 23 listopada 2026 r. W ciągu ostatnich kilku godzin miały miejsce trzy wstrząsające momenty w związku z przywróceniem Jensena Huanga na stanowisko dyrektora generalnego Nvidii po tym, jak przyznał się do romansu z kobietą rzekomo chińskiego szpiega.",
         "Po szokującej ogłoszeniu jego powrotu do producenta chipów, do Nvidii dodano bilion dolarów wartości giełdowej.",
         "I wtedy nadszedł moment, w którym prezydent Trump przyznał to, co oczywiste: decyzję skierował bezpośrednio do zarządu w stylu „nie jesteś zwolniony” i zmienił decyzję."
-      ]
-    },
-    {
-      "id": "makro-6-4b2876",
-      "entity_tag": "GPW w Warszawie",
-      "sector": "Rynek Kapitałowy",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Rynek Kapitałowy” (kluczowe liczby: 6,5%, 31%, 4,75%) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "6,5%",
-        "31%",
-        "4,75%"
-      ],
-      "title": "Wartość Nvidii rośnie o prawie 1 bilion dolarów, a akcje spółek technologicznych rosną po powrocie Jensena Huanga",
-      "original_title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:23",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Skoki akcji Nvidii również wpłynęły na wzrost giełd, a zaawansowany technologicznie Nasdaq wzrósł o 6,5%.",
-        "Podpis pod rysunkiem: Powrót na wieki: wpływ Trumpa na powrót Huanga do Nvidii Wartość rynkowa Nvidii wzrosła o prawie 1 bilion dolarów w związku z gwałtownym wzrostem cen jej akcji po tym, jak firma technologiczna przywróciła Jensena Huanga na stanowisko dyrektora generalnego ze skutkiem natychmiastowym.",
-        "Jego szokowy powrót na stanowisko następuje niecałe dwa tygodnie po rezygnacji Huanga po tym, jak przyznał się do romansu z kobietą rzekomo chińskim szpiegiem."
-      ],
-      "extended_paragraphs": [
-        "Skoki akcji Nvidii również wpłynęły na wzrost giełd, a zaawansowany technologicznie Nasdaq wzrósł o 6,5%.",
-        "Podpis pod rysunkiem: Powrót na wieki: wpływ Trumpa na powrót Huanga do Nvidii",
-        "Wartość rynkowa Nvidii wzrosła o prawie 1 bilion dolarów w związku z gwałtownym wzrostem cen jej akcji po tym, jak firma technologiczna przywróciła Jensena Huanga na stanowisko dyrektora generalnego ze skutkiem natychmiastowym.",
-        "Jego szokowy powrót na stanowisko następuje niecałe dwa tygodnie po rezygnacji Huanga po tym, jak przyznał się do romansu z kobietą rzekomo chińskim szpiegiem. W okresie, w którym udziały w producencie chipów również znacząco spadły.",
-        "Akcje Nvidii wzrosły o ponad 31%, co również spowodowało wzrost na giełdach, przy czym zaawansowany technologicznie Nasdaq wzrósł o 6,5%, a S&P 500 również wzrósł o 4,75%."
       ]
     },
     {
@@ -1360,6 +1356,38 @@
       ]
     },
     {
+      "id": "makro-2-749095",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Wstrząsy, przed którymi stają najemcy, wraz z pojawieniem się nowego rodzaju właściciela",
+      "original_title": "The shake-up facing renters as a new kind of landlord emerges",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:28",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Firmy budujące mieszkania, które następnie wynajmują, mogłyby zapoczątkować duże zmiany dla najemców.",
+        "W Wigilię 2021 roku ktoś zapukał do drzwi wynajmowanego mieszkania Lexi Levens.",
+        "Był to list wysłany specjalną przesyłką od właściciela pielęgniarki NHS, w którym zawarto informację, że ona, jej mąż i czwórka dzieci mają dwa miesiące na wyprowadzenie się."
+      ],
+      "extended_paragraphs": [
+        "Firmy budujące mieszkania, które następnie wynajmują, mogłyby zapoczątkować duże zmiany dla najemców.",
+        "W Wigilię 2021 roku ktoś zapukał do drzwi wynajmowanego mieszkania Lexi Levens. Był to list wysłany specjalną przesyłką od właściciela pielęgniarki NHS, w którym zawarto informację, że ona, jej mąż i czwórka dzieci mają dwa miesiące na wyprowadzenie się.",
+        "Właściciel Lexi wykorzystał coś, co wówczas nazywano zawiadomieniem na podstawie sekcji 21, aby eksmitować jej rodzinę bez konieczności podawania powodu.",
+        "Lexi wraz z organizacją charytatywną Shelter zajmującą się mieszkalnictwem lobbowała w rządzie na rzecz poprawy praw najemców. Ustawa o prawach najemców, która weszła w życie w maju tego roku, zakazała eksmisji na podstawie art. 21, a także uczyniła nielegalnym odmowę wynajmu osobom ze względu na ich status rodziny z dziećmi.",
+        "Właściciele, od których wynajmowała wówczas Lexi, byli typowi dla angielskiego rynku mieszkaniowego – byli to ludzie, którzy byli właścicielami jednej lub kilku nieruchomości."
+      ]
+    },
+    {
       "id": "makro-3-d31373",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
@@ -1393,38 +1421,6 @@
         "W efekcie ZUS wydał 15,7 tys. decyzji o wstrzymaniu wypłaty zasiłku chorobowego na ponad 27,2 mln zł. W samym III kwartale takich decyzji było 5,1 tys., a wstrzymane zasiłki wyniosły ok. 8,7 mln zł.",
         "ZOBACZ: Boże Narodzenie 2026 może oznaczać aż pięć dni wolnego. I to bez brania urlopu",
         "Od stycznia do września ZUS obniżył też wypłaty o 215,6 mln zł. Dotyczyło to 98,8 tys. osób pobierających świadczenia po ustaniu ubezpieczenia chorobowego, np. po zakończeniu umowy. Taki zasiłek liczy się najwyżej od przeciętnego wynagrodzenia, więc lepiej zarabiający dostają mniej. Łączna kwota obniżonych i cofniętych świadczeń wyniosła 242,8 mln zł. W tym miejscu, należy rozróżnić dwie sprawy. Wstrzymanie zasiłku to skutek kontroli, a ograniczenie jego wysokości wynika z przepisów."
-      ]
-    },
-    {
-      "id": "makro-7-dab2cb",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Półprzewodniki & AI” (NVIDIA (NASDAQ: NVDA)) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Jak ważne są Nvidia i Jensen Huang dla amerykańskiej gospodarki?",
-      "original_title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:12",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Dyrektor naczelny Nvidii znalazł się w centrum boomu na sztuczną inteligencję.",
-        "Żadna firma ani dyrektor naczelny nie wniosła w ostatnich latach większego wkładu w rozwój sztucznej inteligencji, a amerykański producent mikrochipów pod rządami Huanga stał się kluczowym trybikiem w rozwoju technologii zmieniającej świat.",
-        "To centralne stanowisko wywołało pytania – w następstwie odejścia Huanga w związku z ujawnieniem romansów pozamałżeńskich – tego, jak ważny był on dla szerszego przemysłu sztucznej inteligencji i amerykańskiej gospodarki."
-      ],
-      "extended_paragraphs": [
-        "Dyrektor naczelny Nvidii znalazł się w centrum boomu na sztuczną inteligencję.",
-        "Żadna firma ani dyrektor naczelny nie wniosła w ostatnich latach większego wkładu w rozwój sztucznej inteligencji, a amerykański producent mikrochipów pod rządami Huanga stał się kluczowym trybikiem w rozwoju technologii zmieniającej świat.",
-        "To centralne stanowisko wywołało pytania – w następstwie odejścia Huanga w związku z ujawnieniem romansów pozamałżeńskich – tego, jak ważny był on dla szerszego przemysłu sztucznej inteligencji i amerykańskiej gospodarki.",
-        "Fakt, że zarząd Nvidii przywrócił mu stanowisko po zaledwie 11 dniach odwrócenia się od decyzji zarządu Nvidii, oznacza, że ​​kadra kierownicza wierzy, że Huang jest niezastąpiony.",
-        "Akcje spółki zwyżkowały na wieść o szokującym powrocie Huanga po okresie gwałtownych spadków."
       ]
     }
   ],
@@ -1498,67 +1494,35 @@
       ]
     },
     {
-      "id": "tech-5-273432",
+      "id": "tech-1-9d2c97",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
-      "market_impact": "MEDIUM",
+      "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Kosmetyczne zmiany w specyfikacji, ale cena i tak wyższa. Samsung szykuje Galaxy Fit 4",
+      "title": "Amerykanie stworzyli samochód z pedałami. Ten rower intryguje zwłaszcza dachem",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:01",
+      "time": "10:55",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/kosmetyczne-zmiany-w-specyfikacji-ale-cena-i-tak-wyzsza-samsung-szykuje-galaxy-fit-4",
-      "image_url": "https://konto.chip.pl/uploads/2024/04/Samsung-Galaxy-Fit3-zdj-14-1600x1200.jpg",
+      "source_url": "https://www.chip.pl/2026/11/nxm-dragon-fly-samochod-rower",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/nxm-dragon-fly-samochod-rower-1-2.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Nie wszyscy mogą wiedzieć, ale w ofercie Samsunga znajdują się także opaski sportowe, wycenione o wiele niżej niż topowe smartwatche, na których zwykle skupiają się spojrzenia wszystkich.",
-        "Seria Galaxy Fit pojawia się zresztą na tyle nieregularnie, że czasem łatwo przegapić kolejną premierę.",
-        "Nie da się ukryć, że opaski sportowe od lat pełnią na rynku elektroniki rolę najprostszego biletu wstępu do świata monitorowania aktywności – są lekkie, nie rozpraszają nadmiarem aplikacji i nie drenują portfela tak mocno jak pełnoprawne smartwatche."
+        "Gdyby ktoś pokazał mi pojazd z kierownicą, trzema miejscami siedzącymi, niezależnym zawieszeniem i napędem na cztery koła, to określenie “rower” byłoby ostatnim, co przyszłoby mi na myśl.",
+        "Tymczasem właśnie taki sprzęt chce sprzedawać amerykańska firma Next-Machina (NXM), która na dodatek znalazła wyjątkowo ciekawe zastosowanie dla jego dachu.",
+        "Trudno jednak oczekiwać od ludzi na całym świecie, że przesiądą się na dwa kółka niezależnie od pogody, liczby pasażerów czy ilości zakupów do przewiezienia."
       ],
       "extended_paragraphs": [
-        "Nie wszyscy mogą wiedzieć, ale w ofercie Samsunga znajdują się także opaski sportowe, wycenione o wiele niżej niż topowe smartwatche, na których zwykle skupiają się spojrzenia wszystkich. Seria Galaxy Fit pojawia się zresztą na tyle nieregularnie, że czasem łatwo przegapić kolejną premierę. Teraz, po prawie trzech latach od wydania poprzednika, nadchodzi nowa generacja – Galaxy […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Galaxy Fit 4 będzie droższy, ale czy lepszy? Nie da się ukryć, że opaski sportowe od lat pełnią na rynku elektroniki rolę najprostszego biletu wstępu do świata monitorowania aktywności – są lekkie, nie rozpraszają nadmiarem aplikacji i nie drenują portfela tak mocno jak pełnoprawne smartwatche. Dlatego posiadanie ich w ofercie jest całkiem niezłą opcją na pozyskanie kolejnych klientów, z czego zdaje sobie nawet sprawę Samsung. Debiutujący w styczniu 2024 roku (po kilkuletniej przerwie) Galaxy Fit 3 został doceniony właśnie za te cechy – świetny czas pracy na baterii i bardzo przystępną wycenę. Nawet jeśli sam pomiar snu czy tętna nie powalał precyzją, a na pokładzie brakowało wbudowanego modułu GPS, w tej półce i tak spisywał się dobrze.",
-        "Po prawie trzech latach spodziewalibyśmy się jednak znacznych ulepszeń, ale wydaje się, że tym, co wzrośnie, nie będzie precyzja czy liczba funkcji, a cena. Z najnowszych informacji ujawnionych przez francuski serwis Dealabs wynika, że nadchodzący Samsung Galaxy Fit 4 zaliczy w Europie podwyżkę.",
-        "Czytaj też: Nie daje niewidzialności, ale podpowie, kiedy organizm ma dość. RingConn ma własny Jedyny Pierścień",
-        "Według przecieku opaska ma zadebiutować we Francji w cenie 79,90 euro (co w bezpośrednim przeliczeniu daje niespełna 345 złotych). Oznacza to wzrost o 10 euro względem poprzednika.. Taka korekta w górę nie powinna zresztą nikogo przesadnie dziwić – podwyżki cen przetaczają się w tym roku niemal przez wszystkie segmenty branży technologicznej. W dodatku, zawsze łatwiej to przełknąć, gdy idą za tym konkretne ulepszenia."
-      ]
-    },
-    {
-      "id": "tech-1-f85261",
-      "entity_tag": "Miedź (LME)",
-      "sector": "Surowce Przemysłowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Miedź (LME) (Surowce Przemysłowe) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Światło ujawniło ukrytą rywalizację stanów kwantowych. To klucz do zmiany świata, jaki znamy",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:59",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/swiatlo-stany-kwantowe-pseudoprzerwa",
-      "image_url": "https://konto.chip.pl/uploads/2026/10/nadprzewodnik.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Nadprzewodnictwo jest jednym z najbardziej zadziwiających zjawisk fizyki.",
-        "W określonych warunkach niektóre materiały potrafią przewodzić prąd elektryczny bez strat energii wynikających z oporu.",
-        "Oznacza to, że prąd może przepływać przez nie bez typowego nagrzewania przewodnika."
-      ],
-      "extended_paragraphs": [
-        "Nadprzewodnictwo jest jednym z najbardziej zadziwiających zjawisk fizyki. W określonych warunkach niektóre materiały potrafią przewodzić prąd elektryczny bez strat energii wynikających z oporu. Oznacza to, że prąd może przepływać przez nie bez typowego nagrzewania przewodnika. Jednym z najważniejszych problemów pozostaje jednak zrozumienie tzw. pseudoprzerwy, czyli specyficznego stanu kwantowego pojawiającego się w kupratach. Wygląda na to, […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wspomniane kupraty to materiały zawierające miedź i tlen. Odkryto je w 1986 roku, a ich niezwykłe właściwości przyczyniły się do przyznania Johannesowi Georgowi Bednorzowi i Karlowi Alexanderowi Müllerowi nagrody Nobla w dziedzinie fizyki w 1987 roku. Mimo upływu niemal czterech dekad naukowcy wciąż nie dysponują pełnym wyjaśnieniem mechanizmów odpowiedzialnych za ich nadprzewodnictwo.",
-        "Czytaj też: Tajemnicze przejście plazmy już nie będzie stało nam na drodze do źródła nieograniczonej energii",
-        "Badacze zastanawiali się przede wszystkim, czy pseudoprzerwa pomaga w powstawaniu nadprzewodnictwa, stanowiąc jego wcześniejszy etap, czy też działa w przeciwnym kierunku i konkuruje z nim o dominację w materiale. Aby znaleźć odpowiedź, zespół kierowany przez Fabio Boschiniego z kanadyjskiego Narodowego Instytutu Badań Naukowych przeprowadził eksperyment wykorzystujący ultrakrótkie impulsy światła. Badacze postanowili na moment zaburzyć stan nadprzewodzący materiału, a następnie obserwować, co dzieje się z jego elektronami podczas powrotu do pierwotnych właściwości.",
-        "Do przeprowadzenia pomiarów wykorzystali technikę TR-ARPES, czyli czasowo- i kątowo-rozdzielczą spektroskopię fotoemisyjną. Pozwala ona śledzić bardzo szybkie zmiany właściwości elektronowych materiałów, dostarczając informacji o zachowaniu elektronów w różnych stanach energetycznych. Co się okazało? Kiedy impuls światła osłabiał nadprzewodnictwo, w materiale pojawiał się przejściowy stan pseudoprzerwy. Gdy właściwości nadprzewodzące stopniowo powracały, sygnał związany z pseudoprzerwą słabł i ostatecznie zanikał."
+        "Gdyby ktoś pokazał mi pojazd z kierownicą, trzema miejscami siedzącymi, niezależnym zawieszeniem i napędem na cztery koła, to określenie “rower” byłoby ostatnim, co przyszłoby mi na myśl. Tymczasem właśnie taki sprzęt chce sprzedawać amerykańska firma Next-Machina (NXM), która na dodatek znalazła wyjątkowo ciekawe zastosowanie dla jego dachu. Podczas testowania elektrycznych rowerów wielokrotnie przekonywałem się, jak […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Podczas testowania elektrycznych rowerów wielokrotnie przekonywałem się, jak niewiele energii potrzebujemy do pokonywania dystansów, na których zwykle korzystamy z samochodów. Trudno jednak oczekiwać od ludzi na całym świecie, że przesiądą się na dwa kółka niezależnie od pogody, liczby pasażerów czy ilości zakupów do przewiezienia. Stąd też coraz bardziej interesują mnie konstrukcje pokroju NXM Dragon Fly, który próbuje zachować energooszczędność roweru przy wygodzie samochodu.",
+        "Firma Next-Machina pokazała swój nietypowy pojazd 11 listopada podczas konferencji Micromobility America w San Francisco. Dragon Fly ma cztery koła z niezależnym zawieszeniem, miejsce dla kierowcy i dwóch pasażerów, składaną tylną kanapę, a do tego opcjonalne, unoszone do góry drzwi. Samą kabinę otacza z kolei rurowa konstrukcja przypominająca klatkę bezpieczeństwa samochodów sportowych. Na ile skutecznie chroni pasażerów? Na pewno jakoś, ale konkretów zabrakło.",
+        "Czytaj też: Rower elektryczny bez łańcucha zaliczył falstart. Winne nie są wcale części mechaniczne",
+        "Znacznie ciekawszy jest jednak sam napęd, bo NXM postawiło na technologię pedal-by-wire, którą opisywałem niedawno przy okazji problemów elektrycznego roweru ALSO TM-B . Oznacza ona, że pedałując, wprawiamy w ruch generator produkujący energię elektryczną, z której następnie korzystają silniki. Nie ma tutaj fizycznego połączenia korby z kołami, więc tym samym odpada cała mechaniczna przekładnia między nimi."
       ]
     },
     {
@@ -1594,35 +1558,35 @@
       ]
     },
     {
-      "id": "tech-3-1282a9",
+      "id": "tech-3-dd96f0",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "HBO Max odpala jedną z najlepszych promocji na Black Friday. Tak taniego streamingu nie było od dawna",
+      "title": "Robot Charlotte drukuje domy w 3D na Ziemi i w kosmosie, ale nie taką metodą jak myślisz",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:00",
+      "time": "10:30",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/hbo-max-promocja-black-friday-2026",
-      "image_url": "https://konto.chip.pl/uploads/2025/11/telewizja.jpg",
+      "source_url": "https://www.chip.pl/2026/11/robot-drukuje-domy-w-3d-na-ziemi-i-w-kosmosie",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/robot-charlotte-2.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Zdążyliśmy już przywyknąć, że jedyne zmiany w cennikach serwisów streamingowych to podwyżki.",
-        "Dlatego wiele osób zaczęło stosować metodę obejrzyj-anuluj.",
-        "Zbierają kilka pozycji na danej platformie, które chcą nadrobić, biorą abonament na krótko i nadrabiają zaległości."
+        "Ziemska technologia ma pomóc tworzyć nieziemskie rzeczy przy pomocy robota Charlotte, który potrafi drukować domy w 3D, niezależnie od tego, czy będzie taka potrzeba na Ziemi albo na Księżycu.",
+        "Najważniejsze jest jednak, że cały ten proces nie jest drukiem 3D, który nam się pierwszy rzuca na myśl.",
+        "Autonomiczny robot Charlotte dobrze wie, że byłoby wysoce […] powrót Tech Testy Moto Nauka Publicystyka Crest Robotics, Earthbuilt Technology Chcesz czytać więcej treści jak „ Robot Charlotte drukuje domy w 3D na Ziemi i w kosmosie, ale nie taką metodą jak myślisz \" ?"
       ],
       "extended_paragraphs": [
-        "Zdążyliśmy już przywyknąć, że jedyne zmiany w cennikach serwisów streamingowych to podwyżki. Dlatego wiele osób zaczęło stosować metodę obejrzyj-anuluj. Zbierają kilka pozycji na danej platformie, które chcą nadrobić, biorą abonament na krótko i nadrabiają zaległości. Potem kończą subskrypcję i przenoszą się gdzie indziej. Inną opcją jest czatowanie na promocje. Jeśli właśnie to robicie z HBO […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ HBO Max odpala jedną z najlepszych promocji na Black Friday. Tak taniego streamingu nie było od dawna \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Serwis odpalił bowiem promocję z okazji Black Friday i trzeba przyznać, że takiej oferty nie widziałam od dawna. Podczas gdy zwykle jest to rabat na miesiąc lub na trzy, HBO Max obniżyło ceny wszystkich swoich planów o połowę i to na cały rok.",
-        "Standardowo, po zakończeniu promocji, czyli od trzynastego miesiąca, zapłacimy już pełną kwotę, chyba że wcześniej zrezygnujemy z odnawiania subskrypcji.",
-        "Jeśli w Twojej kolejce do obejrzenia czekają produkcje z katalogu Marvela, Gwiezdnych Wojen czy klasyczne animacje, warto pospieszyć się z decyzją w sprawie Disney+. Na tej platformie też można skorzystać z atrakcyjnej oferty, choć do tego, co przygotowało HBO Max zdecydowanie jej daleko. W dodatku, potrwa tylko do jutra, czyli do 24 listopada 2026 roku.",
-        "Chociaż era taniego streamingu już dawno minęła, takie promocje pozwalają trochę poczuć się jak dawniej, a przede wszystkim – sporo oszczędzić. Kiedy wszyscy mamy przynajmniej po kilka subskrypcji, to zdecydowanie opcja, którą szkoda zignorować."
+        "Ziemska technologia ma pomóc tworzyć nieziemskie rzeczy przy pomocy robota Charlotte, który potrafi drukować domy w 3D, niezależnie od tego, czy będzie taka potrzeba na Ziemi albo na Księżycu. Najważniejsze jest jednak, że cały ten proces nie jest drukiem 3D, który nam się pierwszy rzuca na myśl. Autonomiczny robot Charlotte dobrze wie, że byłoby wysoce […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Crest Robotics, Earthbuilt Technology",
+        "Chcesz czytać więcej treści jak „ Robot Charlotte drukuje domy w 3D na Ziemi i w kosmosie, ale nie taką metodą jak myślisz \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Autonomiczny robot Charlotte dobrze wie, że byłoby wysoce nietaktownym zaczynać znajomość z nową planetą od zanieczyszczania jej plastikiem. Z tego powodu do wykonywania swojego druku używa surowców naturalnych dostępnych w danym środowisku albo przetwarza odpady wykonane z materiałów powstałych z ich mieszanek.",
+        "Crest Robotics i Earthbuilt Technology stworzyli technologię, która pozwoli w przyszłości budować domy poprzez ich drukowanie, do czego naturalnie nie będzie potrzeba cementu, jak w tradycyjnych budynkach. I chociaż jest to bardzo ciekawe, to mnie osobiście najbardziej intryguje fakt, że nie będzie to proces oparty na tworzywach sztucznych.",
+        "Wręcz przeciwnie, głównym założeniem robota Charlotte jest praca z materiałami zastanymi na miejscu. Na Ziemi wykorzystuje jako tworzywo piasek, ziemię czy odpady po cegłówkach, zaś na powierzchni Księżyca, głównym składnikiem byłby regolit. Wszystkie surowce są gromadzone w specjalnych tubach prowadzących do dyszy autonomicznie pracującego robota. To właśnie z tej końcówki wychodzi silnie skompresowany materiał układany warstwami niczym rozpuszczony filament w druku 3D."
       ]
     },
     {
@@ -1658,107 +1622,201 @@
       ]
     },
     {
-      "id": "tech-7-5d70d4",
+      "id": "tech-5-2d604c",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) (kluczowe liczby: 35%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "35%"
-      ],
-      "title": "Duża obniżka na zestaw narzędzi Parkside. Aż 12 elementów!",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Roboty okładają się pięściami i ostrzami na ringu. Ludzie tylko trzymali kontroler",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:00",
+      "time": "09:52",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/walki-robotow-humanoidalnych-ai",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/walki-robotow-humanoidalnych-ai.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Kiedy w typowej grze-bijatyce wciskamy przycisk odpowiedzialny za kopnięcie, to nie zastanawiamy się jednocześnie nad tym, jak nasza postać ma utrzymać równowagę na jednej nodze.",
+        "Oto jednak doszliśmy do tego problemu w świecie robotyki, bo ludzie zaczęli sterować prawdziwymi humanoidami w ringu za pośrednictwem kontrolerów przypominających te od konsol.",
+        "W świecie […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Roboty okładają się pięściami i ostrzami na ringu."
+      ],
+      "extended_paragraphs": [
+        "Kiedy w typowej grze-bijatyce wciskamy przycisk odpowiedzialny za kopnięcie, to nie zastanawiamy się jednocześnie nad tym, jak nasza postać ma utrzymać równowagę na jednej nodze. Po prostu ją utrzymuje. Oto jednak doszliśmy do tego problemu w świecie robotyki, bo ludzie zaczęli sterować prawdziwymi humanoidami w ringu za pośrednictwem kontrolerów przypominających te od konsol. W świecie […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Roboty okładają się pięściami i ostrzami na ringu. Ludzie tylko trzymali kontroler \" ? Dodaj CHIP.pl do preferowanych źródeł w Google W świecie walki robot musi sobie poradzić z konsekwencjami każdego ruchu, a na dodatek reagować na poczynania przeciwnika. Właśnie z takim wyzwaniem zmierzyły się humanoidy podczas zawodów REK 2.1 w San Francisco.",
+        "Firma Robot Entertainment Kombat (REK) zorganizowała 20 listopada trzy pojedynki z udziałem czterech humanoidów, które na żywo obserwowało około 200 osób. Organizatorzy zadbali nawet o odpowiednią stylistykę zawodników, bo mierzący około 180 cm T-Rek ze swoją srebrną twarzą przypominającą czaszkę i czerwonymi oczami wyglądał niczym Terminator. Jego przeciwnik nosił z kolei hełm oraz wojskowy kamuflaż, ale na niewiele mu się to zdało, bo po około 90 sekundach walki opuścił ring na noszach. Robot nie był bowiem w stanie podnieść się po kopnięciu przeciwnika.",
+        "W ostatnim pojedynku wieczoru maszyny miały do dyspozycji nawet po trzy ostrza na każdej dłoni. Nie obyło się bez kopnięć z wyskoku, uderzeń w przezroczyste osłony areny, odprysków lakieru i uszkodzeń konstrukcji. Innymi słowy, sparing nie był byle przepychanką maszyn na ringu, ale znacznie ciekawsze od samych pojedynków jest jednak to, co działo się poza ringiem. Tak się bowiem składa, że to stojący obok niego ludzie decydowali o poczynaniach humanoidów.",
+        "W typowym robocie humanoidalnym mamy do czynienia z dziesiątkami stopni swobody. Gdyby człowiek miał samodzielnie kontrolować każdy z nich, to już samo chodzenie stanowiłoby ogromne wyzwanie, a co dopiero wyprowadzanie kopnięć i podnoszenie się po upadku. Dlatego właśnie operatorzy podczas zawodów REK decydowali o przemieszczaniu się maszyn, kierunku ataków i momencie wyprowadzania ciosów, podczas gdy systemy wspomagane sztuczną inteligencją odpowiadały m.in. za utrzymanie równowagi oraz kontrolowanie postawy."
+      ]
+    },
+    {
+      "id": "tech-7-b2b242",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "GTA VI z ważną aktualizacją. Zainstaluj, zanim wrócisz do gry",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "11:00",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/duza-obnizka-na-zestaw-narzedzi-parkside-az-12-elementow",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/parkside-12-zestaw-narzedzi.jpg",
+      "source_url": "https://antyweb.pl/gta-vi-z-wazna-aktualizacja-zainstaluj-zanim-wrocisz-do-gry",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/gta.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "W Lidlu trwa promocja na 12-częściowy zestaw akumulatorowych narzędzi Parkside.",
-        "W pakiecie znajduje się osiem narzędzi zasilanych akumulatorowo: wiertarkowkrętarka, ręczna pilarka tarczowa, wyrzynarka z podcinaniem, narzędzie wielofunkcyjne, szlifierka kątowa, piła szablasta, szlifierka mimośrodowa oraz akumulatorowy klucz udarowy.",
-        "To zestaw skierowany do np. domowego warsztatu oraz prac remontowych, obejmujący zarówno wiercenie i wkręcanie, jak i cięcie drewna, metalu czy płyty, szlifowanie oraz pracę z materiałami wykończeniowymi."
+        "Rockstar Games udostępnia pierwszą aktualizację GTA VI na PlayStation 5 oraz XBOX Series X|S.",
+        "Rozwiązuje kilka niezwykle uciążliwych błędów, w tym te uniemożliwiające dalsze postępy w kampanii fabularnej.",
+        "Od premiery Grand Theft Auto VI minęło zaledwie kilka dni, jednak studio już zabrało się za rozwiązywanie problemów, na które natrafili gracze przemierzający ulice Vice City i pozostałe zakamarki stanu Leonida."
       ],
       "extended_paragraphs": [
-        "W Lidlu trwa promocja na 12-częściowy zestaw akumulatorowych narzędzi Parkside.",
-        "W pakiecie znajduje się osiem narzędzi zasilanych akumulatorowo: wiertarkowkrętarka, ręczna pilarka tarczowa, wyrzynarka z podcinaniem, narzędzie wielofunkcyjne, szlifierka kątowa, piła szablasta, szlifierka mimośrodowa oraz akumulatorowy klucz udarowy. To zestaw skierowany do np. domowego warsztatu oraz prac remontowych, obejmujący zarówno wiercenie i wkręcanie, jak i cięcie drewna, metalu czy płyty, szlifowanie oraz pracę z materiałami wykończeniowymi.",
-        "Zestaw zawiera trzy akumulatory: jeden o pojemności 2 Ah oraz dwa o pojemności 4 Ah, a także szybką ładowarkę o prądzie 4,5 A. Takie wyposażenie pozwala pracować dłużej bez czekania na doładowanie jednej baterii, a dodatkowe ogniwa można wykorzystać równolegle w kilku narzędziach. Wszystkie urządzenia i akumulatory są kompatybilne z serią Parkside X 20 V Team.",
-        "Producent dołącza również mobilną skrzynkę narzędziową. Ma uchwyt do przenoszenia, kółka oraz wysuwaną rączkę, dzięki czemu zestaw można przewieźć między garażem, domem a miejscem remontu bez rozkładania go na pojedyncze elementy. Oferta może zainteresować osoby raczej urządzające swój pierwszy warsztat domowy, planujące remont lub szukające kompletnego zestawu do prac okresowych.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Warto jednak pamiętać, że to sprzęt budżetowej marki Parkside, a nie profesjonalne narzędzia do codziennej, intensywnej pracy na budowie. Z drugiej strony nie brakuje naprawdę pozytywnych opinii na temat dużej liczby urządzeń i akcesoriów tej marki - mają służyć w poważnych zadaniach każdego dnia i często chwali się ich dobre wykonanie i wytrzymałość. Nie jest to oczywiście regułą, ale w kontekście majsterkowania i prac domowych, taki zestaw może być naprawdę dobry nie tylko na początek."
+        "Rockstar Games udostępnia pierwszą aktualizację GTA VI na PlayStation 5 oraz XBOX Series X|S. Rozwiązuje kilka niezwykle uciążliwych błędów, w tym te uniemożliwiające dalsze postępy w kampanii fabularnej.",
+        "Od premiery Grand Theft Auto VI minęło zaledwie kilka dni, jednak studio już zabrało się za rozwiązywanie problemów, na które natrafili gracze przemierzający ulice Vice City i pozostałe zakamarki stanu Leonida. Biorąc pod uwagę skalę produkcji, liczbę dostępnych aktywności oraz stopień skomplikowania poszczególnych mechanik rozgrywki, trudno było oczekiwać, że nawet po wielu latach prac studiu uda się wyeliminować wszystkie niedociągnięcia jeszcze przed premierą. Choć po niemal perfekcyjnych ocenach można było spodziewać się pozbawionego błędu hitu, rzeczywistość pokazuje, że nawet najlepszym zdarzają się wpadki.",
+        "Najnowsza aktualizacja została udostępniona 23 listopada i oznaczona jest numerem 01.002.002 na PS5 oraz 1.0.2.2 na konsolach Microsoftu. W przypadku sprzętu Sony do pobrania jest około 603 MB danych, natomiast na XBOX aktualizacja zajmuje około 1,6 GB. Pomimo stosunkowo niewielkich rozmiarów warto zainstalować ją przed kolejną sesją z GTA VI, bo rozwiązuje naprawdę irytujące błędy, w tym takie, które mogą zablokować postęp w grze.",
+        "Jednym z najbardziej kluczowym elementów nowej aktualizacji jest wyeliminowanie błędu związanego z nieprawidłowym działaniem mechanizmu automatycznego zapisywania postępów. Od dnia premiery w mediach społecznościowych pojawiały się relacje graczy, którzy po ponownym uruchomieniu produkcji odkrywali, że stracili część swoich postępów. Studio nie wdaje się w szczegóły, ale teraz zapisywanie powinno odbywać się częściej także poza misjami z głównego wątku fabularnego. Twórcy uporali się także z kilkoma błędami prowadzącymi do niespodziewanego zamykania gry.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Równie istotne są poprawki związane z wykonywaniem połączeń telefonicznych. Niektóre z nich nie były inicjowane w odpowiednim momencie, przez co gracze nie mogli odblokować kolejnych misji lub kontynuować głównej ścieżki. Rockstar nie zdradza jednak, których konkretnie zadań dotyczył problem. Twórcy przyjrzeli się również funkcjonowaniu systemu policyjnych pościgów. W niektórych sytuacjach gracze nie byli w stanie pozbyć się gwiazdek symbolizujących poziom zainteresowania służb. Wyeliminowano też błąd sprawiający, że warunki pogodowe przez dłuższy czas nie ulegały zmianom. Są też poprawki dotyczą możliwości wykonywania martwego ciągu na siłowni oraz przekazywania przez kompanów toreb z łupami, które gracze mogą następnie sprzedawać paserom."
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-1-3bd956",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "id": "swiat-3-3fb613",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Gospodarka Światowa” (Azja & Pacyfik) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Pierwsze takie miasto w Alpach. Chcą walczyć z nadmiarem turystów",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "20:35",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/pierwsze-takie-miasto-w-alpach-chca-walczyc-z-nadmiarem-turystow/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/xf/xfxnwfzssisfj7d78uq4sozk1dsonrk4.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "title": "Czego powrót Jensena Huanga uczy chińskiego Xi na temat Trumpa",
+      "original_title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "07:26",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
       "lead_story": true,
       "summary_points": [
-        "Słynne alpejskie miasteczko Chamonix planuje stać się pierwszą miejscowością w najwyższych górach Europy, które wprowadzi limity odwiedzających.",
-        "Podróżni przed przyjazdem będą musieli dokonać rezerwacji, a potem otrzymają specjalne uprawnienia do wejścia.",
-        "W razie braku przepustki turystom będzie grozić grzywna."
+        "Powrót Huanga na stery Nvidii nie gwarantuje Pekinowi ulgi.",
+        "Podpis pod rysunkiem: Powrót na wieki: wpływ Trumpa na powrót Huanga do Nvidii Przywrócenie Jensena Huanga na stanowisko dyrektora generalnego Nvidii przykuło uwagę świata – w tym Chin, gdzie post stał się najpopularniejszym postem na Weibo, największej platformie mediów społecznościowych w kraju.",
+        "Większość użytkowników cieszyła się z powrotu wpływowego miliardera, który deklarował, że kocha Chiny, zanim w Internecie pojawiły się filmy, na których podczas majowej wizyty je makaron i pije mleczną herbatę."
       ],
       "extended_paragraphs": [
-        "Słynne alpejskie miasteczko Chamonix planuje stać się pierwszą miejscowością w najwyższych górach Europy, które wprowadzi limity odwiedzających. Podróżni przed przyjazdem będą musieli dokonać rezerwacji, a potem otrzymają specjalne uprawnienia do wejścia. W razie braku przepustki turystom będzie grozić grzywna.",
-        "W Chamonix we francuskich Alpach większość szlaków turystycznych prowadzi do parku narodowego, z którego rozciągają się spektakularne widoki na Mont Blanc. Latem nawet cztery tysiące turystów dziennie wędruje lub jedzie kolejką do jezior położonych wysoko w rezerwacie Aiguilles Rouges.",
-        "Wielu z nich schodzi w dół rozczarowanych. To miejsce, które było niegdyś oazą spokoju, od 2020 roku odnotowało ponad dwukrotny wzrost liczby odwiedzających . To psuje wrażenia z wizyty i pozostawia góry śmieci - opisuje \"The Guardian\".",
-        "Sytuacja ta ma się jednak zmienić. Chamonix może stać się pierwszym miastem w Alpach, które wprowadzi limity , aby ograniczyć liczbę turystów w okolicy jezior Lac Blanc czy Lacs des Chéserys .",
-        "Burmistrz miasteczka Francois-Xavier Laffin ogłosił, że od czerwca 2027 roku turyści, chcący odwiedzić słynny region, będą musieli z wyprzedzeniem dokonywać rezerwacji . Potem otrzymają kod QR uprawniający do wstępu. Samorządowiec zaznaczył, że odwiedzanie gór nadal będzie bezpłatne, ale podlegać będzie pewnym zasadom."
+        "Powrót Huanga na stery Nvidii nie gwarantuje Pekinowi ulgi.",
+        "Podpis pod rysunkiem: Powrót na wieki: wpływ Trumpa na powrót Huanga do Nvidii",
+        "Przywrócenie Jensena Huanga na stanowisko dyrektora generalnego Nvidii przykuło uwagę świata – w tym Chin, gdzie post stał się najpopularniejszym postem na Weibo, największej platformie mediów społecznościowych w kraju.",
+        "Większość użytkowników cieszyła się z powrotu wpływowego miliardera, który deklarował, że kocha Chiny, zanim w Internecie pojawiły się filmy, na których podczas majowej wizyty je makaron i pije mleczną herbatę. Niektórzy zastanawiali się, dlaczego – na nagraniu przedstawiającym jego powrót do siedziby Nvidii – nie ma na sobie żadnej ze swoich skórzanych kurtek.",
+        "Jednak dla wielu powrót Huanga, nazywany jednym z największych zwrotów akcji wszechczasów, wydaje się być potwierdzeniem dla Chin."
       ]
     },
     {
-      "id": "swiat-2-3cc41a",
+      "id": "swiat-6-2d7382",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
+      "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "USA umieściły na czarnej liście azjatycką firmę Megaspeed zajmującą się sztuczną inteligencją po skandalu z Nvidią",
-      "original_title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "title": "Lider indyjskiej partii „karaluchów” twierdzi, że zabroniono mu lotu do Wielkiej Brytanii",
+      "original_title": "India's 'cockroach' party leader says he was stopped from flying to UK",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:16",
+      "time": "05:33",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Megaspeed został oskarżony o wysyłanie chipów AI do Chin po upublicznieniu romansu byłego dyrektora z Jensenem Huangiem.",
-        "Departament Handlu ogłosił, że planuje dodać spółkę Megaspeed Ltd do listy podmiotów znajdujących się na czarnej liście podmiotów uprawnionych do kupna lub sprzedaży towarów w USA.",
-        "Firma zajmuje się głównie deweloperem centrów danych, ale w ostatnich tygodniach były dyrektor Megaspeed został oskarżony o pracę szpiegowską dla Chin w trakcie romantycznych relacji z szefem Nvidii Jensenem Huangiem."
+        "Saurav Das powiedział, że władze imigracyjne na lotnisku w Delhi poinformowały go, że jego paszport został „oznaczony”.",
+        "Lider indyjskiej partii „karaluchów” powiedział, że urzędnicy imigracyjni na lotnisku w Delhi powstrzymali go przed lotem do Wielkiej Brytanii, gdzie miał wziąć udział w szeregu wydarzeń.",
+        "Saurav Das powiedział, że miał wejść na pokład samolotu we wtorek o 1:00 czasu lokalnego (19:30 GMT w poniedziałek), ale urzędnicy imigracyjni powiedzieli mu, że jego paszport został „oznaczony”."
       ],
       "extended_paragraphs": [
-        "Megaspeed został oskarżony o wysyłanie chipów AI do Chin po upublicznieniu romansu byłego dyrektora z Jensenem Huangiem.",
-        "Departament Handlu ogłosił, że planuje dodać spółkę Megaspeed Ltd do listy podmiotów znajdujących się na czarnej liście podmiotów uprawnionych do kupna lub sprzedaży towarów w USA.",
-        "Firma zajmuje się głównie deweloperem centrów danych, ale w ostatnich tygodniach były dyrektor Megaspeed został oskarżony o pracę szpiegowską dla Chin w trakcie romantycznych relacji z szefem Nvidii Jensenem Huangiem.",
-        "Ta relacja doprowadziła do dodatkowej kontroli ze strony urzędników amerykańskich i zwiększyła obawy, że Megaspeed wysyła zaawansowane chipy komputerowe Nvidii oparte na sztucznej inteligencji do Chin.",
-        "W ogłoszeniu działu handlowego nie podano, kiedy dokładnie zacznie obowiązywać zakaz Megaspeed. BBC wraz z Białym Domem i Megaspeed poprosiło agencję o komentarz."
+        "Saurav Das powiedział, że władze imigracyjne na lotnisku w Delhi poinformowały go, że jego paszport został „oznaczony”.",
+        "Lider indyjskiej partii „karaluchów” powiedział, że urzędnicy imigracyjni na lotnisku w Delhi powstrzymali go przed lotem do Wielkiej Brytanii, gdzie miał wziąć udział w szeregu wydarzeń.",
+        "Saurav Das powiedział, że miał wejść na pokład samolotu we wtorek o 1:00 czasu lokalnego (19:30 GMT w poniedziałek), ale urzędnicy imigracyjni powiedzieli mu, że jego paszport został „oznaczony”.",
+        "Nie jest jeszcze jasne, dlaczego paszport Dasa został oznaczony flagą. BBC zwróciło się do federalnego ministerstwa spraw wewnętrznych, policji w Delhi i urzędników lotniska z prośbą o komentarz.",
+        "Das, który zyskał rozgłos w Indiach na początku tego roku po protestach pod przewodnictwem pokolenia Z, powiedział, że został zaproszony przez Związek Oksfordzki, aby zabrać głos na temat tego ruchu."
       ]
     },
     {
-      "id": "swiat-3-3dca55",
+      "id": "swiat-5-fb6a06",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Szef NATO ślubuje obronę przed zagrożeniami kosmicznymi po doniesieniach rosyjskiego satelity nuklearnego",
+      "original_title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "10:58",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Niemieckie media podały, że Rosja planuje w nadchodzących tygodniach wystrzelić w przestrzeń kosmiczną satelitę z głowicą nuklearną.",
+        "Szef NATO Mark Rutte powiedział, że sojusz będzie bronił się przed wszelkimi zagrożeniami w przestrzeni kosmicznej po doniesieniach Niemiec, że Rosja przygotowuje się do wystrzelenia satelity uzbrojonego w broń nuklearną.",
+        "Według niemieckich mediów w tym miesiącu kraje NATO rozesłały doniesienia wywiadu o możliwym wystrzeleniu rakiety w ciągu najbliższych 60 dni."
+      ],
+      "extended_paragraphs": [
+        "Niemieckie media podały, że Rosja planuje w nadchodzących tygodniach wystrzelić w przestrzeń kosmiczną satelitę z głowicą nuklearną.",
+        "Szef NATO Mark Rutte powiedział, że sojusz będzie bronił się przed wszelkimi zagrożeniami w przestrzeni kosmicznej po doniesieniach Niemiec, że Rosja przygotowuje się do wystrzelenia satelity uzbrojonego w broń nuklearną.",
+        "Według niemieckich mediów w tym miesiącu kraje NATO rozesłały doniesienia wywiadu o możliwym wystrzeleniu rakiety w ciągu najbliższych 60 dni. Nie było jasne, który kraj był autorem raportów.",
+        "Kanclerz Niemiec Friedrich Merz stwierdził, że takie doniesienia „nie są nowe, ale pozostają nie mniej szokujące”, a rzecznik rządu powiedział, że doniesienia te są traktowane „bardzo poważnie”.",
+        "Rzecznik Kremla Dmitrij Pieskow powiedział, że nie widział tych raportów, ale odrzucił historie powołujące się na „nieznane źródła” jako „niewarte traktowania ich poważnie”."
+      ]
+    },
+    {
+      "id": "swiat-1-4de80e",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "\"Siedźcie w domu. Czekajcie na sąd\". W Rosji oburzenie po słowach premiera Estonii",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:00",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/siedzcie-w-domu-czekajcie-na-sad-w-rosji-oburzenie-po-slowach-premiera-estonii/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/om/omjapq3787spc4fvb5ddnu453twfa4hg.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Czekajcie na sąd - tymi słowami premier Estonii zwrócił się do rosyjskich żołnierzy biorących udział w wojnie w Ukrainie.",
+        "Kristen Michal poinformował o postępach we wprowadzeniu zakazu wydawania wiz obecnym i byłym uczestnikom napaści.",
+        "Słowa polityka wywołały oburzenie w Rosji."
+      ],
+      "extended_paragraphs": [
+        "Siedźcie w domu. Czekajcie na sąd - tymi słowami premier Estonii zwrócił się do rosyjskich żołnierzy biorących udział w wojnie w Ukrainie. Kristen Michal poinformował o postępach we wprowadzeniu zakazu wydawania wiz obecnym i byłym uczestnikom napaści. Słowa polityka wywołały oburzenie w Rosji.",
+        "Premier Estonii Kristen Michal poinformował za pośrednictwem mediów społecznościowych o przyjęciu przez Komisję Europejską wytycznych w sprawie zakazu wydawania wiz rosyjskim bojownikom biorącym udział w napaści na Ukrainę. \"To ważna sprawa, nasza sprawa\" - skomentował Michal.",
+        "Premier Estonii zwrócił się także bezpośrednio do rosyjskich żołnierzy biorących udział w agresji na Ukrainę. \" Siedźcie w domu. Czekajcie na sąd \" - napisał Kristen Michal.",
+        "Słowa estońskiego premiera podchwyciła kremlowska agencja RIA Nowosti. \"Premier Estonii publicznie obraził weteranów wojny w Donbasie\" - podała. \"Wygłosił obraźliwe uwagi na temat weteranów specjalnej operacji wojskowej\" - uznała z kolei RIA. \" Z wrócił się w bezczelny sposób do uczestników operacji wojskowej\" - ocenił natomiast rosyjski dziennik \"Gazieta\".",
+        "W poniedziałek rosyjskie Ministerstwo Spraw Zagranicznych opublikowało komunikaty będący odpowiedzią na decyzję Estonii, by od 1 grudnia zamknąć wszystkie przejścia graniczne z Rosją . \"Takie prowokacyjne i niezwykle niebezpieczne działania grożą wybuchem otwartej wojny z Rosją\" - podał Kreml."
+      ]
+    },
+    {
+      "id": "swiat-2-dda2ac",
       "entity_tag": "USA & Bezpieczeństwo",
       "sector": "Geopolityka",
       "market_impact": "LOW",
@@ -1766,164 +1824,97 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Więcej rosyjskich żołnierzy przy granicy z NATO. Rozbudowują kolejny ośrodek",
+      "title": "Zwrot w sprawie dostaw dla Ukrainy. Szef Pentagonu miał zaciągnąć hamulec",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:42",
+      "time": "09:44",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/wiecej-rosyjskich-zolnierzy-przy-granicy-z-nato-rozbudowuja-kolejny-osrodek/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/w5/w567kqde6gci96zztixjin2o31g6tq9w.png",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/zwrot-w-sprawie-dostaw-dla-ukrainy-szef-pentagonu-mial-zaciagnac-hamulec/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/8f/8fke836peezih418qc1oaboeqmzse73s.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Rosja rozbudowuje infrastrukturę wojskową w pobliżu granicy z Finlandią - informuje portal Yle.",
-        "Ze zdjęć satelitarnych wynika, że na terenie garnizonu w Kamence, około 60 km od granicy, powstają nowe budynki z przeznaczeniem na ośrodek bojowy.",
-        "Na analizowanych przez dziennikarzy fotografiach widać, że wciągu ostatnich kilkunastu miesięcy doszło do szeregu zmian na terenie ośrodka."
+        "Pentagon wstrzymuje dostawę około 60 pocisków systemów obrony powietrznej do Ukrainy - podał Financial Times.",
+        "Źródła dziennika podkreśliły, że blokada jest istotna, ponieważ zamówienie zostało już opłacone.",
+        "- To bardzo ważne, aby USA zatwierdziły przekazanie pocisków, za które nasi partnerzy już zapłacili - mówił wcześniej prezydent Ukrainy Wołodymyr Zełenski."
       ],
       "extended_paragraphs": [
-        "Rosja rozbudowuje infrastrukturę wojskową w pobliżu granicy z Finlandią - informuje portal Yle. Ze zdjęć satelitarnych wynika, że na terenie garnizonu w Kamence, około 60 km od granicy, powstają nowe budynki z przeznaczeniem na ośrodek bojowy.",
-        "Na analizowanych przez dziennikarzy fotografiach widać, że wciągu ostatnich kilkunastu miesięcy doszło do szeregu zmian na terenie ośrodka. Dużą część obiektów najpierw zburzono, a następnie rozpoczęto budowę nowych.",
-        "Według ekspertów odbudowywane hangary i kantyny wskazują jasno, że powstaje tam nowy ośrodek szkolenia bojowego i strzeleckiego .",
-        "Z oficjalnych informacji podawanych przez rosyjskie Ministerstwo Obrony wiadomo, że na miejscu stacjonuje 69. Zmotoryzowana Dywizja Piechoty . To jedna z największych rosyjskich sił lądowych skoncentrowana na kierunku fińskim. Do tej pory, ośrodek w Kamence służył jako poligon i ośrodek szkolenia personelu.",
-        "Żołnierze szkoleni na miejscu biorą aktywny udział w wojnie w Ukrainie . Głównym polem działań 69. Zmotoryzowanej Dywizji Piechoty jest obwód charkowski."
+        "Pentagon wstrzymuje dostawę około 60 pocisków systemów obrony powietrznej do Ukrainy - podał Financial Times. Źródła dziennika podkreśliły, że blokada jest istotna, ponieważ zamówienie zostało już opłacone. - To bardzo ważne, aby USA zatwierdziły przekazanie pocisków, za które nasi partnerzy już zapłacili - mówił wcześniej prezydent Ukrainy Wołodymyr Zełenski.",
+        "Eksport pocisków miał zablokować szef Pentagonu Pete Hegseth . Broń potrzebna do uzupełnienia ukraińskich systemów przeciwlotniczych została wyprodukowana w Stanach Zjednoczonych i opłacona przez zachodnich sojuszników Ukrainy - przekazały redakcji \"Financial Times\" trzy osoby, w tym dwaj przedstawiciele Kijowa.",
+        "- To bardzo ważne, aby USA zatwierdziły przekazanie pocisków, za które nasi partnerzy już zapłacili – podkreślił w niedzielę prezydent Ukrainy Wołodymyr Zełenski .",
+        "Dzień później ukraiński lider ostrzegł, że według krajowego wywiadu Rosja przygotowuje kolejne ataki na Ukrainę. - Ważne jest, aby USA i inne państwa , od których zależą dostawy pocisków przechwytujących niezbędnych do ochrony naszych miast i infrastruktury, również zwróciły uwagę na te ostrzeżenia - powiedział.",
+        "ZOBACZ: Szef NATO zapowiada obronę w kosmosie. Doniesienia o rosyjskiej broni jądrowej"
       ]
     },
     {
-      "id": "swiat-4-5a435a",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Zełenski mówi, że rosyjski okręt wojenny trafiony przez ukraińskie drony w Libii",
-      "original_title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:41",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Kreml ostrzega przed „eskalacją napięć w regionie”, ale nie chce bezpośrednio komentować ataków w Libii.",
-        "Rosyjski okręt wojenny został w niedzielę zatopiony przez ukraińskie drony w porcie w Libii – poinformował prezydent Wołodymyr Zełenski.",
-        "Lokalne władze podały, że wczesnym rankiem na okręcie wojennym w bazie marynarki wojennej w Bengazi doszło do eksplozji na okręcie wojennym, który dokował po paliwo i zapasy przed powrotem do Rosji."
-      ],
-      "extended_paragraphs": [
-        "Kreml ostrzega przed „eskalacją napięć w regionie”, ale nie chce bezpośrednio komentować ataków w Libii.",
-        "Rosyjski okręt wojenny został w niedzielę zatopiony przez ukraińskie drony w porcie w Libii – poinformował prezydent Wołodymyr Zełenski.",
-        "Lokalne władze podały, że wczesnym rankiem na okręcie wojennym w bazie marynarki wojennej w Bengazi doszło do eksplozji na okręcie wojennym, który dokował po paliwo i zapasy przed powrotem do Rosji.",
-        "Zełenski dodał, że ukraiński atak uderzył w drugi rosyjski statek – statek towarowy, który jego zdaniem był używany do transportu broni.",
-        "Lokalne ministerstwo zdrowia poinformowało, że otrzymało rannych ze statku handlowego, który celował u wybrzeży portu. Nie jest jasne, czy jest to ten sam statek, za który Ukraina wzięła odpowiedzialność."
-      ]
-    },
-    {
-      "id": "swiat-5-2b2d2f",
+      "id": "swiat-4-1112f6",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 65 proc., 35 proc.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "65 proc.",
-        "35 proc."
-      ],
-      "title": "Le Pen prowadzi, ale jej rywal rośnie w siłę. Nowy sondaż",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Rządził Serbią, teraz grozi głodówką. \"Myśleli, że ucieknę\"",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:18",
+      "time": "09:19",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/le-pen-prowadzi-ale-jej-rywal-rosnie-w-sile-nowy-sondaz/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/51/512kjjh4tvffbwf1cykuw3i7ez9hjpfy.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/rzadzil-serbia-teraz-grozi-glodowka-mysleli-ze-uciekne/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/ei/eina2ziuvb15p4gkbc324qkf1eji2oi8.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Rośnie poparcie dla skrajnie lewicowego kandydata na prezydenta Francji Jeana-Luca Melenchona - wynika z nowego sondażu.",
-        "Marine Le Pen pozostaje jednak cały czas liderką ze zdecydowanym poparciem 65 proc. badanych.",
-        "Francuzi do urn pójdą w kwietniu 2027 r. Rośnie poparcie dla skrajnie lewicowego kandydata na prezydenta Francji Jeana-Luca Melenchona - wynika z nowego sondażu."
+        "Były prezydent Serbii oświadczył, że nie zamierza opuszczać kraju, a w przypadku prób jego zatrzymania podejmie protest głodowy.",
+        "Aleksander Vučić stwierdził, że działacze jego partii po przegranych pod koniec października wyborach są prześladowani i nękani, jednak gdyby nowy obóz władzy zdecydował się na zatrzymania, wówczas na ulicach pojawi się milion ludzi.",
+        "Z tego względu Vučić bierze pod uwagę, że jego partia nie wystawi kandydata w nadchodzących wyborach prezydenckich ."
       ],
       "extended_paragraphs": [
-        "Rośnie poparcie dla skrajnie lewicowego kandydata na prezydenta Francji Jeana-Luca Melenchona - wynika z nowego sondażu. Marine Le Pen pozostaje jednak cały czas liderką ze zdecydowanym poparciem 65 proc. badanych. Francuzi do urn pójdą w kwietniu 2027 r.",
-        "Skrajnie lewicowy kandydat na prezydenta Jean-Luc Melenchon zyskał w ciągu miesiąca pięć punktów procentowych w potencjalnym starciu z liderką skrajnej prawicy Marine Le Pen - wynika z sondażu przeprowadzonego przez Toluna Harris Interactive, na który powołuje się agencja Reutera.",
-        "Marine Le Pen cieszy się znacznie większym poparciem - głos na nią oddałoby 65 proc. uczestników sondażu. Poparcie dla Melenchona, kandydata partii Francja Nieujarzmiona (LFI), zadeklarowało 35 proc. badanych.",
-        "Melenchon jest uważany za najbardziej prawdopodobnego rywala Le Pen, kandydatki Zjednoczenia Narodowego (RN) w drugiej turze francuskich wyborów prezydenckich.",
-        "Jak zauważa Reuters, poparcie dla Melenchona wzrosło w krótkim czasie, mimo że jego partia została oskarżona przez rząd o podżeganie do protestów w październiku."
-      ]
-    },
-    {
-      "id": "swiat-6-020089",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Co strajk na rosyjskim statku w Libii mówi o rozprzestrzenianiu się wojny na Ukrainie",
-      "original_title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:48",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Zatopienie przez Ukrainę rosyjskiego pancernika w porcie w Libii znacznie podnosi stawkę wojny, pisze Frank Gardner.",
-        "Źródło zdjęcia, Vantor Autor: Frank Gardner Korespondent ds.",
-        "bezpieczeństwa Opublikowano 4 godziny temu Kapitan rosyjskiej korwety Merkury, zakotwiczony w śródziemnomorskim porcie, prawie 3000 mil od Moskwy, mógł sądzić, że jego statek jest bezpieczny przed atakiem."
-      ],
-      "extended_paragraphs": [
-        "Zatopienie przez Ukrainę rosyjskiego pancernika w porcie w Libii znacznie podnosi stawkę wojny, pisze Frank Gardner.",
-        "Źródło zdjęcia, Vantor Autor: Frank Gardner Korespondent ds. bezpieczeństwa Opublikowano 4 godziny temu Kapitan rosyjskiej korwety Merkury, zakotwiczony w śródziemnomorskim porcie, prawie 3000 mil od Moskwy, mógł sądzić, że jego statek jest bezpieczny przed atakiem. To nie było.",
-        "Zuchwały i skuteczny nocny atak w Bengazi, koordynowany przez ukraińską agencję wywiadowczą SBU i jej siły zbrojne, zrodził oczywiste pytanie: czy wojna ukraińska wykracza daleko poza jej granice?",
-        "Odpowiedź brzmi: tak, w rzeczywistości już się rozprzestrzeniało. Jednak ten atak, który prezydent Ukrainy Wołodymyr Zełenski nazwał „wzorową operacją”, nieuchronnie podniesie stawkę o kolejny stopień.",
-        "Rosja, która obecnie prowadzi nieustanną kampanię mającą na celu zmuszenie ludności cywilnej Ukrainy do poddania się codziennymi atakami rakietowymi i dronami, nazwała to „niebezpieczną eskalacją”."
-      ]
-    },
-    {
-      "id": "swiat-7-eb1b6d",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Prawnicy twierdzą, że irańskie władze chłostają piosenkarkę, która występowała bez hidżabu",
-      "original_title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:04",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Według doniesień Parastoo Ahmadi, trzech muzyków i producent otrzymali w Kom 74 baty.",
-        "Źródło obrazu, youtube.com/@ParastooAhmadii Tytuł zdjęcia: Występ Parastoo Ahmadi był transmitowany na żywo na jej kanale YouTube w grudniu 2024 r. Wybitna piosenkarka, która występowała bez obowiązkowego hidżabu, oraz czterech członków jej zespołu i zespołu produkcyjnego zostało wychłostanych przez irańskie władze – twierdzą prawnicy.",
-        "Parastoo Ahmadi, trzej muzycy i producent otrzymali po 74 baty w mieście Kom – powiedział BBC członek ich zespołu obrońców."
-      ],
-      "extended_paragraphs": [
-        "Według doniesień Parastoo Ahmadi, trzech muzyków i producent otrzymali w Kom 74 baty.",
-        "Źródło obrazu, youtube.com/@ParastooAhmadii Tytuł zdjęcia: Występ Parastoo Ahmadi był transmitowany na żywo na jej kanale YouTube w grudniu 2024 r.",
-        "Wybitna piosenkarka, która występowała bez obowiązkowego hidżabu, oraz czterech członków jej zespołu i zespołu produkcyjnego zostało wychłostanych przez irańskie władze – twierdzą prawnicy.",
-        "Parastoo Ahmadi, trzej muzycy i producent otrzymali po 74 baty w mieście Kom – powiedział BBC członek ich zespołu obrońców.",
-        "Ahmadi (29 l.) podczas koncertu transmitowanego na żywo w grudniu 2024 r. miała na sobie sukienkę bez rękawów. Irańskie prawo zabrania kobietom publicznych występów i wymaga od nich noszenia chust i skromnego ubioru."
+        "Były prezydent Serbii oświadczył, że nie zamierza opuszczać kraju, a w przypadku prób jego zatrzymania podejmie protest głodowy. Aleksander Vučić stwierdził, że działacze jego partii po przegranych pod koniec października wyborach są prześladowani i nękani, jednak gdyby nowy obóz władzy zdecydował się na zatrzymania, wówczas na ulicach pojawi się milion ludzi.",
+        "Z tego względu Vučić bierze pod uwagę, że jego partia nie wystawi kandydata w nadchodzących wyborach prezydenckich . - Dlaczego mielibyśmy to robić, skoro nasi ludzie są prześladowani i nękani? - powiedziała była głowa państwa.",
+        "ZOBACZ: Atmosfera strachu przerodziła się w świętowanie. W Belgradzie było \"jak w sylwestra\"",
+        "RTV Pink to telewizja uważana za tubę propagandową Vučića. Po zwycięstwie Listy Studenckiej w wyborach parlamentarnych protestujący weszli do siedziby stacji w Belgradzie i domagali się zatrzymania jednego z redaktorów. Wcześniej budynek był m.in. obrzucany jajami.",
+        "Vučić oddał władzę po przegranej w przedterminowych wyborach 25 października . Wcześniej zrezygnował z piastowania urzędu prezydenta, bo spodziewał się zwycięstwa w wyborach parlamentarnych i objęcia urzędu premiera. W trakcie 14 lat u władzy należał do najbardziej prorosyjskich liderów w Europie."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-2-dcde8a",
+      "id": "sport-5-a08fda",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Sceny jak ze słynnego filmu. Oto co spotkało LeBrona Jamesa",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:50",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/koszykowka/1285872/sceny-jak-ze-slynnego-filmu-oto-co-spotkalo-lebrona-jamesa",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0567838a1b09_98451160.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": true,
+      "summary_points": [
+        "Savannah James, żona LeBrona Jamesa, złożyła w Los Angeles dwa wnioski o zakaz zbliżania się wobec mężczyzn, którzy mieli wielokrotnie pojawiać się przy posiadłościach rodziny.",
+        "Jeden z nich wszedł do domu.",
+        "Skomentuj Savannah James, żona LeBrona Jamesa, złożyła w Los Angeles dwa wnioski o zakaz zbliżania się wobec mężczyzn, którzy mieli wielokrotnie pojawiać się przy posiadłościach rodziny."
+      ],
+      "extended_paragraphs": [
+        "Savannah James, żona LeBrona Jamesa, złożyła w Los Angeles dwa wnioski o zakaz zbliżania się wobec mężczyzn, którzy mieli wielokrotnie pojawiać się przy posiadłościach rodziny. Jeden z nich wszedł do domu.",
+        "Skomentuj Savannah James, żona LeBrona Jamesa, złożyła w Los Angeles dwa wnioski o zakaz zbliżania się wobec mężczyzn, którzy mieli wielokrotnie pojawiać się przy posiadłościach rodziny. Jeden z nich wszedł do domu.",
+        "Dokumenty sądowe opisują dwa przypadki wtargnięcia do nieruchomości rodziny LeBrona Jamesa w Los Angeles. Jak wynika z dostępnych informacji, Savannah James, żona koszykarza, wskazała w nich na powtarzające się zachowania obu mężczyzn.",
+        "William Norman Rahman miał przez niemal rok kierować się przekonaniem, że dom Jamesów należy do niego. Wykorzystywał adres rezydencji jako własny, podawał go kierowcom Ubera i pojawiał się w okolicy z bagażem. Hiszpańska \"Marca\" stwierdziła wprost, że wydarzenia te przypominają sceny z oscarowego filmu \"Parasite\".",
+        "\"Pan Rahman wydaje się pozostawać w urojeniowym i głęboko zakorzenionym przekonaniu, że mieszka w rezydencji rodziny James\" - napisano w dokumentach sądowych. Mężczyzna miał także zamawiać przesyłki na adres rodziny, która w lutym wysłała mu wezwanie do zaprzestania takich działań."
+      ]
+    },
+    {
+      "id": "sport-8-dcde8a",
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
       "market_impact": "HIGH",
@@ -1940,7 +1931,7 @@
       "source_url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1142/live/d8901070-e786-11f1-9baa-c1f9a8f8c840.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Kapitan Evertonu James Tarkowski został wyrzucony z boiska po raz pierwszy w swojej karierze w Premier League po poniedziałkowej porażce z Brentford 4:0, ale czy była to surowa decyzja?",
         "Do poniedziałkowego wieczoru obrońca otrzymał w Premier League 74 żółte kartki, ale nigdy nie został wyrzucony z boiska, co stanowi najwyższy rekord w lidze.",
@@ -1950,203 +1941,145 @@
         "Kapitan Evertonu James Tarkowski został wyrzucony z boiska po raz pierwszy w swojej karierze w Premier League po poniedziałkowej porażce z Brentford 4:0, ale czy była to surowa decyzja?",
         "Do poniedziałkowego wieczoru obrońca otrzymał w Premier League 74 żółte kartki, ale nigdy nie został wyrzucony z boiska, co stanowi najwyższy rekord w lidze.",
         "Jednak ta passa dobiegła końca w Brentford, gdy otrzymał pierwszą czerwoną kartkę w swoim 351. występie w Premier League, choć decyzja ta wywołała wiele dyskusji.",
-        "Jego zwolnienie oznacza, że ​​przegapi niedzielne derby Merseyside, a także zrujnuje rekordowy wieczór Davida Moyesa, który jako menadżer Evertonu prowadził swój 593. mecz – bardziej niż ktokolwiek inny w historii klubu.",
+        "Jego zwolnienie oznacza, że ​​opuści niedzielne derby Merseyside z Liverpoolem, a także zrujnuje rekordowy wieczór Davida Moyesa, który jako menadżer Evertonu prowadził swój 593. mecz – więcej niż ktokolwiek inny w historii klubu.",
         "Przegrana 4:0 była także najcięższą porażką Evertonu od czasu powrotu Moyesa do klubu na początku ubiegłego roku."
       ]
     },
     {
-      "id": "sport-6-68f8ce",
+      "id": "sport-1-5b9785",
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
       "market_impact": "MEDIUM",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako MEDIUM.",
       "key_metrics": [],
-      "title": "„Nikt nie przyjdzie, aby nas uratować” – ale jak Man Utd może się uratować?",
-      "original_title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:30",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca84/live/d15e3100-e75a-11f1-b407-33329b1ec67a.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
+      "title": "Grad bramek w Stambule? Wszystko na to wskazuje!",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "11:11",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/bukmacherzy/1285876/grad-bramek-w-stambule-wszystko-na-to-wskazuje",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0570405e4a90_93875731.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Jak Mauricio Pochettino powstrzymuje desperacki spadek Manchesteru United w stronę podnóża Premier League Reporter Manchesteru United Opublikowano 8 godzin temu Wycieczka Manchesteru United na Anfield w Premier League została przez niektórych opisana jako rzut wolny dla nowego głównego trenera Mauricio Pochettino.",
-        "Teoria głosiła, że ​​oczekiwania wobec United były tak niskie po ich przyjeździe do Liverpoolu, że pozytywny wynik byłby ogromną premią, a oczekiwano wszystkiego innego.",
-        "Jednak Pochettino nie wyglądał na człowieka bez presji po 15 minutach przegranej 4:0."
+        "W pierwszym wtorkowym meczu, który rozpocznie się już o 18:45, Galatasaray zmierzy się z Aston Villą.",
+        "Czy gościom uda się przełamać serię siedmiu zwycięstw z rzędu Galatasaray?",
+        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów W pierwszym wtorkowym meczu, który rozpocznie się już o 18:45, Galatasaray zmierzy się z Aston Villą."
       ],
       "extended_paragraphs": [
-        "Jak Mauricio Pochettino powstrzymuje desperacki spadek Manchesteru United w stronę podnóża Premier League",
-        "Reporter Manchesteru United Opublikowano 8 godzin temu Wycieczka Manchesteru United na Anfield w Premier League została przez niektórych opisana jako rzut wolny dla nowego głównego trenera Mauricio Pochettino.",
-        "Teoria głosiła, że ​​oczekiwania wobec United były tak niskie po ich przyjeździe do Liverpoolu, że pozytywny wynik byłby ogromną premią, a oczekiwano wszystkiego innego.",
-        "Jednak Pochettino nie wyglądał na człowieka bez presji po 15 minutach przegranej 4:0.",
-        "W tym momencie jego zespół miał już przewagę 2:0 i tracił do 10 zawodników. Kibice Liverpoolu radośnie śpiewali o „zwolnieniu Argentyńczyka rano”, mimo że prowadził dopiero w szóstej fazie swojego pierwszego meczu."
+        "W pierwszym wtorkowym meczu, który rozpocznie się już o 18:45, Galatasaray zmierzy się z Aston Villą. Czy gościom uda się przełamać serię siedmiu zwycięstw z rzędu Galatasaray?",
+        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów",
+        "W lepszym położeniu do wtorkowej rywalizacji przystępuje drużyna z Birmingham. Aston Villa po czterech rozegranych meczach w Lidze Mistrzów ma na koncie dziewięć wywalczonych punktów. Ten dorobek udało się uzbierać w trzech pierwszych spotkaniach, w których Aston Villa wygrała na wyjeździe z Club Brugge, pokonała u siebie Fenerbahce, a następnie rozprawiła się z Vikingiem. Jej pierwsza porażka w obecnej kampanii Ligi Mistrzów przydarzyła się dopiero przy okazji ostatniego meczu wyjazdowego z Barceloną.",
+        "Galatasaray do tej pory uzbierało na koncie sześć punktów. Bilans tej drużyny to osiem strzelonych i dziewięć straconych bramek. Galatasaray rozpoczęło obecną kampanię w Lidze Mistrzów od przegranej w wyjazdowym spotkaniu ze Sportingiem 1:3. Następnie turecka drużyna poległa również w domowej rywalizacji z Barceloną. Przełamanie nastąpiło dopiero podczas wyjazdowego meczu z francuskim Lille, a następnie w domowej rywalizacji z VfB Stuttgart. W tych dwóch ostatnich spotkaniach Galatasaray wywalczyło sześć punktów, co znacznie poprawiło sytuację tej drużyny w ligowej tabeli Champions League.",
+        "Ogólnie bukmacherzy w tej rywalizacji spodziewają się wielu bramek. Kursy na BTTS są mocno zaniżone i obecnie wahają się w okolicach 1.43."
       ]
     },
     {
-      "id": "sport-7-8fc582",
+      "id": "sport-3-c61f41",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "MEDIUM",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 2,5 tys.) o wpływie sklasyfikowanym jako MEDIUM.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 7 mln euro, 5 tys.) o wpływie sklasyfikowanym jako MEDIUM.",
       "key_metrics": [
-        "2,5 tys."
+        "7 mln euro",
+        "5 tys."
       ],
-      "title": "Legenda skoków zazdrości Polakom. \"Są przykładem\"",
+      "title": "Duża inwestycja piłkarza PSG. Zapłacił 7 mln euro",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:02",
+      "time": "10:53",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1285823/legenda-skokow-zazdrosci-polakom-sa-przykladem",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b04b6c5176576_24044361.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285873/duza-inwestycja-pilkarza-psg-zaplacil-7-mln-euro",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b056c76e3c2e0_71738634.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Polscy skoczkowie nie zachwycili w Lillehammer, ale ich kibice już tak.",
-        "Anders Jacobsen przyznał, że Norwegowie mogą tylko pozazdrościć atmosfery tworzonej przez Biało-Czerwonych i powinni brać z Polski przykład.",
-        "Skomentuj Polscy skoczkowie nie zachwycili w Lillehammer, ale ich kibice już tak."
+        "Ferran Torres pochodzi z miejscowości położonej nieopodal Walencji.",
+        "Piłkarz grał też w klubie z tego miasta.",
+        "Teraz zawodnik Paris Saint-Germain kupił budynek biurowy należący do \"Nietoperzy\"."
       ],
       "extended_paragraphs": [
-        "Polscy skoczkowie nie zachwycili w Lillehammer, ale ich kibice już tak. Anders Jacobsen przyznał, że Norwegowie mogą tylko pozazdrościć atmosfery tworzonej przez Biało-Czerwonych i powinni brać z Polski przykład.",
-        "Skomentuj Polscy skoczkowie nie zachwycili w Lillehammer, ale ich kibice już tak. Anders Jacobsen przyznał, że Norwegowie mogą tylko pozazdrościć atmosfery tworzonej przez Biało-Czerwonych i powinni brać z Polski przykład.",
-        "Pierwszy weekend Pucharu Świata pokazał ogromny kontrast. Norwegowie błyszczeli na skoczni, natomiast na trybunach obiektu w Lillehammer zdecydowanie bardziej widoczni i słyszalni byli Polacy. Według danych przekazanych PAP przez komitet organizacyjny na niedzielny konkurs sprzedano około 2,5 tys. biletów, choć rzeczywista frekwencja wyglądała jeszcze skromniej.",
-        "Na problem zwrócił uwagę Anders Jacobsen , zwycięzca Turnieju Czterech Skoczni i były rywal Adama Małysza w walce o Kryształową Kulę.",
-        "- Musimy się wiele nauczyć od Polaków. Podobnie od Niemców i Austriaków. Oni wiedzą, jak przyciągać ludzi na skocznię - powiedział były norweski skoczek w rozmowie z Polską Agencją Prasową."
+        "Ferran Torres pochodzi z miejscowości położonej nieopodal Walencji. Piłkarz grał też w klubie z tego miasta. Teraz zawodnik Paris Saint-Germain kupił budynek biurowy należący do \"Nietoperzy\".",
+        "1 Komentarz Ferran Torres pochodzi z miejscowości położonej nieopodal Walencji. Piłkarz grał też w klubie z tego miasta. Teraz zawodnik Paris Saint-Germain kupił budynek biurowy należący do \"Nietoperzy\".",
+        "Transakcję zawarto w poniedziałek 23 listopada, jak wynika z informacji przekazanych przez serwis valenciaplaza.com i \"Mundo Deportivo\". Kwota zakupu wyniosła siedem milionów euro i obejmuje cały obiekt przy Plaza del Valencia 2 w Walencji. Budynek ma około 5 tys. metrów kwadratowych powierzchni i nadal będzie służył klubowi.",
+        "Valencia CF nie planuje natychmiastowej wyprowadzki z obecnej siedziby. Klub pozostanie w budynku jako najemca do czasu przeprowadzki do Nou Mestalla, zaplanowanej na lato 2027 r. W nowych obiektach znajdą się również biura administracyjne.",
+        "Dopiero po tych przenosinach Ferran Torres będzie mógł rozpocząć przygotowaną modernizację. Jego plan zakłada gruntowny remont nieruchomości i dostosowanie jej do kolejnego etapu użytkowania. Budynek ma nadal pełnić funkcję biurową."
       ]
     },
     {
-      "id": "sport-1-defe97",
-      "entity_tag": "Sport Światowy",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Jasna deklaracja Carlosa Alcaraza. Jest też specjalny plan",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:31",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1285824/jasna-deklaracja-carlosa-alcaraza-jest-tez-specjalny-plan",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b04bd82444928_19336915.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Carlos Alcaraz potwierdził, że ma zagrać w barwach reprezentacji kraju w turnieju finałowym Pucharu Davisa.",
-        "Hiszpan udał się do już Bolonii, gdzie został dla niego przygotowany specjalny plan.",
-        "Skomentuj Carlos Alcaraz potwierdził, że ma zagrać w barwach reprezentacji kraju w turnieju finałowym Pucharu Davisa."
-      ],
-      "extended_paragraphs": [
-        "Carlos Alcaraz potwierdził, że ma zagrać w barwach reprezentacji kraju w turnieju finałowym Pucharu Davisa. Hiszpan udał się do już Bolonii, gdzie został dla niego przygotowany specjalny plan.",
-        "Skomentuj Carlos Alcaraz potwierdził, że ma zagrać w barwach reprezentacji kraju w turnieju finałowym Pucharu Davisa. Hiszpan udał się do już Bolonii, gdzie został dla niego przygotowany specjalny plan.",
-        "Po tym, jak w niedzielę Carlos Alcaraz pokonał 6:2, 7:6(7) Alexandra Zvereva w meczu o tytuł ATP Finals, nie posiadał się z radości, ale zaczął też myśleć o najbliższej przyszłości. Hiszpan jasno zadeklarował, że zamiast na urlop, uda się do Bolonii, by pomóc reprezentacji swojego kraju w turnieju finałowym Pucharu Davisa.",
-        "- Puchar Davisa jest dla mnie równie ważny, jak ATP Finals. Postaram się dać z siebie wszystko, by pomóc zespołowi. Nie mogę doczekać się tego tygodnia. Myślę, że może być bardzo piękny - powiedział, cytowany przez puntodebreak.com.",
-        "Alcaraz ma być oczywiście liderem reprezentacji Hiszpanii, która na triumf w Pucharze Davisa czeka od 2019 roku. Jednocześnie sztab drużyny, na czele z kapitanem Davidem Ferrerem , zdaje sobie sprawę z obciążeń i stanu zdrowia swojego asa, dlatego przygotował dla niego specjalny plan."
-      ]
-    },
-    {
-      "id": "sport-3-b8ca3f",
+      "id": "sport-2-b8d042",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Król remisów stracił gola w 15. sekundzie, ale nie odpuścił",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:10",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285822/krol-remisow-stracil-gola-w-15-sekundzie-ale-nie-odpuscil",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b04b6518977d5_13712463.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Podbeskidzie Bielsko-Biała zremisowało po raz 10.",
-        "meczu po awansie do Betclic I ligi.",
-        "Tym razem 1:1 z Bruk-Betem Termalicą Nieciecza, który prowadził, zanim minęło pół minuty spotkania."
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 100%) o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [
+        "100%"
       ],
-      "extended_paragraphs": [
-        "Podbeskidzie Bielsko-Biała zremisowało po raz 10. w 15. meczu po awansie do Betclic I ligi. Tym razem 1:1 z Bruk-Betem Termalicą Nieciecza, który prowadził, zanim minęło pół minuty spotkania.",
-        "Skomentuj Podbeskidzie Bielsko-Biała zremisowało po raz 10. w 15. meczu po awansie do Betclic I ligi. Tym razem 1:1 z Bruk-Betem Termalicą Nieciecza, który prowadził, zanim minęło pół minuty spotkania.",
-        "Goście z Niecieczy potrzebowali zaledwie 15 sekund, żeby objąć prowadzenie pod Klimczokiem. Po dośrodkowaniu Rafała Kurzawy - Jesus Jimenez popisał się efektownym strzałem głową, posyłając piłkę w okienko bramki Michała Matysa . Szybki gol nie podziałał jednak mobilizująco na Bruk-Bet Termalicę .",
-        "Coraz odważniej atakowało Podbeskidzie Bielsko-Biała , a groźne uderzenia Arkadiusza Kasperkiewicza , Lucjana Klisiewicza , Marcina Urynowicza i Oskara Sewerzyńskiego zmuszały Adriana Chovana do interwencji.",
-        "Przyjezdni odpowiedzieli po rzucie rożnym, kiedy kilka prób strzałów zostało zablokowanych przez obrońców lub zatrzymanych przez Michała Matysa. W 36. minucie Krzysztof Kubica nie wykorzystał dobrej okazji po podaniu Ivana Durdova . Tuż przed przerwą gospodarze dopięli swego. Po dośrodkowaniu Tokiego Hirosawy, Lucjan Klisiewicz uprzedził Lucasa Masoero i z bliska pokonał Adriana Chovana. Zrobiło się 1:1."
-      ]
-    },
-    {
-      "id": "sport-4-21dc20",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Janelt zdobywa oszałamiający gol, gdy Brentford pokonał 10-osobowy Everton",
-      "original_title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "title": "Dlaczego De Bruyne miał problemy w Napoli po powrocie do Man City?",
+      "original_title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
       "is_foreign": true,
       "lang": "EN",
-      "time": "22:31",
+      "time": "06:57",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/20b6/live/837998e0-e745-11f1-88dc-f746e0cde621.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Obejrzyj najważniejsze momenty, w których Brentford odniósł komfortowe zwycięstwo 3:0 z 10-osobowym Evertonem w Premier League, w tym wspaniały gol Witalija Janelta.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Brentford Śledź Brentford.",
-        "Wydarzenie sklasyfikowano w sektorze: Sport Międzynarodowy (wpływ: LOW)."
+        "Przeprowadzka Kevina de Bruyne do Napoli zeszłego lata miała oznaczać kontynuację jego błyskotliwej dekady w Manchesterze City, gdy zbliżał się on do schyłku swojej kariery.",
+        "Reporter Manchesteru City Opublikowano 4 godziny temu Przeprowadzka Kevina de Bruyne do Napoli w 2025 roku miała oznaczać kontynuację jego błyskotliwej dekady w Manchesterze City, gdy zbliża się on do schyłku swojej kariery.",
+        "Zamiast tego pomocnik, powszechnie uważany za jednego z wyróżniających się zawodników swojego pokolenia, widział, jak jego czas w Neapolu grozi pogorszeniem się z powodu kontuzji, konfliktów z kolegami z drużyny i plotek o styczniowym odejściu."
       ],
       "extended_paragraphs": [
-        "Obejrzyj najważniejsze momenty, w których Brentford odniósł komfortowe zwycięstwo 3:0 z 10-osobowym Evertonem w Premier League, w tym wspaniały gol Witalija Janelta.",
-        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Brentford Śledź Brentford"
+        "Przeprowadzka Kevina de Bruyne do Napoli zeszłego lata miała oznaczać kontynuację jego błyskotliwej dekady w Manchesterze City, gdy zbliżał się on do schyłku swojej kariery.",
+        "Reporter Manchesteru City Opublikowano 4 godziny temu Przeprowadzka Kevina de Bruyne do Napoli w 2025 roku miała oznaczać kontynuację jego błyskotliwej dekady w Manchesterze City, gdy zbliża się on do schyłku swojej kariery.",
+        "Zamiast tego pomocnik, powszechnie uważany za jednego z wyróżniających się zawodników swojego pokolenia, widział, jak jego czas w Neapolu grozi pogorszeniem się z powodu kontuzji, konfliktów z kolegami z drużyny i plotek o styczniowym odejściu.",
+        "Napoli było mistrzem Serie A w sezonie 2024–2025 – rok przed przybyciem De Bruyne’a – ale obecnie zajmuje ósme miejsce, podczas gdy w Lidze Mistrzów zajmuje 27. miejsce po ciężkiej porażce z Porto 4:1 na początku miesiąca.",
+        "Reprezentant Belgii De Bruyne zdobył 16 trofeów w ciągu 10 lat pracy w City i gwarantuje mu hojne owacje, gdy we wtorek powróci na stadion Etihad, ale najlepsze momenty, jakie przeżył w Anglii, kontrastują z zmaganiami, które pozornie toczy we Włoszech."
       ]
     },
     {
-      "id": "sport-5-3ee698",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
+      "id": "sport-4-3659a8",
+      "entity_tag": "Formuła 1",
+      "sector": "Motorsport",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Zwycięstwo w debiucie. Jacek Zieliński komentuje",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:05",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285417/zwyciestwo-w-debiucie-jacek-zielinski-komentuje",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/5cb0d343342981_20896665.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
+      "title": "Czy partnerstwo Hamiltona i Leclerca w Ferrari jest trwałe? Pytania i odpowiedzi dotyczące F1",
+      "original_title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "08:10",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c34c/live/e0b9a770-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Jacek Zieliński w debiucie na ławce Wieczystej odniósł zwycięstwo.",
-        "Krakowianie pokonali 2:1 Motor Lublin.",
-        "Trenerzy obu drużyn ocenili spotkanie."
+        "Korespondent BBC F1, Andrew Benson, odpowiada na Twoje najnowsze pytania po Grand Prix Las Vegas.",
+        "Max Verstappen zatriumfował w ekscytującym Grand Prix Las Vegas, wyprzedzając McLareny Lando Norrisa i Oscara Piastriego.",
+        "Na 50 okrążeń wyścigu doszło do 34 zmian prowadzenia, gdy Holender Verstappen odpierał ataki Kimiego Antonelliego i George’a Russella z Mercedesa, a także jego kolegi z zespołu Red Bulla Isacka Hadjara."
       ],
       "extended_paragraphs": [
-        "Jacek Zieliński w debiucie na ławce Wieczystej odniósł zwycięstwo. Krakowianie pokonali 2:1 Motor Lublin. Trenerzy obu drużyn ocenili spotkanie.",
-        "Skomentuj Jacek Zieliński w debiucie na ławce Wieczystej odniósł zwycięstwo. Krakowianie pokonali 2:1 Motor Lublin. Trenerzy obu drużyn ocenili spotkanie.",
-        "Nie brakowało emocji w meczu kończącym 15. kolejkę PKO Ekstraklasy. W poniedziałek na trenerskiej ławce Wieczystej Kraków debiutował doświadczony Jacek Zieliński . W starciu z rozpędzonym Motorem Lublin emocji nie brakowało.",
-        "To goście otworzyli wynik, gospodarze dość szybko wyrównali. W 2. połowie Wieczysta zadała cios na wagę cennych trzech punktów. - To był intensywny mecz, dużo się działo, ale wyszliśmy obronną ręką - powiedział opiekun gospodarzy cytowany przez portal lovekrakow.pl.",
-        "- Walory estetyczne, piękno gry zeszło na dalszy plan. Liczyły się trzy punkty i kontakt z tym uciekającym peletonem. Zrobiliśmy to - dodał trener zadowolony z przełamania swoich podopiecznych."
+        "Korespondent BBC F1, Andrew Benson, odpowiada na Twoje najnowsze pytania po Grand Prix Las Vegas.",
+        "Max Verstappen zatriumfował w ekscytującym Grand Prix Las Vegas, wyprzedzając McLareny Lando Norrisa i Oscara Piastriego.",
+        "Na 50 okrążeń wyścigu doszło do 34 zmian prowadzenia, gdy Holender Verstappen odpierał ataki Kimiego Antonelliego i George’a Russella z Mercedesa, a także jego kolegi z zespołu Red Bulla Isacka Hadjara.",
+        "Ferrari musiało zmierzyć się z kolejną bitwą wewnątrz zespołu na torze, ponieważ Charles Leclerc otrzymał 10 sekund kary za kolizję z Lewisem Hamiltonem.",
+        "Opublikowano 2 dni temu Czy po Las Vegas Ferrari znalazło się na rozdrożu? Czy w obliczu wybryków Lewisa Hamiltona i Charlesa Leclerca na torze ich partnerstwo będzie trwałe? Czy Ferrari powinno rozważyć zmianę kierunku, potencjalnie włączając do równania Olivera Bearmana? - Michael"
       ]
     },
     {
-      "id": "sport-8-e80e15",
+      "id": "sport-6-954d10",
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
       "market_impact": "LOW",
@@ -2154,65 +2087,93 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Kto został drużyną tygodnia Troy w Premier League?",
-      "original_title": "Who has made Troy's Premier League team of the week?",
+      "title": "115 dni, 39 lotów prywatnym odrzutowcem, jedne wybory – podróż dookoła świata Infantino",
+      "original_title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
       "is_foreign": true,
       "lang": "EN",
-      "time": "23:26",
+      "time": "06:16",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b2b3/live/d71ba9d0-e78f-11f1-8e8a-577b415bb9af.png",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Po każdej rundzie meczów Premier League w tym sezonie Troy Deeney przedstawia nam swoją drużynę tygodnia.",
-        "Zgadzacie się z jego wyborami?",
-        "Opublikowano godzinę temu Po każdej rundzie meczów Premier League w tym sezonie ekspert piłkarski BBC Troy Deeney przedstawi Ci swoją drużynę i menadżera tygodnia."
+        "Pod lupą znajduje się podróżowanie po świecie prywatnym odrzutowcem prezydenta FIFA Gianniego Infantino od czasu jego planu sprzedaży udziałów w Pucharze Świata.",
+        "Wychodzi na jaw, że prezydent FIFA Gianni Infantino podróżuje po świecie prywatnym odrzutowcem od czasu jego planu sprzedaży udziałów w Pucharze Świata.",
+        "BBC Sport ustaliło, że od czasu pojawienia się tej wiadomości 28 lipca Infantino odbył 39 prywatnych lotów, co odpowiada jednemu co trzy dni, i odwiedził 32 różne kraje."
       ],
       "extended_paragraphs": [
-        "Po każdej rundzie meczów Premier League w tym sezonie Troy Deeney przedstawia nam swoją drużynę tygodnia. Zgadzacie się z jego wyborami?",
-        "Opublikowano godzinę temu Po każdej rundzie meczów Premier League w tym sezonie ekspert piłkarski BBC Troy Deeney przedstawi Ci swoją drużynę i menadżera tygodnia.",
-        "Oto wybory z tego tygodnia. Czy zgadzasz się? Podziel się z nami swoimi przemyśleniami, korzystając z formularza komentarzy na dole tej strony.",
-        "Konstantinos Tzolakis (Hull City): Jeśli oglądałeś mecz Brighton i zastanawiałeś się, jak do cholery Hull wygrał, to dlatego, że Konstantinos Tzolakis był na bramce. Niesamowity występ z pięcioma lub sześcioma najwyższej klasy interwencjami. Wielkie momenty, wielka osobowość, za każdym razem robił postępy. Był jednym z zawodników sezonu – wiem, że jest trochę za wcześnie na koronowanie ludzi, ale jeśli teraz to się skończy, to musi zostać bramkarzem sezonu.",
-        "Podpis pod rysunkiem: Janelt strzela oszałamiająco, a Lewis-Potter dwukrotnie trafia do siatki, gdy Brentford pokonał 10-osobowy Everton"
+        "Pod lupą znajduje się podróżowanie po świecie prywatnym odrzutowcem prezydenta FIFA Gianniego Infantino od czasu jego planu sprzedaży udziałów w Pucharze Świata.",
+        "Wychodzi na jaw, że prezydent FIFA Gianni Infantino podróżuje po świecie prywatnym odrzutowcem od czasu jego planu sprzedaży udziałów w Pucharze Świata.",
+        "BBC Sport ustaliło, że od czasu pojawienia się tej wiadomości 28 lipca Infantino odbył 39 prywatnych lotów, co odpowiada jednemu co trzy dni, i odwiedził 32 różne kraje.",
+        "Nasze badania wykazały, że w ciągu 115 dni przeleciał ponad 102 800 mil w powietrzu i spędził w powietrzu niecałe dziewięć dni.",
+        "Krytycy zarzucają Infantino, że wykorzystał narzędzia, którymi dysponuje jako prezydent, do wsparcia swojej kampanii na rzecz reelekcji w marcu przyszłego roku."
+      ]
+    },
+    {
+      "id": "sport-7-a1613c",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Kliczko zaczął mówić o Putinie. \"To jest jego celem\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "10:49",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/inne/1285871/kliczko-zaczal-mowic-o-putinie-to-jest-jego-celem",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6ae9bafda86b33_23290122.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Mer Kijowa Witalij Kliczko uważa, że Władimir Putin chce zmusić Ukraińców do opuszczenia kraju.",
+        "Władze stolicy przygotowują się także na najtrudniejsze scenariusze.",
+        "1 Komentarz Mer Kijowa Witalij Kliczko uważa, że Władimir Putin chce zmusić Ukraińców do opuszczenia kraju."
+      ],
+      "extended_paragraphs": [
+        "Mer Kijowa Witalij Kliczko uważa, że Władimir Putin chce zmusić Ukraińców do opuszczenia kraju. Władze stolicy przygotowują się także na najtrudniejsze scenariusze.",
+        "1 Komentarz Mer Kijowa Witalij Kliczko uważa, że Władimir Putin chce zmusić Ukraińców do opuszczenia kraju. Władze stolicy przygotowują się także na najtrudniejsze scenariusze.",
+        "Witalij Kliczko , były mistrz świata w wadze ciężkiej i mer Kijowa, wypowiedział się na temat celów Władimira Putina oraz sytuacji w stolicy Ukrainy. Władze analizują możliwy rozwój wydarzeń.",
+        "- Celem Putina jest to, żebyśmy wszyscy wyjechali z Ukrainy i zwolnili mu terytoria. To jest jego celem - powiedział Kliczko.",
+        "ZOBACZ WIDEO: To, co zrobiła Sabalenka, jest obrzydliwe. Andriejewa i Switolina pokazały jej fundamentalne zasady kultury"
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-65fd9c",
-      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
-      "sector": "Półprzewodniki & AI",
+      "id": "rynki-1-2bb544",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 31%, 6,51%, 5,3%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "31%",
-        "6,51%",
-        "5,3%"
-      ],
-      "title": "Wielki powrót Jensena. Nvidia urosła o 31%, napędzając odbicie na Wall Street",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Prezes Euronext Amsterdam: Jeśli giełda koncentruje się na krótkoterminowych zyskach, zaczyna konsumować własną przyszłość",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:05",
+      "time": "06:30",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Wielki-powrot-Jensena-Nvidia-urosla-o-31-napedzajac-odbicie-na-Wall-Street-9233824.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/7/a/e53509dc8b7e82-948-568-0-242-4618-2770.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Prezes-Euronext-Amsterdam-Jesli-gielda-koncentruje-sie-na-krotkoterminowych-zyskach-zaczyna-konsumowac-wlasna-przyszlosc-9233760.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/e/9/29f31a0e4953f7-948-568-900-1180-2250-1350.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Powrót Jensena Huanga na stanowisko prezydenta i CEO Nvidii dźwignęła kurs technologicznego giganta o niewiarygodne 31%, co na mocno wyprzedanym rynku doprowadziło do potężnych zwyżek.",
-        "fot. Kylie Cooper / Reuters / / / FORUM Nasdaq Composite zyskał 6,51% po tym, jak w piątek zanurkował o 5,3% i znalazł się najniżej od kwietnia.",
-        "Po poniedziałkowej sesji Nasdaq nawiązką odrobił piątkowe straty, ale wciąż znajduje się 13% poniżej październikowego szczytu hossy."
+        "Europa nie cierpi na brak kapitału, lecz na problemy z jego efektywnym wykorzystaniem.",
+        "Potrzebujemy większej integracji giełd, silniejszej płynności i lepszego dostępu firm do finansowania – przekonuje René van Vlerken, prezes Euronext Amsterdam, w rozmowie z Bankier.pl.",
+        "We wtorek, 24 listopada, w Warszawie odbywa się Euronext IPO Day, wydarzenie poświęcone finansowaniu przedsiębiorstw przez europejski rynek kapitałowy."
       ],
       "extended_paragraphs": [
-        "Powrót Jensena Huanga na stanowisko prezydenta i CEO Nvidii dźwignęła kurs technologicznego giganta o niewiarygodne 31%, co na mocno wyprzedanym rynku doprowadziło do potężnych zwyżek.",
-        "fot. Kylie Cooper / Reuters / / / FORUM Nasdaq Composite zyskał 6,51% po tym, jak w piątek zanurkował o 5,3% i znalazł się najniżej od kwietnia. Po poniedziałkowej sesji Nasdaq nawiązką odrobił piątkowe straty, ale wciąż znajduje się 13% poniżej październikowego szczytu hossy.",
-        "Tak wielki entuzjazm inwestorów wywołany został informacją z Nvidii, której rada dyrektorów uległa presji akcjonariuszy, pracowników i samego prezydenta Donalda Trumpa przywracając na wcześniejsze stanowiska prezesa i założyciela spółki Jensena Huanga . To zdjęło ze stołu część obaw o przyszłość Nvidii i wyniosło kurs akcje producenta chipów o 31,48% w górę. Jest to coś, co w przypadku tak wielkiej spółki praktycznie się nie zdarza. Warto jednak pamiętać, że przez poprzedni miesiąc kurs Nvidii spadł o 44%. Ma zatem co odrabiać.",
-        "- Było zdecydowanie wielu ludzi, którzy chcieli jego powrotu. Nie jest możliwym ocenić, czy w jakim stopniu zdecydowała presja akcjonariuszy, w jakim pracowników, a w jakim rządu – skwitował Steve Sosnick, główny strateg Interactive Brokers cytowany przez agencję Reuters. Wolta rady dyrektorów Nvidii jest o tyle niespodziewana, że jeszcze w ubiegłym tygodniu kategorycznie wykluczała powrót Jensena Huanga. Jak widać wiarygodność nie jest jej mocną stroną.",
-        "Optymizm udzielił się całemu sektorowi technologicznemu na Wall Street. Notowania Tesli wzrosły o 11,5%. Kurs akcji Micron Technology poszedł w górę o 19%, Intela o 16%, a walory Mety i Alphabetu zyskiwały po przeszło 6%."
+        "Europa nie cierpi na brak kapitału, lecz na problemy z jego efektywnym wykorzystaniem. Potrzebujemy większej integracji giełd, silniejszej płynności i lepszego dostępu firm do finansowania – przekonuje René van Vlerken, prezes Euronext Amsterdam, w rozmowie z Bankier.pl. We wtorek, 24 listopada, w Warszawie odbywa się Euronext IPO Day, wydarzenie poświęcone finansowaniu przedsiębiorstw przez europejski rynek kapitałowy.",
+        "fot. Piroschka Van De Wouw / / Reuters / Forum Andrzej Stec: Jakie są najważniejsze strategiczne priorytety Euronextu na najbliższe lata?",
+        "René van Vlerken, CEO Euronext Amsterdam: Europa wkracza w decydującą dekadę. Musimy sfinansować reindustrializację, transformację energetyczną, inwestycje w obronność oraz rozwój kolejnego pokolenia europejskich liderów technologicznych. Problem nie polega na tym, że Europie brakuje kapitału. Dysponujemy jednymi z największych na świecie zasobów oszczędności. Wyzwaniem jest skuteczniejsze kierowanie tych pieniędzy na inwestycje w Europie.",
+        "Dlatego strategicznym priorytetem Euronextu jest wspieranie budowy prawdziwej unii oszczędności i inwestycji oraz rzeczywiście zintegrowanego europejskiego rynku kapitałowego. Europa potrzebuje większych i bardziej płynnych rynków, mniejszych barier dla inwestycji transgranicznych oraz sprawniejszej infrastruktury.",
+        "W Euronext pokazaliśmy już, jakie korzyści może przynieść integracja. Obecnie grupa łączy osiem rynków w ramach modelu federacyjnego, który pozwala zachować silne lokalne ekosystemy, a jednocześnie zapewnia wspólną europejską pulę płynności, jednolitą technologię i zintegrowaną infrastrukturę rozliczeniową."
       ]
     },
     {
@@ -2251,39 +2212,75 @@
       ]
     },
     {
-      "id": "rynki-5-1140ef",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-3-d489b7",
+      "entity_tag": "GUS / Makro Polska",
+      "sector": "Makroekonomia",
       "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 0,1%, 2,7%, 1,7%) — wymaga obserwacji marż i wsparć cenowych.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GUS / Makro Polska (Makroekonomia) (kluczowe liczby: 3,5%, 3,3%, 3,8%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "0,1%",
-        "2,7%",
-        "1,7%"
+        "3,5%",
+        "3,3%",
+        "3,8%"
       ],
-      "title": "Kiepściutkie wyniki z polskiego przemysłu. Szczyt cyklu chyba mamy za sobą",
+      "title": "Sprzedaż detaliczna nie zachwyciła. Polski konsument jakoś się nie uśmiecha",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
       "time": "09:30",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Produkcja-przemyslowa-w-Polsce-w-pazdzierniku-2026-rozczarowala-Szczyt-cyklu-chyba-mamy-za-soba-9233303.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/8/6/b43ac696dd8806-948-568-350-0-3650-2189.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Sprzedaz-detaliczna-nie-zachwycila-Polski-konsument-jakos-sie-nie-usmiecha-9233973.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/0/3/e30a84b4d7c347-948-568-0-114-1885-1131.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Zamiast spowolnienia mieliśmy ostre hamowanie produkcji przemysłowej.",
-        "Takie dane mogą sugerować koniec i tak bardzo rachitycznego cyklu koniunkturalnego w polskim sektorze wytwórczym.",
-        "fot. ultramansk / / Shutterstock W październiku 2026 roku produkcja przemysłowa w Polsce była o ledwie o 0,1% wyższa niż przed rokiem – poinformował Główny Urząd Statystyczny."
+        "Po dwóch miesiącach rozczarowań ekonomiści wreszcie obniżyli swoje oczekiwania na tyle, aby wyniki sprzedaży detalicznej przestały negatywnie zaskakiwać.",
+        "fot. Andrzej Sidor / / Forum Sprzedaż detaliczna liczona w cenach stałych (czyli już po uwzględnieniu zmian cen) w październiku 2026 roku była o 3,5% wyższa niż przed rokiem – poinformował Główny Urząd Statystyczny.",
+        "To rezultat ciut wyższy od rynkowego konsensusu leżącego na poziomie 3,3%."
       ],
       "extended_paragraphs": [
-        "Zamiast spowolnienia mieliśmy ostre hamowanie produkcji przemysłowej. Takie dane mogą sugerować koniec i tak bardzo rachitycznego cyklu koniunkturalnego w polskim sektorze wytwórczym.",
-        "fot. ultramansk / / Shutterstock W październiku 2026 roku produkcja przemysłowa w Polsce była o ledwie o 0,1% wyższa niż przed rokiem – poinformował Główny Urząd Statystyczny. Był to rezultat wyraźnie niższy od i tak skromnych oczekiwań ekonomistów, którzy spodziewali się wzrostu produkcji o 2,7% rdr. Natomiast względem września wartość produkcji wzrosła o 1,7%.",
-        "Od ponad roku wyniki polskiej produkcji przemysłowej cechują się wyższą niż dawniej zmiennością. Po jednym znakomitym miesiącu potrafi przyjść rozczarowanie i marny wynik w miesiącu następnym. Tak było np. w marcu, gdy nieoczekiwanie wartość produkcji przemysłowej wystrzeliła w górę o 9,4% rdr (choć później ten rezultat zrewidowano w dół do 7,4%) notując najlepszy wynik od 2022 roku. Ale wcześniej były bardzo słabe odczyty za luty i styczeń następujące po rewelacyjnym odczycie za grudzień 2025 r. Podobny skok (do 7,4% rdr) odnotowano w czerwcu, który z kolei nastąpił po kiepskim maju i jeszcze słabszym kwietniu . A później mieliśmy spowolnienie w lipcu .",
-        "Bankier.pl Także sierpniowe rezultaty polskiego przemysłu rozczarowały ekonomistów, a względem lipca odnotowano dość silny spadek produkcji. Później jednak mieliśmy pozytywne zaskoczenie w danych za wrzesień , choć same wyniki nie były przesadnie mocne. Aby nieco wyciszyć ten szum informacyjny, uśredniłem wyniki polskiego przemysłu przy pomocy trzymiesięcznej średniej kroczącej rocznej dynamiki produkcji przemysłowej .",
-        "Po październiku wyniosła ona 3,07% względem 5,50% odnotowanych we wrześniu , gdy przybrała najwyższą wartość od listopada 2022 roku. Teraz mamy najniższą wartość od marca, co może sygnalizować, że cykliczny szczyt koniunktury w polskim przemyśle jest już za nami. Jeśli tak jest, bo mieliśmy do czynienia z bardzo słabym cyklem, podobnym do tego z lat 2013-14."
+        "Po dwóch miesiącach rozczarowań ekonomiści wreszcie obniżyli swoje oczekiwania na tyle, aby wyniki sprzedaży detalicznej przestały negatywnie zaskakiwać.",
+        "fot. Andrzej Sidor / / Forum Sprzedaż detaliczna liczona w cenach stałych (czyli już po uwzględnieniu zmian cen) w październiku 2026 roku była o 3,5% wyższa niż przed rokiem – poinformował Główny Urząd Statystyczny. To rezultat ciut wyższy od rynkowego konsensusu leżącego na poziomie 3,3%.",
+        "GUS Jest to zarazem rezultat nieznacznie wyższy od tego, co polscy statystycy odnotowali we wrześniu. Wrześniowy wzrost wolumenu sprzedaży detalicznej wyniósł 3,3%, co okazało się rezultatem niższy od większości prognoz ekonomistów. Także wzrost sierpniowy (3,8% rdr) okazał się rozczarowaniem . Generalnie w danych widać, że po czerwcu ’26 dynamika sprzedaży detalicznej pozostaje mocno przytłumiona.",
+        "W okresie od stycznia do października sprzedaż detaliczna liczona w cenach stałych była tylko o 2,7% wyższa niż w takim samym okresie roku poprzedniego. Rok temu w analogicznym okresie wzrost sprzedaży wyniósł 4,3%, ale został osiągnięty w bardziej sprzyjających warunkach makroekonomicznych.",
+        "Po wyeliminowaniu wpływu czynników o charakterze sezonowym październikowa sprzedaż detaliczna w cenach stałych ukształtowała się na poziomie o 3,9% wyższym niż rok wcześniej. W porównaniu z wrześniem bieżącego roku obroty sklepów po wyrównaniu sezonowym wzrosły o 1,9% – dodaje GUS."
+      ]
+    },
+    {
+      "id": "rynki-5-0bbc69",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 3 miliony, 100 tys. zł, 51,4%) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3 miliony",
+        "100 tys. zł",
+        "51,4%"
+      ],
+      "title": "Rekordy na giełdzie, a Polacy wciąż wściekli na ten sam podatek. Prompt zamiast maklera, czyli wyniki OBI 2026",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Oto-portfel-polskiego-inwestora-w-2026-r-100-tys-zl-w-portfelu-to-juz-standard-9233661.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/e/7/6c1e604cb9ae13-948-568-7-0-992-595.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Ogólnopolskie Badanie Inwestorów (OBI), przygotowywane co roku przez Stowarzyszenie Inwestorów Indywidualnych (SII), to najważniejsza fotografia rodzimego rynku detalicznego .",
+        "już edycji ankiety (przeprowadzonej na przełomie października i listopada) wzięło udział 3388 aktywnych inwestorów.",
+        "fot. Hryshchyshen Serhii / / Shutterstock Badanie przypadło na moment wyjątkowy w historii polskich finansów."
+      ],
+      "extended_paragraphs": [
+        "Ogólnopolskie Badanie Inwestorów (OBI), przygotowywane co roku przez Stowarzyszenie Inwestorów Indywidualnych (SII), to najważniejsza fotografia rodzimego rynku detalicznego . W tegorocznej, 24. już edycji ankiety (przeprowadzonej na przełomie października i listopada) wzięło udział 3388 aktywnych inwestorów.",
+        "fot. Hryshchyshen Serhii / / Shutterstock Badanie przypadło na moment wyjątkowy w historii polskich finansów. W sierpniu 2026 roku indeks WIG20 po niemal dwóch dekadach wreszcie rozprawił się ze swoim legendarnym szczytem z października 2007 roku – poprawiając go potem jeszcze kilkukrotnie (ostatni raz 16 listopada), a szeroki WIG po raz pierwszy w dziejach przebił barierę 160 000 punktów.",
+        "Wszystko to działo się przy akompaniamencie globalnego rajdu rynków wschodzących (do których zaliczana jest GPW), historycznych rekordów wyceny Orlenu, napędzanych drogą ropą i wojną na Bliskim Wschodzie oraz eksplozji popularności inwestowania w Polsce, gdzie liczba rachunków maklerskich przekroczyła rekordowe 3 miliony.",
+        "Trwająca hossa oraz systematyczne, comiesięczne dopłaty do portfela – deklarowane już przez ponad połowę badanych (51,4%) – przyniosły bezprecedensowy skok zamożności polskich inwestorów. Jeszcze kilka lat temu posiadanie aktywów rzędu 100 tys. zł windowało do giełdowej elity. Dziś portfele o wartości przekraczającej 100 tysięcy złotych posiada aż 65,8% uczestników badania",
+        "Prawdziwy wystrzał widać jednak na samym szczycie majątkowej piramidy: odsetek giełdowych milionerów wzrósł do rekordowych 14,4% (wobec 9,8% przed rokiem i zaledwie 6,1% w 2023 r.). To już nie tylko zasługa inflacyjnego puchnięcia nominalnych wycen, ale owoc wieloletniej akumulacji aktywów i korzystania z hossy na rynkach wschodzących."
       ]
     },
     {
@@ -2322,42 +2319,6 @@
       ]
     },
     {
-      "id": "rynki-7-6e1d7d",
-      "entity_tag": "Azja & Pacyfik",
-      "sector": "Gospodarka Światowa",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Azja & Pacyfik (Gospodarka Światowa) (kluczowe liczby: 500 mld, 627 mld USD, 20%) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [
-        "500 mld",
-        "627 mld USD",
-        "20%"
-      ],
-      "title": "Bilionowe straty na giełdach w Azji. Chiny, Korea i Tajwan ruszyły z interwencjami",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "08:55",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Bilionowe-straty-na-gieldach-w-Azji-Chiny-Korea-i-Tajwan-ruszyly-z-interwencjami-9233245.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/2/2/9d37d3a9306439-945-560-0-101-1500-899.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Główne indeksy giełdowe w Chinach, Korei Południowej i na Tajwanie weszły w techniczną bessę, tracąc ponad 20% od swoich ostatnich szczytów.",
-        "W odpowiedzi regulatorzy z tych trzech rynków ogłosili serię interwencji, by powstrzymać dalsze spadki - od rekordowego skupu akcji po ograniczenia krótkiej sprzedaży.",
-        "fot. Zhengyi Xie / / FORUM Odwrót inwestorów od spółek powiązanych ze sztuczną inteligencją uderzył w azjatyckie giełdy, odznaczające się wysoką koncentracją spółek produkujących układy scalone do centrów danych AI."
-      ],
-      "extended_paragraphs": [
-        "Główne indeksy giełdowe w Chinach, Korei Południowej i na Tajwanie weszły w techniczną bessę, tracąc ponad 20% od swoich ostatnich szczytów. W odpowiedzi regulatorzy z tych trzech rynków ogłosili serię interwencji, by powstrzymać dalsze spadki - od rekordowego skupu akcji po ograniczenia krótkiej sprzedaży.",
-        "fot. Zhengyi Xie / / FORUM Odwrót inwestorów od spółek powiązanych ze sztuczną inteligencją uderzył w azjatyckie giełdy, odznaczające się wysoką koncentracją spółek produkujących układy scalone do centrów danych AI. W trwającej serii spadkowej z rynków akcji w Korei Południowej, Chinach i na Tajwanie wyparowały biliony dolarów kapitalizacji.",
-        "Od swojego czerwcowego szczytu południowokoreański indeks KOSPI stracił ponad 46%, a łączna kapitalizacja należących do niego spółek zmniejszyła się o ponad 1,8 bln dol. Tajwański Taiex skurczył się o ponad 500 mld dol. w samym minionym tygodniu, a chiński CSI 300 oraz hongkoński Hang Seng straciły od końca września łącznie 627 mld USD.",
-        "W poniedziałek rano nastroje na azjatyckich giełdach pozostawały kiepskie - KOSPI spadał początkowo o 5%, by w dalszej części sesji ograniczyć zniżkę do około 2,6%, podczas gdy indeks na Tajwanie odrobił wczesne straty i zyskiwał ponad 2,3%. Giełda w Japonii była zamknięta przez obchody Dnia Dziękczynienia za Pracę. CSI 300 i Hang Seng zakończyły handel w pobliżu punktu odniesienia.",
-        "Tajwańska Komisja Nadzoru Finansowego (FSC) wprowadziła w piątek całkowity zakaz krótkiej sprzedaży akcji i kwitów depozytowych po cenie niższej niż kurs zamknięcia z poprzedniej sesji, co częściowo tłumaczy poniedziałkowe odbicie TAIEX-u."
-      ]
-    },
-    {
       "id": "rynki-4-c6415c",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
@@ -2392,7 +2353,7 @@
       ]
     },
     {
-      "id": "rynki-3-37617b",
+      "id": "rynki-7-37617b",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "LOW",

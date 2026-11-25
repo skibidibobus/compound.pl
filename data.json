@@ -2,11 +2,11 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.328",
-    "last_updated": "2026-11-24 21:25",
+    "edition": "#2026.329",
+    "last_updated": "2026-11-25 04:23",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 18,
-    "foreign_translated_count": 18,
+    "foreign_translated_count": 20,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$59,861",
-      "change": "-2.26%",
+      "price": "$59,291",
+      "change": "-1.85%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,679",
-      "change": "-2.29%",
+      "price": "$1,664",
+      "change": "-1.98%",
       "is_positive": false
     },
     {
@@ -942,41 +942,6 @@
       ]
     },
     {
-      "id": "rynki-2-dfb2d7",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 3,4 miliarda dolarów, 3 miliardy dolarów) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,4 miliarda dolarów",
-        "3 miliardy dolarów"
-      ],
-      "title": "Dzienny wolumen handlu „perps” Kalshi zaczyna przewyższać rynki prognoz",
-      "original_title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:34",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108310000-1779301088587-gettyimages-2273141461-AFP_A9DR764.jpeg?v=1779301207&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
-        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
-        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana."
-      ],
-      "extended_paragraphs": [
-        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
-        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
-        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana. Tego samego dnia przekroczyło to teoretyczny wolumen wynoszący około 3 miliardy dolarów dla rynków prognostycznych Kalshi.",
-        "Perps to kontrakty typu futures, które nie mają terminu wygaśnięcia, a inwestorzy nie muszą posiadać instrumentu bazowego. Zamiast tego kontrakty stale śledzą cenę składnika aktywów, a płatności finansowe zapewniają zgodność ceny kontraktu z ceną rynkową. Wypłaty środków dokonywane są okresowo pomiędzy posiadaczami krótkich i długich pozycji.",
-        "Pewnego dnia we wrześniu handel perpsami przekroczył kontrakty związane z wydarzeniami, ale w piątek drugi dzień przekroczył wolumen rynków prognoz. Teraz Kalshi spodziewa się, że te wyniki się utrzymają, po wprowadzeniu klientów powiązanych z większą liczbą indywidualnych akcji. Na przykład w poniedziałek Kalshi uruchomił kontrakty powiązane z Anthropic."
-      ]
-    },
-    {
       "id": "rynki-3-d644a3",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
@@ -1013,35 +978,38 @@
       ]
     },
     {
-      "id": "rynki-4-ec7e9c",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-4-dfb2d7",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Utah wycofuje zarzuty karne przeciwko założycielom Kalshi po tym, jak firma zawiesiła działalność w tym stanie",
-      "original_title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 3,4 miliarda dolarów, 3 miliardy dolarów) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3,4 miliarda dolarów",
+        "3 miliardy dolarów"
+      ],
+      "title": "Dzienny wolumen handlu „perps” Kalshi zaczyna przewyższać rynki prognoz",
+      "original_title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:45",
+      "time": "23:03",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108344436-17858457182026-08-04t102722z_1664165591_rc2mrmat3b8n_rtrmadp_0_usa-prediction-markets.jpeg?v=1787061386&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310000-1779301088587-gettyimages-2273141461-AFP_A9DR764.jpeg?v=1779301207&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Współzałożyciele platformy rynku prognostycznego mieli stanąć przed stanowym sądem rejonowym w grudniu.",
-        "We wtorek stan Utah oddalił zarzuty karne postawione Kalshi i jego dwóm współzałożycielom w związku z poniedziałkową decyzją platformy rynku prognostycznego o zawieszeniu działalności w tym stanie.",
-        "Pierwotnie 28 października stan przedstawił 14 zarzutów karnych firmie i założycielom Tarekowi Mansourowi i Luanie Lopes Lara, utrzymując, że Kalshi prowadził nielegalną działalność hazardową w stanie."
+        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
+        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
+        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana."
       ],
       "extended_paragraphs": [
-        "Współzałożyciele platformy rynku prognostycznego mieli stanąć przed stanowym sądem rejonowym w grudniu.",
-        "We wtorek stan Utah oddalił zarzuty karne postawione Kalshi i jego dwóm współzałożycielom w związku z poniedziałkową decyzją platformy rynku prognostycznego o zawieszeniu działalności w tym stanie.",
-        "Pierwotnie 28 października stan przedstawił 14 zarzutów karnych firmie i założycielom Tarekowi Mansourowi i Luanie Lopes Lara, utrzymując, że Kalshi prowadził nielegalną działalność hazardową w stanie.",
-        "Komisja ds. handlu kontraktami terminowymi na towary (Commodity Futures Trading Commission) – federalny organ regulacyjny rynków prognostycznych, który uważa się za jedyny organ mogący opracowywać zasady dotyczące rozwijającej się branży – pozwała Utah dzień przed ogłoszeniem przez stan zarzutów.",
-        "Z dokumentów sądowych wynika, że ​​Mansour i Lara mieli stawić się przed sądem rejonowym w stanie Utah 4 grudnia."
+        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
+        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
+        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana. Tego samego dnia przekroczyło to teoretyczny wolumen wynoszący około 3 miliardy dolarów dla rynków prognostycznych Kalshi.",
+        "Perps to kontrakty typu futures, które nie mają terminu wygaśnięcia, a inwestorzy nie muszą posiadać instrumentu bazowego. Zamiast tego kontrakty stale śledzą cenę składnika aktywów, a płatności finansowe zapewniają zgodność ceny kontraktu z ceną rynkową. Wypłaty środków dokonywane są okresowo pomiędzy posiadaczami krótkich i długich pozycji.",
+        "Pewnego dnia we wrześniu handel perpsami przekroczył kontrakty związane z wydarzeniami, ale w piątek drugi dzień przekroczył wolumen rynków prognoz. Teraz Kalshi spodziewa się, że te wyniki się utrzymają, po wprowadzeniu klientów powiązanych z większą liczbą indywidualnych akcji. Na przykład w poniedziałek Kalshi uruchomił kontrakty powiązane z Anthropic."
       ]
     },
     {
@@ -1081,38 +1049,35 @@
       ]
     },
     {
-      "id": "rynki-6-3dcb63",
-      "entity_tag": "NBP / RPP",
-      "sector": "Polityka Pieniężna",
+      "id": "rynki-6-ec7e9c",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Wpływ na kapitał: Korzystne otoczenie dla sektora bankowego i wyceny PLN (kluczowe liczby: 2%, 100%); stabilizuje oczekiwania dotyczące kosztu pieniądza.",
-      "key_metrics": [
-        "2%",
-        "100%"
-      ],
-      "title": "John Williams z Fed wskazuje, że prawdopodobnie „z biegiem czasu” podwyższą stopy procentowe, aby zaradzić inflacji",
-      "original_title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Utah wycofuje zarzuty karne przeciwko założycielom Kalshi po tym, jak firma zawiesiła działalność w tym stanie",
+      "original_title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:33",
+      "time": "20:45",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108229868-1763741665578-108229868-1763730430401-gettyimages-2233025951-WILLIAMS_ECNY.jpeg?v=1772548607&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344436-17858457182026-08-04t102722z_1664165591_rc2mrmat3b8n_rtrmadp_0_usa-prediction-markets.jpeg?v=1787061386&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Wpływowy bankier centralny wyraził pewność, że inflacja zbliży się do celu Fed na poziomie 2% w 2027 r. Prezes Rezerwy Federalnej Nowego Jorku, John Williams, powiedział w poniedziałek, że decydenci mają więcej pracy do wykonania, aby zapanować nad inflacją, choć wskazał, że dalsze działania mogą nastąpić z czasem, w miarę dalszego wzrostu gospodarki.",
-        "W uwagach zgodnych z poprzednimi wypowiedziami wpływowy bankier centralny wyraził pewność, że inflacja zbliży się do celu Fed na poziomie 2% w 2027 r., zanim osiągnie cel w roku następnym.",
-        "Powiedział również, że chociaż sztuczna inteligencja wywiera presję na ceny, „niewiele wskazuje na to”, że będzie ona źródłem bardziej trwałej inflacji."
+        "Współzałożyciele platformy rynku prognostycznego mieli stanąć przed stanowym sądem rejonowym w grudniu.",
+        "We wtorek stan Utah oddalił zarzuty karne postawione Kalshi i jego dwóm współzałożycielom w związku z poniedziałkową decyzją platformy rynku prognostycznego o zawieszeniu działalności w tym stanie.",
+        "Pierwotnie 28 października stan przedstawił 14 zarzutów karnych firmie i założycielom Tarekowi Mansourowi i Luanie Lopes Lara, utrzymując, że Kalshi prowadził nielegalną działalność hazardową w stanie."
       ],
       "extended_paragraphs": [
-        "Wpływowy bankier centralny wyraził pewność, że inflacja zbliży się do celu Fed na poziomie 2% w 2027 r.",
-        "Prezes Rezerwy Federalnej Nowego Jorku, John Williams, powiedział w poniedziałek, że decydenci mają więcej pracy do wykonania, aby zapanować nad inflacją, choć wskazał, że dalsze działania mogą nastąpić z czasem, w miarę dalszego wzrostu gospodarki.",
-        "W uwagach zgodnych z poprzednimi wypowiedziami wpływowy bankier centralny wyraził pewność, że inflacja zbliży się do celu Fed na poziomie 2% w 2027 r., zanim osiągnie cel w roku następnym. Powiedział również, że chociaż sztuczna inteligencja wywiera presję na ceny, „niewiele wskazuje na to”, że będzie ona źródłem bardziej trwałej inflacji.",
-        "„Ale przywrócenie inflacji do 2% jest w 100% niezbędne” – stwierdził w uwagach wygłoszonych na Uniwersytecie Mount Saint Vincent w Nowym Jorku. „Musimy z czasem podjąć działania, które zagwarantują, że inflacja wróci do naszego celu na poziomie 2% w odpowiednim czasie i w sposób trwały. Nadal pozostaje wiele do zrobienia, aby tego dokonać”.",
-        "Komentarze pojawiają się w delikatnym momencie dla polityki pieniężnej, ponieważ gospodarka nadal rośnie, a inflacja utrzymuje się znacznie powyżej celu Fed."
+        "Współzałożyciele platformy rynku prognostycznego mieli stanąć przed stanowym sądem rejonowym w grudniu.",
+        "We wtorek stan Utah oddalił zarzuty karne postawione Kalshi i jego dwóm współzałożycielom w związku z poniedziałkową decyzją platformy rynku prognostycznego o zawieszeniu działalności w tym stanie.",
+        "Pierwotnie 28 października stan przedstawił 14 zarzutów karnych firmie i założycielom Tarekowi Mansourowi i Luanie Lopes Lara, utrzymując, że Kalshi prowadził nielegalną działalność hazardową w stanie.",
+        "Komisja ds. handlu kontraktami terminowymi na towary (Commodity Futures Trading Commission) – federalny organ regulacyjny rynków prognostycznych, który uważa się za jedyny organ mogący opracowywać zasady dotyczące rozwijającej się branży – pozwała Utah dzień przed ogłoszeniem przez stan zarzutów.",
+        "Z dokumentów sądowych wynika, że ​​Mansour i Lara mieli stawić się przed sądem rejonowym w stanie Utah 4 grudnia."
       ]
     },
     {
@@ -1150,6 +1115,38 @@
       ]
     },
     {
+      "id": "rynki-2-3742f7",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Powrót Jensena Huanga do Nvidii pokazuje, że amerykańsko-chiński wyścig AI to coś więcej niż tylko chipy",
+      "original_title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:13",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Powrót Jensena Huanga na stanowisko dyrektora generalnego Nvidii pokazuje, że amerykańsko-chiński wyścig w zakresie sztucznej inteligencji to nie tylko półprzewodniki, ale także talenty technologiczne.",
+        "PEKIN — Powrót Jensena Huanga do Nvidii na stanowisko dyrektora generalnego podkreśla, że ​​amerykańsko-chiński wyścig w zakresie sztucznej inteligencji toczy się nie tylko o półprzewodniki, ale także o talenty technologiczne.",
+        "„Musimy chronić naszych geniuszy, a on jest niewątpliwie geniuszem” – Donald Trump powiedział CNBC o swojej interwencji mającej na celu sprowadzenie Huanga z powrotem."
+      ],
+      "extended_paragraphs": [
+        "Powrót Jensena Huanga na stanowisko dyrektora generalnego Nvidii pokazuje, że amerykańsko-chiński wyścig w zakresie sztucznej inteligencji to nie tylko półprzewodniki, ale także talenty technologiczne.",
+        "PEKIN — Powrót Jensena Huanga do Nvidii na stanowisko dyrektora generalnego podkreśla, że ​​amerykańsko-chiński wyścig w zakresie sztucznej inteligencji toczy się nie tylko o półprzewodniki, ale także o talenty technologiczne.",
+        "„Musimy chronić naszych geniuszy, a on jest niewątpliwie geniuszem” – Donald Trump powiedział CNBC o swojej interwencji mającej na celu sprowadzenie Huanga z powrotem. W przeciwnym razie – ostrzegł Trump – założyciel giganta chipów AI mógłby hipotetycznie podjąć pracę w Chinach.",
+        "Obawy odzwierciedlają sposób, w jaki chińskie firmy zajmujące się sztuczną inteligencją zmniejszają różnicę w stosunku do swoich amerykańskich odpowiedników, nie tylko pod względem modeli, ale obecnie pod względem talentów inżynieryjnych i badawczych. Według badania Carnegie Endowment Chiny prześcignęły Stany Zjednoczone pod względem udziału światowych talentów w zakresie sztucznej inteligencji w ciągu zaledwie trzech lat.",
+        "Nvidia „była wstrząśnięta bez zmiany choćby jednego chipa lub modelu” – powiedział Winston Ma, inwestor w sztuczną inteligencję i adiunkt prawa na Uniwersytecie Nowojorskim. „Ktokolwiek zbuduje i utrzyma tę warstwę ludzką, utrzyma resztę stosu”."
+      ]
+    },
+    {
       "id": "rynki-8-0eb164",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
@@ -1172,13 +1169,13 @@
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
-        "We wtorek raporty o wynikach sprzedaży detalicznej wskazywały na szereg czynników stojących za dobrymi wynikami, w tym odporność konsumentów i lepszą realizację zamówień.",
-        "Sprzedawcy detaliczni, którzy niegdyś borykali się z trudnościami, wkraczają w kwartał świąteczny z lepszymi wynikami i dynamiką sprzedaży, gdy wysiłki zmierzające do poprawy sytuacji zaczynają odbijać się echem wśród kupujących.",
+        "We wtorek raporty o wynikach sprzedaży detalicznej wskazywały na szereg czynników stojących za dobrymi wynikami, w tym odporność konsumentów i lepszą realizację.",
+        "Sprzedawcy detaliczni, którzy niegdyś borykali się z trudnościami, wkraczają w kwartał świąteczny z lepszą wydajnością i dynamiką sprzedaży, gdy wysiłki zmierzające do poprawy sytuacji zaczynają cieszyć się kupującymi.",
         "W kilku wtorkowych raportach o zarobkach wskazano na szereg czynników stojących za dobrymi wynikami, w tym odporny konsument, lepsza realizacja zamówień i popyt na właściwe produkty po właściwej cenie."
       ],
       "extended_paragraphs": [
-        "We wtorek raporty o wynikach sprzedaży detalicznej wskazywały na szereg czynników stojących za dobrymi wynikami, w tym odporność konsumentów i lepszą realizację zamówień.",
-        "Sprzedawcy detaliczni, którzy niegdyś borykali się z trudnościami, wkraczają w kwartał świąteczny z lepszymi wynikami i dynamiką sprzedaży, gdy wysiłki zmierzające do poprawy sytuacji zaczynają odbijać się echem wśród kupujących.",
+        "We wtorek raporty o wynikach sprzedaży detalicznej wskazywały na szereg czynników stojących za dobrymi wynikami, w tym odporność konsumentów i lepszą realizację.",
+        "Sprzedawcy detaliczni, którzy niegdyś borykali się z trudnościami, wkraczają w kwartał świąteczny z lepszą wydajnością i dynamiką sprzedaży, gdy wysiłki zmierzające do poprawy sytuacji zaczynają cieszyć się kupującymi.",
         "W kilku wtorkowych raportach o zarobkach wskazano na szereg czynników stojących za dobrymi wynikami, w tym odporny konsument, lepsza realizacja zamówień i popyt na właściwe produkty po właściwej cenie.",
         "Kohl's odnotował porównywalny wzrost sprzedaży o 1,2% w okresie zakończonym 31 października i podniósł prognozę na cały rok, ponieważ dyrektor generalny Michael Bender stwierdził, że klienci „pozostali odporni”, ale „migrują w stronę wartości poprzez swoje zakupy”.",
         "Doskonalenie powiązał z pracą firmy nad asortymentem produktów, doświadczeniem sklepu i wartością."
@@ -1187,103 +1184,69 @@
   ],
   "makro": [
     {
-      "id": "makro-4-c32260",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
+      "id": "makro-4-db63ce",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
       "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 7%) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "7%"
-      ],
-      "title": "Prokurator generalny USA unika pytań na temat śledztwa Nvidii",
-      "original_title": "US attorney general dodges questions about Nvidia investigation",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Geopolityka” (USA & Bezpieczeństwo) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "USA przygotowują się do przedstawienia planu nowych ceł na światowych partnerów handlowych",
+      "original_title": "US preparing to unveil plan for new tariffs on global trading partners",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:19",
+      "time": "00:38",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "source_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": true,
       "summary_points": [
-        "Cena akcji Nvidii spadła o 7% w związku z żądaniem przez prawodawców odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w przywrócenie Huanga na stanowisko.",
-        "Prokurator generalny USA Todd Blanche poparł Nvidię jako „dobrego obywatela korporacyjnego”, odmawiając komentarza na temat tego, czy producent chipów AI był objęty dochodzeniem federalnym.",
-        "Blanche powiedział, że nie ma informacji na temat statusu poświadczenia bezpieczeństwa nowo przywróconego na stanowisko dyrektora generalnego Jensena Huanga, ponieważ prawodawcy żądają odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w powrót Huanga."
+        "Nowe opłaty uderzą w wielu największych partnerów handlowych Ameryki, w tym w Chiny i UE.",
+        "BBC rozumie, że Stany Zjednoczone przygotowują się do ogłoszenia w środę planów nowych ceł na kilka krajów.",
+        "Nowe podatki importowe uderzą w wielu największych partnerów handlowych Ameryki, w tym w Chiny, Unię Europejską i Japonię wśród co najmniej 14 jurysdykcji."
       ],
       "extended_paragraphs": [
-        "Cena akcji Nvidii spadła o 7% w związku z żądaniem przez prawodawców odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w przywrócenie Huanga na stanowisko.",
-        "Prokurator generalny USA Todd Blanche poparł Nvidię jako „dobrego obywatela korporacyjnego”, odmawiając komentarza na temat tego, czy producent chipów AI był objęty dochodzeniem federalnym.",
-        "Blanche powiedział, że nie ma informacji na temat statusu poświadczenia bezpieczeństwa nowo przywróconego na stanowisko dyrektora generalnego Jensena Huanga, ponieważ prawodawcy żądają odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w powrót Huanga.",
-        "Huangowi przywrócono pracę niecałe dwa tygodnie po tym, jak został zmuszony do rezygnacji w związku z ujawnieniem romansów pozamałżeńskich, w tym romansu z rzekomym chińskim szpiegiem.",
-        "Wielokrotnie pytana we wtorek, czy Departament Sprawiedliwości lub FBI prowadziły dochodzenie w sprawie Huanga, Blanche odpowiedziała: „Nie wiem, o czym mówisz”."
+        "Nowe opłaty uderzą w wielu największych partnerów handlowych Ameryki, w tym w Chiny i UE.",
+        "BBC rozumie, że Stany Zjednoczone przygotowują się do ogłoszenia w środę planów nowych ceł na kilka krajów.",
+        "Nowe podatki importowe uderzą w wielu największych partnerów handlowych Ameryki, w tym w Chiny, Unię Europejską i Japonię wśród co najmniej 14 jurysdykcji.",
+        "Posunięcie to następuje po przeprowadzeniu przez Biały Dom tzw. śledztwa na podstawie „sekcji 301”. Został on wprowadzony w marcu po tym, jak Sąd Najwyższy Stanów Zjednoczonych orzekł, że cła nałożone przez prezydenta Donalda Trumpa z okazji Dnia Wyzwolenia są nielegalne.",
+        "Trump uczynił cła sztandarową polityką swojej prezydentury, argumentując, że pomogą one pobudzić amerykańską produkcję i stworzyć miejsca pracy."
       ]
     },
     {
-      "id": "makro-6-82363e",
+      "id": "makro-2-b2761d",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Huawei uznany za winnego kradzieży tajemnic handlowych, ale uniewinniony od haraczy",
-      "original_title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:16",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Wyrok jest następstwem wielomiesięcznego procesu w Nowym Jorku.",
-        "Źródło zdjęcia, REUTERS/Jane Rosenberg Tytuł zdjęcia, obrońca Brian Heberlig wygłasza mowy końcowe na rozprawie Huawei Technologies przed sądem federalnym w Brooklynie 17 listopada.",
-        "Huawei został uznany winnym spisku mającego na celu kradzież tajemnic handlowych i oszustw bankowych, ale nie jest winny poważniejszych, nadrzędnych zarzutów o ściąganie haraczy postawionych w przełomowym procesie w USA."
-      ],
-      "extended_paragraphs": [
-        "Wyrok jest następstwem wielomiesięcznego procesu w Nowym Jorku.",
-        "Źródło zdjęcia, REUTERS/Jane Rosenberg Tytuł zdjęcia, obrońca Brian Heberlig wygłasza mowy końcowe na rozprawie Huawei Technologies przed sądem federalnym w Brooklynie 17 listopada.",
-        "Huawei został uznany winnym spisku mającego na celu kradzież tajemnic handlowych i oszustw bankowych, ale nie jest winny poważniejszych, nadrzędnych zarzutów o ściąganie haraczy postawionych w przełomowym procesie w USA.",
-        "W dwumiesięcznym procesie prokuratorzy oskarżyli chińskiego giganta technologicznego i telekomunikacyjnego o kłamstwa, oszukiwanie i kradzież w celu uzyskania przewagi konkurencyjnej.",
-        "Zespół obrony Huawei argumentował, że prokuratorzy uznali Huawei za organizację przestępczą i na tym oparli swoją sprawę, ale sukces firmy wynikał z jej własnych innowacji."
-      ]
-    },
-    {
-      "id": "makro-2-9d1ef8",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Sztuczna Inteligencja” (kluczowe liczby: 30%) — istotne dla ochrony realnej wartości kapitału.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 26%) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [
-        "30%"
+        "26%"
       ],
-      "title": "Faisal Islam: Obawy związane z boomem na sztuczną inteligencję nie zniknęły",
-      "original_title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "title": "Gospodarstwa domowe przygotowały się na gwałtownie rosnące rachunki za energię w związku z ogłoszeniem nowego pułapu cenowego",
+      "original_title": "Households braced for soaring energy bills with new price cap to be announced",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:21",
+      "time": "00:29",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Przed nagłym odejściem Huanga z Nvidii istniały uzasadnione obawy – a jego powrót tego nie naprawi Akcje spółki spadły o prawie 30% w ciągu ostatnich sześciu miesięcy, na długo przed wybuchem skandalu z udziałem Jensena Huanga na początku tego miesiąca.",
-        "Uzasadnione obawy o trwałość boomu technologicznego pojawiły się jeszcze przed odejściem Huanga.",
-        "Nie zniknęły wraz z jego powrotem."
+        "Krajowe ceny gazu znacznie wzrosną w styczniu w związku z nowym pułapem cenowym regulatora Ofgem.",
+        "Według prognozy sporządzonej przed oficjalnym ogłoszeniem typowy roczny rachunek wzrośnie w nowym roku o 26%.",
+        "Nowy limit Ofgem, który ustala maksymalną cenę za każdą jednostkę energii, zacznie obowiązywać w najzimniejszą porę roku."
       ],
       "extended_paragraphs": [
-        "Przed nagłym odejściem Huanga z Nvidii istniały uzasadnione obawy – a jego powrót tego nie naprawi",
-        "Akcje spółki spadły o prawie 30% w ciągu ostatnich sześciu miesięcy, na długo przed wybuchem skandalu z udziałem Jensena Huanga na początku tego miesiąca.",
-        "Uzasadnione obawy o trwałość boomu technologicznego pojawiły się jeszcze przed odejściem Huanga. Nie zniknęły wraz z jego powrotem.",
-        "Inwestorzy są zdenerwowani. Już teraz notowania Anthropic są znacznie niższe niż notowania na giełdzie w zeszłym tygodniu. Firma jest pierwszą spółką wykorzystującą wyłącznie sztuczną inteligencję notowaną na giełdzie i jest postrzegana jako duży test na ciągły apetyt inwestorów na tę technologię.",
-        "Niezwykła rozmowa telefoniczna prezydenta Trumpa do CNBC, w której przypisał sobie polecenie zarządu o przywróceniu Huanga na stanowisko, pokazała zakres operacji – niektórych w Dolinie Krzemowej i administracji USA – mających na celu przywrócenie go na stanowisko kierownicze."
+        "Krajowe ceny gazu znacznie wzrosną w styczniu w związku z nowym pułapem cenowym regulatora Ofgem.",
+        "Według prognozy sporządzonej przed oficjalnym ogłoszeniem typowy roczny rachunek wzrośnie w nowym roku o 26%.",
+        "Nowy limit Ofgem, który ustala maksymalną cenę za każdą jednostkę energii, zacznie obowiązywać w najzimniejszą porę roku. Klienci płacą za to, z czego korzystają, a organizacje charytatywne i dostawcy spodziewają się wzrostu zadłużenia i fali ludzi potrzebujących wsparcia w nagłych wypadkach.",
+        "Oprócz trwającej obniżki podatku VAT na energię elektryczną rząd wypłaci 100 funtów milionom gospodarstw domowych na pokrycie kosztów zimowych.",
+        "Zniżka na ciepły dom obniży także rachunki o 150 funtów sześciu milionom gospodarstw domowych korzystających ze świadczeń tej zimy. Pojawiły się wezwania do przedłużenia tego wsparcia, finansowanego z rachunków wszystkich."
       ]
     },
     {
@@ -1391,75 +1354,73 @@
       ]
     },
     {
-      "id": "makro-7-0fadd5",
+      "id": "makro-6-a74125",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [],
-      "title": "Czy otrzymam zapłatę za energię w wysokości 100 GBP i kiedy ją otrzymam?",
-      "original_title": "Will I get the £100 energy payment and when will I receive it?",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 20 milionów) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "20 milionów"
+      ],
+      "title": "Co zmiany w limitach energii będą oznaczać dla moich rachunków?",
+      "original_title": "What will the energy cap changes mean for my bills?",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:16",
+      "time": "00:33",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Oto, co musisz wiedzieć o wypłacie, którą od stycznia otrzymają miliony.",
-        "Dla wielu osób oferowane 100 funtów to dużo pieniędzy, ale warto wziąć pod uwagę kontekst.",
-        "Według konsultantów Cornwall Insight typowy rachunek za energię wzrośnie o 443 funtów rocznie od stycznia."
+        "Organ regulacyjny Ofgem podnosi górny limit wpływający na rachunki za energię milionów gospodarstw domowych.",
+        "Ograniczenie dotyczy milionów ludzi w Anglii, Szkocji i Walii i odzwierciedla wyższe ceny hurtowe gazu, które zostały podniesione przez wojnę amerykańsko-izraelską z Iranem.",
+        "Oznacza to, że osoby korzystające z taryf zmiennych powinny dokładnie dokonywać odczytów liczników, upewnić się, że otrzymują całe wsparcie, do którego są uprawnione, i dbać o zużycie energii."
       ],
       "extended_paragraphs": [
-        "Oto, co musisz wiedzieć o wypłacie, którą od stycznia otrzymają miliony.",
-        "Dla wielu osób oferowane 100 funtów to dużo pieniędzy, ale warto wziąć pod uwagę kontekst.",
-        "Według konsultantów Cornwall Insight typowy rachunek za energię wzrośnie o 443 funtów rocznie od stycznia.",
-        "Rząd oznajmił, że świadczenie otrzymają osoby mieszkające w nieruchomościach objętych zakresami podatku lokalnego od A do D w Anglii.",
-        "W związku z tym warto sprawdzić, w jakim zakresie podatku lokalnego znajduje się Twój dom, na zewnątrz. Jeśli mieszkasz w Anglii, możesz skorzystać z funkcji wyszukiwania, wpisując swój kod pocztowy w odpowiednim polu."
+        "Organ regulacyjny Ofgem podnosi górny limit wpływający na rachunki za energię milionów gospodarstw domowych.",
+        "Ograniczenie dotyczy milionów ludzi w Anglii, Szkocji i Walii i odzwierciedla wyższe ceny hurtowe gazu, które zostały podniesione przez wojnę amerykańsko-izraelską z Iranem.",
+        "Oznacza to, że osoby korzystające z taryf zmiennych powinny dokładnie dokonywać odczytów liczników, upewnić się, że otrzymują całe wsparcie, do którego są uprawnione, i dbać o zużycie energii.",
+        "Limit energii ustala maksymalną kwotę, jaką mogą pobrać klienci korzystający ze standardowych stawek zmiennych za każdą jednostkę zużytego gazu i energii elektrycznej.",
+        "Obejmuje ponad 20 milionów gospodarstw domowych w Anglii, Walii i Szkocji i jest ustalany przez organ regulacyjny Ofgem co trzy miesiące, na zewnątrz."
+      ]
+    },
+    {
+      "id": "makro-7-daf016",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Półprzewodniki & AI” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Dzięki ratowaniu Huanga Trump ryzykownie wiąże swój polityczny los z Nvidią",
+      "original_title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:03",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Wstawiennictwo amerykańskiego prezydenta o przywrócenie na stanowisko dyrektora generalnego Jensena Huanga nierozerwalnie połączyło ich losy.",
+        "Po tym, jak producent chipów AI, Nvidia, ogłosił, że przywraca do życia pogrążonego w kryzysie byłego szefa Jensena Huanga, a akcje firmy poszybowały w górę niczym kula, prezydent Donald Trump odniósł bardzo publiczne zwycięstwo.",
+        "„Zawarłem umowę” – powiedział podczas długiego wywiadu telefonicznego z kanałem informacyjnym CNBC dotyczącym branży kablowej."
+      ],
+      "extended_paragraphs": [
+        "Wstawiennictwo amerykańskiego prezydenta o przywrócenie na stanowisko dyrektora generalnego Jensena Huanga nierozerwalnie połączyło ich losy.",
+        "Po tym, jak producent chipów AI, Nvidia, ogłosił, że przywraca do życia pogrążonego w kryzysie byłego szefa Jensena Huanga, a akcje firmy poszybowały w górę niczym kula, prezydent Donald Trump odniósł bardzo publiczne zwycięstwo.",
+        "„Zawarłem umowę” – powiedział podczas długiego wywiadu telefonicznego z kanałem informacyjnym CNBC dotyczącym branży kablowej.",
+        "Następnie Trump zamieścił na swojej platformie w mediach społecznościowych zdjęcie wygenerowane przez sztuczną inteligencję, które nawiązywało do słynnego zdjęcia zrobionego chwilę po zamachu na jego życie w Pensylwanii w 2024 r. Jednak zamiast Trumpa na zdjęciu, Huang był otoczony przez strażników Secret Service. Przedstawiało go przed banerem Nvidii – z uniesioną głową, zaciskając czerwony stanik.",
+        "Czy Trump sugerował, że Huang przeżył skandal – obejmujący zarzuty lekkomyślnego narażania bezpieczeństwa narodowego USA poprzez współpracę z podejrzanym chińskim szpiegiem – w taki sam sposób, w jaki przeżył kulę zabójcy?"
       ]
     }
   ],
   "tech": [
-    {
-      "id": "tech-6-af158d",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 12%, 7%, 30%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "12%",
-        "7%",
-        "30%"
-      ],
-      "title": "Akcje Anthropic spadają poniżej ceny IPO, co jest niepokojącym sygnałem dla startupów AI",
-      "original_title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:30",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": true,
-      "summary_points": [
-        "Załamanie Anthropic po IPO może wywrzeć presję na wyceny start-upów AI.",
-        "Akcje Anthropic spadły poniżej ceny IPO wynoszącej 83 USD, osiągając do wtorkowego południa zaledwie 76 USD za akcję, co oznacza spadek o prawie 12% w porównaniu z poniedziałkowym zamknięciem.",
-        "Spadki poniżej ceny IPO są często postrzegane jako sygnał negatywny, ponieważ ubezpieczyciele zazwyczaj wyceniają oferty z dyskontem w stosunku do ich oczekiwanej wartości handlowej."
-      ],
-      "extended_paragraphs": [
-        "Załamanie Anthropic po IPO może wywrzeć presję na wyceny start-upów AI.",
-        "Akcje Anthropic spadły poniżej ceny IPO wynoszącej 83 USD, osiągając do wtorkowego południa zaledwie 76 USD za akcję, co oznacza spadek o prawie 12% w porównaniu z poniedziałkowym zamknięciem.",
-        "Spadki poniżej ceny IPO są często postrzegane jako sygnał negatywny, ponieważ ubezpieczyciele zazwyczaj wyceniają oferty z dyskontem w stosunku do ich oczekiwanej wartości handlowej.",
-        "Branża sztucznej inteligencji z niecierpliwością obserwuje handel akcjami Anthropic, a inwestorzy VC i inni obserwatorzy twierdzą, że jej wyniki mogą służyć jako barometr tego, jak inwestorzy na rynku publicznym cenią ten sektor.",
-        "Dramatyczny spadek nastąpił niecały tydzień po debiucie Anthropic na Nasdaq po cenie 111,50 dolarów za akcję. Jeśli w nadchodzących tygodniach akcje spółki będą nadal słabo notowane, spadek ten może wywrzeć presję na wyceny prywatnych start-upów i osłabić perspektywy IPO dla innych firm zajmujących się sztuczną inteligencją."
-      ]
-    },
     {
       "id": "tech-7-d17aeb",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
@@ -1478,7 +1439,7 @@
       "source_url": "https://antyweb.pl/to-nie-losos-ani-makrela-eksperci-wskazali-najlepsza-rybe",
       "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/losos-ryby-ranking.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
         "Jeżeli zastanawiasz się nad wprowadzeniem większej liczby ryb do swojej diety, to warto zrobić to z głową.",
         "Tajwański dietetyk postanowił stworzyć ranking, z którego wychodzi, że łosoś niekoniecznie jest najlepszym wyborem.",
@@ -1492,35 +1453,35 @@
       ]
     },
     {
-      "id": "tech-4-1a99f5",
-      "entity_tag": "Wall Street (USA)",
-      "sector": "Rynki Globalne",
+      "id": "tech-6-1bee16",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
       "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Wall Street (USA) (Rynki Globalne) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Według raportu, w ostatnich tygodniach zhakowano dziesiątki tankowców i tankowców",
-      "original_title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "title": "Jensen Huang nadal uważa, że plan sukcesji tworzy niepotrzebną hierarchię",
+      "original_title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:09",
+      "time": "22:27",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/oil-tanker-1244308661.jpg?resize=1200,800",
+      "source_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Iran jest głównym podejrzanym stojącym za dziesiątkami cyberataków wymierzonych w statki przewożące ropę i chemikalia.",
-        "Według raportu The Wall Street Journal amerykańscy urzędnicy podejrzewają, że irańscy hakerzy mogą stać za aż 50 cyberatakami na statki żeglugowe w ostatnich tygodniach.",
-        "Statki przewożące ropę, skroplony gaz i inne wybuchowe chemikalia zostały zhakowane podczas podróży przez Azję i Europę."
+        "To niezwykła postawa jak na firmę, która przez ostatnie dwa tygodnie zastanawiała się, co stanie się bez jej założyciela.",
+        "Jensen Huang nadal uważa, że ​​plan sukcesji tworzy niepotrzebną hierarchię Kirsten Korosec 14:27 PST · 24 listopada 2026 Dyrektor generalny Nvidii Jensen Huang rozpoczął swój powrót do producenta chipów, którego jest współzałożycielem, od zorganizowania spotkania, na którym omówiono wyrzuty sumienia, terapię, a nawet kodeks postępowania firmy, jak wynika z relacji wielu osób mających dostęp do poufnych informacji, które rozmawiały z mediami.",
+        "Poruszono także temat planowania sukcesji — szczególnie drażliwa kwestia postrzegana jako kluczowe ryzyko w Nvidii."
       ],
       "extended_paragraphs": [
-        "Iran jest głównym podejrzanym stojącym za dziesiątkami cyberataków wymierzonych w statki przewożące ropę i chemikalia.",
-        "Według raportu The Wall Street Journal amerykańscy urzędnicy podejrzewają, że irańscy hakerzy mogą stać za aż 50 cyberatakami na statki żeglugowe w ostatnich tygodniach.",
-        "Statki przewożące ropę, skroplony gaz i inne wybuchowe chemikalia zostały zhakowane podczas podróży przez Azję i Europę. Systemy nawigacyjne kilku tankowców płynących w sierpniu w stronę wybrzeża USA również zostały naruszone, co skłoniło zespoły ds. cyberbezpieczeństwa z FBI i Straży Przybrzeżnej do wejścia na pokład statków.",
-        "W raporcie stwierdzono, że urzędnicy badają, czy Iran rozszerza swoją ostatnią falę ataków hakerskich na USA, obierając za cel duże statki, aby siać strach wśród spedytorów, zakłócać trasy lub spowodować eksplozję w porcie. (Statki mają zapasową kontrolę na wypadek włamania się lub awarii automatycznych systemów.)",
-        "Hakerzy mogli wykorzystać błąd o nazwie FortiBleed, który umożliwia hakerom włamanie się do sieci poprzez złamanie zabezpieczeń routerów firmy Fortinet. Wspólny alert bezpieczeństwa FBI i Straży Przybrzeżnej z września ostrzegał, że routery Fortinet są używane na statkach transportowych."
+        "To niezwykła postawa jak na firmę, która przez ostatnie dwa tygodnie zastanawiała się, co stanie się bez jej założyciela.",
+        "Jensen Huang nadal uważa, że ​​plan sukcesji tworzy niepotrzebną hierarchię Kirsten Korosec 14:27 PST · 24 listopada 2026 Dyrektor generalny Nvidii Jensen Huang rozpoczął swój powrót do producenta chipów, którego jest współzałożycielem, od zorganizowania spotkania, na którym omówiono wyrzuty sumienia, terapię, a nawet kodeks postępowania firmy, jak wynika z relacji wielu osób mających dostęp do poufnych informacji, które rozmawiały z mediami.",
+        "Poruszono także temat planowania sukcesji — szczególnie drażliwa kwestia postrzegana jako kluczowe ryzyko w Nvidii. Huang podobno powiedział pracownikom, że Nvidia nie wymaga planowania sukcesji ze względu na swój unikalny model biznesowy, podało CNBC, powołując się na anonimowe źródło, które było obecne. Co zaskakujące, biorąc pod uwagę wydarzenia ostatnich dwóch tygodni, Huang argumentował, że plan sukcesji stworzyłby niepotrzebną hierarchię.",
+        "Inwestorzy i analitycy spojrzeli na tę kwestię inaczej na początku tego miesiąca, kiedy Huang zrezygnował ze stanowiska dyrektora generalnego po tym, jak przyznał, że miał pozamałżeńskie romanse z co najmniej dwiema osobami, w tym jedną, którą rząd USA podejrzewa o bycie chińskim szpiegiem.",
+        "Nvidia to płaska organizacja, w przeciwieństwie do innych dużych korporacji, które mają wielu menedżerów wyższego szczebla i wiele warstw zarządzania. Huang siedzi na szczycie i twierdzi, że ma około 60 bezpośrednich podwładnych. Nvidia ma tylko pięciu dyrektorów wykonawczych, w tym Huanga. Pozostała czwórka to dyrektor finansowa Colette Kress, która przez 12 dni pełniła funkcję tymczasowego dyrektora generalnego; Ajay Puri, który kieruje operacjami terenowymi na całym świecie; Debora Shoquist, wiceprezes wykonawczy ds. operacyjnych; oraz Timothy Teter, wiceprezes wykonawczy i główny radca prawny, jak wynika z dokumentów regulacyjnych firmy."
       ]
     },
     {
@@ -1556,37 +1517,35 @@
       ]
     },
     {
-      "id": "tech-2-4f700d",
-      "entity_tag": "Apple (NASDAQ: AAPL)",
-      "sector": "Big Tech",
+      "id": "tech-2-6ea5ce",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) (kluczowe liczby: 5,3 mln dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "5,3 mln dolarów"
-      ],
-      "title": "Maple zbiera 5,3 mln dolarów na tworzenie produktów AI, które chronią Twoje dane, nawet przed nimi samymi",
-      "original_title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Sonnenfeld z Yale: Nvidia „szkodą” dla amerykańskiej potęgi przemysłowej – a nie mistrzem",
+      "original_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:19",
+      "time": "00:12",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+      "source_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Szyfrowana architektura AI startupu ma na celu uniemożliwienie nawet samej firmie dostępu do prywatnych danych użytkowników.",
-        "Maple zbiera 5,3 mln dolarów na tworzenie produktów AI, które chronią Twoje dane, nawet przed nimi samymi.",
-        "Sarah Perez 13:19 PST · 24 listopada 2026 r. W miarę jak asystenci AI ewoluują w bardziej wydajnych agentów, którzy mają dostęp do naszych plików, e-maili, kalendarza, przeglądarki i nie tylko, rośnie zaufanie, jakie mamy pokładać w firmach zajmujących się sztuczną inteligencją."
+        "Jeffrey Sonnenfeld z Yale ostrzega, że to, co w poniedziałek wiwatowało rynek, czyli wspierany przez Biały Dom powrót Jensena Huanga na stanowisko dyrektora generalnego i członka zarządu Nvidii, może okazać się gigantycznym błędem, narażając dyrektorów na „historyczną” osobistą odpowiedzialność wynikającą z rosnącej liczby procesów sądowych i rodząc pytanie, czy kraj świętuje firmę, która pomogła włożyć zaawansowane chipy w ręce swoich przeciwników.",
+        "Sonnenfeld z Yale: Nvidia „szkodą” dla amerykańskiej potęgi przemysłowej — a nie mistrzem Connie Loizos 16:12 PST · 24 listopada 2026 Inwestorzy wiwatowali z powodu powrotu Jensena Huanga na stanowisko dyrektora generalnego Nvidii w poniedziałek, ale znany naukowiec biznesowy Jeffrey Sonnenfeld z Yale uważa, że ​​świętują błąd.",
+        "Widzi firmę, która jest w dużej mierze odpowiedzialna za oddanie zaawansowanej technologii w ręce przeciwników kraju, w momencie, gdy ryzyko nie może być większe."
       ],
       "extended_paragraphs": [
-        "Szyfrowana architektura AI startupu ma na celu uniemożliwienie nawet samej firmie dostępu do prywatnych danych użytkowników.",
-        "Maple zbiera 5,3 mln dolarów na tworzenie produktów AI, które chronią Twoje dane, nawet przed nimi samymi. Sarah Perez 13:19 PST · 24 listopada 2026 r. W miarę jak asystenci AI ewoluują w bardziej wydajnych agentów, którzy mają dostęp do naszych plików, e-maili, kalendarza, przeglądarki i nie tylko, rośnie zaufanie, jakie mamy pokładać w firmach zajmujących się sztuczną inteligencją. Startup o nazwie Maple, którego współzałożycielem jest były inżynier Apple, który pracował nad technologiami chroniącymi prywatność, przyjmuje inne podejście w swojej aplikacji AI, w której dane użytkowników pozostają prywatne – nawet przed samą firmą.",
-        "„Chcieliśmy zbudować coś, co będzie nie tylko zaszyfrowane, ale także będzie można udowodnić, że ludzie będą mogli zajrzeć do kodu open source, a następnie spojrzeć na to, co nazywamy zaufanymi środowiskami wykonawczymi” – wyjaśnia współzałożyciel i dyrektor generalny Maple Mark Suman. „Mogą sprawdzić i zweryfikować kod działający na naszych serwerach, więc tak naprawdę nie muszą nam wierzyć na słowo”.",
-        "„Mogą sami kontrolować wszystko i wiedzieć, w jaki sposób przetwarzane są ich dane” – dodaje.",
-        "Idea zaufania jest szerszym tematem Maple, ponieważ startup proponuje, że istnieje sposób na zbudowanie aplikacji AI, w której konsumenci nie muszą rezygnować z prywatności na rzecz wygody, czego często wymagają konkurenci w ramach swojej inwazyjnej polityki prywatności, praktyk gromadzenia danych, a czasem nawet szkoleń w zakresie danych osobowych użytkowników."
+        "Jeffrey Sonnenfeld z Yale ostrzega, że to, co w poniedziałek wiwatowało rynek, czyli wspierany przez Biały Dom powrót Jensena Huanga na stanowisko dyrektora generalnego i członka zarządu Nvidii, może okazać się gigantycznym błędem, narażając dyrektorów na „historyczną” osobistą odpowiedzialność wynikającą z rosnącej liczby procesów sądowych i rodząc pytanie, czy kraj świętuje firmę, która pomogła włożyć zaawansowane chipy w ręce swoich przeciwników.",
+        "Sonnenfeld z Yale: Nvidia „szkodą” dla amerykańskiej potęgi przemysłowej — a nie mistrzem Connie Loizos 16:12 PST · 24 listopada 2026 Inwestorzy wiwatowali z powodu powrotu Jensena Huanga na stanowisko dyrektora generalnego Nvidii w poniedziałek, ale znany naukowiec biznesowy Jeffrey Sonnenfeld z Yale uważa, że ​​świętują błąd. Widzi firmę, która jest w dużej mierze odpowiedzialna za oddanie zaawansowanej technologii w ręce przeciwników kraju, w momencie, gdy ryzyko nie może być większe. Mówi, że Nvidia nie jest mistrzem amerykańskiego przemysłu, ale „szkodą dla globalnej potęgi przemysłowej USA”.",
+        "Jako dowód Sonnenfeld wskazuje badania sugerujące, że najbardziej zaawansowane chipy Nvidii dotarły do ​​Chin pomimo kontroli eksportu w USA, oraz malejące udziały Anthropic, co łączy ze świadomością, że pozornie cudowne chińskie modele sztucznej inteligencji o otwartym kodzie źródłowym są w pewnym sensie kopiami prac czołowych amerykańskich laboratoriów, mimo że Nvidia upierała się, że przemyt „nie ma znaczenia”.",
+        "Jak donosi „The Washington Post”, powrót Huanga został przyjęty w Azji z takim samym entuzjazmem. „Król powrócił!” – przeczytaj jeden z nagłówków chińskiej gazety Star Market Daily, powiązanej z państwem.",
+        "Samo przywrócenie nastąpiło pod silnymi naciskami ze strony Waszyngtonu. Jeszcze w zeszłym tygodniu prezes Nvidii skutecznie wykluczył powrót Huanga. Następnie, w potoku prywatnych rozmów weekendowych prowadzonych przez wiceprezydenta JD Vance’a, najwyżsi urzędnicy administracji oparli się o tablicę, aby powitać Huanga z powrotem, a prezydent Trump bezpośrednio zadzwonił do zarządu, aby poręczyć za niego. „Zawarłem umowę” – powiedział Trump w poniedziałek CNBC."
       ]
     },
     {
@@ -1622,6 +1581,38 @@
       ]
     },
     {
+      "id": "tech-4-6f7928",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Trump podobno twierdzi, że ułaskawienie Jensena Huanga to „opcja”",
+      "original_title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Huang stoi w obliczu ciągłych pytań dotyczących swoich relacji z Alice Huang, dyrektorką mającą rzekome powiązania z chińskim wywiadem, która wcześniej pracowała dla firmy oskarżonej o nielegalne przekierowanie chipów Nvidia do Chin.",
+        "We wtorkowym wywiadzie dla „New York Post” prezydent Trump powiedział, że ułaskawienie dyrektora generalnego Nvidii, Jensena Huanga, uwikłanego w skandal z udziałem rzekomego chińskiego szpiega, to „opcja”, aczkolwiek jego zdaniem nie będzie musiał z niej skorzystać.",
+        "„Przypuszczam, że zawsze istnieje taka możliwość, ale nie sądzę, że będzie to konieczne” – podobno powiedział portalowi prezydent."
+      ],
+      "extended_paragraphs": [
+        "Huang stoi w obliczu ciągłych pytań dotyczących swoich relacji z Alice Huang, dyrektorką mającą rzekome powiązania z chińskim wywiadem, która wcześniej pracowała dla firmy oskarżonej o nielegalne przekierowanie chipów Nvidia do Chin.",
+        "We wtorkowym wywiadzie dla „New York Post” prezydent Trump powiedział, że ułaskawienie dyrektora generalnego Nvidii, Jensena Huanga, uwikłanego w skandal z udziałem rzekomego chińskiego szpiega, to „opcja”, aczkolwiek jego zdaniem nie będzie musiał z niej skorzystać.",
+        "„Przypuszczam, że zawsze istnieje taka możliwość, ale nie sądzę, że będzie to konieczne” – podobno powiedział portalowi prezydent.",
+        "Huang, który niecałe dwa tygodnie temu został wyrzucony z własnej firmy, został przywrócony na stanowisko w poniedziałek. Stawia czoła ciągłym pytaniom dotyczącym jego relacji z Alice Huang, dyrektorką mającą rzekome powiązania z chińskim wywiadem, która wcześniej pracowała dla firmy oskarżonej o nielegalne przekierowanie chipów Nvidia do Chin.",
+        "Huang ma złożyć zeznania na publicznym przesłuchaniu Senackiej Komisji Bankowości w przyszłym tygodniu."
+      ]
+    },
+    {
       "id": "tech-5-f294ec",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
@@ -1654,41 +1645,75 @@
       ]
     },
     {
-      "id": "tech-8-826769",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
+      "id": "tech-8-892c78",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Co się dzieje z hipotezą Riemanna?",
-      "original_title": "What's going on with the Riemann hypothesis?",
+      "title": "Połowa starzejącej się floty marsjańskiej NASA została wyłączona z pracy z powodu problemów technicznych",
+      "original_title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:34",
+      "time": "22:50",
       "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
+      "source_url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
       "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "Nowy dowód wspomagany sztuczną inteligencją wydaje się solidny, ale nie jesteśmy pewni, co nam mówi.",
-        "Jest zbyt wcześnie, aby powiedzieć wiele o samym dowodzie – matematycy wciąż go analizują.",
-        "Możemy jednak powiedzieć trochę o tym, jak doszło do dowodu i co mówi nam on o stanie matematyki."
+        "Wytrwałość ma problemy z transmisją na Ziemię.",
+        "Odyseja szybko zużywa malejące zapasy paliwa.",
+        "Misje, których dotyczą przerwy – miejmy nadzieję, że tymczasowe – to łazik Perseverance i orbiter Odyssey należący do NASA."
       ],
       "extended_paragraphs": [
-        "Nowy dowód wspomagany sztuczną inteligencją wydaje się solidny, ale nie jesteśmy pewni, co nam mówi.",
-        "Jest zbyt wcześnie, aby powiedzieć wiele o samym dowodzie – matematycy wciąż go analizują. Możemy jednak powiedzieć trochę o tym, jak doszło do dowodu i co mówi nam on o stanie matematyki.",
-        "Hipoteza Riemanna pochodzi z połowy XIX wieku i została sformułowana przez (będziesz zaskoczony) Bernharda Riemanna. Nie ma oczywistego sposobu na proste opisanie szczegółów faktycznej hipotezy, ma to jednak konsekwencje dla rozkładu liczb pierwszych. Daje to znaczenie w obszarach od teorii liczb po kryptografię. Jak trafnie stwierdza Wikipedia: „Jest to uważane przez matematyków za jeden z najważniejszych problemów w tej dziedzinie”.",
-        "Dowód hipotezy został ogłoszony przez matematyka Leventa Alpöge, który pracował w Anthropic, i, co nie było zaskoczeniem, do jego wygenerowania wykorzystał Claude. Jego oświadczenie jest napisane w nieco kwiecistym stylu (przykład: „jedno z nich było już nowe i szokujące, czyniąc bardzo prostym jeden z cieni Riemanna, nad którym my, matematycy, odnieśliśmy największy triumf”) i najwyraźniej porzucił pewne wskazówki, że część z nich miała być żartem.",
-        "Ale jasno pokazuje, że Alpöge od dawna interesował się tym dowodem i miał on pewne spostrzeżenia, jak połączyć różne obszary matematyki, aby uzyskać ostateczny dowód. Wydaje się, że proces ten polegał na rozpoczęciu sztucznej inteligencji od obsługi uproszczonej „zabawkowej” formy niektórych spostrzeżeń Alpöge, a następnie poinstruowaniu jej, aby rozszerzyła to, co tam znalazła, do pełnego zakresu hipotezy Riemanna."
+        "Wytrwałość ma problemy z transmisją na Ziemię. Odyseja szybko zużywa malejące zapasy paliwa.",
+        "Misje, których dotyczą przerwy – miejmy nadzieję, że tymczasowe – to łazik Perseverance i orbiter Odyssey należący do NASA. Obydwa działają dłużej niż pierwotnie zakładano. Perseverance już szósty rok bada powierzchnię Marsa, pobierając próbki skał i gleby w celu ewentualnego powrotu na Ziemię. Łazik bada obecnie krawędź krateru, w którym kiedyś znajdowało się starożytne jezioro wypełnione ciekłą wodą. Odyssey przybył na orbitę wokół Marsa w 2001 roku i jest najdłużej trwającą misją marsjańską w historii.",
+        "Problem na Wytrwałości wynika z systemu komunikacji łazika. Łazik jest wyposażony w dwa redundantne radia UHF umożliwiające szybką komunikację z flotą orbiterów przekazujących dane na Ziemię. Dostępny jest oddzielny system pracujący w paśmie X, umożliwiający bezpośrednią komunikację z Ziemią przy niższej szybkości transmisji danych.",
+        "Jedno z dwóch radiotelefonów UHF łazika nie reagowało po włączeniu zasilania 30 października, co spowodowało automatyczne przełączenie na radio zapasowe i przejście łazika w tryb awaryjny. Zespoły naziemne w Jet Propulsion Laboratory NASA w Kalifornii odkryły później, że zapasowe radio UHF nadaje z prędkością około połowy oczekiwanej mocy wyjściowej, jak podała NASA w oświadczeniu z zeszłego tygodnia.",
+        "„Zespół zaprzestał używania obu radiotelefonów do czasu, aż będzie w stanie ocenić potencjalne przyczyny problemów i uznanie jednego lub obu za bezpieczne do wznowienia pracy” – oznajmiła NASA."
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-1-61dc1a",
+      "id": "swiat-2-c32260",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 7%) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "7%"
+      ],
+      "title": "Prokurator generalny USA unika pytań na temat śledztwa Nvidii",
+      "original_title": "US attorney general dodges questions about Nvidia investigation",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "03:44",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": true,
+      "summary_points": [
+        "Cena akcji Nvidii spadła o 7% w związku z żądaniem przez prawodawców odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w przywrócenie Huanga na stanowisko.",
+        "Prokurator generalny USA Todd Blanche poparł Nvidię jako „dobrego obywatela korporacyjnego”, odmawiając komentarza na temat tego, czy producent chipów AI był objęty dochodzeniem federalnym.",
+        "Blanche powiedział, że nie ma informacji na temat statusu poświadczenia bezpieczeństwa nowo przywróconego na stanowisko dyrektora generalnego Jensena Huanga, ponieważ prawodawcy żądają odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w powrót Huanga."
+      ],
+      "extended_paragraphs": [
+        "Cena akcji Nvidii spadła o 7% w związku z żądaniem przez prawodawców odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w przywrócenie Huanga na stanowisko.",
+        "Prokurator generalny USA Todd Blanche poparł Nvidię jako „dobrego obywatela korporacyjnego”, odmawiając komentarza na temat tego, czy producent chipów AI był objęty dochodzeniem federalnym.",
+        "Blanche powiedział, że nie ma informacji na temat statusu poświadczenia bezpieczeństwa nowo przywróconego na stanowisko dyrektora generalnego Jensena Huanga, ponieważ prawodawcy żądają odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w powrót Huanga.",
+        "Huangowi przywrócono pracę niecałe dwa tygodnie po tym, jak został zmuszony do rezygnacji w związku z ujawnieniem romansów pozamałżeńskich, w tym romansu z rzekomym chińskim szpiegiem.",
+        "Wielokrotnie pytana we wtorek, czy Departament Sprawiedliwości lub FBI prowadziły dochodzenie w sprawie Huanga, Blanche odpowiedziała: „Nie wiem, o czym mówisz”."
+      ]
+    },
+    {
+      "id": "swiat-3-61dc1a",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
@@ -1705,7 +1730,7 @@
       "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/kontrowersyjna-nominacja-stanowcza-reakcja-ukrainy/",
       "image_url": "https://ipla.pluscdn.pl/dituel/cp/fq/fqryg5gp2u9i1dkr6f7ic273t91hqiaa.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Minister spraw zagranicznych Ukrainy Andrij Sybiha polecił we wtorek wystosować oficjalny demarche dyplomatyczny wobec Międzynarodowej Agencji Energii Atomowej (MAEA) oraz przekazać notę protestacyjną w związku z mianowaniem Aleksieja Fierapontowa na stanowisko zastępcy dyrektora generalnego MAEA.",
         "Na zastępcę dyrektora generalnego Międzynarodowej Agencji Energii Atomowej Rafaela Grossiego mianowany został Rosjanin Aleksiej Ferapontow .",
@@ -1720,39 +1745,7 @@
       ]
     },
     {
-      "id": "swiat-4-2544e0",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "\"Bezpodstawne\" i \"gołosłowne'. Rosyjska ambasada odpowiada polskiemu MSZ",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:01",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/bezpodstawne-i-goloslowne-rosyjska-ambasada-o-polskich-oskarzeniach/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/yu/yuz4q2io9823ctxhm6n7fz95bfk8z3f1.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Gieorgij Michno w sposób najbardziej stanowczy odrzucił wysunięte pod adresem Federacji Rosyjskiej oskarżenia - przekazała rosyjska ambasada w Polsce.",
-        "We wtorek dyplomata pojawił się w siedzibie polskiego MSZ w związku z piątkowym naruszeniem polskiej przestrzeni powietrznej przez rosyjskie rakiety.",
-        "Gieorgij Michno \"w sposób najbardziej stanowczy odrzucił wysunięte pod adresem Federacji Rosyjskiej oskarżenia\" - przekazała rosyjska ambasada w Polsce."
-      ],
-      "extended_paragraphs": [
-        "Gieorgij Michno w sposób najbardziej stanowczy odrzucił wysunięte pod adresem Federacji Rosyjskiej oskarżenia - przekazała rosyjska ambasada w Polsce. We wtorek dyplomata pojawił się w siedzibie polskiego MSZ w związku z piątkowym naruszeniem polskiej przestrzeni powietrznej przez rosyjskie rakiety.",
-        "Gieorgij Michno \"w sposób najbardziej stanowczy odrzucił wysunięte pod adresem Federacji Rosyjskiej oskarżenia\" - przekazała rosyjska ambasada w Polsce. We wtorek dyplomata pojawił się w siedzibie polskiego MSZ w związku z piątkowym naruszeniem polskiej przestrzeni powietrznej przez rosyjskie rakiety.",
-        "\" Gieorgij Michno , ambasador Federacji Rosyjskiej w Rzeczypospolitej Polskiej, został zaproszony do MSZ kraju przyjmującego, gdzie przekazano mu protest w ramach rzekomego 'powiązania' naszego kraju z incydentami dotyczącymi 'naruszenia polskiej przestrzeni powietrznej' w dniu 20 listopada 2026 r.\" - czytamy w komunikacie rosyjskiej ambasady w Polsce na Telegramie.",
-        "Jak wynika z komunikatu, Michno \"w sposób najbardziej stanowczy\" odrzucił te oskarżenia i uznał je za \"bezpodstawne, gołosłowne i niepoparte dowodami\".",
-        "Za \"całkowicie niedopuszczalną\" uznał on także \" praktykę wysuwania oskarżeń pod adresem Rosji (...) na podstawie tendencyjnych przesłanek podyktowanych koniunkturą polityczn ą, z góry wskazując winowajcę\" - przekazała ambasada."
-      ]
-    },
-    {
-      "id": "swiat-5-73535b",
+      "id": "swiat-7-73535b",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
@@ -1784,7 +1777,76 @@
       ]
     },
     {
-      "id": "swiat-2-14d0dc",
+      "id": "swiat-1-366e4c",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 150 tys. euro) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "150 tys. euro"
+      ],
+      "title": "Kłopoty byłego prezydenta Francji. Nicolas Sarkozy i jego żona Carla Bruni staną przed sądem",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "23:15",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/klopoty-bylego-prezydenta-francji-nicolas-sarkozy-i-jego-zona-carla-bruni-stana-przed-sadem/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/63/6338rsu2wg87a1gv7m33nyw67vsfs4b9.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Były prezydent Francji Nicolas Sarkozy i jego małżonka, modelka i piosenkarka Carla Bruni staną przed sądem.",
+        "Oskarżenia dotyczą m.in. bezprawnego wpływania na świadka w sprawie o nielegalne finansowanie kampanii wyborczej sprzed dwóch dekad - poinformowała we wtorek agencja AFP.",
+        "Śledczy, którzy skierowali sprawę do sądu, badali okoliczności wycofania zeznań przez francuskiego przedsiębiorcę libańskiego pochodzenia Ziada Takieddine’a , który oświadczył w 2016 r., że były przywódca Libii Muammar Kadafi przekazał miliony euro w gotówce na kampanię wyborczą Sarkozy’ego w 2007 r. W 2020 r. Takieddine wycofał w wywiadzie dla francuskich mediów swoje zeznania, po czym znów wysunął oskarżenia pod zarzutem Sarkozy’ego."
+      ],
+      "extended_paragraphs": [
+        "Były prezydent Francji Nicolas Sarkozy i jego małżonka, modelka i piosenkarka Carla Bruni staną przed sądem. Oskarżenia dotyczą m.in. bezprawnego wpływania na świadka w sprawie o nielegalne finansowanie kampanii wyborczej sprzed dwóch dekad - poinformowała we wtorek agencja AFP.",
+        "Śledczy, którzy skierowali sprawę do sądu, badali okoliczności wycofania zeznań przez francuskiego przedsiębiorcę libańskiego pochodzenia Ziada Takieddine’a , który oświadczył w 2016 r., że były przywódca Libii Muammar Kadafi przekazał miliony euro w gotówce na kampanię wyborczą Sarkozy’ego w 2007 r.",
+        "W 2020 r. Takieddine wycofał w wywiadzie dla francuskich mediów swoje zeznania, po czym znów wysunął oskarżenia pod zarzutem Sarkozy’ego. Przedsiębiorca zmarł we wrześniu 2025 r. w Libanie .",
+        "Jak przekazała francuska prokuratura finansowa, cytowana przez AFP, Sarkozy i jego żona usłyszeli m.in. zarzuty bezprawnego wpływania na świadka oraz udziału w zmowie przestępczej .",
+        "Proces ma rozpocząć się na początku listopada 2027 r., a wstępne posiedzenie przygotowawcze wyznaczono na 1 kwietnia 2027 r. Sarkozy’emu i Bruni grozi do 10 lat więzienia i grzywna w wysokości 150 tys. euro."
+      ]
+    },
+    {
+      "id": "swiat-4-fb8733",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 11 milionów, 90%) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "11 milionów",
+        "90%"
+      ],
+      "title": "Dane Rosji pokazują, że w wojnie na Ukrainie zginęło prawie 500 000 osób",
+      "original_title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "00:56",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Dane, które wyciekły, pokazują, jak zakrojona na szeroką skalę inwazja na Ukrainę zasadniczo zmieniła wzorce śmiertelności w Rosji.",
+        "Według statystyk rosyjskiego rządu przeanalizowanych przez BBC od początku wojny na Ukrainie w 2022 roku co najmniej 490 334 rosyjskich żołnierzy zginęło.",
+        "Dane Rosstatu, które wyciekły, pokazują, jak zakrojona na pełną skalę inwazja na Ukrainę zasadniczo zmieniła wzorce śmiertelności w Rosji i pokazują, jak wysokie są koszty życia ludzkiego w wojnie, która według Władimira Putina potrwa tylko dni, a ma już prawie pięć lat."
+      ],
+      "extended_paragraphs": [
+        "Dane, które wyciekły, pokazują, jak zakrojona na szeroką skalę inwazja na Ukrainę zasadniczo zmieniła wzorce śmiertelności w Rosji.",
+        "Według statystyk rosyjskiego rządu przeanalizowanych przez BBC od początku wojny na Ukrainie w 2022 roku co najmniej 490 334 rosyjskich żołnierzy zginęło.",
+        "Dane Rosstatu, które wyciekły, pokazują, jak zakrojona na pełną skalę inwazja na Ukrainę zasadniczo zmieniła wzorce śmiertelności w Rosji i pokazują, jak wysokie są koszty życia ludzkiego w wojnie, która według Władimira Putina potrwa tylko dni, a ma już prawie pięć lat.",
+        "BBC Russian uzyskało dostęp do ponad 11 milionów rejestrów zgonów od 2021 r. do września 2026 r. po włamaniu dokonanym przez białoruską grupę Cyber ​​Particles BY i ukraińską grupę Silent Crow.",
+        "Rosyjska agencja statystyczna przyznała się do cyberataku, ale zaprzeczyła, że ​​wyciekły jakiekolwiek chronione informacje."
+      ]
+    },
+    {
+      "id": "swiat-5-14d0dc",
       "entity_tag": "USA & Bezpieczeństwo",
       "sector": "Geopolityka",
       "market_impact": "LOW",
@@ -1816,7 +1878,7 @@
       ]
     },
     {
-      "id": "swiat-3-627426",
+      "id": "swiat-6-f520bd",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1824,285 +1886,292 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Były prezydent Francji Sarkozy i jego żona Carla Bruni staną przed sądem",
-      "original_title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "title": "Kilmar Abrego García opuszcza USA i udaje się do Hiszpanii, kończąc walkę o deportację Trumpa",
+      "original_title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
       "is_foreign": true,
       "lang": "EN",
-      "time": "16:49",
+      "time": "03:54",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "To najnowsza sprawa Nicolasa Sarkozy’ego, który w zeszłym roku został pierwszym byłym prezydentem Francji, który trafił do więzienia.",
-        "Źródło zdjęcia, EPA Paulin Kola Opublikowano 4 godziny temu Nicolas Sarkozy i jego żona Carla Bruni-Sarkozy staną w przyszłym roku przed sądem w związku z zarzutami wynikającymi ze skazania byłego prezydenta Francji za spisek mający na celu finansowanie jego kampanii wyborczej pieniędzmi zmarłego libijskiego dyktatora Muammara Kaddafiego.",
-        "Zarzuty skupiają się na wycofaniu zeznań kluczowego świadka, który początkowo twierdził, że ma dowody mogące obciążyć Sarkozy'ego."
+        "Jego deportacja do Salwadoru i powrót do USA stała się punktem zapalnym w debacie na temat programu imigracyjnego prezydenta Donalda Trumpa.",
+        "Według CBS News, amerykańskiego partnera BBC, ma on odbyć lot komercyjny do tego kraju we wtorek.",
+        "Po tym, jak rząd przyznał, że bezprawnie wysłał Ábrego Garcíę do jego rodzinnego kraju, wrócił on do Stanów Zjednoczonych, gdzie musiał zmierzyć się z zarzutami dotyczącymi handlu ludźmi, które później wycofano."
       ],
       "extended_paragraphs": [
-        "To najnowsza sprawa Nicolasa Sarkozy’ego, który w zeszłym roku został pierwszym byłym prezydentem Francji, który trafił do więzienia.",
-        "Źródło zdjęcia, EPA Paulin Kola Opublikowano 4 godziny temu Nicolas Sarkozy i jego żona Carla Bruni-Sarkozy staną w przyszłym roku przed sądem w związku z zarzutami wynikającymi ze skazania byłego prezydenta Francji za spisek mający na celu finansowanie jego kampanii wyborczej pieniędzmi zmarłego libijskiego dyktatora Muammara Kaddafiego.",
-        "Zarzuty skupiają się na wycofaniu zeznań kluczowego świadka, który początkowo twierdził, że ma dowody mogące obciążyć Sarkozy'ego.",
-        "We wrześniu ubiegłego roku Sarkozy został skazany w tej sprawie na pięć lat więzienia i został pierwszym byłym prezydentem Francji, który trafił do więzienia, mimo że za kratkami spędził zaledwie 20 dni. Zawsze zaprzeczał, że zrobił coś złego w tej sprawie, a wyrok w sprawie apelacji ma zostać wydany w najbliższy poniedziałek.",
-        "Od czasu przegranej w wyborach w 2012 r. przeciwko Sarkozy’emu toczyło się kilka dochodzeń karnych."
+        "Jego deportacja do Salwadoru i powrót do USA stała się punktem zapalnym w debacie na temat programu imigracyjnego prezydenta Donalda Trumpa.",
+        "Według CBS News, amerykańskiego partnera BBC, ma on odbyć lot komercyjny do tego kraju we wtorek.",
+        "Po tym, jak rząd przyznał, że bezprawnie wysłał Ábrego Garcíę do jego rodzinnego kraju, wrócił on do Stanów Zjednoczonych, gdzie musiał zmierzyć się z zarzutami dotyczącymi handlu ludźmi, które później wycofano. Następnie administracja kontynuowała próby wysłania go do innych krajów, w tym do Ugandy i Ghany.",
+        "Jego deportacja i powrót stały się punktem zapalnym w debacie na temat programu imigracyjnego prezydenta Donalda Trumpa.",
+        "Abrego García, który jest żonaty z obywatelem USA i mieszka w Maryland, przybył do USA nielegalnie z Salwadoru jako nastolatek."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-4-c6bc36",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [],
-      "title": "Senegal został przywrócony do grona zwycięzców Afcon 2025 – 10 miesięcy po turnieju",
-      "original_title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:16",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": true,
-      "summary_points": [
-        "Dziesięć miesięcy po finale Pucharu Narodów Afryki 2025 Senegal zostaje przywrócony do tytułu mistrza po orzeczeniu Sportowego Sądu Arbitrażowego.",
-        "Senegal został przywrócony do tytułu zwycięzcy Pucharu Narodów Afryki 2025 po orzeczeniu Sportowego Sądu Arbitrażowego.",
-        "Wyrok sądu uchyla wcześniejszą decyzję, która pozbawiła mieszkańców Afryki Zachodniej tytułu zdobytego na boisku podczas chaotycznego finału przeciwko Maroko, gospodarzowi, w styczniu."
-      ],
-      "extended_paragraphs": [
-        "Dziesięć miesięcy po finale Pucharu Narodów Afryki 2025 Senegal zostaje przywrócony do tytułu mistrza po orzeczeniu Sportowego Sądu Arbitrażowego.",
-        "Senegal został przywrócony do tytułu zwycięzcy Pucharu Narodów Afryki 2025 po orzeczeniu Sportowego Sądu Arbitrażowego.",
-        "Wyrok sądu uchyla wcześniejszą decyzję, która pozbawiła mieszkańców Afryki Zachodniej tytułu zdobytego na boisku podczas chaotycznego finału przeciwko Maroko, gospodarzowi, w styczniu.",
-        "Gdy mecz był bezbramkowy, Senegal opuścił boisko w doliczonym czasie gry drugiej połowy w proteście przeciwko przyznanemu im rzutowi karnemu. Mecz w Rabacie został opóźniony o ponad 15 minut, zanim Maroko Brahim Diaz obronił rzut karny.",
-        "Wynik ten został unieważniony prawie dwa miesiące później, gdy komisja odwoławcza Konfederacji Afrykańskiej Piłki Nożnej (Caf) uznała, że ​​drużyna Teranga Lions złamała regulamin zawodów, opuszczając pole gry po przyznaniu kary."
-      ]
-    },
-    {
-      "id": "sport-6-e2d4ca",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [],
-      "title": "Sooryavanshi (15 lat) bije rekord szóstek, zdobywając 204 z 53 piłek",
-      "original_title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:52",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f124/live/9f6b8b40-e802-11f1-95bb-3f37d3e026b0.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "15-letni indyjski sensacja Vaibhav Sooryavanshi strzela 204 z 53 piłek dla Indii A, niemal o połowę zmniejszając rekord najszybszego dwustulecia w krykiecie z Listy A.",
-        "15-letni indyjski zawodnik Vaibhav Sooryavanshi zdobył najwięcej szóstek w historii w rundach seniorów, strzelając 204 z 53 piłek dla drużyny India A przeciwko Zjednoczonych Emiratom Arabskim.",
-        "Prawie zmniejszając o połowę rekord najszybszego dwustulecia w krykiecie z Listy A, Sooryavanshi trafił 28 szóstek i siedem czwórek w zawodach Asia Cup Rising Stars, z łatwością pobijając poprzedni rekord Chada Bowesa, który wynosił 103 piłki z 2024 roku."
-      ],
-      "extended_paragraphs": [
-        "15-letni indyjski sensacja Vaibhav Sooryavanshi strzela 204 z 53 piłek dla Indii A, niemal o połowę zmniejszając rekord najszybszego dwustulecia w krykiecie z Listy A.",
-        "15-letni indyjski zawodnik Vaibhav Sooryavanshi zdobył najwięcej szóstek w historii w rundach seniorów, strzelając 204 z 53 piłek dla drużyny India A przeciwko Zjednoczonych Emiratom Arabskim.",
-        "Prawie zmniejszając o połowę rekord najszybszego dwustulecia w krykiecie z Listy A, Sooryavanshi trafił 28 szóstek i siedem czwórek w zawodach Asia Cup Rising Stars, z łatwością pobijając poprzedni rekord Chada Bowesa, który wynosił 103 piłki z 2024 roku.",
-        "Nastoletni otwieracz pobił także rekord najszybszego stulecia i 150, z czego ten ostatni już posiadał, zanim został złapany w długiej przerwie, a jego zespół miał pięć runów od zwycięstwa.",
-        "Zespół India A ostatecznie przekroczył swój cel 250 zawodników w meczu przeciwko drużynie ze Zjednoczonych Emiratów Arabskich, w której grało wielu reprezentantów, ale nie był to ich zespół pierwszego wyboru, uzyskując 14,2 overów w Doha."
-      ]
-    },
-    {
-      "id": "sport-1-268aa8",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Co za spotkanie w Baku! Tylko spójrz, z kim zrobił sobie zdjęcie Puchacz",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:18",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285975/co-za-spotkanie-w-baku-tylko-spojrz-z-kim-zrobil-sobie-zdjecie-puchacz",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b05fe42c2d9b1_55623213.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "W piątek Tymoteusz Puchacz otrzyma szansę gry z FC Barceloną w Lidze Mistrzów.",
-        "Przed tym upragnionym wydarzeniem polski obrońca spotkał się ze swoim rodakiem.",
-        "Wojciech Szczęsny przyleciał do Baku wraz z zespołem \"Dumy Katalonii\"."
-      ],
-      "extended_paragraphs": [
-        "W piątek Tymoteusz Puchacz otrzyma szansę gry z FC Barceloną w Lidze Mistrzów. Przed tym upragnionym wydarzeniem polski obrońca spotkał się ze swoim rodakiem. Wojciech Szczęsny przyleciał do Baku wraz z zespołem \"Dumy Katalonii\".",
-        "Skomentuj W piątek Tymoteusz Puchacz otrzyma szansę gry z FC Barceloną w Lidze Mistrzów. Przed tym upragnionym wydarzeniem polski obrońca spotkał się ze swoim rodakiem. Wojciech Szczęsny przyleciał do Baku wraz z zespołem \"Dumy Katalonii\".",
-        "W środę (25 listopada) o godz. 18:45 dojdzie do interesującego spotkania Sabah FK z FC Barceloną . Teoretycznie w meczu 5. kolejki Champions League mogą wystąpić dwaj Polacy .",
-        "Tymoteusz Puchacz już od ponad roku reprezentuje barwy azerskiego klubu. W zeszłym sezonie wywalczył z nim tytuł i puchar kraju. Polak jest podstawowym obrońcą tego zespołu.",
-        "Z kolei Wojciech Szczęsny od dwóch lat jest związany z FC Barceloną. Polski bramkarz nie ma jednak takiej pozycji jak Puchacz w swoim zespole. Doświadczony golkiper pogodził się z rolą rezerwowego i zmiennika Joana Garcii ."
-      ]
-    },
-    {
-      "id": "sport-2-987304",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Czerwona kartka Yoro została unieważniona, ale sędzia Webb podtrzymuje tę decyzję",
-      "original_title": "Yoro red card overturned, but refs' chief Webb backs decision",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:00",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Obrońca Manchesteru United Leny Yoro jest pewien, że w sobotę zmierzy się z Brentford po odrzuceniu czerwonej kartki na Anfield.",
-        "Reporter Manchesteru United w Lizbonie Opublikowano 24 listopada 2026, 15:59 GMT Zaktualizowano 4 godziny temu Związek Piłki Nożnej unieważnił pokazaną mu czerwoną kartkę obrońcy Manchesteru United Leny'emu Yoro na Anfield, mimo że szef sędziów Howard Webb poparł decyzję o wyrzuceniu obrońcy z boiska.",
-        "Yoro został zwolniony przez sędziego Sama Barrotta za powalenie napastnika Liverpoolu Alexandra Isaka zaledwie osiem minut po niedzielnym meczu."
-      ],
-      "extended_paragraphs": [
-        "Obrońca Manchesteru United Leny Yoro jest pewien, że w sobotę zmierzy się z Brentford po odrzuceniu czerwonej kartki na Anfield.",
-        "Reporter Manchesteru United w Lizbonie Opublikowano 24 listopada 2026, 15:59 GMT Zaktualizowano 4 godziny temu Związek Piłki Nożnej unieważnił pokazaną mu czerwoną kartkę obrońcy Manchesteru United Leny'emu Yoro na Anfield, mimo że szef sędziów Howard Webb poparł decyzję o wyrzuceniu obrońcy z boiska.",
-        "Yoro został zwolniony przez sędziego Sama Barrotta za powalenie napastnika Liverpoolu Alexandra Isaka zaledwie osiem minut po niedzielnym meczu.",
-        "Isak wpadł na piłkę, która odbiła się od Matthijsa de Ligta, ale przyjął mocne dotknięcie, co oznaczało, że piłka prawdopodobnie dotrze do bramkarza United, Senne Lammensa, nawet jeśli Yoro nie powalił Szweda.",
-        "Główny trener New United Mauricio Pochettino był wściekły decyzją, która jego zdaniem zmieniła przebieg meczu, który Liverpool wygrał 4:0."
-      ]
-    },
-    {
-      "id": "sport-3-138f23",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Wejście Krzysztofa Piątka i po chwili gol. Tylko spójrz [WIDEO]",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:10",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285977/wejscie-krzysztofa-piatka-i-po-chwili-gol-tylko-spojrz-wideo",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b05f72a62f9a7_96202606.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Krzysztof Piątek tuż po wejściu na murawę asystował przy decydującym golu.",
-        "Jego Al Duhail SC wywalczyło zwycięstwo 3:2 z Neom SC w Gulf Club Champions League.",
-        "Skomentuj Krzysztof Piątek tuż po wejściu na murawę asystował przy decydującym golu."
-      ],
-      "extended_paragraphs": [
-        "Krzysztof Piątek tuż po wejściu na murawę asystował przy decydującym golu. Jego Al Duhail SC wywalczyło zwycięstwo 3:2 z Neom SC w Gulf Club Champions League.",
-        "Skomentuj Krzysztof Piątek tuż po wejściu na murawę asystował przy decydującym golu. Jego Al Duhail SC wywalczyło zwycięstwo 3:2 z Neom SC w Gulf Club Champions League.",
-        "Pierwsza połowa wtorkowego spotkania należała do Al Duhail SC. Gospodarze wysunęli się na prowadzenie w trzeciej minucie, a bramkę otwierającą wynik zdobył Sekou Oumar Yansane. Następnie na listę strzelców wpisał się Rashid Al Abdulla.",
-        "Neom SC nie składało broni. Saudyjczycy świetnie wystartowali w drugiej części gry i doprowadzili do wyrównania po golach Giorgosa Masourasa i Saida Benrahmy.",
-        "Trener Al Duhail SC w 74. minucie wprowadził na murawę Krzysztofa Piątka . Napastnik niemal natychmiast udokumentował swoją obecność."
-      ]
-    },
-    {
-      "id": "sport-5-cec303",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Było nerwowo, ale końcówka należała do nich. Niesamowita passa trwa",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "21:04",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/siatkowka/1285958/bylo-nerwowo-ale-koncowka-nalezala-do-nich-niesamowita-passa-trwa",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b05f76c6fd2d3_00306038.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Zwycięska seria Aluronu CMC Warty Zawiercie wciąż trwa.",
-        "Mistrzowie Polski po raz piąty z rzędu wygrali mecz w Tauron Lidze bez utraty seta.",
-        "Jastrzębie Barkom postawiło jednak bardzo trudne warunki."
-      ],
-      "extended_paragraphs": [
-        "Zwycięska seria Aluronu CMC Warty Zawiercie wciąż trwa. Mistrzowie Polski po raz piąty z rzędu wygrali mecz w Tauron Lidze bez utraty seta. Jastrzębie Barkom postawiło jednak bardzo trudne warunki.",
-        "Skomentuj Zwycięska seria Aluronu CMC Warty Zawiercie wciąż trwa. Mistrzowie Polski po raz piąty z rzędu wygrali mecz w Tauron Lidze bez utraty seta. Jastrzębie Barkom postawiło jednak bardzo trudne warunki.",
-        "Mistrzowie Polski po słabym początku sezonu złapali właściwy rytm i obecnie imponują formą. W siedmiu ostatnich spotkaniach stracili zaledwie dwa sety, a cztery poprzednie mecze zakończyli pewnymi zwycięstwami 3:0. Zupełnie inne nastroje panują w szeregach ich rywali. Po obiecującym starcie rozgrywek wpadli w kryzys, notując serię pięciu porażek z rzędu.",
-        "Od pierwszych piłek nie zanosiło się na niespodziankę. Zawiercianie stopniowo budowali przewagę, która z każdą kolejną akcją stawała się coraz bardziej okazała. Na parkiecie błyszczał Kamil Rychlicki , z którym przeciwnicy nie potrafili sobie poradzić. W końcówce inauguracyjnej partii gospodarze prowadzili już różnicą ośmiu punktów (25:17).",
-        "ZOBACZ WIDEO: Widział blamaż Polaków na własne oczy. \"To pokazuje, w jakim miejscu jesteśmy\""
-      ]
-    },
-    {
-      "id": "sport-7-8dcb97",
+      "id": "sport-3-5ba7c3",
       "entity_tag": "Sport Światowy",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
+      "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Koniec związku po dwóch latach! Finalista US Open rozstał się z piłkarką",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport Światowy (kluczowe liczby: 106 pkt, 97 pkt) o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [
+        "106 pkt",
+        "97 pkt"
+      ],
+      "title": "Są pierwsze dzikie karty do Australian Open. Przyznali je Amerykanie",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "20:55",
+      "time": "23:29",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1285967/koniec-zwiazku-po-dwoch-latach-finalista-us-open-rozstal-sie-z-pilkarka",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b05f185ce25d1_03737577.jpg",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1285987/sa-pierwsze-dzikie-karty-do-australian-open-przyznali-je-amerykanie",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b061ca78bd5b9_14334037.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
-        "Ben Shelton i Trinity Rodman rozstali się po blisko dwóch latach związku - podał \"Daily Mail\".",
-        "Ani tenisista, ani piłkarka Washington Spirit nie skomentowali publicznie tych doniesień.",
-        "Skomentuj Ben Shelton i Trinity Rodman rozstali się po blisko dwóch latach związku - podał \"Daily Mail\"."
+        "Nishesh Basavareddy zapewnił sobie dziką kartę do Australian Open 2027.",
+        "21-letni Amerykanin wygrał pięciotygodniowy Australian Open Wild Card Challenge organizowany przez USTA.",
+        "Wcześniej przepustkę do turnieju w Melbourne wywalczyła Reese Brantmeier."
       ],
       "extended_paragraphs": [
-        "Ben Shelton i Trinity Rodman rozstali się po blisko dwóch latach związku - podał \"Daily Mail\". Ani tenisista, ani piłkarka Washington Spirit nie skomentowali publicznie tych doniesień.",
-        "Skomentuj Ben Shelton i Trinity Rodman rozstali się po blisko dwóch latach związku - podał \"Daily Mail\". Ani tenisista, ani piłkarka Washington Spirit nie skomentowali publicznie tych doniesień.",
-        "Wieści o rozstaniu pojawiły się kilka dni po zakończeniu sezonu przez Bena Sheltona . Amerykanin przegrał w półfinale ATP Finals w Turynie z Carlosem Alcarazem . Po spotkaniu zapytano go, czy zamierza pojawić się na meczu finałowym Washington Spirit. Odpowiedział krótko: - Nie.",
-        "Ta odpowiedź zwróciła uwagę mediów, ponieważ sportowcy wcześniej regularnie wspierali się podczas zawodów. Trinity Rodman przyjeżdżała na mecze tenisisty, a Shelton oglądał jej spotkania piłkarskie. W listopadzie 2025 r. sfotografowano go, gdy pocieszał ją po przegranym finale NWSL z Gotham FC.",
-        "Para zaczęła kontaktować się w mediach społecznościowych. W marcu 2025 r. ich flirtowali na TikTok. Kilka tygodni później Shelton i Rodman potwierdzili związek we wpisie na Instagramie. - Oczywiście bardzo się cieszę i mam nadzieję, że cieszy się z tego także część świata. Skoro wszystko odbywa się publicznie, niewiele mogę z tym zrobić - mówiła Rodman w ESPN."
+        "Nishesh Basavareddy zapewnił sobie dziką kartę do Australian Open 2027. 21-letni Amerykanin wygrał pięciotygodniowy Australian Open Wild Card Challenge organizowany przez USTA. Wcześniej przepustkę do turnieju w Melbourne wywalczyła Reese Brantmeier.",
+        "Skomentuj Nishesh Basavareddy zapewnił sobie dziką kartę do Australian Open 2027. 21-letni Amerykanin wygrał pięciotygodniowy Australian Open Wild Card Challenge organizowany przez USTA. Wcześniej przepustkę do turnieju w Melbourne wywalczyła Reese Brantmeier.",
+        "Amerykańska Federacja Tenisowa (USTA), podobnie jak Francuski Związek Tenisowy (FFT), ma podpisaną umowę ze swoim australijskim odpowiednikiem (Tennis Australia). Dzięki temu może wyznaczać graczy z dzikimi kartami do Australian Open. USTA wskazuje ich w drodze rywalizacji w ramach Australian Open Wild Card Challenge.",
+        "Nishesh Basavareddy przypieczętował zwycięstwo w klasyfikacji generalnej awansem do półfinału turnieju HPP Open rangi ATP Challenger 125 w Helsinkach. Zakończył rywalizację z dorobkiem 126 punktów, wyprzedzając Stefana Kozlova, który zgromadził 106 pkt.",
+        "Trzecie miejsce ex aequo zajęli Aidan Mayo i Sebastian Gorzny - po 97 pkt. Mający polskie korzenie Gorzny mocno awansował w klasyfikacji dzięki triumfowi w turnieju NSW Open ATP Challenger 75 w Sydney. Piąty był Jenson Brooksby z 82 punktami."
       ]
     },
     {
-      "id": "sport-8-868396",
+      "id": "sport-4-4815d6",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "„Tęsknię za byciem na korcie” – Sinner ma „drobną operację” kolana",
-      "original_title": "'I miss being on court' - Sinner has 'minor surgery' on knee",
+      "title": "Bellingham bagatelizuje porównanie Zidane'a po cudownym golu",
+      "original_title": "Bellingham plays down Zidane comparison after wonder goal",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:00",
+      "time": "23:54",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cxlylr3p4q8mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/928b/live/c16e2a00-e748-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Numer dwa na świecie Jannik Sinner twierdzi, że zaledwie siedem tygodni przed rozpoczęciem styczniowego Australian Open przeszedł „drobną operację” kolana.",
-        "Pięciokrotny mistrz Wielkiego Szlema nie brał udziału w zawodach od zwycięstwa w Wimbledonie 12 lipca.",
-        "W poście na Instagramie Sinner poinformował, że przeszedł operację, która miała „poprawić stan pasma biodrowo-piszczelowego” – grubego pasma tkanki biegnącego wzdłuż zewnętrznej strony kolana."
+        "Jose Mourinho twierdzi, że Jude Bellingham jest najlepszym pomocnikiem na świecie, ale gwiazda Realu Madryt bagatelizowała porównania do Zinedine'a Zidane'a.",
+        "Hiszpański reporter piłkarski na Bernabeu Opublikowano 4 godziny temu Menedżer Jose Mourinho określił Jude Bellinghama jako „bez wątpienia najlepszego pomocnika na świecie” po cudownym golu, który zainspirował Real Madryt do wspaniałego występu w drugiej połowie w wygranym 5:1 meczu z PSV.",
+        "Mourinho zdecydował się pozostawić angielskiego pomocnika poza wyjściowym składem na wtorkowy mecz Ligi Mistrzów na Bernabeu – decyzja zrozumiała, biorąc pod uwagę wymagania harmonogramu meczów Madrytu i siłę, jaką dysponuje."
       ],
       "extended_paragraphs": [
-        "Numer dwa na świecie Jannik Sinner twierdzi, że zaledwie siedem tygodni przed rozpoczęciem styczniowego Australian Open przeszedł „drobną operację” kolana.",
-        "Pięciokrotny mistrz Wielkiego Szlema nie brał udziału w zawodach od zwycięstwa w Wimbledonie 12 lipca.",
-        "W poście na Instagramie Sinner poinformował, że przeszedł operację, która miała „poprawić stan pasma biodrowo-piszczelowego” – grubego pasma tkanki biegnącego wzdłuż zewnętrznej strony kolana.",
-        "„W ciągu ostatnich kilku miesięcy wraz z zespołem próbowaliśmy wszystkiego, aby wyleczyć moją kontuzję bez operacji” – napisał 25-latek.",
-        "„Po bardzo obiecujących postępach na początku moje kolano niestety nie zareagowało tak, jak wszyscy oczekiwaliśmy."
+        "Jose Mourinho twierdzi, że Jude Bellingham jest najlepszym pomocnikiem na świecie, ale gwiazda Realu Madryt bagatelizowała porównania do Zinedine'a Zidane'a.",
+        "Hiszpański reporter piłkarski na Bernabeu Opublikowano 4 godziny temu Menedżer Jose Mourinho określił Jude Bellinghama jako „bez wątpienia najlepszego pomocnika na świecie” po cudownym golu, który zainspirował Real Madryt do wspaniałego występu w drugiej połowie w wygranym 5:1 meczu z PSV.",
+        "Mourinho zdecydował się pozostawić angielskiego pomocnika poza wyjściowym składem na wtorkowy mecz Ligi Mistrzów na Bernabeu – decyzja zrozumiała, biorąc pod uwagę wymagania harmonogramu meczów Madrytu i siłę, jaką dysponuje.",
+        "Jednak po tym, jak jego zespół przegrywał do przerwy 1:0 z holenderską drużyną, Mourinho wiedział, że potrzebne są zmiany.",
+        "„To niesamowity zawodnik, który ma wszystko” – powiedział portugalski menedżer. „Ma fizyczność, rozumie grę, ma absolutnie wszystko. Dzisiaj zmienił sposób, w jaki ewoluowała gra”."
+      ]
+    },
+    {
+      "id": "sport-5-7274db",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 921,25 pkt) o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [
+        "921,25 pkt"
+      ],
+      "title": "Świetne wieści dla reprezentacji Polski. Jest awans",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:54",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1285986/swietne-wiesci-ws-reprezentacji-polski-jest-awans",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0614863cafc8_90526793.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Reprezentacja Polski awansowała w najnowszym rankingu narodów Pucharu Billie Jean King.",
+        "Biało-Czerwone przesunęły się o jedną pozycję i zajmują obecnie ósme miejsce.",
+        "Skomentuj Reprezentacja Polski awansowała w najnowszym rankingu narodów Pucharu Billie Jean King."
+      ],
+      "extended_paragraphs": [
+        "Reprezentacja Polski awansowała w najnowszym rankingu narodów Pucharu Billie Jean King. Biało-Czerwone przesunęły się o jedną pozycję i zajmują obecnie ósme miejsce.",
+        "Skomentuj Reprezentacja Polski awansowała w najnowszym rankingu narodów Pucharu Billie Jean King. Biało-Czerwone przesunęły się o jedną pozycję i zajmują obecnie ósme miejsce.",
+        "We Włocławku osłabiona brakiem największych gwiazd reprezentacja Polski stoczyła wyrównany bój ze Szwecją. Ostatecznie Biało-Czerwone pokonały tenisistki ze Skandynawii 3-2, a o punkty postarały się Martyna Kubka w singlu oraz deblu z Weroniką Falkowską , a także Linda Klimovicova .",
+        "Reprezentacja Polski awansowała do przyszłorocznych kwalifikacji do turnieju finałowego Pucharu Billie Jean King. Już w grudniu dowie się, z kim przyjdzie jej rywalizować w kwietniu 2027 roku.",
+        "Tymczasem organizatorzy Pucharu Billie Jean King opublikowali we wtorek najnowszy ranking narodów. To zestawienie uwzględnia wyniki z ostatnich czterech sezonów i ma znaczenie podczas losowania poszczególnych rund (na jego bazie drużyny są rozstawiane bądź nierozstawiane)."
+      ]
+    },
+    {
+      "id": "sport-1-b053e2",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Gdzie oglądać Paris Saint-Germain - AS Roma? Czy będzie stream online?",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "04:00",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1127486/gdzie-ogladac-paris-saint-germain-as-roma-czy-bedzie-stream-online",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0453762a7058_47406892.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Paris Saint-Germain podejmie AS Romę w świetnie zapowiadającym się meczu piątej kolejki Ligi Mistrzów.",
+        "Paryżanie są liderami fazy ligowej, ale Rzymianie prezentują znakomitą formę w Serie A.",
+        "Oglądaj na żywo na TVP1 w Pilocie WP."
+      ],
+      "extended_paragraphs": [
+        "Paris Saint-Germain podejmie AS Romę w świetnie zapowiadającym się meczu piątej kolejki Ligi Mistrzów. Paryżanie są liderami fazy ligowej, ale Rzymianie prezentują znakomitą formę w Serie A. Oglądaj na żywo na TVP1 w Pilocie WP.",
+        "Skomentuj Paris Saint-Germain podejmie AS Romę w świetnie zapowiadającym się meczu piątej kolejki Ligi Mistrzów. Paryżanie są liderami fazy ligowej, ale Rzymianie prezentują znakomitą formę w Serie A. Oglądaj na żywo na TVP1 w Pilocie WP.",
+        "Na Parc des Princes dojdzie do jednego z najciekawszych spotkań piątej kolejki Ligi Mistrzów. Broniące trofeum Paris Saint-Germain zmierzy się z AS Romą . Obie drużyny imponują formą w krajowych rozgrywkach, ale ich sytuacja w europejskich pucharach wygląda zupełnie inaczej.",
+        "PSG znakomicie rozpoczęło rywalizację w fazie ligowej. Paryżanie wygrali wszystkie cztery spotkania, zdobyli 12 punktów i przed rozpoczęciem kolejki zajmują pierwsze miejsce. AS Roma ma cztery punkty i plasuje się dopiero na 20. pozycji.",
+        "Mecz Paris Saint-Germain - AS Roma odbędzie się w środę, 25 listopada 2026 roku. Początek spotkania zaplanowano na godzinę 21:00. Transmisja na kanale TVP1 rozpocznie się pięć minut wcześniej, o 20:55."
+      ]
+    },
+    {
+      "id": "sport-2-a791fd",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "„Podaj, podaj, zwolnij, zwolnij” – zręczna maszyna Man City zatrzymuje się",
+      "original_title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:17",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Zręczna machina piłkarska Manchesteru City zaczyna się zatrzymywać, co pokazał mozolny remis w Lidze Mistrzów z Napoli.",
+        "Reporter Manchesteru City na stadionie Etihad Opublikowano 5 godzin temu Zręczna machina piłkarska Manchesteru City zaczyna się zatrzymywać.",
+        "Szybkie podania i akcje z krawędzi fotela, które były widoczne przez tak długi czas pod rządami byłego menedżera Pepa Guardioli, miały zostać kontynuowane przez urzędującego Enzo Marescę."
+      ],
+      "extended_paragraphs": [
+        "Zręczna machina piłkarska Manchesteru City zaczyna się zatrzymywać, co pokazał mozolny remis w Lidze Mistrzów z Napoli.",
+        "Reporter Manchesteru City na stadionie Etihad Opublikowano 5 godzin temu Zręczna machina piłkarska Manchesteru City zaczyna się zatrzymywać.",
+        "Szybkie podania i akcje z krawędzi fotela, które były widoczne przez tak długi czas pod rządami byłego menedżera Pepa Guardioli, miały zostać kontynuowane przez urzędującego Enzo Marescę.",
+        "Rozpoczęło się bezbłędnie pod wodzą Włocha, wygrywając osiem pierwszych meczów, ale to płynne działanie zaczyna zamieniać się w napięty i zwyczajny występ.",
+        "Podobnie jak w przypadku sobotniego remisu 1:1 z Fulham, jęki i jęki wypełniły raczej płaski stadion Etihad, gdy kibice gospodarzy obserwowali, jak ich drużyna walczy o remis 2:2 Ligi Mistrzów z Napoli."
+      ]
+    },
+    {
+      "id": "sport-6-d9e45b",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Arteta mówi, że Arsenal potrzebuje więcej szczęścia, aby kończyć mecze",
+      "original_title": "Arteta says Arsenal need more luck to kill off games",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:44",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Arsenal potrzebuje więcej szczęścia, aby kończyć mecze, mówi menadżer Mikel Arteta po remisie z Borussią Dortmund.",
+        "Reporter Arsenalu na stadionie Emirates Opublikowano 4 godziny temu Może to pojawiać się bardziej jako temat niż poważny problem, ale w ostatnich tygodniach Arsenal nie może kończyć meczów, gdy jest na szczycie.",
+        "W ciągu ostatnich dziewięciu występów we wszystkich rozgrywkach tylko raz Kanonierzy wygrali mecz różnicą więcej niż jednego gola."
+      ],
+      "extended_paragraphs": [
+        "Arsenal potrzebuje więcej szczęścia, aby kończyć mecze, mówi menadżer Mikel Arteta po remisie z Borussią Dortmund.",
+        "Reporter Arsenalu na stadionie Emirates Opublikowano 4 godziny temu Może to pojawiać się bardziej jako temat niż poważny problem, ale w ostatnich tygodniach Arsenal nie może kończyć meczów, gdy jest na szczycie.",
+        "W ciągu ostatnich dziewięciu występów we wszystkich rozgrywkach tylko raz Kanonierzy wygrali mecz różnicą więcej niż jednego gola.",
+        "Ostatnia frustracja pojawiła się podczas wtorkowego remisu 1:1 z Borussią Dortmund, choć potrzebna jest perspektywa. Arsenal może uznać to za stratę dwóch punktów po przerwie, ale pozostaje niepokonany w obecnej fazie Ligi Mistrzów i nie przegrał na tym etapie rozgrywek od ponad dwóch lat.",
+        "Jednak ostatnio, pomimo dominacji w dużej części meczów, Arsenal miał okresy, w których przegrywał i pozwalał przeciwnikom wrócić do gry."
+      ]
+    },
+    {
+      "id": "sport-7-291436",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 80%) o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [
+        "80%"
+      ],
+      "title": "Błyskawiczny rajd Pietuszewskiego w Lidze Mistrzów. Eksperci pieją z zachwytu",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:28",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1285984/blyskawiczny-rajd-pietuszewskiego-w-lidze-mistrzow-eksperci-pieja-z-zachwytu",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b060d7f2265d3_53736254.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Oskar Pietuszewski potrzebował niespełna dwóch minut, by przesądzić o bramce dla FC Porto w meczu Ligi Mistrzów z Feyenoordem (1:0).",
+        "Dynamiczny rajd polskiego skrzydłowego zachwycił dziennikarzy i komentatorów na platformie X.",
+        "Skomentuj Oskar Pietuszewski potrzebował niespełna dwóch minut, by przesądzić o bramce dla FC Porto w meczu Ligi Mistrzów z Feyenoordem (1:0)."
+      ],
+      "extended_paragraphs": [
+        "Oskar Pietuszewski potrzebował niespełna dwóch minut, by przesądzić o bramce dla FC Porto w meczu Ligi Mistrzów z Feyenoordem (1:0). Dynamiczny rajd polskiego skrzydłowego zachwycił dziennikarzy i komentatorów na platformie X.",
+        "Skomentuj Oskar Pietuszewski potrzebował niespełna dwóch minut, by przesądzić o bramce dla FC Porto w meczu Ligi Mistrzów z Feyenoordem (1:0). Dynamiczny rajd polskiego skrzydłowego zachwycił dziennikarzy i komentatorów na platformie X.",
+        "Reprezentant Polski od pierwszego gwizdka meczu Ligi Mistrzów w Rotterdamie zaprezentował bezkompromisowy futbol.",
+        "Oskar Pietuszewski już w 2. minucie rozbujał defensywę Feyenoordu na lewym skrzydle, dynamicznie wbiegł w pole karne i dograł płasko wzdłuż bramki (więcej TUTAJ>> ).",
+        "Choć do siatki piłkę z bliska wbił naciskany rywal Oussama Targhalline (zapisano mu gola samobójczego), nikt nie miał wątpliwości, kto był prawdziwym architektem prowadzenia dla FC Porto w starciu z Feyenoord Rotterdam (1:0 - więcej TUTAJ>> )."
+      ]
+    },
+    {
+      "id": "sport-8-616f5d",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Pochettino wywołuje wściekłość Man Utd po orzeczeniu czerwonej kartki Yoro",
+      "original_title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:05",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Manchester United i Mauricio Pochettino są wściekli na sposób, w jaki VAR John Brooks i szef sędziów Howard Webb potraktowali czerwoną kartkę Leny'ego Yoro Reporter Manchesteru United w Lizbonie Opublikowano 24 listopada 2026 Główny trener Manchesteru United Mauricio Pochettino zakwestionował kompetencje sędziów asystentów wideo po tym, jak Związek Piłki Nożnej unieważnił czerwoną kartkę obrońcy Leny'ego Yoro.",
+        "Yoro został wyrzucony z boiska osiem minut po niedzielnej porażce United z Liverpoolem 4:0 po tym, jak powalił Aleksandra Isaka tuż poza polem karnym United.",
+        "Źródła United mówią, że mają niezbity dowód, że Isak nie mógł dosięgnąć piłki po mocnym dotknięciu, że piłka wpadłaby do bramkarza Senne Lammensa, a Yoro nie powinien zostać ukarany za odmowę zdobycia bramki."
+      ],
+      "extended_paragraphs": [
+        "Manchester United i Mauricio Pochettino są wściekli na sposób, w jaki VAR John Brooks i szef sędziów Howard Webb potraktowali czerwoną kartkę Leny'ego Yoro",
+        "Reporter Manchesteru United w Lizbonie Opublikowano 24 listopada 2026 Główny trener Manchesteru United Mauricio Pochettino zakwestionował kompetencje sędziów asystentów wideo po tym, jak Związek Piłki Nożnej unieważnił czerwoną kartkę obrońcy Leny'ego Yoro.",
+        "Yoro został wyrzucony z boiska osiem minut po niedzielnej porażce United z Liverpoolem 4:0 po tym, jak powalił Aleksandra Isaka tuż poza polem karnym United.",
+        "Źródła United mówią, że mają niezbity dowód, że Isak nie mógł dosięgnąć piłki po mocnym dotknięciu, że piłka wpadłaby do bramkarza Senne Lammensa, a Yoro nie powinien zostać ukarany za odmowę zdobycia bramki.",
+        "Pochettino powiedział, że współczuje sędziemu Samowi Barrottowi, ale jest wściekły z powodu rozwoju tej sytuacji."
       ]
     }
   ],
@@ -2137,41 +2206,6 @@
         "René van Vlerken, CEO Euronext Amsterdam: Europa wkracza w decydującą dekadę. Musimy sfinansować reindustrializację, transformację energetyczną, inwestycje w obronność oraz rozwój kolejnego pokolenia europejskich liderów technologicznych. Problem nie polega na tym, że Europie brakuje kapitału. Dysponujemy jednymi z największych na świecie zasobów oszczędności. Wyzwaniem jest skuteczniejsze kierowanie tych pieniędzy na inwestycje w Europie.",
         "Dlatego strategicznym priorytetem Euronextu jest wspieranie budowy prawdziwej unii oszczędności i inwestycji oraz rzeczywiście zintegrowanego europejskiego rynku kapitałowego. Europa potrzebuje większych i bardziej płynnych rynków, mniejszych barier dla inwestycji transgranicznych oraz sprawniejszej infrastruktury.",
         "W Euronext pokazaliśmy już, jakie korzyści może przynieść integracja. Obecnie grupa łączy osiem rynków w ramach modelu federacyjnego, który pozwala zachować silne lokalne ekosystemy, a jednocześnie zapewnia wspólną europejską pulę płynności, jednolitą technologię i zintegrowaną infrastrukturę rozliczeniową."
-      ]
-    },
-    {
-      "id": "rynki-2-dfb2d7",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 3,4 miliarda dolarów, 3 miliardy dolarów) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,4 miliarda dolarów",
-        "3 miliardy dolarów"
-      ],
-      "title": "Dzienny wolumen handlu „perps” Kalshi zaczyna przewyższać rynki prognoz",
-      "original_title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:34",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108310000-1779301088587-gettyimages-2273141461-AFP_A9DR764.jpeg?v=1779301207&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
-        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
-        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana."
-      ],
-      "extended_paragraphs": [
-        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
-        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
-        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana. Tego samego dnia przekroczyło to teoretyczny wolumen wynoszący około 3 miliardy dolarów dla rynków prognostycznych Kalshi.",
-        "Perps to kontrakty typu futures, które nie mają terminu wygaśnięcia, a inwestorzy nie muszą posiadać instrumentu bazowego. Zamiast tego kontrakty stale śledzą cenę składnika aktywów, a płatności finansowe zapewniają zgodność ceny kontraktu z ceną rynkową. Wypłaty środków dokonywane są okresowo pomiędzy posiadaczami krótkich i długich pozycji.",
-        "Pewnego dnia we wrześniu handel perpsami przekroczył kontrakty związane z wydarzeniami, ale w piątek drugi dzień przekroczył wolumen rynków prognoz. Teraz Kalshi spodziewa się, że te wyniki się utrzymają, po wprowadzeniu klientów powiązanych z większą liczbą indywidualnych akcji. Na przykład w poniedziałek Kalshi uruchomił kontrakty powiązane z Anthropic."
       ]
     },
     {
@@ -2211,35 +2245,38 @@
       ]
     },
     {
-      "id": "rynki-4-ec7e9c",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
+      "id": "rynki-4-dfb2d7",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [],
-      "title": "Utah wycofuje zarzuty karne przeciwko założycielom Kalshi po tym, jak firma zawiesiła działalność w tym stanie",
-      "original_title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 3,4 miliarda dolarów, 3 miliardy dolarów) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3,4 miliarda dolarów",
+        "3 miliardy dolarów"
+      ],
+      "title": "Dzienny wolumen handlu „perps” Kalshi zaczyna przewyższać rynki prognoz",
+      "original_title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:45",
+      "time": "23:03",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108344436-17858457182026-08-04t102722z_1664165591_rc2mrmat3b8n_rtrmadp_0_usa-prediction-markets.jpeg?v=1787061386&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108310000-1779301088587-gettyimages-2273141461-AFP_A9DR764.jpeg?v=1779301207&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Współzałożyciele platformy rynku prognostycznego mieli stanąć przed stanowym sądem rejonowym w grudniu.",
-        "We wtorek stan Utah oddalił zarzuty karne postawione Kalshi i jego dwóm współzałożycielom w związku z poniedziałkową decyzją platformy rynku prognostycznego o zawieszeniu działalności w tym stanie.",
-        "Pierwotnie 28 października stan przedstawił 14 zarzutów karnych firmie i założycielom Tarekowi Mansourowi i Luanie Lopes Lara, utrzymując, że Kalshi prowadził nielegalną działalność hazardową w stanie."
+        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
+        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
+        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana."
       ],
       "extended_paragraphs": [
-        "Współzałożyciele platformy rynku prognostycznego mieli stanąć przed stanowym sądem rejonowym w grudniu.",
-        "We wtorek stan Utah oddalił zarzuty karne postawione Kalshi i jego dwóm współzałożycielom w związku z poniedziałkową decyzją platformy rynku prognostycznego o zawieszeniu działalności w tym stanie.",
-        "Pierwotnie 28 października stan przedstawił 14 zarzutów karnych firmie i założycielom Tarekowi Mansourowi i Luanie Lopes Lara, utrzymując, że Kalshi prowadził nielegalną działalność hazardową w stanie.",
-        "Komisja ds. handlu kontraktami terminowymi na towary (Commodity Futures Trading Commission) – federalny organ regulacyjny rynków prognostycznych, który uważa się za jedyny organ mogący opracowywać zasady dotyczące rozwijającej się branży – pozwała Utah dzień przed ogłoszeniem przez stan zarzutów.",
-        "Z dokumentów sądowych wynika, że ​​Mansour i Lara mieli stawić się przed sądem rejonowym w stanie Utah 4 grudnia."
+        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
+        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
+        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana. Tego samego dnia przekroczyło to teoretyczny wolumen wynoszący około 3 miliardy dolarów dla rynków prognostycznych Kalshi.",
+        "Perps to kontrakty typu futures, które nie mają terminu wygaśnięcia, a inwestorzy nie muszą posiadać instrumentu bazowego. Zamiast tego kontrakty stale śledzą cenę składnika aktywów, a płatności finansowe zapewniają zgodność ceny kontraktu z ceną rynkową. Wypłaty środków dokonywane są okresowo pomiędzy posiadaczami krótkich i długich pozycji.",
+        "Pewnego dnia we wrześniu handel perpsami przekroczył kontrakty związane z wydarzeniami, ale w piątek drugi dzień przekroczył wolumen rynków prognoz. Teraz Kalshi spodziewa się, że te wyniki się utrzymają, po wprowadzeniu klientów powiązanych z większą liczbą indywidualnych akcji. Na przykład w poniedziałek Kalshi uruchomił kontrakty powiązane z Anthropic."
       ]
     },
     {
@@ -2279,38 +2316,35 @@
       ]
     },
     {
-      "id": "rynki-6-3dcb63",
-      "entity_tag": "NBP / RPP",
-      "sector": "Polityka Pieniężna",
+      "id": "rynki-6-ec7e9c",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Wpływ na kapitał: Korzystne otoczenie dla sektora bankowego i wyceny PLN (kluczowe liczby: 2%, 100%); stabilizuje oczekiwania dotyczące kosztu pieniądza.",
-      "key_metrics": [
-        "2%",
-        "100%"
-      ],
-      "title": "John Williams z Fed wskazuje, że prawdopodobnie „z biegiem czasu” podwyższą stopy procentowe, aby zaradzić inflacji",
-      "original_title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Utah wycofuje zarzuty karne przeciwko założycielom Kalshi po tym, jak firma zawiesiła działalność w tym stanie",
+      "original_title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:33",
+      "time": "20:45",
       "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108229868-1763741665578-108229868-1763730430401-gettyimages-2233025951-WILLIAMS_ECNY.jpeg?v=1772548607&amp;w=1920&amp;h=1080",
+      "source_url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108344436-17858457182026-08-04t102722z_1664165591_rc2mrmat3b8n_rtrmadp_0_usa-prediction-markets.jpeg?v=1787061386&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Markets",
       "lead_story": false,
       "summary_points": [
-        "Wpływowy bankier centralny wyraził pewność, że inflacja zbliży się do celu Fed na poziomie 2% w 2027 r. Prezes Rezerwy Federalnej Nowego Jorku, John Williams, powiedział w poniedziałek, że decydenci mają więcej pracy do wykonania, aby zapanować nad inflacją, choć wskazał, że dalsze działania mogą nastąpić z czasem, w miarę dalszego wzrostu gospodarki.",
-        "W uwagach zgodnych z poprzednimi wypowiedziami wpływowy bankier centralny wyraził pewność, że inflacja zbliży się do celu Fed na poziomie 2% w 2027 r., zanim osiągnie cel w roku następnym.",
-        "Powiedział również, że chociaż sztuczna inteligencja wywiera presję na ceny, „niewiele wskazuje na to”, że będzie ona źródłem bardziej trwałej inflacji."
+        "Współzałożyciele platformy rynku prognostycznego mieli stanąć przed stanowym sądem rejonowym w grudniu.",
+        "We wtorek stan Utah oddalił zarzuty karne postawione Kalshi i jego dwóm współzałożycielom w związku z poniedziałkową decyzją platformy rynku prognostycznego o zawieszeniu działalności w tym stanie.",
+        "Pierwotnie 28 października stan przedstawił 14 zarzutów karnych firmie i założycielom Tarekowi Mansourowi i Luanie Lopes Lara, utrzymując, że Kalshi prowadził nielegalną działalność hazardową w stanie."
       ],
       "extended_paragraphs": [
-        "Wpływowy bankier centralny wyraził pewność, że inflacja zbliży się do celu Fed na poziomie 2% w 2027 r.",
-        "Prezes Rezerwy Federalnej Nowego Jorku, John Williams, powiedział w poniedziałek, że decydenci mają więcej pracy do wykonania, aby zapanować nad inflacją, choć wskazał, że dalsze działania mogą nastąpić z czasem, w miarę dalszego wzrostu gospodarki.",
-        "W uwagach zgodnych z poprzednimi wypowiedziami wpływowy bankier centralny wyraził pewność, że inflacja zbliży się do celu Fed na poziomie 2% w 2027 r., zanim osiągnie cel w roku następnym. Powiedział również, że chociaż sztuczna inteligencja wywiera presję na ceny, „niewiele wskazuje na to”, że będzie ona źródłem bardziej trwałej inflacji.",
-        "„Ale przywrócenie inflacji do 2% jest w 100% niezbędne” – stwierdził w uwagach wygłoszonych na Uniwersytecie Mount Saint Vincent w Nowym Jorku. „Musimy z czasem podjąć działania, które zagwarantują, że inflacja wróci do naszego celu na poziomie 2% w odpowiednim czasie i w sposób trwały. Nadal pozostaje wiele do zrobienia, aby tego dokonać”.",
-        "Komentarze pojawiają się w delikatnym momencie dla polityki pieniężnej, ponieważ gospodarka nadal rośnie, a inflacja utrzymuje się znacznie powyżej celu Fed."
+        "Współzałożyciele platformy rynku prognostycznego mieli stanąć przed stanowym sądem rejonowym w grudniu.",
+        "We wtorek stan Utah oddalił zarzuty karne postawione Kalshi i jego dwóm współzałożycielom w związku z poniedziałkową decyzją platformy rynku prognostycznego o zawieszeniu działalności w tym stanie.",
+        "Pierwotnie 28 października stan przedstawił 14 zarzutów karnych firmie i założycielom Tarekowi Mansourowi i Luanie Lopes Lara, utrzymując, że Kalshi prowadził nielegalną działalność hazardową w stanie.",
+        "Komisja ds. handlu kontraktami terminowymi na towary (Commodity Futures Trading Commission) – federalny organ regulacyjny rynków prognostycznych, który uważa się za jedyny organ mogący opracowywać zasady dotyczące rozwijającej się branży – pozwała Utah dzień przed ogłoszeniem przez stan zarzutów.",
+        "Z dokumentów sądowych wynika, że ​​Mansour i Lara mieli stawić się przed sądem rejonowym w stanie Utah 4 grudnia."
       ]
     },
     {
@@ -2348,6 +2382,38 @@
       ]
     },
     {
+      "id": "rynki-2-3742f7",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Powrót Jensena Huanga do Nvidii pokazuje, że amerykańsko-chiński wyścig AI to coś więcej niż tylko chipy",
+      "original_title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "01:13",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Powrót Jensena Huanga na stanowisko dyrektora generalnego Nvidii pokazuje, że amerykańsko-chiński wyścig w zakresie sztucznej inteligencji to nie tylko półprzewodniki, ale także talenty technologiczne.",
+        "PEKIN — Powrót Jensena Huanga do Nvidii na stanowisko dyrektora generalnego podkreśla, że ​​amerykańsko-chiński wyścig w zakresie sztucznej inteligencji toczy się nie tylko o półprzewodniki, ale także o talenty technologiczne.",
+        "„Musimy chronić naszych geniuszy, a on jest niewątpliwie geniuszem” – Donald Trump powiedział CNBC o swojej interwencji mającej na celu sprowadzenie Huanga z powrotem."
+      ],
+      "extended_paragraphs": [
+        "Powrót Jensena Huanga na stanowisko dyrektora generalnego Nvidii pokazuje, że amerykańsko-chiński wyścig w zakresie sztucznej inteligencji to nie tylko półprzewodniki, ale także talenty technologiczne.",
+        "PEKIN — Powrót Jensena Huanga do Nvidii na stanowisko dyrektora generalnego podkreśla, że ​​amerykańsko-chiński wyścig w zakresie sztucznej inteligencji toczy się nie tylko o półprzewodniki, ale także o talenty technologiczne.",
+        "„Musimy chronić naszych geniuszy, a on jest niewątpliwie geniuszem” – Donald Trump powiedział CNBC o swojej interwencji mającej na celu sprowadzenie Huanga z powrotem. W przeciwnym razie – ostrzegł Trump – założyciel giganta chipów AI mógłby hipotetycznie podjąć pracę w Chinach.",
+        "Obawy odzwierciedlają sposób, w jaki chińskie firmy zajmujące się sztuczną inteligencją zmniejszają różnicę w stosunku do swoich amerykańskich odpowiedników, nie tylko pod względem modeli, ale obecnie pod względem talentów inżynieryjnych i badawczych. Według badania Carnegie Endowment Chiny prześcignęły Stany Zjednoczone pod względem udziału światowych talentów w zakresie sztucznej inteligencji w ciągu zaledwie trzech lat.",
+        "Nvidia „była wstrząśnięta bez zmiany choćby jednego chipa lub modelu” – powiedział Winston Ma, inwestor w sztuczną inteligencję i adiunkt prawa na Uniwersytecie Nowojorskim. „Ktokolwiek zbuduje i utrzyma tę warstwę ludzką, utrzyma resztę stosu”."
+      ]
+    },
+    {
       "id": "rynki-8-0eb164",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
@@ -2370,13 +2436,13 @@
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
-        "We wtorek raporty o wynikach sprzedaży detalicznej wskazywały na szereg czynników stojących za dobrymi wynikami, w tym odporność konsumentów i lepszą realizację zamówień.",
-        "Sprzedawcy detaliczni, którzy niegdyś borykali się z trudnościami, wkraczają w kwartał świąteczny z lepszymi wynikami i dynamiką sprzedaży, gdy wysiłki zmierzające do poprawy sytuacji zaczynają odbijać się echem wśród kupujących.",
+        "We wtorek raporty o wynikach sprzedaży detalicznej wskazywały na szereg czynników stojących za dobrymi wynikami, w tym odporność konsumentów i lepszą realizację.",
+        "Sprzedawcy detaliczni, którzy niegdyś borykali się z trudnościami, wkraczają w kwartał świąteczny z lepszą wydajnością i dynamiką sprzedaży, gdy wysiłki zmierzające do poprawy sytuacji zaczynają cieszyć się kupującymi.",
         "W kilku wtorkowych raportach o zarobkach wskazano na szereg czynników stojących za dobrymi wynikami, w tym odporny konsument, lepsza realizacja zamówień i popyt na właściwe produkty po właściwej cenie."
       ],
       "extended_paragraphs": [
-        "We wtorek raporty o wynikach sprzedaży detalicznej wskazywały na szereg czynników stojących za dobrymi wynikami, w tym odporność konsumentów i lepszą realizację zamówień.",
-        "Sprzedawcy detaliczni, którzy niegdyś borykali się z trudnościami, wkraczają w kwartał świąteczny z lepszymi wynikami i dynamiką sprzedaży, gdy wysiłki zmierzające do poprawy sytuacji zaczynają odbijać się echem wśród kupujących.",
+        "We wtorek raporty o wynikach sprzedaży detalicznej wskazywały na szereg czynników stojących za dobrymi wynikami, w tym odporność konsumentów i lepszą realizację.",
+        "Sprzedawcy detaliczni, którzy niegdyś borykali się z trudnościami, wkraczają w kwartał świąteczny z lepszą wydajnością i dynamiką sprzedaży, gdy wysiłki zmierzające do poprawy sytuacji zaczynają cieszyć się kupującymi.",
         "W kilku wtorkowych raportach o zarobkach wskazano na szereg czynników stojących za dobrymi wynikami, w tym odporny konsument, lepsza realizacja zamówień i popyt na właściwe produkty po właściwej cenie.",
         "Kohl's odnotował porównywalny wzrost sprzedaży o 1,2% w okresie zakończonym 31 października i podniósł prognozę na cały rok, ponieważ dyrektor generalny Michael Bender stwierdził, że klienci „pozostali odporni”, ale „migrują w stronę wartości poprzez swoje zakupy”.",
         "Doskonalenie powiązał z pracą firmy nad asortymentem produktów, doświadczeniem sklepu i wartością."

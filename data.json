@@ -3,10 +3,10 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.329",
-    "last_updated": "2026-11-25 14:43",
+    "last_updated": "2026-11-25 23:25",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 18,
-    "foreign_translated_count": 20,
+    "foreign_translated_count": 19,
     "breaking_banner": {
       "enabled": false,
       "label": "PILNE",
@@ -81,17 +81,17 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$57,664",
-      "change": "-4.56%",
-      "is_positive": false
+      "price": "$60,184",
+      "change": "+0.36%",
+      "is_positive": true
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,621",
-      "change": "-4.35%",
-      "is_positive": false
+      "price": "$1,688",
+      "change": "+0.41%",
+      "is_positive": true
     },
     {
       "symbol": "WIG20",
@@ -910,7 +910,78 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-1146a2",
+      "id": "rynki-1-7bfe42",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 2,84 mld zł, 2,38 mld zł, 3,85 proc.) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "2,84 mld zł",
+        "2,38 mld zł",
+        "3,85 proc."
+      ],
+      "title": "Orlen, KGHM i PKO liderami wyprzedaży dużych spółek. Ich indeks znów poniżej 4000 pkt i na poziomie z września",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:18",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Orlen-KGHM-i-PKO-liderami-wyprzedazy-duzych-spolek-WIG20-znow-ponizej-4000-pkt-i-na-poziomie-z-wrzesnia-9235097.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/4/7/89fdbae91e6dad-948-568-5-0-1080-648.png",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Środowa sesja na GPW znów skończyła sporą wyprzedaży, która całkowicie wymazała poniedziałkowe odbicie i zepchnęła główne indeksy na wielomiesięczne minima.",
+        "Nastroje na krajowym parkiecie nawiązywała do słabego sentymentu na globalnych rynkach, choć cieniem kładła się też słabość polskiej waluty.",
+        "/ Ilustracja wygenerowana przy użyciu AI Krajowe indeksy kontynuowały spadki z poprzedniego dnia i znalazły się już na niższych poziomach niż w piątek, z których rynek próbował zainicjować w poniedziałek korekcyjne odbicie sięgające kilku procent."
+      ],
+      "extended_paragraphs": [
+        "Środowa sesja na GPW znów skończyła sporą wyprzedaży, która całkowicie wymazała poniedziałkowe odbicie i zepchnęła główne indeksy na wielomiesięczne minima. Nastroje na krajowym parkiecie nawiązywała do słabego sentymentu na globalnych rynkach, choć cieniem kładła się też słabość polskiej waluty.",
+        "/ Ilustracja wygenerowana przy użyciu AI Krajowe indeksy kontynuowały spadki z poprzedniego dnia i znalazły się już na niższych poziomach niż w piątek, z których rynek próbował zainicjować w poniedziałek korekcyjne odbicie sięgające kilku procent. W przypadku indeksu największych spółek tamta zwyżka wyniosła 3,85 proc., jednak całość tego ruchu została już wymazana z nawiązką.",
+        "Na zamknięciu środowych notowań WIG20 spadł o 1,87 proc. i po raz pierwszy od początku września znalazł się poniżej psychologicznej bariery 4000 punktów. Szeroki indeks WIG zniżkował o 1,55 proc., schodząc do poziomu 150 377,85. pkt. Słabość była widoczna również w segmencie małych i średnich spółek, choć skala przeceny była tam nieco łagodniejsza – mWIG40 poszedł w dół o 0,74 proc. do 10 172,46 pkt., natomiast sWIG80 stracił 1 proc. i zakończył dzień na poziomie 27 602,08 pkt. Aktywność inwestorów podliczono na 2,84 mld zł na szerokim rynku z czego 2,38 mld zł koncentrowała się przede wszystkim na najbardziej płynnych walorach spółek z indeksu blue chipów.",
+        "Wall Street w odwrocie przed Świętem Dziękczynienia, Europa pod kreską Pogorszenie sentymentu w Warszawie wpisywało się w szerszy obraz z rynków bazowych, choć skala spadków na GPW była wyraźnie głębsza niż na większości parkietów Starego Kontynentu. W momencie zamknięcia sesji przy Książęcej w Europie panowały mieszane, ale ostrożne nastroje. Brytyjski FTSE 100 oraz francuski CAC40 traciły około 0,3, podczas gdy niemiecki DAX tracił 1,1 proc. Znacznie gorzej radziły sobie giełdy południa Europy oraz naszego regionu – główne indeksy w Mediolanie i Madrycie zniżkowały o ponad 1,5 proc., a austriacki ATX taniał o ponad 2,7 proc.",
+        "Prawdziwe trzęsienie ziemi obserwowano jednak za oceanem. Na Wall Street wyprzedaż spółek technologicznych wyraźnie przyspieszyła tuż przed dniem wolnym – w czwartek w Stanach Zjednoczonych obchodzone jest Święto Dziękczynienia, a w piątek sesja będzie skrócona, co skłoniło inwestorów do gwałtownego ograniczania ryzyka. W chwili kończenia handlu w Warszawie amerykański S&P 500 szedł w dół o 2,7 proc., natomiast technologiczny Nasdaq Composite tracił aż 4,1 proc."
+      ]
+    },
+    {
+      "id": "rynki-2-08f5c0",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 28%, 50%) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "28%",
+        "50%"
+      ],
+      "title": "Rynki prognostyczne przesuwają oczekiwania dotyczące IPO OpenAI w dalszej części roku 2027",
+      "original_title": "Prediction markets push OpenAI IPO expectations later into 2027",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "17:08",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Traderzy Kalshi zmniejszyli szanse, że OpenAI potwierdzi IPO przed czerwcem 2027 r., ponieważ akcje AI i powiązane rynki osłabiły się.",
+        "Chwiejne wyniki Anthropic na rynkach publicznych od czasu ich debiutu w zeszłym tygodniu oraz ciągła wyprzedaż technologii mogą zmienić perspektywy, kiedy rynki prognostyczne uznają, że OpenAI zostanie upublicznione.",
+        "Spekulanci na platformie rynku prognostycznego Kalshi uważają, że prawdopodobieństwo, że deweloper ChatGPT oficjalnie ogłosi pierwszą ofertę publiczną do czerwca 2027 r., wynosi około 28%."
+      ],
+      "extended_paragraphs": [
+        "Traderzy Kalshi zmniejszyli szanse, że OpenAI potwierdzi IPO przed czerwcem 2027 r., ponieważ akcje AI i powiązane rynki osłabiły się.",
+        "Chwiejne wyniki Anthropic na rynkach publicznych od czasu ich debiutu w zeszłym tygodniu oraz ciągła wyprzedaż technologii mogą zmienić perspektywy, kiedy rynki prognostyczne uznają, że OpenAI zostanie upublicznione.",
+        "Spekulanci na platformie rynku prognostycznego Kalshi uważają, że prawdopodobieństwo, że deweloper ChatGPT oficjalnie ogłosi pierwszą ofertę publiczną do czerwca 2027 r., wynosi około 28%. Ostatnio na początku tego miesiąca liczba ta przekraczała 50%.",
+        "Nawet do października 2027 r. szanse na to, że prywatna firma – ostatnio przeprowadzająca rundę finansowania o wartości 1,25 biliona dolarów – wejdą na rynki publiczne, wynoszą zaledwie 50 do 50.",
+        "Kalshi definiuje oficjalne ogłoszenie IPO jako stwierdzenie przez Komisję Papierów Wartościowych i Giełd formularza S-1 jako skutecznego, wycenę IPO lub przypisanie spółce przez giełdę znacznika. Rozwiązywanie umów odbywa się na podstawie doniesień mediów."
+      ]
+    },
+    {
+      "id": "rynki-3-1146a2",
       "entity_tag": "JSW (GPW: JSW)",
       "sector": "Górnictwo",
       "market_impact": "HIGH",
@@ -931,7 +1002,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/JSW-tnie-koszty-sprzedaje-drozszy-wegiel-i-korzysta-z-ogromnej-pomocy-publicznej-9234879.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/1/8/9637c67f7c5d19-945-567-11-7-1488-893.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Grupa JSW zaprezentowała w trzecim kwartale 2026 roku wyraźne odbicie wyników operacyjnych, podbijając skorygowaną EBITDA o ponad 258 procent kwartał do kwartału.",
         "Poprawa rentowności to efekt rosnących notowań surowca na rynkach światowych oraz głębokiej redukcji kosztów pracowniczych i wydobywczych.",
@@ -946,7 +1017,7 @@
       ]
     },
     {
-      "id": "rynki-2-697ab7",
+      "id": "rynki-4-697ab7",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
@@ -978,7 +1049,7 @@
       ]
     },
     {
-      "id": "rynki-3-2bb544",
+      "id": "rynki-5-2bb544",
       "entity_tag": "GPW w Warszawie",
       "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
@@ -1010,7 +1081,7 @@
       ]
     },
     {
-      "id": "rynki-5-d644a3",
+      "id": "rynki-7-d644a3",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
@@ -1046,114 +1117,7 @@
       ]
     },
     {
-      "id": "rynki-6-dfb2d7",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 3,4 miliarda dolarów, 3 miliardy dolarów) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,4 miliarda dolarów",
-        "3 miliardy dolarów"
-      ],
-      "title": "Dzienny wolumen handlu „perps” Kalshi zaczyna przewyższać rynki prognoz",
-      "original_title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:03",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108310000-1779301088587-gettyimages-2273141461-AFP_A9DR764.jpeg?v=1779301207&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
-        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
-        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana."
-      ],
-      "extended_paragraphs": [
-        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
-        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
-        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana. Tego samego dnia przekroczyło to teoretyczny wolumen wynoszący około 3 miliardy dolarów dla rynków prognostycznych Kalshi.",
-        "Perps to kontrakty typu futures, które nie mają terminu wygaśnięcia, a inwestorzy nie muszą posiadać instrumentu bazowego. Zamiast tego kontrakty stale śledzą cenę składnika aktywów, a płatności finansowe zapewniają zgodność ceny kontraktu z ceną rynkową. Wypłaty środków dokonywane są okresowo pomiędzy posiadaczami krótkich i długich pozycji.",
-        "Pewnego dnia we wrześniu handel perpsami przekroczył kontrakty związane z wydarzeniami, ale w piątek drugi dzień przekroczył wolumen rynków prognoz. Teraz Kalshi spodziewa się, że te wyniki się utrzymają, po wprowadzeniu klientów powiązanych z większą liczbą indywidualnych akcji. Na przykład w poniedziałek Kalshi uruchomił kontrakty powiązane z Anthropic."
-      ]
-    },
-    {
-      "id": "rynki-7-ad6edf",
-      "entity_tag": "KGHM (GPW: KGH)",
-      "sector": "Surowce & Górnictwo",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,08 mld zł, 1,68 mld zł, 2,74 proc.) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "2,08 mld zł",
-        "1,68 mld zł",
-        "2,74 proc."
-      ],
-      "title": "Poobijane KGHM, PKP Cargo, JSW i energetyka. Po odbiciu na GPW nie ma śladu",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:14",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Poobijane-KGHM-PKP-Cargo-JSW-i-energetyka-Po-odbiciu-na-GPW-nie-ma-sladu-9234384.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/3/a/c887678b00874d-945-560-0-604-2630-1577.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Po imponującym poniedziałkowym odbiciu wtorkowa sesja na GPW przyniosła gwałtowne pogorszenie nastrojów i głęboką przecenę największych spółek.",
-        "Inwestorzy masowo realizowali zyski i pozbywali się akcji.",
-        "Rynkami zachwiały informacje o nowych amerykańskich cłach oraz ponowne schłodzenie entuzjazmu wokół sztucznej inteligencji."
-      ],
-      "extended_paragraphs": [
-        "Po imponującym poniedziałkowym odbiciu wtorkowa sesja na GPW przyniosła gwałtowne pogorszenie nastrojów i głęboką przecenę największych spółek. Inwestorzy masowo realizowali zyski i pozbywali się akcji. Rynkami zachwiały informacje o nowych amerykańskich cłach oraz ponowne schłodzenie entuzjazmu wokół sztucznej inteligencji. Najmocniej ucierpiały notowania miedziowego giganta, sektora bankowego oraz energetyki.",
-        "fot. Krystian Maj/ / / Wtorkowe notowania w Warszawie rozpoczęły się od spadków, które z każdą kolejną godziną handlu systematycznie się pogłębiały. WIG20 spadł ostatecznie o 2,74 proc., oddając znaczną część poniedziałkowego zysku, kiedy to indeks największych spółek poszybował w górę o 3,85 proc. Szeroki rynek również nie oparł się presji sprzedających – indeks WIG zniżkował o 2,41 proc. Nieco łagodniejszy przebieg miała korekta w segmencie małych i średnich przedsiębiorstw, choć i tam przeważała podaż. mWIG40 poszedł w dół o 1,63 proc., a sWIG80 stracił 1,32 proc. Obroty na szerokim rynku wyniosły 2,08 mld zł, z czego 1,68 mld zł dotyczyło spółek z WIG20.",
-        "Warszawski parkiet był we wtorek jednym z najsłabszych na Starym Kontynencie. W momencie zamknięcia sesji przy Książęcej niemiecki DAX tracił 1,3 proc., brytyjski FTSE 100 spadał o 0,2 proc., natomiast francuski CAC 40 utrzymywał się na poziomie bliskim odniesienia. Czerwono było także za oceanem, gdzie handel na Wall Street zdominowali sprzedający. W chwili finiszu notowań w Warszawie amerykański S&P 500 szedł w dół o 1,2 proc., a technologiczny Nasdaq Composite zniżkował aż o 2,3 proc.",
-        "Poniedziałkowy entuzjazm wywołany powrotem Jensena Huanga na stanowisko kierownicze w Nvidii błyskawicznie wygasł , a na parkiety powróciły fundamentalne pytania o trwałość hossy napędzanej przez sztuczną inteligencję. Wyprzedaż spółek technologicznych na Wall Street szybko przełożyła się na pogorszenie sentymentu wobec ryzykownych aktywów, w tym na rynkach wschodzących.",
-        "Perspektywa eskalacji napięć handlowych natychmiast uderzyła w notowania surowców. Notowania miedzi na londyńskiej giełdzie metali LME mocno zniżkowały o przeszło 4,7 proc ., osuwając się w poniżej 12 000 USD za tonę. Srebro traciło 5,6 proc."
-      ]
-    },
-    {
-      "id": "rynki-8-845469",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 80 miliardów dolarów, 13%, 7%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "80 miliardów dolarów",
-        "13%",
-        "7%"
-      ],
-      "title": "W tym sezonie świątecznym zakupy z drugiej ręki stają się głównym nurtem, ponieważ konsumenci szukają wartości",
-      "original_title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:17",
-      "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108550227-1794501153398-gettyimages-2302287736-20260727secondhand_06nzr_2584can_28fis.jpeg?v=1794501289&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Finance",
-      "lead_story": false,
-      "summary_points": [
-        "W okresie świątecznym coraz więcej konsumentów robi zakupy z drugiej ręki, ponieważ podkreślają wartość i wyjątkowość swoich zakupów.",
-        "Ponieważ wysokie koszty życia uszczuplają portfele konsumentów w okresie świątecznym, coraz więcej kupujących zwraca się w stronę handlu detalicznego używaną odzieżą i oszczędzania.",
-        "Zmiana następuje, gdy konsumenci szukają lepszej wartości, kupujący kładą większy nacisk na personalizację, a młodsze pokolenia zmieniają sposób, w jaki robią zakupy."
-      ],
-      "extended_paragraphs": [
-        "W okresie świątecznym coraz więcej konsumentów robi zakupy z drugiej ręki, ponieważ podkreślają wartość i wyjątkowość swoich zakupów.",
-        "Ponieważ wysokie koszty życia uszczuplają portfele konsumentów w okresie świątecznym, coraz więcej kupujących zwraca się w stronę handlu detalicznego używaną odzieżą i oszczędzania.",
-        "Zmiana następuje, gdy konsumenci szukają lepszej wartości, kupujący kładą większy nacisk na personalizację, a młodsze pokolenia zmieniają sposób, w jaki robią zakupy. Według GlobalData amerykański rynek odzieży używanej wzrósł w 2025 r. o 13%, czyli prawie cztery razy szybciej niż cały rynek detaliczny odzieży detalicznej.",
-        "Oczekuje się, że do 2030 r. segment ten osiągnie prawie 80 miliardów dolarów, co oznacza wzrost średnio o ponad 7% rocznie, jak podaje GlobalData. Motorem dużej części tej ekspansji – 40% – było pokolenie Z, a tuż za nim – milenialsi.",
-        "„Myślę, że to ich wersja dreszczyku emocji związanego z polowaniem, który milenialsi uwielbiali w czasach recesji” – powiedziała CNBC Katherine Cullen, starszy analityk ds. globalnego handlu detalicznego w EY. „To sposób, aby naprawdę wyrazić indywidualny styl, znaleźć coś wyjątkowego, coś, co naprawdę pasuje do ich własnego klimatu i osobowości”."
-      ]
-    },
-    {
-      "id": "rynki-4-3742f7",
+      "id": "rynki-6-3742f7",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "MEDIUM",
@@ -1183,9 +1147,77 @@
         "Obawy odzwierciedlają sposób, w jaki chińskie firmy zajmujące się sztuczną inteligencją zmniejszają różnicę w stosunku do swoich amerykańskich odpowiedników, nie tylko pod względem modeli, ale obecnie pod względem talentów inżynieryjnych i badawczych. Według badania Carnegie Endowment Chiny prześcignęły Stany Zjednoczone pod względem udziału światowych talentów w zakresie sztucznej inteligencji w ciągu zaledwie trzech lat.",
         "Nvidia „była wstrząśnięta bez zmiany choćby jednego chipa lub modelu” – powiedział Winston Ma, inwestor w sztuczną inteligencję i adiunkt prawa na Uniwersytecie Nowojorskim. „Ktokolwiek zbuduje i utrzyma tę warstwę ludzką, utrzyma resztę stosu”."
       ]
+    },
+    {
+      "id": "rynki-8-d0f195",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Macy's przekłada paradę z okazji Święta Dziękczynienia z powodu trudnych warunków pogodowych",
+      "original_title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:26",
+      "source": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108559634-1795639990776-gettyimages-2306276140-ag_thanksgiving_02.jpeg?v=1795644512&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Finance",
+      "lead_story": false,
+      "summary_points": [
+        "W środę firma Macy's ogłosiła, że coroczna parada z okazji Święta Dziękczynienia zostaje przełożona na sobotę z powodu trudnych warunków pogodowych.",
+        "W środę sklep Macy's ogłosił, że odracza paradę z okazji Święta Dziękczynienia, pierwotnie zaplanowaną na czwartek, ze względu na trudną pogodę.",
+        "Według firmy parada, która co roku odbywa się w poranek Święta Dziękczynienia, odbędzie się teraz w sobotę o 8:30 czasu wschodniego."
+      ],
+      "extended_paragraphs": [
+        "W środę firma Macy's ogłosiła, że coroczna parada z okazji Święta Dziękczynienia zostaje przełożona na sobotę z powodu trudnych warunków pogodowych.",
+        "W środę sklep Macy's ogłosił, że odracza paradę z okazji Święta Dziękczynienia, pierwotnie zaplanowaną na czwartek, ze względu na trudną pogodę.",
+        "Według firmy parada, która co roku odbywa się w poranek Święta Dziękczynienia, odbędzie się teraz w sobotę o 8:30 czasu wschodniego. Oczekuje się, że w Święto Dziękczynienia w całym Nowym Jorku wystąpią ulewne deszcze i burze.",
+        "„Bezpieczeństwo naszych uczestników i widzów jest naszym najwyższym priorytetem i po dokładnych konsultacjach z naszymi partnerami z miasta i agencji podjęliśmy decyzję o przeniesieniu tegorocznych obchodów” – stwierdziła Macy's w oświadczeniu.",
+        "Tegoroczne wydarzenie upamiętnia 100. paradę z okazji Święta Dziękczynienia Macy's. Coroczna impreza nigdy nie została odwołana ze względu na pogodę, chociaż została zawieszona w latach 1942–1944 z powodu II wojny światowej."
+      ]
     }
   ],
   "makro": [
+    {
+      "id": "makro-6-e6f759",
+      "entity_tag": "Azja & Pacyfik",
+      "sector": "Gospodarka Światowa",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Gospodarka Światowa” (Azja & Pacyfik) (kluczowe liczby: 40%, 35%, 20%) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "40%",
+        "35%",
+        "20%"
+      ],
+      "title": "USA ogłaszają nowe cła na wiele krajów, w tym Chiny",
+      "original_title": "US announces new tariffs on host of countries including China",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "16:21",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": true,
+      "summary_points": [
+        "Nowe opłaty uderzą w wielu największych partnerów handlowych Ameryki, w tym w Chiny i UE.",
+        "Stany Zjednoczone ogłosiły nową serię ceł w związku z kontynuacją swojej polityki handlowej przez prezydenta Donalda Trumpa.",
+        "Nowe podatki pobierane od importu do Ameryki uderzą w wielu największych partnerów handlowych kraju – Chiny, Unię Europejską i 12 innych jurysdykcji."
+      ],
+      "extended_paragraphs": [
+        "Nowe opłaty uderzą w wielu największych partnerów handlowych Ameryki, w tym w Chiny i UE.",
+        "Stany Zjednoczone ogłosiły nową serię ceł w związku z kontynuacją swojej polityki handlowej przez prezydenta Donalda Trumpa.",
+        "Nowe podatki pobierane od importu do Ameryki uderzą w wielu największych partnerów handlowych kraju – Chiny, Unię Europejską i 12 innych jurysdykcji.",
+        "Posunięcie to jest następstwem dochodzenia Białego Domu w sprawie praktyk handlowych innych krajów przeprowadzonego w marcu po tym, jak Sąd Najwyższy Stanów Zjednoczonych orzekł, że ogłoszone wcześniej przez Trumpa cła z okazji Dnia Wyzwolenia są nielegalne.",
+        "Chiny stoją w obliczu najwyższej stopy wynoszącej do 40%, za nimi plasuje się Wietnam do 35%, a jeszcze inne – do 20% lub 25%."
+      ]
+    },
     {
       "id": "makro-1-670a0e",
       "entity_tag": "Gospodarka & Makro",
@@ -1206,7 +1238,7 @@
       "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/ceny-paliw-w-czwartek-ministerstwo-podalo-maksymalne-stawki/",
       "image_url": "https://ipla.pluscdn.pl/dituel/cp/33/336t5ecphtxz9oqj7n155185hfx7ewch.jpeg",
       "image_source": "Fot. / Źródło: PolsatNews Biznes",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 5,82 zł, benzyny 98 - 6,48 zł, a diesla - 7,15 zł - wynika z obwieszczenia ministra energii.",
         "Ceny maksymalne będą zatem niższe od obowiązujących w środę.",
@@ -1218,41 +1250,6 @@
         "Następne obwieszczenie ministra energii ws. maksymalnych cen paliw zostanie opublikowane w czwartek, 26 listopada i określi ceny na piątek .",
         "Obwieszczenie o maksymalnych cenach paliw stanowi jeden z elementów kolejnej, trzeciej już odsłony pakietu Ceny Paliwa Niżej (CPN) , którego celem jest ograniczenie wzrostu cen na stacjach i obniżenie kosztów tankowania dla kierowców.",
         "Mechanizm został uruchomiony po wejściu w życie części przepisów ustawy o podatku od nadzwyczajnych zysków przedsiębiorstw paliwowych . Prezydent ustawę podpisał i jednocześnie skierował ją do Trybunału Konstytucyjnego w trybie kontroli następczej. Kara za stosowanie cen paliw wyższych od maksymalnych może wynieść nawet 1 mln zł ."
-      ]
-    },
-    {
-      "id": "makro-2-d2458c",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 26%, 33%) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "26%",
-        "33%"
-      ],
-      "title": "Rachunki za energię wzrosną o 26% od stycznia po gwałtownym wzroście cen gazu",
-      "original_title": "Energy bills to rise by 26% from January after gas prices surge",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:42",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Jeśli poziom ten utrzyma się przez rok, roczny rachunek gospodarstwa domowego zużywającego typową ilość energii wzrośnie z 1723 funtów do 2166 funtów.",
-        "Typowy rachunek wzrośnie o około 37 funtów miesięcznie w pierwszych trzech miesiącach nowego roku, chociaż cena będzie zależała od ilości energii zużywanej przez gospodarstwo domowe, więc zimą może wynosić około 60 funtów miesięcznie.",
-        "Organ regulacyjny Ofgem stwierdził, że roczne rachunki gospodarstwa domowego zużywającego typową ilość energii w Anglii, Szkocji i Walii i płacącego za pomocą polecenia zapłaty wzrosną z 1723 funtów do 2166 funtów, jeśli wzrost ten utrzyma się przez rok."
-      ],
-      "extended_paragraphs": [
-        "Jeśli poziom ten utrzyma się przez rok, roczny rachunek gospodarstwa domowego zużywającego typową ilość energii wzrośnie z 1723 funtów do 2166 funtów.",
-        "Typowy rachunek wzrośnie o około 37 funtów miesięcznie w pierwszych trzech miesiącach nowego roku, chociaż cena będzie zależała od ilości energii zużywanej przez gospodarstwo domowe, więc zimą może wynosić około 60 funtów miesięcznie.",
-        "Organ regulacyjny Ofgem stwierdził, że roczne rachunki gospodarstwa domowego zużywającego typową ilość energii w Anglii, Szkocji i Walii i płacącego za pomocą polecenia zapłaty wzrosną z 1723 funtów do 2166 funtów, jeśli wzrost ten utrzyma się przez rok.",
-        "Od 4 stycznia rząd zapłaci milionom gospodarstw domowych 100 funtów na pokrycie kosztów zimowych, oprócz istniejącej obniżki podatku VAT na energię elektryczną.",
-        "Organizacje charytatywne i dostawcy spodziewają się wzrostu zadłużenia i fali ludzi potrzebujących nadzwyczajnego wsparcia."
       ]
     },
     {
@@ -1292,40 +1289,6 @@
       ]
     },
     {
-      "id": "makro-4-a3850b",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 26%) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "26%"
-      ],
-      "title": "Rachunki za energię wzrosną – oto, jak możesz złagodzić ból",
-      "original_title": "Energy bills will soar - here's how you can ease the pain",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "10:42",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Rachunki za energię w gospodarstwach domowych wkrótce wzrosną, ale istnieją sposoby na kontrolowanie wydatków.",
-        "kosztów utrzymania Opublikowano 27 sierpnia 2025 r. Zaktualizowano 4 godziny temu Rachunki za energię wzrosną w nowym roku o 26% w związku z wojną w Iranie, która powoduje wzrost cen hurtowych.",
-        "Typowe rachunki gospodarstwa domowego wzrosną o 37 funtów miesięcznie po wejściu w życie najnowszego pułapu cenowego Ofgem od stycznia do marca, ale eksperci twierdzą, że możliwe jest kontrolowanie rosnących rachunków."
-      ],
-      "extended_paragraphs": [
-        "Rachunki za energię w gospodarstwach domowych wkrótce wzrosną, ale istnieją sposoby na kontrolowanie wydatków.",
-        "Korespondent ds. kosztów utrzymania Opublikowano 27 sierpnia 2025 r. Zaktualizowano 4 godziny temu Rachunki za energię wzrosną w nowym roku o 26% w związku z wojną w Iranie, która powoduje wzrost cen hurtowych.",
-        "Typowe rachunki gospodarstwa domowego wzrosną o 37 funtów miesięcznie po wejściu w życie najnowszego pułapu cenowego Ofgem od stycznia do marca, ale eksperci twierdzą, że możliwe jest kontrolowanie rosnących rachunków.",
-        "Limit cenowy Ofgem, a także stałe umowy dostawców ustalają limit ceny każdej jednostki energii, a nie całkowitego rachunku.",
-        "Płacisz więc za to, z czego korzystasz. W latach stosunkowo wysokich cen miliony ludzi ograniczyły zużycie energii."
-      ]
-    },
-    {
       "id": "makro-5-0305fb",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
@@ -1360,177 +1323,344 @@
       ]
     },
     {
-      "id": "makro-6-a74125",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 20 milionów) przy planowaniu budżetu i inwestycji.",
+      "id": "makro-7-fc97b4",
+      "entity_tag": "Meta Platforms (NASDAQ: META)",
+      "sector": "Big Tech",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Big Tech” (kluczowe liczby: 4%, 0,6%, 8%) — istotne dla ochrony realnej wartości kapitału.",
       "key_metrics": [
-        "20 milionów"
+        "4%",
+        "0,6%",
+        "8%"
       ],
-      "title": "Co zmiany w limitach energii będą oznaczać dla moich rachunków?",
-      "original_title": "What will the energy cap changes mean for my bills?",
+      "title": "Giełdy w USA dalej spadają w miarę nasilania się obaw związanych ze sztuczną inteligencją",
+      "original_title": "US stocks fall further as fears over AI intensify",
       "is_foreign": true,
       "lang": "EN",
-      "time": "09:54",
+      "time": "21:43",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Organ regulacyjny Ofgem podnosi górny limit wpływający na rachunki za energię milionów gospodarstw domowych.",
-        "Ograniczenie dotyczy milionów ludzi w Anglii, Szkocji i Walii i odzwierciedla wyższe ceny hurtowe gazu, które zostały podniesione przez wojnę amerykańsko-izraelską z Iranem.",
-        "Oznacza to, że osoby korzystające z taryf zmiennych powinny dokładnie dokonywać odczytów liczników, upewnić się, że otrzymują całe wsparcie, do którego są uprawnione, oraz dbać o zużycie energii."
+        "Wszystkie trzy główne indeksy w USA spadły na początku notowań, a zdominowany przez technologię Nasdaq o prawie 4%.",
+        "Gwałtowny wzrost cen akcji Nvidii po przywróceniu na stanowisko szefa Jensena Huanga był tymczasowy, a ogólna wyprzedaż akcji trwała nadal, a wszystkie trzy główne indeksy giełdy w USA spadły do ​​godziny zamknięcia.",
+        "Zdominowany przez technologię Nasdaq zamknął się spadkiem o 0,6%."
       ],
       "extended_paragraphs": [
-        "Organ regulacyjny Ofgem podnosi górny limit wpływający na rachunki za energię milionów gospodarstw domowych.",
-        "Ograniczenie dotyczy milionów ludzi w Anglii, Szkocji i Walii i odzwierciedla wyższe ceny hurtowe gazu, które zostały podniesione przez wojnę amerykańsko-izraelską z Iranem.",
-        "Oznacza to, że osoby korzystające z taryf zmiennych powinny dokładnie dokonywać odczytów liczników, upewnić się, że otrzymują całe wsparcie, do którego są uprawnione, oraz dbać o zużycie energii.",
-        "Limit energii ustala maksymalną kwotę, jaką mogą pobrać klienci korzystający ze standardowych stawek zmiennych za każdą jednostkę zużytego gazu i energii elektrycznej.",
-        "Obejmuje ponad 20 milionów gospodarstw domowych w Anglii, Walii i Szkocji i jest ustalany przez organ regulacyjny Ofgem co trzy miesiące, na zewnątrz."
+        "Wszystkie trzy główne indeksy w USA spadły na początku notowań, a zdominowany przez technologię Nasdaq o prawie 4%.",
+        "Gwałtowny wzrost cen akcji Nvidii po przywróceniu na stanowisko szefa Jensena Huanga był tymczasowy, a ogólna wyprzedaż akcji trwała nadal, a wszystkie trzy główne indeksy giełdy w USA spadły do ​​godziny zamknięcia. Zdominowany przez technologię Nasdaq zamknął się spadkiem o 0,6%.",
+        "Spadki nastąpiły w wyniku obaw o poziom i trwałość inwestycji w sztuczną inteligencję, które w ostatnich tygodniach niepokoiły inwestorów.",
+        "Akcje innych dużych firm technologicznych, w tym Amazona, Tesli i Microsoftu, zamknęły dzień na minusie, choć pod koniec dnia giełdowego Meta i SpaceX notowały wzrosty.",
+        "W środę na początku notowań cena akcji Nvidii spadła o 8%, pogłębiając wtorkowy spadek w miarę osłabnięcia impulsu związanego z powrotem Huanga. Na zamknięciu zakończyło się spadkiem o 3,4%."
       ]
     },
     {
-      "id": "makro-7-e95338",
+      "id": "makro-2-b20bbe",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” (kluczowe liczby: 26%) — istotne dla ochrony realnej wartości kapitału.",
-      "key_metrics": [
-        "26%"
-      ],
-      "title": "„Korzystam z pralki tylko w niedzielę” – jak możemy obniżyć rachunki za energię",
-      "original_title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Rosnąca presja regulacyjna lub kosztowa w obszarze „Makroekonomia” — istotne dla ochrony realnej wartości kapitału.",
+      "key_metrics": [],
+      "title": "Upadek Poundland zagraża 11 000 miejsc pracy",
+      "original_title": "Poundland collapses putting 11,000 jobs at risk",
       "is_foreign": true,
       "lang": "EN",
-      "time": "12:12",
+      "time": "21:31",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "BBC rozmawia z trzema osobami na temat kroków, jakie podejmują, aby kontrolować swoje rachunki za energię.",
-        "Autor: Daniel Thomas i Anuk Weerawardana, Reporterzy biznesowi Opublikowano 25 listopada 2026 r., 00:30 GMT Zaktualizowano 2 godziny temu Krajowe ceny energii wzrosną w styczniu o 26% w ramach nowego pułapu cenowego organu regulacyjnego Ofgem, podnosząc rachunki dla milionów gospodarstw domowych w Anglii, Szkocji i Walii.",
-        "Ponieważ budżety gospodarstw domowych są już pod presją, coraz ważniejsze staje się znalezienie sposobów na zmniejszenie kosztów gazu i energii elektrycznej."
+        "Sieć dyskontów popadła w administrację, gdy jej właścicielom nie udało się znaleźć kupca.",
+        "Poundland popadł w ruinę, narażając na ryzyko 11 000 miejsc pracy, po tym jak właścicielom nie udało się znaleźć kupca, który utrzymałby firmę w biznesie.",
+        "Sklepy i centra dystrybucyjne sprzedawcy detalicznego pozostaną otwarte i będą kontynuować handel w trakcie procesu administracyjnego, przy czym przedsiębiorstwo prawdopodobnie zostanie rozwiązane, a część jego sklepów sprzedana konkurencyjnym sprzedawcom detalicznym."
       ],
       "extended_paragraphs": [
-        "BBC rozmawia z trzema osobami na temat kroków, jakie podejmują, aby kontrolować swoje rachunki za energię.",
-        "Autor: Daniel Thomas i Anuk Weerawardana, Reporterzy biznesowi Opublikowano 25 listopada 2026 r., 00:30 GMT Zaktualizowano 2 godziny temu Krajowe ceny energii wzrosną w styczniu o 26% w ramach nowego pułapu cenowego organu regulacyjnego Ofgem, podnosząc rachunki dla milionów gospodarstw domowych w Anglii, Szkocji i Walii.",
-        "Ponieważ budżety gospodarstw domowych są już pod presją, coraz ważniejsze staje się znalezienie sposobów na zmniejszenie kosztów gazu i energii elektrycznej. Ale jak dużą różnicę mogą naprawdę zrobić proste zmiany?",
-        "BBC rozmawiało z trzema osobami o tym, co robią, aby obniżyć koszty energii.",
-        "Źródło zdjęcia, Kelly Anne Harvey Tytuł zdjęcia, Kelly Anne Harvey używa koców elektrycznych i przenośnych grzejników olejowych w niektórych pokojach, aby zaoszczędzić na centralnym ogrzewaniu"
+        "Sieć dyskontów popadła w administrację, gdy jej właścicielom nie udało się znaleźć kupca.",
+        "Poundland popadł w ruinę, narażając na ryzyko 11 000 miejsc pracy, po tym jak właścicielom nie udało się znaleźć kupca, który utrzymałby firmę w biznesie.",
+        "Sklepy i centra dystrybucyjne sprzedawcy detalicznego pozostaną otwarte i będą kontynuować handel w trakcie procesu administracyjnego, przy czym przedsiębiorstwo prawdopodobnie zostanie rozwiązane, a część jego sklepów sprzedana konkurencyjnym sprzedawcom detalicznym.",
+        "Amerykańscy właściciele Poundland przeprowadzili rozmowy z kilkoma oferentami w sprawie zawartej w ostatniej chwili umowy ratunkowej, ale nie osiągnięto żadnego porozumienia.",
+        "Szef Poundland Barry Williams powiedział w notatce dla pracowników, że zarząd „nie miał innego wyjścia, jak tylko podjąć tę decyzję”, ale podejmował ją ze „szczerym smutkiem i głębokim żalem”."
+      ]
+    },
+    {
+      "id": "makro-4-9d4b06",
+      "entity_tag": "Pepco Group (GPW: PCO)",
+      "sector": "Handel Detaliczny",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Handel Detaliczny” (kluczowe liczby: 68 mln funtów, 18,1 mln funtów) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "68 mln funtów",
+        "18,1 mln funtów"
+      ],
+      "title": "Co poszło nie tak w Poundland?",
+      "original_title": "What's gone wrong at Poundland?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "17:00",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Poundland upadł i przeszedł do administracji.",
+        "Przyszłość Poundland wisi na włosku po upadku dyskonta w administrację.",
+        "Jego właściciel, amerykańska firma inwestycyjna Gordon Brothers, wystawił go na sprzedaż we wrześniu, ale następnie odrzucił oferty utrzymania firmy na rynku."
+      ],
+      "extended_paragraphs": [
+        "Poundland upadł i przeszedł do administracji. Dlaczego?",
+        "Przyszłość Poundland wisi na włosku po upadku dyskonta w administrację.",
+        "Jego właściciel, amerykańska firma inwestycyjna Gordon Brothers, wystawił go na sprzedaż we wrześniu, ale następnie odrzucił oferty utrzymania firmy na rynku.",
+        "Poundland jest obecny głównie na High Street, posiadając 600 sklepów w Wielkiej Brytanii i Irlandii, gdzie prowadzi sprzedaż pod marką Dealz.",
+        "Jej upadek naraża na ryzyko miejsca pracy 11 000 pracowników, a także potencjalnie tysiące innych osób w firmach zaopatrujących detalistę."
       ]
     }
   ],
   "tech": [
     {
-      "id": "tech-6-9ea6c3",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
+      "id": "tech-2-481f08",
+      "entity_tag": "NVIDIA (NASDAQ: NVDA)",
+      "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 16 miliardów dolarów, 500 milionów, 1,4 miliona) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 500 miliardów dolarów, 25%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [
-        "16 miliardów dolarów",
-        "500 milionów",
-        "1,4 miliona"
+        "500 miliardów dolarów",
+        "25%"
       ],
-      "title": "Dyrektor generalny Flipkart, Kalyan Krishnamurthy, ustąpi ze stanowiska w przyszłym tygodniu w związku z niepewnością dotyczącą IPO",
-      "original_title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "title": "S&P uważa, że obniżenie ratingu kredytowego Nvidii wynika z ryzyka związanego z zarządzaniem i kluczowymi pracownikami",
+      "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:08",
+      "time": "22:44",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/flipkart-ceo-kalyan-krishnamurthy.jpg?resize=1200,800",
+      "source_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": true,
       "summary_points": [
-        "Szef produktów i technologii Flipkart, Balaji Thiagarajan, będzie kierować firmą wraz z zarządem do czasu znalezienia następcy.",
-        "Dyrektor generalny Flipkart, Kalyan Krishnamurthy, ustąpi ze stanowiska w przyszłym tygodniu w związku z niepewnością dotyczącą IPO Jagmeet Singh 05:08 PST · 25 listopada 2026 Kalyan Krishnamurthy (na zdjęciu powyżej), który kierował Flipkartem przez przejęcie Walmartu w 2018 r. i pomógł przekształcić go w jedną z największych indyjskich firm zajmujących się handlem elektronicznym, ustąpi ze stanowiska dyrektora generalnego w przyszłym tygodniu po ponad 11 lat w firmie.",
-        "W środę Flipkart poinformował, że w nadchodzących tygodniach ogłosi następcę Krishnamurthy’ego, a dyrektor ds."
+        "Agencja ratingowa może obniżyć rating kredytowy Nvidii do AA-, czwartego najwyższego ratingu.",
+        "S&P Global Ratings, jedna z trzech głównych agencji ratingowych, rozważa obniżenie ratingu Nvidii, powołując się na obawy dotyczące zarządzania firmą i praktyk ładu korporacyjnego.",
+        "Pomimo dobrych wyników finansowych Nvidii usunięcie i przywrócenie na stanowisko dyrektora generalnego Jensena Huanga wzbudziło obawy dotyczące „słabego nadzoru wykonawczego i braku planowania sukcesji” oraz „ryzyka kluczowych pracowników”, co oznacza duże uzależnienie jego przyszłego sukcesu od Huanga, stwierdziła S&P w oświadczeniu."
       ],
       "extended_paragraphs": [
-        "Szef produktów i technologii Flipkart, Balaji Thiagarajan, będzie kierować firmą wraz z zarządem do czasu znalezienia następcy.",
-        "Dyrektor generalny Flipkart, Kalyan Krishnamurthy, ustąpi ze stanowiska w przyszłym tygodniu w związku z niepewnością dotyczącą IPO Jagmeet Singh 05:08 PST · 25 listopada 2026 Kalyan Krishnamurthy (na zdjęciu powyżej), który kierował Flipkartem przez przejęcie Walmartu w 2018 r. i pomógł przekształcić go w jedną z największych indyjskich firm zajmujących się handlem elektronicznym, ustąpi ze stanowiska dyrektora generalnego w przyszłym tygodniu po ponad 11 lat w firmie.",
-        "W środę Flipkart poinformował, że w nadchodzących tygodniach ogłosi następcę Krishnamurthy’ego, a dyrektor ds. produktów i technologii, Balaji Thiagarajan, będzie kierował firmą do czasu znalezienia następcy.",
-        "Rzecznik Walmartu powiedział TechCrunch, że ostatni dzień Krishnamurthy’ego w Flipkart będzie 4 grudnia.",
-        "Krishnamurthy dołączył do Flipkart w 2015 r. z Tiger Global, jednego z pierwszych inwestorów firmy, i został jej dyrektorem generalnym w 2017 r. Pozostał na czele firmy po tym, jak Walmart przejął pakiet kontrolny w firmie za 16 miliardów dolarów w 2018 r."
+        "Agencja ratingowa może obniżyć rating kredytowy Nvidii do AA-, czwartego najwyższego ratingu.",
+        "S&P Global Ratings, jedna z trzech głównych agencji ratingowych, rozważa obniżenie ratingu Nvidii, powołując się na obawy dotyczące zarządzania firmą i praktyk ładu korporacyjnego.",
+        "Pomimo dobrych wyników finansowych Nvidii usunięcie i przywrócenie na stanowisko dyrektora generalnego Jensena Huanga wzbudziło obawy dotyczące „słabego nadzoru wykonawczego i braku planowania sukcesji” oraz „ryzyka kluczowych pracowników”, co oznacza duże uzależnienie jego przyszłego sukcesu od Huanga, stwierdziła S&P w oświadczeniu.",
+        "Agencja spodziewa się zakończyć ocenę w ciągu 90 dni i może obniżyć ocenę Nvidii z AA do AA-, czwartego najwyższego w swojej skali.",
+        "Choć Nvidia z pewnością utrzyma rating na poziomie inwestycyjnym, jego obniżenie może podnieść koszty finansowania zewnętrznego. Ponieważ Nvidia chroni neocloudy i inne firmy infrastrukturalne, które same nie mają silnego kredytu, niższy rating może sprawić, że ich zadłużenie będzie droższe lub zmusi je do wniesienia większego zabezpieczenia."
       ]
     },
     {
-      "id": "tech-4-91b155",
-      "entity_tag": "Meta Platforms (NASDAQ: META)",
-      "sector": "Big Tech",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Meta Platforms (NASDAQ: META) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Amazon i Meta podobno prowadzą rozmowy w sprawie zniesienia blokady agenta AI Muse",
-      "original_title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "id": "tech-4-eb4cd2",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) (kluczowe liczby: 1 miliona) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "1 miliona"
+      ],
+      "title": "FCC zatwierdza plan SpaceX dotyczący umieszczenia centrów danych AI w kosmosie",
+      "original_title": "FCC approves SpaceX plan to put AI data centers in space",
       "is_foreign": true,
       "lang": "EN",
-      "time": "14:10",
+      "time": "20:56",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "source_url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Amazon i Meta omawiają potencjalną umowę, która zakończy dwumiesięczną blokadę Muse.",
-        "Amazon może zmienić zdanie na temat agenta AI Meta, Muse.",
-        "Według doniesień obaj giganci technologiczni omawiają potencjalną umowę, która umożliwiłaby popularnemu agentowi AI firmy Meta łączenie się bezpośrednio ze sklepem Amazon."
+        "FCC odrzuciła niektóre z kluczowych obaw zgłaszanych przez przeciwników, w tym potencjalne zagrożenia dla badań naukowych, ponieważ agencja stwierdziła, że nie mieszczą się one w zakresie jej organu regulacyjnego.",
+        "FCC zatwierdza plan SpaceX dotyczący umieszczenia w przestrzeni kosmicznej centrów danych AI Kirsten Korosec 12:56 PST · 25 listopada 2026 r. W środę Federalna Komisja Łączności SpaceX otrzymała warunkową zgodę na rozmieszczenie i obsługę konstelacji składającej się z maksymalnie 1 miliona satelitów na potrzeby swojej działalności w zakresie orbitalnych centrów danych, co stanowi regulacyjne zwycięstwo Elona Muska i jego oferty przeniesienia centrów danych AI w przestrzeń kosmiczną.",
+        "Zezwolenie FCC zostało wydane pomimo zastrzeżeń ze strony Amazon, Viasat i Amerykańskiego Towarzystwa Astronomicznego, które wyraziły obawy dotyczące śmieci orbitalnych i zatorów, zakłóceń częstotliwości radiowych i konsekwencji dla środowiska."
       ],
       "extended_paragraphs": [
-        "Amazon i Meta omawiają potencjalną umowę, która zakończy dwumiesięczną blokadę Muse.",
-        "Amazon może zmienić zdanie na temat agenta AI Meta, Muse. Według doniesień obaj giganci technologiczni omawiają potencjalną umowę, która umożliwiłaby popularnemu agentowi AI firmy Meta łączenie się bezpośrednio ze sklepem Amazon.",
-        "Rozmowy oznaczałyby znaczącą zmianę sytuacji sprzed zaledwie dwóch miesięcy, kiedy użytkownicy Muse odkryli, że nie mogą kupować produktów na Amazonie i zamiast tego przy próbie spłacenia otrzymali komunikat o błędzie.",
-        "Według środowego raportu magazynu Fortune, powołującego się na osoby zaznajomione z dyskusjami, Amazon i Meta przeprowadziły w tej sprawie wiele rund rozmów. Negocjacje pozostają dwie kluczowe kwestie: sposób prezentacji wyników wyszukiwania i sposób traktowania reklam w ramach potencjalnej umowy.",
-        "Jedną z największych obaw Amazona jest wpływ zewnętrznych agentów handlowych, takich jak Muse, na jego działalność reklamową. W październiku dyrektor generalny Amazona, Andy Jassy, ​​argumentował, że niewielu klientów robi zakupy za pośrednictwem zewnętrznych agentów handlowych."
+        "FCC odrzuciła niektóre z kluczowych obaw zgłaszanych przez przeciwników, w tym potencjalne zagrożenia dla badań naukowych, ponieważ agencja stwierdziła, że nie mieszczą się one w zakresie jej organu regulacyjnego.",
+        "FCC zatwierdza plan SpaceX dotyczący umieszczenia w przestrzeni kosmicznej centrów danych AI Kirsten Korosec 12:56 PST · 25 listopada 2026 r. W środę Federalna Komisja Łączności SpaceX otrzymała warunkową zgodę na rozmieszczenie i obsługę konstelacji składającej się z maksymalnie 1 miliona satelitów na potrzeby swojej działalności w zakresie orbitalnych centrów danych, co stanowi regulacyjne zwycięstwo Elona Muska i jego oferty przeniesienia centrów danych AI w przestrzeń kosmiczną.",
+        "Zezwolenie FCC zostało wydane pomimo zastrzeżeń ze strony Amazon, Viasat i Amerykańskiego Towarzystwa Astronomicznego, które wyraziły obawy dotyczące śmieci orbitalnych i zatorów, zakłóceń częstotliwości radiowych i konsekwencji dla środowiska. Amazon, który buduje konkurenta usługi Starlink firmy SpaceX, argumentował w swojej petycji, że aplikacji brakuje podstawowych szczegółów i określił ją jako „wzniosłą ambicję, a nie realny plan”. Pomimo tego braku szczegółów Amazon stwierdził również, że propozycja „ryzykuje realną krzywdą”.",
+        "Przewodniczący FCC Brendan Carr powiedział w oświadczeniu, że akcja „otwiera nową, odważną granicę dla infrastruktury obliczeniowej niezbędnej do zapewnienia wiodącej pozycji i wzrostu Ameryki”.",
+        "Musk podziękował Carrowi w poście na X, pisząc: „Bardzo doceniam. To będzie wielki nabytek dla Ameryki i świata”."
       ]
     },
     {
-      "id": "tech-8-18940b",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "id": "tech-6-841820",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Znana irańska grupa hakerska znalazła nowy sposób na wywołanie chaosu",
-      "original_title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "title": "OpenAI twierdzi, że intensywnie korzystający z ChatGPT mogą szybciej osiągnąć limity, gdy połączy czat i pracę",
+      "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "is_foreign": true,
       "lang": "EN",
-      "time": "14:29",
+      "time": "20:03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "OpenAI wprowadzi pojedynczy licznik użytkowania w całym ChatGPT, ponieważ łączy on funkcje czatu i pracy.",
+        "OpenAI twierdzi, że liczni użytkownicy ChatGPT mogą szybciej osiągnąć limity po połączeniu czatu i pracy.",
+        "Jagmeet Singh 12:03 PST · 25 listopada 2026 r. OpenAI rozpoczęło udostępnianie kilku swoim użytkownikom ujednoliconego środowiska czatu i pracy w ChatGPT, pomimo krytyki ze strony niektórych subskrybentów, że fuzja może ograniczyć ich użycie."
+      ],
+      "extended_paragraphs": [
+        "OpenAI wprowadzi pojedynczy licznik użytkowania w całym ChatGPT, ponieważ łączy on funkcje czatu i pracy.",
+        "OpenAI twierdzi, że liczni użytkownicy ChatGPT mogą szybciej osiągnąć limity po połączeniu czatu i pracy. Jagmeet Singh 12:03 PST · 25 listopada 2026 r. OpenAI rozpoczęło udostępnianie kilku swoim użytkownikom ujednoliconego środowiska czatu i pracy w ChatGPT, pomimo krytyki ze strony niektórych subskrybentów, że fuzja może ograniczyć ich użycie.",
+        "Twórca ChatGPT zaczął wprowadzać aktualizację dla małej grupy abonentów Pro, powiedział lider produktu Thibault „Tibo” Sottiaux we wtorkowym poście na X. Wdrożenie następuje po wcześniejszym ogłoszeniu przez OpenAI fuzji w wiadomości e-mail do użytkowników. Rzecznik OpenAI powiedział TechCrunch, że choć nie oczekuje się, że większość użytkowników będzie spotykać się z częstszym resetowaniem użytkowania, niewielka część najcięższych użytkowników może szybciej osiągnąć swoje limity.",
+        "To jedna z obaw zgłaszanych ostatnio przez niektórych subskrybentów ChatGPT w mediach społecznościowych i na forum społeczności OpenAI. Użytkownicy obawiają się, że połączenie limitów użytkowania Czatu i Pracy może spowodować, że będą mieli mniejszy niż obecnie dostęp do zaawansowanych modeli rozumowania, mimo że nadal będą płacić te same opłaty abonamentowe.",
+        "W nowym systemie Chat i Work będą korzystać z jednego licznika użytkowania w ramach ChatGPT, powiedział TechCrunch rzecznik OpenAI. Rozmowy w modelu Instant pozostaną jednak nieograniczone i nie będą wliczane do wspólnego limitu. Użytkownicy mogą także kontynuować korzystanie z usługi Instant po wyczerpaniu limitów użytkowania. Rzecznik dodał, że OpenAI będzie nadal pracować nad poprawą wydajności, aby abonenci mogli w pełni wykorzystać swoje plany."
+      ]
+    },
+    {
+      "id": "tech-7-c019d2",
+      "entity_tag": "Tesla / SpaceX",
+      "sector": "Motoryzacja & Tech",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "FCC wydało zgodę na kosmiczny superkomputer. SpaceX ma czas do 2040 roku",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "20:30",
+      "source": "Antyweb Innowacje",
+      "source_url": "https://antyweb.pl/fcc-wydalo-zgode-na-kosmiczny-superkomputer-spacex-ma-czas-do-2040-roku",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/09/starship-starlink-view.jpg",
+      "image_source": "Fot. / Źródło: Antyweb Innowacje",
+      "lead_story": false,
+      "summary_points": [
+        "Przeniesienie infrastruktury obliczeniowej poza ziemską atmosferę przestaje być wizją rodem z literatury science fiction.",
+        "Kluczowym elementem architektury Starmind będzie sposób przesyłania ogromnych ilości danych.",
+        "Zamiast polegać na standardowej łączności radiowej, satelity obliczeniowe wykorzystają szybkie połączenia optyczne, czyli lasery komunikujące się bezpośrednio z istniejącą już siecią Starlink pierwszej i drugiej generacji."
+      ],
+      "extended_paragraphs": [
+        "Przeniesienie infrastruktury obliczeniowej poza ziemską atmosferę przestaje być wizją rodem z literatury science fiction.",
+        "Kluczowym elementem architektury Starmind będzie sposób przesyłania ogromnych ilości danych. Zamiast polegać na standardowej łączności radiowej, satelity obliczeniowe wykorzystają szybkie połączenia optyczne, czyli lasery komunikujące się bezpośrednio z istniejącą już siecią Starlink pierwszej i drugiej generacji. Pasmo radiowe Ka zostało dopuszczone przez FCC wyłącznie jako awaryjne i zapasowe łącze telemetryczne.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Mimo że decyzja otwiera SpaceX drogę do budowy bezprecedensowej infrastruktury, regulator narzucił firmie konkretne kamienie milowe wdrożenia. Pierwszy satelita konstelacji Starmind musi trafić na przypisaną orbitę i rozpocząć pracę najpóźniej do 25 listopada 2033 roku . Kolejne etapy zakładają osiągnięcie 10 procent docelowej liczby jednostek do listopada 2035 roku oraz połowy konstelacji trzy lata później. Pełny limit miliona satelitów ma zostać osiągnięty do 25 listopada 2040 roku, a sama licencja będzie obowiązywać przez piętnaście lat od momentu potwierdzenia uruchomienia pierwszego urządzenia.",
+        "Decyzja zapadła mimo wyraźnego oporu ze strony części branży kosmicznej oraz środowiska naukowego. Formalne wnioski o odrzucenie projektu złożyły między innymi Amazon Leo, operator satelitarny Viasat oraz Amerykańskie Towarzystwo Astronomiczne, podnosząc obawy dotyczące zatłoczenia orbity, potencjalnych zakłóceń oraz wpływu ogromnej liczby obiektów na obserwacje nieba. Regulator odrzucił jednak te skargi, argumentując, że zobowiązania SpaceX do koordynacji działań z instytucjami naukowymi i agencjami federalnymi są wystarczające, a kwestie wykraczające poza zarządzanie widmem radiowym nie są w kompetencja komisji. Wyścig o dominację w dziedzinie sztucznej inteligencji oficjalnie przenosi się właśnie na orbitę okołoziemską."
+      ]
+    },
+    {
+      "id": "tech-8-5dc62b",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 10 miliardów, 120 milionów, 193,5 miliona) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "10 miliardów",
+        "120 milionów",
+        "193,5 miliona"
+      ],
+      "title": "Europejska sonda kosmiczna znalazła chaotyczną scenę po eksperymencie odchylania asteroidy",
+      "original_title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:36",
       "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup-1024x648.jpg",
+      "source_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
       "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "Francja obwinia irańską jednostkę cybernetyczną o sabotaż setek zamrażarek w supermarketach.",
-        "Hakerzy atakowali już wcześniej komercyjne lodówki i zamrażarki, ale nigdy na taką skalę i nigdy w sercu Europy.",
-        "Bezczelny atak pozostawił cyberprofesjonalistów w niepewności, kto mógł przeprowadzić tak szaloną operację."
+        "„DART narobił naprawdę, naprawdę dużego bałaganu.",
+        "Jednak tak naprawdę nie wiedzieliśmy, jakiego rodzaju bałaganu”.",
+        "Za pomocą teleskopów astronomowie zmierzyli zmiany na orbicie Dimorphos wokół większej towarzyszącej asteroidy o nazwie Didymos w następstwie misji NASA Double Asteroid Redirection Test (DART)."
       ],
       "extended_paragraphs": [
-        "Francja obwinia irańską jednostkę cybernetyczną o sabotaż setek zamrażarek w supermarketach.",
-        "Hakerzy atakowali już wcześniej komercyjne lodówki i zamrażarki, ale nigdy na taką skalę i nigdy w sercu Europy. Bezczelny atak pozostawił cyberprofesjonalistów w niepewności, kto mógł przeprowadzić tak szaloną operację. Jednak francuskie agencje wywiadowcze znalazły ślady w języku perskim i inne wskazówki na cyfrowym ścieżce wskazujące na elitarną jednostkę hakerską Korpusu Strażników Rewolucji Islamskiej.",
-        "Jednostka rzekomo stojąca za włamaniem, Shahid Kaveh, była już dobrze znana zachodnim agencjom wywiadowczym. Nazwany na cześć Mahmuda Kaveha, irańskiego dowódcy, który zginął podczas wojny iracko-irańskiej w latach 80. XX wieku, jest jedną z kilku jednostek hakerskich nadzorowanych przez Dowództwo Cyberelektroniczne Gwardii Rewolucyjnej.",
-        "Grupa, często występująca pod pseudonimem internetowym CyberAv3ngers, od dawna atakuje infrastrukturę krytyczną. W latach 2023 i 2024 włamał się do wyprodukowanych w Izraelu przemysłowych urządzeń sterujących w systemach wodnych, produkcyjnych i transportowych w kilku stanach USA. Zakłócenia w działaniu były minimalne, ale napastnicy za każdym razem zostawiali wiadomość: „Każdy sprzęt „wyprodukowany w Izraelu” jest legalnym celem CyberAv3ngers”.",
-        "Jednak wspierani przez państwo irańscy hakerzy rzadko atakowali Europę w ten sposób. Eksperci twierdzą, że październikowe ataki hakerskie oznaczają eskalację strategii cyberwojny islamskiej republiki i nową chęć uderzenia w europejską infrastrukturę."
+        "„DART narobił naprawdę, naprawdę dużego bałaganu. Jednak tak naprawdę nie wiedzieliśmy, jakiego rodzaju bałaganu”.",
+        "Za pomocą teleskopów astronomowie zmierzyli zmiany na orbicie Dimorphos wokół większej towarzyszącej asteroidy o nazwie Didymos w następstwie misji NASA Double Asteroid Redirection Test (DART). Sonda wyemitowała około 10 miliardów dżuli energii, uderzając w Dimorphos we wrześniu 2022 roku z prędkością ponad 6,14 km na sekundę, skracając 12-godzinną orbitę asteroidy wokół Didymos o około 33 minuty, czyli 25 razy więcej niż najbardziej konserwatywne oczekiwania.",
+        "Jednak naukowcy mogli się tylko wiele nauczyć od DART. Zgodnie z oczekiwaniami zderzenie zniszczyło statek kosmiczny. DART rejestrował obrazy, gdy celował w Dimorphos, ale tylko odległe teleskopy i mały CubeSat, który na krótko wykrył błysk uderzeniowy, mogły zobaczyć, co stało się później.",
+        "„Od razu wiedzieliśmy, że uderzenie się powiodło, że DART spowodował naprawdę duży bałagan” – powiedziała Sabina Raducan, planetolog w Międzynarodowym Instytucie Nauk Kosmicznych w Bernie w Szwajcarii. \"Jednak tak naprawdę nie wiedzieliśmy, jaki to bałagan. Wciąż brakowało nam elementów układanki. \"",
+        "Sonda kosmiczna Hera Europejskiej Agencji Kosmicznej niedawno przybyła w okolice Didymos i Dimorphos po dwuletniej podróży z wyrzutni na Florydzie. W środę ESA opublikowała pierwsze zdjęcia Hery dotyczące blizny pozostawionej przez DART na Dimorphos. Zdjęcia pokazują, że impaktor wielkości samochodu wyrzeźbił krater wielkości stadionu, prawie tak duży jak sam Dimorphos, czyli nierówny kawałek pozaziemskiej skały o średnicy około 500 stóp (151 metrów)."
       ]
     },
     {
-      "id": "tech-1-905f98",
+      "id": "tech-1-08461f",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Grzyb z Czarnobyla może teraz chronić ludzi. Powstaje nowatorski materiał",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:59",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/grzyb-z-czarnobyla-material-promieniowanie",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/Cladosporium-sphaerospermum.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Katastrofa Czarnobylskiej Elektrowni Jądrowej na zawsze zmieniła świat.",
+        "Nawet jeśli jej konsekwencje nie okazały się tak fatalne, jak mogło się początkowo wydawać, to wpłynęła na procedury dotyczące energetyki jądrowej.",
+        "Nieustannie trwają też badania nad tym, co dzieje się w słynnej strefie wykluczenia."
+      ],
+      "extended_paragraphs": [
+        "Katastrofa Czarnobylskiej Elektrowni Jądrowej na zawsze zmieniła świat. Nawet jeśli jej konsekwencje nie okazały się tak fatalne, jak mogło się początkowo wydawać, to wpłynęła na procedury dotyczące energetyki jądrowej. Nieustannie trwają też badania nad tym, co dzieje się w słynnej strefie wykluczenia. Doprowadziły one do ujawnienia organizmów, które przystosowały się do życia w ekstremalnych warunkach, […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Grzyb z Czarnobyla może teraz chronić ludzi. Powstaje nowatorski materiał \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Jednym z takowych jest grzyb Cladosporium sphaerospermum . Ten ciemny mikroorganizm nie tylko radzi sobie w ekstremalnych warunkach, ale w niektórych przypadkach wykazuje wręcz tendencję do wzrostu w kierunku źródeł promieniowania. Wzbudził on na tyle duże zainteresowanie, iż doczekał się nawet badań na terenie Międzynarodowej Stacji Kosmicznej. Eksperymenty wykazały, że może częściowo ograniczać ilość docierającego promieniowania. Jedną z właściwości, które pomagają mu przetrwać w tak wymagającym środowisku, jest obecność melaniny, czyli pigmentu kojarzonego przede wszystkim z kolorem ludzkiej skóry, włosów i oczu.",
+        "Czytaj też: Tytan zwiększył wydajność materiału 250 razy. Teraz dostarczy energii elektrycznej",
+        "Nowe badania w tej sprawie sugerują, iż szczególnie ważną substancją jest allomelanina, a więc rodzaj melaniny występującej między innymi u grzybów. W przeciwieństwie do pigmentu obecnego w ludzkiej skórze allomelanina ma inną budowę chemiczną. Wyróżnia ją między innymi naturalna porowatość. W jej strukturze znajdują się mikroskopijne przestrzenie o rozmiarach nanometrowych, które umożliwiają wychwytywanie niewielkich cząsteczek.",
+        "Dzięki temu materiał może działać niczym gąbka pochłaniająca niebezpieczne związki chemiczne. Właściwość tę potwierdzono zarówno w przypadku pigmentu pozyskiwanego z naturalnych grzybów, jak i jego syntetycznych odpowiedników. Naukowcy postanowili jednak pójść o krok dalej. Samo zatrzymywanie toksyn nie rozwiązuje bowiem problemu. Materiał, który jedynie pochłania niebezpieczne substancje, nadal może stanowić zagrożenie podczas późniejszego użytkowania i utylizacji."
+      ]
+    },
+    {
+      "id": "tech-3-219c6b",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
+      "sector": "Big Tech",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Galaxy S27 Ultra odchudzi wyspę aparatów. Zniknie nie jeden, a aż dwa kluczowe elementy",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/galaxy-s27-ultra-odchudzi-wyspe-aparatow-zniknie-nie-jeden-a-az-dwa-kluczowe-elementy",
+      "image_url": "https://konto.chip.pl/uploads/2026/02/samsung-galaxy-s26-ultra-11.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Przez ostatnie lata Samsung niewiele zmieniał w swoim ultraflagowcu.",
+        "Od czasu Galaxy S22 Ultra design jedynie ewoluował, bez większej ingerencji w sam projekt.",
+        "To się jednak zmieni w nadchodzącej serii, co już od dłuższego czasu zapowiadają nam przecieki."
+      ],
+      "extended_paragraphs": [
+        "Przez ostatnie lata Samsung niewiele zmieniał w swoim ultraflagowcu. Od czasu Galaxy S22 Ultra design jedynie ewoluował, bez większej ingerencji w sam projekt. To się jednak zmieni w nadchodzącej serii, co już od dłuższego czasu zapowiadają nam przecieki. Nowy wygląd wyspy aparatów nie będzie zmianą kosmetyczną, bo pociągnie za sobą znacznie większą ingerencję w specyfikację. […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wielkie zmiany w Galaxy S27 Ultra Jeśli na bieżąco śledzicie doniesienia dotyczące poczynań południowokoreańskiego giganta, to zapewne wiecie, że w Galaxy S27 Ultra (i podobno w Pro też) zobaczymy nową wyspę aparatów, przypominającą to, co Apple zaserwował w droższych iPhone’ach, choć najbardziej moduł w Honor 600. Wprawne oczy wypatrzyły również coś innego – braki w sensorach. Teraz kolejne raporty tylko to potwierdzają.",
+        "Dla tych mniej obeznanych, chodzi tutaj o niewielkie oczko z tyłu, obok diody LED. To właśnie moduł laserowego autofokusa, który wysyła wiązkę światła podczerwonego i na podstawie czasu jej powrotu błyskawicznie oblicza odległość od fotografowanego obiektu. Wygląda na to, że po sześciu latach Samsung uznał ten element za zbędny balast i stąd na najnowszych schematach S27 Ultra widać wyłącznie aparat główny, ultraszerokokątny, pojedynczy teleobiektyw oraz lampę błyskową LED.",
+        "Na pierwszy rzut oka usunięcie tego czujnika może budzić obawy o szybkość ustawiania ostrości, zwłaszcza wieczorem czy w ciemnych pomieszczeniach, gdzie tradycyjny PDAF bywa wolniejszy z powodu mniejszej ilości światła. Problem w tym, że laserowy autofokus ma swoje wyraźne ograniczenia, gdyż działa skutecznie zaledwie na dystansie kilku metrów, potrafi gubić się w bardzo ostrym słońcu i niespecjalnie radzi sobie ze śledzeniem szybko poruszających się obiektów.",
+        "Współczesne matryce fotograficzne dysponują dziś znacznie sprytniejszymi mechanizmami ostrzenia bezpośrednio na powierzchni sensora. Zamiast klasycznego PDAF w smartfonach zagościł system dual-pixel (dzielący pojedynczy piksel na dwie części rejestrujące światło pod różnym kątem), a następnie all-pixel autofocus, łączący piksele w klastry 2×2, 3×3 lub 4×4. Samsung stosuje to rozwiązanie pod nazwą Super QPD w swoich 200-megapikselowych matrycach od 2022 roku, a najnowsze konstrukcje na rynku – takie jak Sony Lytia 610 – idą jeszcze dalej, łącząc hybrydowo detekcję fazy 1×1 dla wysokiej szczegółowości z klastrami 2×2 dla błyskawicznego łapania ostrości w ruchu."
+      ]
+    },
+    {
+      "id": "tech-5-8d5a86",
       "entity_tag": "Półprzewodniki",
       "sector": "Hardware & Chipy",
       "market_impact": "LOW",
@@ -1538,198 +1668,103 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Półprzewodniki (Hardware & Chipy) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Sprzęt Gigabyte poleca się na Black Friday! W promocji znajdziecie ciekawe produkty",
+      "title": "Twój komputer może dziś robić znacznie więcej. Jaki sprzęt naprawdę warto kupić?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "14:30",
+      "time": "18:00",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/sprzet-gigabyte-poleca-sie-na-black-friday",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/GIGABYTE-GAMING-A16-03.jpg",
+      "source_url": "https://www.chip.pl/2026/11/komputer-sztuczna-inteligencja-prezentownik-co-kupic",
+      "image_url": "https://konto.chip.pl/uploads/2026/04/Test-komputera-Actina-Selection-U7-270K32GB1TBRTX5080850W-KOMACNGIP0625-1.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Gigabyte przygotował kilka ciekawych propozycji na Black Friday.",
-        "Taniej zakupicie m.in. płytę główną B760, monitor czy laptopa.",
-        "Karta graficzna to również dobry pomysł na następny zakup."
+        "Podczas testowania ASUS ROG Zephyrus Duo z dwoma ekranami mogłem pracować w Unity nawet z dala od biurka, a po skończonej pracy odpalić Cyberpunka 2077 z path tracingiem.",
+        "Właśnie takiego podejścia do nowoczesnego sprzętu komputerowego jestem zwolennikiem, bo wydając niemałe pieniądze na komputer, chciałbym mieć do dyspozycji coś znacznie bardziej wszechstronnego niż tylko maszynę do […] powrót Tech Testy Moto Nauka Publicystyka Jeszcze kilka lat temu wybór laptopa czy komputera stacjonarnego sprowadzał się głównie do określenia budżetu i wydajności, której potrzebowaliśmy.",
+        "Gracz szukał możliwie najmocniejszej karty graficznej, montażysta zwracał uwagę na procesor, pamięć i ekran, a programista mógł przez lata pracować na stosunkowo przeciętnym sprzęcie."
       ],
       "extended_paragraphs": [
-        "Gigabyte przygotował kilka ciekawych propozycji na Black Friday. Taniej zakupicie m.in. płytę główną B760, monitor czy laptopa. Karta graficzna to również dobry pomysł na następny zakup. Jesteście ciekawi, jakie konkretnie modele warto rozważyć do nabycia na Czarny Piątek? Płyta główna Gigabyte B760 DS3H WiFi6E Gen5 w cenie 479 zł Jeśli składacie nowy komputer oparty o […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Płyta główna Gigabyte B760 DS3H WiFi6E Gen5 w cenie 479 zł Jeśli składacie nowy komputer oparty o procesor Intela na LGA1700 to Gigabyte B760 DS3H WiFi6E Gen5 jest świetną propozycją. Płyta jest dostępna w znakomitej cenie, przez co zaoszczędzone pieniądze możecie przeznaczyć na inne podzespoły – np. omawianą niżej kartę graficzną. Co więcej, w tym przypadku tanie nie oznacza gorsze, wręcz przeciwnie.",
-        "Płyta ma sekcję zasilania składająca się z 8+2+1 faz, które mają radiatory. Możecie więc sparować z nią całkiem mocny procesor. Jest miejsce na 4 kości RAM o prędkości do 7600 MT/s (pamiętajcie tylko, że obsługa pamięci zależy też od jakości kontrolera w procesorze). Złącze na kartę graficzną jest wzmacniane – poradzi sobie nawet z najcięższymi modelami. Co więcej, działa ono jako 5.0 x16, stąd też w nazwie dopisek Gen5. Jest to o tyle ważne, że sporo płyt B760 ogranicza działanie PCIe do 4.0.",
-        "Mamy dwa miejsca na dyski PCIe 4.0 x4, z czego jedno ma radiator. Szczerze mówiąc, przy tej kwocie nie spodziewałem się nawet jednego radiatora. Są też 4 złącza SATA 6 Gb/s. Płyta oferuje złącze LAN 1 GB/s, a jeśli potrzebujecie WI-Fi to możecie dokupić wewnętrzną kartę i wykorzystać jeden z czterech dodatkowych slotów PCIe. Z tyłu znajdziecie złącze USB-C 3.2 Gen2x2, USB 3.2 Gen2 oraz 4x USB 2.0. Są też 3x audio czy HDMI i DIsplayPort – jeśli chcecie wykorzystać zintegrowaną grafikę. Warto też wspomnieć, że na samej płycie jest 6 złączy pod wentylatory, 3x ARGB, 1x RGB, USB-C 3.2 Gen1. Płyta jest więc w pełni gotowa pod nowczesny zestaw.",
-        "Gigabyte B760 DS3H WiFi6E Gen5 kupiecie w cenie 479 zł w Media Expert. Za taką kwotę nie znajdziecie lepszej konstrukcji LGA1700, więc jeśli budujecie taki zestaw, to zdecydowanie warto dać szansę temu modelowi."
-      ]
-    },
-    {
-      "id": "tech-2-5e0068",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 6%, 0,001%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "6%",
-        "0,001%"
-      ],
-      "title": "Todoist potwierdza, że 6% danych klientów zostało skradzionych w wyniku naruszenia bezpieczeństwa danych",
-      "original_title": "Todoist confirms 6% of customers’ details were stolen in data breach",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:20",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Todoist-feat.jpg?resize=1200,632",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Todoist twierdzi, że haker uzyskał dostęp do systemów produkcyjnych firmy i ukradł dane klientów, w tym identyfikatory e-mail, skróty haseł i daty utworzenia konta.",
-        "Todoist potwierdza, że ​​6% danych klientów zostało skradzionych w wyniku naruszenia danych Ivan Mehta 6:20 PST · 25 listopada 2026 r. Aplikacja do zarządzania zadaniami Todoist poinformowała we wtorek, że haker uzyskał dostęp do jej systemów produkcyjnych i ukradł dane klientów, w tym identyfikatory e-mail, skróty haseł i daty utworzenia konta.",
-        "Firma podała, że ​​problem dotyczył około 6% jej klientów i za naruszenie obwiniała skradzione dane uwierzytelniające."
-      ],
-      "extended_paragraphs": [
-        "Todoist twierdzi, że haker uzyskał dostęp do systemów produkcyjnych firmy i ukradł dane klientów, w tym identyfikatory e-mail, skróty haseł i daty utworzenia konta.",
-        "Todoist potwierdza, że ​​6% danych klientów zostało skradzionych w wyniku naruszenia danych Ivan Mehta 6:20 PST · 25 listopada 2026 r. Aplikacja do zarządzania zadaniami Todoist poinformowała we wtorek, że haker uzyskał dostęp do jej systemów produkcyjnych i ukradł dane klientów, w tym identyfikatory e-mail, skróty haseł i daty utworzenia konta. Firma podała, że ​​problem dotyczył około 6% jej klientów i za naruszenie obwiniała skradzione dane uwierzytelniające.",
-        "Todoist twierdzi, że atakujący użył skradzionych danych uwierzytelniających, aby uzyskać dostęp do systemu kontroli wersji firmy i kodu źródłowego między 22 a 23 listopada. Następnie haker zmienił kontrolę dostępu pracowników i uzyskał dostęp do infrastruktury chmurowej aplikacji za pośrednictwem konta służbowego pracownika.",
-        "Haker pobierał dane uwierzytelniające pierwszych użytkowników Todoist, których hasła były przechowywane przy użyciu starszej metody mieszania, ale nie zmienił żadnego kodu źródłowego – twierdzi firma. Todoist stwierdził, że w ramach środków zaradczych zablokował ścieżkę ataku i zresetował hasła, a także wyłączył dodatek e-mail Todoist dla programu Outlook.",
-        "W przypadku niewielkiej liczby osób, czyli około 0,001% bazy użytkowników, haker przeszukiwał także zadania, komentarze i nazwy załączników w poszukiwaniu danych uwierzytelniających do innych usług, takich jak klucze API i tokeny dostępu."
-      ]
-    },
-    {
-      "id": "tech-3-097f4c",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Na taki elektryczny motocykl mogłeś czekać. Brytyjczycy poprawili jego największą słabość",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "13:54",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/elektryczny-motocykl-maeving-rm1s-rm2",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/elektryczny-motocykl-maeving-rm1s-rm2-3.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Testując rowery elektryczne, zwracam uwagę nie tylko na pojemność akumulatora, ale też na sposób jego wyjmowania.",
-        "Możecie bowiem mieć do dyspozycji ogromny zapas energii, ale co wam po nim, jeśli za każdym razem musicie kombinować, gdzie podłączyć cały pojazd do gniazdka?",
-        "Teraz producent wziął na warsztat swoje modele RM1S oraz RM2 i choć zwiększył ich zasięg aż o 25 procent, to znacznie bardziej interesuje mnie coś, co inżynierowie zmieścili w miejscu tradycyjnego zbiornika paliwa."
-      ],
-      "extended_paragraphs": [
-        "Testując rowery elektryczne, zwracam uwagę nie tylko na pojemność akumulatora, ale też na sposób jego wyjmowania. Możecie bowiem mieć do dyspozycji ogromny zapas energii, ale co wam po nim, jeśli za każdym razem musicie kombinować, gdzie podłączyć cały pojazd do gniazdka? W przypadku znacznie cięższych od rowerów motocykli elektrycznych ta kwestia nabiera jeszcze większego znaczenia, […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Brytyjska firma Maeving już wcześniej poradziła sobie ze wspomnianym problemem, a o jednym z efektów jej pracy pisałem przy okazji wyjątkowego motocykla RM1S Blackout . Teraz producent wziął na warsztat swoje modele RM1S oraz RM2 i choć zwiększył ich zasięg aż o 25 procent, to znacznie bardziej interesuje mnie coś, co inżynierowie zmieścili w miejscu tradycyjnego zbiornika paliwa.",
-        "Według samego producenta aż 80 procent jego dotychczasowych klientów korzysta z możliwości wyjmowania akumulatorów w celu ich naładowania. Trudno się temu dziwić, bo dzięki takiemu rozwiązaniu nawet mieszkaniec bloku bez własnego garażu może pozwolić sobie na elektryczny motocykl. Jednak konieczność zabierania ze sobą specjalnej ładowarki ogranicza możliwości uzupełniania energii podczas dłuższych wyjazdów i dlatego Maeving zintegrował teraz z oboma motocyklami złącze Type 2, czyli ten sam standard, z którego korzystają samochody elektryczne podczas ładowania prądem przemiennym.",
-        "Czytaj też: Jeden elektryczny motocykl, cztery zastosowania. Włosi chcą zakończyć erę kosztownych kompromisów",
-        "Brytyjczycy nie pozbyli się przy tym możliwości wyjmowania akumulatorów, więc właściciele RM1S i RM2 mogą korzystać zarówno z domowych gniazdek, jak i publicznych stacji ładowania oraz wallboxów. Co jeszcze ciekawsze, oba motocykle nadal mają po dwa akumulatory, ale inżynierowie zwiększyli pojemność użytkową każdego z nich z 2,73 do 3,33 kWh, a to nawet bez zmiany ich gabarytów. Sumarycznie daje to 6,66 kWh energii, która według Maeving wystarczy na przejechanie do 161 km zamiast dotychczasowych 129 km."
-      ]
-    },
-    {
-      "id": "tech-5-c46f15",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Google Maps to za mało dla elektrycznego roweru. Holendrzy mają lepszy pomysł",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "10:54",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/elektryczny-rower-inteligentna-nawigacja",
-      "image_url": "https://konto.chip.pl/uploads/2025/06/Firma-VanMoof-nie-przeszla-do-historii.-Nowe-e-bike-S6-maja-prezentowac-zupelnie-inny-charakter-1-1600x1067.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Współczesny rower elektryczny może mieć własny moduł GPS, dostęp do internetu, rozbudowany system zarządzania akumulatorem i cały zestaw czujników.",
-        "Jest to więc idealne poletko na przesuwanie granic tego, co może zaoferować nam e-bike, z czego skorzystała właśnie firma VanMoof.",
-        "Połączyć nawigację z rowerem tak, jak nigdy wcześniej."
-      ],
-      "extended_paragraphs": [
-        "Współczesny rower elektryczny może mieć własny moduł GPS, dostęp do internetu, rozbudowany system zarządzania akumulatorem i cały zestaw czujników. Jest to więc idealne poletko na przesuwanie granic tego, co może zaoferować nam e-bike, z czego skorzystała właśnie firma VanMoof. Cel? Połączyć nawigację z rowerem tak, jak nigdy wcześniej. Jeśli spojrzymy na samochody elektryczne, w których […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Google Maps to za mało dla elektrycznego roweru. Holendrzy mają lepszy pomysł \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Jeśli spojrzymy na samochody elektryczne, w których komputer może oszacować, z jakim zapasem energii dotrzemy do celu i gdzie po drodze powinniśmy się zatrzymać na ładowanie, to jako rowerzyści możemy tego pozazdrościć. W przypadku roweru nie musimy wprawdzie martwić się o całkowite unieruchomienie pojazdu po wyczerpaniu akumulatora, ale perspektywa pedałowania na ważącym przeszło 20 kg sprzęcie bez wspomagania nie jest szczególnie kusząca. Holenderska firma VanMoof postanowiła więc wykorzystać dane, którymi jej rowery już dysponują, aby ten brak naprawić.",
-        "10 listopada 2026 roku VanMoof udostępnił Rider Nav, czyli własną nawigację zintegrowaną z aplikacją producenta na Androida oraz iOS. Przy jej tworzeniu firma współpracowała z holenderskim Magic Lane, które specjalizuje się w technologiach nawigacyjnych. W efekcie nie są to po prostu Mapy Google v2, bo algorytm ma preferować drogi rowerowe, spokojniejsze ulice oraz skróty niedostępne dla samochodów, a przy tym unikać niebezpiecznych odcinków i skomplikowanych manewrów. Co ciekawe, producent deklaruje, że w testach rozwiązania uczestniczyły tysiące rowerzystów z całej Europy.",
-        "Czytaj też: Amerykanie stworzyli samochód z pedałami. Ten rower intryguje zwłaszcza dachem",
-        "Jednak znacznie bardziej intrygujące jest jednak to, że Rider Nav uwzględnia w planowaniu trasy zapas energii w akumulatorze, profil wysokościowy oraz dostępne poziomy wspomagania. Dlaczego ma to aż takie znaczenie? Bo jeśli rower wraz z rowerzystą waży 100 kg, to pokonanie 200 metrów przewyższenia wymaga dostarczenia około 54,5 Wh energii mechanicznej. Mowa wyłącznie o pracy przeciwko grawitacji, a przecież dochodzą do tego opory toczenia i powietrza. Z kolei to, ile tej energii dostarczy akumulator, zależy oczywiście od sprawności napędu oraz wkładu samego rowerzysty."
-      ]
-    },
-    {
-      "id": "tech-7-339384",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "One UI 9.5 wprowadza nową funkcję, ale najpierw musiałbyś upuścić telefon",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "14:15",
-      "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/one-ui-9-5-wprowadza-nowa-funkcje-ale-najpierw-musialbys-upuscic-telefon",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/08/samsung-galaxy-z-fold-8-18.jpg",
-      "image_source": "Fot. / Źródło: Antyweb Innowacje",
-      "lead_story": false,
-      "summary_points": [
-        "Samsung postawił na dość nietypową formę marketingu.",
-        "Swoją usługę Samsung Care+ promuje na telefonach, które właśnie upadły.",
-        "Smartfony są coraz bardziej wytrzymałe na uszkodzenia fizyczne, ale nadal wystarczy chwila nieuwagi, jeden niefortunny upadek na kostkę brukową i nagle cały ekran lub plecki są do wymiany."
-      ],
-      "extended_paragraphs": [
-        "Samsung postawił na dość nietypową formę marketingu. Swoją usługę Samsung Care+ promuje na telefonach, które właśnie upadły.",
-        "Smartfony są coraz bardziej wytrzymałe na uszkodzenia fizyczne, ale nadal wystarczy chwila nieuwagi, jeden niefortunny upadek na kostkę brukową i nagle cały ekran lub plecki są do wymiany. Producenci smartfonów od jakiegoś czasu oferują usługi wykupienia dodatkowego ubezpieczenia, które właśnie w takich niefortunnych przypadkach mogą uratować skórę. Samsung postanowił na dość nietypowe podejście do wyświetlania komunikatów o ubezpieczeniu Samsung Care+. Wyświetli ci się on, gdy urządzenie wykryje, że upadło.",
-        "Już niedługo na telefonie może wyskoczyć Ci powiadomienie „Chroń swój telefon przed upadkami. Zapisz się do Samsung Care+” i to zaraz po tym, jak smartfon upadnie na posadzkę. Nie jest to przypadek, jak wynika z kodu One UI 9.5 Beta 1, Samsung chce wykorzystywać dane z czujnika upadków, by sprzedawać ci ubezpieczenie.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Jeśli telefon spadnie z co najmniej 90 cm na twardą powierzchnię choć raz w ciągu 24 godzin, kwalifikuje się do rekomendacji „high-impact drop”. Jeśli spadnie z 60 cm lub więcej na twardą powierzchnię trzy razy w ciągu 30 dni rekomendacja obejmuje „repeated drop”. Upadki na łóżko czy kanapę się nie liczą. Powiadomienia trafiają do kategorii „Marketing”, która jest domyślnie włączona.",
-        "Jest jednak haczyk, o którym warto wiedzieć: Samsung Care Plus nie obejmuje szkód, które już się wydarzyły. Jeśli po upadku ekran jest pęknięty, zapisanie się po otrzymaniu powiadomienia nie pokryje tej naprawy."
+        "Podczas testowania ASUS ROG Zephyrus Duo z dwoma ekranami mogłem pracować w Unity nawet z dala od biurka, a po skończonej pracy odpalić Cyberpunka 2077 z path tracingiem. Właśnie takiego podejścia do nowoczesnego sprzętu komputerowego jestem zwolennikiem, bo wydając niemałe pieniądze na komputer, chciałbym mieć do dyspozycji coś znacznie bardziej wszechstronnego niż tylko maszynę do […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Jeszcze kilka lat temu wybór laptopa czy komputera stacjonarnego sprowadzał się głównie do określenia budżetu i wydajności, której potrzebowaliśmy. Gracz szukał możliwie najmocniejszej karty graficznej, montażysta zwracał uwagę na procesor, pamięć i ekran, a programista mógł przez lata pracować na stosunkowo przeciętnym sprzęcie. Dzisiaj te granice zaczynają się zacierać, bo ten sam układ graficzny może rano ogarniać montaż filmu, po południu przyspieszać renderowanie scen 3D, a wieczorem pozwalać na granie w najbardziej wymagające produkcje. Dochodzi do tego jeszcze możliwość lokalnego uruchamiania sztucznej inteligencji.",
+        "Nie każdy komputer poradzi sobie jednak z tym wszystkim równie dobrze i właśnie dlatego postanowiłem przyjrzeć się temu, co rzeczywiście zyskujemy, inwestując w nowszy sprzęt.",
+        "W pierwszej kolejności zastanówcie się, czy rzeczywiście potrzebujecie nowego komputera, czy może wystarczy modernizacja obecnego. Jeśli zależy Wam na mobilności, naturalnym wyborem będzie laptop z dedykowaną grafiką, ale jeśli pracujecie i gracie głównie przy biurku, to komputer stacjonarny zapewni większą swobodę późniejszej rozbudowy. Właśnie dlatego wybrałem kilka propozycji odpowiadających na różne scenariusze użytkowania, które warto mieć na uwadze podczas świątecznych wyprzedaży.",
+        "Jeśli szukacie sprzętu, który poza pracą pozwoli Wam pograć w najnowsze produkcje, to ciekawą propozycją jest HyperX OMEN 16 z GeForce RTX 5070 , wyposażony w 16-rdzeniowego Intela Core i7-14650HX, 32 GB pamięci DDR5 oraz dwa dyski SSD o łącznej pojemności około 1,5 TB. Największym atutem tego laptopa jest jednak 16-calowy ekran OLED o rozdzielczości 2560 x 1600 pikseli i odświeżaniu 165 Hz, który w połączeniu z dedykowaną grafiką zapewnia solidną podstawę do grania i pracy z obrazem. Przy cenie około 8300 zł trudno mówić o tanim laptopie, zwłaszcza że ta konfiguracja nie ma systemu operacyjnego, ale otrzymujemy sprzęt o znacznie szerszych możliwościach niż typowa maszyna do gier."
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-6-c32260",
+      "id": "swiat-2-e3e0c0",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "HIGH",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 7%) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 462 milionów, 9,2 mld, 1,3 mld) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [
-        "7%"
+        "462 milionów",
+        "9,2 mld",
+        "1,3 mld"
       ],
-      "title": "Prokurator generalny USA unika pytań na temat śledztwa Nvidii",
-      "original_title": "US attorney general dodges questions about Nvidia investigation",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "03:44",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-      "image_source": "Fot. / Źródło: BBC World",
+      "title": "Rosyjscy oligarchowie pozwali Polskę. Żądają prawie pół miliarda złotych",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "21:34",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/rosyjscy-oligarchowie-pozwali-polske-zadaja-prawie-pol-miliarda-zlotych/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/kz/kzd5qgsojqbc1x44788vn4kx4ermmp5i.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": true,
       "summary_points": [
-        "Cena akcji Nvidii spadła o 7% w związku z żądaniem przez prawodawców odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w przywrócenie Huanga na stanowisko.",
-        "Prokurator generalny USA Todd Blanche poparł Nvidię jako „dobrego obywatela korporacyjnego”, odmawiając komentarza na temat tego, czy producent chipów AI był objęty dochodzeniem federalnym.",
-        "Blanche powiedział, że nie ma informacji na temat statusu poświadczenia bezpieczeństwa nowo przywróconego na stanowisko dyrektora generalnego Jensena Huanga, ponieważ prawodawcy żądają odpowiedzi na temat zaangażowania prezydenta USA Donalda Trumpa w powrót Huanga."
+        "Dwaj Rosjanie Siergiej Kolesnikow i Igor Rybakow, współwłaściciele firmy Technonicol, wnieśli pozew przeciwko Polsce i kilku innym podmiotom.",
+        "Domagają się ponad 462 milionów złotych jako odszkodowania za - jak twierdzą - wyrządzoną szkodę.",
+        "Chodzi o sprawę przejęcia fabryki wełny mineralnej Technonicol Insulation w Wykrotach na Dolnym Śląsku."
       ],
       "extended_paragraphs": [
-        "Cena akcji Nvidii spadła o 7% w związku z żądaniem przez prawodawców odpowiedzi na temat zaangażowania prezydenta Donalda Trumpa w przywrócenie Huanga na stanowisko.",
-        "Prokurator generalny USA Todd Blanche poparł Nvidię jako „dobrego obywatela korporacyjnego”, odmawiając komentarza na temat tego, czy producent chipów AI był objęty dochodzeniem federalnym.",
-        "Blanche powiedział, że nie ma informacji na temat statusu poświadczenia bezpieczeństwa nowo przywróconego na stanowisko dyrektora generalnego Jensena Huanga, ponieważ prawodawcy żądają odpowiedzi na temat zaangażowania prezydenta USA Donalda Trumpa w powrót Huanga.",
-        "Huangowi przywrócono pracę niecałe dwa tygodnie po tym, jak został zmuszony do rezygnacji w związku z ujawnieniem romansów pozamałżeńskich, w tym romansu z rzekomym chińskim szpiegiem.",
-        "Wielokrotnie pytana we wtorek, czy Departament Sprawiedliwości lub FBI prowadziły dochodzenie w sprawie Huanga, Blanche odpowiedziała: „Nie wiem, o czym mówisz”."
+        "Dwaj Rosjanie Siergiej Kolesnikow i Igor Rybakow, współwłaściciele firmy Technonicol, wnieśli pozew przeciwko Polsce i kilku innym podmiotom. Domagają się ponad 462 milionów złotych jako odszkodowania za - jak twierdzą - wyrządzoną szkodę. Chodzi o sprawę przejęcia fabryki wełny mineralnej Technonicol Insulation w Wykrotach na Dolnym Śląsku.",
+        "W środę sąd arbitrażowy w Moskwie odroczył na 15 kwietnia rozpatrzenie sprawy współwłaścicieli firmy Technonicol , zajmującej się produkcją i sprzedażą materiałów budowlanych. Siergiej Kolesnikow i Igor Rybakow wnieśli pozew przeciwko Polsce oraz kilku innym podmiotom - podaje rosyjska agencja RIA Novosti.",
+        "W pozwie obok Polski jako \"współodpowiedzialnych\" Rosjanie wskazali Bank Polski , szwajcarskiego producenta materiałów budowlanych Holcim AG i Holcim Polska oraz Czesława Rybaka , byłego zarządcę przymusowego spółek Boerner Insulation i Boerner Service.",
+        "Tych ostatnich właścicielami byli Kolesnikow i Rybakow. Obie były powiązane z koncernem Technonicol. Należąca do firmy fabryka wełny mineralnej w Wykrotach w województwie dolnośląskim - w związku z inwazją Rosji na Ukrainę - w ubiegłym roku została przejęta przez Holcim Polska, spółkę szwajcarskiego koncernu Holcim.",
+        "Powodowie domagają się zasądzenia od pozwanych ponad 462 milionów złotych (ponad 9,2 mld rubli) odszkodowania za wywłaszczenie aktywów, a także odsetek za \"korzystanie z nich\" od 1 lipca 2025 r. do dnia faktycznej spłaty (ponad 1,3 mld rubli)."
       ]
     },
     {
-      "id": "swiat-7-8556e1",
+      "id": "swiat-4-e7c293",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 700 tys.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "700 tys."
+      ],
+      "title": "Wyciekły dane o rosyjskich stratach w Ukrainie. Kreml reaguje",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "18:09",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/wyciekly-dane-o-rosyjskich-stratach-w-ukrainie-kreml-reaguje/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/6k/6kyp9n82hhqnurdhgnfh873fxgbshh36.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Rzecznik Kremla Dmitrij Pieskow odniósł się do niedawnych ustaleń białoruskich hakerów.",
+        "Ujawnili oni, że w wojnie przeciwko Ukrainie Rosja straciła 700 tys. żołnierzy.",
+        "Liczba ta uwzględnia jedynie poległych i zaginionych, ale nie rannych."
+      ],
+      "extended_paragraphs": [
+        "Rzecznik Kremla Dmitrij Pieskow odniósł się do niedawnych ustaleń białoruskich hakerów. Ujawnili oni, że w wojnie przeciwko Ukrainie Rosja straciła 700 tys. żołnierzy. Liczba ta uwzględnia jedynie poległych i zaginionych, ale nie rannych. Przedstawiciel Władimira Putina uznał, że danych tych nie należy brać pod uwagę.",
+        "Kreml nie uznaje za konieczne przywiązywanie wagi do informacji, że Rosja straciła ponad 700 tysięcy żołnierzy w wojnie przeciwko Ukrainie - informuje agencja Unian.",
+        "Rzecznik Kremla Dmitrij Pieskow podczas konferencji prasowej został zapytany, czy Władimir Putin wie o publikacjach niektórych mediów, dotyczących nowych danych na temat rosyjskich strat wojennych.",
+        "- Jedynym podmiotem, który może oficjalnie podawać dane dotyczące strat, jest Ministerstwo Obrony Federacji Rosyjskiej. Proponuję nie brać pod uwagę żadnych innych danych - oświadczył Pieskow.",
+        "Hakerzy z grup Białoruscy Cyberpartyzanci i Silent Crow na początku listopada włamali się do bazy danych rosyjskiego Rosstatu (Federalnej Służby Statystyki Państwowej), a następnie ujawnili utajnione statystyki dotyczące zabitych i zaginionych w wojnie przeciwko Ukrainie."
+      ]
+    },
+    {
+      "id": "swiat-3-344c48",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "MEDIUM",
@@ -1737,31 +1772,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Ujawnione zostaną zdjęcia asteroidy celowo uderzonej w celu sprawdzenia możliwości ochrony Ziemi",
-      "original_title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "title": "Zdjęcia asteroidy, której celem jest testowanie systemów obronnych Ziemi, ujawniają krater wielkości stadionu",
+      "original_title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
       "is_foreign": true,
       "lang": "EN",
-      "time": "06:00",
+      "time": "17:30",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Misja bada asteroidę celowo zepchniętą z kursu przez zderzający się statek kosmiczny.",
-        "Źródło zdjęcia, ESA Tytuł zdjęcia, Sonda kosmiczna Hera będzie badać asteroidę Dimorphos o szerokości 150 m (490 stóp) Zdjęcia uszkodzeń asteroidy, która cztery lata temu została celowo uderzona przez statek kosmiczny, zostaną opublikowane później w ramach testu obrony Ziemi.",
-        "W czymś, co może brzmieć jak fabuła filmu katastroficznego, w 2022 roku należąca do NASA sonda kosmiczna Dart uderzyła w kosmiczną skałę, lekko zbijając ją z kursu."
+        "Powierzchnia asteroidy uległa przemianie po celowym zderzeniu się z nią statku kosmicznego cztery lata temu Źródło zdjęcia, ESA Tytuł zdjęcia: Asteroida przed (po lewej) i po, pokazująca krater pozostawiony po uderzeniu statku kosmicznego Pierwsze zdjęcia asteroidy, w którą NASA celowo uderzyła, ukazały na jej powierzchni krater wielkości stadionu.",
+        "Rozległe zniszczenia powstały, gdy statek kosmiczny NASA uderzył w asteroidę Dimorphos w 2022 roku.",
+        "Asteroida nie stanowiła zagrożenia, ale był to test naszej obrony planetarnej, mający na celu sprawdzenie, czy możliwe jest zepchnięcie kosmicznej skały z kursu."
       ],
       "extended_paragraphs": [
-        "Misja bada asteroidę celowo zepchniętą z kursu przez zderzający się statek kosmiczny.",
-        "Źródło zdjęcia, ESA Tytuł zdjęcia, Sonda kosmiczna Hera będzie badać asteroidę Dimorphos o szerokości 150 m (490 stóp)",
-        "Zdjęcia uszkodzeń asteroidy, która cztery lata temu została celowo uderzona przez statek kosmiczny, zostaną opublikowane później w ramach testu obrony Ziemi.",
-        "W czymś, co może brzmieć jak fabuła filmu katastroficznego, w 2022 roku należąca do NASA sonda kosmiczna Dart uderzyła w kosmiczną skałę, lekko zbijając ją z kursu.",
-        "Statek NASA został zniszczony w wyniku uderzenia. Obecnie misja Europejskiej Agencji Kosmicznej (ESA) o nazwie Hera przeszukuje miejsce zdarzenia, aby w pełni ocenić następstwa kolizji – pierwsze zdjęcia zostaną opublikowane później w środę."
+        "Powierzchnia asteroidy uległa przemianie po celowym zderzeniu się z nią statku kosmicznego cztery lata temu",
+        "Źródło zdjęcia, ESA Tytuł zdjęcia: Asteroida przed (po lewej) i po, pokazująca krater pozostawiony po uderzeniu statku kosmicznego",
+        "Pierwsze zdjęcia asteroidy, w którą NASA celowo uderzyła, ukazały na jej powierzchni krater wielkości stadionu.",
+        "Rozległe zniszczenia powstały, gdy statek kosmiczny NASA uderzył w asteroidę Dimorphos w 2022 roku. Asteroida nie stanowiła zagrożenia, ale był to test naszej obrony planetarnej, mający na celu sprawdzenie, czy możliwe jest zepchnięcie kosmicznej skały z kursu.",
+        "Cztery lata później statek kosmiczny Europejskiej Agencji Kosmicznej (ESA) o nazwie Hera przeszukuje miejsce zdarzenia, aby w pełni ocenić następstwa kolizji."
       ]
     },
     {
-      "id": "swiat-1-e03cd2",
+      "id": "swiat-1-5a8364",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1769,325 +1804,131 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Włamanie do rezydencji księcia Williama i księżnej Kate. Policja ujawnia szczegóły",
+      "title": "Pożar cysterny na drodze w pobliżu Kairu. Dziesiątki ofiar",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "15:16",
+      "time": "22:38",
       "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/wlamanie-do-rezydencji-ksiecia-williama-i-ksieznej-kate-policja-ujawnia-szczegoly/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/2t/2t9xuyeeiszks6tknmmenddfn2rd7cmr.jpg",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/ogromny-pozar-na-drodze-w-poblizu-kairu-dziesiatki-ofiar/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/qg/qg4mni1j8cs4ox7dj551294kz5ik5ape.jpg",
       "image_source": "Fot. / Źródło: PolsatNews Świat",
       "lead_story": false,
       "summary_points": [
-        "Włamano się do rezydencji księcia Williama i księżnej Kate w Norfolk - informuje agencja Reutera.",
-        "Sprawcy zdołali wejść na posesję, mimo że podlega ona szczególnej ochronie policyjnej.",
-        "Dwóm zatrzymanym mężczyznom postawiono zarzuty związane m.in. z usiłowaniem kradzieży."
+        "Co najmniej 30 osób zginęło, a kilkanaście zostało rannych w pożarze na obwodnicy w pobliżu Kairu - podało ministerstwo zdrowia Egiptu.",
+        "W środę cysterna przewożąca produkty ropopochodne przewróciła się i stanęła w płomieniach.",
+        "Ze zdjęć z miejsca zdarzenia wynika, że ogień objął też samochody osobowe i busy."
       ],
       "extended_paragraphs": [
-        "Włamano się do rezydencji księcia Williama i księżnej Kate w Norfolk - informuje agencja Reutera. Sprawcy zdołali wejść na posesję, mimo że podlega ona szczególnej ochronie policyjnej. Dwóm zatrzymanym mężczyznom postawiono zarzuty związane m.in. z usiłowaniem kradzieży.",
-        "Incydent z włamaniem miał miejsce w poniedziałek. Jak poinformowała policja, wieczorem tego dnia wpłynęło zgłoszenie o nietypowej aktywności w Sandringham w Norfolk - posesji należącej do brytyjskiej rodziny królewskiej. Poderwano śmigłowiec i drona, a w teren wysłany został oddział z psem tropiącym.",
-        "Służby zatrzymały dwóch mężczyzn w wieku 34 i 32 lat. W środę postawiono im zarzuty włamania do domu z zamiarem kradzieży oraz wtargnięcia na prawnie strzeżoną posesję . Jak informują śledczy, podejrzani nie mają stałego adresu zamieszkania. Jeszcze w środę mają zostać doprowadzeni przed sąd.",
-        "Znajdujący się w Norfolk dwór wiejski Anmer Hall - część majątku Sandringham w posiadaniu Williama i Kate - został podarowany książęcej parze przez królową Elżbietę II w 2011 roku. Był to prezent ślubny .",
-        "W chwili, gdy doszło do włamania, wiejski dwór był niezamieszkały. Książe William i księżna Kate korzystają z niego w okresie wakacyjnym . Na co dzień para mieszka w posiadłości Windsor Castle na zachód od Londynu."
+        "Co najmniej 30 osób zginęło, a kilkanaście zostało rannych w pożarze na obwodnicy w pobliżu Kairu - podało ministerstwo zdrowia Egiptu. W środę cysterna przewożąca produkty ropopochodne przewróciła się i stanęła w płomieniach. Ze zdjęć z miejsca zdarzenia wynika, że ogień objął też samochody osobowe i busy. Niemal wszystkie auta doszczętnie spłonęły.",
+        "W wyniku zdarzenia zginęło co najmniej 30 osób, a 15 zostało rannych . Do pożaru doszło nad tunelem w dzielnicy Al-Warrak w Gizie, mieście sąsiadującym ze stołecznym Kairem - poinformował dziennik \"Egyptian Gazette\".",
+        "Obwodnica, na której doszło do wypadku, łączy kluczowe trasy w aglomeracji Kairu, spinając ze sobą muhafazy (prowincje) Kair, Giza i Kaljubija. Lokalne media poinformowały, że strażakom udało się już opanować ogień .",
+        "Zdjęcia z miejsca zdarzenia wskazują, że poza cysterną w płomieniach stanęły także samochody osobowe i busy. Niemal wszystkie auta doszczętnie spłonęły .",
+        "Jak poinformowało w oświadczeniu ministerstwo zdrowia, szef resortu Chalid Abdel Ghaffar zarządził postawienie pobliskich szpitali w stan podwyższonej gotowości . W komunikacie dodano, że w akcji ratunkowej bierze udział 39 karetek pogotowia ."
       ]
     },
     {
-      "id": "swiat-2-45b209",
+      "id": "swiat-5-214883",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 11 milionów) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "11 milionów"
-      ],
-      "title": "Według własnych danych Rosja straciła w wojnie na Ukrainie prawie 500 000 ludzi",
-      "original_title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Trzydzieści jeden osób zginęło w ogromnym pożarze cysterny z paliwem, która rozbiła się na autostradzie w Kairze",
+      "original_title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
       "is_foreign": true,
       "lang": "EN",
-      "time": "12:21",
+      "time": "22:18",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Dane, które wyciekły, pokazują, jak zakrojona na szeroką skalę inwazja na Ukrainę zasadniczo zmieniła wzorce śmiertelności w Rosji.",
-        "Według statystyk rosyjskiego rządu przeanalizowanych przez BBC od początku wojny na Ukrainie w 2022 roku co najmniej 490 334 rosyjskich żołnierzy zginęło.",
-        "Dane Rosstatu, które wyciekły, pokazują, jak zakrojona na pełną skalę inwazja na Ukrainę zasadniczo zmieniła wzorce śmiertelności w Rosji i pokazują, jak wysokie są koszty życia ludzkiego w wojnie, która według Władimira Putina potrwa tylko dni, a ma już prawie pięć lat."
+        "Kolejnych 21 osób zostało rannych po przewróceniu się cysterny na ruchliwej obwodnicy stolicy Egiptu.",
+        "Ministerstwo zdrowia Egiptu podaje, że 31 osób zginęło, a 21 innych zostało rannych w wyniku dużego pożaru na ruchliwej autostradzie w Kairze po katastrofie cysterny z paliwem.",
+        "Pobliskie szpitale leczyły pacjentów z poparzeniami i zatruciem dymem po incydencie, który miał miejsce w środowy wieczór na odcinku obwodnicy w dzielnicy Warraq, na północ od starego centrum miasta."
       ],
       "extended_paragraphs": [
-        "Dane, które wyciekły, pokazują, jak zakrojona na szeroką skalę inwazja na Ukrainę zasadniczo zmieniła wzorce śmiertelności w Rosji.",
-        "Według statystyk rosyjskiego rządu przeanalizowanych przez BBC od początku wojny na Ukrainie w 2022 roku co najmniej 490 334 rosyjskich żołnierzy zginęło.",
-        "Dane Rosstatu, które wyciekły, pokazują, jak zakrojona na pełną skalę inwazja na Ukrainę zasadniczo zmieniła wzorce śmiertelności w Rosji i pokazują, jak wysokie są koszty życia ludzkiego w wojnie, która według Władimira Putina potrwa tylko dni, a ma już prawie pięć lat.",
-        "BBC Russian uzyskało dostęp do ponad 11 milionów rejestrów zgonów od 2021 r. do września 2026 r. po włamaniu dokonanym przez białoruską grupę Cyber ​​Particles BY i ukraińską grupę Silent Crow.",
-        "Rosyjska agencja statystyczna przyznała się do cyberataku, ale zaprzeczyła, że ​​wyciekły jakiekolwiek chronione informacje."
+        "Kolejnych 21 osób zostało rannych po przewróceniu się cysterny na ruchliwej obwodnicy stolicy Egiptu.",
+        "Ministerstwo zdrowia Egiptu podaje, że 31 osób zginęło, a 21 innych zostało rannych w wyniku dużego pożaru na ruchliwej autostradzie w Kairze po katastrofie cysterny z paliwem.",
+        "Pobliskie szpitale leczyły pacjentów z poparzeniami i zatruciem dymem po incydencie, który miał miejsce w środowy wieczór na odcinku obwodnicy w dzielnicy Warraq, na północ od starego centrum miasta.",
+        "Niezweryfikowany materiał filmowy krążący w mediach społecznościowych pokazał kłęby płomieni i czarny dym wznoszący się wysoko w nocne niebo, a wiele pobliskich pojazdów zostało podpalonych.",
+        "Służby nie podały, jak wybuchł pożar, ale państwowe media podały, że cysterna przewróciła się, oblewając benzyną pobliskie pojazdy."
       ]
     },
     {
-      "id": "swiat-3-c906d4",
+      "id": "swiat-6-90d052",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Tragedia u wybrzeży USA. Nie żyje sześć osób, w tym dwoje dzieci",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "11:10",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/tragedia-u-wybrzezy-usa-nie-zyje-szesc-osob-w-tym-dwoje-dzieci/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/yp/yp8492mfx81vrg67ny9jfthxiz6bhdpu.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Sześć osób, w tym dwoje dzieci, zginęło w katastrofie samolotu w amerykańskim stanie Missisipi.",
-        "Cessna 210 runęła do wody na północy Zatoki Meksykańskiej.",
-        "Ich ciała odnaleźli nurkowie kilka godzin po zdarzeniu."
-      ],
-      "extended_paragraphs": [
-        "Sześć osób, w tym dwoje dzieci, zginęło w katastrofie samolotu w amerykańskim stanie Missisipi. Cessna 210 runęła do wody na północy Zatoki Meksykańskiej. Ich ciała odnaleźli nurkowie kilka godzin po zdarzeniu. - Nie jest to finał, na jaki liczyliśmy - mówił koordynator poszukiwań Trevor Blount.",
-        "Agencja AP informuje, że katastrofie samolotu typu Cessna 210 zginęło sześć osób, w tym dwóch chłopców w wieku 8 i 10 lat . Maszyna runęła do wody w północnej części Zatoki Meksykańskiej, między miastem Pascagoula w stanie Missisipi a wyspą Horn Island.",
-        "Według informacji przekazanych przez służby, ciała wszystkich ofiar zostały odnalezione przez nurków w kadłubie maszyny. - Nie jest to finał, na jaki liczyliśmy . Jesteśmy jednak wdzięczni za współpracę, która pozwoliła nam odnaleźć ofiary i zapewnić im rodzinom ukojenie - mówił Trevor Blount, koordynator poszukiwań.",
-        "Według ustaleń agencji AP, kontrolerzy lotu utracili kontakt z maszyną około godziny 15:45 (22:45 czasu polskiego). Wstępne informacje wskazują, że samolot leciał z New Orleans do Fort Myers.",
-        "Sprawą zajmie się Narodowa Rada Bezpieczeństwa Transportu. To kolejna w tym miesiącu katastrofa niewielkiego samolotu w Stanach Zjednoczonych. Na początku listopada, w południowej Florydzie, rozbił się prywatny odrzutowiec z dziewięcioma osobami na pokładzie."
-      ]
-    },
-    {
-      "id": "swiat-4-a8d678",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Moja rodzina zginęła na Ukrainie. Moja mama obwiniała żołnierzy Zełenskiego – prawda jest skomplikowana",
-      "original_title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "title": "Izraelscy sędziowie zalecają wycofanie najpoważniejszych zarzutów wobec Netanjahu",
+      "original_title": "Israeli judges recommend dropping most serious charges against Netanyahu",
       "is_foreign": true,
       "lang": "EN",
-      "time": "00:54",
+      "time": "19:47",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Dziennikarka BBC Anastasiya Gribanova bada, kto podczas wojny zabił jej ojca i dziadków.",
-        "Podpis pod rysunkiem, Obejrzyj: Reporter BBC bada śmierć członków rodziny podczas wojny rosyjsko-ukraińskiej Siedzę na balkonie w Kijowie i patrzę na zdjęcie ogrodu we wsi, w której dorastałem, we wschodniej Ukrainie.",
-        "Działkę porasta gęsta trawa, a w ziemię wbite są dwa drewniane paliki."
+        "Premier Izraela twierdzi, że jego proces powinien się zakończyć po tym, jak sędziowie uznali, że w jednej z trzech spraw szanse na skazanie są niewielkie.",
+        "Źródło zdjęcia, EPA Tytuł zdjęcia Benjamin Netanjahu wezwał do „natychmiastowego” zakończenia procesu Sędziowie w Izraelu zasugerowali, że prokuratorzy wycofają zarzuty przekupstwa wobec Benjamina Netanjahu, co potencjalnie da wsparcie tymczasowemu premierowi w walce o przetrwanie polityczne.",
+        "Sędziowie powiedzieli prokuratorowi generalnemu, że w pierwszej z trzech stojących przed nim spraw, w których zarzuca się mu udzielanie przysług rządowych w zamian za pozytywne relacje w mediach, szanse na skazanie są niewielkie."
       ],
       "extended_paragraphs": [
-        "Dziennikarka BBC Anastasiya Gribanova bada, kto podczas wojny zabił jej ojca i dziadków.",
-        "Podpis pod rysunkiem, Obejrzyj: Reporter BBC bada śmierć członków rodziny podczas wojny rosyjsko-ukraińskiej",
-        "Siedzę na balkonie w Kijowie i patrzę na zdjęcie ogrodu we wsi, w której dorastałem, we wschodniej Ukrainie. Działkę porasta gęsta trawa, a w ziemię wbite są dwa drewniane paliki. Pomimo ciepłego słońca, drżę.",
-        "Kobieta, która przesłała mi zdjęcie, mówi, że paliki wyznaczają groby moich dziadków, którzy zginęli, gdy linia frontu ukraińsko-rosyjskiego dotarła do naszej małej społeczności. Niedaleko, w innym ogrodzie we wsi, w szklarni pochowano ciało mojego ojca, Serezhy.",
-        "Relacjonuję wojnę rosyjsko-ukraińską dla BBC World Service, ale w lutym ubiegłego roku znalazłem się w środku tej historii, kiedy moja matka wysłała mi druzgocącego SMS-a."
-      ]
-    },
-    {
-      "id": "swiat-5-aab0d9",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "\"Chce, żebym co zrobił?\". Trump zaśmiał się ze słów Zełenskiego",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "08:46",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/chce-zebym-co-zrobil-trump-zasmial-sie-ze-slow-zelenskiego/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/v1/v1dbc63b2ig4cps13f5xqeyhpra91bad.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "- Bardzo chciałbym zakończyć wojnę w Ukrainie jeszcze dzisiaj, jednak do tanga trzeba dwojga - mówił Donald Trump cytowany przez New York Post.",
-        "Prezydent USA podczas konferencji prasowej zaśmiał się ze słów Wołodymyra Zełenskiego, który wskazał, iż wysłannicy Stanów Zjednoczonych chcą zakończyć wojnę do stycznia.",
-        "Podczas rozmowy z dziennikarzami Donald Trump został zapytany o słowa Wołodymyra Zełenskiego , który mówił, że specjalni wysłannicy Stanów Zjednoczonych naciskają, aby zakończyć wojnę w Ukrainie do stycznia ."
-      ],
-      "extended_paragraphs": [
-        "- Bardzo chciałbym zakończyć wojnę w Ukrainie jeszcze dzisiaj, jednak do tanga trzeba dwojga - mówił Donald Trump cytowany przez New York Post. Prezydent USA podczas konferencji prasowej zaśmiał się ze słów Wołodymyra Zełenskiego, który wskazał, iż wysłannicy Stanów Zjednoczonych chcą zakończyć wojnę do stycznia.",
-        "Podczas rozmowy z dziennikarzami Donald Trump został zapytany o słowa Wołodymyra Zełenskiego , który mówił, że specjalni wysłannicy Stanów Zjednoczonych naciskają, aby zakończyć wojnę w Ukrainie do stycznia .",
-        "Jak relacjonuje \"New York Post\", gdy prezydent USA usłyszał pytanie, najpierw się zaśmiał i zapytał: \" K to to powiedział? \". Następnie, po wymienieniu się spojrzeniami z jednym z wysokich oficerów, dodał: \" C hce, żebym co zrobił? \".",
-        "Trump wskazał ponadto, że bardzo chciałby zakończyć konflikt między Kijowem a Moskwą jeszcze dzisiaj, jednak \" do tanga trzeba dwojga , więc zobaczymy co się wydarzy\". - Nie mam wyznaczonego terminu. Chciałbym, żeby się to skończyło - nadmienił.",
-        "Zdaniem przywódcy USA \"czasem Władimir Putin zdaje się być gotowy, ale Zełenski nie jest\". - Z kolei czasem to Zełenski wydaje się być chętny, ale wówczas Putin nie jest gotowy. Zależy od dnia - tłumaczył."
+        "Premier Izraela twierdzi, że jego proces powinien się zakończyć po tym, jak sędziowie uznali, że w jednej z trzech spraw szanse na skazanie są niewielkie.",
+        "Źródło zdjęcia, EPA Tytuł zdjęcia Benjamin Netanjahu wezwał do „natychmiastowego” zakończenia procesu",
+        "Sędziowie w Izraelu zasugerowali, że prokuratorzy wycofają zarzuty przekupstwa wobec Benjamina Netanjahu, co potencjalnie da wsparcie tymczasowemu premierowi w walce o przetrwanie polityczne.",
+        "Sędziowie powiedzieli prokuratorowi generalnemu, że w pierwszej z trzech stojących przed nim spraw, w których zarzuca się mu udzielanie przysług rządowych w zamian za pozytywne relacje w mediach, szanse na skazanie są niewielkie.",
+        "Kwestionowali także, czy jego działania stanowią zachowanie przestępcze w drugiej sprawie o korupcję i zasugerowali, aby prokuratorzy starali się o ugodę w trzeciej."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-1-fb1266",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [],
-      "title": "Alex Haditaghi powrócił do Szczecina. Nadchodzi czas decyzji w Pogoni",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "14:40",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286086/alex-haditaghi-powrocil-do-szczecina-nadchodzi-czas-decyzji-w-pogoni",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b06f311f0a2f9_22175771.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": true,
-      "summary_points": [
-        "Pogoń Szczecin miała dziewięć dni na przygotowania do meczu z Lechem Poznań.",
-        "Minęło pięć i nadal nieznana jest przyszłość trenera Oscara Garcii.",
-        "Być może sytuacja zmieni się po rozmowach w cztery oczy z Alexem Haditaghim."
-      ],
-      "extended_paragraphs": [
-        "Pogoń Szczecin miała dziewięć dni na przygotowania do meczu z Lechem Poznań. Minęło pięć i nadal nieznana jest przyszłość trenera Oscara Garcii. Być może sytuacja zmieni się po rozmowach w cztery oczy z Alexem Haditaghim.",
-        "Skomentuj Pogoń Szczecin miała dziewięć dni na przygotowania do meczu z Lechem Poznań. Minęło pięć i nadal nieznana jest przyszłość trenera Oscara Garcii. Być może sytuacja zmieni się po rozmowach w cztery oczy z Alexem Haditaghim.",
-        "Środa okazała się dniem przylotu właściciela i prezesa Pogoni Szczecin do Polski . W ostatnim czasie próbował zarządzać klubem z kanadyjskiego Toronto i greckich Salonik . Powrót Alexa Haditaghiego jest przedstawiany jako nieplanowany i spowodowany napiętą sytuacją w Pogoni, co nie do końca jest prawdą. 29 sierpnia, po meczu z KGHM Zagłębiem Lubin , zapowiadano że Haditaghiego nie będzie w Szczecinie przez trzy miesiące i praktycznie tak było.",
-        "Nadal nie do końca wiadomo, kto poprowadzi Pogoń w niedzielnym (godzina 14:45) meczu z Lechem Poznań . Szkoleniowcem zespołu pozostaje Oscar Garcia , ale jego sytuacja pozostaje niepewna. Nie chodzi nawet o serię trzech porażek, a o tarcia między nim a Alexem Haditaghim.",
-        "Już w środę może dojść do pierwszego od sierpnia spotkania Garcii z Haditaghim. Największą przeszkodą przed rozwiązaniem kontraktu jest brak porozumienia co do warunków. Hiszpan podpisał z Pogonią długą umowę na trzy lata, z której nie wypełnił nawet pół roku, a dodatkowo jest ona sowicie opłacana jak na warunki PKO Ekstraklasy ."
-      ]
-    },
-    {
-      "id": "sport-2-4365c2",
+      "id": "sport-8-25eb7e",
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna (kluczowe liczby: 50 milionów funtów) o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [
-        "50 milionów funtów"
-      ],
-      "title": "Sterling – od ikony Anglii do wyroku w zawieszeniu",
-      "original_title": "Sterling - from England icon to suspended jail sentence",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:42",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/78b1/live/4b3ef840-e8a2-11f1-869a-f96fd5660210.png",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Czternaście lat po debiucie w Premier League w wieku 17 lat Raheem Sterling został skazany na karę więzienia w zawieszeniu.",
-        "Raheem Sterling dorastał rzut beretem od stadionu Wembley, a następnie zaczął tam grać dla Anglii w finale Mistrzostw Europy.",
-        "W szczytowym okresie czterokrotny zwycięzca Premier League zarabiał w Chelsea 325 000 funtów tygodniowo."
-      ],
-      "extended_paragraphs": [
-        "Czternaście lat po debiucie w Premier League w wieku 17 lat Raheem Sterling został skazany na karę więzienia w zawieszeniu.",
-        "Raheem Sterling dorastał rzut beretem od stadionu Wembley, a następnie zaczął tam grać dla Anglii w finale Mistrzostw Europy.",
-        "W szczytowym okresie czterokrotny zwycięzca Premier League zarabiał w Chelsea 325 000 funtów tygodniowo.",
-        "„Raheem to ogromny zawodnik, który w ciągu ostatnich kilku lat wywarł ogromny wpływ na angielską piłkę nożną” – powiedział ówczesny szef Bluesa Thomas Tuchel, kiedy w 2022 roku podpisał kontrakt z 27-letnim Sterlingiem za 50 milionów funtów.",
-        "„Jest w idealnym wieku, aby wziąć odpowiedzialność za młodszych graczy, których mamy i dawać przykład."
-      ]
-    },
-    {
-      "id": "sport-5-85c1dc",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [],
-      "title": "Pierwszy zimowy transfer Ruchu Chorzów",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "14:23",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286082/pierwszy-zimowy-transfer-ruchu-chorzow",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b06ef152e5d70_94373404.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Działacze Ruchu Chorzów ogłosili pierwszy zimowy transfer.",
-        "Zawodnikiem Niebieskich został Tymoteusz Bernhard.",
-        "19-latek ostatnio występował w piątej lidze mazowieckiej."
-      ],
-      "extended_paragraphs": [
-        "Działacze Ruchu Chorzów ogłosili pierwszy zimowy transfer. Zawodnikiem Niebieskich został Tymoteusz Bernhard. 19-latek ostatnio występował w piątej lidze mazowieckiej.",
-        "Skomentuj Działacze Ruchu Chorzów ogłosili pierwszy zimowy transfer. Zawodnikiem Niebieskich został Tymoteusz Bernhard. 19-latek ostatnio występował w piątej lidze mazowieckiej.",
-        "Jeszcze w listopadzie działacze Ruchu Chorzów poinformowali o pierwszy zimowym wzmocnieniu zespołu. W środę kontrakt z 14-krotnymi mistrzami Polski podpisał Tymoteusz Bernhard .",
-        "19-letni boczny pomocnik ostatnio występował w grającej w 5. lidze mazowieckiej Józefovii Józefów. Jesienią zawodnik strzelił dla swojej drużyny 20 goli, zanotował 4 asysty i wywalczył 5 rzutów karnych.",
-        "- Każdy transfer ma inną historię. Skontaktował się ze mną Michał Pulkowski, nasz były zawodnik, który prowadził Tymka w Józefovii. Polecił go, przysłał materiały. Uznaliśmy, że warto pokazać Tymka sztabowi. Zdecydowaliśmy się zaprosić go na kilka dni listopadowej przerwy reprezentacyjnej. W treningu z zespołem zaprezentował się na tyle ciekawie, dobrze, byśmy podjęli decyzję o dokonaniu transferu. Inwestujemy w kolejnego młodego chłopaka z dużym potencjałem - powiedział mówi Tomasz Foszmańczyk, dyrektor sportowy Ruchu Chorzów, cytowany przez klubowy portal."
-      ]
-    },
-    {
-      "id": "sport-6-8af11c",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [],
-      "title": "Świetny transfer All Blacks Beauden Barrett blisko Bristolu",
-      "original_title": "All Blacks great Beauden Barrett close to Bristol move",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:29",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg2ex1v0vzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8cd3/live/5914d630-e8d2-11f1-bc7e-81f081e11daa.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Reprezentant Nowej Zelandii Beauden Barrett jest bliski podpisania umowy o dołączeniu do Bristol Bears, co byłoby jednym z najważniejszych transferów w historii Prem.",
-        "Związek rugby Korespondent Opublikowano godzinę temu Wielki nowozelandzki piłkarz Beauden Barrett jest bliski podpisania umowy o dołączeniu do Bristol Bears, co byłoby jednym z najważniejszych transferów w historii Prem.",
-        "35-latek, powszechnie uważany za jednego z najlepszych zawodników All Blacks wszechczasów, zdobył swój 150."
-      ],
-      "extended_paragraphs": [
-        "Reprezentant Nowej Zelandii Beauden Barrett jest bliski podpisania umowy o dołączeniu do Bristol Bears, co byłoby jednym z najważniejszych transferów w historii Prem.",
-        "Związek rugby Korespondent Opublikowano godzinę temu Wielki nowozelandzki piłkarz Beauden Barrett jest bliski podpisania umowy o dołączeniu do Bristol Bears, co byłoby jednym z najważniejszych transferów w historii Prem.",
-        "35-latek, powszechnie uważany za jednego z najlepszych zawodników All Blacks wszechczasów, zdobył swój 150. występ w reprezentacji w sobotniej porażce z Anglią w Twickenham.",
-        "Wiadomo, że prowadzi rozmowy na temat dołączenia do Bristolu w ramach dwuletniej umowy po Pucharze Świata w Rugby w 2027 roku.",
-        "Barrett jest także obiektem zainteresowania klubów we Francji, ponieważ planuje ostatnie etapy swojej znakomitej kariery. Ogłoszenia na temat jego przyszłości można spodziewać się w nadchodzących tygodniach."
-      ]
-    },
-    {
-      "id": "sport-8-e6394c",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
       "market_impact": "MEDIUM",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
-      "key_metrics": [],
-      "title": "Walka Fury kontra Joshua kontynuowana jest pomimo sprzeciwu po godzinie 3:00 nad ranem",
-      "original_title": "Fury v Joshua fight to go ahead despite objections over 3am finish",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna (kluczowe liczby: 900 milionów funtów) o wpływie sklasyfikowanym jako MEDIUM.",
+      "key_metrics": [
+        "900 milionów funtów"
+      ],
+      "title": "Szef regulatora „ma żołądek”, aby zmierzyć się z Man City",
+      "original_title": "Regulator chief 'has stomach' to face Man City",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:09",
+      "time": "21:27",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5kg73d2px7mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35a4/live/f2f7f840-e8c3-11f1-ac76-db9e97f93d67.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/894b/live/46715940-e913-11f1-8383-53f283141713.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
-        "Władze Cardiff stwierdziły, że walka będzie „wielką sprawą” dla miasta, zwiększającą jego przychody i prestiż.",
-        "Radni zatwierdzili plany, dzięki którym długo oczekiwana grudniowa walka Tyson Fury kontra Anthony Joshua w Cardiff zakończy się we wczesnych godzinach porannych.",
-        "Kibice w lożach na stadionie Princeity będą mogli pić alkohol do godziny 03:00, a obiekt zostanie zamknięty o 03:30, aby dopasować się do godzin największej oglądalności w USA."
+        "Przewodniczący niezależnego organu regulacyjnego ds.",
+        "angielskiej piłki nożnej mówi parlamentarzystom, że „ma odwagę”, aby podjąć potencjalne działania przeciwko Manchesterowi City.",
+        "Redaktor sportowy Opublikowano godzinę temu Przewodniczący niezależnego organu regulacyjnego ds."
       ],
       "extended_paragraphs": [
-        "Władze Cardiff stwierdziły, że walka będzie „wielką sprawą” dla miasta, zwiększającą jego przychody i prestiż.",
-        "Radni zatwierdzili plany, dzięki którym długo oczekiwana grudniowa walka Tyson Fury kontra Anthony Joshua w Cardiff zakończy się we wczesnych godzinach porannych.",
-        "Kibice w lożach na stadionie Princeity będą mogli pić alkohol do godziny 03:00, a obiekt zostanie zamknięty o 03:30, aby dopasować się do godzin największej oglądalności w USA.",
-        "Członkom Podkomisji ds. Licencjonowania Rady Cardiff powiedziano, że 130 funkcjonariuszy policji będzie pomagało w utrzymaniu porządku na imprezie odbywającej się 11 grudnia przy obecności dwukrotnie większej liczby stewardów w porównaniu do zwykłej imprezy sportowej.",
-        "Garść mieszkańców sprzeciwiła się proponowanemu późnemu dokończeniu, wyrażając obawy dotyczące hałasu, zachowań aspołecznych i bezpieczeństwa publicznego, ale żaden nie przyszedł na spotkanie."
+        "Przewodniczący niezależnego organu regulacyjnego ds. angielskiej piłki nożnej mówi parlamentarzystom, że „ma odwagę”, aby podjąć potencjalne działania przeciwko Manchesterowi City.",
+        "Redaktor sportowy Opublikowano godzinę temu Przewodniczący niezależnego organu regulacyjnego ds. angielskiej piłki nożnej powiedział parlamentarzystom, że „ma odwagę”, aby podjąć potencjalne działania przeciwko Manchesterowi City.",
+        "Niezależna komisja uznała klub za winnego łamania zasad finansowych Premier League w ciągu dziewięciu sezonów.",
+        "W wyroku opublikowanym we wrześniu stwierdzono, że właściciele City Abu Zabi – prywatna firma inwestycyjna należąca do wiceprezydenta Zjednoczonych Emiratów Arabskich, szejka Mansoura – zawyżyli przychody i zamaskowali straty o 900 milionów funtów w drodze „fikcyjnych” porozumień.",
+        "Miasto zaprzecza, jakoby miało dopuścić się popełnienia przestępstwa i złożyło apelację, ale jeśli orzeczenie zostanie podtrzymane, może zostać wszczęte dochodzenie prowadzone przez Niezależny Organ Regulacyjny ds. Piłki Nożnej (IFR)."
       ]
     },
     {
-      "id": "sport-3-75d096",
+      "id": "sport-1-5aa662",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2095,31 +1936,31 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Kontuzje w kadrze piłkarek przed kluczowym barażem o mundial. Są dodatkowe powołania",
+      "title": "Faworytom drżały serca. Uniknęli jednak wielkiej wpadki",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "14:33",
+      "time": "23:22",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286085/kontuzje-w-kadrze-pilkarek-przed-kluczowym-barazem-o-mundial-sa-dodatkowe-powola",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b06f011a67f63_80871089.jpg",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1286195/faworytom-drzaly-serca-unikneli-jednak-wielkiej-wpadki",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b076d4bc34560_05795097.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Niecały tydzień pozostał do pierwszego meczu finałowego baraży o awans na mistrzostwa świata kobiet.",
-        "Dwie reprezentantki Polski musiały jednak opuścić zgrupowanie z powodu kontuzji.",
-        "Trener Nina Patalon znalazła już następczynie."
+        "Reprezentacja Włoch walkę o czwarty z rzędu triumf w Pucharze Davisa rozpoczęła od ogromnych męczarni.",
+        "Gospodarze turnieju finałowego w Bolonii pokonali 2:1 skazywaną na pożarcie drużynę Korei Południowej.",
+        "Skomentuj Reprezentacja Włoch walkę o czwarty z rzędu triumf w Pucharze Davisa rozpoczęła od ogromnych męczarni."
       ],
       "extended_paragraphs": [
-        "Niecały tydzień pozostał do pierwszego meczu finałowego baraży o awans na mistrzostwa świata kobiet. Dwie reprezentantki Polski musiały jednak opuścić zgrupowanie z powodu kontuzji. Trener Nina Patalon znalazła już następczynie.",
-        "Skomentuj Niecały tydzień pozostał do pierwszego meczu finałowego baraży o awans na mistrzostwa świata kobiet. Dwie reprezentantki Polski musiały jednak opuścić zgrupowanie z powodu kontuzji. Trener Nina Patalon znalazła już następczynie.",
-        "Zgrupowanie kadry w Gdańsku przed najważniejszymi meczami 2026 roku ruszyło we wtorek. Polki 1 i 5 grudnia zmierzą się z Irlandią w finale europejskich baraży o awans na mistrzostwa świata, które w lipcu 2027 roku rozegrane zostaną w Brazylii. Polki łącznie mają zatem tydzień na przygotowanie do pierwszego spotkania, które zostanie rozegrane na Polsat Plus Arenie Gdańsk .",
-        "Jak poinformował w komunikacie PZPN, pierwotnie powołane na zgrupowanie Klaudia Maciążka oraz Sylwia Matysik nie biorą w nim udziału z powodu kontuzji. Pierwsza z nich, według wieści od jej klubu, GKS-u Katowice, doznała urazu łydki. Druga zaś świeżo wróciła do zdrowia i od początku listopada zagrała w trzech meczach ligowych - przeciwko Bayerowi Leverkusen, FSV Mainz oraz Eintrachtowi Frankfurt. I właśnie w tym ostatnim opuściła przedwcześnie boisko z dużym grymasem bólu trzymając się za udo.",
-        "Trener Nina Patalon w związku z tą sytuacją zdecydowała o dodatkowych powołaniach. W Gdańsku zjawiły się pomocniczka Gabriela Grzybowska z FC Nantes oraz napastniczka Magdalena Sobal grająca w szwajcarskim Servette FC. Kadra znów liczy zatem 23 piłkarki."
+        "Reprezentacja Włoch walkę o czwarty z rzędu triumf w Pucharze Davisa rozpoczęła od ogromnych męczarni. Gospodarze turnieju finałowego w Bolonii pokonali 2:1 skazywaną na pożarcie drużynę Korei Południowej.",
+        "Skomentuj Reprezentacja Włoch walkę o czwarty z rzędu triumf w Pucharze Davisa rozpoczęła od ogromnych męczarni. Gospodarze turnieju finałowego w Bolonii pokonali 2:1 skazywaną na pożarcie drużynę Korei Południowej.",
+        "Włochy marzą o czwartym z rzędu triumfie w Pucharze Davisa. Ostatnią reprezentacją, która tego dokonała, była USA w sezonach 1968-1972. Walkę o to osiągnięcie podczas turnieju finałowego w Bolonii rozpoczęli w środę, kiedy po niespodziewanych trudnościach pokonali 2:1 outsiderów - zespół Korei Południowej.",
+        "Kropkę nad \"i\" na zwycięstwie gospodarzy miał postawić Flavio Cobolli . Ale zamiast tego on sam, jak i miejscowi kibice, doznali ciężkiego rozczarowania. 24-latek z Florencji, aktualnie siódmy tenisista świata, po prawie trzygodzinnym pojedynku sensacyjnie przegrał 6:3, 6:7(3), 6:7(5) z notowanym na 139. lokacie Soonwoo Kwonem .",
+        "W decydującym spotkaniu włoski duet udźwignął presję, chociaż lokalnym fanom wielokrotnie drżały serca. Ostatecznie, po prawie dwugodzinnej walce, Berrettini i Vavassori zwyciężyli 7:6(2), 7:6(11) i dali swojej drużynie awans do 1/2 finału."
       ]
     },
     {
-      "id": "sport-4-d4796b",
+      "id": "sport-2-abf55b",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2127,65 +1968,258 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Wybiegamy na „wolną piłkę” po historycznej decyzji WBBL",
-      "original_title": "Dottin out to 'free ball' after historic WBBL decision",
+      "title": "Lammens Howler zaprzecza zwycięstwu Man Utd nad Sportingiem w pełnym incydentów meczu",
+      "original_title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
       "is_foreign": true,
       "lang": "EN",
-      "time": "12:34",
+      "time": "22:32",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5fe4/live/ff5d76c0-e8c6-11f1-ac76-db9e97f93d67.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6340/live/dffcada0-e920-11f1-99a1-253766e7ad8b.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Sarah Glenn z Brisbane rzuca do pustej grupy pniaków, aby odrzucić Deandrę Dottin z Melbourne Renegade po tym, jak uznano ją za zbyt powolną, aby dotrzeć do załamania i stawić czoła pierwszemu porodowi.",
-        "Dziwne zwolnienie z zawodów Women's Big Bash sprawiło, że Sarah Glenn z Brisbane Heat uderzyła do pustego zestawu pniaków na zewnątrz po tym, jak uznano, że nowy pałkarz Melbourne Renegades, Deandra Dottin, zbyt długo czekał na dostawę.",
-        "Doświadczona wszechstronna zawodniczka z Indii Zachodnich, Dottin, wyszła na boisko po zwolnieniu Georgii Wareham, mając w nieładzie sprzęt, a po dotarciu na środek boiska przystąpiła do poprawiania hełmu i zakładania rękawiczek."
+        "Bramkarz Senne Lammens przeżywa wywrócony do góry nogami wieczór, gdy Manchester United remisuje po kontrowersyjnych decyzjach Sportingu.",
+        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Piłka nożna Śledź piłkę nożną.",
+        "Wydarzenie sklasyfikowano w sektorze: Wydarzenia Sportowe (wpływ: LOW)."
       ],
       "extended_paragraphs": [
-        "Sarah Glenn z Brisbane rzuca do pustej grupy pniaków, aby odrzucić Deandrę Dottin z Melbourne Renegade po tym, jak uznano ją za zbyt powolną, aby dotrzeć do załamania i stawić czoła pierwszemu porodowi.",
-        "Dziwne zwolnienie z zawodów Women's Big Bash sprawiło, że Sarah Glenn z Brisbane Heat uderzyła do pustego zestawu pniaków na zewnątrz po tym, jak uznano, że nowy pałkarz Melbourne Renegades, Deandra Dottin, zbyt długo czekał na dostawę.",
-        "Doświadczona wszechstronna zawodniczka z Indii Zachodnich, Dottin, wyszła na boisko po zwolnieniu Georgii Wareham, mając w nieładzie sprzęt, a po dotarciu na środek boiska przystąpiła do poprawiania hełmu i zakładania rękawiczek.",
-        "Zasady wprowadzone przed sezonem WBBL 2021 w celu przyspieszenia gry stanowią, że nadchodzący pałkarz musi być gotowy na spotkanie z następną dostawą – lub z osobą niebędącą napastnikiem – w ciągu 75 sekund od zwolnienia lub wycofania się.",
-        "Sędziowie uznali, że Dottin przekroczyła ten limit czasu i poinstruowali ją, aby stanęła z dala od pniaków, przyznając Glennowi wolną piłkę."
+        "Bramkarz Senne Lammens przeżywa wywrócony do góry nogami wieczór, gdy Manchester United remisuje po kontrowersyjnych decyzjach Sportingu.",
+        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Piłka nożna Śledź piłkę nożną"
       ]
     },
     {
-      "id": "sport-7-184f79",
-      "entity_tag": "Formuła 1",
-      "sector": "Motorsport",
+      "id": "sport-3-c06a59",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Był wielką gwiazdą F1. Tak teraz wygląda jego życie",
+      "title": "To były wtedy bardzo smutne wieści. Grał w reprezentacji Kazimierza Górskiego",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "14:14",
+      "time": "23:19",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/sportowybar/1286070/byl-wielka-gwiazda-f1-tak-teraz-wyglada-jego-zycie",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b06dbcd630ae0_80637557.jpg",
+      "source_url": "https://sportowefakty.wp.pl/sportowybar/1286194/to-byly-wtedy-bardzo-smutne-wiesci-gral-w-reprezentacji-kazimierza-gorskiego",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6928a19c24fdb3_92451807.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Czterokrotny mistrz świata Formuły 1 Sebastian Vettel zamienił bolid na...",
-        "Niemiec ukończył szkołę rolniczą w Szwajcarii i prowadzi własne samowystarczalne gospodarstwo ze zwierzętami i uprawami.",
-        "1 Komentarz Czterokrotny mistrz świata Formuły 1 Sebastian Vettel zamienił bolid na..."
+        "urodziny obchodziłby Andrzej Jarosik.",
+        "Niestety były olimpijczyk i reprezentant Polski zmarł 2,5 roku temu we Francji.",
+        "Skomentuj W czwartek swoje 82."
       ],
       "extended_paragraphs": [
-        "Czterokrotny mistrz świata Formuły 1 Sebastian Vettel zamienił bolid na... traktor. Niemiec ukończył szkołę rolniczą w Szwajcarii i prowadzi własne samowystarczalne gospodarstwo ze zwierzętami i uprawami.",
-        "1 Komentarz Czterokrotny mistrz świata Formuły 1 Sebastian Vettel zamienił bolid na... traktor. Niemiec ukończył szkołę rolniczą w Szwajcarii i prowadzi własne samowystarczalne gospodarstwo ze zwierzętami i uprawami.",
-        "Legendarny kierowca Formuły 1 w rozmowie ze szwajcarskim dziennikiem \"Blick\" zdradził szczegóły swojej nowej, zaskakującej codzienności.",
-        "39-letni Sebastian Vettel , który z padokiem królowej motorsportu pożegnał się pod koniec 2022 r., postanowił poświęcić się samowystarczalnemu rolnictwu i hodowli zwierząt , zdobywając formalne wykształcenie w tym kierunku",
-        "- Mam to już za sobą. Szkolenie trwało rok i odbywało się w tygodniowych blokach, po których następował tydzień przerwy. To był zupełnie inny świat z całkowicie odmiennymi tematami, ale niesamowicie ekscytujący - wyznał były kierowca Red Bulla i Ferrari."
+        "W czwartek swoje 82. urodziny obchodziłby Andrzej Jarosik. Niestety były olimpijczyk i reprezentant Polski zmarł 2,5 roku temu we Francji. Miał wówczas 79 lat.",
+        "Skomentuj W czwartek swoje 82. urodziny obchodziłby Andrzej Jarosik. Niestety były olimpijczyk i reprezentant Polski zmarł 2,5 roku temu we Francji. Miał wówczas 79 lat.",
+        "Andrzej Jarosik zmarł w małej miejscowości Saint-Mandrier-sur-Mer leżącej pod Tulonem 14 kwietnia 2024 roku, gdzie też mieszkał. Po zakończonej karierze na stałe osiadł we Francji.",
+        "\"W wieku 79 lat zmarł Andrzej Jarosik, wielki piłkarz Zagłębia, reprezentant Polski, którego gra wiele lat elektryzowała sosnowieckich kibiców. Władze naszego Klubu, pracownicy, piłkarze i trenerzy składają rodzinie zmarłego szczere kondolencje!\" - pisało Zagłębie Sosnowiec w mediach społecznościowych.",
+        "Przez wiele lat Jarosik reprezentował swój macierzysty klub - Zagłębie Sosnowiec. Zagrał w 265 spotkaniach ówczesnej I ligi, w których strzelił aż 113 bramek. W sezonach 1969/70 i 1970/71 został królem strzelców."
+      ]
+    },
+    {
+      "id": "sport-4-77b421",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Dubois będzie bronił tytułu przeciwko Parkerowi w Manchesterze",
+      "original_title": "Dubois to defend title against Parker in Manchester",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "20:37",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cmde1zjykky6o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3185/live/c0984500-e90c-11f1-b9b5-17bef7133655.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Mistrz świata WBO wagi ciężkiej Daniel Dubois po raz drugi będzie bronił swojego tytułu przeciwko byłemu mistrzowi WBO Josephowi Parkerowi w przyszłym roku podczas Co-op Live w Manchesterze 30 stycznia.",
+        "Obie miały spotkać się w lutym 2025 roku, ale Dubois, ówczesny posiadacz tytułu IBF, został zmuszony do wycofania się z powodu choroby w tygodniu walk.",
+        "Nowozelandzki Parker nie walczył od czasu uchylenia w sierpniu tymczasowego zawieszenia za doping."
+      ],
+      "extended_paragraphs": [
+        "Mistrz świata WBO wagi ciężkiej Daniel Dubois po raz drugi będzie bronił swojego tytułu przeciwko byłemu mistrzowi WBO Josephowi Parkerowi w przyszłym roku podczas Co-op Live w Manchesterze 30 stycznia.",
+        "Obie miały spotkać się w lutym 2025 roku, ale Dubois, ówczesny posiadacz tytułu IBF, został zmuszony do wycofania się z powodu choroby w tygodniu walk.",
+        "Nowozelandzki Parker nie walczył od czasu uchylenia w sierpniu tymczasowego zawieszenia za doping.",
+        "„To starcie w wadze ciężkiej będzie hitem rozpoczynającym się w 2027 roku” – powiedział promotor boksu Frank Warren.",
+        "„To walka, którą wszyscy chcieli zobaczyć i jestem podekscytowany, że teraz możemy do niej dojść. Daniel wchodzi w szczytową formę i kiedy jest w dobrej formie, trudno sobie wyobrazić, żeby ktokolwiek go pokonał."
+      ]
+    },
+    {
+      "id": "sport-5-bb6ff3",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Kontrowersja. To po tej decyzji Marciniaka trener Manchesteru się wściekł",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:32",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286189/kontrowersja-to-po-tej-decyzji-marciniaka-trener-manchesteru-sie-wsciekl",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b07617a7cdd30_81808206.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Pod koniec pierwszej połowy meczu ze Sportingiem CP Amad Diallo mógł dać Manchesterowi United remis.",
+        "Na drodze ku temu stanęła decyzja Szymona Marciniaka, która rozzłościła Mauricio Pochettino.",
+        "1 Komentarz Pod koniec pierwszej połowy meczu ze Sportingiem CP Amad Diallo mógł dać Manchesterowi United remis."
+      ],
+      "extended_paragraphs": [
+        "Pod koniec pierwszej połowy meczu ze Sportingiem CP Amad Diallo mógł dać Manchesterowi United remis. Na drodze ku temu stanęła decyzja Szymona Marciniaka, która rozzłościła Mauricio Pochettino.",
+        "1 Komentarz Pod koniec pierwszej połowy meczu ze Sportingiem CP Amad Diallo mógł dać Manchesterowi United remis. Na drodze ku temu stanęła decyzja Szymona Marciniaka, która rozzłościła Mauricio Pochettino.",
+        "Amad Diallo otrzymał piłkę w polu karnym i miał klarowną sytuację praktycznie sam na sam z bramkarzem. 24-latek oddał strzał, który po rykoszecie trafił w poprzeczkę. Napastnik Manchesteru United dobił jednak piłkę głową i wpakował ją do bramki.",
+        "Przed dobitką Szymon Marciniak zdecydował się jednak na odgwizdanie faulu, który jego zdaniem popełnił Youri Tielemans przed podaniem do Diallo. Belg otrzymał nawet żółtą kartkę, z którą nie mógł się pogodzić. Polski arbiter dopatrzył się ataku na nogi Goncalo Inacio, który padł na murawę.",
+        "Decyzja polskiego sędziego wywołała emocjonalną reakcję nie tylko u Diallo i Tielemansa, ale też u Mauricio Pochettino . Trener United był wyraźnie rozgoryczony po nieuznanym trafieniu. Kamery uchwyciły, jak argentyński szkoleniowiec krytykował pracę naszego arbitra i kręcił przy tym głową z niezadowoleniem."
+      ]
+    },
+    {
+      "id": "sport-6-28b789",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Isak zdobywa dwa gole, a Liverpool pokonał Brugge",
+      "original_title": "Isak scores twice as clinical Liverpool beat Brugge",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:12",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7011/live/1961c530-e91c-11f1-99b6-a35a62fa4264.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Liverpool pokonuje Club Brugge w klinicznym występie dzięki bramkom Alexandra Isaka i Floriana Wirtza, po czym podnosi się po porażce w ostatnim meczu Ligi Mistrzów.",
+        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Piłka nożna Śledź piłkę nożną.",
+        "Wydarzenie sklasyfikowano w sektorze: Wydarzenia Sportowe (wpływ: LOW)."
+      ],
+      "extended_paragraphs": [
+        "Liverpool pokonuje Club Brugge w klinicznym występie dzięki bramkom Alexandra Isaka i Floriana Wirtza, po czym podnosi się po porażce w ostatnim meczu Ligi Mistrzów.",
+        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link O udostępnianiu Tematy pokrewne Piłka nożna Śledź piłkę nożną"
+      ]
+    },
+    {
+      "id": "sport-7-b93edc",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Chwalińska zdradziła, o czym marzy. Zaskakująca odpowiedź",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:25",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1286186/chwalinska-zdradzila-o-czym-marzy-zaskakujaca-odpowiedz",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b075d4d1377c9_40536109.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Maja Chwalińska w rozmowie z Polsatem Sport zdradziła swoje nietypowe pozasportowe marzenie.",
+        "rakieta świata po znakomitym sezonie przyznała, że w przyszłości chciałaby nauczyć się grać na pianinie, żartobliwie wykluczając jednak karierę wokalną.",
+        "Skomentuj Maja Chwalińska w rozmowie z Polsatem Sport zdradziła swoje nietypowe pozasportowe marzenie."
+      ],
+      "extended_paragraphs": [
+        "Maja Chwalińska w rozmowie z Polsatem Sport zdradziła swoje nietypowe pozasportowe marzenie. 12. rakieta świata po znakomitym sezonie przyznała, że w przyszłości chciałaby nauczyć się grać na pianinie, żartobliwie wykluczając jednak karierę wokalną.",
+        "Skomentuj Maja Chwalińska w rozmowie z Polsatem Sport zdradziła swoje nietypowe pozasportowe marzenie. 12. rakieta świata po znakomitym sezonie przyznała, że w przyszłości chciałaby nauczyć się grać na pianinie, żartobliwie wykluczając jednak karierę wokalną.",
+        "W wywiadzie przeprowadzonym przez Tomasza Lorka dla stacji Polsat Sport Maja Chwalińska podsumowała ostatnie intensywne miesiące i opowiedziała o ładowaniu akumulatorów przed nowymi wyzwaniami na korcie tenisowym.",
+        "Po przełomowym roku pełnym startów na najwyższym poziomie 25-latka znalazła wreszcie czas na zasłużoną regenerację.",
+        "- Zdążyłam już odpocząć. Był to dla mnie bardzo wymagający sezon - i fizycznie, i mentalnie. Dużo nowych rzeczy, nie ma co ukrywać, że rzeczywistość się zmieniła. Na pewno było to potrzebne, ale jestem już gotowa do treningów - podkreśliła Chwalińska, zapowiadając powrót do pełnych obciążeń."
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-1146a2",
+      "id": "rynki-1-7bfe42",
+      "entity_tag": "Orlen (GPW: PKN)",
+      "sector": "Energetyka & Paliwa",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 2,84 mld zł, 2,38 mld zł, 3,85 proc.) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "2,84 mld zł",
+        "2,38 mld zł",
+        "3,85 proc."
+      ],
+      "title": "Orlen, KGHM i PKO liderami wyprzedaży dużych spółek. Ich indeks znów poniżej 4000 pkt i na poziomie z września",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:18",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Orlen-KGHM-i-PKO-liderami-wyprzedazy-duzych-spolek-WIG20-znow-ponizej-4000-pkt-i-na-poziomie-z-wrzesnia-9235097.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/4/7/89fdbae91e6dad-948-568-5-0-1080-648.png",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Środowa sesja na GPW znów skończyła sporą wyprzedaży, która całkowicie wymazała poniedziałkowe odbicie i zepchnęła główne indeksy na wielomiesięczne minima.",
+        "Nastroje na krajowym parkiecie nawiązywała do słabego sentymentu na globalnych rynkach, choć cieniem kładła się też słabość polskiej waluty.",
+        "/ Ilustracja wygenerowana przy użyciu AI Krajowe indeksy kontynuowały spadki z poprzedniego dnia i znalazły się już na niższych poziomach niż w piątek, z których rynek próbował zainicjować w poniedziałek korekcyjne odbicie sięgające kilku procent."
+      ],
+      "extended_paragraphs": [
+        "Środowa sesja na GPW znów skończyła sporą wyprzedaży, która całkowicie wymazała poniedziałkowe odbicie i zepchnęła główne indeksy na wielomiesięczne minima. Nastroje na krajowym parkiecie nawiązywała do słabego sentymentu na globalnych rynkach, choć cieniem kładła się też słabość polskiej waluty.",
+        "/ Ilustracja wygenerowana przy użyciu AI Krajowe indeksy kontynuowały spadki z poprzedniego dnia i znalazły się już na niższych poziomach niż w piątek, z których rynek próbował zainicjować w poniedziałek korekcyjne odbicie sięgające kilku procent. W przypadku indeksu największych spółek tamta zwyżka wyniosła 3,85 proc., jednak całość tego ruchu została już wymazana z nawiązką.",
+        "Na zamknięciu środowych notowań WIG20 spadł o 1,87 proc. i po raz pierwszy od początku września znalazł się poniżej psychologicznej bariery 4000 punktów. Szeroki indeks WIG zniżkował o 1,55 proc., schodząc do poziomu 150 377,85. pkt. Słabość była widoczna również w segmencie małych i średnich spółek, choć skala przeceny była tam nieco łagodniejsza – mWIG40 poszedł w dół o 0,74 proc. do 10 172,46 pkt., natomiast sWIG80 stracił 1 proc. i zakończył dzień na poziomie 27 602,08 pkt. Aktywność inwestorów podliczono na 2,84 mld zł na szerokim rynku z czego 2,38 mld zł koncentrowała się przede wszystkim na najbardziej płynnych walorach spółek z indeksu blue chipów.",
+        "Wall Street w odwrocie przed Świętem Dziękczynienia, Europa pod kreską Pogorszenie sentymentu w Warszawie wpisywało się w szerszy obraz z rynków bazowych, choć skala spadków na GPW była wyraźnie głębsza niż na większości parkietów Starego Kontynentu. W momencie zamknięcia sesji przy Książęcej w Europie panowały mieszane, ale ostrożne nastroje. Brytyjski FTSE 100 oraz francuski CAC40 traciły około 0,3, podczas gdy niemiecki DAX tracił 1,1 proc. Znacznie gorzej radziły sobie giełdy południa Europy oraz naszego regionu – główne indeksy w Mediolanie i Madrycie zniżkowały o ponad 1,5 proc., a austriacki ATX taniał o ponad 2,7 proc.",
+        "Prawdziwe trzęsienie ziemi obserwowano jednak za oceanem. Na Wall Street wyprzedaż spółek technologicznych wyraźnie przyspieszyła tuż przed dniem wolnym – w czwartek w Stanach Zjednoczonych obchodzone jest Święto Dziękczynienia, a w piątek sesja będzie skrócona, co skłoniło inwestorów do gwałtownego ograniczania ryzyka. W chwili kończenia handlu w Warszawie amerykański S&P 500 szedł w dół o 2,7 proc., natomiast technologiczny Nasdaq Composite tracił aż 4,1 proc."
+      ]
+    },
+    {
+      "id": "rynki-2-08f5c0",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 28%, 50%) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [
+        "28%",
+        "50%"
+      ],
+      "title": "Rynki prognostyczne przesuwają oczekiwania dotyczące IPO OpenAI w dalszej części roku 2027",
+      "original_title": "Prediction markets push OpenAI IPO expectations later into 2027",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "17:08",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Traderzy Kalshi zmniejszyli szanse, że OpenAI potwierdzi IPO przed czerwcem 2027 r., ponieważ akcje AI i powiązane rynki osłabiły się.",
+        "Chwiejne wyniki Anthropic na rynkach publicznych od czasu ich debiutu w zeszłym tygodniu oraz ciągła wyprzedaż technologii mogą zmienić perspektywy, kiedy rynki prognostyczne uznają, że OpenAI zostanie upublicznione.",
+        "Spekulanci na platformie rynku prognostycznego Kalshi uważają, że prawdopodobieństwo, że deweloper ChatGPT oficjalnie ogłosi pierwszą ofertę publiczną do czerwca 2027 r., wynosi około 28%."
+      ],
+      "extended_paragraphs": [
+        "Traderzy Kalshi zmniejszyli szanse, że OpenAI potwierdzi IPO przed czerwcem 2027 r., ponieważ akcje AI i powiązane rynki osłabiły się.",
+        "Chwiejne wyniki Anthropic na rynkach publicznych od czasu ich debiutu w zeszłym tygodniu oraz ciągła wyprzedaż technologii mogą zmienić perspektywy, kiedy rynki prognostyczne uznają, że OpenAI zostanie upublicznione.",
+        "Spekulanci na platformie rynku prognostycznego Kalshi uważają, że prawdopodobieństwo, że deweloper ChatGPT oficjalnie ogłosi pierwszą ofertę publiczną do czerwca 2027 r., wynosi około 28%. Ostatnio na początku tego miesiąca liczba ta przekraczała 50%.",
+        "Nawet do października 2027 r. szanse na to, że prywatna firma – ostatnio przeprowadzająca rundę finansowania o wartości 1,25 biliona dolarów – wejdą na rynki publiczne, wynoszą zaledwie 50 do 50.",
+        "Kalshi definiuje oficjalne ogłoszenie IPO jako stwierdzenie przez Komisję Papierów Wartościowych i Giełd formularza S-1 jako skutecznego, wycenę IPO lub przypisanie spółce przez giełdę znacznika. Rozwiązywanie umów odbywa się na podstawie doniesień mediów."
+      ]
+    },
+    {
+      "id": "rynki-3-1146a2",
       "entity_tag": "JSW (GPW: JSW)",
       "sector": "Górnictwo",
       "market_impact": "HIGH",
@@ -2206,7 +2240,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/JSW-tnie-koszty-sprzedaje-drozszy-wegiel-i-korzysta-z-ogromnej-pomocy-publicznej-9234879.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/1/8/9637c67f7c5d19-945-567-11-7-1488-893.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Grupa JSW zaprezentowała w trzecim kwartale 2026 roku wyraźne odbicie wyników operacyjnych, podbijając skorygowaną EBITDA o ponad 258 procent kwartał do kwartału.",
         "Poprawa rentowności to efekt rosnących notowań surowca na rynkach światowych oraz głębokiej redukcji kosztów pracowniczych i wydobywczych.",
@@ -2221,7 +2255,7 @@
       ]
     },
     {
-      "id": "rynki-2-697ab7",
+      "id": "rynki-4-697ab7",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
@@ -2253,7 +2287,7 @@
       ]
     },
     {
-      "id": "rynki-3-2bb544",
+      "id": "rynki-5-2bb544",
       "entity_tag": "GPW w Warszawie",
       "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
@@ -2285,7 +2319,7 @@
       ]
     },
     {
-      "id": "rynki-5-d644a3",
+      "id": "rynki-7-d644a3",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "HIGH",
@@ -2321,114 +2355,7 @@
       ]
     },
     {
-      "id": "rynki-6-dfb2d7",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Sektor AI (Sztuczna Inteligencja) (kluczowe liczby: 3,4 miliarda dolarów, 3 miliardy dolarów) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "3,4 miliarda dolarów",
-        "3 miliardy dolarów"
-      ],
-      "title": "Dzienny wolumen handlu „perps” Kalshi zaczyna przewyższać rynki prognoz",
-      "original_title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "23:03",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108310000-1779301088587-gettyimages-2273141461-AFP_A9DR764.jpeg?v=1779301207&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
-        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
-        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana."
-      ],
-      "extended_paragraphs": [
-        "Produkt, pierwszy poza kontraktami eventowymi, został wprowadzony na rynek w maju.",
-        "Jednak teraz po raz pierwszy kontrakty terminowe typu perpetual futures, drugi produkt finansowy Kalshi, przekroczyły nominalny wolumen obrotu kontraktami eventowymi w kolejne dni.",
-        "W czwartek wartość kontraktów perpetual futures – powszechnie znanych jako „perps” – na Kalshi, osiągnęła nominalny wolumen o wartości 3,4 miliarda dolarów po debiucie akcji laboratorium sztucznej inteligencji Anthropic na rynkach publicznych, podczas gdy reszta rynku została wyprzedana. Tego samego dnia przekroczyło to teoretyczny wolumen wynoszący około 3 miliardy dolarów dla rynków prognostycznych Kalshi.",
-        "Perps to kontrakty typu futures, które nie mają terminu wygaśnięcia, a inwestorzy nie muszą posiadać instrumentu bazowego. Zamiast tego kontrakty stale śledzą cenę składnika aktywów, a płatności finansowe zapewniają zgodność ceny kontraktu z ceną rynkową. Wypłaty środków dokonywane są okresowo pomiędzy posiadaczami krótkich i długich pozycji.",
-        "Pewnego dnia we wrześniu handel perpsami przekroczył kontrakty związane z wydarzeniami, ale w piątek drugi dzień przekroczył wolumen rynków prognoz. Teraz Kalshi spodziewa się, że te wyniki się utrzymają, po wprowadzeniu klientów powiązanych z większą liczbą indywidualnych akcji. Na przykład w poniedziałek Kalshi uruchomił kontrakty powiązane z Anthropic."
-      ]
-    },
-    {
-      "id": "rynki-7-ad6edf",
-      "entity_tag": "KGHM (GPW: KGH)",
-      "sector": "Surowce & Górnictwo",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,08 mld zł, 1,68 mld zł, 2,74 proc.) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "2,08 mld zł",
-        "1,68 mld zł",
-        "2,74 proc."
-      ],
-      "title": "Poobijane KGHM, PKP Cargo, JSW i energetyka. Po odbiciu na GPW nie ma śladu",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:14",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Poobijane-KGHM-PKP-Cargo-JSW-i-energetyka-Po-odbiciu-na-GPW-nie-ma-sladu-9234384.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/3/a/c887678b00874d-945-560-0-604-2630-1577.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Po imponującym poniedziałkowym odbiciu wtorkowa sesja na GPW przyniosła gwałtowne pogorszenie nastrojów i głęboką przecenę największych spółek.",
-        "Inwestorzy masowo realizowali zyski i pozbywali się akcji.",
-        "Rynkami zachwiały informacje o nowych amerykańskich cłach oraz ponowne schłodzenie entuzjazmu wokół sztucznej inteligencji."
-      ],
-      "extended_paragraphs": [
-        "Po imponującym poniedziałkowym odbiciu wtorkowa sesja na GPW przyniosła gwałtowne pogorszenie nastrojów i głęboką przecenę największych spółek. Inwestorzy masowo realizowali zyski i pozbywali się akcji. Rynkami zachwiały informacje o nowych amerykańskich cłach oraz ponowne schłodzenie entuzjazmu wokół sztucznej inteligencji. Najmocniej ucierpiały notowania miedziowego giganta, sektora bankowego oraz energetyki.",
-        "fot. Krystian Maj/ / / Wtorkowe notowania w Warszawie rozpoczęły się od spadków, które z każdą kolejną godziną handlu systematycznie się pogłębiały. WIG20 spadł ostatecznie o 2,74 proc., oddając znaczną część poniedziałkowego zysku, kiedy to indeks największych spółek poszybował w górę o 3,85 proc. Szeroki rynek również nie oparł się presji sprzedających – indeks WIG zniżkował o 2,41 proc. Nieco łagodniejszy przebieg miała korekta w segmencie małych i średnich przedsiębiorstw, choć i tam przeważała podaż. mWIG40 poszedł w dół o 1,63 proc., a sWIG80 stracił 1,32 proc. Obroty na szerokim rynku wyniosły 2,08 mld zł, z czego 1,68 mld zł dotyczyło spółek z WIG20.",
-        "Warszawski parkiet był we wtorek jednym z najsłabszych na Starym Kontynencie. W momencie zamknięcia sesji przy Książęcej niemiecki DAX tracił 1,3 proc., brytyjski FTSE 100 spadał o 0,2 proc., natomiast francuski CAC 40 utrzymywał się na poziomie bliskim odniesienia. Czerwono było także za oceanem, gdzie handel na Wall Street zdominowali sprzedający. W chwili finiszu notowań w Warszawie amerykański S&P 500 szedł w dół o 1,2 proc., a technologiczny Nasdaq Composite zniżkował aż o 2,3 proc.",
-        "Poniedziałkowy entuzjazm wywołany powrotem Jensena Huanga na stanowisko kierownicze w Nvidii błyskawicznie wygasł , a na parkiety powróciły fundamentalne pytania o trwałość hossy napędzanej przez sztuczną inteligencję. Wyprzedaż spółek technologicznych na Wall Street szybko przełożyła się na pogorszenie sentymentu wobec ryzykownych aktywów, w tym na rynkach wschodzących.",
-        "Perspektywa eskalacji napięć handlowych natychmiast uderzyła w notowania surowców. Notowania miedzi na londyńskiej giełdzie metali LME mocno zniżkowały o przeszło 4,7 proc ., osuwając się w poniżej 12 000 USD za tonę. Srebro traciło 5,6 proc."
-      ]
-    },
-    {
-      "id": "rynki-8-845469",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 80 miliardów dolarów, 13%, 7%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "80 miliardów dolarów",
-        "13%",
-        "7%"
-      ],
-      "title": "W tym sezonie świątecznym zakupy z drugiej ręki stają się głównym nurtem, ponieważ konsumenci szukają wartości",
-      "original_title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:17",
-      "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108550227-1794501153398-gettyimages-2302287736-20260727secondhand_06nzr_2584can_28fis.jpeg?v=1794501289&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Finance",
-      "lead_story": false,
-      "summary_points": [
-        "W okresie świątecznym coraz więcej konsumentów robi zakupy z drugiej ręki, ponieważ podkreślają wartość i wyjątkowość swoich zakupów.",
-        "Ponieważ wysokie koszty życia uszczuplają portfele konsumentów w okresie świątecznym, coraz więcej kupujących zwraca się w stronę handlu detalicznego używaną odzieżą i oszczędzania.",
-        "Zmiana następuje, gdy konsumenci szukają lepszej wartości, kupujący kładą większy nacisk na personalizację, a młodsze pokolenia zmieniają sposób, w jaki robią zakupy."
-      ],
-      "extended_paragraphs": [
-        "W okresie świątecznym coraz więcej konsumentów robi zakupy z drugiej ręki, ponieważ podkreślają wartość i wyjątkowość swoich zakupów.",
-        "Ponieważ wysokie koszty życia uszczuplają portfele konsumentów w okresie świątecznym, coraz więcej kupujących zwraca się w stronę handlu detalicznego używaną odzieżą i oszczędzania.",
-        "Zmiana następuje, gdy konsumenci szukają lepszej wartości, kupujący kładą większy nacisk na personalizację, a młodsze pokolenia zmieniają sposób, w jaki robią zakupy. Według GlobalData amerykański rynek odzieży używanej wzrósł w 2025 r. o 13%, czyli prawie cztery razy szybciej niż cały rynek detaliczny odzieży detalicznej.",
-        "Oczekuje się, że do 2030 r. segment ten osiągnie prawie 80 miliardów dolarów, co oznacza wzrost średnio o ponad 7% rocznie, jak podaje GlobalData. Motorem dużej części tej ekspansji – 40% – było pokolenie Z, a tuż za nim – milenialsi.",
-        "„Myślę, że to ich wersja dreszczyku emocji związanego z polowaniem, który milenialsi uwielbiali w czasach recesji” – powiedziała CNBC Katherine Cullen, starszy analityk ds. globalnego handlu detalicznego w EY. „To sposób, aby naprawdę wyrazić indywidualny styl, znaleźć coś wyjątkowego, coś, co naprawdę pasuje do ich własnego klimatu i osobowości”."
-      ]
-    },
-    {
-      "id": "rynki-4-3742f7",
+      "id": "rynki-6-3742f7",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
       "market_impact": "MEDIUM",
@@ -2457,6 +2384,38 @@
         "„Musimy chronić naszych geniuszy, a on jest niewątpliwie geniuszem” – Donald Trump powiedział CNBC o swojej interwencji mającej na celu sprowadzenie Huanga z powrotem. W przeciwnym razie – ostrzegł Trump – założyciel giganta chipów AI mógłby hipotetycznie podjąć pracę w Chinach.",
         "Obawy odzwierciedlają sposób, w jaki chińskie firmy zajmujące się sztuczną inteligencją zmniejszają różnicę w stosunku do swoich amerykańskich odpowiedników, nie tylko pod względem modeli, ale obecnie pod względem talentów inżynieryjnych i badawczych. Według badania Carnegie Endowment Chiny prześcignęły Stany Zjednoczone pod względem udziału światowych talentów w zakresie sztucznej inteligencji w ciągu zaledwie trzech lat.",
         "Nvidia „była wstrząśnięta bez zmiany choćby jednego chipa lub modelu” – powiedział Winston Ma, inwestor w sztuczną inteligencję i adiunkt prawa na Uniwersytecie Nowojorskim. „Ktokolwiek zbuduje i utrzyma tę warstwę ludzką, utrzyma resztę stosu”."
+      ]
+    },
+    {
+      "id": "rynki-8-d0f195",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
+      "key_metrics": [],
+      "title": "Macy's przekłada paradę z okazji Święta Dziękczynienia z powodu trudnych warunków pogodowych",
+      "original_title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:26",
+      "source": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108559634-1795639990776-gettyimages-2306276140-ag_thanksgiving_02.jpeg?v=1795644512&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Finance",
+      "lead_story": false,
+      "summary_points": [
+        "W środę firma Macy's ogłosiła, że coroczna parada z okazji Święta Dziękczynienia zostaje przełożona na sobotę z powodu trudnych warunków pogodowych.",
+        "W środę sklep Macy's ogłosił, że odracza paradę z okazji Święta Dziękczynienia, pierwotnie zaplanowaną na czwartek, ze względu na trudną pogodę.",
+        "Według firmy parada, która co roku odbywa się w poranek Święta Dziękczynienia, odbędzie się teraz w sobotę o 8:30 czasu wschodniego."
+      ],
+      "extended_paragraphs": [
+        "W środę firma Macy's ogłosiła, że coroczna parada z okazji Święta Dziękczynienia zostaje przełożona na sobotę z powodu trudnych warunków pogodowych.",
+        "W środę sklep Macy's ogłosił, że odracza paradę z okazji Święta Dziękczynienia, pierwotnie zaplanowaną na czwartek, ze względu na trudną pogodę.",
+        "Według firmy parada, która co roku odbywa się w poranek Święta Dziękczynienia, odbędzie się teraz w sobotę o 8:30 czasu wschodniego. Oczekuje się, że w Święto Dziękczynienia w całym Nowym Jorku wystąpią ulewne deszcze i burze.",
+        "„Bezpieczeństwo naszych uczestników i widzów jest naszym najwyższym priorytetem i po dokładnych konsultacjach z naszymi partnerami z miasta i agencji podjęliśmy decyzję o przeniesieniu tegorocznych obchodów” – stwierdziła Macy's w oświadczeniu.",
+        "Tegoroczne wydarzenie upamiętnia 100. paradę z okazji Święta Dziękczynienia Macy's. Coroczna impreza nigdy nie została odwołana ze względu na pogodę, chociaż została zawieszona w latach 1942–1944 z powodu II wojny światowej."
       ]
     }
   ]

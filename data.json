@@ -2,8 +2,8 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.330",
-    "last_updated": "2026-11-26 15:32",
+    "edition": "#2026.331",
+    "last_updated": "2026-11-27 00:11",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
     "polish_articles_count": 12,
     "foreign_translated_count": 20,
@@ -81,17 +81,17 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$60,269",
-      "change": "+4.06%",
+      "price": "$60,530",
+      "change": "+0.17%",
       "is_positive": true
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,683",
-      "change": "+3.15%",
-      "is_positive": true
+      "price": "$1,689",
+      "change": "-0.11%",
+      "is_positive": false
     },
     {
       "symbol": "WIG20",
@@ -910,7 +910,43 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-86491c",
+      "id": "rynki-1-8592f4",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 1,72 mld zł, 1,38 mld zł, 1,59 proc.) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "1,72 mld zł",
+        "1,38 mld zł",
+        "1,59 proc."
+      ],
+      "title": "Bez Wall Street giełdy w górę. Text i Grupa Azoty z mocnymi wzrostami",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:18",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Bez-Wall-Street-gieldy-w-gore-Text-i-Grupa-Azoty-z-mocnymi-wzrostami-9235839.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/b/4/a42ca6f1319839-945-560-7-78-1492-895.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Odreagowanie na GPW po ostatnich spadkach spowodowało, że indeks WIG20 powrócił powyżej psychologicznego poziomu 4 000 punktów, wspierany przez świetne nastroje na głównych europejskich parkietach oraz odbicie cen miedzi.",
+        "Nie było jednak presji inwestorów z Wall Street, którzy świętowali w czwartek Dzień Dziękczynienia, ale dzień wcześniej zasiali na rynku nieco optymizmu.",
+        "fot. Krystian Maj / / FORUM Po nerwowym środowym handlu, podczas którego warszawskie blue chipy po raz pierwszy od początku września osunęły się poniżej poziomu 4 000 pkt, czwartek od samego rana należał do kupujących."
+      ],
+      "extended_paragraphs": [
+        "Odreagowanie na GPW po ostatnich spadkach spowodowało, że indeks WIG20 powrócił powyżej psychologicznego poziomu 4 000 punktów, wspierany przez świetne nastroje na głównych europejskich parkietach oraz odbicie cen miedzi. Nie było jednak presji inwestorów z Wall Street, którzy świętowali w czwartek Dzień Dziękczynienia, ale dzień wcześniej zasiali na rynku nieco optymizmu.",
+        "fot. Krystian Maj / / FORUM Po nerwowym środowym handlu, podczas którego warszawskie blue chipy po raz pierwszy od początku września osunęły się poniżej poziomu 4 000 pkt, czwartek od samego rana należał do kupujących. Na zamknięciu sesji WIG20 wzrósł o 1,59 proc. , wracając nad wspomniany poziom. Indeks WIG zyskał 1,73 proc. , indeks małych spółek sWIG80 zwyżkował o 1,88 proc. , natomiast absolutnym liderem czwartkowego rozdania okazał się grupujący średnie spółki mWIG40, który poszedł w górę aż o 2,33 proc. Obroty na WIG wyniosły 1,72 mld zł, z czego 1,38 mld zł dotyczyło spółek z WIG20. Obroty na rynku były naturalnie tonowane przez nieobecność inwestorów z USA.",
+        "W czwartek, ze względu na obchody Święta Dziękczynienia, amerykański rynek kasowy pozostawał zamknięty. Warto jednak pamiętać, że impuls do poprawy nastrojów popłynął zza oceanu jeszcze w środę wieczorem, już po zamknięciu handlu na Starym Kontynencie. Wówczas główne indeksy na Wall Street, zdołały odrobić zdecydowaną większość wcześniejszych dziennych strat , co ustawiło poranny sentyment w Europie.",
+        "W rezultacie wszystkie najważniejsze parkiety Starego Kontynentu świeciły w czwartek na zielono. W momencie końcowego gongu w Warszawie niemiecki DAX zyskiwał 2,1 proc. , brytyjski FTSE 100 rósł o 1,9 proc. , a francuski CAC 40 zwyżkował o 1,8 proc. Warszawska giełda wpisała się zatem idealnie w europejską falę zakupów.",
+        "Zdaniem rynkowych ekspertów czwartkowa poprawa nastrojów miała w dużej mierze charakter technicznego odbicia. – Dzisiejsza poprawa ma przede wszystkim charakter techniczny. Inwestorzy wracają do tańszych spółek technologicznych w Azji, a rynki wschodzące handlują z najwyższym od co najmniej dwóch dekad dyskontem do S&P500. EUR/USD stabilizuje się w okolicach 1,097, co zdejmuje część presji z walut regionu. Do tego dochodzi Święto Dziękczynienia: amerykańskie rynki są dziś zamknięte – ocenił w komentarzu rynkowym Michał Stajniak, wicedyrektor działu analiz w XTB."
+      ]
+    },
+    {
+      "id": "rynki-3-86491c",
       "entity_tag": "GPW w Warszawie",
       "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
@@ -929,7 +965,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/8/6/41c9d7ccbd1c63-948-568-0-162-2400-1439.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi.",
         "Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
@@ -944,7 +980,7 @@
       ]
     },
     {
-      "id": "rynki-3-7bfe42",
+      "id": "rynki-5-7bfe42",
       "entity_tag": "Orlen (GPW: PKN)",
       "sector": "Energetyka & Paliwa",
       "market_impact": "HIGH",
@@ -980,7 +1016,7 @@
       ]
     },
     {
-      "id": "rynki-4-81f30b",
+      "id": "rynki-6-81f30b",
       "entity_tag": "Azja & Pacyfik",
       "sector": "Gospodarka Światowa",
       "market_impact": "HIGH",
@@ -1016,7 +1052,7 @@
       ]
     },
     {
-      "id": "rynki-5-1146a2",
+      "id": "rynki-7-1146a2",
       "entity_tag": "JSW (GPW: JSW)",
       "sector": "Górnictwo",
       "market_impact": "HIGH",
@@ -1052,43 +1088,77 @@
       ]
     },
     {
-      "id": "rynki-7-a8969a",
-      "entity_tag": "Asseco Poland (GPW: ACP)",
-      "sector": "IT & Software",
+      "id": "rynki-8-db4597",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Asseco Poland (GPW: ACP) (IT & Software) (kluczowe liczby: 19,2 mln, 2,8 mld zł, 1,7 mld zł) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 1,5 miliarda dolarów) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "19,2 mln",
-        "2,8 mld zł",
-        "1,7 mld zł"
+        "1,5 miliarda dolarów"
       ],
-      "title": "Asseco wraca do programu motywacyjnego. Akcjonariusz z 23 proc. akcji żąda nowego głosowania",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "15:58",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-zwolalo-WZ-na-wniosek-TSS-Europe-ws-programu-motywacyjnego-opis-9235747.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/0/e/83eb3b67379726-945-560-0-172-3456-2073.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "title": "Aplikacje mikrodramatów gonią za zyskami, podczas gdy Hollywood przechodzi na krótkie, pionowe wideo",
+      "original_title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:27",
+      "source": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557747-1795462598976-Untitled-2.jpg?v=1795543076&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
-        "Asseco Poland zwołało nadzwyczajne walne zgromadzenie ws. programu motywacyjnego na 22 grudnia 2026 r. na wniosek TSS Europe, akcjonariusza reprezentującego 19,2 mln akcji spółki stanowiących łącznie 23,14 proc. kapitału zakładowego - podało Asseco w komunikacie.",
-        "/ Asseco Poland Porządek obrad przewiduje podjęcie uchwały w sprawie utworzenia jednorazowego, długoterminowego programu motywacyjnego na lata 2027–2030 dla członków zarządu Asseco Poland SA oraz kluczowych menedżerów Asseco Poland SA i spółek z grupy Asseco, a także podjęcie uchwały w sprawie utworzenia rocznego programu motywacyjnego dla członków zarządu.",
-        "W sierpniu 2026 r. nadzwyczajne walne zgromadzenie Asseco Poland nie podjęło uchwały w sprawie programu dla kadry menadżerskiej na 2027 rok oraz na lata 2026-2029."
+        "Kategoria mikrodramatów eksplodowała w czasie, gdy zainteresowanie tradycyjnymi formami mediów maleje, a YouTube zapewnia większą liczbę godzin oglądania.",
+        "Bogdan Nesvit twierdzi, że jego misja jest prosta: „Zasadniczo budujemy Disneya na miarę XXI wieku”.",
+        "Nesvit jest współzałożycielem aplikacji My Drama zbudowanej w oparciu o najnowszą, krótką formę opowiadania historii."
       ],
       "extended_paragraphs": [
-        "Asseco Poland zwołało nadzwyczajne walne zgromadzenie ws. programu motywacyjnego na 22 grudnia 2026 r. na wniosek TSS Europe, akcjonariusza reprezentującego 19,2 mln akcji spółki stanowiących łącznie 23,14 proc. kapitału zakładowego - podało Asseco w komunikacie.",
-        "/ Asseco Poland Porządek obrad przewiduje podjęcie uchwały w sprawie utworzenia jednorazowego, długoterminowego programu motywacyjnego na lata 2027–2030 dla członków zarządu Asseco Poland SA oraz kluczowych menedżerów Asseco Poland SA i spółek z grupy Asseco, a także podjęcie uchwały w sprawie utworzenia rocznego programu motywacyjnego dla członków zarządu.",
-        "W sierpniu 2026 r. nadzwyczajne walne zgromadzenie Asseco Poland nie podjęło uchwały w sprawie programu dla kadry menadżerskiej na 2027 rok oraz na lata 2026-2029.",
-        "W lipcu Asseco Poland zwołało nadzwyczajne walne zgromadzenie w sprawie programu menedżerskiego opartego na akcjach na 12 sierpnia 2026 r. Uchwała przewidywała wprowadzenie dwóch programów menedżerskich: na lata 2026-2029 oraz na rok 2027.",
-        "Główną zmianą w porównaniu do poprzednich projektów uchwał była implikowana dywidenda w latach 2027-2030, która w obecnej propozycji wynosi 2,8 mld zł, a wcześniej miała wynieść 1,7 mld zł."
+        "Kategoria mikrodramatów eksplodowała w czasie, gdy zainteresowanie tradycyjnymi formami mediów maleje, a YouTube zapewnia większą liczbę godzin oglądania.",
+        "Bogdan Nesvit twierdzi, że jego misja jest prosta: „Zasadniczo budujemy Disneya na miarę XXI wieku”.",
+        "Nesvit jest współzałożycielem aplikacji My Drama zbudowanej w oparciu o najnowszą, krótką formę opowiadania historii. Krótkie, serializowane filmy typu „mikrodramat” są tworzone specjalnie na urządzenia mobilne i w tym roku wygenerowały miliardy wyświetleń. Często zawierają romantyczne tropy i zazwyczaj kończą się klifami, które trzymają widzów w napięciu.",
+        "Kategoria ta eksplodowała w czasie, gdy zainteresowanie tradycyjnych mediów spada, a YouTube zapewnia obecnie więcej godzin oglądania niż pojedyncze platformy do transmisji strumieniowej.",
+        "Według firmy badawczej Media Partners Asia oczekuje się, że w 2026 r. branża mikrodramatów osiągnie w USA przychody wynoszące 1,5 miliarda dolarów. W Chinach, gdzie format ten pierwotnie zyskał popularność, przychody z mikrodramatów przekroczyły przychody ze sprzedaży biletów w 2024 r."
       ]
     },
     {
-      "id": "rynki-2-f9873e",
+      "id": "rynki-2-fe1f6f",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 63%, 62%, 31%) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "63%",
+        "62%",
+        "31%"
+      ],
+      "title": "Kupujący, strzeż się? Niestabilne wahania cen Nvidii ujawniają ryzyko związane z funduszami ETF zajmującymi się pojedynczymi akcjami",
+      "original_title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "16:00",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557772-1795464253141-gettyimages-2306068172-NVIDIA_HQ.jpeg?v=1795464293&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Założyciel ETF Action Mike Akins i dyrektor generalny GraniteShares Will Rhind reagują na ostre straty Nvidii i ostatni powrót Nvidii.",
+        "Ostatni atak zmienności Nvidii uwydatnia ryzyko związane z funduszami notowanymi na giełdzie.",
+        "Wśród najbardziej dotkniętych: GraniteShares 2x Short NVDA Daily ETF (NVD)."
+      ],
+      "extended_paragraphs": [
+        "Założyciel ETF Action Mike Akins i dyrektor generalny GraniteShares Will Rhind reagują na ostre straty Nvidii i ostatni powrót Nvidii.",
+        "Ostatni atak zmienności Nvidii uwydatnia ryzyko związane z funduszami notowanymi na giełdzie.",
+        "Wśród najbardziej dotkniętych: GraniteShares 2x Short NVDA Daily ETF (NVD). W poniedziałek fundusz spadł o 63% po przywróceniu Jensena Huanga na stanowisko dyrektora generalnego chipowego giganta. Tymczasem fundusz ETF 2x Long NVDA (NVDL) tej firmy wzrósł tego samego dnia o prawie 62%.",
+        "Założyciel ETF Action, Mike Akins, dołączył do „ETF Edge”, gdy akcje Nvidii wzrosły podczas poniedziałkowej sesji o 31%, odrabiając dużą część strat z dni następujących po rezygnacji Huanga. Akcje spadły jednak we wtorek i środę.",
+        "„Historycznie rzecz biorąc, na zdrowym rynku nie obserwujemy tego typu dużych spadków, po których następowałyby ogromne wzrosty” – powiedział w poniedziałek Akins. „Zazwyczaj dzieje się tak, gdy znajdujesz się w recesji lub na terytorium bessy, co technicznie nie jest możliwe w przypadku szerszego rynku, ale interesuje nas handel sztuczną inteligencją”."
+      ]
+    },
+    {
+      "id": "rynki-4-f9873e",
       "entity_tag": "Ropa Naftowa",
       "sector": "Surowce Energetyczne",
       "market_impact": "MEDIUM",
@@ -1104,7 +1174,7 @@
       "original_title": "Semiconductor chips are the new oil. Here's why",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:19",
+      "time": "17:52",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108345773-1785990932116-gettyimages-2286772264-SKOREA_SK_HYNIX.jpeg?v=1785990945&amp;w=1920&amp;h=1080",
@@ -1122,75 +1192,11 @@
         "Nvidia wzrosła o ponad 31% w poniedziałek po tym, jak wiodący producent chipów sztucznej inteligencji notował spadki siódmy tydzień z rzędu, spadając w tym okresie o 46%. Następnie spadł ponownie, spadając we wtorek i środę o prawie 10%. W ubiegły czwartek i piątek akcje Advanced Micro Devices spadły o 20% w ciągu dwóch dni. W ciągu siedmiu dni zakończonych w ubiegły piątek spółka Micron Technology spadła o 27%.",
         "„Przez dziesięciolecia rozmawialiśmy o petrodolarze. Być może coraz częściej powinniśmy myśleć o chipowym dolarze” – napisał w opublikowanym w tym miesiącu raporcie Jim Reid, globalny szef ds. badań makroekonomicznych i tematycznych w Deutsche Bank."
       ]
-    },
-    {
-      "id": "rynki-6-6d83b4",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "MEDIUM",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Kapitałowy (Giełda & Inwestycje) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [],
-      "title": "Uważaj na wyższą korelację, ale zdobądź wysoką rentowność kredytów w USA, mówią zarządzający funduszami",
-      "original_title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "05:36",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108268316-1771829545481-gettyimages-2201260900-omarques_24022025_phone_tech-4.jpeg?v=1771829556&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "Boom na sztuczną inteligencję może wywołać recesję, ale centra danych pozostają atrakcyjną okazją inwestycyjną, powiedział zarządzający funduszem hedgingowym.",
-        "Boom na sztuczną inteligencję może doprowadzić do recesji, czy to poprzez załamanie inwestycji w sztuczną inteligencję, czy powszechną utratę miejsc pracy w miarę postępu technologii, powiedział zarządzający funduszem hedgingowym.",
-        "„Martwię się, że jeśli za kilka lat nie będziemy mieli recesji spowodowanej sztuczną inteligencją, będziemy mieli recesję spowodowaną bezrobociem” – powiedziała Sheru Chowdhry, założycielka i dyrektor ds."
-      ],
-      "extended_paragraphs": [
-        "Boom na sztuczną inteligencję może wywołać recesję, ale centra danych pozostają atrakcyjną okazją inwestycyjną, powiedział zarządzający funduszem hedgingowym.",
-        "Boom na sztuczną inteligencję może doprowadzić do recesji, czy to poprzez załamanie inwestycji w sztuczną inteligencję, czy powszechną utratę miejsc pracy w miarę postępu technologii, powiedział zarządzający funduszem hedgingowym.",
-        "„Martwię się, że jeśli za kilka lat nie będziemy mieli recesji spowodowanej sztuczną inteligencją, będziemy mieli recesję spowodowaną bezrobociem” – powiedziała Sheru Chowdhry, założycielka i dyrektor ds. inwestycji w DSC Meridian Capital, podczas dyskusji panelowej moderowanej przez Joannę Ossinger z CNBC podczas konferencji iConnections Global Alts Asia w Singapurze w zeszłym tygodniu.",
-        "Ostrzeżenie Chowdhry’ego podkreśla ryzyko wykraczające poza potencjalne pęknięcie bańki AI. Szybki postęp technologiczny może doprowadzić do powszechnej utraty miejsc pracy, co będzie miało konsekwencje dla rynku mieszkaniowego i wydatków konsumenckich, powiedział.",
-        "„Jeśli sytuacja będzie się utrzymywać w obecnym tempie, myślę, że za kilka lat wielu z nas prawdopodobnie nie będzie miało pracy” – powiedział Chowdhry, dodając, że inwestorzy będą musieli ponownie przemyśleć swoje podejście do sektorów takich jak mieszkalnictwo i wydatki uznaniowe."
-      ]
-    },
-    {
-      "id": "rynki-8-db4597",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [],
-      "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "original_title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:00",
-      "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108557747-1795462598976-Untitled-2.jpg?v=1795543076&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Finance",
-      "lead_story": false,
-      "summary_points": [
-        "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
-        "Bogdan Nesvit says his mission is simple: \"We are essentially building Disney for the 21st century.\" Nesvit is the co-founder of microseries app My Drama, built around the latest, bite-sized form of storytelling.",
-        "Short, serialized \"microdrama\" videos are created specifically for mobile devices and have generated billions of views this year."
-      ],
-      "extended_paragraphs": [
-        "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
-        "Bogdan Nesvit says his mission is simple: \"We are essentially building Disney for the 21st century.\"",
-        "Nesvit is the co-founder of microseries app My Drama, built around the latest, bite-sized form of storytelling. Short, serialized \"microdrama\" videos are created specifically for mobile devices and have generated billions of views this year. They often feature romantic tropes and typically end in cliffhangers to keep viewers hooked.",
-        "The category has exploded at a time when traditional media faces waning interest and YouTube now claims more viewing hours than individual streaming platforms.",
-        "The microdrama industry is projected to reach $1.5 billion in revenue in the U.S. in 2026, according to research firm Media Partners Asia. In China, where the format originally gained popularity, microdrama revenue surpassed what was made at the box office in 2024."
-      ]
     }
   ],
   "makro": [
     {
-      "id": "makro-4-1f9923",
+      "id": "makro-1-28b750",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1198,31 +1204,95 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Norse Atlantic zawiesza wszystkie loty w obliczu potencjalnego upadku",
-      "original_title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "title": "Faisal Islam: Dlaczego nowe cła Trumpa stanowią mniejsze zagrożenie",
+      "original_title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
       "is_foreign": true,
       "lang": "EN",
-      "time": "14:28",
+      "time": "19:55",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": true,
       "summary_points": [
-        "Przewoźnik szuka pilnego finansowania, ale bez ratunku finansowego ogłosi upadłość.",
-        "Linia lotnicza korzysta z floty 12 samolotów Boeing 787 na trasach długodystansowych z wielu europejskich portów lotniczych, m.in. Londynu Gatwick, Rzymu i Oslo.",
-        "Przed zawieszeniem lotów świadczyła usługi reklamowe z Londynu do Orlando, Kapsztadu, Bangkoku i Phuket."
+        "Inne kraje przekierowały handel w odpowiedzi na jego pierwszą salwę celną i teraz patrzą poza kadencję Trumpa.",
+        "Zamiast tego w tym ostatnim ćwiczeniu jest coś raczej niepewnego i mowa o dalszych negocjacjach.",
+        "„Spodziewamy się szerokich, a nawet wielostronnych negocjacji, podczas których omówimy nadwyżkę mocy produkcyjnych i sposoby jej rozwiązania” – powiedział CNBC przedstawiciel handlowy USA Jamieson Greer."
       ],
       "extended_paragraphs": [
-        "Przewoźnik szuka pilnego finansowania, ale bez ratunku finansowego ogłosi upadłość.",
-        "Linia lotnicza korzysta z floty 12 samolotów Boeing 787 na trasach długodystansowych z wielu europejskich portów lotniczych, m.in. Londynu Gatwick, Rzymu i Oslo.",
-        "Przed zawieszeniem lotów świadczyła usługi reklamowe z Londynu do Orlando, Kapsztadu, Bangkoku i Phuket.",
-        "Jeden samolot miał wylecieć z Londynu do Orlando dziś rano, a drugi miał przylecieć z Cape Town dziś wieczorem.",
-        "Zawieszenie dotknęło także Pakistan International Airlines, które leasingowały samoloty i załogi od przewoźnika Norse Atlantic."
+        "Inne kraje przekierowały handel w odpowiedzi na jego pierwszą salwę celną i teraz patrzą poza kadencję Trumpa.",
+        "Zamiast tego w tym ostatnim ćwiczeniu jest coś raczej niepewnego i mowa o dalszych negocjacjach.",
+        "„Spodziewamy się szerokich, a nawet wielostronnych negocjacji, podczas których omówimy nadwyżkę mocy produkcyjnych i sposoby jej rozwiązania” – powiedział CNBC przedstawiciel handlowy USA Jamieson Greer.",
+        "Na całym świecie panuje opinia, że ​​ogłoszenie z tego tygodnia stanowi próbę wzmocnienia krajowych podstaw prawnych tych ceł, a nie fundamentalną zmianę w programie handlowym Trumpa.",
+        "Taryfy mają zostać wprowadzone dopiero w styczniu lub ewentualnie lutym, po okresie konsultacji. Odbyło się już osiem miesięcy procesu i przesłuchań, a ogłoszone stawki są górnymi pułapami i często podlegają negocjacjom. Stanowi to całkowity kontrast w stosunku do szoku, jaki z dnia na dzień przeżył świat w kwietniu ubiegłego roku."
       ]
     },
     {
-      "id": "makro-1-549fb1",
+      "id": "makro-2-141833",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Wielka Brytania zapłaci opłatę za „uczestnictwo” w celu realizacji umów UE",
+      "original_title": "UK to pay 'participation' fee to deliver EU deals",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:17",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Szczegóły udziału w kosztach bieżących UE ujawniono w nowych dokumentach prawnych.",
+        "Z dokumentów prawnych wynika, że ​​Wielka Brytania zapłaci UE „opłatę za uczestnictwo” w ramach umów uzgodnionych przez Andy’ego Burnhama.",
+        "Dodatkowa opłata zostanie przeznaczona na pokrycie kosztów bieżących agencji i systemów UE niezbędnych do realizacji dwóch z porozumień zaprezentowanych przez premiera w zeszłym tygodniu."
+      ],
+      "extended_paragraphs": [
+        "Szczegóły udziału w kosztach bieżących UE ujawniono w nowych dokumentach prawnych.",
+        "Z dokumentów prawnych wynika, że ​​Wielka Brytania zapłaci UE „opłatę za uczestnictwo” w ramach umów uzgodnionych przez Andy’ego Burnhama.",
+        "Dodatkowa opłata zostanie przeznaczona na pokrycie kosztów bieżących agencji i systemów UE niezbędnych do realizacji dwóch z porozumień zaprezentowanych przez premiera w zeszłym tygodniu.",
+        "Z dokumentów wynika, że ​​zostanie ono wypłacone jako dodatek do wkładu w koszty, który zasadniczo odzwierciedla wkład członków UE we wspólny budżet bloku.",
+        "Rząd starał się porównać koszty finansowe transakcji z ich ogólnym wpływem na gospodarkę, który, jak szacuje, będzie ostatecznie rósł o miliardy rocznie ze względu na zwiększony handel."
+      ]
+    },
+    {
+      "id": "makro-3-16f40f",
+      "entity_tag": "Sektor AI",
+      "sector": "Sztuczna Inteligencja",
+      "market_impact": "MEDIUM",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Sztuczna Inteligencja” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Asia postawiła duży zakład na AI na Nvidię. Co się teraz stanie?",
+      "original_title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "23:08",
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+      "image_source": "Fot. / Źródło: BBC Business",
+      "lead_story": false,
+      "summary_points": [
+        "Giełdy w Azji przeżywają gwałtowny wzrost po szokującym powrocie Jensena Huanga na stanowisko dyrektora generalnego Nvidii.",
+        "Niezwykły powrót Jensena Huanga na stanowisku szefa Nvidii wstrząsnął nie tylko jej udziałami w Nowym Jorku, ale także wywołał falę szoku w branży sztucznej inteligencji (AI) na całym świecie.",
+        "Wstrząsy te były szczególnie odczuwalne w Azji, ponieważ saga uwydatniła ogromne zainteresowanie regionu tą technologią."
+      ],
+      "extended_paragraphs": [
+        "Giełdy w Azji przeżywają gwałtowny wzrost po szokującym powrocie Jensena Huanga na stanowisko dyrektora generalnego Nvidii.",
+        "Niezwykły powrót Jensena Huanga na stanowisku szefa Nvidii wstrząsnął nie tylko jej udziałami w Nowym Jorku, ale także wywołał falę szoku w branży sztucznej inteligencji (AI) na całym świecie.",
+        "Wstrząsy te były szczególnie odczuwalne w Azji, ponieważ saga uwydatniła ogromne zainteresowanie regionu tą technologią.",
+        "Indeksy akcji spółek technologicznych w Japonii, Korei Południowej i na Tajwanie poszły w tym tygodniu w górę. Rynki wzrosły po wzroście ceny akcji Nvidii o prawie bilion dolarów, ale następnie spadły, gdy obawy dotyczące kontroli politycznej i regulacyjnej uderzyły w zaufanie inwestorów.",
+        "Producent chipów jest „symbolicznym liderem” handlu sztuczną inteligencją, który szybko staje się kluczowy w takich miejscach jak Korea Południowa, Tajwan, Singapur i Malezja” – mówi Dylan Loh, wykładowca studiów międzynarodowych na Uniwersytecie Technologicznym w Nanyang."
+      ]
+    },
+    {
+      "id": "makro-4-549fb1",
       "entity_tag": "Rynek Nieruchomości",
       "sector": "Nieruchomości",
       "market_impact": "MEDIUM",
@@ -1255,250 +1325,108 @@
         "W krótszej perspektywie około miliona właścicieli domów, których oprocentowanie kredytów hipotecznych jest niższe niż 3% i które mają zostać refinansowane do końca przyszłego roku, odnotuje wzrost miesięcznych spłat o średnio 200 funtów.",
         "Dla kredytobiorców oprocentowanie stałego kredytu hipotecznego nie zmienia się aż do jego wygaśnięcia, zwykle po dwóch lub pięciu latach, i na jego miejsce wybiera się nowe. Zdecydowana większość właścicieli i nabywców domów ma tego rodzaju kredyt hipoteczny."
       ]
-    },
-    {
-      "id": "makro-2-7a6a3c",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 20 milionów funtów, 22,5 miliona funtów, 30 milionów funtów) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "20 milionów funtów",
-        "22,5 miliona funtów",
-        "30 milionów funtów"
-      ],
-      "title": "Simon Jack: Czy amerykański właściciel Poundland jest winien jego upadku?",
-      "original_title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:40",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Kierownictwo Poundland i parlamentarzyści obwiniają właścicieli sprzedawcy, Gordon Brothers, ale amerykańska firma twierdzi, że bez nich sieć upadłaby w zeszłym roku.",
-        "Celem numer jeden jest firma Gordon Brothers z siedzibą w USA, która kupiła sieć dyskontów za 1 funta i wyciągnęła już z niej prawie 20 milionów funtów.",
-        "Gordon Brothers mogą otrzymać zwrot kolejnych 22,5 miliona funtów, ponieważ ich część z istniejącej pożyczki o wartości 30 milionów funtów będzie jednym z pierwszych długów, które administratorzy będą musieli spłacić z wpływów ze sprzedaży przedsiębiorstwa w całości lub w części."
-      ],
-      "extended_paragraphs": [
-        "Kierownictwo Poundland i parlamentarzyści obwiniają właścicieli sprzedawcy, Gordon Brothers, ale amerykańska firma twierdzi, że bez nich sieć upadłaby w zeszłym roku.",
-        "Celem numer jeden jest firma Gordon Brothers z siedzibą w USA, która kupiła sieć dyskontów za 1 funta i wyciągnęła już z niej prawie 20 milionów funtów.",
-        "Gordon Brothers mogą otrzymać zwrot kolejnych 22,5 miliona funtów, ponieważ ich część z istniejącej pożyczki o wartości 30 milionów funtów będzie jednym z pierwszych długów, które administratorzy będą musieli spłacić z wpływów ze sprzedaży przedsiębiorstwa w całości lub w części.",
-        "Zespół zarządzający Poundland obwinia właścicieli za ograniczenie możliwości odwrócenia działalności firmy, twierdząc, że ich dostęp do własnych środków pieniężnych Poundland został ograniczony, przez co nie byli w stanie w pełni uzupełnić zapasów przed kluczowym okresem świątecznym.",
-        "Parlamentarzyści napiętnowali także amerykańską firmę wraz z członkami Komisji Biznesu, oskarżając ją o „drapieżny kapitalizm” i „wyprzedaż aktywów”."
-      ]
-    },
-    {
-      "id": "makro-3-41bd43",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [],
-      "title": "Kiedy Poundland zostanie zamknięty? Pięć pytań o jego przyszłość",
-      "original_title": "When will Poundland close? Five questions about its future",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:05",
-      "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e449/live/9d5e65f0-e99e-11f1-b880-15b494ba858d.jpg",
-      "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
-      "summary_points": [
-        "Dlaczego Poundland zostaje zamknięty i co stanie się z pracownikami i dostawcami?",
-        "Firma wyznaczyła firmę doradczą Alix Partners do nadzorowania sprzedaży części lub całości dyskonta, przy czym pozostają pytania dotyczące przyszłości firmy.",
-        "Sklepy Poundland będą na razie kontynuować działalność i pozostaną otwarte jak zwykle, przynajmniej w krótkiej perspektywie."
-      ],
-      "extended_paragraphs": [
-        "Dlaczego Poundland zostaje zamknięty i co stanie się z pracownikami i dostawcami?",
-        "Firma wyznaczyła firmę doradczą Alix Partners do nadzorowania sprzedaży części lub całości dyskonta, przy czym pozostają pytania dotyczące przyszłości firmy.",
-        "Sklepy Poundland będą na razie kontynuować działalność i pozostaną otwarte jak zwykle, przynajmniej w krótkiej perspektywie.",
-        "Upadek Poundland zadziałał jak przycisk resetujący proces sprzedaży firmy.",
-        "Administratorzy chcą albo sprzedać firmę jako całość, albo ją podzielić, co jest bardziej prawdopodobne."
-      ]
     }
   ],
   "tech": [
     {
-      "id": "tech-1-d77310",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "HIGH",
+      "id": "tech-1-8ebaf7",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
+      "market_impact": "MEDIUM",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) (kluczowe liczby: 38 mln dolarów, 140 mln dolarów, 60 mln dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "38 mln dolarów",
-        "140 mln dolarów",
-        "60 mln dolarów"
-      ],
-      "title": "Odszedł z Tesli po 18 latach. Teraz chce pokonać ją w branży wartej miliardy",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Ropa Naftowa (Surowce Energetyczne) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Potężne złoża węglowodorów u wybrzeży Angoli. Amerykanie już się na nie czają",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "13:55",
+      "time": "19:56",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/heron-power-transformatory-polprzewodnikowe-rywal-tesli",
-      "image_url": "https://konto.chip.pl/uploads/2026/05/tesla-model-3-rwd-67.jpg",
+      "source_url": "https://www.chip.pl/2026/11/angola-ogromne-zloza-weglowodorow-exxonmobil",
+      "image_url": "https://konto.chip.pl/uploads/2022/06/water-g195f1ee7e_1920.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": true,
       "summary_points": [
-        "Najbardziej niewygodnym konkurentem dla wielkiej firmy może okazać się ktoś, kto doskonale zna jej technologie, mocne strony i ograniczenia.",
-        "Tesla właśnie przekonuje się, jak wygląda taka rywalizacja, bo jej nowym przeciwnikiem w energetyce jest Drew Baglino, czyli człowiek, który przez 18 lat współtworzył technologiczne fundamenty przedsiębiorstwa Elona Muska.",
-        "Co ciekawe, w tym przypadku nie chodzi […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Odszedł z Tesli po 18 latach."
+        "Amerykański koncern naftowy ExxonMobil poinformował o odkryciu nowych zasobów węglowodorów u wybrzeży Angoli.",
+        "Ten afrykański kraj okazuje się być w posiadaniu ogromnych pokładów tych substancji.",
+        "Poszukiwania trwały w obrębie odwiertu Tchihumba West-01ST1."
       ],
       "extended_paragraphs": [
-        "Najbardziej niewygodnym konkurentem dla wielkiej firmy może okazać się ktoś, kto doskonale zna jej technologie, mocne strony i ograniczenia. Tesla właśnie przekonuje się, jak wygląda taka rywalizacja, bo jej nowym przeciwnikiem w energetyce jest Drew Baglino, czyli człowiek, który przez 18 lat współtworzył technologiczne fundamenty przedsiębiorstwa Elona Muska. Co ciekawe, w tym przypadku nie chodzi […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Odszedł z Tesli po 18 latach. Teraz chce pokonać ją w branży wartej miliardy \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Co ciekawe, w tym przypadku nie chodzi o samochody elektryczne czy akumulatory, a o coś znacznie mniej widowiskowego, bo transformatory. Tyle że właśnie te urządzenia mogą stać się jednym z najważniejszych elementów przyszłej energetyki, bo wystarczy spojrzeć na to, co dzieje się obecnie z centrami danych, farmami fotowoltaicznymi i magazynami energii. Wszystkie potrzebują coraz większych mocy przyłączeniowych, a tradycyjne transformatory stają się jednym z wąskich gardeł nowych inwestycji.",
-        "Tesla chce rozwiązać ten problem za pomocą nowego Powercore, ale Baglino i jego firma Heron Power mają już własną odpowiedź. Co więcej, były inżynier Tesli może mieć w tym wyścigu przewagę, której nie da się sprowadzić do samej specyfikacji technicznej.",
-        "Drew Baglino odszedł z Tesli w kwietniu 2024 roku, kończąc tym samym karierę na stanowisku starszego wiceprezesa odpowiedzialnego za napędy i energetykę. Wcześniej nadzorował rozwój akumulatorów, silników, elektroniki mocy oraz produktów energetycznych. Jego nowa firma Heron Power nie jest jednak typowym startupem, którego największym osiągnięciem pozostaje zdobycie finansowania. Baglino przyciągnął do niej specjalistów odpowiedzialnych wcześniej za rozwój elektroniki mocy w Powerwall 3, Megapackach oraz ładowarkach Supercharger. Wśród inwestorów znalazł się nawet współzałożyciel Tesli, JB Straubel, a do rady dyrektorów dołączył były dyrektor finansowy Zach Kirkhorn.",
-        "Czytaj też: Materiał miał blokować prąd, a zaczął go przewodzić. Naukowcy dokonali niemożliwego?"
+        "Amerykański koncern naftowy ExxonMobil poinformował o odkryciu nowych zasobów węglowodorów u wybrzeży Angoli. Ten afrykański kraj okazuje się być w posiadaniu ogromnych pokładów tych substancji. Poszukiwania trwały w obrębie odwiertu Tchihumba West-01ST1. Nowe odkrycie jasno pokazuje, że obszar offshore Angoli nadal dysponuje znacznym potencjałem surowcowym. Jak poinformowała angolska Narodowa Agencja ds. Ropy Naftowej, Gazu i […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Potężne złoża węglowodorów u wybrzeży Angoli. Amerykanie już się na nie czają \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Nowe odkrycie jasno pokazuje, że obszar offshore Angoli nadal dysponuje znacznym potencjałem surowcowym. Jak poinformowała angolska Narodowa Agencja ds. Ropy Naftowej, Gazu i Biopaliw (ANPG), odwiert Tchihumba West-01ST1 ujawnił obecność warstwy piaskowca zawierającej węglowodory o miąższości rzędu 65,4 metra.",
+        "Czytaj też: Chińczycy odkryli ogromne złoże na głębokości niemal 6 kilometrów. Ogłosili przełom w poszukiwaniach w Zatoce Pohaj",
+        "Prace wiertnicze miały miejsce na wodach o głębokości około 1400 metrów, z wykorzystaniem jednostki wiertniczej Valaris DS-9. Lokalizacja znajduje się około 145 kilometrów od północnego wybrzeża Angoli. Choć operator nie przedstawił jeszcze szacunków dotyczących ilości możliwych do wydobycia zasobów, ANPG podkreśla znaczenie odkrycia dla dalszego rozwoju sektora naftowego w kraju.",
+        "W międzyczasie ExxonMobil i partnerzy projektu sfinalizowali decyzję inwestycyjną dotyczącą dalszego rozwoju infrastruktury wydobywczej na Bloku 15. Plan obejmuje rewitalizację złóż Kizomba A i Kizomba B oraz zagospodarowanie złoża Likembe. Inwestycje mają pozwolić na wykorzystanie istniejącej infrastruktury offshore, a także udostępnienie dodatkowych zasobów ropy oraz gazu. Takie podejście powinno ograniczyć konieczność budowy całkowicie nowych instalacji, a jednocześnie zwiększyć efektywność wykorzystania już funkcjonujących obiektów wydobywczych."
       ]
     },
     {
-      "id": "tech-2-481f08",
+      "id": "tech-2-6d6de3",
       "entity_tag": "NVIDIA (NASDAQ: NVDA)",
       "sector": "Półprzewodniki & AI",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 500 miliardów dolarów, 25%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół NVIDIA (NASDAQ: NVDA) (Półprzewodniki & AI) (kluczowe liczby: 24%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [
-        "500 miliardów dolarów",
-        "25%"
+        "24%"
       ],
-      "title": "S&P uważa, że obniżenie ratingu kredytowego Nvidii wynika z ryzyka związanego z zarządzaniem i kluczowymi pracownikami",
-      "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "22:44",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "Agencja ratingowa może obniżyć rating kredytowy Nvidii do AA-, czwartego najwyższego ratingu.",
-        "S&P Global Ratings, jedna z trzech głównych agencji ratingowych, rozważa obniżenie ratingu Nvidii, powołując się na obawy dotyczące zarządzania firmą i praktyk ładu korporacyjnego.",
-        "Pomimo dobrych wyników finansowych Nvidii usunięcie i przywrócenie na stanowisko dyrektora generalnego Jensena Huanga wzbudziło obawy dotyczące „słabego nadzoru wykonawczego i braku planowania sukcesji” oraz „ryzyka kluczowych pracowników”, co oznacza duże uzależnienie jego przyszłego sukcesu od Huanga, stwierdziła S&P w oświadczeniu."
-      ],
-      "extended_paragraphs": [
-        "Agencja ratingowa może obniżyć rating kredytowy Nvidii do AA-, czwartego najwyższego ratingu.",
-        "S&P Global Ratings, jedna z trzech głównych agencji ratingowych, rozważa obniżenie ratingu Nvidii, powołując się na obawy dotyczące zarządzania firmą i praktyk ładu korporacyjnego.",
-        "Pomimo dobrych wyników finansowych Nvidii usunięcie i przywrócenie na stanowisko dyrektora generalnego Jensena Huanga wzbudziło obawy dotyczące „słabego nadzoru wykonawczego i braku planowania sukcesji” oraz „ryzyka kluczowych pracowników”, co oznacza duże uzależnienie jego przyszłego sukcesu od Huanga, stwierdziła S&P w oświadczeniu.",
-        "Agencja spodziewa się zakończyć ocenę w ciągu 90 dni i może obniżyć ocenę Nvidii z AA do AA-, czwartego najwyższego w swojej skali.",
-        "Choć Nvidia z pewnością utrzyma rating na poziomie inwestycyjnym, jego obniżenie może podnieść koszty finansowania zewnętrznego. Ponieważ Nvidia chroni neocloudy i inne firmy infrastrukturalne, które same nie mają silnego kredytu, niższy rating może sprawić, że ich zadłużenie będzie droższe lub zmusi je do wniesienia większego zabezpieczenia."
-      ]
-    },
-    {
-      "id": "tech-4-eb4cd2",
-      "entity_tag": "Tesla / SpaceX",
-      "sector": "Motoryzacja & Tech",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Tesla / SpaceX (Motoryzacja & Tech) (kluczowe liczby: 1 miliona) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "1 miliona"
-      ],
-      "title": "FCC zatwierdza plan SpaceX dotyczący umieszczenia centrów danych AI w kosmosie",
-      "original_title": "FCC approves SpaceX plan to put AI data centers in space",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "20:56",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
-      "image_source": "Fot. / Źródło: TechCrunch",
-      "lead_story": false,
-      "summary_points": [
-        "FCC odrzuciła niektóre z kluczowych obaw zgłaszanych przez przeciwników, w tym potencjalne zagrożenia dla badań naukowych, ponieważ agencja stwierdziła, że nie mieszczą się one w zakresie jej organu regulacyjnego.",
-        "FCC zatwierdza plan SpaceX dotyczący umieszczenia w przestrzeni kosmicznej centrów danych AI Kirsten Korosec 12:56 PST · 25 listopada 2026 r. W środę Federalna Komisja Łączności SpaceX otrzymała warunkową zgodę na rozmieszczenie i obsługę konstelacji składającej się z maksymalnie 1 miliona satelitów na potrzeby swojej działalności w zakresie orbitalnych centrów danych, co stanowi regulacyjne zwycięstwo Elona Muska i jego oferty przeniesienia centrów danych AI w przestrzeń kosmiczną.",
-        "Zezwolenie FCC zostało wydane pomimo zastrzeżeń ze strony Amazon, Viasat i Amerykańskiego Towarzystwa Astronomicznego, które wyraziły obawy dotyczące śmieci orbitalnych i zatorów, zakłóceń częstotliwości radiowych i konsekwencji dla środowiska."
-      ],
-      "extended_paragraphs": [
-        "FCC odrzuciła niektóre z kluczowych obaw zgłaszanych przez przeciwników, w tym potencjalne zagrożenia dla badań naukowych, ponieważ agencja stwierdziła, że nie mieszczą się one w zakresie jej organu regulacyjnego.",
-        "FCC zatwierdza plan SpaceX dotyczący umieszczenia w przestrzeni kosmicznej centrów danych AI Kirsten Korosec 12:56 PST · 25 listopada 2026 r. W środę Federalna Komisja Łączności SpaceX otrzymała warunkową zgodę na rozmieszczenie i obsługę konstelacji składającej się z maksymalnie 1 miliona satelitów na potrzeby swojej działalności w zakresie orbitalnych centrów danych, co stanowi regulacyjne zwycięstwo Elona Muska i jego oferty przeniesienia centrów danych AI w przestrzeń kosmiczną.",
-        "Zezwolenie FCC zostało wydane pomimo zastrzeżeń ze strony Amazon, Viasat i Amerykańskiego Towarzystwa Astronomicznego, które wyraziły obawy dotyczące śmieci orbitalnych i zatorów, zakłóceń częstotliwości radiowych i konsekwencji dla środowiska. Amazon, który buduje konkurenta usługi Starlink firmy SpaceX, argumentował w swojej petycji, że aplikacji brakuje podstawowych szczegółów i określił ją jako „wzniosłą ambicję, a nie realny plan”. Pomimo tego braku szczegółów Amazon stwierdził również, że propozycja „ryzykuje realną krzywdą”.",
-        "Przewodniczący FCC Brendan Carr powiedział w oświadczeniu, że akcja „otwiera nową, odważną granicę dla infrastruktury obliczeniowej niezbędnej do zapewnienia wiodącej pozycji i wzrostu Ameryki”.",
-        "Musk podziękował Carrowi w poście na X, pisząc: „Bardzo doceniam. To będzie wielki nabytek dla Ameryki i świata”."
-      ]
-    },
-    {
-      "id": "tech-6-841820",
-      "entity_tag": "Sektor AI",
-      "sector": "Sztuczna Inteligencja",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Sektor AI (Sztuczna Inteligencja) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "OpenAI twierdzi, że intensywnie korzystający z ChatGPT mogą szybciej osiągnąć limity, gdy połączy czat i pracę",
-      "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "title": "Nvidia wstrzymuje dostawy chipów do Azji Południowo-Wschodniej",
+      "original_title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "is_foreign": true,
       "lang": "EN",
       "time": "20:03",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
+      "source_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
       "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "OpenAI wprowadzi pojedynczy licznik użytkowania w całym ChatGPT, ponieważ łączy on funkcje czatu i pracy.",
-        "OpenAI twierdzi, że liczni użytkownicy ChatGPT mogą szybciej osiągnąć limity po połączeniu czatu i pracy.",
-        "Jagmeet Singh 12:03 PST · 25 listopada 2026 r. OpenAI rozpoczęło udostępnianie kilku swoim użytkownikom ujednoliconego środowiska czatu i pracy w ChatGPT, pomimo krytyki ze strony niektórych subskrybentów, że fuzja może ograniczyć ich użycie."
+        "Nvidia powiedziała partnerom produkcyjnym, aby wstrzymali dostawy serwerów do Malezji, Singapuru, Tajlandii i Indonezji, ponieważ Stany Zjednoczone zwiększają wysiłki, aby utrzymać chipy AI poza Chinami.",
+        "Nvidia znajduje się pod presją, aby postąpić inaczej, a nowy raport WSJ pokazuje, jak daleko to zajdzie.",
+        "Według dziennika Nvidia poleciła partnerom produkcyjnym, w tym Dellowi i Super Micro, wstrzymanie dostaw serwerów do Malezji, Singapuru, Tajlandii i Indonezji na czas nieokreślony w celu oceny, czy jej partnerzy regionalni spełniają amerykańskie wymagania eksportowe."
       ],
       "extended_paragraphs": [
-        "OpenAI wprowadzi pojedynczy licznik użytkowania w całym ChatGPT, ponieważ łączy on funkcje czatu i pracy.",
-        "OpenAI twierdzi, że liczni użytkownicy ChatGPT mogą szybciej osiągnąć limity po połączeniu czatu i pracy. Jagmeet Singh 12:03 PST · 25 listopada 2026 r. OpenAI rozpoczęło udostępnianie kilku swoim użytkownikom ujednoliconego środowiska czatu i pracy w ChatGPT, pomimo krytyki ze strony niektórych subskrybentów, że fuzja może ograniczyć ich użycie.",
-        "Twórca ChatGPT zaczął wprowadzać aktualizację dla małej grupy abonentów Pro, powiedział lider produktu Thibault „Tibo” Sottiaux we wtorkowym poście na X. Wdrożenie następuje po wcześniejszym ogłoszeniu przez OpenAI fuzji w wiadomości e-mail do użytkowników. Rzecznik OpenAI powiedział TechCrunch, że choć nie oczekuje się, że większość użytkowników będzie spotykać się z częstszym resetowaniem użytkowania, niewielka część najcięższych użytkowników może szybciej osiągnąć swoje limity.",
-        "To jedna z obaw zgłaszanych ostatnio przez niektórych subskrybentów ChatGPT w mediach społecznościowych i na forum społeczności OpenAI. Użytkownicy obawiają się, że połączenie limitów użytkowania Czatu i Pracy może spowodować, że będą mieli mniejszy niż obecnie dostęp do zaawansowanych modeli rozumowania, mimo że nadal będą płacić te same opłaty abonamentowe.",
-        "W nowym systemie Chat i Work będą korzystać z jednego licznika użytkowania w ramach ChatGPT, powiedział TechCrunch rzecznik OpenAI. Rozmowy w modelu Instant pozostaną jednak nieograniczone i nie będą wliczane do wspólnego limitu. Użytkownicy mogą także kontynuować korzystanie z usługi Instant po wyczerpaniu limitów użytkowania. Rzecznik dodał, że OpenAI będzie nadal pracować nad poprawą wydajności, aby abonenci mogli w pełni wykorzystać swoje plany."
+        "Nvidia powiedziała partnerom produkcyjnym, aby wstrzymali dostawy serwerów do Malezji, Singapuru, Tajlandii i Indonezji, ponieważ Stany Zjednoczone zwiększają wysiłki, aby utrzymać chipy AI poza Chinami.",
+        "Nvidia znajduje się pod presją, aby postąpić inaczej, a nowy raport WSJ pokazuje, jak daleko to zajdzie.",
+        "Według dziennika Nvidia poleciła partnerom produkcyjnym, w tym Dellowi i Super Micro, wstrzymanie dostaw serwerów do Malezji, Singapuru, Tajlandii i Indonezji na czas nieokreślony w celu oceny, czy jej partnerzy regionalni spełniają amerykańskie wymagania eksportowe.",
+        "Jeśli chodzi o powody tych krajów, chińskie firmy korzystają z chipów Nvidia zdalnie z tamtejszych centrów danych, co stanowi lukę, którą Departament Handlu Stanów Zjednoczonych zamknął – podobno niechętnie – na początku tego miesiąca. W czasopiśmie Journal zauważono, że zespół doradców Institute for Progress szacuje, że tego typu odległe centra danych dostarczają około 24% mocy obliczeniowej sztucznej inteligencji w Chinach."
       ]
     },
     {
-      "id": "tech-8-e282ef",
-      "entity_tag": "Technologia & Innowacje",
-      "sector": "Sektor Tech",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) (kluczowe liczby: 600 miliardów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "600 miliardów"
-      ],
-      "title": "Osuszanie torfowisk jest odpowiedzialne za kilka procent globalnego ocieplenia",
-      "original_title": "Draining peatlands is responsible for a few percent of our global warming",
+      "id": "tech-4-5885db",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Wall Street (USA) (Rynki Globalne) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Czy Alice Huang jest szpiegiem, czy nie?",
+      "original_title": "Is Alice Huang a spy or not?",
       "is_foreign": true,
       "lang": "EN",
-      "time": "12:15",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735-1152x648.jpg",
-      "image_source": "Fot. / Źródło: Ars Technica",
+      "time": "20:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
+      "image_source": "Fot. / Źródło: TechCrunch",
       "lead_story": false,
       "summary_points": [
-        "Szczegółowe szacunki sięgające roku 1800 pokazują, ile węgla jest uwalnianego.",
-        "Nowe badanie prowadzone przez Jevana Yu z MIT koncentruje się na torfowiskach – środowiskach takich jak torfowiska i torfowiska, w których materia organiczna gromadzi się w grube warstwy materiału.",
-        "Naukowcy zauważają, że w tych ogromnych pokładach torfu magazynowanych jest około 600 miliardów ton węgla, czyli więcej niż można znaleźć w całej żywej roślinności świata."
+        "Głównym, wciąż niepotwierdzonym twierdzeniem w aferze Nvidii jest to, że Alice Huang, była dyrektor Megaspeed, z którą dyrektor generalny Nvidii Jensen Huang miał pozamałżeński romans, jest chińskim szpiegiem.",
+        "Czy Alice Huang jest szpiegiem, czy nie?",
+        "Lucas Ropek 12:00 PST · 26 listopada 2026 r. Głównym, wciąż niepotwierdzonym twierdzeniem w skandalu Nvidii jest to, że Alice Huang, była dyrektor firmy Megaspeed zajmującej się centrami danych, jest chińskim szpiegiem."
       ],
       "extended_paragraphs": [
-        "Szczegółowe szacunki sięgające roku 1800 pokazują, ile węgla jest uwalnianego.",
-        "Nowe badanie prowadzone przez Jevana Yu z MIT koncentruje się na torfowiskach – środowiskach takich jak torfowiska i torfowiska, w których materia organiczna gromadzi się w grube warstwy materiału. Naukowcy zauważają, że w tych ogromnych pokładach torfu magazynowanych jest około 600 miliardów ton węgla, czyli więcej niż można znaleźć w całej żywej roślinności świata.",
-        "Ponieważ obszary te są stale zalewane, tlen zawarty w wodzie szybko się zużywa, pozostawiając zadanie rozkładu całej materii organicznej bakteriom beztlenowym, które działają znacznie wolniej i nie wszystko trawią. Zamiast więc widzieć, jak węgiel organiczny zamienia się w gazowy CO 2 uwalniany przez bakterie tlenowe, na torfowiskach jego podzbiór stopniowo zamienia się w metan. Metan jest jeszcze silniejszym gazem cieplarnianym niż sam CO 2 i ostatecznie utlenia się do CO 2 . Oznacza to, że torfowiska wymagają pewnego kompromisu – większość zawartego w nich węgla jest zatrzymywana poza atmosferą, ale węgiel, który ucieka, robi to w postaci metanu.",
-        "Wiele torfowisk zostało osuszonych poprzez kopanie rowów, które umożliwiają odpływ wody w celu ponownego wykorzystania gruntów pod rolnictwo lub inne cele. To obniża poziom wody, dostarczając tlen do odsłoniętego torfu i dzwoniąc na obiad dla bakterii tlenowych. Zmniejsza się emisję metanu, a emisję CO 2 znacznie zwiększa.",
-        "Naukowcy wykorzystali najnowsze badania, w których mierzono emisję gazów z torfowisk, aby zbudować globalny model szacujący uwalnianie CO2 i metanu w miarę spadku poziomu wody. Obydwa gazy odmiennie reagują na dany spadek poziomu wody, a w szczególności CO 2 reaguje odmiennie w zależności od tego, w którym miejscu na świecie znajduje się torfowisko. Wykorzystując rekonstrukcje zmian poziomu wody w wyniku historycznego osuszania torfowisk, zespół opracował swój model począwszy od 1800 roku."
+        "Głównym, wciąż niepotwierdzonym twierdzeniem w aferze Nvidii jest to, że Alice Huang, była dyrektor Megaspeed, z którą dyrektor generalny Nvidii Jensen Huang miał pozamałżeński romans, jest chińskim szpiegiem.",
+        "Czy Alice Huang jest szpiegiem, czy nie? Lucas Ropek 12:00 PST · 26 listopada 2026 r. Głównym, wciąż niepotwierdzonym twierdzeniem w skandalu Nvidii jest to, że Alice Huang, była dyrektor firmy Megaspeed zajmującej się centrami danych, jest chińskim szpiegiem. Miała romans z dyrektorem generalnym Nvidii, Jensenem Huangiem, który 12 listopada nagle złożył rezygnację po przyjęciu do wiadomości wiadomości i równie nagle została przywrócona na stanowisko w poniedziałek tego tygodnia.",
+        "To, co jest publicznie znane, jest bardziej mroczne, niż sugerują nagłówki. Według doniesień wywiad amerykański śledził kontakt Alice Huang z funkcjonariuszem chińskiej agencji szpiegowskiej, ale urzędnicy nie przedstawili publicznych dowodów na to, że zlecono jej zaatakowanie szefa Nvidii. W zeszłym tygodniu, po tym jak prezydent Trump skutecznie nalegał na sprowadzenie Jensena Huanga z powrotem, administracja bagatelizowała zarzuty, które kiedyś krążyły wewnętrznie. Pytanie, czy odzwierciedla to nowe informacje wywiadowcze, czy presję polityczną.",
+        "Bezsporne doniesienia pokazują, że twierdzenie to wyszło z samego Białego Domu. Po raz pierwszy pojawiła się w ściśle tajnej notatce napisanej w marcu pod nadzorem Sekretarza Stanu Marco Rubio i rozesłanej urzędnikom Białego Domu przed podróżą Trumpa do Chin w maju. Notatka ta stała się częściową podstawą wstępnego doniesienia „New York Timesa” na temat skandalu, opublikowanego 29 października, a o jej istnieniu po raz pierwszy poinformowano 8 listopada.",
+        "Według „Wall Street Journal” w notatce nie wskazano ostatecznie, że Alice Huang była chińskim szpiegiem. CNN natomiast podała, że ​​w notatce stwierdzono, że była ona pracownikiem chińskiego wywiadu."
       ]
     },
     {
-      "id": "tech-3-e1faa3",
+      "id": "tech-3-63f131",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1506,97 +1434,227 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "W końcu WhatsApp to dostał. Ta funkcja powinna być tu od lat",
+      "title": "Nie tylko polowanie na przecenioną elektronikę. Plush i Plus rozdają zapas gigabajtów na Black Friday",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "12:00",
+      "time": "19:00",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/whatsapp-z-wazna-funkcja-planowanie-wiadomosci",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/pexels-bm-amaro-1100375333-20716657.jpg",
+      "source_url": "https://www.chip.pl/2026/11/plush-i-plus-rozdaja-zapas-gigabajtow-na-black-friday",
+      "image_url": "https://konto.chip.pl/uploads/2025/07/smartfony.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Czasem aż trudno uwierzyć, że pewnych funkcji nie znajdziemy w aplikacji czy urządzeniu.",
-        "WhatsApp uzupełnia brak, który przez lata dawał się we znaki tym, którzy pisali wiadomości z wyprzedzeniem.",
-        "Teraz nie będzie trzeba ich kopiować ani tym bardziej ustawiać sobie przypomnień na telefonie."
+        "Listopad to czas intensywnych promocji z okazji Czarnego Piątku.",
+        "Zwykle kojarzymy je z polowaniem na elektronikę czy inne gadżety, a także z zastanawianiem się, czy rabat faktycznie jest tak atrakcyjny, jak obiecuje czerwony baner.",
+        "Czytaj też: Lenovo IdeaPad Slim 5i Ultra debiutuje w Polsce."
       ],
       "extended_paragraphs": [
-        "Czasem aż trudno uwierzyć, że pewnych funkcji nie znajdziemy w aplikacji czy urządzeniu. WhatsApp uzupełnia brak, który przez lata dawał się we znaki tym, którzy pisali wiadomości z wyprzedzeniem. Teraz nie będzie trzeba ich kopiować ani tym bardziej ustawiać sobie przypomnień na telefonie. Aplikacja wyjdzie naprzeciw wszystkim planującym. Opóźnione wysyłanie wiadomości pojawiło się w większości […]",
-        "powrót Tech Testy Moto Nauka Publicystyka WhatsApp Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Opóźnione wysyłanie wiadomości pojawiło się w większości komunikatorów lata, a nawet kilkanaście lat temu. Większość narzędzi do wysyłania SMS-ów je posiada. Nawet Instagram, który niekoniecznie jest aplikacją do wysyłania wiadomości na co dzień, uzyskał taką funkcję w 2024 roku.",
-        "Tymczasem jedne z najpopularniejszych aplikacji na świecie do wysyłania wiadomości, Messenger oraz Whatsapp, nie mają tej funkcji. W międzyczasie dorobiły się kanałów nadawczych, szyfrowania wiadomości, gier, udostępniania lokalizacji, stories i innych mniej lub bardziej efektownych funkcji. Była to spora różnica względem bezpośredniej konkurencji, ale ta w końcu się zatrze.",
-        "Po latach oczekiwania funkcja planowania wiadomości trafia do użytkowników aplikacji mobilnej WhatsApp. Zyskamy możliwość planowania wiadomości w przedziale od 10 minut do 14 dni. Zaplanowane wiadomości mogą zawierać zdjęcia i filmy oraz łączyć je z tekstem. W ten sposób będziemy komunikować się zarówno w czatach z drugą osobą, jak i w rozmowach grupowych.",
-        "Gdy funkcja pojawi się w aplikacji, do jej aktywacji wystarczy przytrzymać palec na ikonie wysyłania. Potem pojawi się ekran pozwalający wybrać odpowiednią datę. Odbiorcy wiadomości nie będą wiedzieli, czy jest ona wysłana w tej chwili, czy zaplanowana, gdyż WhatsApp nie planuje żadnych oznaczeń. Możemy przed wysłaniem wiadomości przejrzeć ją ponownie i usuwać."
+        "Listopad to czas intensywnych promocji z okazji Czarnego Piątku. Zwykle kojarzymy je z polowaniem na elektronikę czy inne gadżety, a także z zastanawianiem się, czy rabat faktycznie jest tak atrakcyjny, jak obiecuje czerwony baner. Tymczasem w tym całym zakupowym zgiełku łatwo przeoczyć drobne, bezkosztowe okazje przy okazji codziennych wydatków – takich jak zwykłe zasilenie telefonu […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Jeśli akurat kończy ci się ważność konta w Plusie lub Plushu albo po prostu lubisz mieć w zapasie paczkę danych na zimowe wyjazdy i oglądanie seriali w pociągu, warto zanotować w kalendarzu datę 27 listopada.",
+        "Czytaj też: Lenovo IdeaPad Slim 5i Ultra debiutuje w Polsce. Tej przedsprzedażowej promocji nie można przegapić",
+        "Mechanizm promocji został skonstruowany tak, by premiować nieco wyższe doładowania w bardzo odczuwalny sposób. Więc tak, Plus chce, żebyśmy wydali tego dnia więcej, ale w zamian też da nam znacznie więcej danych do wykorzystania, więc to całkiem atrakcyjna opcja. Osoby, które 27 listopada zasilą swoje konto kwotą do 29 złotych, otrzymają w prezencie 5 GB dodatkowego transferu danych. Jeśli jednak zdecydujecie się na doładowanie powyżej 30 złotych, bonus rośnie skokowo aż do 50 GB ekstra.",
+        "Różnica w kwocie zasilenia jest więc symboliczna (i cały czas mamy ją do wykorzystania), natomiast paczka internetu powiększa się aż dziesięciokrotnie. Dla kogoś, kto i tak planował w najbliższych dniach doładować numer, to świetna okazja, by przy okazji standardowego wydatku zabezpieczyć sobie solidny zapas gigabajtów na kolejne tygodnie. Trzeba tylko pamiętać o jednym warunku – okazja obowiązuje wyłącznie przez dwadzieścia cztery godziny, w piątek 27 listopada, zarówno w ofercie Plus na Kartę, jak i w sieci Plush na Kartę."
       ]
     },
     {
-      "id": "tech-5-426ab3",
-      "entity_tag": "Złoto (XAU/USD)",
-      "sector": "Surowce Szlachetne",
+      "id": "tech-5-df5de9",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Złoto (XAU/USD) (Surowce Szlachetne) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Stworzyli elektryczny rower za 135000 zł. Złoto na ramie to dopiero początek",
+      "title": "Nie trzeba już wymieniać Galaxy Watch na nowszy model. Flagowe funkcje zdrowotne trafiają do starszych zegarków",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "10:55",
+      "time": "17:00",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/luksusowy-rower-elektryczny-hpc-omega",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/luksusowy-rower-elektryczny-hpc-omega-8.jpg",
+      "source_url": "https://www.chip.pl/2026/11/one-ui-9-watch-dla-galaxy-watch-8-nowosci",
+      "image_url": "https://konto.chip.pl/uploads/2025/07/samsung-galaxy-watch8-9.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "24-karatowe złoto na ramie roweru, którym z założenia mamy szaleć po błocie, kamieniach i górskich szlakach?",
-        "Przyznam, że trudno mi o bardziej absurdalne połączenie, ale najwyraźniej rynek elektrycznych jednośladów dorósł już do tego, żeby mieć swoje odpowiedniki egzotycznych supersamochodów.",
-        "Takich, przy których nawet zakup najdroższych części schodzi na dalszy plan, bo liczy się również sama […] powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Stworzyli elektryczny rower za 135000 zł."
+        "Zwykle najnowsze i najbardziej zaawansowane funkcje rezerwowane są dla topowych urządzeń, stanowiąc ich kartę atutową w walce o portfele klientów.",
+        "W tym roku, w przypadku Galaxy Watch 8 i Galaxy Watch Ultra 2 takimi funkcjami było m.in. wykrywanie bezdechu sennego czy wskaźniki parametrów życiowych.",
+        "Od razu trzeba zaznaczyć, że wdrażanie aktualizacji ruszyło w połowie listopada i odbywa się etapami, więc nie każdy dostanie je w tym samym czasie."
       ],
       "extended_paragraphs": [
-        "24-karatowe złoto na ramie roweru, którym z założenia mamy szaleć po błocie, kamieniach i górskich szlakach? Przyznam, że trudno mi o bardziej absurdalne połączenie, ale najwyraźniej rynek elektrycznych jednośladów dorósł już do tego, żeby mieć swoje odpowiedniki egzotycznych supersamochodów. Takich, przy których nawet zakup najdroższych części schodzi na dalszy plan, bo liczy się również sama […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Stworzyli elektryczny rower za 135000 zł. Złoto na ramie to dopiero początek \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Amerykańska firma Hi Power Cycles zaprezentowała właśnie Trailblazera Omega, za którego życzy sobie aż 33000 dolarów, czyli w bezpośrednim przeliczeniu około 135000 złotych. Na 2027 rok producent przewiduje zaledwie osiem egzemplarzy, które będzie składać ręcznie na zamówienie w kalifornijskim Simi Valley. Zostawmy jednak na chwilę kwestię ceny i złota, bo znacznie ciekawsze jest to, jak ewoluuje współczesny rower elektryczny, kiedy jego projektanci praktycznie przestają liczyć się z kosztami.",
-        "Podstawą Omegi jest karbonowa rama enduro wywodząca się z modelu Trailblazer Pro, którą producent pokrył czarnym lakierem z żyłkami prawdziwego 24-karatowego złota. Znacznie większe znaczenie użytkowe mają jednak tytanowe elementy, a w tym korby, mostek kierownicy, zacisk sztycy podsiodłowej oraz przednia zębatka. Sam tytan nie gwarantuje wprawdzie niższej masy względem dobrze zaprojektowanych elementów aluminiowych, ale pozwala uzyskać bardzo korzystny stosunek wytrzymałości do masy.",
-        "Czytaj też: Amerykanie stworzyli samochód z pedałami. Ten rower intryguje zwłaszcza dachem",
-        "Największe szaleństwo od strony czysto technicznej kryje się z kolei między korbami, gdzie HPC umieściło zmodyfikowany silnik centralny Bafang M560 o mocy sięgającej 2400 watów i szczytowym momencie obrotowym rzędu 200 Nm. Całkiem niedawno zastanawiałem się nad tym, czy 125 Nm w miejskim rowerze elektrycznym nie jest już przesadą , a tu proszę – Amerykanie postanowili przebić nawet własny 2000-watowy napęd o momencie 190 Nm."
+        "Zwykle najnowsze i najbardziej zaawansowane funkcje rezerwowane są dla topowych urządzeń, stanowiąc ich kartę atutową w walce o portfele klientów. W tym roku, w przypadku Galaxy Watch 8 i Galaxy Watch Ultra 2 takimi funkcjami było m.in. wykrywanie bezdechu sennego czy wskaźniki parametrów życiowych. Na szczęście Samsung postanowił, że dbanie o zdrowie nie musi być […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wraz z udostępnieniem aktualizacji One UI 9 Watch, właściciele ubiegłorocznych modeli Galaxy Watch 8 oraz Galaxy Watch 8 Classic otrzymują właśnie potężny pakiet funkcji zdrowotnych i użytkowych, które wcześniej zarezerwowane były dla tegorocznych generacji.",
+        "Od razu trzeba zaznaczyć, że wdrażanie aktualizacji ruszyło w połowie listopada i odbywa się etapami, więc nie każdy dostanie je w tym samym czasie. Do tego część nowości wymaga również zaktualizowania aplikacji Samsung Health oraz Samsung Health Monitor na sparowanym smartfonie. Największą zmianą z perspektywy codziennego dbania o formę jest sposób, w jaki zegarek zaczyna interpretować zbierane w nocy i w ciągu dnia dane – zamiast zasypywać użytkownika surowymi wykresami, podaje mu konkretne wnioski i ostrzeżenia.",
+        "Centralnym punktem nowego pakietu zdrowotnego jest funkcja Vitals, która podczas snu monitoruje jednocześnie pięć parametrów fizjologicznych: tętno, zmienność rytmu zatokowego (HRV), częstość oddechów, temperaturę skóry oraz poziom natlenienia krwi. Przez pierwsze noce algorytm uczy się twojego indywidualnego poziomu bazowego, aby później błyskawicznie wychwycić i zasygnalizować nietypowe odchylenia. Te mogą pojawiać się np. wtedy, gdy organizm zaczyna walczyć z infekcją albo jest skrajnie przemęczony.",
+        "Uzupełnia ją wskaźnik Heart Health Score, który łączy dane o śnie, codziennym ruchu i regeneracji w jeden wynik, ułatwiający ocenę tego, jak codzienne nawyki przekładają się na kondycję układu krążenia w dłuższej perspektywie (choć producent uczciwie zaznacza, że żadna z tych funkcji nie służy do diagnozowania ani leczenia chorób)."
       ]
     },
     {
-      "id": "tech-7-3599e9",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
+      "id": "tech-6-7c4e92",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "X w końcu po 20 latach otrzymuje kontrolę rodzicielską",
+      "original_title": "X finally gets parental controls after 20 years",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "19:31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+      "image_source": "Fot. / Źródło: TechCrunch",
+      "lead_story": false,
+      "summary_points": [
+        "Sieć społecznościowa X Elona Muska w końcu dodała kontrolę rodzicielską dla nastolatków, dając rodzicom i opiekunom możliwość zarządzania tym, co ich dzieci widzą na platformie.",
+        "X w końcu uzyskuje kontrolę rodzicielską po 20 latach Ram Iyer 11:31 PST · 26 listopada 2026 Po 20 latach istnienia X, sieć społecznościowa znana wcześniej jako Twitter, w końcu dodała kontrolę rodzicielską dla nastolatków, dając rodzicom i opiekunom możliwość zarządzania tym, co ich dzieci widzą i z czym wchodzą w interakcję na platformie.",
+        "Jednak w przeciwieństwie do implementacji takich kontroli na większości platform, X nadaje systemowi własny charakter, dając nastolatkom coś do powiedzenia w tej sprawie."
+      ],
+      "extended_paragraphs": [
+        "Sieć społecznościowa X Elona Muska w końcu dodała kontrolę rodzicielską dla nastolatków, dając rodzicom i opiekunom możliwość zarządzania tym, co ich dzieci widzą na platformie.",
+        "X w końcu uzyskuje kontrolę rodzicielską po 20 latach Ram Iyer 11:31 PST · 26 listopada 2026 Po 20 latach istnienia X, sieć społecznościowa znana wcześniej jako Twitter, w końcu dodała kontrolę rodzicielską dla nastolatków, dając rodzicom i opiekunom możliwość zarządzania tym, co ich dzieci widzą i z czym wchodzą w interakcję na platformie. Jednak w przeciwieństwie do implementacji takich kontroli na większości platform, X nadaje systemowi własny charakter, dając nastolatkom coś do powiedzenia w tej sprawie.",
+        "Firma twierdzi, że konta należące do osób w wieku od 13 do 17 lat zostaną domyślnie ustawione w „trybie chronionym”, co oznacza, że ​​nie będą one mogły zobaczyć poufnych treści i nie będą im wyświetlane ukierunkowane reklamy. Jednakże X pozwala nastolatkom zachować pewną kontrolę nad swoimi kontami, pozwalając im zobaczyć, jakie ograniczenia nałożono na ich konta. Rodzice i opiekunowie nie będą także mogli czytać prywatnych wiadomości swoich nastolatków, przeglądać historii wyszukiwania i przeglądania ani publikować postów jako nastolatki.",
+        "Elementy sterujące pozwalają rodzicom zobaczyć, ile czasu ich nastolatek spędza w X w tygodniu, ustawić dzienne limity, wymagać od nich zgody na nowych obserwujących, ograniczyć rekomendacje i filmy z kanału do już obserwowanych kont, filtrować określone słowa, wyłączać wrażliwe media, określać, kto może wysyłać wiadomości prywatne dla nastolatków i sprawdzać, do kogo wysyłają wiadomości.",
+        "Kontrole pojawiają się kilka miesięcy po tym, jak X znalazł się w ogniu krytyki z powodu braku kontroli uniemożliwiających wykorzystywanie chatbota AI platformy do generowania zseksualizowanych obrazów dzieci i kobiet. Sieć społecznościowa od dawna obfituje w materiały przedstawiające wykorzystywanie seksualne dzieci, dezinformację, boty AI i pozwala użytkownikom otwarcie publikować pornografię."
+      ]
+    },
+    {
+      "id": "tech-7-115795",
+      "entity_tag": "Allegro (GPW: ALE)",
+      "sector": "E-commerce",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Pierwszy taki samochód w historii? Chińczycy wyprzedzili konkurencję",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Allegro (GPW: ALE) (E-commerce) (kluczowe liczby: 17%, 12%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "17%",
+        "12%"
+      ],
+      "title": "Allegro zostawiło najlepsze na koniec. Jutro ruszają mocne promocje na Apple",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "15:00",
+      "time": "19:45",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/pierwszy-taki-samochod-w-historii-chinczycy-wyprzedzili-konkurencje",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2025/06/byd-seal5-dmi-20.jpg",
+      "source_url": "https://antyweb.pl/allegro-zostawilo-najlepsze-na-koniec-jutro-ruszaja-mocne-promocje-na-apple",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/allegro-smart.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "Kierownica chowa się w desce rozdzielczej.",
-        "Chińczycy znów zaskoczyli!",
-        "BYD zaskoczyło i postanowiło stworzyć pierwsze takie auto w historii, które będzie dostępne dla masowego konsumenta - uwaga, możecie mieć problem aby znaleźć w nim..."
+        "Allegro szykuje prawdziwe okazje na Black Friday.",
+        "Fani Apple powinni ustawić alarm.",
+        "Black Weeks na Allegro trwa od początku listopada, ale prawdziwe Black Friday zacznie się dopiero jutro."
       ],
       "extended_paragraphs": [
-        "Kierownica chowa się w desce rozdzielczej. Chińczycy znów zaskoczyli!",
-        "BYD zaskoczyło i postanowiło stworzyć pierwsze takie auto w historii, które będzie dostępne dla masowego konsumenta - uwaga, możecie mieć problem aby znaleźć w nim... kierownicę.",
-        "Chińskie BYD mocno walczy o pozycję lidera światowej elektromobilności, co widać po kolejnych projektach i realizowanych planach. Jako przykład mógłbym podać tu choćby niedawno opisywane stacje z ładowaniem w 5 minut , ale to nie koniec nowości od popularnej marki. Tym razem producent wziął na tapet temat iście futurystycznych samochodów i zdecydował się na wprowadzenie do masowej produkcji czegoś, co do tej pory mogło nam się kojarzyć z grami wideo czy filmami osadzonymi w futurystycznych realiach. Co powiecie na samochód z kierownicą chowającą się w desce rozdzielczej? O ile takie pomysły były do tej pory domeną modeli koncepcyjnych na targach, to BYD zdecydowało się zrobić z tego faktyczny element wyposażenia auta produkowanego seryjnie. Bohaterem tej \"rewolucji\" jest SUV Fang Cheng Bao Tai 9 (znany również jako Titanium 9).",
-        "Wprowadzenie takiego rozwiązania konstrukcyjnego okazało się być możliwe dopiero po odpowiednich zmianach w przepisach na terenie Chin. Dopiero pół roku temu zalegalizowano tam układy steer-by-wire, czyli systemy pozbawione fizycznego połączenia mechanicznego między kierownicą a kołami. A brak kolumny kierownicy w tradycyjnej formie pozwolił inżynierom na puszczenie wodzy fantazji i przygotowanie rozwiązania rodem z przyszłości. W topowej wersji modelu Tai 9 wystarczy nacisnąć jeden przycisk na postoju, aby uruchomić sekwencję chowania kierownicy: najpierw jej wieniec rozkłada się na dwie części, ramiona składają się na pół a cały moduł chowa się w głąb deski rozdzielczej. Dodajmy do tego szeroki zakres ustawień fotela kierowcy i otrzymujemy sporą, wygodną przestrzeń na postoje, w której można zasiąść do pracy czy odpoczynku wspólnie z innymi pasażerami (tych może być w aucie 5 poza samym kierowcą).",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → BYD informuje, że funkcja składania kierownicy jest (co oczywiste) zablokowane podczas jazdy - można z tego skorzystać wyłącznie na postoju, natomiast w trasie musi ona pozostać w swojej nominalnej pozycji i umożliwić kierowcy właściwe poruszanie się pojazdem po drodze, bez względu na zastosowane asysty i systemy bezpieczeństwa. No ale tak jest na ten moment - w niedalekiej przyszłości możemy jednak oczekiwać, że na specjalnych i dłuższych odcinkach to właśnie auto przejmie całkowitą kontrolę nad drogą bez konieczności naszego udziału."
+        "Allegro szykuje prawdziwe okazje na Black Friday. Fani Apple powinni ustawić alarm.",
+        "Black Weeks na Allegro trwa od początku listopada, ale prawdziwe Black Friday zacznie się dopiero jutro. Jeśli więc jeszcze nie wydaliście całego budżetu na czarnopiątkowe zakupy, to jutro od godziny 9:00 wypatrujcie cenowych okazji. Szczególnie czujni powinni być entuzjaści urządzeń z nadgryzionym jabłkiem, bo Allegro wrzuci MacBooki Air i AirPods Pro 3 w niezłych cenach.",
+        "Odkąd sklepy internetowe zaczęły prześcigać się w jak najwcześniejszym rozpoczęciu celebrowania Black Friday, ostatni piątek listopada przestał budzić emocje. Miło więc widzieć, że Allegro zostawiło na koniec coś ciekawego, pomimo faktycznego startu Black Weeks na początku miesiąca. Na głównej stronie Allegro znajdziecie zakładkę „wkrótce startują”, a tam chyba najmocniejsze dotychczas przeceny na elektronikę, pochodzącą z oficjalnego sklepu platformy.",
+        "We wstępie wspomniałem o fanach Apple nie bez powodu. Już jutro bowiem na Allegro dostępne będą słuchawki AirPods Pro 3 (najnowszy model flagowych dokanałówek), przecenione z 999 na 829 zł (taniej o 17%). Jeśli szukacie laptopa od Apple, to równie ciekawą propozycją może być MacBook Air z czipem M5. To jednak dość kosztowna konfiguracja pomimo zniżki, bo Allegro przecenia wariant z dyskiem 1 TB i 16 GB pamięci RAM (kolor Północ). Zamiast 7199 zł zapłacimy 6099 , czyli 12% mniej.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Nie wiadomo niestety, ile Allegro przygotowało sztuk. MacBook Air prawdopodobnie na pniu się nie wyprzeda, ale na AirPods Pro trzeba będzie zapolować, bo znikną zapewne w kilka minut."
+      ]
+    },
+    {
+      "id": "tech-8-ad0cea",
+      "entity_tag": "Formuła 1",
+      "sector": "Motorsport",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Formuła 1 (Motorsport) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Ford prezentuje GT41 w nadziei, że ponownie wygra Le Mans",
+      "original_title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:00",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg",
+      "image_source": "Fot. / Źródło: Ars Technica",
+      "lead_story": false,
+      "summary_points": [
+        "Ford przystępuje do Mistrzostw Świata w Długodystansowych Mistrzostwach Świata w 2027 roku z nowym prototypem.",
+        "„Pokazanie Forda GT41 to znaczący moment dla wszystkich zaangażowanych w ten program” – powiedział Dan Sayers, menadżer programu Hypercar w Ford Racing.",
+        "\"To wynik ogromnej pracy naszych zespołów inżynieryjnych, projektowych i programistów oraz ważny kamień milowy na naszej drodze do roku 2027."
+      ],
+      "extended_paragraphs": [
+        "Ford przystępuje do Mistrzostw Świata w Długodystansowych Mistrzostwach Świata w 2027 roku z nowym prototypem.",
+        "„Pokazanie Forda GT41 to znaczący moment dla wszystkich zaangażowanych w ten program” – powiedział Dan Sayers, menadżer programu Hypercar w Ford Racing. \"To wynik ogromnej pracy naszych zespołów inżynieryjnych, projektowych i programistów oraz ważny kamień milowy na naszej drodze do roku 2027. Znamy skalę stojącego przed nami wyzwania — poziom konkurencji w Hypercar jest niewiarygodnie wysoki i nie ma drogi na skróty do sukcesu. Skupiliśmy się na budowaniu właściwych fundamentów, gromadzeniu właściwych ludzi i upewnianiu się, że uczymy się jak najwięcej na każdym etapie rozwoju.\"",
+        "Podobnie jak wielu innych uczestników klasy Hypercar biorących udział w Mistrzostwach Świata w Długodystansowych Mistrzostwach Świata, Ford wybrał podejście techniczne LMDh z napędem na tylne koła, zamiast budować GT41 całkowicie od podstaw, jak robią to Ferrari i Aston Martin w swoich samochodach. Samochody LMDh zaczynają się od jednego z czterech zatwierdzonych podwozi z włókna węglowego — w tym przypadku Ford współpracuje z firmą Oreca, która współpracuje również z firmami Genesis i Acura.",
+        "Układ hybrydowy i skrzynia biegów również stanowią części standardowe. Jednak Ford dostarcza silnik – 5,4-litrowy silnik V8 oparty na silniku Coyote Mustanga – a także oprogramowanie do sterowania hybrydowym układem napędowym. Niehybrydyzowana wersja Coyote skutecznie ścigała się już pod maską Forda Mustanga GT3.",
+        "Malowanie testowe zawiera pisanki. Ford Spot wskazówki stylistyczne samochodów drogowych. Znajdź elementy stylistyczne samochodów drogowych. Malowanie testowe zawiera pisanki. Ford Spot wskazówki stylistyczne samochodów drogowych. Przepisy techniczne pozwalają również na większą swobodę stylizacji, niż często spotykamy w wyścigach. Ograniczona jest bezwzględna wielkość docisku aerodynamicznego, podobnie jak minimalny opór, dlatego zachęca się producentów OEM do wykorzystywania szczegółów stylistycznych samochodów drogowych w celu stworzenia bliższego powiązania między prototypem a samochodem drogowym. Prawdopodobnie będę musiał poświęcić więcej czasu na przyglądanie się temu, aby dostrzec wskazówki dotyczące samochodu drogowego, ale widzę sporo powierzchownych podobieństw z samochodem Genesis LMDh, a także Ferrari Hypercar."
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-1-7beedd",
+      "id": "swiat-1-5bd74a",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Zełenski mówi BBC, że Stany Zjednoczone zbyt skupiają się na Bliskim Wschodzie i nie wywierają wystarczającego nacisku na Rosję",
+      "original_title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:49",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": true,
+      "summary_points": [
+        "Prezydent Ukrainy wyraża frustrację w stosunku do USA i stwierdza, że to „dziwne”.",
+        "Trump określił Władimira Putina jako przyjaciela.",
+        "Podpis pod rysunkiem, Obejrzyj: Zełenski kwestionuje „dziwną” przyjaźń Trumpa-Putina w wywiadzie dla BBC Wołodymyr Zełenski wyraził głęboką frustrację w stosunku do Stanów Zjednoczonych, mówiąc, że opóźnienia w dostawie kluczowych rakiet antybalistycznych kosztują życie Ukraińców i narzekając, że Stany Zjednoczone nie naciskają na Rosję wystarczająco mocno podczas rozmów pokojowych."
+      ],
+      "extended_paragraphs": [
+        "Prezydent Ukrainy wyraża frustrację w stosunku do USA i stwierdza, że to „dziwne”. Trump określił Władimira Putina jako przyjaciela.",
+        "Podpis pod rysunkiem, Obejrzyj: Zełenski kwestionuje „dziwną” przyjaźń Trumpa-Putina w wywiadzie dla BBC",
+        "Wołodymyr Zełenski wyraził głęboką frustrację w stosunku do Stanów Zjednoczonych, mówiąc, że opóźnienia w dostawie kluczowych rakiet antybalistycznych kosztują życie Ukraińców i narzekając, że Stany Zjednoczone nie naciskają na Rosję wystarczająco mocno podczas rozmów pokojowych.",
+        "W wywiadzie dla BBC w swoim biurze w Kijowie prezydent Ukrainy powiedział również, że „dziwne” jest umieszczenie przez Donalda Trumpa zdjęcia, na którym obejmuje Władimira Putina jako „mojego przyjaciela”.",
+        "„Oczywiście to zależy od prezydenta Stanów Zjednoczonych, ale… to dziwne” – powiedział Zełenski po angielsku."
+      ]
+    },
+    {
+      "id": "swiat-2-4da504",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Obejrzyj: Zerwane dachy i ulice zalane wodą podczas trudnych warunków pogodowych w USA",
+      "original_title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "19:26",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Gdy rozpoczyna się weekend Święta Dziękczynienia, setki tysięcy osób zostało dotkniętych przez burze w kraju.",
+        "Obejrzyj: Zerwane dachy i ulice pod wodą w związku z surową pogodą w USA.",
+        "Blisko Potężne burze pustoszą oba wybrzeża USA wraz z nadejściem weekendu Święta Dziękczynienia."
+      ],
+      "extended_paragraphs": [
+        "Gdy rozpoczyna się weekend Święta Dziękczynienia, setki tysięcy osób zostało dotkniętych przez burze w kraju.",
+        "Obejrzyj: Zerwane dachy i ulice pod wodą w związku z surową pogodą w USA. Blisko Potężne burze pustoszą oba wybrzeża USA wraz z nadejściem weekendu Święta Dziękczynienia.",
+        "Setki lotów zostało odwołanych, a setki tysięcy pozbawionych prądu w stanach takich jak Wirginia, Karolina Północna i New Jersey.",
+        "Udostępnij zamknij panel Udostępnij stronę Skopiuj link Informacje o udostępnianiu Tematy pokrewne Stany Zjednoczone Obserwuj Stany Zjednoczone"
+      ]
+    },
+    {
+      "id": "swiat-3-7beedd",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1613,7 +1671,7 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png",
       "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Prawie jedna trzecia przepraw na początku 2026 r. rzekomo dotyczyła łodzi lub silników firmy Niemca.",
         "Władze europejskie podejrzewają, że niemiecki handlarz łodziami jest kluczowym dostawcą dla przemytników migrantów działających na kanale La Manche – może ujawnić BBC.",
@@ -1628,7 +1686,7 @@
       ]
     },
     {
-      "id": "swiat-2-4e56fb",
+      "id": "swiat-4-4e56fb",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1658,107 +1716,111 @@
         "Dyrektor zarządzający, Marvin Reuter, sprzeciwia się ekstradycji do Francji, gdzie grozi mu zarzut przemytu, spisku karnego i nieumyślnego spowodowania śmierci.",
         "Podejrzewa się, że jego sprzęt ma związek z dwoma śmiertelnymi wypadkami, w których zginęło czterech mężczyzn."
       ]
-    },
-    {
-      "id": "swiat-3-b189d4",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Gérard Depardieu stanie przed sądem w związku z rzekomym gwałtem na aktorce w 2018 roku – zdecydował sąd",
-      "original_title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:44",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Sąd apelacyjny w Paryżu zdecydował, że Depardieu stanie przed sądem w związku z rzekomym gwałtem na Charlotte Arnould.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia: W ostatnich latach Gérard Depardieu stanął w obliczu szeregu zarzutów na planach filmowych i nie tylko Francuski aktor filmowy Gérard Depardieu stanie przed sądem w związku z rzekomym gwałtem na aktorce Charlotte Arnould – potwierdził paryski sąd apelacyjny.",
-        "Arnould, który miał wówczas 22 lata, zgłosił rzekomy gwałt kilka dni po udaniu się do swojego domu w Paryżu na próbę do sztuki."
-      ],
-      "extended_paragraphs": [
-        "Sąd apelacyjny w Paryżu zdecydował, że Depardieu stanie przed sądem w związku z rzekomym gwałtem na Charlotte Arnould.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia: W ostatnich latach Gérard Depardieu stanął w obliczu szeregu zarzutów na planach filmowych i nie tylko",
-        "Francuski aktor filmowy Gérard Depardieu stanie przed sądem w związku z rzekomym gwałtem na aktorce Charlotte Arnould – potwierdził paryski sąd apelacyjny.",
-        "Arnould, który miał wówczas 22 lata, zgłosił rzekomy gwałt kilka dni po udaniu się do swojego domu w Paryżu na próbę do sztuki.",
-        "Zrzekła się prawa do anonimowości, a jej prawnik powiedział, że czwartkowe orzeczenie było „pierwsze”, a nadchodzący proces będzie historyczny."
-      ]
-    },
-    {
-      "id": "swiat-4-8164f4",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Desperackie apele kobiet oczekujących na karę śmierci w Iranie po protestach",
-      "original_title": "Desperate appeals from women on death row in Iran after protests",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "06:01",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Organizacja praw człowieka twierdzi, że protestujące i dysydentki są skazywane na śmierć w liczbie nienotowanej od dziesięcioleci.",
-        "Źródło zdjęcia, dostarczone przez rodzinę Tytuł zdjęcia, Siostry bliźniaczki Romina (po lewej) i Taraneh Rahimi zostały aresztowane pod koniec stycznia, mówi ich kuzynka W ostatnich tygodniach 21-latka nie była w stanie prawidłowo chodzić po pobiciu nóg, a infekcja ucha spowodowana nieleczonym urazem głowy zaburzyła jej równowagę – mówi jej kuzynka.",
-        "„Podtrzymuje się na duchu”, ale „są dni, kiedy zalewa się łzami” – mówi Masoud Nourmohammadi w BBC News Persian."
-      ],
-      "extended_paragraphs": [
-        "Organizacja praw człowieka twierdzi, że protestujące i dysydentki są skazywane na śmierć w liczbie nienotowanej od dziesięcioleci.",
-        "Źródło zdjęcia, dostarczone przez rodzinę Tytuł zdjęcia, Siostry bliźniaczki Romina (po lewej) i Taraneh Rahimi zostały aresztowane pod koniec stycznia, mówi ich kuzynka",
-        "W ostatnich tygodniach 21-latka nie była w stanie prawidłowo chodzić po pobiciu nóg, a infekcja ucha spowodowana nieleczonym urazem głowy zaburzyła jej równowagę – mówi jej kuzynka.",
-        "„Podtrzymuje się na duchu”, ale „są dni, kiedy zalewa się łzami” – mówi Masoud Nourmohammadi w BBC News Persian.",
-        "Mówi, że Taraneh i jej siostra bliźniaczka Romina zostały aresztowane po przyłączeniu się do antyrządowych protestów, które przetoczyły się przez kraj w styczniu."
-      ]
     }
   ],
   "sport": [
     {
-      "id": "sport-1-b80b72",
+      "id": "sport-3-4fe0dc",
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
+      "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Anglicy nie mają litości. Oskarżają Marciniaka o kradzież",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna (kluczowe liczby: 150 tys., 5,135 mln euro, 4,31 mln) o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [
+        "150 tys.",
+        "5,135 mln euro",
+        "4,31 mln"
+      ],
+      "title": "Lech i Jaga z bonusami. Oto stan ich kont",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "15:28",
+      "time": "22:41",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286276/anglicy-nie-maja-litosci-oskarzaja-marciniaka-o-kradziez",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b084fe316b225_49684205.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286305/lech-i-jaga-z-bonusami-oto-stan-ich-kont",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6ada630a82b9f3_70690602.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Szymon Marciniak znalazł się pod ostrzałem po meczu Sporting CP - Manchester United.",
-        "Angielski serwis przypomniał największe kontrowersje z udziałem Polaka i pisał wprost o historii \"oskarżeń o kradzież\".",
-        "Skomentuj Szymon Marciniak znalazł się pod ostrzałem po meczu Sporting CP - Manchester United."
+        "Zarówno Lech Poznań, jak i Jagiellonia Białystok powiększyły w czwartek stan swoich kont.",
+        "Oba polskie kluby zapracowały na premię w Lidze Europy.",
+        "1 Komentarz Zarówno Lech Poznań, jak i Jagiellonia Białystok powiększyły w czwartek stan swoich kont."
       ],
       "extended_paragraphs": [
-        "Szymon Marciniak znalazł się pod ostrzałem po meczu Sporting CP - Manchester United. Angielski serwis przypomniał największe kontrowersje z udziałem Polaka i pisał wprost o historii \"oskarżeń o kradzież\".",
-        "Skomentuj Szymon Marciniak znalazł się pod ostrzałem po meczu Sporting CP - Manchester United. Angielski serwis przypomniał największe kontrowersje z udziałem Polaka i pisał wprost o historii \"oskarżeń o kradzież\".",
-        "Manchester United zremisował w Lizbonie 2:2, ale po spotkaniu sporo mówiło się o pracy polskiego arbitra. Szymon Marciniak podyktował rzut karny dla Sportingu , anulował trafienie Amada Diallo po faulu Youriego Tielemansa, a później - po analizie VAR - nie uznał także potencjalnego zwycięskiego gola dla gości.",
-        "Mauricio Pochettino stwierdził po meczu, że jego drużyna została przez decyzje sędziowskie \"ukarana\".",
-        "Najostrzej zareagował związany z Manchesterem United serwis Centre Devils. Autor nie ograniczył się do oceny środowego meczu. Przypomniał całą serię głośnych spotkań prowadzonych przez Polaka, pisząc o \"historii oskarżeń o kradzież\", \"zdradzie\" i publicznych wezwaniach do interwencji UEFA."
+        "Zarówno Lech Poznań, jak i Jagiellonia Białystok powiększyły w czwartek stan swoich kont. Oba polskie kluby zapracowały na premię w Lidze Europy.",
+        "1 Komentarz Zarówno Lech Poznań, jak i Jagiellonia Białystok powiększyły w czwartek stan swoich kont. Oba polskie kluby zapracowały na premię w Lidze Europy.",
+        "\"Kolejorz\" zremisował na wyjeździe z Royale Union Saint-Gilloise (2:2), zaś ekipa Adriana Siemieńca osiągnęła podobny wynik w Anglii przeciwko Sunderlandowi (1:1).",
+        "Na konto naszych pucharowiczów wpłynęło po 150 tys. w unijnej walucie (za zwycięstwo UEFA płaci trzykrotność tej kwoty).",
+        "Lech zainkasował dotąd 5,135 mln euro. Na ten dorobek składają się bonusy z eliminacji, 4,31 mln za awans do jesiennej części zmagań i 300 tys. za wyniki tamże."
       ]
     },
     {
-      "id": "sport-2-1fca21",
+      "id": "sport-8-be59cf",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Taylor i Lewis po powrocie przegrywają wszystkie pięć meczów w parach",
+      "original_title": "Taylor and Lewis lose all five pairs matches on return",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:11",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/darts/articles/cm9q8y09xgdno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b712/live/624932f0-e9db-11f1-9361-cd8ed0157587.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Phil Taylor i jego kolega z drużyny z Anglii, Adrian Lewis, przegrywają wszystkie pięć meczów po powrocie do gry w rzutki podczas międzynarodowego turnieju par MODUS Super Series.",
+        "Taylor, 16-krotny mistrz świata, wycofał się z gry w rzutki seniorów w 2018 r., a Lewis nie brał udziału w trasie PDC od 2023 r. Podpisali kontrakt na turniej w Portsmouth po tym, jak Taylor poczuł pokusę powrotu do gry u boku swojego wieloletniego przyjaciela.",
+        "66-latek swoją pierwszą rzutką trafił w doublet, sprawdzając wynik 84, ale duet przegrał swój pierwszy mecz 4:3 ze Szkotami Johnem Hendersonem i Robertem Thorntonem."
+      ],
+      "extended_paragraphs": [
+        "Phil Taylor i jego kolega z drużyny z Anglii, Adrian Lewis, przegrywają wszystkie pięć meczów po powrocie do gry w rzutki podczas międzynarodowego turnieju par MODUS Super Series.",
+        "Taylor, 16-krotny mistrz świata, wycofał się z gry w rzutki seniorów w 2018 r., a Lewis nie brał udziału w trasie PDC od 2023 r.",
+        "Podpisali kontrakt na turniej w Portsmouth po tym, jak Taylor poczuł pokusę powrotu do gry u boku swojego wieloletniego przyjaciela.",
+        "66-latek swoją pierwszą rzutką trafił w doublet, sprawdzając wynik 84, ale duet przegrał swój pierwszy mecz 4:3 ze Szkotami Johnem Hendersonem i Robertem Thorntonem.",
+        "Następnie ponieśli kolejne porażki z parami ze Szwecji, Szwajcarii, Niemiec i Danii."
+      ]
+    },
+    {
+      "id": "sport-1-75f734",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
+      "key_metrics": [],
+      "title": "Problemy jeszcze przed startem. Wiatr znów daje o sobie znać w Ruce",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:59",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1286336/problemy-jeszcze-przed-startem-wiatr-znow-daje-o-sobie-znac-w-ruce",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b08b9af9a3f17_92023523.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Puchar Świata jeszcze na dobre nie ruszył w Ruce, a organizatorzy już musieli zmieniać plany.",
+        "Silny wiatr storpedował treningi, a prognozy przed weekendem nadal nie pozwalają spać spokojnie.",
+        "Skomentuj Puchar Świata jeszcze na dobre nie ruszył w Ruce, a organizatorzy już musieli zmieniać plany."
+      ],
+      "extended_paragraphs": [
+        "Puchar Świata jeszcze na dobre nie ruszył w Ruce, a organizatorzy już musieli zmieniać plany. Silny wiatr storpedował treningi, a prognozy przed weekendem nadal nie pozwalają spać spokojnie.",
+        "Skomentuj Puchar Świata jeszcze na dobre nie ruszył w Ruce, a organizatorzy już musieli zmieniać plany. Silny wiatr storpedował treningi, a prognozy przed weekendem nadal nie pozwalają spać spokojnie.",
+        "Pierwsze problemy pojawiły się już w środę, gdy odwołano wolny trening skoczków. W czwartek sytuacja się powtórzyła. Ze względu na wiatr FIS skreśliła z programu popołudniową sesję treningową, a także część rywalizacji w kombinacji norweskiej.",
+        "Na razie oficjalny plan na piątek pozostaje bez zmian. Trening mężczyzn ma rozpocząć się o 14:45, a kwalifikacje o 17:15. FIS zastrzegła jednak, że sytuacja jest monitorowana i ewentualne korekty programu mogą zostać ogłoszone później.",
+        "Prognozy na dni konkursowe są nieco lepsze, ale nadal dalekie od idealnych. W piątek wiatr może osiągać około 5 m/s, w sobotę około 4 m/s, a w niedzielę około 3 m/s. Największym problemem mogą być jednak nie same wartości, lecz podmuchy i zmienny kierunek wiatru."
+      ]
+    },
+    {
+      "id": "sport-2-e7dfeb",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -1766,99 +1828,95 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Wielka Brytania zdecydowała o zwycięstwie i po raz pierwszy od 2019 roku dotarła do półfinału Pucharu Davisa",
-      "original_title": "GB win decider to reach Davis Cup semis for first time since 2019",
+      "title": "Bournemouth „pozwolono marzyć”, gdy fani rezerwują hotele na finał Ligi Europy",
+      "original_title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
       "is_foreign": true,
       "lang": "EN",
-      "time": "15:05",
+      "time": "22:27",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/329b/live/596995c0-e9aa-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Wielka Brytania po raz pierwszy od 2019 roku awansowała do półfinału Pucharu Davisa, gdy Henry Patten i Neal Skupski wygrywali w decydującym meczu deblowym z Niemcami w Bolonii.",
-        "Podpis pod rysunkiem, najważniejsze momenty: Norrie pokonuje Struffa w trzech setach i daje Wielkiej Brytanii prowadzenie w Pucharze Davisa Wielka Brytania po raz pierwszy od 2019 roku awansowała do półfinału Pucharu Davisa, gdy Henry Patten i Neal Skupski wygrali w Bolonii decydujący mecz deblowy z trzecimi rozstawionymi Niemcami.",
-        "Patten i Skupski, grający razem po raz pierwszy od ogłoszenia partnerstwa na sezon 2027, okazali się zbyt kliniczni dla Kevina Krawietza i Tima Puetza."
+        "Bournemouth marzy o wygraniu Ligi Europy po dołączeniu do wybranego zespołu drużyn, które wygrały swoje pierwsze pięć meczów w Europie.",
+        "Bournemouth marzą o wygraniu Ligi Europy po zorganizowaniu 10-osobowej walki, aby dołączyć do wybranej grupy drużyn i wygrać swoje pierwsze pięć meczów w Europie.",
+        "The Cherries przegrywali 1:0 do gola Iago Aspasa w Celcie Vigo, a następnie w połowie pierwszej połowy grali w 10 zawodników, gdy Bafode Diakite został wyrzucony z boiska."
       ],
       "extended_paragraphs": [
-        "Wielka Brytania po raz pierwszy od 2019 roku awansowała do półfinału Pucharu Davisa, gdy Henry Patten i Neal Skupski wygrywali w decydującym meczu deblowym z Niemcami w Bolonii.",
-        "Podpis pod rysunkiem, najważniejsze momenty: Norrie pokonuje Struffa w trzech setach i daje Wielkiej Brytanii prowadzenie w Pucharze Davisa",
-        "Patten i Skupski, grający razem po raz pierwszy od ogłoszenia partnerstwa na sezon 2027, okazali się zbyt kliniczni dla Kevina Krawietza i Tima Puetza.",
-        "W pierwszym secie wykorzystali dwa break pointy i obronili pięć, po czym w tie-breaku przełamali minibreak i wygrali 6:2, 7:6 (8-6).",
-        "Numer jeden na świecie Alexander Zverev wcześniej przesądził o losach meczu, pokonując w prostych setach brytyjskiego numer jeden Arthura Fery’ego, tym samym przekreślając zwycięstwo Camerona Norriego nad Janem-Lennardem Struffem w trzech setach."
+        "Bournemouth marzy o wygraniu Ligi Europy po dołączeniu do wybranego zespołu drużyn, które wygrały swoje pierwsze pięć meczów w Europie.",
+        "Bournemouth marzą o wygraniu Ligi Europy po zorganizowaniu 10-osobowej walki, aby dołączyć do wybranej grupy drużyn i wygrać swoje pierwsze pięć meczów w Europie.",
+        "The Cherries przegrywali 1:0 do gola Iago Aspasa w Celcie Vigo, a następnie w połowie pierwszej połowy grali w 10 zawodników, gdy Bafode Diakite został wyrzucony z boiska.",
+        "Jednak gole Alvaro Rodrigueza i Rayana w drugiej połowie zapewniły drużynie Cherries dziesiąte zwycięstwo z rzędu we wszystkich rozgrywkach, przedłużając ich klubową passę.",
+        "Bournemouth jest dopiero trzecią drużyną, która wygrała każdy z pierwszych pięciu meczów w Europie (z wyłączeniem kwalifikacji i włączając Puchar Miast Targowych), po Norymberdze w latach 1961-62 i Ararat w latach 1972-73."
       ]
     },
     {
-      "id": "sport-3-37b994",
+      "id": "sport-4-af32fc",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
       "sentiment": "neutral",
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 5 tys. euro) o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [
-        "5 tys. euro"
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Fury „nigdy nie otrzymał” diagnozy schizofrenii",
+      "original_title": "Fury 'never received' schizophrenia diagnosis",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:25",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1c8a/live/cc272240-e9c2-11f1-8d2a-f5d2aabc11cb.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Paris Fury, żona Tysona Fury'ego, twierdzi, że u boksera nigdy nie zdiagnozowano schizofrenii.",
+        "W klipach promujących premierę nadchodzącego filmu dokumentalnego Netflixa zawodnik wagi ciężkiej opowiadał o swoich zmaganiach ze zdrowiem psychicznym, które miały miejsce kilka miesięcy po tym, jak w 2015 roku pokonał Władimira Kliczkę i został mistrzem świata.",
+        "Szczegółowo opisał, że słyszy głosy w swojej głowie, a jego żona Paris stwierdziła, że cierpi na „łagodną schizofrenię”."
       ],
-      "title": "Legenda wyprzedaje piłkarskie pamiątki. Tyle dostała za koszulkę Sergio Ramosa",
+      "extended_paragraphs": [
+        "Paris Fury, żona Tysona Fury'ego, twierdzi, że u boksera nigdy nie zdiagnozowano schizofrenii.",
+        "W klipach promujących premierę nadchodzącego filmu dokumentalnego Netflixa zawodnik wagi ciężkiej opowiadał o swoich zmaganiach ze zdrowiem psychicznym, które miały miejsce kilka miesięcy po tym, jak w 2015 roku pokonał Władimira Kliczkę i został mistrzem świata.",
+        "Szczegółowo opisał, że słyszy głosy w swojej głowie, a jego żona Paris stwierdziła, że cierpi na „łagodną schizofrenię”.",
+        "W oświadczeniu Paris Fury powiedział: „Chcę wyjaśnić oświadczenie, które złożyłem w oryginalnej wersji filmu dokumentalnego o Tysonie Fury.",
+        "„Przypomniałem sobie rozmowę sprzed wielu lat, kiedy omawiałem stan Tysona i użyłem słowa «schizofrenia». Chociaż Tyson rzeczywiście wykazywał pewne objawy schizofrenii, nie cierpi na tę chorobę i nigdy nie postawiono mu diagnozy”."
+      ]
+    },
+    {
+      "id": "sport-5-2b2c11",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Aż złapał się za głowę. Jagiellonia wykorzystała prezent",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "15:13",
+      "time": "22:26",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286271/legenda-wyprzedaje-pilkarskie-pamiatki-tyle-dostala-za-koszulke-sergio-ramosa",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b084c7db8cde7_34994829.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286330/az-zlapal-sie-za-glowe-jagiellonia-wykorzystala-prezent",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b08aaf662db84_17294164.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Wesley Sneider postanowił sprzedać koszulkę, którą w 2010 roku otrzymał od Sergio Ramosa.",
-        "Nie jest to jedyna pamiątka, jaką Holender wystawił w ostatnim czasie na aukcję.",
-        "Skomentuj Wesley Sneider postanowił sprzedać koszulkę, którą w 2010 roku otrzymał od Sergio Ramosa."
+        "Prawdziwa katastrofa piłkarza Sunderlandu AFC.",
+        "Kamil Jóźwiak stanął przed wyśmienitą szansą, którą wykorzystał.",
+        "To było drugie i ostatnie już trafienie tego wieczoru."
       ],
       "extended_paragraphs": [
-        "Wesley Sneider postanowił sprzedać koszulkę, którą w 2010 roku otrzymał od Sergio Ramosa. Nie jest to jedyna pamiątka, jaką Holender wystawił w ostatnim czasie na aukcję.",
-        "Skomentuj Wesley Sneider postanowił sprzedać koszulkę, którą w 2010 roku otrzymał od Sergio Ramosa. Nie jest to jedyna pamiątka, jaką Holender wystawił w ostatnim czasie na aukcję.",
-        "Hiszpański obrońca przekazał koszulkę Wesleyowi Sneijderowi po finale mundialu rozegranym w Johannesburgu. Według dostępnych informacji granatowy trykot z numerem 15 zachował oryginalne emblematy i napisy. Przedmiot był w bardzo dobrym stanie.",
-        "Sergio Ramos nosił tę koszulkę podczas spotkania, w którym Hiszpania pokonała Holandię 1:0. O wyniku zdecydował gol Andresa Iniesty zdobyty w dogrywce. Dla \"Pomarańczowych\" była to bolesna porażka, ponieważ drużyna po raz pierwszy w historii była blisko zdobycia mistrzostwa świata.",
-        "\"AS\" przekazał, że cena pamiątki wyniosła 65 126 euro i wyraźnie przewyższyła wartość koszulki, w której Sneijder wystąpił w tym samym meczu. Jego własny trykot sprzedano za nieco ponad 5 tys. euro."
+        "Prawdziwa katastrofa piłkarza Sunderlandu AFC. Kamil Jóźwiak stanął przed wyśmienitą szansą, którą wykorzystał. To było drugie i ostatnie już trafienie tego wieczoru.",
+        "Skomentuj Prawdziwa katastrofa piłkarza Sunderlandu AFC. Kamil Jóźwiak stanął przed wyśmienitą szansą, którą wykorzystał. To było drugie i ostatnie już trafienie tego wieczoru.",
+        "Jagiellonia Białystok z cennym remisem na Wyspach Brytyjskich. Polska drużyna w ramach 5. kolejki Ligi Europy zremisowała z Sunderlandem AFC 1:1 (relacja z meczu TUTAJ ).",
+        "Mozambicki piłkarz występujący na pozycji obrońcy wykonał nonszalanckie, zbyt lekkie podanie do bramkarza Robina Roefsa. 32-latek aż złapał się za głowę.",
+        "28-latek zachował się w tej sytuacji wzorowo - minął bramkarza i posłał piłkę do bramki, doprowadzając do wyniku 1:1. Odpowiedź Jagiellonii na straconego gola była błyskawiczna, bo trwała zaledwie pięć minut."
       ]
     },
     {
-      "id": "sport-4-c04404",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 43 mln funtów) o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [
-        "43 mln funtów"
-      ],
-      "title": "Nie udało się nawet stworzyć 12-osobowego składu – co dalej z Garnacho?",
-      "original_title": "Not even making a 12-man bench - what next for Garnacho?",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "13:23",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a084/live/87c18b60-e8bc-11f1-9e64-bddd508b9881.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Krótka kariera Alejandro Garnacho w Aston Villi już dobiegła końca, więc co dalej z 22-latkiem?",
-        "Reporter piłkarski Opublikowano 2 godziny temu Czas Alejandro Garnacho w Aston Villi był krótki i wygląda na to, że już się skończył.",
-        "Ostatnia afront ze strony menadżera Villi Unaia Emery’ego była najbardziej potępiająca ze wszystkich, ponieważ wypożyczony skrzydłowy Chelsea nie wziął udziału we wtorkowej porażce w Lidze Mistrzów z Galatasaray."
-      ],
-      "extended_paragraphs": [
-        "Krótka kariera Alejandro Garnacho w Aston Villi już dobiegła końca, więc co dalej z 22-latkiem?",
-        "Reporter piłkarski Opublikowano 2 godziny temu Czas Alejandro Garnacho w Aston Villi był krótki i wygląda na to, że już się skończył.",
-        "Ostatnia afront ze strony menadżera Villi Unaia Emery’ego była najbardziej potępiająca ze wszystkich, ponieważ wypożyczony skrzydłowy Chelsea nie wziął udziału we wtorkowej porażce w Lidze Mistrzów z Galatasaray.",
-        "„Myślę, że gracze, którzy tu byli, są najlepszymi graczami, którzy tu z nami są” – powiedział Emery.",
-        "Villa mogła mieć w Stambule 12 zmienników, ale Emery wybrał zaledwie 11, w tym dwóch bramkarzy, podczas gdy Garnacho pozostał w domu."
-      ]
-    },
-    {
-      "id": "sport-5-b47b2c",
+      "id": "sport-6-b3a55f",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -1866,129 +1924,101 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Nie czuła więzi z Niemcami. Wybrała Polskę",
+      "title": "India's Pant dołącza do meczu klubowego Nowej Zelandii pod fałszywym nazwiskiem",
+      "original_title": "India's Pant joins New Zealand club match under false name",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "16:21",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b9b/live/5d230c90-e9b0-11f1-859a-37130cd3a1d7.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Bramkarz Indii Rishabh Pant nieoczekiwanie dołącza do meczu klubowego w Christchurch przed drugim testem przeciwko Nowej Zelandii i zdobywa 54 z 21 piłek.",
+        "Bramkarz Indii Rishabh Pant niespodziewanie pojawił się w drużynie klubowej w Christchurch pod fałszywym nazwiskiem „Stan Stan”.",
+        "Pant (29 l.) grał w drużynie Open House Swingers przeciwko The Chosen Ones i w 16 rundach wygrał 54 z 21 piłek."
+      ],
+      "extended_paragraphs": [
+        "Bramkarz Indii Rishabh Pant nieoczekiwanie dołącza do meczu klubowego w Christchurch przed drugim testem przeciwko Nowej Zelandii i zdobywa 54 z 21 piłek.",
+        "Bramkarz Indii Rishabh Pant niespodziewanie pojawił się w drużynie klubowej w Christchurch pod fałszywym nazwiskiem „Stan Stan”.",
+        "Pant (29 l.) grał w drużynie Open House Swingers przeciwko The Chosen Ones i w 16 rundach wygrał 54 z 21 piłek.",
+        "Jego występ miał miejsce dzień przed drugim testem Indii przeciwko Nowej Zelandii, który rozpoczyna się w czwartek na stadionie Hagley Oval o 22:00 GMT.",
+        "Zawodnik Open House Mohammad Safi powiedział New Zealand Herald, że widział w mieście Panta na rowerze elektrycznym, więc podszedł do niego i powiedział, że w jego drużynie brakuje zawodników."
+      ]
+    },
+    {
+      "id": "sport-7-da718c",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "To było nieuniknione. King musiał podjąć taką decyzję",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "15:12",
+      "time": "22:26",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1286274/wybrala-polske-zamiast-niemiec-mowi-o-reakcjach",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0131e7cbb922_09758330.jpg",
+      "source_url": "https://sportowefakty.wp.pl/koszykowka/1286331/to-bylo-nieuniknione-king-musial-podjac-taka-decyzje",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b08b1f3ad5ea4_61320349.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Tenisistka Gina Feistel od 2022 roku reprezentuje Polskę.",
-        "Zawodniczka nie czuła więzi z Niemcami, a po ataku przez miesiące bała się wychodzić z domu.",
-        "Skomentuj Tenisistka Gina Feistel od 2022 roku reprezentuje Polskę."
+        "Cierpliwość się skończyła, a Patrick McCaffery nie jest już zawodnikiem Kinga Szczecin.",
+        "Trener Maciej Majcherek od dłuższego czasu \"zagadywał\" o wzmocnienie składu i w końcu się doczekał.",
+        "Skomentuj Cierpliwość się skończyła, a Patrick McCaffery nie jest już zawodnikiem Kinga Szczecin."
       ],
       "extended_paragraphs": [
-        "Tenisistka Gina Feistel od 2022 roku reprezentuje Polskę. Zawodniczka nie czuła więzi z Niemcami, a po ataku przez miesiące bała się wychodzić z domu.",
-        "Skomentuj Tenisistka Gina Feistel od 2022 roku reprezentuje Polskę. Zawodniczka nie czuła więzi z Niemcami, a po ataku przez miesiące bała się wychodzić z domu.",
-        "Gina Feistel ma polskie i niemieckie obywatelstwo. Seniorską karierę zaczynała pod niemiecką flagą, lecz występowała w tamtejszych barwach tylko przez pół roku. Jak przyznała w rozmowie z \"Przeglądem Sportowym Onet\", po zmianie reprezentacji nikt z Niemiec nie skontaktował się z nią w tej sprawie.",
-        "- Nie czułam silnej relacji z Niemcami, nie czułam od nich wsparcia, a gdy zmieniłam reprezentację, nikt nawet nie zareagował - powiedziała Feistel. Dodała, że po publikacji nowego rankingu Niemcy byli zaskoczeni jej decyzją i pytali, dlaczego wybrała Polskę.",
-        "ZOBACZ WIDEO: Widział blamaż Polaków na własne oczy. \"To pokazuje, w jakim miejscu jesteśmy\""
-      ]
-    },
-    {
-      "id": "sport-6-024be0",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Faldo nalega, aby gwiazdy LIV „wpłacały” pieniądze na rzecz nieopłacanych firm",
-      "original_title": "Faldo urges LIV stars to 'chip in' for unpaid firms",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "11:45",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c4c/live/15b5a860-e8b4-11f1-9e64-bddd508b9881.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Sześciokrotny główny zwycięzca wzywa osoby, które odniosły korzyści finansowe z LIV Golf, aby pomogły małym firmom, które nadal są zadłużone z tytułu wycieczki.",
-        "Sir Nick Faldo zasugerował, że osoby z zewnątrz, które odniosły korzyści finansowe z LIV Golf, powinny „dołożyć swój wkład i zająć się” firmami, które są winne pieniądze w związku z wycieczką wspieraną przez Arabię ​​Saudyjską.",
-        "Dochodzenie BBC Sport wykazało, że LIV wypłaciła miliony graczom i kadrze kierowniczej na kilka tygodni przed złożeniem wniosku o upadłość, podczas gdy rachunki od dostawców były już zaległe."
-      ],
-      "extended_paragraphs": [
-        "Sześciokrotny główny zwycięzca wzywa osoby, które odniosły korzyści finansowe z LIV Golf, aby pomogły małym firmom, które nadal są zadłużone z tytułu wycieczki.",
-        "Sir Nick Faldo zasugerował, że osoby z zewnątrz, które odniosły korzyści finansowe z LIV Golf, powinny „dołożyć swój wkład i zająć się” firmami, które są winne pieniądze w związku z wycieczką wspieraną przez Arabię ​​Saudyjską.",
-        "Dochodzenie BBC Sport wykazało, że LIV wypłaciła miliony graczom i kadrze kierowniczej na kilka tygodni przed złożeniem wniosku o upadłość, podczas gdy rachunki od dostawców były już zaległe.",
-        "Faldo, prawdopodobnie najlepszy golfista w Wielkiej Brytanii, powiedział, że kontrowersyjna ucieczka wiąże się z ryzykiem „zrujnowania małych firm, które pomagają w organizowaniu imprez”.",
-        "„Brytyjscy dostawcy, którzy sprzątali obiekty i organizowali wydarzenia, nadal są winni setki tysięcy funtów” – dodał sześciokrotny główny zwycięzca."
-      ]
-    },
-    {
-      "id": "sport-7-46f876",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Haditaghi podjął decyzję. Wiadomo, co z trenerem Pogoni",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "14:47",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286270/haditaghi-podjal-decyzje-wiadomo-co-z-trenerem-pogoni",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b08453069fb76_60708445.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Oscar Garcia chciał przenieść się do Dinama Zagrzeb, ale ostatecznie zostaje w Pogoni Szczecin.",
-        "Alex Haditaghi ogłosił decyzję dotyczącą przyszłości szkoleniowca i złożył jednoznaczną deklarację.",
-        "Skomentuj Oscar Garcia chciał przenieść się do Dinama Zagrzeb, ale ostatecznie zostaje w Pogoni Szczecin."
-      ],
-      "extended_paragraphs": [
-        "Oscar Garcia chciał przenieść się do Dinama Zagrzeb, ale ostatecznie zostaje w Pogoni Szczecin. Alex Haditaghi ogłosił decyzję dotyczącą przyszłości szkoleniowca i złożył jednoznaczną deklarację.",
-        "Skomentuj Oscar Garcia chciał przenieść się do Dinama Zagrzeb, ale ostatecznie zostaje w Pogoni Szczecin. Alex Haditaghi ogłosił decyzję dotyczącą przyszłości szkoleniowca i złożył jednoznaczną deklarację.",
-        "Ostatnie tygodnie nie były spokojne dla Pogoni Szczecin . Zespół zanotował trzy kolejne porażki, a dodatkowe zamieszanie wywołała sytuacja Oscara Garcíi. Hiszpański szkoleniowiec rozważał objęcie Dinama Zagrzeb i publicznie wyrażał niezadowolenie z warunków pracy w szczecińskim klubie.",
-        "Wątpliwości dotyczące przyszłości trenera postanowił rozwiać Alex Haditaghi. Właściciel Pogoni opublikował w mediach społecznościowych obszerne oświadczenie, w którym przekazał, że Oscar Garcia pozostanie na stanowisku.",
-        "Jak wyjaśnił, razem z Tanem Keslerem odbył blisko 90-minutowe spotkanie z Hiszpanem i Quique. Rozmowa dotyczyła między innymi niedawnego zamieszania wokół możliwego transferu trenera do Chorwacji."
-      ]
-    },
-    {
-      "id": "sport-8-ccbc99",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Lammens – bramkarz Man Utd pod lupą jak nigdy dotąd",
-      "original_title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:56",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/482e/live/b53f8050-e971-11f1-a094-5fdc692f3e33.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Bramkarz Manchesteru United Senne Lammens popełnił dwa poważne błędy w zremisowanym 2:2 meczu ze Sportingiem – czy Mauricio Pochettino mógłby opuścić bramkarza?",
-        "Reporter Manchesteru United w Lizbonie Opublikowano 35 minut temu Po pierwszym sezonie w Manchesterze United, który zebrał same pochwały, bramkarz Senne Lammens jest pod lupą jak nigdy dotąd.",
-        "Fatalny błąd, który dał Sportingowi drugiego gola w środę, po wcześniejszym straceniu niezdarnego rzutu karnego, nastąpił po kilku innych błędach w tym sezonie."
-      ],
-      "extended_paragraphs": [
-        "Bramkarz Manchesteru United Senne Lammens popełnił dwa poważne błędy w zremisowanym 2:2 meczu ze Sportingiem – czy Mauricio Pochettino mógłby opuścić bramkarza?",
-        "Reporter Manchesteru United w Lizbonie Opublikowano 35 minut temu Po pierwszym sezonie w Manchesterze United, który zebrał same pochwały, bramkarz Senne Lammens jest pod lupą jak nigdy dotąd.",
-        "Fatalny błąd, który dał Sportingowi drugiego gola w środę, po wcześniejszym straceniu niezdarnego rzutu karnego, nastąpił po kilku innych błędach w tym sezonie.",
-        "24-letni reprezentant Belgii również popełnił błąd na letnich mistrzostwach świata, oddawszy strzał, który dał Hiszpanii zwycięskiego gola w 88. minucie ćwierćfinału.",
-        "„Nie wiem [w którym momencie Manchester United go wypuścił]” – powiedział w środę CBS Sports legendarny bramkarz Manchesteru United, Peter Schmeichel."
+        "Cierpliwość się skończyła, a Patrick McCaffery nie jest już zawodnikiem Kinga Szczecin. Trener Maciej Majcherek od dłuższego czasu \"zagadywał\" o wzmocnienie składu i w końcu się doczekał.",
+        "Skomentuj Cierpliwość się skończyła, a Patrick McCaffery nie jest już zawodnikiem Kinga Szczecin. Trener Maciej Majcherek od dłuższego czasu \"zagadywał\" o wzmocnienie składu i w końcu się doczekał.",
+        "Stało się to, co tak naprawdę stać się musiało. Patrick McCaffery nie spełniał oczekiwań i musiał pożegnać się z Kingiem Szczecin . Średnie na poziomie 2,9 punktu i 1,6 zbiórki na mecz w PGE Basket Lidze nie mogły satysfakcjonować.",
+        "Trener Maciej Majcherek poszukiwał zawodnika, który da Kingowi jakość. I gdy w końcu dostał zielone światło na ruch, wrócił do Javana Johnsona, którego chciał już latem. Teraz się udało.",
+        "- Był naszą pierwszą opcją transferową na pozycję numer trzy przed tym sezonem. Z różnych względów do tego podpisu nie doszło. Teraz wiedzieliśmy, że jest wolny i zdecydowaliśmy się na zawarcie umowy - zdradził szkoleniowiec, który jeszcze niedawno wspominał, że skarbiec jest pusty na dokonanie roszad."
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-86491c",
+      "id": "rynki-1-8592f4",
+      "entity_tag": "Wall Street (USA)",
+      "sector": "Rynki Globalne",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Wall Street (USA) (Rynki Globalne) (kluczowe liczby: 1,72 mld zł, 1,38 mld zł, 1,59 proc.) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "1,72 mld zł",
+        "1,38 mld zł",
+        "1,59 proc."
+      ],
+      "title": "Bez Wall Street giełdy w górę. Text i Grupa Azoty z mocnymi wzrostami",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:18",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Bez-Wall-Street-gieldy-w-gore-Text-i-Grupa-Azoty-z-mocnymi-wzrostami-9235839.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/b/4/a42ca6f1319839-945-560-7-78-1492-895.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Odreagowanie na GPW po ostatnich spadkach spowodowało, że indeks WIG20 powrócił powyżej psychologicznego poziomu 4 000 punktów, wspierany przez świetne nastroje na głównych europejskich parkietach oraz odbicie cen miedzi.",
+        "Nie było jednak presji inwestorów z Wall Street, którzy świętowali w czwartek Dzień Dziękczynienia, ale dzień wcześniej zasiali na rynku nieco optymizmu.",
+        "fot. Krystian Maj / / FORUM Po nerwowym środowym handlu, podczas którego warszawskie blue chipy po raz pierwszy od początku września osunęły się poniżej poziomu 4 000 pkt, czwartek od samego rana należał do kupujących."
+      ],
+      "extended_paragraphs": [
+        "Odreagowanie na GPW po ostatnich spadkach spowodowało, że indeks WIG20 powrócił powyżej psychologicznego poziomu 4 000 punktów, wspierany przez świetne nastroje na głównych europejskich parkietach oraz odbicie cen miedzi. Nie było jednak presji inwestorów z Wall Street, którzy świętowali w czwartek Dzień Dziękczynienia, ale dzień wcześniej zasiali na rynku nieco optymizmu.",
+        "fot. Krystian Maj / / FORUM Po nerwowym środowym handlu, podczas którego warszawskie blue chipy po raz pierwszy od początku września osunęły się poniżej poziomu 4 000 pkt, czwartek od samego rana należał do kupujących. Na zamknięciu sesji WIG20 wzrósł o 1,59 proc. , wracając nad wspomniany poziom. Indeks WIG zyskał 1,73 proc. , indeks małych spółek sWIG80 zwyżkował o 1,88 proc. , natomiast absolutnym liderem czwartkowego rozdania okazał się grupujący średnie spółki mWIG40, który poszedł w górę aż o 2,33 proc. Obroty na WIG wyniosły 1,72 mld zł, z czego 1,38 mld zł dotyczyło spółek z WIG20. Obroty na rynku były naturalnie tonowane przez nieobecność inwestorów z USA.",
+        "W czwartek, ze względu na obchody Święta Dziękczynienia, amerykański rynek kasowy pozostawał zamknięty. Warto jednak pamiętać, że impuls do poprawy nastrojów popłynął zza oceanu jeszcze w środę wieczorem, już po zamknięciu handlu na Starym Kontynencie. Wówczas główne indeksy na Wall Street, zdołały odrobić zdecydowaną większość wcześniejszych dziennych strat , co ustawiło poranny sentyment w Europie.",
+        "W rezultacie wszystkie najważniejsze parkiety Starego Kontynentu świeciły w czwartek na zielono. W momencie końcowego gongu w Warszawie niemiecki DAX zyskiwał 2,1 proc. , brytyjski FTSE 100 rósł o 1,9 proc. , a francuski CAC 40 zwyżkował o 1,8 proc. Warszawska giełda wpisała się zatem idealnie w europejską falę zakupów.",
+        "Zdaniem rynkowych ekspertów czwartkowa poprawa nastrojów miała w dużej mierze charakter technicznego odbicia. – Dzisiejsza poprawa ma przede wszystkim charakter techniczny. Inwestorzy wracają do tańszych spółek technologicznych w Azji, a rynki wschodzące handlują z najwyższym od co najmniej dwóch dekad dyskontem do S&P500. EUR/USD stabilizuje się w okolicach 1,097, co zdejmuje część presji z walut regionu. Do tego dochodzi Święto Dziękczynienia: amerykańskie rynki są dziś zamknięte – ocenił w komentarzu rynkowym Michał Stajniak, wicedyrektor działu analiz w XTB."
+      ]
+    },
+    {
+      "id": "rynki-3-86491c",
       "entity_tag": "GPW w Warszawie",
       "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
@@ -2007,7 +2037,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/8/6/41c9d7ccbd1c63-948-568-0-162-2400-1439.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi.",
         "Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
@@ -2022,7 +2052,7 @@
       ]
     },
     {
-      "id": "rynki-3-7bfe42",
+      "id": "rynki-5-7bfe42",
       "entity_tag": "Orlen (GPW: PKN)",
       "sector": "Energetyka & Paliwa",
       "market_impact": "HIGH",
@@ -2058,7 +2088,7 @@
       ]
     },
     {
-      "id": "rynki-4-81f30b",
+      "id": "rynki-6-81f30b",
       "entity_tag": "Azja & Pacyfik",
       "sector": "Gospodarka Światowa",
       "market_impact": "HIGH",
@@ -2094,7 +2124,7 @@
       ]
     },
     {
-      "id": "rynki-5-1146a2",
+      "id": "rynki-7-1146a2",
       "entity_tag": "JSW (GPW: JSW)",
       "sector": "Górnictwo",
       "market_impact": "HIGH",
@@ -2130,43 +2160,77 @@
       ]
     },
     {
-      "id": "rynki-7-a8969a",
-      "entity_tag": "Asseco Poland (GPW: ACP)",
-      "sector": "IT & Software",
+      "id": "rynki-8-db4597",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Asseco Poland (GPW: ACP) (IT & Software) (kluczowe liczby: 19,2 mln, 2,8 mld zł, 1,7 mld zł) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 1,5 miliarda dolarów) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "19,2 mln",
-        "2,8 mld zł",
-        "1,7 mld zł"
+        "1,5 miliarda dolarów"
       ],
-      "title": "Asseco wraca do programu motywacyjnego. Akcjonariusz z 23 proc. akcji żąda nowego głosowania",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "15:58",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-zwolalo-WZ-na-wniosek-TSS-Europe-ws-programu-motywacyjnego-opis-9235747.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/0/e/83eb3b67379726-945-560-0-172-3456-2073.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "title": "Aplikacje mikrodramatów gonią za zyskami, podczas gdy Hollywood przechodzi na krótkie, pionowe wideo",
+      "original_title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:27",
+      "source": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557747-1795462598976-Untitled-2.jpg?v=1795543076&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
-        "Asseco Poland zwołało nadzwyczajne walne zgromadzenie ws. programu motywacyjnego na 22 grudnia 2026 r. na wniosek TSS Europe, akcjonariusza reprezentującego 19,2 mln akcji spółki stanowiących łącznie 23,14 proc. kapitału zakładowego - podało Asseco w komunikacie.",
-        "/ Asseco Poland Porządek obrad przewiduje podjęcie uchwały w sprawie utworzenia jednorazowego, długoterminowego programu motywacyjnego na lata 2027–2030 dla członków zarządu Asseco Poland SA oraz kluczowych menedżerów Asseco Poland SA i spółek z grupy Asseco, a także podjęcie uchwały w sprawie utworzenia rocznego programu motywacyjnego dla członków zarządu.",
-        "W sierpniu 2026 r. nadzwyczajne walne zgromadzenie Asseco Poland nie podjęło uchwały w sprawie programu dla kadry menadżerskiej na 2027 rok oraz na lata 2026-2029."
+        "Kategoria mikrodramatów eksplodowała w czasie, gdy zainteresowanie tradycyjnymi formami mediów maleje, a YouTube zapewnia większą liczbę godzin oglądania.",
+        "Bogdan Nesvit twierdzi, że jego misja jest prosta: „Zasadniczo budujemy Disneya na miarę XXI wieku”.",
+        "Nesvit jest współzałożycielem aplikacji My Drama zbudowanej w oparciu o najnowszą, krótką formę opowiadania historii."
       ],
       "extended_paragraphs": [
-        "Asseco Poland zwołało nadzwyczajne walne zgromadzenie ws. programu motywacyjnego na 22 grudnia 2026 r. na wniosek TSS Europe, akcjonariusza reprezentującego 19,2 mln akcji spółki stanowiących łącznie 23,14 proc. kapitału zakładowego - podało Asseco w komunikacie.",
-        "/ Asseco Poland Porządek obrad przewiduje podjęcie uchwały w sprawie utworzenia jednorazowego, długoterminowego programu motywacyjnego na lata 2027–2030 dla członków zarządu Asseco Poland SA oraz kluczowych menedżerów Asseco Poland SA i spółek z grupy Asseco, a także podjęcie uchwały w sprawie utworzenia rocznego programu motywacyjnego dla członków zarządu.",
-        "W sierpniu 2026 r. nadzwyczajne walne zgromadzenie Asseco Poland nie podjęło uchwały w sprawie programu dla kadry menadżerskiej na 2027 rok oraz na lata 2026-2029.",
-        "W lipcu Asseco Poland zwołało nadzwyczajne walne zgromadzenie w sprawie programu menedżerskiego opartego na akcjach na 12 sierpnia 2026 r. Uchwała przewidywała wprowadzenie dwóch programów menedżerskich: na lata 2026-2029 oraz na rok 2027.",
-        "Główną zmianą w porównaniu do poprzednich projektów uchwał była implikowana dywidenda w latach 2027-2030, która w obecnej propozycji wynosi 2,8 mld zł, a wcześniej miała wynieść 1,7 mld zł."
+        "Kategoria mikrodramatów eksplodowała w czasie, gdy zainteresowanie tradycyjnymi formami mediów maleje, a YouTube zapewnia większą liczbę godzin oglądania.",
+        "Bogdan Nesvit twierdzi, że jego misja jest prosta: „Zasadniczo budujemy Disneya na miarę XXI wieku”.",
+        "Nesvit jest współzałożycielem aplikacji My Drama zbudowanej w oparciu o najnowszą, krótką formę opowiadania historii. Krótkie, serializowane filmy typu „mikrodramat” są tworzone specjalnie na urządzenia mobilne i w tym roku wygenerowały miliardy wyświetleń. Często zawierają romantyczne tropy i zazwyczaj kończą się klifami, które trzymają widzów w napięciu.",
+        "Kategoria ta eksplodowała w czasie, gdy zainteresowanie tradycyjnych mediów spada, a YouTube zapewnia obecnie więcej godzin oglądania niż pojedyncze platformy do transmisji strumieniowej.",
+        "Według firmy badawczej Media Partners Asia oczekuje się, że w 2026 r. branża mikrodramatów osiągnie w USA przychody wynoszące 1,5 miliarda dolarów. W Chinach, gdzie format ten pierwotnie zyskał popularność, przychody z mikrodramatów przekroczyły przychody ze sprzedaży biletów w 2024 r."
       ]
     },
     {
-      "id": "rynki-2-f9873e",
+      "id": "rynki-2-fe1f6f",
+      "entity_tag": "Rynek Kapitałowy",
+      "sector": "Giełda & Inwestycje",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Kapitałowy (Giełda & Inwestycje) (kluczowe liczby: 63%, 62%, 31%) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "63%",
+        "62%",
+        "31%"
+      ],
+      "title": "Kupujący, strzeż się? Niestabilne wahania cen Nvidii ujawniają ryzyko związane z funduszami ETF zajmującymi się pojedynczymi akcjami",
+      "original_title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "16:00",
+      "source": "CNBC Markets",
+      "source_url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108557772-1795464253141-gettyimages-2306068172-NVIDIA_HQ.jpeg?v=1795464293&amp;w=1920&amp;h=1080",
+      "image_source": "Fot. / Źródło: CNBC Markets",
+      "lead_story": false,
+      "summary_points": [
+        "Założyciel ETF Action Mike Akins i dyrektor generalny GraniteShares Will Rhind reagują na ostre straty Nvidii i ostatni powrót Nvidii.",
+        "Ostatni atak zmienności Nvidii uwydatnia ryzyko związane z funduszami notowanymi na giełdzie.",
+        "Wśród najbardziej dotkniętych: GraniteShares 2x Short NVDA Daily ETF (NVD)."
+      ],
+      "extended_paragraphs": [
+        "Założyciel ETF Action Mike Akins i dyrektor generalny GraniteShares Will Rhind reagują na ostre straty Nvidii i ostatni powrót Nvidii.",
+        "Ostatni atak zmienności Nvidii uwydatnia ryzyko związane z funduszami notowanymi na giełdzie.",
+        "Wśród najbardziej dotkniętych: GraniteShares 2x Short NVDA Daily ETF (NVD). W poniedziałek fundusz spadł o 63% po przywróceniu Jensena Huanga na stanowisko dyrektora generalnego chipowego giganta. Tymczasem fundusz ETF 2x Long NVDA (NVDL) tej firmy wzrósł tego samego dnia o prawie 62%.",
+        "Założyciel ETF Action, Mike Akins, dołączył do „ETF Edge”, gdy akcje Nvidii wzrosły podczas poniedziałkowej sesji o 31%, odrabiając dużą część strat z dni następujących po rezygnacji Huanga. Akcje spadły jednak we wtorek i środę.",
+        "„Historycznie rzecz biorąc, na zdrowym rynku nie obserwujemy tego typu dużych spadków, po których następowałyby ogromne wzrosty” – powiedział w poniedziałek Akins. „Zazwyczaj dzieje się tak, gdy znajdujesz się w recesji lub na terytorium bessy, co technicznie nie jest możliwe w przypadku szerszego rynku, ale interesuje nas handel sztuczną inteligencją”."
+      ]
+    },
+    {
+      "id": "rynki-4-f9873e",
       "entity_tag": "Ropa Naftowa",
       "sector": "Surowce Energetyczne",
       "market_impact": "MEDIUM",
@@ -2182,7 +2246,7 @@
       "original_title": "Semiconductor chips are the new oil. Here's why",
       "is_foreign": true,
       "lang": "EN",
-      "time": "13:19",
+      "time": "17:52",
       "source": "CNBC Markets",
       "source_url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108345773-1785990932116-gettyimages-2286772264-SKOREA_SK_HYNIX.jpeg?v=1785990945&amp;w=1920&amp;h=1080",
@@ -2199,70 +2263,6 @@
         "Jednak kamień milowy następuje w niezręcznym momencie, gdy inwestorzy ponownie oceniają perspektywy wydatków na sztuczną inteligencję i obniżają ceny akcji półprzewodników. W zeszłym tygodniu, przed zapierającym dech w piersiach poniedziałkowym odwróceniem tendencji, akcje spółek półprzewodnikowych poniosły najgorszą tygodniową stratę od ćwierćwiecza, a indeks PHLX Semiconductor Index (SOX) spadł o prawie 11% tylko w ubiegły piątek, ograniczając tygodniowy spadek o ponad 17%.",
         "Nvidia wzrosła o ponad 31% w poniedziałek po tym, jak wiodący producent chipów sztucznej inteligencji notował spadki siódmy tydzień z rzędu, spadając w tym okresie o 46%. Następnie spadł ponownie, spadając we wtorek i środę o prawie 10%. W ubiegły czwartek i piątek akcje Advanced Micro Devices spadły o 20% w ciągu dwóch dni. W ciągu siedmiu dni zakończonych w ubiegły piątek spółka Micron Technology spadła o 27%.",
         "„Przez dziesięciolecia rozmawialiśmy o petrodolarze. Być może coraz częściej powinniśmy myśleć o chipowym dolarze” – napisał w opublikowanym w tym miesiącu raporcie Jim Reid, globalny szef ds. badań makroekonomicznych i tematycznych w Deutsche Bank."
-      ]
-    },
-    {
-      "id": "rynki-6-6d83b4",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "MEDIUM",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Kapitałowy (Giełda & Inwestycje) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [],
-      "title": "Uważaj na wyższą korelację, ale zdobądź wysoką rentowność kredytów w USA, mówią zarządzający funduszami",
-      "original_title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "05:36",
-      "source": "CNBC Markets",
-      "source_url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108268316-1771829545481-gettyimages-2201260900-omarques_24022025_phone_tech-4.jpeg?v=1771829556&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Markets",
-      "lead_story": false,
-      "summary_points": [
-        "Boom na sztuczną inteligencję może wywołać recesję, ale centra danych pozostają atrakcyjną okazją inwestycyjną, powiedział zarządzający funduszem hedgingowym.",
-        "Boom na sztuczną inteligencję może doprowadzić do recesji, czy to poprzez załamanie inwestycji w sztuczną inteligencję, czy powszechną utratę miejsc pracy w miarę postępu technologii, powiedział zarządzający funduszem hedgingowym.",
-        "„Martwię się, że jeśli za kilka lat nie będziemy mieli recesji spowodowanej sztuczną inteligencją, będziemy mieli recesję spowodowaną bezrobociem” – powiedziała Sheru Chowdhry, założycielka i dyrektor ds."
-      ],
-      "extended_paragraphs": [
-        "Boom na sztuczną inteligencję może wywołać recesję, ale centra danych pozostają atrakcyjną okazją inwestycyjną, powiedział zarządzający funduszem hedgingowym.",
-        "Boom na sztuczną inteligencję może doprowadzić do recesji, czy to poprzez załamanie inwestycji w sztuczną inteligencję, czy powszechną utratę miejsc pracy w miarę postępu technologii, powiedział zarządzający funduszem hedgingowym.",
-        "„Martwię się, że jeśli za kilka lat nie będziemy mieli recesji spowodowanej sztuczną inteligencją, będziemy mieli recesję spowodowaną bezrobociem” – powiedziała Sheru Chowdhry, założycielka i dyrektor ds. inwestycji w DSC Meridian Capital, podczas dyskusji panelowej moderowanej przez Joannę Ossinger z CNBC podczas konferencji iConnections Global Alts Asia w Singapurze w zeszłym tygodniu.",
-        "Ostrzeżenie Chowdhry’ego podkreśla ryzyko wykraczające poza potencjalne pęknięcie bańki AI. Szybki postęp technologiczny może doprowadzić do powszechnej utraty miejsc pracy, co będzie miało konsekwencje dla rynku mieszkaniowego i wydatków konsumenckich, powiedział.",
-        "„Jeśli sytuacja będzie się utrzymywać w obecnym tempie, myślę, że za kilka lat wielu z nas prawdopodobnie nie będzie miało pracy” – powiedział Chowdhry, dodając, że inwestorzy będą musieli ponownie przemyśleć swoje podejście do sektorów takich jak mieszkalnictwo i wydatki uznaniowe."
-      ]
-    },
-    {
-      "id": "rynki-8-db4597",
-      "entity_tag": "Rynek Kapitałowy",
-      "sector": "Giełda & Inwestycje",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Znaczenie dla portfela: Informacja sprawozdawcza dla obserwujących Rynek Kapitałowy (Giełda & Inwestycje) bez bezpośredniego szoku wycenowego.",
-      "key_metrics": [],
-      "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "original_title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "12:00",
-      "source": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108557747-1795462598976-Untitled-2.jpg?v=1795543076&amp;w=1920&amp;h=1080",
-      "image_source": "Fot. / Źródło: CNBC Finance",
-      "lead_story": false,
-      "summary_points": [
-        "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
-        "Bogdan Nesvit says his mission is simple: \"We are essentially building Disney for the 21st century.\" Nesvit is the co-founder of microseries app My Drama, built around the latest, bite-sized form of storytelling.",
-        "Short, serialized \"microdrama\" videos are created specifically for mobile devices and have generated billions of views this year."
-      ],
-      "extended_paragraphs": [
-        "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
-        "Bogdan Nesvit says his mission is simple: \"We are essentially building Disney for the 21st century.\"",
-        "Nesvit is the co-founder of microseries app My Drama, built around the latest, bite-sized form of storytelling. Short, serialized \"microdrama\" videos are created specifically for mobile devices and have generated billions of views this year. They often feature romantic tropes and typically end in cliffhangers to keep viewers hooked.",
-        "The category has exploded at a time when traditional media faces waning interest and YouTube now claims more viewing hours than individual streaming platforms.",
-        "The microdrama industry is projected to reach $1.5 billion in revenue in the U.S. in 2026, according to research firm Media Partners Asia. In China, where the format originally gained popularity, microdrama revenue surpassed what was made at the box office in 2024."
       ]
     }
   ]

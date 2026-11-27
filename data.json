@@ -3,9 +3,9 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.331",
-    "last_updated": "2026-11-27 00:11",
+    "last_updated": "2026-11-27 08:52",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
-    "polish_articles_count": 12,
+    "polish_articles_count": 18,
     "foreign_translated_count": 20,
     "breaking_banner": {
       "enabled": false,
@@ -73,25 +73,25 @@
       "symbol": "ZŁOTO (g)",
       "name": "Złoto NBP (PLN/g)",
       "group": "commodities",
-      "price": "464.88 zł",
-      "change": "-2.20%",
-      "is_positive": false
+      "price": "469.28 zł",
+      "change": "+0.95%",
+      "is_positive": true
     },
     {
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$60,530",
-      "change": "+0.17%",
+      "price": "$61,717",
+      "change": "+1.34%",
       "is_positive": true
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,689",
-      "change": "-0.11%",
-      "is_positive": false
+      "price": "$1,730",
+      "change": "+1.97%",
+      "is_positive": true
     },
     {
       "symbol": "WIG20",
@@ -201,8 +201,8 @@
       "symbol": "NVIDIA",
       "name": "NVIDIA Corp.",
       "group": "indices",
-      "price": "151.75 $",
-      "change": "-2.81%",
+      "price": "149.30 $",
+      "change": "-9.54%",
       "is_positive": false
     },
     {
@@ -774,8 +774,8 @@
         "Wysoka wycena wskaźnikowa oraz ryzyko cyklicznego spowolnienia wydatków kapitałowych (CAPEX) przez gigantów chmurowych.",
         "Ograniczenia eksportowe i napięcia geopolityczne wokół Tajwanu (TSMC)."
       ],
-      "price": "151.75 $",
-      "change": "-2.81%",
+      "price": "149.30 $",
+      "change": "-9.54%",
       "is_positive": false
     },
     {
@@ -910,7 +910,79 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-8592f4",
+      "id": "rynki-1-76f26f",
+      "entity_tag": "Rynek Krypto",
+      "sector": "Aktywa Cyfrowe",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Krypto (Aktywa Cyfrowe) (kluczowe liczby: 13 mln, 1,6 mld, 8,8 mld) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "13 mln",
+        "1,6 mld",
+        "8,8 mld"
+      ],
+      "title": "Bitcoinowy gigant wypada z kluczowych indeksów. Akcje Strategy pod presją",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Bitcoinowy-gigant-wypada-z-kluczowych-indeksow-Akcje-Strategy-pod-presja-9235989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/4/c/9202baa1668332-948-568-0-20-4000-2399.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World.",
+        "Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
+        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake."
+      ],
+      "extended_paragraphs": [
+        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World. Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
+        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake. Na nową listę obserwacyjną trafiła z kolei gromadząca ethereum spółka SharpLink, co oznacza dla niej ostrzeżenie i ryzyko wykluczenia przy kolejnej rewizji indeksów.",
+        "Wykluczenie z indeksów MSCI oznacza, że fundusze pasywne oraz ETF-y odwzorowujące te wskaźniki będą musiały automatycznie pozbyć się walorów Strategy po zamknięciu sesji 30 listopada (zmiany wejdą w życie 1 grudnia).",
+        "Jak wynika z szacunków samej spółki Strategy, przymusowa podaż ze strony funduszy śledzących MSCI może objąć około 13 mln akcji o wartości rzędu 1,6 mld dol. Większe ryzyko wiąże się z efektem domina - analitycy JPMorgan oceniali wcześniej, że gdyby śladem MSCI poszli kolejni dostawcy indeksów, odpływ kapitału ze Strategy mógłby sięgnąć nawet 8,8 mld dol.",
+        "Sama spółka już wcześniej próbowała zablokować te zmiany, nazywając w formalnym piśmie kryteria MSCI \"pretekstem\" i wskazując, że odpowiada za około 87% kapitalizacji wszystkich sześciu wykluczanych podmiotów."
+      ]
+    },
+    {
+      "id": "rynki-3-a8d158",
+      "entity_tag": "XTB (GPW: XTB)",
+      "sector": "Fintech & Brokerzy",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla XTB (GPW: XTB) (Fintech & Brokerzy) (kluczowe liczby: 3,79 mld dolarów, 32,5 mln, 44,9 mln) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3,79 mld dolarów",
+        "32,5 mln",
+        "44,9 mln"
+      ],
+      "title": "99/100 od krytyków i zaledwie 5,7 od graczy. Dwie twarze głośnej premiery GTA VI",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/99-100-od-krytykow-i-zaledwie-5-7-od-graczy-Dwie-twarze-glosnej-premiery-GTA-VI-9235992.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/1/9/1f2c69b1bb9f41-948-568-18-92-3681-2208.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej.",
+        "Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent.",
+        "Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu."
+      ],
+      "extended_paragraphs": [
+        "Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej. Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent. Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu. Czy inwestorzy powinni się przejmować rozjazdem recenzji graczy oraz krytyków, skoro dane sprzedażowe z pierwszych dni wyglądają świetnie?",
+        "fot. Mateusz Slodkowski / / FORUM Z perspektywy liczb debiut GTA VI to wydarzenie bez precedensu w historii popkultury. Według szacunków Take-Two produkcja wygenerowała 3,79 mld dolarów sprzedaży detalicznej brutto w przedsprzedaży oraz w samym dniu premiery, rozchodząc się w nakładzie 32,5 mln egzemplarzy jeszcze przed oficjalnym otwarciem serwerów.",
+        "W ciągu pierwszych czterech dni od premiery (wraz z weekendem otwarcia) sprzedaż sięgnęła około 44,9 mln kopii , a samo Sony poinformowało, że w tym czasie grę na konsolach PlayStation 5 uruchomiło ponad 39 mln unikalnych użytkowników , wliczając w to dostęp w ramach abonamentów i promocji. Gra zarobiła w pierwszej dobie 3,2 razy więcej niż GTA V i ponad trzykrotnie przebiła kinowy weekend otwarcia superprodukcji „Avengers: Endgame” , który przyniósł 1,22 mld dolarów . Oficjalne statystyki bez trudu zmiażdżyły zarówno wcześniejsze szacunki analityczne Sensor Tower na poziomie 2,36 mld dolarów , jak i bardzo ambitne prognozy domu maklerskiego Wedbush, zakładające 3 mld dolarów do końca roku, porównuje Mateusz Czyżkowski z XTB.",
+        "XTB, Take-Two Już pierwszy dzień pokrył 57 procent najbardziej optymistycznego scenariusza Bloomberga na całe dwanaście miesięcy, zakładającego 6,7 mld dolarów przy 60 mln sprzedanych kopii . Przy utrzymaniu świątecznego impetu całoroczne przychody kontraktowe mogą sięgnąć nawet 8,7 mld dolarów . Wcześniejsze zapowiedzi prezesa Take-Two Straussa Zelnicka, mówiące o 3,35–3,50 mld dolarów przychodów kontraktowych w całym kwartale świątecznym oraz 8,0–8,2 mld dolarów w roku obrotowym 2027, wyglądają dziś na klasyczne, celowe zaniżanie oczekiwań rynku.",
+        "Wszystko wygląda świetnie i tak, jak można było się spodziewać po recenzjach branży, opublikowanych tuż przed premierą gry . Na podstawie recenzji profesjonalnych krytyków gra uzyskała zawrotną średnią 99 na 100 punktów , co oficjalnie czyni ją najwyżej ocenianą produkcją w historii branży gier wideo ."
+      ]
+    },
+    {
+      "id": "rynki-5-8592f4",
       "entity_tag": "Wall Street (USA)",
       "sector": "Rynki Globalne",
       "market_impact": "HIGH",
@@ -931,7 +1003,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/Bez-Wall-Street-gieldy-w-gore-Text-i-Grupa-Azoty-z-mocnymi-wzrostami-9235839.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/b/4/a42ca6f1319839-945-560-7-78-1492-895.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Odreagowanie na GPW po ostatnich spadkach spowodowało, że indeks WIG20 powrócił powyżej psychologicznego poziomu 4 000 punktów, wspierany przez świetne nastroje na głównych europejskich parkietach oraz odbicie cen miedzi.",
         "Nie było jednak presji inwestorów z Wall Street, którzy świętowali w czwartek Dzień Dziękczynienia, ale dzień wcześniej zasiali na rynku nieco optymizmu.",
@@ -943,76 +1015,6 @@
         "W czwartek, ze względu na obchody Święta Dziękczynienia, amerykański rynek kasowy pozostawał zamknięty. Warto jednak pamiętać, że impuls do poprawy nastrojów popłynął zza oceanu jeszcze w środę wieczorem, już po zamknięciu handlu na Starym Kontynencie. Wówczas główne indeksy na Wall Street, zdołały odrobić zdecydowaną większość wcześniejszych dziennych strat , co ustawiło poranny sentyment w Europie.",
         "W rezultacie wszystkie najważniejsze parkiety Starego Kontynentu świeciły w czwartek na zielono. W momencie końcowego gongu w Warszawie niemiecki DAX zyskiwał 2,1 proc. , brytyjski FTSE 100 rósł o 1,9 proc. , a francuski CAC 40 zwyżkował o 1,8 proc. Warszawska giełda wpisała się zatem idealnie w europejską falę zakupów.",
         "Zdaniem rynkowych ekspertów czwartkowa poprawa nastrojów miała w dużej mierze charakter technicznego odbicia. – Dzisiejsza poprawa ma przede wszystkim charakter techniczny. Inwestorzy wracają do tańszych spółek technologicznych w Azji, a rynki wschodzące handlują z najwyższym od co najmniej dwóch dekad dyskontem do S&P500. EUR/USD stabilizuje się w okolicach 1,097, co zdejmuje część presji z walut regionu. Do tego dochodzi Święto Dziękczynienia: amerykańskie rynki są dziś zamknięte – ocenił w komentarzu rynkowym Michał Stajniak, wicedyrektor działu analiz w XTB."
-      ]
-    },
-    {
-      "id": "rynki-3-86491c",
-      "entity_tag": "GPW w Warszawie",
-      "sector": "Rynek Kapitałowy",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 0,85%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "0,85%"
-      ],
-      "title": "OKI bez lukru. Kiedy nowe konto może się nie opłacać?",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "06:00",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/8/6/41c9d7ccbd1c63-948-568-0-162-2400-1439.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi.",
-        "Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
-        "fot. Patrick Fore / / Unsplash Osobiste Konta Inwestycyjne są prawnym opakowaniem rachunku inwestycyjnego (lub lokaty bankowej czy funduszu), który uprawnia do bezwzględnego zwolnienia z podatku Belki nie tylko zysków kapitałowych, ale też przychodów odsetkowych, dywidend czy realizacji dyskonta z obligacji."
-      ],
-      "extended_paragraphs": [
-        "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi. Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
-        "fot. Patrick Fore / / Unsplash Osobiste Konta Inwestycyjne są prawnym opakowaniem rachunku inwestycyjnego (lub lokaty bankowej czy funduszu), który uprawnia do bezwzględnego zwolnienia z podatku Belki nie tylko zysków kapitałowych, ale też przychodów odsetkowych, dywidend czy realizacji dyskonta z obligacji. W tym sensie OKI są podobne do IKE/IKZE. Różnica jest jedna ale zasadnicza. O ile w systemie IKE/IKZE ceną za zwolnienie z Belki jest przetrzymanie kapitału aż do starości (60/65 lat), o tyle w OKI ceną jest nowy podatek od wartości zgromadzonych nań aktywów.",
-        "Odpowiedź na to pytanie jest akurat prosta i jednoznaczna: tak i to tak szybko, jak to tylko możliwe . Ale z wpłacaniem pieniędzy i ich inwestowaniem w ramach OKI trzeba uważać. Generalnie inwestując tylko w polskie akcje (GPW i NC) i obligacje (Catalyst) kwoty niższe od 100 000 złotych OKI nie ma sobie równych. Zapewnia pełną elastyczność i dowolność wpłat oraz wypłat, nie narzuca większych ograniczeń inwestycyjnych (nie wolno tylko kryptowalut i instrumentów pochodnych), nie ma limitów wpłat (jak na IKE czy IKZE) oraz nie musimy zamrażać kapitału na długie lata.",
-        "Opłacalność trzymania na OKI kwot przekraczających sto tysięcy złotych zależy od kilku czasem zupełnie nieprzewidywalnych) czynników. Absolutnie podstawową (i nieznaną w momencie rozpoczęcia inwestycji) jest przyszła zrealizowana stopa zwrotu. Tu zasada jest prosta: im wyższa stopa zwrotu, tym bardziej opłaca się OKI w porównaniu ze zwykłym, „obelkowanym” rachunkiem. Co więcej, w takim wypadku im wyższa jest zainwestowana kwota, tym korzyść podatkowa jest większa. Kwestię tą ilustruje poniższa tabela zbudowana w oparciu o założenie, że podatek od aktywów wynosi 0,85% (czyli tyle ile wyniesie w 2027 roku).",
-        "Po trzecie, od założonego horyzontu czasowego. Podstawową zaletą podatku Belki (nigdy do głowy mi nie przyszło, że będę pisał o zaletach tej niemoralnej i bardzo szkodliwej daniny ) jest to, że płaci się go tylko raz. Tj. tylko raz od zrealizowanych w danym roku zysków . Natomiast podatek od aktywów będzie się płaciło co roku! I to nawet wtedy jeśli danym roku osiągnąłeś stratę! Dlatego też w przypadku długoterminowego pasywnego inwestowania najprawdopodobniej bardziej opłacać się będą rachunki IKE/IKZE, a w niektórych przypadkach nawet reżym belkowy."
-      ]
-    },
-    {
-      "id": "rynki-5-7bfe42",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 2,84 mld zł, 2,38 mld zł, 3,85 proc.) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "2,84 mld zł",
-        "2,38 mld zł",
-        "3,85 proc."
-      ],
-      "title": "Orlen, KGHM i PKO liderami wyprzedaży dużych spółek. Ich indeks znów poniżej 4000 pkt i na poziomie z września",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:18",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Orlen-KGHM-i-PKO-liderami-wyprzedazy-duzych-spolek-WIG20-znow-ponizej-4000-pkt-i-na-poziomie-z-wrzesnia-9235097.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/4/7/89fdbae91e6dad-948-568-5-0-1080-648.png",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Środowa sesja na GPW znów skończyła sporą wyprzedaży, która całkowicie wymazała poniedziałkowe odbicie i zepchnęła główne indeksy na wielomiesięczne minima.",
-        "Nastroje na krajowym parkiecie nawiązywała do słabego sentymentu na globalnych rynkach, choć cieniem kładła się też słabość polskiej waluty.",
-        "/ Ilustracja wygenerowana przy użyciu AI Krajowe indeksy kontynuowały spadki z poprzedniego dnia i znalazły się już na niższych poziomach niż w piątek, z których rynek próbował zainicjować w poniedziałek korekcyjne odbicie sięgające kilku procent."
-      ],
-      "extended_paragraphs": [
-        "Środowa sesja na GPW znów skończyła sporą wyprzedaży, która całkowicie wymazała poniedziałkowe odbicie i zepchnęła główne indeksy na wielomiesięczne minima. Nastroje na krajowym parkiecie nawiązywała do słabego sentymentu na globalnych rynkach, choć cieniem kładła się też słabość polskiej waluty.",
-        "/ Ilustracja wygenerowana przy użyciu AI Krajowe indeksy kontynuowały spadki z poprzedniego dnia i znalazły się już na niższych poziomach niż w piątek, z których rynek próbował zainicjować w poniedziałek korekcyjne odbicie sięgające kilku procent. W przypadku indeksu największych spółek tamta zwyżka wyniosła 3,85 proc., jednak całość tego ruchu została już wymazana z nawiązką.",
-        "Na zamknięciu środowych notowań WIG20 spadł o 1,87 proc. i po raz pierwszy od początku września znalazł się poniżej psychologicznej bariery 4000 punktów. Szeroki indeks WIG zniżkował o 1,55 proc., schodząc do poziomu 150 377,85. pkt. Słabość była widoczna również w segmencie małych i średnich spółek, choć skala przeceny była tam nieco łagodniejsza – mWIG40 poszedł w dół o 0,74 proc. do 10 172,46 pkt., natomiast sWIG80 stracił 1 proc. i zakończył dzień na poziomie 27 602,08 pkt. Aktywność inwestorów podliczono na 2,84 mld zł na szerokim rynku z czego 2,38 mld zł koncentrowała się przede wszystkim na najbardziej płynnych walorach spółek z indeksu blue chipów.",
-        "Wall Street w odwrocie przed Świętem Dziękczynienia, Europa pod kreską Pogorszenie sentymentu w Warszawie wpisywało się w szerszy obraz z rynków bazowych, choć skala spadków na GPW była wyraźnie głębsza niż na większości parkietów Starego Kontynentu. W momencie zamknięcia sesji przy Książęcej w Europie panowały mieszane, ale ostrożne nastroje. Brytyjski FTSE 100 oraz francuski CAC40 traciły około 0,3, podczas gdy niemiecki DAX tracił 1,1 proc. Znacznie gorzej radziły sobie giełdy południa Europy oraz naszego regionu – główne indeksy w Mediolanie i Madrycie zniżkowały o ponad 1,5 proc., a austriacki ATX taniał o ponad 2,7 proc.",
-        "Prawdziwe trzęsienie ziemi obserwowano jednak za oceanem. Na Wall Street wyprzedaż spółek technologicznych wyraźnie przyspieszyła tuż przed dniem wolnym – w czwartek w Stanach Zjednoczonych obchodzone jest Święto Dziękczynienia, a w piątek sesja będzie skrócona, co skłoniło inwestorów do gwałtownego ograniczania ryzyka. W chwili kończenia handlu w Warszawie amerykański S&P 500 szedł w dół o 2,7 proc., natomiast technologiczny Nasdaq Composite tracił aż 4,1 proc."
       ]
     },
     {
@@ -1047,44 +1049,42 @@
         "Współprzewodniczący Xpeng, Brian Gu, w czwartkowym wywiadzie podzielił się z CNBC swoimi przewidywaniami dotyczącymi humanoidalnych robotów.",
         "PEKIN — Robot domowy może wkrótce stać się rzeczywistością, powiedział CNBC Brian Gu, współprezes Xpeng, chińskiej firmy produkującej samochody elektryczne, która wkroczyła w przestrzeń humanoidów.",
         "„Być może po pomyślnym wdrożeniu w warunkach komercyjnych, może po kolejnych latach lub dwóch, będziemy mogli zacząć myśleć o wdrożeniu w warunkach domowych” – powiedział Gu. „Technologia rozwija się znacznie szybciej”.",
-        "W środę firma Xpeng zaprezentowała swojego najnowszego humanoidalnego robota ogólnego przeznaczenia Iron. Firma planuje rozpocząć szkolenie robota na stanowisko sprzedawcy w punktach sprzedaży detalicznej samochodów w pierwszym kwartale przyszłego roku, po rozpoczęciu masowej produkcji w styczniu. Sprzedaż ma się rozpocząć w drugim kwartale, a dostawy spodziewane są w dalszej części roku.",
+        "W środę firma Xpeng zaprezentowała swojego najnowszego humanoidalnego robota ogólnego przeznaczenia – Iron. Firma planuje rozpocząć szkolenie robota na stanowisko sprzedawcy w punktach sprzedaży detalicznej samochodów w pierwszym kwartale przyszłego roku, po rozpoczęciu masowej produkcji w styczniu. Sprzedaż ma się rozpocząć w drugim kwartale, a dostawy spodziewane są w dalszej części roku.",
         "Założona w 2014 roku jako firma produkująca samochody elektryczne, firma Xpeng wyprzedziła Teslę we wdrażaniu systemów wspomagania kierowcy w Chinach kontynentalnych. Chiński producent samochodów wypuścił na rynek własne chipy sztucznej inteligencji. Jest również rozszerzony na osobiste pojazdy latające i robotykę. Dział robotyki zebrał tego lata 900 milionów dolarów przy wycenie 6,3 miliarda dolarów w pierwszej rundzie finansowania, której przewodził IDG Capital."
       ]
     },
     {
-      "id": "rynki-7-1146a2",
-      "entity_tag": "JSW (GPW: JSW)",
-      "sector": "Górnictwo",
+      "id": "rynki-7-86491c",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla JSW (GPW: JSW) (Górnictwo) (kluczowe liczby: 2,55 mld zł, 185,5 mln zł, 51,8 mln zł) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 0,85%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "2,55 mld zł",
-        "185,5 mln zł",
-        "51,8 mln zł"
+        "0,85%"
       ],
-      "title": "JSW tnie koszty, sprzedaje droższy węgiel i korzysta z ogromnej pomocy publicznej",
+      "title": "OKI bez lukru. Kiedy nowe konto może się nie opłacać?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "13:19",
+      "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/JSW-tnie-koszty-sprzedaje-drozszy-wegiel-i-korzysta-z-ogromnej-pomocy-publicznej-9234879.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/1/8/9637c67f7c5d19-945-567-11-7-1488-893.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/8/6/41c9d7ccbd1c63-948-568-0-162-2400-1439.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Grupa JSW zaprezentowała w trzecim kwartale 2026 roku wyraźne odbicie wyników operacyjnych, podbijając skorygowaną EBITDA o ponad 258 procent kwartał do kwartału.",
-        "Poprawa rentowności to efekt rosnących notowań surowca na rynkach światowych oraz głębokiej redukcji kosztów pracowniczych i wydobywczych.",
-        "Niższe koszty to efekt wdrażani planu naprawczego, jednak zarząd zaznacza jednak, że to dopiero na początku drogi."
+        "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi.",
+        "Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
+        "fot. Patrick Fore / / Unsplash Osobiste Konta Inwestycyjne są prawnym opakowaniem rachunku inwestycyjnego (lub lokaty bankowej czy funduszu), który uprawnia do bezwzględnego zwolnienia z podatku Belki nie tylko zysków kapitałowych, ale też przychodów odsetkowych, dywidend czy realizacji dyskonta z obligacji."
       ],
       "extended_paragraphs": [
-        "Grupa JSW zaprezentowała w trzecim kwartale 2026 roku wyraźne odbicie wyników operacyjnych, podbijając skorygowaną EBITDA o ponad 258 procent kwartał do kwartału. Poprawa rentowności to efekt rosnących notowań surowca na rynkach światowych oraz głębokiej redukcji kosztów pracowniczych i wydobywczych. Niższe koszty to efekt wdrażani planu naprawczego, jednak zarząd zaznacza jednak, że to dopiero na początku drogi. Sprawdzamy, co w ramach planu udało się realizować, a co jeszcze czeka na rozstrzygnięcie.",
-        "fot. Peter Andrews / / FORUM Trzeci kwartał 2026 roku przyniósł akcjonariuszom Jastrzębskiej Spółki Węglowej długo wyczekiwany sygnał poprawy fundamentów operacyjnych. Przychody ze sprzedaży Grupy osiągnęły poziom 2,55 mld zł, co oznacza wzrost o 13,5 proc. względem drugiego kwartału . Jeszcze mocniej wybrzmiała zmiana na poziomie skorygowanego wyniku EBITDA, który poszybowała do 185,5 mln zł wobec zaledwie 51,8 mln zł kwartał wcześniej, co przekłada się na dynamikę przekraczającą 258 proc. Jednocześnie węglowy gigant zdołał istotnie ograniczyć stratę nett, z 427,5 mln zł do 286 mln zł. Akcje JSW na GPW zareagowały zwyżką na pokazany raport, rosnąc w granicach 5-6 proc. na środowej sesji.",
-        "\"Po wielu wymagających miesiącach widzimy pierwsze wymierne efekty naszej pracy. Poprawiamy wyniki operacyjne, ograniczamy koszty i zmniejszamy stratę netto. To potwierdza, że wdrażany Program Naprawczy zaczyna przynosić rezultaty, a obrany kierunek zmian jest właściwy. Mamy jednak świadomość, że to dopiero początek trudnej drogi do trwałej poprawy sytuacji Grupy JSW.\" - powiedział Tomasz Gawlik p.o. prezesa zarządu Jastrzębskiej Spółki Węglowej.",
-        "Na wyniki bez wątpieni miały wpływ dwa główne czynniki: dyscyplina kosztowa oraz odbicie cen węgla koksowego . Spółka, ograniczając ryzyko gwałtownych wahań dziennych indeksów, wyznacza ceny referencyjne w negocjacjach z odbiorcami w oparciu o uśrednione notowania węgla koksowego hard Premium Low Vol FOB Australia z pięciu miesięcy obejmujących poprzedni kwartał oraz dwa pierwsze miesiące kwartału bieżącego. Taki mechanizm stabilizuje ceny realizacji, ale też odwleka w czasie efekt wzrosty cen, który trwa już przecież od dłuższego czasu.",
-        "Raport JSW za III kwartał 2026 r. Średnia notowań australijskiego benchmarku cenowego wzrosła w trzecim kwartale 2026 roku do 248,11 USD za tonę wobec 238,27 USD w drugim kwartale oraz 234,67 USD w pierwszym kwartale. Oznacza to wzrost o 4,1 proc. kwartał do kwartału oraz aż o 35,2 proc. w porównaniu z trzecim kwartałem 2025 roku, kiedy tona surowca kosztowała średnio 183,51 USD . W ujęciu narastającym za dziewięć miesięcy 2026 roku średnia cena osiągnęła 240,52 USD za tonę i była o 30,5 proc. wyższa niż rok wcześniej."
+        "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi. Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
+        "fot. Patrick Fore / / Unsplash Osobiste Konta Inwestycyjne są prawnym opakowaniem rachunku inwestycyjnego (lub lokaty bankowej czy funduszu), który uprawnia do bezwzględnego zwolnienia z podatku Belki nie tylko zysków kapitałowych, ale też przychodów odsetkowych, dywidend czy realizacji dyskonta z obligacji. W tym sensie OKI są podobne do IKE/IKZE. Różnica jest jedna ale zasadnicza. O ile w systemie IKE/IKZE ceną za zwolnienie z Belki jest przetrzymanie kapitału aż do starości (60/65 lat), o tyle w OKI ceną jest nowy podatek od wartości zgromadzonych nań aktywów.",
+        "Odpowiedź na to pytanie jest akurat prosta i jednoznaczna: tak i to tak szybko, jak to tylko możliwe . Ale z wpłacaniem pieniędzy i ich inwestowaniem w ramach OKI trzeba uważać. Generalnie inwestując tylko w polskie akcje (GPW i NC) i obligacje (Catalyst) kwoty niższe od 100 000 złotych OKI nie ma sobie równych. Zapewnia pełną elastyczność i dowolność wpłat oraz wypłat, nie narzuca większych ograniczeń inwestycyjnych (nie wolno tylko kryptowalut i instrumentów pochodnych), nie ma limitów wpłat (jak na IKE czy IKZE) oraz nie musimy zamrażać kapitału na długie lata.",
+        "Opłacalność trzymania na OKI kwot przekraczających sto tysięcy złotych zależy od kilku czasem zupełnie nieprzewidywalnych) czynników. Absolutnie podstawową (i nieznaną w momencie rozpoczęcia inwestycji) jest przyszła zrealizowana stopa zwrotu. Tu zasada jest prosta: im wyższa stopa zwrotu, tym bardziej opłaca się OKI w porównaniu ze zwykłym, „obelkowanym” rachunkiem. Co więcej, w takim wypadku im wyższa jest zainwestowana kwota, tym korzyść podatkowa jest większa. Kwestię tą ilustruje poniższa tabela zbudowana w oparciu o założenie, że podatek od aktywów wynosi 0,85% (czyli tyle ile wyniesie w 2027 roku).",
+        "Po trzecie, od założonego horyzontu czasowego. Podstawową zaletą podatku Belki (nigdy do głowy mi nie przyszło, że będę pisał o zaletach tej niemoralnej i bardzo szkodliwej daniny ) jest to, że płaci się go tylko raz. Tj. tylko raz od zrealizowanych w danym roku zysków . Natomiast podatek od aktywów będzie się płaciło co roku! I to nawet wtedy jeśli danym roku osiągnąłeś stratę! Dlatego też w przypadku długoterminowego pasywnego inwestowania najprawdopodobniej bardziej opłacać się będą rachunki IKE/IKZE, a w niektórych przypadkach nawet reżym belkowy."
       ]
     },
     {
@@ -1196,7 +1196,43 @@
   ],
   "makro": [
     {
-      "id": "makro-1-28b750",
+      "id": "makro-1-d2ce33",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 17 mln, 299 tys., 36 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "17 mln",
+        "299 tys.",
+        "36 proc."
+      ],
+      "title": "Znaczący ruch na giełdzie. Nowa oferta ws. akcji ZE PAK i duży wzrost",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:30",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-26/znaczacy-ruch-na-gieldzie-nowa-oferta-ws-akcji-ze-pak-i-duzy-wzrost/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/xw/xwt5q27d9j9kpnok9nhrr59t82wuz33h.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
+      "lead_story": true,
+      "summary_points": [
+        "Cena oferowana inwestorom w wezwaniu na akcje ZE PAK została podniesiona z 18 zł do 24,50 zł.",
+        "To wzrost o ponad 36 proc., co przełożyło się na notowania giełdowe - cena akcji ZE PAK wystrzeliła.",
+        "Przyjmowanie zapisów w ramach wezwania potrwa do 2 grudnia."
+      ],
+      "extended_paragraphs": [
+        "Cena oferowana inwestorom w wezwaniu na akcje ZE PAK została podniesiona z 18 zł do 24,50 zł. To wzrost o ponad 36 proc., co przełożyło się na notowania giełdowe - cena akcji ZE PAK wystrzeliła. Przyjmowanie zapisów w ramach wezwania potrwa do 2 grudnia.",
+        "Cypryjska spółka Argumenol Investment Company Limited , poprzez którą rodzinna fundacja Solorzów kontroluje Zespół Elektrowni Pątnów-Adamów-Konin, podjęła decyzję o poprawieniu warunków ogłoszonego pod koniec października wezwania.",
+        "Cena zakupu pojedynczej akcji została podniesiona z 18 zł do 24,50 zł. Nowa stawka obowiązuje od 20 listopada. Należy podkreślić, że nowa cena dotyczyć będzie również tych inwestorów, którzy zgłosili się na wezwanie jeszcze przed jej podwyższeniem.",
+        "Informacja ta pozytywnie wpłynęła na notowania giełdowe ZE PAK. Do piątku kurs akcji wahał się w okolicy 18-19 zł. W poniedziałek 23 listopada, po rozpoczęciu handlu, notowania wzrosły do poziomu 24 zł. W środę po południu cena utrzymywała się na podobnym poziomie.",
+        "Argumenol chce kupić 17 mln 299 tys. 636 akcji ZE PAK. Akcje reprezentują łącznie około 34,04 proc. kapitału zakładowego Spółki oraz uprawniają do wykonywania około 34,04 proc. głosów na walnym zgromadzeniu Spółki."
+      ]
+    },
+    {
+      "id": "makro-2-28b750",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1213,7 +1249,7 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Inne kraje przekierowały handel w odpowiedzi na jego pierwszą salwę celną i teraz patrzą poza kadencję Trumpa.",
         "Zamiast tego w tym ostatnim ćwiczeniu jest coś raczej niepewnego i mowa o dalszych negocjacjach.",
@@ -1228,7 +1264,7 @@
       ]
     },
     {
-      "id": "makro-2-141833",
+      "id": "makro-6-141833",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1260,7 +1296,77 @@
       ]
     },
     {
-      "id": "makro-3-16f40f",
+      "id": "makro-3-670a0e",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 1 mln zł) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "1 mln zł"
+      ],
+      "title": "Ceny paliw w czwartek. Ministerstwo podało maksymalne stawki",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "14:22",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/ceny-paliw-w-czwartek-ministerstwo-podalo-maksymalne-stawki/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/33/336t5ecphtxz9oqj7n155185hfx7ewch.jpeg",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
+      "lead_story": false,
+      "summary_points": [
+        "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 5,82 zł, benzyny 98 - 6,48 zł, a diesla - 7,15 zł - wynika z obwieszczenia ministra energii.",
+        "Ceny maksymalne będą zatem niższe od obowiązujących w środę.",
+        "We środę litr benzyny 95 kosztuje nie więcej niż 5,84 zł, benzyny 98 – 6,51 zł, a diesla - 7,23 zł."
+      ],
+      "extended_paragraphs": [
+        "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 5,82 zł, benzyny 98 - 6,48 zł, a diesla - 7,15 zł - wynika z obwieszczenia ministra energii. Ceny maksymalne będą zatem niższe od obowiązujących w środę.",
+        "We środę litr benzyny 95 kosztuje nie więcej niż 5,84 zł, benzyny 98 – 6,51 zł, a diesla - 7,23 zł.",
+        "Następne obwieszczenie ministra energii ws. maksymalnych cen paliw zostanie opublikowane w czwartek, 26 listopada i określi ceny na piątek .",
+        "Obwieszczenie o maksymalnych cenach paliw stanowi jeden z elementów kolejnej, trzeciej już odsłony pakietu Ceny Paliwa Niżej (CPN) , którego celem jest ograniczenie wzrostu cen na stacjach i obniżenie kosztów tankowania dla kierowców.",
+        "Mechanizm został uruchomiony po wejściu w życie części przepisów ustawy o podatku od nadzwyczajnych zysków przedsiębiorstw paliwowych . Prezydent ustawę podpisał i jednocześnie skierował ją do Trybunału Konstytucyjnego w trybie kontroli następczej. Kara za stosowanie cen paliw wyższych od maksymalnych może wynieść nawet 1 mln zł ."
+      ]
+    },
+    {
+      "id": "makro-5-7b7e03",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 10 mln, 6,7 tys., 46 proc.) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "10 mln",
+        "6,7 tys.",
+        "46 proc."
+      ],
+      "title": "Ile emerytury potrzeba, by godnie żyć? Seniorzy wskazali kwotę",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "11:15",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/ile-emerytury-potrzeba-by-godnie-zyc-seniorzy-wskazali-kwote/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/tw/tw7ycrxbd5or172o4wo5256iqmnrrdbz.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
+      "lead_story": false,
+      "summary_points": [
+        "Najniższa emerytura po marcowej waloryzacji wynosi 1978,49 zł brutto, czyli ok. 1800 zł na rękę.",
+        "Tymczasem seniorzy wskazują, że na pokrycie miesięcznych kosztów utrzymania potrzeba zdecydowanie więcej.",
+        "W Polsce mieszka już ponad 10 mln osób w wieku 60 lat i więcej."
+      ],
+      "extended_paragraphs": [
+        "Najniższa emerytura po marcowej waloryzacji wynosi 1978,49 zł brutto, czyli ok. 1800 zł na rękę. Tymczasem seniorzy wskazują, że na pokrycie miesięcznych kosztów utrzymania potrzeba zdecydowanie więcej.",
+        "W Polsce mieszka już ponad 10 mln osób w wieku 60 lat i więcej. O jakość ich życia dziennik Fakt pyta w ankiecie od 2019 r. W najnowszym badaniu sprawdzającym m.in. sytuację finansową, zdrowotną i społeczną wzięło udział ok. 6,7 tys. seniorów.",
+        "Ponad 4000 zł na rękę miesięcznie potrzebuje na pełne utrzymanie, z rachunkami włącznie, 46 proc. uczestników badania. To o ponad 2200 zł więcej niż na rękę daje minimalna emerytura. 23 proc. ankietowanych wskazało przedział od 3201 do 4000 zł, a 12 proc. od 2801 do 3200 zł . Tylko 3 proc. uważa, że minimalne świadczenie wystarcza na życie. Znacznie bliżej oczekiwań seniorów jest przeciętna emerytura, która we wrześniu 2026 r. wyniosła 4525,41 zł brutto, czyli ok. 3875 zł na rękę.",
+        "Seniorów zapytano też, jaka emerytura pozwoliłaby im na godne życie. Co najmniej 4000 zł netto miesięcznie wskazało 84 proc. ankietowanych, w tym 47 proc. oczekiwałoby ponad 5000 zł.",
+        "Wielu uczestników badania ma jednak znacznie skromniejsze możliwości finansowe. Z raportu wynika, że ponad połowie z nich (57 proc.) po opłaceniu rachunków i wykupieniu leków zostaje nie więcej niż 900 zł miesięcznie."
+      ]
+    },
+    {
+      "id": "makro-7-16f40f",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
@@ -1292,72 +1398,69 @@
       ]
     },
     {
-      "id": "makro-4-549fb1",
-      "entity_tag": "Rynek Nieruchomości",
-      "sector": "Nieruchomości",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Nieruchomości” (kluczowe liczby: 6,5 miliona, 3%) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "6,5 miliona",
-        "3%"
-      ],
-      "title": "Miliony ludzi zobaczą, jak średnia miesięczna spłata kredytu hipotecznego wzrośnie o 100 funtów",
-      "original_title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "id": "makro-4-80a107",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [],
+      "title": "Od 250 funtów pracy do 9000 funtów rachunku: wewnątrz sieci nieuczciwych handlowców oszukujących klientów na dużą skalę",
+      "original_title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
       "is_foreign": true,
       "lang": "EN",
-      "time": "14:00",
+      "time": "00:58",
       "source": "BBC Business",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0133/live/865c5960-e9a9-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Więcej osób staje w obliczu wyższych spłat kredytu hipotecznego w przypadku zawarcia umowy na czas określony, niż wcześniej szacowano.",
-        "Jak wynika z nowych danych zawartych w Raporcie stabilności finansowej, około 6,5 miliona właścicieli odnotuje wzrost miesięcznej spłaty średnio o 100 funtów, gdy podpiszą kolejną umowę do końca 2029 roku.",
-        "To dwukrotnie więcej niż podwyżka o 45 funtów miesięcznie, którą Bank szacował w swoim ostatnim raporcie z lipca."
+        "BBC ujawnia, że sieci hydraulików i elektryków oszukują ludzi na dużą skalę.",
+        "Źródło zdjęcia, TikTok Tytuł zdjęcia Nessar Khawaja powiedział prawie 70 000 obserwującym w mediach społecznościowych, że jego sieć zarabia na „zdesperowanych” klientach Jak wykazało dochodzenie BBC, zorganizowane sieci nieuczciwych hydraulików i elektryków oszukują ludzi na dużą skalę.",
+        "Nessar Khawaja, który używał w Internecie pseudonimu ThatGuyNess, regularnie publikował na TikToku filmy przedstawiające jego pracę jako hydraulika, wyjaśniające, w jaki sposób zarobił tysiące funtów na „zdesperowanych” klientach oraz jak prowadzi rekrutację online w celu rozszerzenia swojej sieci."
       ],
       "extended_paragraphs": [
-        "Więcej osób staje w obliczu wyższych spłat kredytu hipotecznego w przypadku zawarcia umowy na czas określony, niż wcześniej szacowano.",
-        "Jak wynika z nowych danych zawartych w Raporcie stabilności finansowej, około 6,5 miliona właścicieli odnotuje wzrost miesięcznej spłaty średnio o 100 funtów, gdy podpiszą kolejną umowę do końca 2029 roku.",
-        "To dwukrotnie więcej niż podwyżka o 45 funtów miesięcznie, którą Bank szacował w swoim ostatnim raporcie z lipca.",
-        "W krótszej perspektywie około miliona właścicieli domów, których oprocentowanie kredytów hipotecznych jest niższe niż 3% i które mają zostać refinansowane do końca przyszłego roku, odnotuje wzrost miesięcznych spłat o średnio 200 funtów.",
-        "Dla kredytobiorców oprocentowanie stałego kredytu hipotecznego nie zmienia się aż do jego wygaśnięcia, zwykle po dwóch lub pięciu latach, i na jego miejsce wybiera się nowe. Zdecydowana większość właścicieli i nabywców domów ma tego rodzaju kredyt hipoteczny."
+        "BBC ujawnia, że sieci hydraulików i elektryków oszukują ludzi na dużą skalę.",
+        "Źródło zdjęcia, TikTok Tytuł zdjęcia Nessar Khawaja powiedział prawie 70 000 obserwującym w mediach społecznościowych, że jego sieć zarabia na „zdesperowanych” klientach",
+        "Jak wykazało dochodzenie BBC, zorganizowane sieci nieuczciwych hydraulików i elektryków oszukują ludzi na dużą skalę.",
+        "Nessar Khawaja, który używał w Internecie pseudonimu ThatGuyNess, regularnie publikował na TikToku filmy przedstawiające jego pracę jako hydraulika, wyjaśniające, w jaki sposób zarobił tysiące funtów na „zdesperowanych” klientach oraz jak prowadzi rekrutację online w celu rozszerzenia swojej sieci.",
+        "Dochodzenie wykazało, że 23-latek jest kluczową postacią w zorganizowanej grupie, która systematycznie oszukuje klientów i uczy innych, aby robili to samo."
       ]
     }
   ],
   "tech": [
     {
-      "id": "tech-1-8ebaf7",
-      "entity_tag": "Ropa Naftowa",
-      "sector": "Surowce Energetyczne",
-      "market_impact": "MEDIUM",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Ropa Naftowa (Surowce Energetyczne) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "id": "tech-1-a833ae",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Potężne złoża węglowodorów u wybrzeży Angoli. Amerykanie już się na nie czają",
+      "title": "Droga Mleczna nie wygląda tak, jak myśleliśmy. Astronomowie mówią o obecności obcej struktury",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:56",
+      "time": "07:56",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/angola-ogromne-zloza-weglowodorow-exxonmobil",
-      "image_url": "https://konto.chip.pl/uploads/2022/06/water-g195f1ee7e_1920.jpg",
+      "source_url": "https://www.chip.pl/2026/11/droga-mleczna-ramie-wegielnicy-ksztalt",
+      "image_url": "https://konto.chip.pl/uploads/2021/05/droga-mleczna.jpeg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": true,
       "summary_points": [
-        "Amerykański koncern naftowy ExxonMobil poinformował o odkryciu nowych zasobów węglowodorów u wybrzeży Angoli.",
-        "Ten afrykański kraj okazuje się być w posiadaniu ogromnych pokładów tych substancji.",
-        "Poszukiwania trwały w obrębie odwiertu Tchihumba West-01ST1."
+        "Prowadzone w ostatnim czasie badania astronomiczne mogą zmienić sposób, w jaki postrzegamy budowę Drogi Mlecznej.",
+        "Naukowcy odkryli dowody sugerujące, że część jednego z jej ramion spiralnych może w rzeczywistości nie być ramieniem galaktyki.",
+        "To prowadzi do istotnych zmian w postrzeganiu procesów, które zachodzą tam w związku z narodzinami gwiazd."
       ],
       "extended_paragraphs": [
-        "Amerykański koncern naftowy ExxonMobil poinformował o odkryciu nowych zasobów węglowodorów u wybrzeży Angoli. Ten afrykański kraj okazuje się być w posiadaniu ogromnych pokładów tych substancji. Poszukiwania trwały w obrębie odwiertu Tchihumba West-01ST1. Nowe odkrycie jasno pokazuje, że obszar offshore Angoli nadal dysponuje znacznym potencjałem surowcowym. Jak poinformowała angolska Narodowa Agencja ds. Ropy Naftowej, Gazu i […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Potężne złoża węglowodorów u wybrzeży Angoli. Amerykanie już się na nie czają \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Nowe odkrycie jasno pokazuje, że obszar offshore Angoli nadal dysponuje znacznym potencjałem surowcowym. Jak poinformowała angolska Narodowa Agencja ds. Ropy Naftowej, Gazu i Biopaliw (ANPG), odwiert Tchihumba West-01ST1 ujawnił obecność warstwy piaskowca zawierającej węglowodory o miąższości rzędu 65,4 metra.",
-        "Czytaj też: Chińczycy odkryli ogromne złoże na głębokości niemal 6 kilometrów. Ogłosili przełom w poszukiwaniach w Zatoce Pohaj",
-        "Prace wiertnicze miały miejsce na wodach o głębokości około 1400 metrów, z wykorzystaniem jednostki wiertniczej Valaris DS-9. Lokalizacja znajduje się około 145 kilometrów od północnego wybrzeża Angoli. Choć operator nie przedstawił jeszcze szacunków dotyczących ilości możliwych do wydobycia zasobów, ANPG podkreśla znaczenie odkrycia dla dalszego rozwoju sektora naftowego w kraju.",
-        "W międzyczasie ExxonMobil i partnerzy projektu sfinalizowali decyzję inwestycyjną dotyczącą dalszego rozwoju infrastruktury wydobywczej na Bloku 15. Plan obejmuje rewitalizację złóż Kizomba A i Kizomba B oraz zagospodarowanie złoża Likembe. Inwestycje mają pozwolić na wykorzystanie istniejącej infrastruktury offshore, a także udostępnienie dodatkowych zasobów ropy oraz gazu. Takie podejście powinno ograniczyć konieczność budowy całkowicie nowych instalacji, a jednocześnie zwiększyć efektywność wykorzystania już funkcjonujących obiektów wydobywczych."
+        "Prowadzone w ostatnim czasie badania astronomiczne mogą zmienić sposób, w jaki postrzegamy budowę Drogi Mlecznej. Jak to możliwe? Naukowcy odkryli dowody sugerujące, że część jednego z jej ramion spiralnych może w rzeczywistości nie być ramieniem galaktyki. To prowadzi do istotnych zmian w postrzeganiu procesów, które zachodzą tam w związku z narodzinami gwiazd. Do tak rewolucyjnych […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Do tak rewolucyjnych wniosków doszedł międzynarodowy zespół astronomów z Australii i Szwecji, kierowany przez Hillary Davis z Uniwersytetu w Sydney. Wyniki badań ukazały się w Nature Astronomy . Autorzy publikacji skupili się na jednym z najbardziej skomplikowanych do obserwacji obszarów naszej galaktyki, czyli jej centralnej części. Droga Mleczna należy do galaktyk spiralnych z poprzeczką, co oznacza, iż posiada wydłużoną strukturę złożoną z gwiazd, rozciągającą się przez jej centrum. Struktura ta obraca się i wpływa grawitacyjnie na otaczający ją gaz.",
+        "Czytaj też: Obiekt z naszej galaktyki wysyła do nas sygnał, który powtarza się co 62 minuty",
+        "Dotychczas astronomowie zakładali, że intensywne oddziaływania w obrębie centralnej poprzeczki utrudniają powstawanie nowych gwiazd. Nowe badania pokazują jednak, iż sytuacja może być znacznie bardziej złożona. Dlaczego to takie szokujące? Obracająca się poprzeczka galaktyczna oddziałuje na obłoki gazu, wywołując potężne fale uderzeniowe. Zazwyczaj takie warunki powodują silne turbulencje i utrudniają zapadanie się materii pod wpływem grawitacji. W rezultacie proces narodzin nowych gwiazd zostaje ograniczony. W przypadku Drogi Mlecznej naukowcy zaobserwowali jednak coś zaskakującego.",
+        "Okazuje się, że fale uderzeniowe mogą również ściskać gaz na tyle skutecznie, by tworzyć warunki sprzyjające powstawaniu nowych gwiazd. W konsekwencji centralna poprzeczka naszej galaktyki może być znacznie aktywniejszym obszarem gwiazdotwórczym, niż wcześniej przypuszczano. Pod tym względem Droga Mleczna może różnić się od większości podobnych galaktyk obserwowanych przez astronomów."
       ]
     },
     {
@@ -1426,39 +1529,39 @@
       ]
     },
     {
-      "id": "tech-3-63f131",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
+      "id": "tech-5-8ebaf7",
+      "entity_tag": "Ropa Naftowa",
+      "sector": "Surowce Energetyczne",
+      "market_impact": "MEDIUM",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Ropa Naftowa (Surowce Energetyczne) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Nie tylko polowanie na przecenioną elektronikę. Plush i Plus rozdają zapas gigabajtów na Black Friday",
+      "title": "Potężne złoża węglowodorów u wybrzeży Angoli. Amerykanie już się na nie czają",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:00",
+      "time": "19:56",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/plush-i-plus-rozdaja-zapas-gigabajtow-na-black-friday",
-      "image_url": "https://konto.chip.pl/uploads/2025/07/smartfony.jpg",
+      "source_url": "https://www.chip.pl/2026/11/angola-ogromne-zloza-weglowodorow-exxonmobil",
+      "image_url": "https://konto.chip.pl/uploads/2022/06/water-g195f1ee7e_1920.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Listopad to czas intensywnych promocji z okazji Czarnego Piątku.",
-        "Zwykle kojarzymy je z polowaniem na elektronikę czy inne gadżety, a także z zastanawianiem się, czy rabat faktycznie jest tak atrakcyjny, jak obiecuje czerwony baner.",
-        "Czytaj też: Lenovo IdeaPad Slim 5i Ultra debiutuje w Polsce."
+        "Amerykański koncern naftowy ExxonMobil poinformował o odkryciu nowych zasobów węglowodorów u wybrzeży Angoli.",
+        "Ten afrykański kraj okazuje się być w posiadaniu ogromnych pokładów tych substancji.",
+        "Poszukiwania trwały w obrębie odwiertu Tchihumba West-01ST1."
       ],
       "extended_paragraphs": [
-        "Listopad to czas intensywnych promocji z okazji Czarnego Piątku. Zwykle kojarzymy je z polowaniem na elektronikę czy inne gadżety, a także z zastanawianiem się, czy rabat faktycznie jest tak atrakcyjny, jak obiecuje czerwony baner. Tymczasem w tym całym zakupowym zgiełku łatwo przeoczyć drobne, bezkosztowe okazje przy okazji codziennych wydatków – takich jak zwykłe zasilenie telefonu […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Jeśli akurat kończy ci się ważność konta w Plusie lub Plushu albo po prostu lubisz mieć w zapasie paczkę danych na zimowe wyjazdy i oglądanie seriali w pociągu, warto zanotować w kalendarzu datę 27 listopada.",
-        "Czytaj też: Lenovo IdeaPad Slim 5i Ultra debiutuje w Polsce. Tej przedsprzedażowej promocji nie można przegapić",
-        "Mechanizm promocji został skonstruowany tak, by premiować nieco wyższe doładowania w bardzo odczuwalny sposób. Więc tak, Plus chce, żebyśmy wydali tego dnia więcej, ale w zamian też da nam znacznie więcej danych do wykorzystania, więc to całkiem atrakcyjna opcja. Osoby, które 27 listopada zasilą swoje konto kwotą do 29 złotych, otrzymają w prezencie 5 GB dodatkowego transferu danych. Jeśli jednak zdecydujecie się na doładowanie powyżej 30 złotych, bonus rośnie skokowo aż do 50 GB ekstra.",
-        "Różnica w kwocie zasilenia jest więc symboliczna (i cały czas mamy ją do wykorzystania), natomiast paczka internetu powiększa się aż dziesięciokrotnie. Dla kogoś, kto i tak planował w najbliższych dniach doładować numer, to świetna okazja, by przy okazji standardowego wydatku zabezpieczyć sobie solidny zapas gigabajtów na kolejne tygodnie. Trzeba tylko pamiętać o jednym warunku – okazja obowiązuje wyłącznie przez dwadzieścia cztery godziny, w piątek 27 listopada, zarówno w ofercie Plus na Kartę, jak i w sieci Plush na Kartę."
+        "Amerykański koncern naftowy ExxonMobil poinformował o odkryciu nowych zasobów węglowodorów u wybrzeży Angoli. Ten afrykański kraj okazuje się być w posiadaniu ogromnych pokładów tych substancji. Poszukiwania trwały w obrębie odwiertu Tchihumba West-01ST1. Nowe odkrycie jasno pokazuje, że obszar offshore Angoli nadal dysponuje znacznym potencjałem surowcowym. Jak poinformowała angolska Narodowa Agencja ds. Ropy Naftowej, Gazu i […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Potężne złoża węglowodorów u wybrzeży Angoli. Amerykanie już się na nie czają \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Nowe odkrycie jasno pokazuje, że obszar offshore Angoli nadal dysponuje znacznym potencjałem surowcowym. Jak poinformowała angolska Narodowa Agencja ds. Ropy Naftowej, Gazu i Biopaliw (ANPG), odwiert Tchihumba West-01ST1 ujawnił obecność warstwy piaskowca zawierającej węglowodory o miąższości rzędu 65,4 metra.",
+        "Czytaj też: Chińczycy odkryli ogromne złoże na głębokości niemal 6 kilometrów. Ogłosili przełom w poszukiwaniach w Zatoce Pohaj",
+        "Prace wiertnicze miały miejsce na wodach o głębokości około 1400 metrów, z wykorzystaniem jednostki wiertniczej Valaris DS-9. Lokalizacja znajduje się około 145 kilometrów od północnego wybrzeża Angoli. Choć operator nie przedstawił jeszcze szacunków dotyczących ilości możliwych do wydobycia zasobów, ANPG podkreśla znaczenie odkrycia dla dalszego rozwoju sektora naftowego w kraju.",
+        "W międzyczasie ExxonMobil i partnerzy projektu sfinalizowali decyzję inwestycyjną dotyczącą dalszego rozwoju infrastruktury wydobywczej na Bloku 15. Plan obejmuje rewitalizację złóż Kizomba A i Kizomba B oraz zagospodarowanie złoża Likembe. Inwestycje mają pozwolić na wykorzystanie istniejącej infrastruktury offshore, a także udostępnienie dodatkowych zasobów ropy oraz gazu. Takie podejście powinno ograniczyć konieczność budowy całkowicie nowych instalacji, a jednocześnie zwiększyć efektywność wykorzystania już funkcjonujących obiektów wydobywczych."
       ]
     },
     {
-      "id": "tech-5-df5de9",
+      "id": "tech-3-4d56ae",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1466,27 +1569,27 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Nie trzeba już wymieniać Galaxy Watch na nowszy model. Flagowe funkcje zdrowotne trafiają do starszych zegarków",
+      "title": "Mieści się w kontenerze i wypuszcza rój dronów. USA mają robota bojowego rodem z filmu",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:00",
+      "time": "04:30",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/one-ui-9-watch-dla-galaxy-watch-8-nowosci",
-      "image_url": "https://konto.chip.pl/uploads/2025/07/samsung-galaxy-watch8-9.jpg",
+      "source_url": "https://www.chip.pl/2026/11/armia-usa-roj-dronow-z-kontenera",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/armia-usa-roj-dronow-z-kontenera-1.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Zwykle najnowsze i najbardziej zaawansowane funkcje rezerwowane są dla topowych urządzeń, stanowiąc ich kartę atutową w walce o portfele klientów.",
-        "W tym roku, w przypadku Galaxy Watch 8 i Galaxy Watch Ultra 2 takimi funkcjami było m.in. wykrywanie bezdechu sennego czy wskaźniki parametrów życiowych.",
-        "Od razu trzeba zaznaczyć, że wdrażanie aktualizacji ruszyło w połowie listopada i odbywa się etapami, więc nie każdy dostanie je w tym samym czasie."
+        "Podczas najnowszej demonstracji w Niemczech amerykańscy wojskowi pokazali system, który potrafi opuścić kontener i przeprowadzić atak z wykorzystaniem całego roju dronów.",
+        "Przyznam, że chociaż sam pokaz wygląda efektownie, to dla mnie znacznie ciekawszy jest pomysł stojący za całą konstrukcją.",
+        "Sześciometrowy kontener transportowy wydaje się ostatnią rzeczą, którą można uznać za zaawansowaną broń przyszłości."
       ],
       "extended_paragraphs": [
-        "Zwykle najnowsze i najbardziej zaawansowane funkcje rezerwowane są dla topowych urządzeń, stanowiąc ich kartę atutową w walce o portfele klientów. W tym roku, w przypadku Galaxy Watch 8 i Galaxy Watch Ultra 2 takimi funkcjami było m.in. wykrywanie bezdechu sennego czy wskaźniki parametrów życiowych. Na szczęście Samsung postanowił, że dbanie o zdrowie nie musi być […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wraz z udostępnieniem aktualizacji One UI 9 Watch, właściciele ubiegłorocznych modeli Galaxy Watch 8 oraz Galaxy Watch 8 Classic otrzymują właśnie potężny pakiet funkcji zdrowotnych i użytkowych, które wcześniej zarezerwowane były dla tegorocznych generacji.",
-        "Od razu trzeba zaznaczyć, że wdrażanie aktualizacji ruszyło w połowie listopada i odbywa się etapami, więc nie każdy dostanie je w tym samym czasie. Do tego część nowości wymaga również zaktualizowania aplikacji Samsung Health oraz Samsung Health Monitor na sparowanym smartfonie. Największą zmianą z perspektywy codziennego dbania o formę jest sposób, w jaki zegarek zaczyna interpretować zbierane w nocy i w ciągu dnia dane – zamiast zasypywać użytkownika surowymi wykresami, podaje mu konkretne wnioski i ostrzeżenia.",
-        "Centralnym punktem nowego pakietu zdrowotnego jest funkcja Vitals, która podczas snu monitoruje jednocześnie pięć parametrów fizjologicznych: tętno, zmienność rytmu zatokowego (HRV), częstość oddechów, temperaturę skóry oraz poziom natlenienia krwi. Przez pierwsze noce algorytm uczy się twojego indywidualnego poziomu bazowego, aby później błyskawicznie wychwycić i zasygnalizować nietypowe odchylenia. Te mogą pojawiać się np. wtedy, gdy organizm zaczyna walczyć z infekcją albo jest skrajnie przemęczony.",
-        "Uzupełnia ją wskaźnik Heart Health Score, który łączy dane o śnie, codziennym ruchu i regeneracji w jeden wynik, ułatwiający ocenę tego, jak codzienne nawyki przekładają się na kondycję układu krążenia w dłuższej perspektywie (choć producent uczciwie zaznacza, że żadna z tych funkcji nie służy do diagnozowania ani leczenia chorób)."
+        "Podczas najnowszej demonstracji w Niemczech amerykańscy wojskowi pokazali system, który potrafi opuścić kontener i przeprowadzić atak z wykorzystaniem całego roju dronów. Przyznam, że chociaż sam pokaz wygląda efektownie, to dla mnie znacznie ciekawszy jest pomysł stojący za całą konstrukcją. Sześciometrowy kontener transportowy wydaje się ostatnią rzeczą, którą można uznać za zaawansowaną broń przyszłości. Jednak ta […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Sześciometrowy kontener transportowy wydaje się ostatnią rzeczą, którą można uznać za zaawansowaną broń przyszłości. Jednak ta metalowa skrzynia, którą można przewieźć ciężarówką, pociągiem albo statkiem, a następnie pozostawić w wyznaczonym miejscu, ma w sobie coś wyjątkowego. Jej prostota może bowiem okazać się największą zaletą, bo w przypadku nowoczesnego uzbrojenia samo dostarczenie go w odpowiednie miejsce jest często równie ważne, jak późniejsze wykorzystanie przeciwko przeciwnikowi. Armia USA postanowiła więc sprawdzić, jak daleko mogą posunąć się w automatyzacji tego procesu.",
+        "12 listopada 2026 roku na poligonie Grafenwöhr w Niemczech Armia USA przeprowadziła demonstrację z użyciem ostrej amunicji, której głównym bohaterem był bezzałogowy pojazd lądowy R3NEGADE. Maszyna wyjechała ze standardowego kontenera transportowego o długości około 6 metrów, a następnie wykorzystała zamontowaną wyrzutnię HIV3 do wysłania w powietrze 18 dronów. Bezzałogowce przeprowadziły później skoordynowany, autonomiczny atak na cel poligonowy.",
+        "Czytaj też: Chcą pogodzić rzeczy niemożliwe. Nowy pocisk SUPER ICE ma niemal półtonową głowicę",
+        "Był to element szerszego programu R3ACT (Remote Rapid Response Autonomous Contingency Team), który rozwija koncepcję rozmieszczania modułowych systemów bezzałogowych w kontenerach. W ramach pokazu dron TRV-150 najpierw zrzucił ładunek dymny na cel, po czym do akcji wkroczyła wspomniana grupa bezzałogowców. Żołnierze 173. Brygady Powietrznodesantowej wykonali również oddzielny atak z wykorzystaniem klasycznego drona FPV."
       ]
     },
     {
@@ -1522,76 +1625,173 @@
       ]
     },
     {
-      "id": "tech-7-115795",
-      "entity_tag": "Allegro (GPW: ALE)",
-      "sector": "E-commerce",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Allegro (GPW: ALE) (E-commerce) (kluczowe liczby: 17%, 12%) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "17%",
-        "12%"
-      ],
-      "title": "Allegro zostawiło najlepsze na koniec. Jutro ruszają mocne promocje na Apple",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "19:45",
-      "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/allegro-zostawilo-najlepsze-na-koniec-jutro-ruszaja-mocne-promocje-na-apple",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/allegro-smart.jpg",
-      "image_source": "Fot. / Źródło: Antyweb Innowacje",
-      "lead_story": false,
-      "summary_points": [
-        "Allegro szykuje prawdziwe okazje na Black Friday.",
-        "Fani Apple powinni ustawić alarm.",
-        "Black Weeks na Allegro trwa od początku listopada, ale prawdziwe Black Friday zacznie się dopiero jutro."
-      ],
-      "extended_paragraphs": [
-        "Allegro szykuje prawdziwe okazje na Black Friday. Fani Apple powinni ustawić alarm.",
-        "Black Weeks na Allegro trwa od początku listopada, ale prawdziwe Black Friday zacznie się dopiero jutro. Jeśli więc jeszcze nie wydaliście całego budżetu na czarnopiątkowe zakupy, to jutro od godziny 9:00 wypatrujcie cenowych okazji. Szczególnie czujni powinni być entuzjaści urządzeń z nadgryzionym jabłkiem, bo Allegro wrzuci MacBooki Air i AirPods Pro 3 w niezłych cenach.",
-        "Odkąd sklepy internetowe zaczęły prześcigać się w jak najwcześniejszym rozpoczęciu celebrowania Black Friday, ostatni piątek listopada przestał budzić emocje. Miło więc widzieć, że Allegro zostawiło na koniec coś ciekawego, pomimo faktycznego startu Black Weeks na początku miesiąca. Na głównej stronie Allegro znajdziecie zakładkę „wkrótce startują”, a tam chyba najmocniejsze dotychczas przeceny na elektronikę, pochodzącą z oficjalnego sklepu platformy.",
-        "We wstępie wspomniałem o fanach Apple nie bez powodu. Już jutro bowiem na Allegro dostępne będą słuchawki AirPods Pro 3 (najnowszy model flagowych dokanałówek), przecenione z 999 na 829 zł (taniej o 17%). Jeśli szukacie laptopa od Apple, to równie ciekawą propozycją może być MacBook Air z czipem M5. To jednak dość kosztowna konfiguracja pomimo zniżki, bo Allegro przecenia wariant z dyskiem 1 TB i 16 GB pamięci RAM (kolor Północ). Zamiast 7199 zł zapłacimy 6099 , czyli 12% mniej.",
-        "Hej, obserwuj nas w Google Discover Obserwuj nas → Nie wiadomo niestety, ile Allegro przygotowało sztuk. MacBook Air prawdopodobnie na pniu się nie wyprzeda, ale na AirPods Pro trzeba będzie zapolować, bo znikną zapewne w kilka minut."
-      ]
-    },
-    {
-      "id": "tech-8-ad0cea",
-      "entity_tag": "Formuła 1",
-      "sector": "Motorsport",
+      "id": "tech-7-c8499f",
+      "entity_tag": "Microsoft (NASDAQ: MSFT)",
+      "sector": "Chmura & AI",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Formuła 1 (Motorsport) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Microsoft (NASDAQ: MSFT) (Chmura & AI) (kluczowe liczby: 15 proc.) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "15 proc."
+      ],
+      "title": "8 GB RAM-u ci wystarczy. A przynajmniej tak twierdzi Microsoft i ASUS",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:30",
+      "source": "Antyweb Innowacje",
+      "source_url": "https://antyweb.pl/8-gb-ram-u-ci-wystarczy-a-przynajmniej-tak-twierdzi-microsoft-i-asus",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/asus-ram.jpg",
+      "image_source": "Fot. / Źródło: Antyweb Innowacje",
+      "lead_story": false,
+      "summary_points": [
+        "Zmiana w narracji największych potentatów technologicznych jest zauważalna.",
+        "Zarówno Microsoft, jak i ASUS przekonują, że nie potrzebujesz więcej niż 8 GB RAM-u do wygodnego korzystania z PC.",
+        "Jeszcze niedawno producenci podzespołów do PC i firmy technologiczne jakkolwiek powiązane z komputerami przekonywali nas, że 16 GB pamięci RAM może nie być wystarczająco."
+      ],
+      "extended_paragraphs": [
+        "Zmiana w narracji największych potentatów technologicznych jest zauważalna. Zarówno Microsoft, jak i ASUS przekonują, że nie potrzebujesz więcej niż 8 GB RAM-u do wygodnego korzystania z PC.",
+        "Jeszcze niedawno producenci podzespołów do PC i firmy technologiczne jakkolwiek powiązane z komputerami przekonywali nas, że 16 GB pamięci RAM może nie być wystarczająco. Jednym z nich był Microsoft, który w swoich poradnikach i blogach zaczynał pisać o tym, że nowym minimum do poprawnego działania systemu powinno być 32 GB RAM. Potem przyszła moda na AI, kryzys na rynku podzespołów i śpiewka się zmieniła. Okazuje się, że nie tylko 16 GB jest dopuszczalne, ale nawet 8 GB powraca do łask. Powód jest prozaiczny: rosną koszty pamięci. Microsoft sam wypuścił laptopy właśnie z pamięcią 8 GB.",
+        "Nie tylko Microsoft szykuje się na powrót 8 GB standardu. Okazuje się, że ASUS również będzie schodził niżej z wymaganiami. Sprawa wyszła na rozmowie o wynikach ASUS-a 12 listopada. Analityk JP Morgan zapytał, czy firma nadal będzie przenosić wyższe koszty komponentów na kupujących, jeśli dostawy pecetów spadną w przyszłym roku o 10–15 proc. Co-CEO S.Y. Hsu odpowiedział, że ASUS kiedyś wkładał 16 GB do tańszych modeli, żeby dać lepsze doświadczenie, ale zmiany w Windows sprawiają, że „nawet 8 GB pozwala uzyskać akceptowalne doświadczenie”. Jeszcze rok, czy dwa lata temu można byłoby przecierać oczy ze zdziwienia. Jednak teraz prezentuje się tak nowa rzeczywistość.",
+        "ASUS twierdzi, że część pamięci kupił już wcześniej, w drugiej połowie 2025 roku, żeby kontrolować koszty. Problem w tym, że zapasy się kończą, a ceny rosną. W segmencie high-end, na przykład w komputerach RTX Spark, nawet konfiguracje ze 128 GB pamięci sprzedają się dobrze mimo wyższych cen. W budżecie i średniej półce klient jest już znacznie mniej skłonny płacić pełną różnicę. Dlatego 8 GB ma być wentylem bezpieczeństwa.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Microsoft rzeczywiście poprawił zarządzanie pamięcią w Windows 11. W blogu z 3 listopada firma opisała zmiany w kompresji pamięci i decydowaniu, kiedy przenosić dane na dysk."
+      ]
+    },
+    {
+      "id": "tech-8-bb953f",
+      "entity_tag": "Technologia & Innowacje",
+      "sector": "Sektor Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Ford prezentuje GT41 w nadziei, że ponownie wygra Le Mans",
-      "original_title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "title": "Duże akumulatory Volvo: jeździmy zmodernizowanymi hybrydami typu plug-in na rok 2028",
+      "original_title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:00",
+      "time": "08:00",
       "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg",
+      "source_url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/volvo-xc60-xc90-combo-1152x648.jpg",
       "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "Ford przystępuje do Mistrzostw Świata w Długodystansowych Mistrzostwach Świata w 2027 roku z nowym prototypem.",
-        "„Pokazanie Forda GT41 to znaczący moment dla wszystkich zaangażowanych w ten program” – powiedział Dan Sayers, menadżer programu Hypercar w Ford Racing.",
-        "\"To wynik ogromnej pracy naszych zespołów inżynieryjnych, projektowych i programistów oraz ważny kamień milowy na naszej drodze do roku 2027."
+        "Wciąż nie wiemy tylko jednego: ile będą kosztować?",
+        "Zamiast tego Volvo zapewniło XC60 i XC90 kolejne odświeżenie cyklu życia.",
+        "Zmiany w stylizacji nadwozia są minimalne; większe, trzyrzędowe XC90 otrzymało już w zeszłym roku nowy wygląd, a teraz XC60 zyskało na przykład podobną osłonę chłodnicy i te same reflektory matrycowe."
       ],
       "extended_paragraphs": [
-        "Ford przystępuje do Mistrzostw Świata w Długodystansowych Mistrzostwach Świata w 2027 roku z nowym prototypem.",
-        "„Pokazanie Forda GT41 to znaczący moment dla wszystkich zaangażowanych w ten program” – powiedział Dan Sayers, menadżer programu Hypercar w Ford Racing. \"To wynik ogromnej pracy naszych zespołów inżynieryjnych, projektowych i programistów oraz ważny kamień milowy na naszej drodze do roku 2027. Znamy skalę stojącego przed nami wyzwania — poziom konkurencji w Hypercar jest niewiarygodnie wysoki i nie ma drogi na skróty do sukcesu. Skupiliśmy się na budowaniu właściwych fundamentów, gromadzeniu właściwych ludzi i upewnianiu się, że uczymy się jak najwięcej na każdym etapie rozwoju.\"",
-        "Podobnie jak wielu innych uczestników klasy Hypercar biorących udział w Mistrzostwach Świata w Długodystansowych Mistrzostwach Świata, Ford wybrał podejście techniczne LMDh z napędem na tylne koła, zamiast budować GT41 całkowicie od podstaw, jak robią to Ferrari i Aston Martin w swoich samochodach. Samochody LMDh zaczynają się od jednego z czterech zatwierdzonych podwozi z włókna węglowego — w tym przypadku Ford współpracuje z firmą Oreca, która współpracuje również z firmami Genesis i Acura.",
-        "Układ hybrydowy i skrzynia biegów również stanowią części standardowe. Jednak Ford dostarcza silnik – 5,4-litrowy silnik V8 oparty na silniku Coyote Mustanga – a także oprogramowanie do sterowania hybrydowym układem napędowym. Niehybrydyzowana wersja Coyote skutecznie ścigała się już pod maską Forda Mustanga GT3.",
-        "Malowanie testowe zawiera pisanki. Ford Spot wskazówki stylistyczne samochodów drogowych. Znajdź elementy stylistyczne samochodów drogowych. Malowanie testowe zawiera pisanki. Ford Spot wskazówki stylistyczne samochodów drogowych. Przepisy techniczne pozwalają również na większą swobodę stylizacji, niż często spotykamy w wyścigach. Ograniczona jest bezwzględna wielkość docisku aerodynamicznego, podobnie jak minimalny opór, dlatego zachęca się producentów OEM do wykorzystywania szczegółów stylistycznych samochodów drogowych w celu stworzenia bliższego powiązania między prototypem a samochodem drogowym. Prawdopodobnie będę musiał poświęcić więcej czasu na przyglądanie się temu, aby dostrzec wskazówki dotyczące samochodu drogowego, ale widzę sporo powierzchownych podobieństw z samochodem Genesis LMDh, a także Ferrari Hypercar."
+        "Wciąż nie wiemy tylko jednego: ile będą kosztować?",
+        "Zamiast tego Volvo zapewniło XC60 i XC90 kolejne odświeżenie cyklu życia. Zmiany w stylizacji nadwozia są minimalne; większe, trzyrzędowe XC90 otrzymało już w zeszłym roku nowy wygląd, a teraz XC60 zyskało na przykład podobną osłonę chłodnicy i te same reflektory matrycowe. I nie ma w tym nic złego — oba modele miały i nadal mają ładne kształty, popularne wśród klientów Volvo.",
+        "Zamiast tego uwaga szwedzkiego producenta samochodów skupiła się na dostosowaniu technologii do standardów z roku modelowego 2028. Oznacza to znacznie większy akumulator w przypadku pojazdów PHEV i pojemność wystarczającą dla większości z nas na kilka dni codziennej jazdy, zanim będzie trzeba go ponownie naładować. Dostępne są także nowe, nowoczesne systemy informacyjno-rozrywkowe i wnętrza, w których spędzanie czasu jest teraz jeszcze przyjemniejsze niż wcześniej.",
+        "W dniu, w którym przejeżdżaliśmy przez ten most, pogoda nie była aż tak przyjemna. To jest XC60. Volvo Cars Nawet nie było tak miło, tylko ulewny deszcz. To jest XC90. Volvo Cars Nawet nie było tak miło, tylko ulewny deszcz. To jest XC90. Volvo Cars W dniu, w którym przejeżdżaliśmy przez ten most, pogoda nie była aż tak przyjemna. To jest XC60. Volvo Cars Nawet nie było tak miło, tylko ulewny deszcz. To jest XC90. Volvo Cars Po raz pierwszy zobaczyliśmy odnowiony model XC60 2028 (i poznaliśmy szczegóły techniczne jego oraz XC90) we wrześniu, ale w związku z wejściem samochodów do produkcji i dotarciem do pierwszych klientów w USA w pierwszym kwartale przyszłego roku, mieliśmy okazję spędzić trochę czasu przy zaktualizowanych samochodach.",
+        "Zarówno średniej wielkości XC60, jak i trzyrzędowe XC90 korzystają z tego samego układu napędowego PHEV. Pod maską znajduje się czterocylindrowy silnik benzynowy o pojemności 2,0 l z bezpośrednim wtryskiem, generujący 247 KM (184 kW) i 226 lb-ft (306 Nm) w połączeniu z silnikiem elektrycznym o mocy 70 KM (50 kW) i 122 ft-lb (165 Nm), które napędzają przednie koła. Na tylnej osi znajduje się drugi silnik elektryczny o mocy 174 KM (130 kW) i 228 lb-ft (309 Nm). Łączna moc układu hybrydowego wynosi 455 KM (339 kW) i 560 lb-ft (759 Nm)."
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-1-5bd74a",
+      "id": "swiat-7-bb8637",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Koalicji rządzącej w Nowej Zelandii brakuje jednego mandatu do większości parlamentarnej",
+      "original_title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "03:28",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": true,
+      "summary_points": [
+        "Prawicowemu blokowi rządzącemu na czele z Partią Narodową brakuje większości potrzebnej do rządzenia.",
+        "Koalicji rządzącej w Nowej Zelandii brakuje do większości parlamentarnej jednego mandatu w wyniku kampanii ukształtowanej przez spowolnienie gospodarcze i rozczarowanie wyborców.",
+        "Aby utrzymać się przy władzy, potrzebuje teraz wsparcia centrowej Partii Szansy."
+      ],
+      "extended_paragraphs": [
+        "Prawicowemu blokowi rządzącemu na czele z Partią Narodową brakuje większości potrzebnej do rządzenia.",
+        "Koalicji rządzącej w Nowej Zelandii brakuje do większości parlamentarnej jednego mandatu w wyniku kampanii ukształtowanej przez spowolnienie gospodarcze i rozczarowanie wyborców.",
+        "Aby utrzymać się przy władzy, potrzebuje teraz wsparcia centrowej Partii Szansy. Jeśli nie uda im się osiągnąć porozumienia, kraj będzie musiał wrócić do urn.",
+        "Obecna Partia Narodowa pod przewodnictwem premiera Christophera Luxona zapewniła sobie 40 ze 130 mandatów, podczas gdy jej koalicjanci ACT i New Zealand First zdobyli odpowiednio 13 i 12.",
+        "Oficjalne wyniki z piątku pokazują, że utworzenie rządu pod przewodnictwem centrolewicowej Partii Pracy nie jest możliwe, ponieważ blok nie miałby wystarczającej liczby mandatów, nawet gdyby Opportunity stanął za nim."
+      ]
+    },
+    {
+      "id": "swiat-4-aa713f",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 80 milionów) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "80 milionów"
+      ],
+      "title": "Potężna burza z okazji Święta Dziękczynienia powoduje powodzie i opóźnienia lotów w całych Stanach Zjednoczonych",
+      "original_title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "05:15",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Prawie milion klientów w USA nie miało prądu w czwartkowy wieczór, gdy nad obydwoma wybrzeżami USA szalały burze, powodując porywy wiatru, ulewne deszcze i powodzie.",
+        "Potężna burza z okazji Święta Dziękczynienia, która nawiedziła Środkowy Zachód i północny wschód, powodując ulewne deszcze i wiatry, a także przypływy na zachodzie, powoduje powszechne zakłócenia w całych Stanach Zjednoczonych.",
+        "Oczekuje się, że w tym tygodniu w podróż wyruszy ponad 80 milionów Amerykanów."
+      ],
+      "extended_paragraphs": [
+        "Prawie milion klientów w USA nie miało prądu w czwartkowy wieczór, gdy nad obydwoma wybrzeżami USA szalały burze, powodując porywy wiatru, ulewne deszcze i powodzie.",
+        "Potężna burza z okazji Święta Dziękczynienia, która nawiedziła Środkowy Zachód i północny wschód, powodując ulewne deszcze i wiatry, a także przypływy na zachodzie, powoduje powszechne zakłócenia w całych Stanach Zjednoczonych.",
+        "Oczekuje się, że w tym tygodniu w podróż wyruszy ponad 80 milionów Amerykanów. Jak podaje witryna monitorująca FlightAware, w czwartek odwołano 460 lotów w USA, a kolejnych 2508 lotów do, z lub w obrębie USA było opóźnionych.",
+        "FAA ostrzegała wcześniej, że opóźnienia będą możliwe „przez cały tydzień” w wyniku prognozowanych opadów deszczu i wiatru.",
+        "Tymczasem w czwartkowy wieczór prawie milion gospodarstw domowych było pozbawionych prądu, a najbardziej dotknięte były stany Pensylwania, Maryland i Wirginia."
+      ]
+    },
+    {
+      "id": "swiat-1-ca5e6c",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Historyczny sukces w japońskim zoo. Pierwszy taki przypadek na świecie",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "09:20",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/historyczny-sukces-w-japonskim-zoo-pierwszy-taki-przypadek-na-swiecie/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/hu/hurze69jd8hcn3esaoiar9bi235yv9b3.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Historyczny sukces japońskiego ogrodu zoologicznego Adventure World.",
+        "Po raz pierwszy na świecie udało się rozmnożyć zagrożonego wyginięciem pingwina długoczubego dzięki sztucznemu zapłodnieniu.",
+        "Narodziny samicy potwierdziły badania genetyczne."
+      ],
+      "extended_paragraphs": [
+        "Historyczny sukces japońskiego ogrodu zoologicznego Adventure World. Po raz pierwszy na świecie udało się rozmnożyć zagrożonego wyginięciem pingwina długoczubego dzięki sztucznemu zapłodnieniu. Narodziny samicy potwierdziły badania genetyczne. Osiągnięcie może mieć istotne znaczenie dla ochrony gatunku, którego populacja w naturze systematycznie maleje.",
+        "Przełomowego osiągnięcia dokonali specjaliści z ogrodu zoologicznego Adventure World w japońskiej prefekturze Wakayama. Jak poinformowała agencja Kyodo, placówka ogłosiła w piątek pierwszy na świecie udokumentowany przypadek skutecznego sztucznego zapłodnienia pingwina długoczubego.",
+        "Młoda samica wykluła się 28 października. Badania DNA potwierdziły, że jej ojcem jest osobnik, od którego pobrano nasienie do zabiegu, a nie partner matki.",
+        "\"To osiągnięcie jest – według naszych ustaleń – pierwszym na świecie przypadkiem takiego rozrodu u tego gatunku, odnotowanym w pracach naukowych oraz krajowych i zagranicznych rejestrach hodowlanych\" – przekazali przedstawiciele zoo.",
+        "Sztuczne zapłodnienie pingwinów należy do wyjątkowo trudnych procedur. Dotychczas na świecie zakończyło się sukcesem jedynie w przypadku czterech spośród 18 gatunków tych ptaków."
+      ]
+    },
+    {
+      "id": "swiat-2-164b06",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1599,8 +1799,8 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Zełenski mówi BBC, że Stany Zjednoczone zbyt skupiają się na Bliskim Wschodzie i nie wywierają wystarczającego nacisku na Rosję",
-      "original_title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "title": "Zełenski w wywiadzie dla BBC krytykuje „dziwną” przyjaźń Trumpa i Putina",
+      "original_title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "is_foreign": true,
       "lang": "EN",
       "time": "22:49",
@@ -1608,22 +1808,86 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
       "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
-        "Prezydent Ukrainy wyraża frustrację w stosunku do USA i stwierdza, że to „dziwne”.",
-        "Trump określił Władimira Putina jako przyjaciela.",
-        "Podpis pod rysunkiem, Obejrzyj: Zełenski kwestionuje „dziwną” przyjaźń Trumpa-Putina w wywiadzie dla BBC Wołodymyr Zełenski wyraził głęboką frustrację w stosunku do Stanów Zjednoczonych, mówiąc, że opóźnienia w dostawie kluczowych rakiet antybalistycznych kosztują życie Ukraińców i narzekając, że Stany Zjednoczone nie naciskają na Rosję wystarczająco mocno podczas rozmów pokojowych."
+        "Prezydent Ukrainy wyraża frustrację wobec Stanów Zjednoczonych i twierdzi, że nie naciskają one na Rosję w rozmowach pokojowych wystarczająco mocno, aby zakończyć wojnę.",
+        "Podpis pod rysunkiem, Obejrzyj: Zełenski kwestionuje „dziwną” przyjaźń Trumpa-Putina w wywiadzie dla BBC Wołodymyr Zełenski wyraził głęboką frustrację w stosunku do Stanów Zjednoczonych, krytykując Donalda Trumpa za nazwanie Władimira Putina „moim przyjacielem” i stwierdzenie, że opóźnienia w dostawie kluczowych rakiet antybalistycznych kosztują życie Ukraińców.",
+        "W wywiadzie dla BBC w swoim biurze w Kijowie prezydent Ukrainy skarżył się, że Stany Zjednoczone nie naciskają na Rosję wystarczająco mocno w rozmowach pokojowych i nazwał „dziwnym” fakt, że Trump opublikował zdjęcie, na którym obejmuje Putina."
       ],
       "extended_paragraphs": [
-        "Prezydent Ukrainy wyraża frustrację w stosunku do USA i stwierdza, że to „dziwne”. Trump określił Władimira Putina jako przyjaciela.",
+        "Prezydent Ukrainy wyraża frustrację wobec Stanów Zjednoczonych i twierdzi, że nie naciskają one na Rosję w rozmowach pokojowych wystarczająco mocno, aby zakończyć wojnę.",
         "Podpis pod rysunkiem, Obejrzyj: Zełenski kwestionuje „dziwną” przyjaźń Trumpa-Putina w wywiadzie dla BBC",
-        "Wołodymyr Zełenski wyraził głęboką frustrację w stosunku do Stanów Zjednoczonych, mówiąc, że opóźnienia w dostawie kluczowych rakiet antybalistycznych kosztują życie Ukraińców i narzekając, że Stany Zjednoczone nie naciskają na Rosję wystarczająco mocno podczas rozmów pokojowych.",
-        "W wywiadzie dla BBC w swoim biurze w Kijowie prezydent Ukrainy powiedział również, że „dziwne” jest umieszczenie przez Donalda Trumpa zdjęcia, na którym obejmuje Władimira Putina jako „mojego przyjaciela”.",
+        "Wołodymyr Zełenski wyraził głęboką frustrację w stosunku do Stanów Zjednoczonych, krytykując Donalda Trumpa za nazwanie Władimira Putina „moim przyjacielem” i stwierdzenie, że opóźnienia w dostawie kluczowych rakiet antybalistycznych kosztują życie Ukraińców.",
+        "W wywiadzie dla BBC w swoim biurze w Kijowie prezydent Ukrainy skarżył się, że Stany Zjednoczone nie naciskają na Rosję wystarczająco mocno w rozmowach pokojowych i nazwał „dziwnym” fakt, że Trump opublikował zdjęcie, na którym obejmuje Putina.",
         "„Oczywiście to zależy od prezydenta Stanów Zjednoczonych, ale… to dziwne” – powiedział Zełenski po angielsku."
       ]
     },
     {
-      "id": "swiat-2-4da504",
+      "id": "swiat-3-c7d58a",
+      "entity_tag": "USA & Bezpieczeństwo",
+      "sector": "Geopolityka",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "\"Chciałbym, żeby Putin był z nami\". Trump o szczycie G20",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:02",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/chcialbym-zeby-putin-byl-z-nami-trump-o-szczycie-g20/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/b8/b8dxhkfzm4dtss62fho8ycmo3f6cahky.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "- Gdyby to zależało ode mnie, chciałbym, żeby był z nami - mówił o ewentualnej obecności Władimira Putina na grudniowym szczycie G20 na Florydzie prezydent USA Donald Trump.",
+        "Jak dodał, nie wiadomo, czy rosyjski przywódca pojawi się na spotkaniu.",
+        "Trump zdradził też, że długo rozmawiał z sekretarzem generalnym NATO Markiem Ruttem o rozmieszczeniu amerykańskich wojsk w Europie."
+      ],
+      "extended_paragraphs": [
+        "- Gdyby to zależało ode mnie, chciałbym, żeby był z nami - mówił o ewentualnej obecności Władimira Putina na grudniowym szczycie G20 na Florydzie prezydent USA Donald Trump. Jak dodał, nie wiadomo, czy rosyjski przywódca pojawi się na spotkaniu. Trump zdradził też, że długo rozmawiał z sekretarzem generalnym NATO Markiem Ruttem o rozmieszczeniu amerykańskich wojsk w Europie.",
+        "Donald Trump , który spędza na Florydzie Święto Dziękczynienia, spotkał się w środę wieczorem z sekretarzem generalnym NATO Markiem Ruttem . Pytany w czwartek przez media, czy tematem ich rozmowy było też rozmieszczenie amerykańskich wojsk w Europie , odparł, że rozmawiali o tym \"długo\".",
+        "Ponownie zarzucił przy tym Europejczykom, że \" nie byli zbyt pomocni w kwestii Iranu \". - Nie byli zbyt pomocni, ale zdobyliśmy Grenlandię . (...) Jest trzy razy większa od Teksasu i szczerze mówiąc, to sprawiło, że zacząłem nieco inaczej na to patrzeć - powiedział Trump. Odniósł się w ten sposób do porozumienia sprawie bezpieczeństwa Arktyki, które zezwala USA na budowę dwóch nowych baz wojskowych na wyspie.",
+        "- Teraz, jak wiecie, (Europejczycy) są zaangażowani razem z nami. Są w różnych częściach Iranu i świetnie sobie radzą - przekonywał.",
+        "Trump przekazał dziennikarzom, że większość jego środowej rozmowy z sekretarzem NATO poświęcona była wojnie w Ukrainie . Ponownie wyraził przekonanie, że przywódca Rosji Władimir Putin chciałby zakończenia wojny. - Wierzę w to. Do tanga trzeba dwojga - dodał."
+      ]
+    },
+    {
+      "id": "swiat-5-031057",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "\"Bardzo dziwne\". Zełenski zareagował na zdjęcie Trumpa. Nie krył zdziwienia",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "05:33",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/bardzo-dziwne-zelenski-zareagowal-na-zdjecie-trumpa-nie-kryl-zdziwienia/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/cb/cb8uvxqpwfkjnp833nyhqdm7984jtksr.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "- Szkoda, że skupili się na Bliskim Wschodzie i tam kierują większe siły - mówił o postawie Stanów Zjednoczonych prezydent Ukrainy Wołodymyr Zełenski.",
+        "W wywiadzie dla BBC zarzucił Amerykanom, że podczas rozmów pokojowych nie wywierają wystarczająco silnej presji na Rosję.",
+        "Za bardzo dziwny uznał fakt, że Donald Trump opublikował zdjęcie z Władimirem Putinem i nazwał go swoim przyjacielem."
+      ],
+      "extended_paragraphs": [
+        "- Szkoda, że skupili się na Bliskim Wschodzie i tam kierują większe siły - mówił o postawie Stanów Zjednoczonych prezydent Ukrainy Wołodymyr Zełenski. W wywiadzie dla BBC zarzucił Amerykanom, że podczas rozmów pokojowych nie wywierają wystarczająco silnej presji na Rosję. Za bardzo dziwny uznał fakt, że Donald Trump opublikował zdjęcie z Władimirem Putinem i nazwał go swoim przyjacielem.",
+        "Wołodymyr Zełenski udzielił wywiadu BBC w swoim biurze w Kijowie. W trakcie rozmowy przyznał, że uważa za \"bardzo dziwny\" fakt, iż prezydent USA Donald Trump opublikował swoje zdjęcie z przywódcą Rosji Władimirem Putinem i nazwał go \" swoim przyjacielem \".",
+        "- Oczywiście to decyzja prezydenta Stanów Zjednoczonych, ale jest to dziwne . On (Putin) jest agresorem i mordercą, nie może być przyjacielem. Po prostu nie może - powiedział Zełenski. Dodał, że to tak, jakby robić sobie zdjęcie z Adolfem Hitlerem w czasie II wojny światowej.",
+        "Prezydent Ukrainy odniósł się także do ostatniej rundy rozmów pokojowych , które odbyły się na początku tego miesiąca w Abu Zabi , ale nie przyniosły wyraźnego postępu. - Im więcej wiemy, tym więcej pojawia się problemów - skomentował i zaznaczył, że wznowienie negocjacji planowane jest na grudzień.",
+        "Zełenski podkreślił też, że nadal nie jest jasne, czy - wbrew zapowiedziom amerykańskich wysłanników Jareda Kushnera i Steve'a Witkoffa - w kolejnych rozmowach wezmą udział przedstawiciele państw europejskich. Jego zdaniem Kreml cały czas sprzeciwia się temu. Zaapelował przy tym do Stanów Zjednoczonych, by potwierdziły swoją pozycję państwa silnego, cieszącego się \"władzą i szacunkiem\"."
+      ]
+    },
+    {
+      "id": "swiat-6-4da504",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1638,7 +1902,7 @@
       "time": "19:26",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cda3/live/d6364450-ea2b-11f1-a094-5fdc692f3e33.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
@@ -1652,175 +1916,235 @@
         "Setki lotów zostało odwołanych, a setki tysięcy pozbawionych prądu w stanach takich jak Wirginia, Karolina Północna i New Jersey.",
         "Udostępnij zamknij panel Udostępnij stronę Skopiuj link Informacje o udostępnianiu Tematy pokrewne Stany Zjednoczone Obserwuj Stany Zjednoczone"
       ]
-    },
-    {
-      "id": "swiat-3-7beedd",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "BBC stwierdza, że niemiecki handlarz łodziami podejrzany o zaopatrywanie gangów przemytniczych w kanale La Manche",
-      "original_title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "05:00",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Prawie jedna trzecia przepraw na początku 2026 r. rzekomo dotyczyła łodzi lub silników firmy Niemca.",
-        "Władze europejskie podejrzewają, że niemiecki handlarz łodziami jest kluczowym dostawcą dla przemytników migrantów działających na kanale La Manche – może ujawnić BBC.",
-        "Z akt, które widzieliśmy, wynika, że ​​prawie jedna trzecia przepraw małych łodzi w pierwszych czterech miesiącach tego roku rzekomo dotyczyła łodzi lub silników MaReBoote, małej firmy z zachodnich Niemiec."
-      ],
-      "extended_paragraphs": [
-        "Prawie jedna trzecia przepraw na początku 2026 r. rzekomo dotyczyła łodzi lub silników firmy Niemca.",
-        "Władze europejskie podejrzewają, że niemiecki handlarz łodziami jest kluczowym dostawcą dla przemytników migrantów działających na kanale La Manche – może ujawnić BBC.",
-        "Z akt, które widzieliśmy, wynika, że ​​prawie jedna trzecia przepraw małych łodzi w pierwszych czterech miesiącach tego roku rzekomo dotyczyła łodzi lub silników MaReBoote, małej firmy z zachodnich Niemiec.",
-        "Dyrektor zarządzający, Marvin Reuter, sprzeciwia się ekstradycji do Francji, gdzie grozi mu zarzut przemytu, spisku karnego i nieumyślnego spowodowania śmierci.",
-        "Podejrzewa się, że jego sprzęt ma związek z dwoma śmiertelnymi wypadkami, w których zginęło czterech mężczyzn."
-      ]
-    },
-    {
-      "id": "swiat-4-4e56fb",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Obejrzyj: BBC rozmawia z Niemcem podejrzanym o zaopatrywanie gangów migrantów w małe łódki",
-      "original_title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "05:00",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Marvin Reuter sprzeciwia się ekstradycji do Francji, gdzie może zostać oskarżony o przemyt, spisek kryminalny i nieumyślne spowodowanie śmierci.",
-        "Obejrzyj: BBC rozmawia z Niemcem podejrzanym o zaopatrywanie małych łódek dla gangów migrantów.",
-        "Zamknij Podejrzewa się, że niemiecki handlarz łodziami jest kluczowym dostawcą dla przemytników migrantów działających na kanale La Manche, jak może ujawnić BBC."
-      ],
-      "extended_paragraphs": [
-        "Marvin Reuter sprzeciwia się ekstradycji do Francji, gdzie może zostać oskarżony o przemyt, spisek kryminalny i nieumyślne spowodowanie śmierci.",
-        "Obejrzyj: BBC rozmawia z Niemcem podejrzanym o zaopatrywanie małych łódek dla gangów migrantów. Zamknij Podejrzewa się, że niemiecki handlarz łodziami jest kluczowym dostawcą dla przemytników migrantów działających na kanale La Manche, jak może ujawnić BBC.",
-        "Z akt, które widzieliśmy, wynika, że ​​prawie jedna trzecia przepraw małych łodzi do Wielkiej Brytanii w pierwszych czterech miesiącach 2026 r. rzekomo odbywała się na łodziach lub silnikach MaReBoote, małej firmy z zachodnich Niemiec.",
-        "Dyrektor zarządzający, Marvin Reuter, sprzeciwia się ekstradycji do Francji, gdzie grozi mu zarzut przemytu, spisku karnego i nieumyślnego spowodowania śmierci.",
-        "Podejrzewa się, że jego sprzęt ma związek z dwoma śmiertelnymi wypadkami, w których zginęło czterech mężczyzn."
-      ]
     }
   ],
   "sport": [
     {
-      "id": "sport-3-4fe0dc",
+      "id": "sport-2-3b13a1",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "key_metrics": [],
+      "title": "Australijska sonda Sandpapergate obejmie także Ashes z lat 2017–2018",
+      "original_title": "Australia's sandpapergate probe to also include 2017-18 Ashes",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "07:47",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7a6d/live/390ab730-e9fc-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": true,
+      "summary_points": [
+        "Nowe niezależne dochodzenie Cricket Australia w sprawie skandalu z piaskiem zostało poszerzone o serię Ashes 2017-18 przeciwko Anglii.",
+        "Opublikowano regulamin niezależnego forum, którego zakres będzie obejmował „praktyki zarządzania piłką w australijskiej drużynie mężczyzn w sezonie 2017–18”, co obejmuje wygraną Australii 4:0 w serii Ashes.",
+        "Uwzględniono także wszystkie cztery testy z późniejszej trasy koncertowej w Republice Południowej Afryki oraz śledztwo, które miało miejsce po ujawnieniu skandalu z fałszowaniem piłek."
+      ],
+      "extended_paragraphs": [
+        "Nowe niezależne dochodzenie Cricket Australia w sprawie skandalu z piaskiem zostało poszerzone o serię Ashes 2017-18 przeciwko Anglii.",
+        "Opublikowano regulamin niezależnego forum, którego zakres będzie obejmował „praktyki zarządzania piłką w australijskiej drużynie mężczyzn w sezonie 2017–18”, co obejmuje wygraną Australii 4:0 w serii Ashes.",
+        "Uwzględniono także wszystkie cztery testy z późniejszej trasy koncertowej w Republice Południowej Afryki oraz śledztwo, które miało miejsce po ujawnieniu skandalu z fałszowaniem piłek.",
+        "Cricket Australia zobowiązała się opublikować pełny niezależny raport i zalecenia w ciągu 30 dni od ich otrzymania.",
+        "Wszystkie osoby zaangażowane w podróż Australii po Republice Południowej Afryki w 2018 r. zostaną zaproszone do zabrania głosu na niezależnym forum, choć żadna z nich nie będzie musiała tego robić i nie zostaną nałożone żadne sankcje z mocą wsteczną."
+      ]
+    },
+    {
+      "id": "sport-6-f448c8",
       "entity_tag": "Piłka Nożna",
       "sector": "Sport Międzynarodowy",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna (kluczowe liczby: 150 tys., 5,135 mln euro, 4,31 mln) o wpływie sklasyfikowanym jako HIGH.",
-      "key_metrics": [
-        "150 tys.",
-        "5,135 mln euro",
-        "4,31 mln"
-      ],
-      "title": "Lech i Jaga z bonusami. Oto stan ich kont",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:41",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286305/lech-i-jaga-z-bonusami-oto-stan-ich-kont",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6ada630a82b9f3_70690602.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": true,
-      "summary_points": [
-        "Zarówno Lech Poznań, jak i Jagiellonia Białystok powiększyły w czwartek stan swoich kont.",
-        "Oba polskie kluby zapracowały na premię w Lidze Europy.",
-        "1 Komentarz Zarówno Lech Poznań, jak i Jagiellonia Białystok powiększyły w czwartek stan swoich kont."
-      ],
-      "extended_paragraphs": [
-        "Zarówno Lech Poznań, jak i Jagiellonia Białystok powiększyły w czwartek stan swoich kont. Oba polskie kluby zapracowały na premię w Lidze Europy.",
-        "1 Komentarz Zarówno Lech Poznań, jak i Jagiellonia Białystok powiększyły w czwartek stan swoich kont. Oba polskie kluby zapracowały na premię w Lidze Europy.",
-        "\"Kolejorz\" zremisował na wyjeździe z Royale Union Saint-Gilloise (2:2), zaś ekipa Adriana Siemieńca osiągnęła podobny wynik w Anglii przeciwko Sunderlandowi (1:1).",
-        "Na konto naszych pucharowiczów wpłynęło po 150 tys. w unijnej walucie (za zwycięstwo UEFA płaci trzykrotność tej kwoty).",
-        "Lech zainkasował dotąd 5,135 mln euro. Na ten dorobek składają się bonusy z eliminacji, 4,31 mln za awans do jesiennej części zmagań i 300 tys. za wyniki tamże."
-      ]
-    },
-    {
-      "id": "sport-8-be59cf",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Taylor i Lewis po powrocie przegrywają wszystkie pięć meczów w parach",
-      "original_title": "Taylor and Lewis lose all five pairs matches on return",
+      "title": "Właściciele Man City powinni zostać zmuszeni do sprzedaży, uważają szefowie rywalizujących klubów",
+      "original_title": "Man City owners should be forced to sell, say rival club chiefs",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:11",
+      "time": "06:38",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/darts/articles/cm9q8y09xgdno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b712/live/624932f0-e9db-11f1-9361-cd8ed0157587.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/483b/live/e37d1e90-e9e0-11f1-9361-cd8ed0157587.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Phil Taylor i jego kolega z drużyny z Anglii, Adrian Lewis, przegrywają wszystkie pięć meczów po powrocie do gry w rzutki podczas międzynarodowego turnieju par MODUS Super Series.",
-        "Taylor, 16-krotny mistrz świata, wycofał się z gry w rzutki seniorów w 2018 r., a Lewis nie brał udziału w trasie PDC od 2023 r. Podpisali kontrakt na turniej w Portsmouth po tym, jak Taylor poczuł pokusę powrotu do gry u boku swojego wieloletniego przyjaciela.",
-        "66-latek swoją pierwszą rzutką trafił w doublet, sprawdzając wynik 84, ale duet przegrał swój pierwszy mecz 4:3 ze Szkotami Johnem Hendersonem i Robertem Thorntonem."
+        "Właściciele Manchesteru City muszą zostać zmuszeni do sprzedaży klubu w ramach kary za złamanie zasad finansowych, mówią BBC Sport przedstawiciele niektórych klubów Premier League.",
+        "Redaktor sportowy Opublikowano 2 godziny temu Właściciele Manchesteru City muszą zostać zmuszeni do sprzedaży klubu w ramach kary za złamanie zasad finansowych, powiedziały BBC Sport starsze osobistości z klubów Premier League.",
+        "W tym tygodniu przewodniczący niezależnego organu regulacyjnego ds."
       ],
       "extended_paragraphs": [
-        "Phil Taylor i jego kolega z drużyny z Anglii, Adrian Lewis, przegrywają wszystkie pięć meczów po powrocie do gry w rzutki podczas międzynarodowego turnieju par MODUS Super Series.",
-        "Taylor, 16-krotny mistrz świata, wycofał się z gry w rzutki seniorów w 2018 r., a Lewis nie brał udziału w trasie PDC od 2023 r.",
-        "Podpisali kontrakt na turniej w Portsmouth po tym, jak Taylor poczuł pokusę powrotu do gry u boku swojego wieloletniego przyjaciela.",
-        "66-latek swoją pierwszą rzutką trafił w doublet, sprawdzając wynik 84, ale duet przegrał swój pierwszy mecz 4:3 ze Szkotami Johnem Hendersonem i Robertem Thorntonem.",
-        "Następnie ponieśli kolejne porażki z parami ze Szwecji, Szwajcarii, Niemiec i Danii."
+        "Właściciele Manchesteru City muszą zostać zmuszeni do sprzedaży klubu w ramach kary za złamanie zasad finansowych, mówią BBC Sport przedstawiciele niektórych klubów Premier League.",
+        "Redaktor sportowy Opublikowano 2 godziny temu Właściciele Manchesteru City muszą zostać zmuszeni do sprzedaży klubu w ramach kary za złamanie zasad finansowych, powiedziały BBC Sport starsze osobistości z klubów Premier League.",
+        "W tym tygodniu przewodniczący niezależnego organu regulacyjnego ds. piłki nożnej (IFR) David Kogan stwierdził, że ma „brzuch”, aby podjąć działania przeciwko City, które zaprzecza wszelkim nieprawidłowościom i złożyło apelację.",
+        "IFR ma prawo usunąć dyrektorów klubu, jeśli uzna ich za nieodpowiednich, a w najpoważniejszych przypadkach nawet wymusić sprzedaż.",
+        "Teraz dyrektorzy trzech najwyższej klasy rywali powiedzieli BBC, że ich zdaniem jest to odpowiednia kara dla City, które uznano za winne naruszenia przepisów finansowych Premier League w latach 2009–2018 i braku współpracy w dochodzeniu."
       ]
     },
     {
-      "id": "sport-1-75f734",
+      "id": "sport-7-82cda8",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako MEDIUM.",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako HIGH.",
       "key_metrics": [],
-      "title": "Problemy jeszcze przed startem. Wiatr znów daje o sobie znać w Ruce",
+      "title": "Odważna decyzja i problem Polaka. Ujawnił kulisy zmian",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "22:59",
+      "time": "08:26",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/skoki-narciarskie/1286336/problemy-jeszcze-przed-startem-wiatr-znow-daje-o-sobie-znac-w-ruce",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b08b9af9a3f17_92023523.jpg",
+      "source_url": "https://sportowefakty.wp.pl/la/1286231/odwazna-decyzja-i-problem-polaka-mysli-o-sprzedazy-samochodu",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b081060dcafd1_20856101.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Puchar Świata jeszcze na dobre nie ruszył w Ruce, a organizatorzy już musieli zmieniać plany.",
-        "Silny wiatr storpedował treningi, a prognozy przed weekendem nadal nie pozwalają spać spokojnie.",
-        "Skomentuj Puchar Świata jeszcze na dobre nie ruszył w Ruce, a organizatorzy już musieli zmieniać plany."
+        "- Moje finanse nie pokryją całych kosztów przygotowań.",
+        "Może będę musiał sprzedać samochód - mówi nam Albert Komański.",
+        "Polski sprinter zdecydował się na wielką zmianę w swojej karierze, która jednak wiąże się z dużymi nakładami."
       ],
       "extended_paragraphs": [
-        "Puchar Świata jeszcze na dobre nie ruszył w Ruce, a organizatorzy już musieli zmieniać plany. Silny wiatr storpedował treningi, a prognozy przed weekendem nadal nie pozwalają spać spokojnie.",
-        "Skomentuj Puchar Świata jeszcze na dobre nie ruszył w Ruce, a organizatorzy już musieli zmieniać plany. Silny wiatr storpedował treningi, a prognozy przed weekendem nadal nie pozwalają spać spokojnie.",
-        "Pierwsze problemy pojawiły się już w środę, gdy odwołano wolny trening skoczków. W czwartek sytuacja się powtórzyła. Ze względu na wiatr FIS skreśliła z programu popołudniową sesję treningową, a także część rywalizacji w kombinacji norweskiej.",
-        "Na razie oficjalny plan na piątek pozostaje bez zmian. Trening mężczyzn ma rozpocząć się o 14:45, a kwalifikacje o 17:15. FIS zastrzegła jednak, że sytuacja jest monitorowana i ewentualne korekty programu mogą zostać ogłoszone później.",
-        "Prognozy na dni konkursowe są nieco lepsze, ale nadal dalekie od idealnych. W piątek wiatr może osiągać około 5 m/s, w sobotę około 4 m/s, a w niedzielę około 3 m/s. Największym problemem mogą być jednak nie same wartości, lecz podmuchy i zmienny kierunek wiatru."
+        "- Moje finanse nie pokryją całych kosztów przygotowań. Może będę musiał sprzedać samochód - mówi nam Albert Komański. Polski sprinter zdecydował się na wielką zmianę w swojej karierze, która jednak wiąże się z dużymi nakładami.",
+        "Skomentuj - Moje finanse nie pokryją całych kosztów przygotowań. Może będę musiał sprzedać samochód - mówi nam Albert Komański. Polski sprinter zdecydował się na wielką zmianę w swojej karierze, która jednak wiąże się z dużymi nakładami.",
+        "W 2020 roku kolejna kontuzja wywołała u niego taką wściekłość, że niemal z dnia na dzień spakował się i wyjechał do pracy za granicę, by zarobić na wymarzone BMW. Niespodziewanie, kilkumiesięczna przerwa w treningach sprawiła, że szybko po powrocie do sportu pobił rekord życiowy, a jego kariera nabrała rozpędu.",
+        "Po sześciu latach Albert Komański, czołowy polski sprinter, liczy, że zmiany znów wywołają pozytywny efekt. Niedawno zawodnik zdecydował się dołączyć do słynnej grupy Team Air, w której pod okiem trenera Marco Airale trenują takie gwiazdy jak Amy Hunt (czterokrotna złota medalistka mistrzostw Europy w Birmingham) czy Timothe Mumenthaler (mistrz Europy w biegu na 200 metrów).",
+        "26-latek ma tylko jeden problem - finanse. Brak sponsora sprawił, że współpraca z nowym szkoleniowcem nie może się jeszcze odbywać tak, jak sobie to zaplanował. Żeby było go na to stać, myśli nawet o sprzedaży samochodu."
       ]
     },
     {
-      "id": "sport-2-e7dfeb",
+      "id": "sport-1-ae503a",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Nie chciał oddać karnego Polakowi i go zmarnował. Mazurek tak to skomentował",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:43",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286370/nie-chcial-oddac-karnego-polakowi-i-go-zmarnowal-mazurek-tak-to-skomentowal",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0942259dd146_87237480.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Bartosz Mazurek strzelił gola i wypracował drugą bramkę dla Red Bulla Salzburg, który pokonał Ararat-Armenia 2:0 w meczu Ligi Europy.",
+        "Polak chciał jeszcze rzut karny, ale Karim Konate mu na to nie pozwolił.",
+        "Po spotkaniu tak skomentował to Mazurek."
+      ],
+      "extended_paragraphs": [
+        "Bartosz Mazurek strzelił gola i wypracował drugą bramkę dla Red Bulla Salzburg, który pokonał Ararat-Armenia 2:0 w meczu Ligi Europy. Polak chciał jeszcze rzut karny, ale Karim Konate mu na to nie pozwolił. Po spotkaniu tak skomentował to Mazurek.",
+        "Skomentuj Bartosz Mazurek strzelił gola i wypracował drugą bramkę dla Red Bulla Salzburg, który pokonał Ararat-Armenia 2:0 w meczu Ligi Europy. Polak chciał jeszcze rzut karny, ale Karim Konate mu na to nie pozwolił. Po spotkaniu tak skomentował to Mazurek.",
+        "Polak był bohaterem czwartkowego meczu Ligi Europy w Salzburgu. Red Bull przeważał od pierwszej minuty, ale długo musiał czekać na to, by udokumentować to golem. Wyróżniającą się postacią w austriackiej ekipie był Bartosz Mazurek .",
+        "Polak już w pierwszej połowie miał szansę na zdobycie bramki, ale zabrakło skuteczności. Przełom nastąpił tuż po zmianie stron. W 47. minucie Leandro Morgalla ograł dwóch rywali i podał do Mazurka, który z około 10 metrów trafił w górny róg bramki.",
+        "Cztery minuty później polski pomocnik uderzył z dystansu, a po rykoszecie od Maxence'a Carliera piłka ponownie znalazła się w siatce. Trafienie zapisano jako samobójcze."
+      ]
+    },
+    {
+      "id": "sport-3-1cf4e5",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Świetne wieści dla Barcelony. Gwiazdor wraca do gry",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:41",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286369/swietne-wiesci-dla-barcelony-gwiazdor-wraca-do-gry",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b094178ca6987_65864742.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Rodri może wrócić do gry już w niedzielę przeciwko Deportivo.",
+        "Szansę na powrót ma też Andreas Christensen.",
+        "Hansi Flick w Baku oszczędził Lamine’a Yamala, a Pedriego zdjął w przerwie."
+      ],
+      "extended_paragraphs": [
+        "Rodri może wrócić do gry już w niedzielę przeciwko Deportivo. Szansę na powrót ma też Andreas Christensen. Hansi Flick w Baku oszczędził Lamine’a Yamala, a Pedriego zdjął w przerwie. Za chwilę Barcelonę czekają mecze z Atletico i Manchesterem City.",
+        "Skomentuj Rodri może wrócić do gry już w niedzielę przeciwko Deportivo. Szansę na powrót ma też Andreas Christensen. Hansi Flick w Baku oszczędził Lamine’a Yamala, a Pedriego zdjął w przerwie. Za chwilę Barcelonę czekają mecze z Atletico i Manchesterem City.",
+        "FC Barcelona wróciła z Baku z wygraną 4:1 i teraz w ciągu czterech dni rozegra dwa mecze ligowe. W niedzielę zmierzy się z Deportivo A Coruna na Riazor, a w środę z Atletico Madryt na Camo Nou. Według katalońskiego \"Sportu\" Hansi Flick liczy, że w pierwszym z tych spotkań będzie mógł dać Rodriemu kilka minut. Hiszpan opuścił trzy mecze po urazie mięśniowym, którego doznał 3 listopada przeciwko Aston Villi.",
+        "Po urazie w meczu z Ligi Mistrzów zakładano, że pomocnik może pauzować dłużej. Rehabilitacja Rodriego przebiega jednak na tyle dobrze, że Hiszpan ma szansę wrócić jeszcze w listopadzie. Jeśli sztab da mu zielone światło, w niedzielę na Riazor rozegra pierwsze minuty od kontuzji. To pozwoliłoby mu złapać rytm przed środowym starciem z Atletico.",
+        "Ewentualny powrót 30-latka pomógłby Hansiemu Flickowi w przygotowaniu piłkarzy do trudów spotkań z \"Los Colchoneros\", Celtą oraz Manchesterem City."
+      ]
+    },
+    {
+      "id": "sport-4-1c4e32",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Jak Fury i Joshua na zawsze zmienili brytyjski boks",
+      "original_title": "How Fury and Joshua changed British boxing forever",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "06:51",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cr62pg3n3p8vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f1a2/live/ffd4c670-e8c2-11f1-99a1-253766e7ad8b.png",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Przed długo oczekiwaną walką w wadze ciężkiej BBC Sport bada wpływ, jaki Tyson Fury i Anthony Joshua wywarli na brytyjski boks.",
+        "Teraz, po ponad dekadzie utrzymującego się napięcia i niekończących się debat, Tyson Fury i Anthony Joshua w końcu przygotowują się do wspólnego ringu.",
+        "Pochodzą z różnych światów, mają odmienne osobowości i zupełnie różne drogi na szczyt boksu wagi ciężkiej."
+      ],
+      "extended_paragraphs": [
+        "Przed długo oczekiwaną walką w wadze ciężkiej BBC Sport bada wpływ, jaki Tyson Fury i Anthony Joshua wywarli na brytyjski boks.",
+        "Teraz, po ponad dekadzie utrzymującego się napięcia i niekończących się debat, Tyson Fury i Anthony Joshua w końcu przygotowują się do wspólnego ringu.",
+        "Pochodzą z różnych światów, mają odmienne osobowości i zupełnie różne drogi na szczyt boksu wagi ciężkiej.",
+        "Fury to nieprzewidywalny showman, który zdetronizował pozornie niepokonanego mistrza. Joshua to złoty chłopak olimpijski, który stał się światową supergwiazdą.",
+        "Kto jest lepszy? Kto osiągnął więcej? Kłótnie toczyły się w pubach, salach bokserskich i w mediach społecznościowych."
+      ]
+    },
+    {
+      "id": "sport-5-ca66f2",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Włosi ocenili Zalewskiego. \"Rozkręca się powoli, niczym silnik\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:31",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286359/wlosi-ocenili-zalewskiego-rozkreca-sie-powoli-niczym-silnik",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b093f20d58152_78047715.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Nicola Zalewski miał swój udział w remontadzie, której w czwartek dokonała Atalanta w rozgrywkach Ligi Konferencji.",
+        "\"To typ zawodnika, który potrzebuje czasu, by wejść w mecz\" - piszą włoskie media, komentując grę Polaka.",
+        "Skomentuj Nicola Zalewski miał swój udział w remontadzie, której w czwartek dokonała Atalanta w rozgrywkach Ligi Konferencji."
+      ],
+      "extended_paragraphs": [
+        "Nicola Zalewski miał swój udział w remontadzie, której w czwartek dokonała Atalanta w rozgrywkach Ligi Konferencji. \"To typ zawodnika, który potrzebuje czasu, by wejść w mecz\" - piszą włoskie media, komentując grę Polaka.",
+        "Skomentuj Nicola Zalewski miał swój udział w remontadzie, której w czwartek dokonała Atalanta w rozgrywkach Ligi Konferencji. \"To typ zawodnika, który potrzebuje czasu, by wejść w mecz\" - piszą włoskie media, komentując grę Polaka.",
+        "W czwartkowy wieczór Atalanta zagrała na wyjeździe z Borac Banja Luką i choć jeszcze do 86. minuty przegrywała, to odniosła zwycięstwo 3:2. Włosi wykorzystali to, że bośniacki zespół kończył spotkanie w dziewięciu.",
+        "Nicola Zalewski rozegrał cały mecz, zatem uczestniczył w remontadzie swojej drużyny. Polski pomocnik nie zapisał na swoje konto gola czy asysty. Jak został oceniony?",
+        "Serwis tuttomercatoweb.com przyznał 24-latkowi notę 6 w dziesięciostopniowej skali. W argumentacji zaznaczono, że to jego sfaulował Sebastian Herrera i była to druga czerwona kartka dla gospodarzy tego wieczora."
+      ]
+    },
+    {
+      "id": "sport-8-e7dfeb",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -1850,139 +2174,83 @@
         "Jednak gole Alvaro Rodrigueza i Rayana w drugiej połowie zapewniły drużynie Cherries dziesiąte zwycięstwo z rzędu we wszystkich rozgrywkach, przedłużając ich klubową passę.",
         "Bournemouth jest dopiero trzecią drużyną, która wygrała każdy z pierwszych pięciu meczów w Europie (z wyłączeniem kwalifikacji i włączając Puchar Miast Targowych), po Norymberdze w latach 1961-62 i Ararat w latach 1972-73."
       ]
-    },
-    {
-      "id": "sport-4-af32fc",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Fury „nigdy nie otrzymał” diagnozy schizofrenii",
-      "original_title": "Fury 'never received' schizophrenia diagnosis",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "21:25",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1c8a/live/cc272240-e9c2-11f1-8d2a-f5d2aabc11cb.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Paris Fury, żona Tysona Fury'ego, twierdzi, że u boksera nigdy nie zdiagnozowano schizofrenii.",
-        "W klipach promujących premierę nadchodzącego filmu dokumentalnego Netflixa zawodnik wagi ciężkiej opowiadał o swoich zmaganiach ze zdrowiem psychicznym, które miały miejsce kilka miesięcy po tym, jak w 2015 roku pokonał Władimira Kliczkę i został mistrzem świata.",
-        "Szczegółowo opisał, że słyszy głosy w swojej głowie, a jego żona Paris stwierdziła, że cierpi na „łagodną schizofrenię”."
-      ],
-      "extended_paragraphs": [
-        "Paris Fury, żona Tysona Fury'ego, twierdzi, że u boksera nigdy nie zdiagnozowano schizofrenii.",
-        "W klipach promujących premierę nadchodzącego filmu dokumentalnego Netflixa zawodnik wagi ciężkiej opowiadał o swoich zmaganiach ze zdrowiem psychicznym, które miały miejsce kilka miesięcy po tym, jak w 2015 roku pokonał Władimira Kliczkę i został mistrzem świata.",
-        "Szczegółowo opisał, że słyszy głosy w swojej głowie, a jego żona Paris stwierdziła, że cierpi na „łagodną schizofrenię”.",
-        "W oświadczeniu Paris Fury powiedział: „Chcę wyjaśnić oświadczenie, które złożyłem w oryginalnej wersji filmu dokumentalnego o Tysonie Fury.",
-        "„Przypomniałem sobie rozmowę sprzed wielu lat, kiedy omawiałem stan Tysona i użyłem słowa «schizofrenia». Chociaż Tyson rzeczywiście wykazywał pewne objawy schizofrenii, nie cierpi na tę chorobę i nigdy nie postawiono mu diagnozy”."
-      ]
-    },
-    {
-      "id": "sport-5-2b2c11",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Aż złapał się za głowę. Jagiellonia wykorzystała prezent",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:26",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286330/az-zlapal-sie-za-glowe-jagiellonia-wykorzystala-prezent",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b08aaf662db84_17294164.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Prawdziwa katastrofa piłkarza Sunderlandu AFC.",
-        "Kamil Jóźwiak stanął przed wyśmienitą szansą, którą wykorzystał.",
-        "To było drugie i ostatnie już trafienie tego wieczoru."
-      ],
-      "extended_paragraphs": [
-        "Prawdziwa katastrofa piłkarza Sunderlandu AFC. Kamil Jóźwiak stanął przed wyśmienitą szansą, którą wykorzystał. To było drugie i ostatnie już trafienie tego wieczoru.",
-        "Skomentuj Prawdziwa katastrofa piłkarza Sunderlandu AFC. Kamil Jóźwiak stanął przed wyśmienitą szansą, którą wykorzystał. To było drugie i ostatnie już trafienie tego wieczoru.",
-        "Jagiellonia Białystok z cennym remisem na Wyspach Brytyjskich. Polska drużyna w ramach 5. kolejki Ligi Europy zremisowała z Sunderlandem AFC 1:1 (relacja z meczu TUTAJ ).",
-        "Mozambicki piłkarz występujący na pozycji obrońcy wykonał nonszalanckie, zbyt lekkie podanie do bramkarza Robina Roefsa. 32-latek aż złapał się za głowę.",
-        "28-latek zachował się w tej sytuacji wzorowo - minął bramkarza i posłał piłkę do bramki, doprowadzając do wyniku 1:1. Odpowiedź Jagiellonii na straconego gola była błyskawiczna, bo trwała zaledwie pięć minut."
-      ]
-    },
-    {
-      "id": "sport-6-b3a55f",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "India's Pant dołącza do meczu klubowego Nowej Zelandii pod fałszywym nazwiskiem",
-      "original_title": "India's Pant joins New Zealand club match under false name",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:21",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b9b/live/5d230c90-e9b0-11f1-859a-37130cd3a1d7.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Bramkarz Indii Rishabh Pant nieoczekiwanie dołącza do meczu klubowego w Christchurch przed drugim testem przeciwko Nowej Zelandii i zdobywa 54 z 21 piłek.",
-        "Bramkarz Indii Rishabh Pant niespodziewanie pojawił się w drużynie klubowej w Christchurch pod fałszywym nazwiskiem „Stan Stan”.",
-        "Pant (29 l.) grał w drużynie Open House Swingers przeciwko The Chosen Ones i w 16 rundach wygrał 54 z 21 piłek."
-      ],
-      "extended_paragraphs": [
-        "Bramkarz Indii Rishabh Pant nieoczekiwanie dołącza do meczu klubowego w Christchurch przed drugim testem przeciwko Nowej Zelandii i zdobywa 54 z 21 piłek.",
-        "Bramkarz Indii Rishabh Pant niespodziewanie pojawił się w drużynie klubowej w Christchurch pod fałszywym nazwiskiem „Stan Stan”.",
-        "Pant (29 l.) grał w drużynie Open House Swingers przeciwko The Chosen Ones i w 16 rundach wygrał 54 z 21 piłek.",
-        "Jego występ miał miejsce dzień przed drugim testem Indii przeciwko Nowej Zelandii, który rozpoczyna się w czwartek na stadionie Hagley Oval o 22:00 GMT.",
-        "Zawodnik Open House Mohammad Safi powiedział New Zealand Herald, że widział w mieście Panta na rowerze elektrycznym, więc podszedł do niego i powiedział, że w jego drużynie brakuje zawodników."
-      ]
-    },
-    {
-      "id": "sport-7-da718c",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "To było nieuniknione. King musiał podjąć taką decyzję",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:26",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/koszykowka/1286331/to-bylo-nieuniknione-king-musial-podjac-taka-decyzje",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b08b1f3ad5ea4_61320349.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Cierpliwość się skończyła, a Patrick McCaffery nie jest już zawodnikiem Kinga Szczecin.",
-        "Trener Maciej Majcherek od dłuższego czasu \"zagadywał\" o wzmocnienie składu i w końcu się doczekał.",
-        "Skomentuj Cierpliwość się skończyła, a Patrick McCaffery nie jest już zawodnikiem Kinga Szczecin."
-      ],
-      "extended_paragraphs": [
-        "Cierpliwość się skończyła, a Patrick McCaffery nie jest już zawodnikiem Kinga Szczecin. Trener Maciej Majcherek od dłuższego czasu \"zagadywał\" o wzmocnienie składu i w końcu się doczekał.",
-        "Skomentuj Cierpliwość się skończyła, a Patrick McCaffery nie jest już zawodnikiem Kinga Szczecin. Trener Maciej Majcherek od dłuższego czasu \"zagadywał\" o wzmocnienie składu i w końcu się doczekał.",
-        "Stało się to, co tak naprawdę stać się musiało. Patrick McCaffery nie spełniał oczekiwań i musiał pożegnać się z Kingiem Szczecin . Średnie na poziomie 2,9 punktu i 1,6 zbiórki na mecz w PGE Basket Lidze nie mogły satysfakcjonować.",
-        "Trener Maciej Majcherek poszukiwał zawodnika, który da Kingowi jakość. I gdy w końcu dostał zielone światło na ruch, wrócił do Javana Johnsona, którego chciał już latem. Teraz się udało.",
-        "- Był naszą pierwszą opcją transferową na pozycję numer trzy przed tym sezonem. Z różnych względów do tego podpisu nie doszło. Teraz wiedzieliśmy, że jest wolny i zdecydowaliśmy się na zawarcie umowy - zdradził szkoleniowiec, który jeszcze niedawno wspominał, że skarbiec jest pusty na dokonanie roszad."
-      ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-8592f4",
+      "id": "rynki-1-76f26f",
+      "entity_tag": "Rynek Krypto",
+      "sector": "Aktywa Cyfrowe",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Krypto (Aktywa Cyfrowe) (kluczowe liczby: 13 mln, 1,6 mld, 8,8 mld) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "13 mln",
+        "1,6 mld",
+        "8,8 mld"
+      ],
+      "title": "Bitcoinowy gigant wypada z kluczowych indeksów. Akcje Strategy pod presją",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Bitcoinowy-gigant-wypada-z-kluczowych-indeksow-Akcje-Strategy-pod-presja-9235989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/4/c/9202baa1668332-948-568-0-20-4000-2399.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": true,
+      "summary_points": [
+        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World.",
+        "Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
+        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake."
+      ],
+      "extended_paragraphs": [
+        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World. Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
+        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake. Na nową listę obserwacyjną trafiła z kolei gromadząca ethereum spółka SharpLink, co oznacza dla niej ostrzeżenie i ryzyko wykluczenia przy kolejnej rewizji indeksów.",
+        "Wykluczenie z indeksów MSCI oznacza, że fundusze pasywne oraz ETF-y odwzorowujące te wskaźniki będą musiały automatycznie pozbyć się walorów Strategy po zamknięciu sesji 30 listopada (zmiany wejdą w życie 1 grudnia).",
+        "Jak wynika z szacunków samej spółki Strategy, przymusowa podaż ze strony funduszy śledzących MSCI może objąć około 13 mln akcji o wartości rzędu 1,6 mld dol. Większe ryzyko wiąże się z efektem domina - analitycy JPMorgan oceniali wcześniej, że gdyby śladem MSCI poszli kolejni dostawcy indeksów, odpływ kapitału ze Strategy mógłby sięgnąć nawet 8,8 mld dol.",
+        "Sama spółka już wcześniej próbowała zablokować te zmiany, nazywając w formalnym piśmie kryteria MSCI \"pretekstem\" i wskazując, że odpowiada za około 87% kapitalizacji wszystkich sześciu wykluczanych podmiotów."
+      ]
+    },
+    {
+      "id": "rynki-3-a8d158",
+      "entity_tag": "XTB (GPW: XTB)",
+      "sector": "Fintech & Brokerzy",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla XTB (GPW: XTB) (Fintech & Brokerzy) (kluczowe liczby: 3,79 mld dolarów, 32,5 mln, 44,9 mln) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "3,79 mld dolarów",
+        "32,5 mln",
+        "44,9 mln"
+      ],
+      "title": "99/100 od krytyków i zaledwie 5,7 od graczy. Dwie twarze głośnej premiery GTA VI",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "06:00",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/99-100-od-krytykow-i-zaledwie-5-7-od-graczy-Dwie-twarze-glosnej-premiery-GTA-VI-9235992.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/1/9/1f2c69b1bb9f41-948-568-18-92-3681-2208.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej.",
+        "Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent.",
+        "Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu."
+      ],
+      "extended_paragraphs": [
+        "Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej. Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent. Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu. Czy inwestorzy powinni się przejmować rozjazdem recenzji graczy oraz krytyków, skoro dane sprzedażowe z pierwszych dni wyglądają świetnie?",
+        "fot. Mateusz Slodkowski / / FORUM Z perspektywy liczb debiut GTA VI to wydarzenie bez precedensu w historii popkultury. Według szacunków Take-Two produkcja wygenerowała 3,79 mld dolarów sprzedaży detalicznej brutto w przedsprzedaży oraz w samym dniu premiery, rozchodząc się w nakładzie 32,5 mln egzemplarzy jeszcze przed oficjalnym otwarciem serwerów.",
+        "W ciągu pierwszych czterech dni od premiery (wraz z weekendem otwarcia) sprzedaż sięgnęła około 44,9 mln kopii , a samo Sony poinformowało, że w tym czasie grę na konsolach PlayStation 5 uruchomiło ponad 39 mln unikalnych użytkowników , wliczając w to dostęp w ramach abonamentów i promocji. Gra zarobiła w pierwszej dobie 3,2 razy więcej niż GTA V i ponad trzykrotnie przebiła kinowy weekend otwarcia superprodukcji „Avengers: Endgame” , który przyniósł 1,22 mld dolarów . Oficjalne statystyki bez trudu zmiażdżyły zarówno wcześniejsze szacunki analityczne Sensor Tower na poziomie 2,36 mld dolarów , jak i bardzo ambitne prognozy domu maklerskiego Wedbush, zakładające 3 mld dolarów do końca roku, porównuje Mateusz Czyżkowski z XTB.",
+        "XTB, Take-Two Już pierwszy dzień pokrył 57 procent najbardziej optymistycznego scenariusza Bloomberga na całe dwanaście miesięcy, zakładającego 6,7 mld dolarów przy 60 mln sprzedanych kopii . Przy utrzymaniu świątecznego impetu całoroczne przychody kontraktowe mogą sięgnąć nawet 8,7 mld dolarów . Wcześniejsze zapowiedzi prezesa Take-Two Straussa Zelnicka, mówiące o 3,35–3,50 mld dolarów przychodów kontraktowych w całym kwartale świątecznym oraz 8,0–8,2 mld dolarów w roku obrotowym 2027, wyglądają dziś na klasyczne, celowe zaniżanie oczekiwań rynku.",
+        "Wszystko wygląda świetnie i tak, jak można było się spodziewać po recenzjach branży, opublikowanych tuż przed premierą gry . Na podstawie recenzji profesjonalnych krytyków gra uzyskała zawrotną średnią 99 na 100 punktów , co oficjalnie czyni ją najwyżej ocenianą produkcją w historii branży gier wideo ."
+      ]
+    },
+    {
+      "id": "rynki-5-8592f4",
       "entity_tag": "Wall Street (USA)",
       "sector": "Rynki Globalne",
       "market_impact": "HIGH",
@@ -2003,7 +2271,7 @@
       "source_url": "https://www.bankier.pl/wiadomosc/Bez-Wall-Street-gieldy-w-gore-Text-i-Grupa-Azoty-z-mocnymi-wzrostami-9235839.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
       "image_url": "https://galeria.bankier.pl/p/b/4/a42ca6f1319839-945-560-7-78-1492-895.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
         "Odreagowanie na GPW po ostatnich spadkach spowodowało, że indeks WIG20 powrócił powyżej psychologicznego poziomu 4 000 punktów, wspierany przez świetne nastroje na głównych europejskich parkietach oraz odbicie cen miedzi.",
         "Nie było jednak presji inwestorów z Wall Street, którzy świętowali w czwartek Dzień Dziękczynienia, ale dzień wcześniej zasiali na rynku nieco optymizmu.",
@@ -2015,76 +2283,6 @@
         "W czwartek, ze względu na obchody Święta Dziękczynienia, amerykański rynek kasowy pozostawał zamknięty. Warto jednak pamiętać, że impuls do poprawy nastrojów popłynął zza oceanu jeszcze w środę wieczorem, już po zamknięciu handlu na Starym Kontynencie. Wówczas główne indeksy na Wall Street, zdołały odrobić zdecydowaną większość wcześniejszych dziennych strat , co ustawiło poranny sentyment w Europie.",
         "W rezultacie wszystkie najważniejsze parkiety Starego Kontynentu świeciły w czwartek na zielono. W momencie końcowego gongu w Warszawie niemiecki DAX zyskiwał 2,1 proc. , brytyjski FTSE 100 rósł o 1,9 proc. , a francuski CAC 40 zwyżkował o 1,8 proc. Warszawska giełda wpisała się zatem idealnie w europejską falę zakupów.",
         "Zdaniem rynkowych ekspertów czwartkowa poprawa nastrojów miała w dużej mierze charakter technicznego odbicia. – Dzisiejsza poprawa ma przede wszystkim charakter techniczny. Inwestorzy wracają do tańszych spółek technologicznych w Azji, a rynki wschodzące handlują z najwyższym od co najmniej dwóch dekad dyskontem do S&P500. EUR/USD stabilizuje się w okolicach 1,097, co zdejmuje część presji z walut regionu. Do tego dochodzi Święto Dziękczynienia: amerykańskie rynki są dziś zamknięte – ocenił w komentarzu rynkowym Michał Stajniak, wicedyrektor działu analiz w XTB."
-      ]
-    },
-    {
-      "id": "rynki-3-86491c",
-      "entity_tag": "GPW w Warszawie",
-      "sector": "Rynek Kapitałowy",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 0,85%) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "0,85%"
-      ],
-      "title": "OKI bez lukru. Kiedy nowe konto może się nie opłacać?",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "06:00",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/8/6/41c9d7ccbd1c63-948-568-0-162-2400-1439.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi.",
-        "Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
-        "fot. Patrick Fore / / Unsplash Osobiste Konta Inwestycyjne są prawnym opakowaniem rachunku inwestycyjnego (lub lokaty bankowej czy funduszu), który uprawnia do bezwzględnego zwolnienia z podatku Belki nie tylko zysków kapitałowych, ale też przychodów odsetkowych, dywidend czy realizacji dyskonta z obligacji."
-      ],
-      "extended_paragraphs": [
-        "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi. Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
-        "fot. Patrick Fore / / Unsplash Osobiste Konta Inwestycyjne są prawnym opakowaniem rachunku inwestycyjnego (lub lokaty bankowej czy funduszu), który uprawnia do bezwzględnego zwolnienia z podatku Belki nie tylko zysków kapitałowych, ale też przychodów odsetkowych, dywidend czy realizacji dyskonta z obligacji. W tym sensie OKI są podobne do IKE/IKZE. Różnica jest jedna ale zasadnicza. O ile w systemie IKE/IKZE ceną za zwolnienie z Belki jest przetrzymanie kapitału aż do starości (60/65 lat), o tyle w OKI ceną jest nowy podatek od wartości zgromadzonych nań aktywów.",
-        "Odpowiedź na to pytanie jest akurat prosta i jednoznaczna: tak i to tak szybko, jak to tylko możliwe . Ale z wpłacaniem pieniędzy i ich inwestowaniem w ramach OKI trzeba uważać. Generalnie inwestując tylko w polskie akcje (GPW i NC) i obligacje (Catalyst) kwoty niższe od 100 000 złotych OKI nie ma sobie równych. Zapewnia pełną elastyczność i dowolność wpłat oraz wypłat, nie narzuca większych ograniczeń inwestycyjnych (nie wolno tylko kryptowalut i instrumentów pochodnych), nie ma limitów wpłat (jak na IKE czy IKZE) oraz nie musimy zamrażać kapitału na długie lata.",
-        "Opłacalność trzymania na OKI kwot przekraczających sto tysięcy złotych zależy od kilku czasem zupełnie nieprzewidywalnych) czynników. Absolutnie podstawową (i nieznaną w momencie rozpoczęcia inwestycji) jest przyszła zrealizowana stopa zwrotu. Tu zasada jest prosta: im wyższa stopa zwrotu, tym bardziej opłaca się OKI w porównaniu ze zwykłym, „obelkowanym” rachunkiem. Co więcej, w takim wypadku im wyższa jest zainwestowana kwota, tym korzyść podatkowa jest większa. Kwestię tą ilustruje poniższa tabela zbudowana w oparciu o założenie, że podatek od aktywów wynosi 0,85% (czyli tyle ile wyniesie w 2027 roku).",
-        "Po trzecie, od założonego horyzontu czasowego. Podstawową zaletą podatku Belki (nigdy do głowy mi nie przyszło, że będę pisał o zaletach tej niemoralnej i bardzo szkodliwej daniny ) jest to, że płaci się go tylko raz. Tj. tylko raz od zrealizowanych w danym roku zysków . Natomiast podatek od aktywów będzie się płaciło co roku! I to nawet wtedy jeśli danym roku osiągnąłeś stratę! Dlatego też w przypadku długoterminowego pasywnego inwestowania najprawdopodobniej bardziej opłacać się będą rachunki IKE/IKZE, a w niektórych przypadkach nawet reżym belkowy."
-      ]
-    },
-    {
-      "id": "rynki-5-7bfe42",
-      "entity_tag": "Orlen (GPW: PKN)",
-      "sector": "Energetyka & Paliwa",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Orlen (GPW: PKN) (Energetyka & Paliwa) (kluczowe liczby: 2,84 mld zł, 2,38 mld zł, 3,85 proc.) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "2,84 mld zł",
-        "2,38 mld zł",
-        "3,85 proc."
-      ],
-      "title": "Orlen, KGHM i PKO liderami wyprzedaży dużych spółek. Ich indeks znów poniżej 4000 pkt i na poziomie z września",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:18",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Orlen-KGHM-i-PKO-liderami-wyprzedazy-duzych-spolek-WIG20-znow-ponizej-4000-pkt-i-na-poziomie-z-wrzesnia-9235097.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/4/7/89fdbae91e6dad-948-568-5-0-1080-648.png",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Środowa sesja na GPW znów skończyła sporą wyprzedaży, która całkowicie wymazała poniedziałkowe odbicie i zepchnęła główne indeksy na wielomiesięczne minima.",
-        "Nastroje na krajowym parkiecie nawiązywała do słabego sentymentu na globalnych rynkach, choć cieniem kładła się też słabość polskiej waluty.",
-        "/ Ilustracja wygenerowana przy użyciu AI Krajowe indeksy kontynuowały spadki z poprzedniego dnia i znalazły się już na niższych poziomach niż w piątek, z których rynek próbował zainicjować w poniedziałek korekcyjne odbicie sięgające kilku procent."
-      ],
-      "extended_paragraphs": [
-        "Środowa sesja na GPW znów skończyła sporą wyprzedaży, która całkowicie wymazała poniedziałkowe odbicie i zepchnęła główne indeksy na wielomiesięczne minima. Nastroje na krajowym parkiecie nawiązywała do słabego sentymentu na globalnych rynkach, choć cieniem kładła się też słabość polskiej waluty.",
-        "/ Ilustracja wygenerowana przy użyciu AI Krajowe indeksy kontynuowały spadki z poprzedniego dnia i znalazły się już na niższych poziomach niż w piątek, z których rynek próbował zainicjować w poniedziałek korekcyjne odbicie sięgające kilku procent. W przypadku indeksu największych spółek tamta zwyżka wyniosła 3,85 proc., jednak całość tego ruchu została już wymazana z nawiązką.",
-        "Na zamknięciu środowych notowań WIG20 spadł o 1,87 proc. i po raz pierwszy od początku września znalazł się poniżej psychologicznej bariery 4000 punktów. Szeroki indeks WIG zniżkował o 1,55 proc., schodząc do poziomu 150 377,85. pkt. Słabość była widoczna również w segmencie małych i średnich spółek, choć skala przeceny była tam nieco łagodniejsza – mWIG40 poszedł w dół o 0,74 proc. do 10 172,46 pkt., natomiast sWIG80 stracił 1 proc. i zakończył dzień na poziomie 27 602,08 pkt. Aktywność inwestorów podliczono na 2,84 mld zł na szerokim rynku z czego 2,38 mld zł koncentrowała się przede wszystkim na najbardziej płynnych walorach spółek z indeksu blue chipów.",
-        "Wall Street w odwrocie przed Świętem Dziękczynienia, Europa pod kreską Pogorszenie sentymentu w Warszawie wpisywało się w szerszy obraz z rynków bazowych, choć skala spadków na GPW była wyraźnie głębsza niż na większości parkietów Starego Kontynentu. W momencie zamknięcia sesji przy Książęcej w Europie panowały mieszane, ale ostrożne nastroje. Brytyjski FTSE 100 oraz francuski CAC40 traciły około 0,3, podczas gdy niemiecki DAX tracił 1,1 proc. Znacznie gorzej radziły sobie giełdy południa Europy oraz naszego regionu – główne indeksy w Mediolanie i Madrycie zniżkowały o ponad 1,5 proc., a austriacki ATX taniał o ponad 2,7 proc.",
-        "Prawdziwe trzęsienie ziemi obserwowano jednak za oceanem. Na Wall Street wyprzedaż spółek technologicznych wyraźnie przyspieszyła tuż przed dniem wolnym – w czwartek w Stanach Zjednoczonych obchodzone jest Święto Dziękczynienia, a w piątek sesja będzie skrócona, co skłoniło inwestorów do gwałtownego ograniczania ryzyka. W chwili kończenia handlu w Warszawie amerykański S&P 500 szedł w dół o 2,7 proc., natomiast technologiczny Nasdaq Composite tracił aż 4,1 proc."
       ]
     },
     {
@@ -2119,44 +2317,42 @@
         "Współprzewodniczący Xpeng, Brian Gu, w czwartkowym wywiadzie podzielił się z CNBC swoimi przewidywaniami dotyczącymi humanoidalnych robotów.",
         "PEKIN — Robot domowy może wkrótce stać się rzeczywistością, powiedział CNBC Brian Gu, współprezes Xpeng, chińskiej firmy produkującej samochody elektryczne, która wkroczyła w przestrzeń humanoidów.",
         "„Być może po pomyślnym wdrożeniu w warunkach komercyjnych, może po kolejnych latach lub dwóch, będziemy mogli zacząć myśleć o wdrożeniu w warunkach domowych” – powiedział Gu. „Technologia rozwija się znacznie szybciej”.",
-        "W środę firma Xpeng zaprezentowała swojego najnowszego humanoidalnego robota ogólnego przeznaczenia Iron. Firma planuje rozpocząć szkolenie robota na stanowisko sprzedawcy w punktach sprzedaży detalicznej samochodów w pierwszym kwartale przyszłego roku, po rozpoczęciu masowej produkcji w styczniu. Sprzedaż ma się rozpocząć w drugim kwartale, a dostawy spodziewane są w dalszej części roku.",
+        "W środę firma Xpeng zaprezentowała swojego najnowszego humanoidalnego robota ogólnego przeznaczenia – Iron. Firma planuje rozpocząć szkolenie robota na stanowisko sprzedawcy w punktach sprzedaży detalicznej samochodów w pierwszym kwartale przyszłego roku, po rozpoczęciu masowej produkcji w styczniu. Sprzedaż ma się rozpocząć w drugim kwartale, a dostawy spodziewane są w dalszej części roku.",
         "Założona w 2014 roku jako firma produkująca samochody elektryczne, firma Xpeng wyprzedziła Teslę we wdrażaniu systemów wspomagania kierowcy w Chinach kontynentalnych. Chiński producent samochodów wypuścił na rynek własne chipy sztucznej inteligencji. Jest również rozszerzony na osobiste pojazdy latające i robotykę. Dział robotyki zebrał tego lata 900 milionów dolarów przy wycenie 6,3 miliarda dolarów w pierwszej rundzie finansowania, której przewodził IDG Capital."
       ]
     },
     {
-      "id": "rynki-7-1146a2",
-      "entity_tag": "JSW (GPW: JSW)",
-      "sector": "Górnictwo",
+      "id": "rynki-7-86491c",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla JSW (GPW: JSW) (Górnictwo) (kluczowe liczby: 2,55 mld zł, 185,5 mln zł, 51,8 mln zł) — wspiera sentyment popytowy w sektorze.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 0,85%) — wspiera sentyment popytowy w sektorze.",
       "key_metrics": [
-        "2,55 mld zł",
-        "185,5 mln zł",
-        "51,8 mln zł"
+        "0,85%"
       ],
-      "title": "JSW tnie koszty, sprzedaje droższy węgiel i korzysta z ogromnej pomocy publicznej",
+      "title": "OKI bez lukru. Kiedy nowe konto może się nie opłacać?",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "13:19",
+      "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/JSW-tnie-koszty-sprzedaje-drozszy-wegiel-i-korzysta-z-ogromnej-pomocy-publicznej-9234879.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/1/8/9637c67f7c5d19-945-567-11-7-1488-893.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/8/6/41c9d7ccbd1c63-948-568-0-162-2400-1439.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Grupa JSW zaprezentowała w trzecim kwartale 2026 roku wyraźne odbicie wyników operacyjnych, podbijając skorygowaną EBITDA o ponad 258 procent kwartał do kwartału.",
-        "Poprawa rentowności to efekt rosnących notowań surowca na rynkach światowych oraz głębokiej redukcji kosztów pracowniczych i wydobywczych.",
-        "Niższe koszty to efekt wdrażani planu naprawczego, jednak zarząd zaznacza jednak, że to dopiero na początku drogi."
+        "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi.",
+        "Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
+        "fot. Patrick Fore / / Unsplash Osobiste Konta Inwestycyjne są prawnym opakowaniem rachunku inwestycyjnego (lub lokaty bankowej czy funduszu), który uprawnia do bezwzględnego zwolnienia z podatku Belki nie tylko zysków kapitałowych, ale też przychodów odsetkowych, dywidend czy realizacji dyskonta z obligacji."
       ],
       "extended_paragraphs": [
-        "Grupa JSW zaprezentowała w trzecim kwartale 2026 roku wyraźne odbicie wyników operacyjnych, podbijając skorygowaną EBITDA o ponad 258 procent kwartał do kwartału. Poprawa rentowności to efekt rosnących notowań surowca na rynkach światowych oraz głębokiej redukcji kosztów pracowniczych i wydobywczych. Niższe koszty to efekt wdrażani planu naprawczego, jednak zarząd zaznacza jednak, że to dopiero na początku drogi. Sprawdzamy, co w ramach planu udało się realizować, a co jeszcze czeka na rozstrzygnięcie.",
-        "fot. Peter Andrews / / FORUM Trzeci kwartał 2026 roku przyniósł akcjonariuszom Jastrzębskiej Spółki Węglowej długo wyczekiwany sygnał poprawy fundamentów operacyjnych. Przychody ze sprzedaży Grupy osiągnęły poziom 2,55 mld zł, co oznacza wzrost o 13,5 proc. względem drugiego kwartału . Jeszcze mocniej wybrzmiała zmiana na poziomie skorygowanego wyniku EBITDA, który poszybowała do 185,5 mln zł wobec zaledwie 51,8 mln zł kwartał wcześniej, co przekłada się na dynamikę przekraczającą 258 proc. Jednocześnie węglowy gigant zdołał istotnie ograniczyć stratę nett, z 427,5 mln zł do 286 mln zł. Akcje JSW na GPW zareagowały zwyżką na pokazany raport, rosnąc w granicach 5-6 proc. na środowej sesji.",
-        "\"Po wielu wymagających miesiącach widzimy pierwsze wymierne efekty naszej pracy. Poprawiamy wyniki operacyjne, ograniczamy koszty i zmniejszamy stratę netto. To potwierdza, że wdrażany Program Naprawczy zaczyna przynosić rezultaty, a obrany kierunek zmian jest właściwy. Mamy jednak świadomość, że to dopiero początek trudnej drogi do trwałej poprawy sytuacji Grupy JSW.\" - powiedział Tomasz Gawlik p.o. prezesa zarządu Jastrzębskiej Spółki Węglowej.",
-        "Na wyniki bez wątpieni miały wpływ dwa główne czynniki: dyscyplina kosztowa oraz odbicie cen węgla koksowego . Spółka, ograniczając ryzyko gwałtownych wahań dziennych indeksów, wyznacza ceny referencyjne w negocjacjach z odbiorcami w oparciu o uśrednione notowania węgla koksowego hard Premium Low Vol FOB Australia z pięciu miesięcy obejmujących poprzedni kwartał oraz dwa pierwsze miesiące kwartału bieżącego. Taki mechanizm stabilizuje ceny realizacji, ale też odwleka w czasie efekt wzrosty cen, który trwa już przecież od dłuższego czasu.",
-        "Raport JSW za III kwartał 2026 r. Średnia notowań australijskiego benchmarku cenowego wzrosła w trzecim kwartale 2026 roku do 248,11 USD za tonę wobec 238,27 USD w drugim kwartale oraz 234,67 USD w pierwszym kwartale. Oznacza to wzrost o 4,1 proc. kwartał do kwartału oraz aż o 35,2 proc. w porównaniu z trzecim kwartałem 2025 roku, kiedy tona surowca kosztowała średnio 183,51 USD . W ujęciu narastającym za dziewięć miesięcy 2026 roku średnia cena osiągnęła 240,52 USD za tonę i była o 30,5 proc. wyższa niż rok wcześniej."
+        "Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi. Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
+        "fot. Patrick Fore / / Unsplash Osobiste Konta Inwestycyjne są prawnym opakowaniem rachunku inwestycyjnego (lub lokaty bankowej czy funduszu), który uprawnia do bezwzględnego zwolnienia z podatku Belki nie tylko zysków kapitałowych, ale też przychodów odsetkowych, dywidend czy realizacji dyskonta z obligacji. W tym sensie OKI są podobne do IKE/IKZE. Różnica jest jedna ale zasadnicza. O ile w systemie IKE/IKZE ceną za zwolnienie z Belki jest przetrzymanie kapitału aż do starości (60/65 lat), o tyle w OKI ceną jest nowy podatek od wartości zgromadzonych nań aktywów.",
+        "Odpowiedź na to pytanie jest akurat prosta i jednoznaczna: tak i to tak szybko, jak to tylko możliwe . Ale z wpłacaniem pieniędzy i ich inwestowaniem w ramach OKI trzeba uważać. Generalnie inwestując tylko w polskie akcje (GPW i NC) i obligacje (Catalyst) kwoty niższe od 100 000 złotych OKI nie ma sobie równych. Zapewnia pełną elastyczność i dowolność wpłat oraz wypłat, nie narzuca większych ograniczeń inwestycyjnych (nie wolno tylko kryptowalut i instrumentów pochodnych), nie ma limitów wpłat (jak na IKE czy IKZE) oraz nie musimy zamrażać kapitału na długie lata.",
+        "Opłacalność trzymania na OKI kwot przekraczających sto tysięcy złotych zależy od kilku czasem zupełnie nieprzewidywalnych) czynników. Absolutnie podstawową (i nieznaną w momencie rozpoczęcia inwestycji) jest przyszła zrealizowana stopa zwrotu. Tu zasada jest prosta: im wyższa stopa zwrotu, tym bardziej opłaca się OKI w porównaniu ze zwykłym, „obelkowanym” rachunkiem. Co więcej, w takim wypadku im wyższa jest zainwestowana kwota, tym korzyść podatkowa jest większa. Kwestię tą ilustruje poniższa tabela zbudowana w oparciu o założenie, że podatek od aktywów wynosi 0,85% (czyli tyle ile wyniesie w 2027 roku).",
+        "Po trzecie, od założonego horyzontu czasowego. Podstawową zaletą podatku Belki (nigdy do głowy mi nie przyszło, że będę pisał o zaletach tej niemoralnej i bardzo szkodliwej daniny ) jest to, że płaci się go tylko raz. Tj. tylko raz od zrealizowanych w danym roku zysków . Natomiast podatek od aktywów będzie się płaciło co roku! I to nawet wtedy jeśli danym roku osiągnąłeś stratę! Dlatego też w przypadku długoterminowego pasywnego inwestowania najprawdopodobniej bardziej opłacać się będą rachunki IKE/IKZE, a w niektórych przypadkach nawet reżym belkowy."
       ]
     },
     {

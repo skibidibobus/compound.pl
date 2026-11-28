@@ -3,9 +3,9 @@
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
     "edition": "#2026.332",
-    "last_updated": "2026-11-28 01:44",
+    "last_updated": "2026-11-28 09:35",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
-    "polish_articles_count": 12,
+    "polish_articles_count": 18,
     "foreign_translated_count": 20,
     "breaking_banner": {
       "enabled": false,
@@ -81,16 +81,16 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$60,150",
-      "change": "-0.80%",
+      "price": "$59,590",
+      "change": "-3.51%",
       "is_positive": false
     },
     {
       "symbol": "ETH/USD",
       "name": "Ethereum",
       "group": "crypto",
-      "price": "$1,668",
-      "change": "-1.80%",
+      "price": "$1,650",
+      "change": "-4.83%",
       "is_positive": false
     },
     {
@@ -201,8 +201,8 @@
       "symbol": "NVIDIA",
       "name": "NVIDIA Corp.",
       "group": "indices",
-      "price": "149.30 $",
-      "change": "-9.54%",
+      "price": "150.49 $",
+      "change": "-3.15%",
       "is_positive": false
     },
     {
@@ -774,8 +774,8 @@
         "Wysoka wycena wskaźnikowa oraz ryzyko cyklicznego spowolnienia wydatków kapitałowych (CAPEX) przez gigantów chmurowych.",
         "Ograniczenia eksportowe i napięcia geopolityczne wokół Tajwanu (TSMC)."
       ],
-      "price": "149.30 $",
-      "change": "-9.54%",
+      "price": "150.49 $",
+      "change": "-3.15%",
       "is_positive": false
     },
     {
@@ -910,39 +910,35 @@
   ],
   "rynki": [
     {
-      "id": "rynki-1-379446",
-      "entity_tag": "KGHM (GPW: KGH)",
-      "sector": "Surowce & Górnictwo",
+      "id": "rynki-1-d60379",
+      "entity_tag": "GUS / Makro Polska",
+      "sector": "Makroekonomia",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,36 mld zł, 1,88 mld zł, 1,15 proc.) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "2,36 mld zł",
-        "1,88 mld zł",
-        "1,15 proc."
-      ],
-      "title": "Rajd miedzi i powrót Wall Street. KGHM i Modivo na czele wzrostów, małe spółki zaskoczyły siłą",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GUS / Makro Polska (Makroekonomia) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Dolar znów po 4 zł, pensje w górę i giełdowy rollercoaster. 14 wykresów, które musisz zobaczyć",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:10",
+      "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Rajd-miedzi-i-powrot-Wall-Street-KGHM-i-Modivo-na-czele-wzrostow-male-spolki-zaskoczyly-sila-9236553.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/7/ea2109d57bf31d-948-568-144-188-4293-2576.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Dolar-znow-po-4-zl-pensje-w-gore-i-gieldowy-rollercoaster-14-wykresow-ktore-musisz-zobaczyc-9236086.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/e/8/03aec78eb5128d-948-568-512-10-3584-2150.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Globalna poprawa nastrojów nie ustała po powrocie amerykańskich inwestorów ze świątecznej przerwy.",
-        "Główny indeks na GPW zaliczył drugą z rzędu wzrostową sesję, umacniając się powyżej poziomu 4000 pkt, którego utrzymanie w tym tygodniu stało pod znakiem zapytania.",
-        "Branżowo błysnął sektor surowców, a furorę w WIG20 zrobiły też notowania Modivo."
+        "Gospodarka wysyła sprzeczne sygnały, a rynki fundują inwestorom prawdziwy rollercoaster.",
+        "Realne wynagrodzenia odbijają, przemysł hamuje, a różnice między cenami mieszkań na rynku pierwotnym i wtórnym ponownie się pogłębiają.",
+        "W tym samym czasie dolar wraca powyżej 4 zł, a giełdowe indeksy notują spektakularne odbicie."
       ],
       "extended_paragraphs": [
-        "Globalna poprawa nastrojów nie ustała po powrocie amerykańskich inwestorów ze świątecznej przerwy. Główny indeks na GPW zaliczył drugą z rzędu wzrostową sesję, umacniając się powyżej poziomu 4000 pkt, którego utrzymanie w tym tygodniu stało pod znakiem zapytania. Branżowo błysnął sektor surowców, a furorę w WIG20 zrobiły też notowania Modivo. Kilka raportów wynikowych podbiło zmienność na mniejszych spółkach.",
-        "fot. BRENDAN MCDERMID / / Reuters / Forum Piątkowe notowania przyniosły kontynuację odbicie na krajowym rynku akcji. Indeks WIG20 wzrósł o 1,15 proc. Szeroki rynek podążał w tym samym kierunku – WIG zwyżkował o 1,08 proc. Indeks średnich spółek mWIG40 poszedł w górę o 0,82 proc. , podczas gdy indeks małych, sWIG80, zyskał 1,26 proc. , stając się najmocniejszym segmentem warszawskiego parkietu. Obroty na szerokim rynku wyniosły 2,36 mld zł, z czego 1,88 mld zł dotyczyło WIG20.",
-        "W momencie zamknięcia handlu w Warszawie brytyjski indeks FTSE 100 rósł o 0,85 proc., niemiecki DAX zyskiwał 0,8 proc., a francuski CAC 40 zwyżkował o 0,6 proc. Jeszcze lepsze nastroje panowały na Wall Street, gdzie inwestorzy wrócili do gry po czwartkowym Święcie Dziękczynienia. Amerykański S&P 500 szedł w górę o 1,1 proc., natomiast technologiczny Nasdaq Composite zwyżkował o 1,6 proc. , odrabiając część strat z ostatnich tygodni. Piątkowa sesja na Wall Street jednak skrócona.",
-        "Powrót apetytu na ryzyko na rynkach bazowych, napędzany odbiciem notowań spółek związanych ze sztuczną inteligencją . Podmioty z sektora AI znajdowały się w ostatnich tygodniach pod silną presją. Jednocześnie osłabienie awersji do ryzyka wywołało gwałtowny rajd na rynku surowców . Ceny miedzi rosły najmocniej od marca – na Londyńskiej Giełdzie Metali (LME) notowania czerwonego metalu chwilami zwyżkowały o 6,5 proc., równolegle srebro drożało momentami o około 10 proc.",
-        "Eksperci zwracają jednak uwagę na szerszy kontekst rynkowy. Sobiesław Kozłowski z Ipopema Private Investments, goszcząc w piątkowym programie „Bankier Weekly” , uważa, że rynki znajdują się obecnie w późnej fazie cyklu surowcowego, po której historycznie następuje okres preferujący utrzymywanie większego udziału gotówki w portfelu . Z kolei Arkadiusz Banaś, ekspert ds. analiz w Zespole Analiz i Doradztwa Alior Banku, zwrócił uwagę na korelację giełdy w Warszawie z nastrojami zagranicznych inwestorów wobec branży AI."
+        "Gospodarka wysyła sprzeczne sygnały, a rynki fundują inwestorom prawdziwy rollercoaster. Realne wynagrodzenia odbijają, przemysł hamuje, a różnice między cenami mieszkań na rynku pierwotnym i wtórnym ponownie się pogłębiają. W tym samym czasie dolar wraca powyżej 4 zł, a giełdowe indeksy notują spektakularne odbicie. W „Wykresach tygodnia” przyglądam się liczbom, które najlepiej pokazują, w jakim miejscu znalazły się dziś gospodarka i rynki.",
+        "fot. vectorfusionart / / Shutterstock 1. Urząd pokazał, gdzie etatowcy zarabiali najwięcej. Wzrost realnych płac odbił z wieloletniego dołka Dzięki wyższej dynamice płac oraz niższej inflacji z najniższego poziomu od 2023 r. odbił realny wzrost płac. W październiku wzrosło też przeciętne zatrudnienie w dużych firmach niefinansowych. Dane GUS okazały się nieco lepsze od oczekiwań i pokazały, które branże płaciły najwięcej etatowym pracownikom.",
+        "2. 99/100 od krytyków i zaledwie 5,7 od graczy. Dwie twarze głośnej premiery GTA VI Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej. Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent. Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu. Czy inwestorzy powinni się przejmować rozjazdem recenzji graczy oraz krytyków, skoro dane sprzedażowe z pierwszych dni wyglądają świetnie?",
+        "Metacritic 3. Ceny nowych mieszkań spadają, na rynek wtórny wróciły wzrosty Trzeci kwartał 2026 r. przyniósł spadki średnich cen transakcyjnych nowych mieszkań w największych polskich miastach – wynika z danych Narodowego Banku Polskiego. Tam, gdzie podwyżek nie zanotowano, pocieszeniem dla kupujących było wyhamowanie niedawnych wzrostów. Nie da się tego powiedzieć jednak o rynkach wtórnych.",
+        "Październikowe statystyki produkcji przemysłowej srodze rozczarowały ekonomistów. Zamiast spowolnienia mieliśmy ostre hamowanie, które może kończyć i tak bardzo rachityczny cykl koniunkturalny w polskim sektorze wytwórczym."
       ]
     },
     {
@@ -982,7 +978,43 @@
       ]
     },
     {
-      "id": "rynki-5-b70836",
+      "id": "rynki-3-379446",
+      "entity_tag": "KGHM (GPW: KGH)",
+      "sector": "Surowce & Górnictwo",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,36 mld zł, 1,88 mld zł, 1,15 proc.) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "2,36 mld zł",
+        "1,88 mld zł",
+        "1,15 proc."
+      ],
+      "title": "Rajd miedzi i powrót Wall Street. KGHM i Modivo na czele wzrostów, małe spółki zaskoczyły siłą",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:10",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Rajd-miedzi-i-powrot-Wall-Street-KGHM-i-Modivo-na-czele-wzrostow-male-spolki-zaskoczyly-sila-9236553.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/d/7/ea2109d57bf31d-948-568-144-188-4293-2576.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Globalna poprawa nastrojów nie ustała po powrocie amerykańskich inwestorów ze świątecznej przerwy.",
+        "Główny indeks na GPW zaliczył drugą z rzędu wzrostową sesję, umacniając się powyżej poziomu 4000 pkt, którego utrzymanie w tym tygodniu stało pod znakiem zapytania.",
+        "Branżowo błysnął sektor surowców, a furorę w WIG20 zrobiły też notowania Modivo."
+      ],
+      "extended_paragraphs": [
+        "Globalna poprawa nastrojów nie ustała po powrocie amerykańskich inwestorów ze świątecznej przerwy. Główny indeks na GPW zaliczył drugą z rzędu wzrostową sesję, umacniając się powyżej poziomu 4000 pkt, którego utrzymanie w tym tygodniu stało pod znakiem zapytania. Branżowo błysnął sektor surowców, a furorę w WIG20 zrobiły też notowania Modivo. Kilka raportów wynikowych podbiło zmienność na mniejszych spółkach.",
+        "fot. BRENDAN MCDERMID / / Reuters / Forum Piątkowe notowania przyniosły kontynuację odbicie na krajowym rynku akcji. Indeks WIG20 wzrósł o 1,15 proc. Szeroki rynek podążał w tym samym kierunku – WIG zwyżkował o 1,08 proc. Indeks średnich spółek mWIG40 poszedł w górę o 0,82 proc. , podczas gdy indeks małych, sWIG80, zyskał 1,26 proc. , stając się najmocniejszym segmentem warszawskiego parkietu. Obroty na szerokim rynku wyniosły 2,36 mld zł, z czego 1,88 mld zł dotyczyło WIG20.",
+        "W momencie zamknięcia handlu w Warszawie brytyjski indeks FTSE 100 rósł o 0,85 proc., niemiecki DAX zyskiwał 0,8 proc., a francuski CAC 40 zwyżkował o 0,6 proc. Jeszcze lepsze nastroje panowały na Wall Street, gdzie inwestorzy wrócili do gry po czwartkowym Święcie Dziękczynienia. Amerykański S&P 500 szedł w górę o 1,1 proc., natomiast technologiczny Nasdaq Composite zwyżkował o 1,6 proc. , odrabiając część strat z ostatnich tygodni. Piątkowa sesja na Wall Street jednak skrócona.",
+        "Powrót apetytu na ryzyko na rynkach bazowych, napędzany odbiciem notowań spółek związanych ze sztuczną inteligencją . Podmioty z sektora AI znajdowały się w ostatnich tygodniach pod silną presją. Jednocześnie osłabienie awersji do ryzyka wywołało gwałtowny rajd na rynku surowców . Ceny miedzi rosły najmocniej od marca – na Londyńskiej Giełdzie Metali (LME) notowania czerwonego metalu chwilami zwyżkowały o 6,5 proc., równolegle srebro drożało momentami o około 10 proc.",
+        "Eksperci zwracają jednak uwagę na szerszy kontekst rynkowy. Sobiesław Kozłowski z Ipopema Private Investments, goszcząc w piątkowym programie „Bankier Weekly” , uważa, że rynki znajdują się obecnie w późnej fazie cyklu surowcowego, po której historycznie następuje okres preferujący utrzymywanie większego udziału gotówki w portfelu . Z kolei Arkadiusz Banaś, ekspert ds. analiz w Zespole Analiz i Doradztwa Alior Banku, zwrócił uwagę na korelację giełdy w Warszawie z nastrojami zagranicznych inwestorów wobec branży AI."
+      ]
+    },
+    {
+      "id": "rynki-7-b70836",
       "entity_tag": "GUS / Makro Polska",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1014,42 +1046,6 @@
         "Odbędzie się też referendum w Szwajcarii, w ramach którego Helweci będą decydować o tymczasowej podwyżce stawki VAT (wynoszącej 8,1% - to stawka główna, a nie obniżona), zakazem używania fajerwerków oraz zmianom w opodatkowaniu małżeństw.",
         "W nocy (2:30) pojawią się listopadowe „państwowe” (tj. liczone przez tamtejszy urząd statystyczny) indeksy PMI dla Chin. Druga gospodarka świata od kilku lat pogrążona jest w realnej stagnacji i na takim właśnie stagnacyjnym poziomie (tj. okolice 50 pkt.) od miesięcy plasują się chińskie „piemaje”.",
         "My jednak bardziej będziemy się przejmować kluczowymi statystykami z polskiej gospodarki. O 9:30 GUS przedstawi finalny wynik produktu krajowego brutto zawierający szczegółową kompozycję tego wskaźnika. Równolegle pojawi się szybki szacunek listopadowej inflacji konsumenckiej."
-      ]
-    },
-    {
-      "id": "rynki-7-76f26f",
-      "entity_tag": "Rynek Krypto",
-      "sector": "Aktywa Cyfrowe",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Krypto (Aktywa Cyfrowe) (kluczowe liczby: 13 mln, 1,6 mld, 8,8 mld) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "13 mln",
-        "1,6 mld",
-        "8,8 mld"
-      ],
-      "title": "Bitcoinowy gigant wypada z kluczowych indeksów. Akcje Strategy pod presją",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "06:00",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Bitcoinowy-gigant-wypada-z-kluczowych-indeksow-Akcje-Strategy-pod-presja-9235989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/4/c/9202baa1668332-948-568-0-20-4000-2399.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World.",
-        "Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
-        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake."
-      ],
-      "extended_paragraphs": [
-        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World. Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
-        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake. Na nową listę obserwacyjną trafiła z kolei gromadząca ethereum spółka SharpLink, co oznacza dla niej ostrzeżenie i ryzyko wykluczenia przy kolejnej rewizji indeksów.",
-        "Wykluczenie z indeksów MSCI oznacza, że fundusze pasywne oraz ETF-y odwzorowujące te wskaźniki będą musiały automatycznie pozbyć się walorów Strategy po zamknięciu sesji 30 listopada (zmiany wejdą w życie 1 grudnia).",
-        "Jak wynika z szacunków samej spółki Strategy, przymusowa podaż ze strony funduszy śledzących MSCI może objąć około 13 mln akcji o wartości rzędu 1,6 mld dol. Większe ryzyko wiąże się z efektem domina - analitycy JPMorgan oceniali wcześniej, że gdyby śladem MSCI poszli kolejni dostawcy indeksów, odpływ kapitału ze Strategy mógłby sięgnąć nawet 8,8 mld dol.",
-        "Sama spółka już wcześniej próbowała zablokować te zmiany, nazywając w formalnym piśmie kryteria MSCI \"pretekstem\" i wskazując, że odpowiada za około 87% kapitalizacji wszystkich sześciu wykluczanych podmiotów."
       ]
     },
     {
@@ -1089,42 +1085,6 @@
       ]
     },
     {
-      "id": "rynki-3-19e158",
-      "entity_tag": "GPW w Warszawie",
-      "sector": "Rynek Kapitałowy",
-      "market_impact": "MEDIUM",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 18%, 20%, 5%) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "18%",
-        "20%",
-        "5%"
-      ],
-      "title": "Rok 2027 może być czasem mniejszych spółek. W AI to na razie tylko korekta",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "14:50",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Rok-2027-moze-byc-czasem-mniejszych-spolek-W-AI-to-na-razie-tylko-korekta-9236427.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/2/0/5d9148d40ba935-948-568-38-0-1200-720.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Czy listopadowe spadki na Nasdaqu były zaczątkiem końca hossy w sektorze AI?",
-        "Kiedy mniejsze spółki z GPW znów zaczną przynosić dodatnie stopy zwrotu dla inwestorów?",
-        "I wreszcie czym różni się obecna sytuacja od tej z lat 2006-07."
-      ],
-      "extended_paragraphs": [
-        "Czy listopadowe spadki na Nasdaqu były zaczątkiem końca hossy w sektorze AI? Kiedy mniejsze spółki z GPW znów zaczną przynosić dodatnie stopy zwrotu dla inwestorów? I wreszcie czym różni się obecna sytuacja od tej z lat 2006-07. Na te i wiele innych pytań odpowiedzi w najnowszym odcinku „Bankier Weekly” poszukiwaliśmy wraz z Sobiesławem Kozłowskim, z Ipopema Private Investments.",
-        "/ Bankier.pl Od październikowego szczytu do zeszłotygodniowego dołka Nasdaq Composite spadł o ponad 18%. Używając amerykańskiej nomenklatury jest to korekta, na granicy regularnej bessy rozumianej jako regres o przynajmniej 20% od ostatniego maksimum.",
-        "- Wydaje mi się, że mamy silną korektę. Jeżeli chodzi o AI i patrząc na przykład na Nasdaq, pod kątem technicznym jesteśmy blisko dolnego ograniczenia trendu formowanego przez ostatnie dwa-trzy lata. Czysto technicznie jest to moment, w którym – jeżeli to jest korekta – powinno nastąpić odbicie lub możemy na nie liczyć – tak sprawę widzi Sobiesław Kozłowski dyrektor departamentu doradztwa inwestycyjnego w obszarze klientów prywatnych Ipopema Private Investments.",
-        "- Kontynuacja przeceny w poniedziałek i przełamanie wsparcia technicznego sygnalizowałyby większą rotację aktywów i potrzebę odbudowy płynności. Według ostatnich badań wśród zarządzających poziom gotówki był bardzo niski, co stanowiło alokacyjny sygnał sprzedaży. Z drugiej strony, poza samą odbudową płynności, nie widać jednoznacznego zwrotu ku bezpieczeństwu – gdyby tak było, rentowności amerykańskich obligacji spadłyby wyraźnie poniżej 5%, a one ledwo drgnęły. To wskazuje na odbudowę poziomu gotówki – wyjaśnia analityk.",
-        "Według Sobiesława Kozłowskiego jesteśmy teraz w późnej fazie cyklu surowcowego, po której zwykle przychodzi okres preferujący posiadanie w portfelu gotówki. Niedawno widzieliśmy przecież potężną przecenę na miedzi, srebrze i złocie. - Fazę gotówki w tym cyklu mógłby skrócić wyraźniejszy spadek cen ropy naftowej, która po byciu outsiderem w latach 2025–2026 mocno podrożała i stała się sporym zaskoczeniem kończącego się roku – uważa Kozłowski."
-      ]
-    },
-    {
       "id": "rynki-4-fe1f6f",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
@@ -1158,6 +1118,42 @@
         "Wśród najbardziej dotkniętych: GraniteShares 2x Short NVDA Daily ETF (NVD). W poniedziałek fundusz spadł o 63% po przywróceniu Jensena Huanga na stanowisko dyrektora generalnego chipowego giganta. Tymczasem fundusz ETF 2x Long NVDA (NVDL) tej firmy wzrósł tego samego dnia o prawie 62%.",
         "Założyciel ETF Action, Mike Akins, dołączył do „ETF Edge”, gdy akcje Nvidii wzrosły podczas poniedziałkowej sesji o 31%, odrabiając dużą część strat z dni następujących po rezygnacji Huanga. Akcje spadły jednak we wtorek i środę.",
         "„Historycznie rzecz biorąc, na zdrowym rynku nie obserwujemy tego typu dużych spadków, po których następowałyby ogromne wzrosty” – powiedział w poniedziałek Akins. „Zazwyczaj dzieje się tak, gdy znajdujesz się w recesji lub na terytorium bessy, co technicznie nie jest możliwe w przypadku szerszego rynku, ale interesuje nas handel sztuczną inteligencją”."
+      ]
+    },
+    {
+      "id": "rynki-5-19e158",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 18%, 20%, 5%) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "18%",
+        "20%",
+        "5%"
+      ],
+      "title": "Rok 2027 może być czasem mniejszych spółek. W AI to na razie tylko korekta",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "14:50",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Rok-2027-moze-byc-czasem-mniejszych-spolek-W-AI-to-na-razie-tylko-korekta-9236427.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/2/0/5d9148d40ba935-948-568-38-0-1200-720.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Czy listopadowe spadki na Nasdaqu były zaczątkiem końca hossy w sektorze AI?",
+        "Kiedy mniejsze spółki z GPW znów zaczną przynosić dodatnie stopy zwrotu dla inwestorów?",
+        "I wreszcie czym różni się obecna sytuacja od tej z lat 2006-07."
+      ],
+      "extended_paragraphs": [
+        "Czy listopadowe spadki na Nasdaqu były zaczątkiem końca hossy w sektorze AI? Kiedy mniejsze spółki z GPW znów zaczną przynosić dodatnie stopy zwrotu dla inwestorów? I wreszcie czym różni się obecna sytuacja od tej z lat 2006-07. Na te i wiele innych pytań odpowiedzi w najnowszym odcinku „Bankier Weekly” poszukiwaliśmy wraz z Sobiesławem Kozłowskim, z Ipopema Private Investments.",
+        "/ Bankier.pl Od październikowego szczytu do zeszłotygodniowego dołka Nasdaq Composite spadł o ponad 18%. Używając amerykańskiej nomenklatury jest to korekta, na granicy regularnej bessy rozumianej jako regres o przynajmniej 20% od ostatniego maksimum.",
+        "- Wydaje mi się, że mamy silną korektę. Jeżeli chodzi o AI i patrząc na przykład na Nasdaq, pod kątem technicznym jesteśmy blisko dolnego ograniczenia trendu formowanego przez ostatnie dwa-trzy lata. Czysto technicznie jest to moment, w którym – jeżeli to jest korekta – powinno nastąpić odbicie lub możemy na nie liczyć – tak sprawę widzi Sobiesław Kozłowski dyrektor departamentu doradztwa inwestycyjnego w obszarze klientów prywatnych Ipopema Private Investments.",
+        "- Kontynuacja przeceny w poniedziałek i przełamanie wsparcia technicznego sygnalizowałyby większą rotację aktywów i potrzebę odbudowy płynności. Według ostatnich badań wśród zarządzających poziom gotówki był bardzo niski, co stanowiło alokacyjny sygnał sprzedaży. Z drugiej strony, poza samą odbudową płynności, nie widać jednoznacznego zwrotu ku bezpieczeństwu – gdyby tak było, rentowności amerykańskich obligacji spadłyby wyraźnie poniżej 5%, a one ledwo drgnęły. To wskazuje na odbudowę poziomu gotówki – wyjaśnia analityk.",
+        "Według Sobiesława Kozłowskiego jesteśmy teraz w późnej fazie cyklu surowcowego, po której zwykle przychodzi okres preferujący posiadanie w portfelu gotówki. Niedawno widzieliśmy przecież potężną przecenę na miedzi, srebrze i złocie. - Fazę gotówki w tym cyklu mógłby skrócić wyraźniejszy spadek cen ropy naftowej, która po byciu outsiderem w latach 2025–2026 mocno podrożała i stała się sporym zaskoczeniem kończącego się roku – uważa Kozłowski."
       ]
     },
     {
@@ -1199,7 +1195,7 @@
   ],
   "makro": [
     {
-      "id": "makro-1-28b750",
+      "id": "makro-2-28b750",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1231,7 +1227,43 @@
       ]
     },
     {
-      "id": "makro-3-141833",
+      "id": "makro-3-d2ce33",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 17 mln, 299 tys., 36 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [
+        "17 mln",
+        "299 tys.",
+        "36 proc."
+      ],
+      "title": "Znaczący ruch na giełdzie. Nowa oferta ws. akcji ZE PAK i duży wzrost",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:30",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-26/znaczacy-ruch-na-gieldzie-nowa-oferta-ws-akcji-ze-pak-i-duzy-wzrost/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/xw/xwt5q27d9j9kpnok9nhrr59t82wuz33h.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
+      "lead_story": false,
+      "summary_points": [
+        "Cena oferowana inwestorom w wezwaniu na akcje ZE PAK została podniesiona z 18 zł do 24,50 zł.",
+        "To wzrost o ponad 36 proc., co przełożyło się na notowania giełdowe - cena akcji ZE PAK wystrzeliła.",
+        "Przyjmowanie zapisów w ramach wezwania potrwa do 2 grudnia."
+      ],
+      "extended_paragraphs": [
+        "Cena oferowana inwestorom w wezwaniu na akcje ZE PAK została podniesiona z 18 zł do 24,50 zł. To wzrost o ponad 36 proc., co przełożyło się na notowania giełdowe - cena akcji ZE PAK wystrzeliła. Przyjmowanie zapisów w ramach wezwania potrwa do 2 grudnia.",
+        "Cypryjska spółka Argumenol Investment Company Limited , poprzez którą rodzinna fundacja Solorzów kontroluje Zespół Elektrowni Pątnów-Adamów-Konin, podjęła decyzję o poprawieniu warunków ogłoszonego pod koniec października wezwania.",
+        "Cena zakupu pojedynczej akcji została podniesiona z 18 zł do 24,50 zł. Nowa stawka obowiązuje od 20 listopada. Należy podkreślić, że nowa cena dotyczyć będzie również tych inwestorów, którzy zgłosili się na wezwanie jeszcze przed jej podwyższeniem.",
+        "Informacja ta pozytywnie wpłynęła na notowania giełdowe ZE PAK. Do piątku kurs akcji wahał się w okolicy 18-19 zł. W poniedziałek 23 listopada, po rozpoczęciu handlu, notowania wzrosły do poziomu 24 zł. W środę po południu cena utrzymywała się na podobnym poziomie.",
+        "Argumenol chce kupić 17 mln 299 tys. 636 akcji ZE PAK. Akcje reprezentują łącznie około 34,04 proc. kapitału zakładowego Spółki oraz uprawniają do wykonywania około 34,04 proc. głosów na walnym zgromadzeniu Spółki."
+      ]
+    },
+    {
+      "id": "makro-6-141833",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1263,7 +1295,41 @@
       ]
     },
     {
-      "id": "makro-4-16f40f",
+      "id": "makro-5-670a0e",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 1 mln zł) przy planowaniu budżetu i inwestycji.",
+      "key_metrics": [
+        "1 mln zł"
+      ],
+      "title": "Ceny paliw w czwartek. Ministerstwo podało maksymalne stawki",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "14:22",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/ceny-paliw-w-czwartek-ministerstwo-podalo-maksymalne-stawki/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/33/336t5ecphtxz9oqj7n155185hfx7ewch.jpeg",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
+      "lead_story": false,
+      "summary_points": [
+        "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 5,82 zł, benzyny 98 - 6,48 zł, a diesla - 7,15 zł - wynika z obwieszczenia ministra energii.",
+        "Ceny maksymalne będą zatem niższe od obowiązujących w środę.",
+        "We środę litr benzyny 95 kosztuje nie więcej niż 5,84 zł, benzyny 98 – 6,51 zł, a diesla - 7,23 zł."
+      ],
+      "extended_paragraphs": [
+        "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 5,82 zł, benzyny 98 - 6,48 zł, a diesla - 7,15 zł - wynika z obwieszczenia ministra energii. Ceny maksymalne będą zatem niższe od obowiązujących w środę.",
+        "We środę litr benzyny 95 kosztuje nie więcej niż 5,84 zł, benzyny 98 – 6,51 zł, a diesla - 7,23 zł.",
+        "Następne obwieszczenie ministra energii ws. maksymalnych cen paliw zostanie opublikowane w czwartek, 26 listopada i określi ceny na piątek .",
+        "Obwieszczenie o maksymalnych cenach paliw stanowi jeden z elementów kolejnej, trzeciej już odsłony pakietu Ceny Paliwa Niżej (CPN) , którego celem jest ograniczenie wzrostu cen na stacjach i obniżenie kosztów tankowania dla kierowców.",
+        "Mechanizm został uruchomiony po wejściu w życie części przepisów ustawy o podatku od nadzwyczajnych zysków przedsiębiorstw paliwowych . Prezydent ustawę podpisał i jednocześnie skierował ją do Trybunału Konstytucyjnego w trybie kontroli następczej. Kara za stosowanie cen paliw wyższych od maksymalnych może wynieść nawet 1 mln zł ."
+      ]
+    },
+    {
+      "id": "makro-7-16f40f",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
@@ -1295,7 +1361,39 @@
       ]
     },
     {
-      "id": "makro-2-80a107",
+      "id": "makro-1-69cff0",
+      "entity_tag": "Gospodarka & Makro",
+      "sector": "Makroekonomia",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
+      "key_metrics": [],
+      "title": "Mieszkańców bloków czekają zmiany. Ważny termin upływa z końcem roku",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "07:54",
+      "source": "PolsatNews Biznes",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-28/mieszkancow-blokow-czekaja-zmiany-wazny-termin-uplywa-z-koncem-roku/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/nr/nro2tgdogpji6nmo2ms5x1br9zikwk6o.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Biznes",
+      "lead_story": false,
+      "summary_points": [
+        "Do końca roku zarządcy bloków muszą zamontować liczniki ciepła i ciepłej wody ze zdalnym odczytem.",
+        "Przy okazji warto sprawdzić, jak liczony jest rachunek za ogrzewanie, bo nawet zerowy odczyt nie oznacza zerowej opłaty.",
+        "Wymiana obejmuje zamontowane przed 22 maja 2021 r. ciepłomierze, podzielniki kosztów ogrzewania oraz wodomierze do pomiaru ciepłej wody użytkowej."
+      ],
+      "extended_paragraphs": [
+        "Do końca roku zarządcy bloków muszą zamontować liczniki ciepła i ciepłej wody ze zdalnym odczytem. Przy okazji warto sprawdzić, jak liczony jest rachunek za ogrzewanie, bo nawet zerowy odczyt nie oznacza zerowej opłaty.",
+        "Wymiana obejmuje zamontowane przed 22 maja 2021 r. ciepłomierze, podzielniki kosztów ogrzewania oraz wodomierze do pomiaru ciepłej wody użytkowej. Zastąpią je urządzenia umożliwiające zdalny odczyt wskazań. W rezultacie mieszkańcy nie będą już musieli udostępniać swych liczników inkasentom.",
+        "Dane uzyskane z nowych urządzeń będą przesyłane do zarządcy budynku oraz firm zajmujących się rozliczeniami kosztów ogrzewania. Zebrane informacje pozwolą precyzyjnie wyliczyć rachunek, ale także wygenerować profil grzewczy danego gospodarstwa domowego.",
+        "Od 2021 r. w rozliczeniach kosztów ogrzewania lokalów w budynkach wielomieszkaniowych obowiązuje opłata minimalna. Ma ona zagwarantować, że wszyscy właściciele będą sprawiedliwie partycypować w kosztach ogrzewania bloku, a także ukrócić zjawisko pasożytnictwa cieplnego , jakim jest korzystanie z ciepła przenikającego z sąsiednich mieszkań.",
+        "Minimalny koszt zmienny ogrzewania nie jest przy tym ustalany arbitralnie przez zarządców i spółdzielnie. Jego wysokość wynika z rozporządzenia ministra klimatu i środowiska z 7 grudnia 2021 roku i odzwierciedla wartość zużycia ciepła niezbędną do utrzymania wskazanych przepisami warunków technicznych . Tutaj z kolei należy sięgnąć do rozporządzenia Ministra Infrastruktury z 12 kwietnia 2002 r., które określa temperatury obliczeniowe na poziomie:"
+      ]
+    },
+    {
+      "id": "makro-4-80a107",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1329,39 +1427,67 @@
   ],
   "tech": [
     {
-      "id": "tech-1-c7ab99",
-      "entity_tag": "Złoto (XAU/USD)",
-      "sector": "Surowce Szlachetne",
+      "id": "tech-3-8e50ec",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Złoto (XAU/USD) (Surowce Szlachetne) (kluczowe liczby: 300 miliardów dolarów, 165 miliardów dolarów, 115 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "300 miliardów dolarów",
-        "165 miliardów dolarów",
-        "115 miliardów dolarów"
-      ],
-      "title": "Tysiące ton złota czekają na wydobycie. Chińczycy pobili rekord z 1949 roku",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Teleskop z Antarktydy ujawnił niewidzialną strukturę wszechświata. To najdokładniejsza mapa w historii",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:53",
+      "time": "07:58",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/chiny-najwieksze-odkrycie-zlota-od-1949-roku",
-      "image_url": "https://konto.chip.pl/uploads/2024/04/zloto.jpg",
+      "source_url": "https://www.chip.pl/2026/11/rozklad-materii-wszechswiat-teleskop-antarktyda",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/South-Pole-Telescope-1600x1067.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": true,
       "summary_points": [
-        "Chińscy naukowcy zidentyfikowali zasoby złota, których łączna wielkość może przekraczać 2000 ton.",
-        "Przy obecnych cenach rynkowych mogłoby się to przełożyć na nawet 300 miliardów dolarów wartości.",
-        "Chodzi o dwa rozległe obszary położone w prowincjach Liaoning i Hunan."
+        "Astronomowie opracowali najbardziej czułą jak dotąd mapę rozkładu materii we wszechświecie.",
+        "Wykorzystali w tym celu dane pochodzące z teleskopu South Pole Telescope, który znajduje się na Antarktydzie.",
+        "Obserwując światło pochodzące z początków kosmosu byli w stanie odtworzyć rozmieszczenie materii na ogromnych odległościach."
       ],
       "extended_paragraphs": [
-        "Chińscy naukowcy zidentyfikowali zasoby złota, których łączna wielkość może przekraczać 2000 ton. Przy obecnych cenach rynkowych mogłoby się to przełożyć na nawet 300 miliardów dolarów wartości. Chodzi o dwa rozległe obszary położone w prowincjach Liaoning i Hunan. Największym z nich jest złoże Dadonggou, w którym według oficjalnych szacunków znajduje się ponad 1400 ton złota. To […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Tysiące ton złota czekają na wydobycie. Chińczycy pobili rekord z 1949 roku \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Chodzi o dwa rozległe obszary położone w prowincjach Liaoning i Hunan. Największym z nich jest złoże Dadonggou, w którym według oficjalnych szacunków znajduje się ponad 1400 ton złota. To największe pojedyncze złoże tego metalu odkryte w Chinach od 1949 roku. I choć w teorii mogłoby się to przełożyć na zyski sięgające nawet 165 miliardów dolarów, to rzeczywisty zarobek będzie zależny od wielu różnych czynników. Chodzi między innymi o koszty wydobycia, przetwarzania surowca oraz ilości metalu, którą uda się faktycznie odzyskać.",
-        "Czytaj też: Wielka eksplozja w USA zaangażowała nawet NASA. Takiego zagrożenia nie widać gołym okiem",
-        "Drugim ważnym obszarem jest Wangu, położone w prowincji Hunan. Odkrycie miało tam miejsce już dwa lata temu, kiedy to geolodzy poinformowali o zidentyfikowaniu ponad 40 żył złota, zawierających około 300 ton kruszcu na głębokości do 2000 metrów. Dzięki dalszym analizom i modelowaniu geologicznemu oszacowali, iż zasoby mogą przekraczać 1000 ton, jeśli uwzględnić głębsze partie terenu.",
-        "W tym przypadku teoretyczna wartość mogłaby wynosić niemal 115 miliardów dolarów. W połączeniu z Dadonggou daje to kwotę zbliżoną do 300 miliardów dolarów. A gdyby odsunąć na bok debatowanie o aspekcie finansowym, to ciekawa okazuje się również sama budowa geologiczna złoża. Badając Dadonggou, naukowcy przeanalizowali dane z ponad 200 odwiertów, a także próbki skał oraz mikroskopową strukturę kryształów kwarcu. Okazało się, że złoto występuje tam przede wszystkim w stosunkowo płaskich, łagodnie nachylonych strefach skał metamorficznych, zamiast charakterystycznych, stromych żył kwarcowych."
+        "Astronomowie opracowali najbardziej czułą jak dotąd mapę rozkładu materii we wszechświecie. Wykorzystali w tym celu dane pochodzące z teleskopu South Pole Telescope, który znajduje się na Antarktydzie. Obserwując światło pochodzące z początków kosmosu byli w stanie odtworzyć rozmieszczenie materii na ogromnych odległościach. Podstawę sukcesu stanowiło mikrofalowe promieniowanie tła, czyli najstarsze światło, jakie możemy obserwować we […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Podstawę sukcesu stanowiło mikrofalowe promieniowanie tła, czyli najstarsze światło, jakie możemy obserwować we wszechświecie. Powstało około 380 tysięcy lat po Wielkim Wybuchu, kiedy kosmos ochłodził się na tyle, by fotony mogły swobodnie przemieszczać się w przestrzeni. Od tamtej pory promieniowanie pokonało niemal całą obserwowalną przestrzeń kosmiczną, docierając również do Ziemi.",
+        "Czytaj też: Robot Charlotte drukuje domy w 3D na Ziemi i w kosmosie, ale nie taką metodą jak myślisz",
+        "W przypadku nowej mapy badacze przeanalizowali zarówno temperaturę, jak i polaryzację promieniowania mikrofalowego tła. Następnie, wykorzystując zaawansowane metody matematyczne i obliczeniowe, odtworzyli sygnał soczewkowania grawitacyjnego. Pozwoliło im to określić, jak materia jest rozmieszczona pomiędzy Ziemią a miejscem, z którego pochodzi obserwowane promieniowanie.",
+        "Oczywiście nie oznacza to bezpośredniego sfotografowania ciemnej materii. Wdrożona metoda pozwala odtworzyć rozkład masy na podstawie jej oddziaływania grawitacyjnego. Obejmuje więc zarówno zwykłą materię, jak i niewidzialną materię, której obecność astronomowie wnioskują z jej wpływu na otoczenie. Yuuki Omori z Uniwersytetu Chicagowskiego, główny autor badań, dodaje, że uzyskana mapa przypomina fotografię wykonaną przy wyjątkowo niskim poziomie szumów. Jej jakość pozwala dostrzec subtelne sygnały, które wcześniej było znacznie trudniej wyodrębnić."
+      ]
+    },
+    {
+      "id": "tech-1-50e938",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "MEDIUM",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Recenzja Władca Pierścieni: W kręgu wojny. Świetne kombinowanie, ale co tu robi Tolkien?",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "09:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/recenzja-wladca-pierscieni-w-kregu-wojny",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/recenzja-wladca-pierscieni-w-kregu-wojny-zestaw-2.jpg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Władca Pierścieni: W kręgu wojny to jedna z dziwniejszych gier planszowych osadzonych w Śródziemiu, bo zamiast opowiedzieć się po stronie dobra albo zła, każdy gracz dowodzi obiema armiami jednocześnie.",
+        "Jest to zresztą znacznie ciekawsze, niż mogłoby się początkowo wydawać, a do tego zostało zamknięte w zaskakująco kompaktowej formie.",
+        "Wróćmy jednak do samego początku… Zacznijmy od zawartości pudełka, a to dlatego, że szczególnie spodobało mi się to, jak niewiele miejsca potrzebujemy do zabawy."
+      ],
+      "extended_paragraphs": [
+        "Władca Pierścieni: W kręgu wojny to jedna z dziwniejszych gier planszowych osadzonych w Śródziemiu, bo zamiast opowiedzieć się po stronie dobra albo zła, każdy gracz dowodzi obiema armiami jednocześnie. Do tego dochodzi poszukiwanie Drużyny Pierścienia, jej podróż do Góry Przeznaczenia oraz bitwy, które mogą zakończyć całą rozgrywkę, ale spokojnie – zasady są zaskakująco przystępne, a […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Pisząc w skrócie, Władca Pierścieni: W kręgu wojny od wydawnictwa Rebel stawia przede wszystkim na zarządzanie kośćmi i rozwijanie kilku niezależnych, choć powiązanych ze sobą systemów. Jest to zresztą znacznie ciekawsze, niż mogłoby się początkowo wydawać, a do tego zostało zamknięte w zaskakująco kompaktowej formie. Wróćmy jednak do samego początku…",
+        "Zacznijmy od zawartości pudełka, a to dlatego, że szczególnie spodobało mi się to, jak niewiele miejsca potrzebujemy do zabawy. Nie ma tutaj wielkiej planszy przedstawiającej całe Śródziemie, dziesiątek figurek ani zatrzęsienia kart. Zamiast tego dostajemy przede wszystkim 20-stronicową instrukcję, cztery składane plansze graczy, cztery plansze wojny, osiem kości, suchościeralne mazaki, planszę Jedynego Pierścienia z drewnianym znacznikiem Golluma oraz karty pomocy. Całość można przygotować do rozgrywki i później schować do pudełka w ledwie kilka minut.",
+        "Czytaj też: Recenzja gry planszowej Dewan. Przyjemna strategia, która cieszy oko i mózg",
+        "Największą zaletą jest jednak to, że każda plansza gracza ma formę składanej teczki, którą można trzymać przed sobą niczym otwartą książkę. Nie potrzebujemy więc wielkiego stołu, na którym każdy uczestnik rozkłada własne stanowisko. Wystarczy nawet niewielki stolik na planszę Pierścienia i plansze bitew, podczas gdy resztę możemy trzymać po prostu w dłoniach. Jest to świetne rozwiązanie, zwłaszcza że producent deklaruje czas rozgrywki na poziomie 60-90 minut, a więc nie mówimy o typowej, kilkunastominutowej grze imprezowej."
       ]
     },
     {
@@ -1430,67 +1556,35 @@
       ]
     },
     {
-      "id": "tech-3-bdca78",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "id": "tech-5-76138b",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
-      "title": "Zbroja Dooma i świecący młot Thora na nadgarstku. Nowe zegarki Fossila z „Avengers: Doomsday” naprawdę dają radę",
+      "title": "Zauważyli 20-metrowego drona z kosmosu. Chiński sekret wojskowy wygląda podejrzanie znajomo",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "19:00",
+      "time": "05:00",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/nowe-zegarki-fossila-z-avengers-doomsday-naprawde-daja-rade",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/fossil-kolekcja-avengers-doomsday-1.jpeg",
+      "source_url": "https://www.chip.pl/2026/11/chiny-tajemniczy-dron-tankowiec-kopia-mq-25",
+      "image_url": "https://konto.chip.pl/uploads/2021/12/Dron-MQ-25-Stingray-zmierza-na-lotniskowiec.-W-przyszlosci-ma-tankowac-mysliwce222222.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": false,
       "summary_points": [
-        "Większość gadżetów wypuszczanych przy okazji premier wielkich filmów superbohaterskich to pójście na łatwiznę.",
-        "Zwykle dostajemy zwykły, nudny zegarek, na którego tarczy ktoś po prostu nadrukował logo kinowego hitu i uznał robotę za skończoną.",
-        "Fossil jednak nigdy nie lubił takich rozwiązań i po raz kolejny udowadnia nam, że popkulturowe gadżety mogą być stylowe."
+        "Gdyby Chińczycy mieli wzorować się na którymś z najnowocześniejszych amerykańskich samolotów wojskowych, to pewnie większość z nas pomyślałaby o myśliwcu F-35 albo bombowcu B-21 Raider.",
+        "Tymczasem na jednym z chińskich lotnisk pojawiła się tajemnicza maszyna, która przypomina niepozorny, ale kluczowy na służbie USA sprzęt.",
+        "Jednocześnie od razu zaznaczam – podobieństwo obu konstrukcji nie pewnym dowodem […] powrót Tech Testy Moto Nauka Publicystyka Dron MQ-25 Stingray, MQ-25 Stingray, Chcesz czytać więcej treści jak „ Zauważyli 20-metrowego drona z kosmosu."
       ],
       "extended_paragraphs": [
-        "Większość gadżetów wypuszczanych przy okazji premier wielkich filmów superbohaterskich to pójście na łatwiznę. Zwykle dostajemy zwykły, nudny zegarek, na którego tarczy ktoś po prostu nadrukował logo kinowego hitu i uznał robotę za skończoną. Fossil jednak nigdy nie lubił takich rozwiązań i po raz kolejny udowadnia nam, że popkulturowe gadżety mogą być stylowe. Przed zaplanowaną na […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Zbroja Dooma i świecący młot Thora na nadgarstku. Nowe zegarki Fossila z „Avengers: Doomsday” naprawdę dają radę \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Przed zaplanowaną na 18 grudnia premierą filmu „Avengers: Doomsday” marka wypuściła kolekcję czterech limitowanych zegarków poświęconych Doktorowi Doomowi, Thorowi, Gambitowi oraz Panu Fantastycznemu. I co najciekawsze, tutaj nikt nie próbował robić skoku na kasę przez sztuczne dzielenie bohaterów na lepszych i gorszych. Każdy z modeli kosztuje dokładnie 325 dolarów (około 1300 złotych), a za cały zestaw czterech sztuk trzeba zapłacić równe 1300 dolarów, bez żadnych kodów rabatowych czy promocji.",
-        "Mimo że każdy zegarek ma zupełnie inny charakter i własną sztuczkę ukrytą w obudowie, wszystkie łączą te same, całkiem solidne podstawy użytkowe. Każdy egzemplarz dostał numerowany dekiel z wygrawerowanym logo filmu oraz grafiką postaci, szkło mineralne, standardową szerokość paska 22 mm, wodoszczelność na poziomie 5 ATM (bez problemu przeżyją ulewę czy wypad na basen) oraz dwuletnią gwarancję. Trzy z nich napędzają klasyczne, trzywskazówkowe mechanizmy kwarcowe, dzięki czemu są gotowe do działania w sekundę po zdjęciu z półki. Czwarty natomiast dostał do kompletu cyfrowy wyświetlacz.",
-        "Gdybym miała wskazać mojego faworyta pod kątem czystego wyglądu, bez wahania postawiłabym na Doktora Dooma (LE1256SET). Stalową kopertę o średnicy 44 mm otoczono pierścieniem przypominającym ogniwa łańcucha i nitowanymi detalami, a pod spodem osadzono zieloną tarczę stylizowaną na płyty pancerza. Całość pokrywają runy i symbole Latverii, a herb na godzinie szóstej sprytnie maskuje sekundnik w samym projekcie cyferblatu. Zielony, skórzany pasek przedłuża ten kolor poza kopertę i sprawia, że w zestawieniu z ciemną kurtką zegarek od razu gra pierwsze skrzypce.",
-        "Również 44-milimetrowy model Thora (LE1257SET) stawia na mocną fakturę, ale tutaj niczego nie próbowano wygładzać na błysk. Postarzana stal nierdzewna, pierścień z nordyckim węzłem oraz pęknięcia na bokach koperty bezpośrednio nawiązują do na nowo wykutego młota Mjolnira, którego runiczna inskrypcja biegnie wokół tarczy."
-      ]
-    },
-    {
-      "id": "tech-5-1cd7b8",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "To idealny moment na kupno nowego Galaxy Tab. Samsung rozdaje gratisy nawet za tysiaka",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "17:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/to-idealny-moment-na-kupno-nowego-galaxy-tab-samsung-rozdaje-gratisy-nawet-za-tysiaka",
-      "image_url": "https://konto.chip.pl/uploads/2026/09/samsung-galaxy-tab-s12-seria.png",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Listopad to czas intensywnych promocji.",
-        "Marki prześcigają się w ofertach, co tyczy się oczywiście również elektroniki.",
-        "Nie wszyscy jednak tną ceny, niektórzy, tak jak Samsung, wolą dać nam coś w gratisie."
-      ],
-      "extended_paragraphs": [
-        "Listopad to czas intensywnych promocji. Marki prześcigają się w ofertach, co tyczy się oczywiście również elektroniki. Nie wszyscy jednak tną ceny, niektórzy, tak jak Samsung, wolą dać nam coś w gratisie. Tym razem, kupując jeden z wybranych tabletów z rodziny Galaxy Tab można odebrać dopasowane etui z klawiaturą o wartości dochodzącej nawet do 999 złotych. […]",
-        "Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google W ten sposób naprawdę tablet może zmienić się w wygodny laptop na uczelnię czy do pracy, a co ważniejsze – klawiaturę w każdej chwili można odłączyć, gdy jednak będziemy chcieli skorzystać z klasycznego tabletu. Akcja obejmuje cztery modele z oferty producenta: flagowe Galaxy Tab S12 Ultra oraz Galaxy Tab S12+, podstawowego Galaxy Tab S11, a także przystępniejszy cenowo wariant Galaxy Tab S10 FE.",
-        "Jak to zwykle przy takich promocja bywa, wartość prezentu oraz jego wariant zależą bezpośrednio od wybranego urządzenia, a organizator przewidział konkretną liczbę nagród przypisaną do każdego modelu. Warto więc mieć na uwadze, że zapasy w promocji są limitowane, dlatego lepiej się spieszyć z zakupem.",
-        "Nabywcy największego Galaxy Tab S12 Ultra mogą liczyć na najlepszy prezent, bo tu Samsung przewidział na etui Book Cover Keyboard Slim wyceniane na 999 złotych (przygotowano 268 sztuk). Z kolei do Galaxy Tab S12+ dodawany jest dopasowany wariant tego samego akcesorium o wartości 779 złotych (pula wynosi 283 sztuki). Natomiast kupujący Galaxy Tab S11 otrzymają etui Book Cover Keyboard Slim warte 649 złotych (dostępnych jest 515 sztuk).",
-        "Czytaj też: Nie trzeba już wymieniać Galaxy Watch na nowszy model. Flagowe funkcje zdrowotne trafiają do starszych zegarków"
+        "Gdyby Chińczycy mieli wzorować się na którymś z najnowocześniejszych amerykańskich samolotów wojskowych, to pewnie większość z nas pomyślałaby o myśliwcu F-35 albo bombowcu B-21 Raider. Tymczasem na jednym z chińskich lotnisk pojawiła się tajemnicza maszyna, która przypomina niepozorny, ale kluczowy na służbie USA sprzęt. Jednocześnie od razu zaznaczam – podobieństwo obu konstrukcji nie pewnym dowodem […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Dron MQ-25 Stingray, MQ-25 Stingray, Chcesz czytać więcej treści jak „ Zauważyli 20-metrowego drona z kosmosu. Chiński sekret wojskowy wygląda podejrzanie znajomo \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Na ślad tajemniczego bezzałogowca naprowadziły obserwatorów ogólnodostępne zdjęcia satelitarne lotniska Pucheng Neifu w chińskiej prowincji Shaanxi, które są ogólnodostępne w usługach Apple Maps oraz Bing Maps. Sprawą zainteresowała się dokładniej redakcja The War Zone, która uzyskała od operatora satelitarnego Vantor dokładniejsze zdjęcia z 23 kwietnia 2026 roku, a dziś mam dla was jeszcze więcej informacji na ten temat.",
+        "Według najnowszych ustaleń wspomniana chińska maszyna przypomina MQ-25 Stingray, a więc wyjątkowego drona w rękach wojskowych USA. Szacunki co do wielkości wspominają z kolei, że mierzy ona około 20,1 metra rozpiętości skrzydeł oraz 14,9 metra długości, podczas gdy amerykański MQ-25 Stingray odpowiednio 22,9 oraz 15,5 metra. Jednocześnie pomimo ogólnego podobieństwa obu konstrukcji dzieli je kilka istotnych różnic.",
+        "Czytaj też: Pocisk poleci dalej i to bez silnika rakietowego. USA inwestują w niezwykły dopalacz artylerii",
+        "what a suprise! Three UAV spotted at Pucheng on apple maps. CH-7, Jiutian and a MQ-25 like UAV. pic.twitter.com/rREqLuFAdU"
       ]
     },
     {
@@ -1526,38 +1620,35 @@
       ]
     },
     {
-      "id": "tech-7-10f113",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "id": "tech-7-a2e612",
+      "entity_tag": "Apple (NASDAQ: AAPL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) (kluczowe liczby: 220 tys., 88 proc.) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [
-        "220 tys.",
-        "88 proc."
-      ],
-      "title": "W świecie Androida jak w lesie. Trojan w tablecie tkwił już na sklepowych półkach",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Apple (NASDAQ: AAPL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Tryb samolotowy przydaje się nie tylko w powietrzu. Oto 3 powody, by go włączać",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:30",
+      "time": "09:00",
       "source": "Antyweb Innowacje",
-      "source_url": "https://antyweb.pl/android-keenadu-triada-trojan",
-      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/mark-boss-W9f-PrkRqk0-unsplash.jpg",
+      "source_url": "https://antyweb.pl/tryb-samolotowy-to-nie-tylko-wylaczanie-zasiegu",
+      "image_url": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2026/11/tryb-samolotowy-to-nie-tylko-wylaczanie-zasiegu-1.jpg",
       "image_source": "Fot. / Źródło: Antyweb Innowacje",
       "lead_story": false,
       "summary_points": [
-        "System wspaniały, ale ludzie to czasem \"świnie\".",
-        "I okazuje się, że Kaspersky za okres od stycznia do października wykrył trojana Keenadu na ponad 220 tys. sprzętach z systemem Android.",
-        "W części tabletów był on nawet zaszyty w softwarze producenckim, a niektóre wersje złośliwego kodu, aby ukryć swoje intencje, aktywowały się z opóźnieniem."
+        "Tryb samolotowy w telefonie przydaje się nie tylko podczas lotu.",
+        "Może wydłużyć czas pracy baterii, pomóc przy problemach z zasięgiem, a nawet nieco przyspieszyć ładowanie.",
+        "Sprawdź trzy praktyczne zastosowania tej funkcji."
       ],
       "extended_paragraphs": [
-        "System wspaniały, ale ludzie to czasem \"świnie\". I okazuje się, że Kaspersky za okres od stycznia do października wykrył trojana Keenadu na ponad 220 tys. sprzętach z systemem Android. W części tabletów był on nawet zaszyty w softwarze producenckim, a niektóre wersje złośliwego kodu, aby ukryć swoje intencje, aktywowały się z opóźnieniem. Tragikomedia? Trochę tak. Mimo mojej całej sympatii do tego systemu.",
-        "Kaspersky, w swoim nowym materiale , opisał zgłoszenia od firm, które zakupiły sprzęt dla swoich pracowników. Świeżo wyciągnięte z pudełek i przeskanowane antywirusem okazały się \"nosicielami\", i to od nowości, trojanami Keenadu lub Triada. W pierwszych dziesięciu miesiącach roku jeden z tych dwóch trojanów był obecny na 88 proc. urządzeń, na których firma znalazła złośliwy kod dostarczony razem z systemem. I są to dane tylko od Kaspersky'ego: realny zasięg występowania tych \"niespodzianek\" trudno nawet sensownie oszacować.",
-        "Bardzo powszechnym jest zjawisko, wedle którego \"producent\" to tak naprawdę dawca logotypu, który zamawia sobie w Chinach partię o wolumenie X w fabryce Y. Czasami za jeden model na rynku odpowiada nawet kilka firm i zapewne ów fakt wykorzystano w ataku na łańcuch dostaw. Google nawet opisywało scenariusz, w którym producent zlecił podwykonawcy doszlifowanie oprogramowania i w zwróconej mu wersji systemu była już wspomniana Triada. Są jeszcze w grze wytwórcy podróbek, którzy sami dodają do systemu złośliwy kod. Czasami jest też tak, że za cały ambaras odpowiada producent, gdy w jego łańcuchu dostaw oprogramowania użyty jest np. uzłośliwiony komponent.",
-        "W przypadku Keenadu udało się prześledzić całość historii dzięki plikom z oprogramowaniem, które producent tabletów Alldocube udostępniał na swojej stronie. I tam, co wręcz kosmicznie ciekawe, takowe zagrożenie zidentyfikowano już w wersji z 18 sierpnia 2023 roku przeznaczonej dla modelu iPlay 50 mini Pro. Warto nadmienić, że wariant tabletu z dopiskiem NFE początkowo miał czysty system, a Keenadu wdarł się tam później: wraz z uaktualnieniem. I... nawet zainfekowane pakiety miały prawidłowy podpis cyfrowy producenta. Trojan został tam dodany jeszcze na etapie prac producenta.",
-        "Fabryczny reset nie kasuje wszystkiego z urządzenia. Po restarcie tablet wciąż działa na tej samej wersji OS-u, wraz z trojanem, o ile ten wdarł się do partycji systemowej. Antywirus może go tam wykryć, ale do usunięcia zainfekowanego składnika potrzebna jest poprawiona wersja oprogramowania przygotowana na ten model. 4 marca 2026 roku Alldocube poinformowało o wydaniu takich poprawek dla czterech swoich tabletów."
+        "Tryb samolotowy w telefonie przydaje się nie tylko podczas lotu. Może wydłużyć czas pracy baterii, pomóc przy problemach z zasięgiem, a nawet nieco przyspieszyć ładowanie. Sprawdź trzy praktyczne zastosowania tej funkcji.",
+        "Tryb samolotowy kojarzy się przede wszystkim z podróżowaniem. Tymczasem okazuje się, że niepozorna funkcja, dostępna praktycznie w każdym smartfonie, może przydać się również na co dzień.",
+        "Jedną z największych zalet trybu samolotowego jest ograniczenie zużycia energii. Po jego włączeniu telefon przestaje komunikować się z siecią komórkową. Nie musi więc utrzymywać połączenia ze stacją bazową ani szukać zasięgu.",
+        "Różnica jest szczególnie odczuwalna w miejscach, gdzie sygnał jest słaby lub nie ma go wcale. Smartfon może wtedy zużywać więcej energii na próby nawiązania i utrzymania połączenia. Samo Apple wymienia tryb samolotowy jako sposób na oszczędzanie baterii, gdy iPhone pracuje przy słabym zasięgu lub bez niego.",
+        "Hej, obserwuj nas w Google Discover Obserwuj nas → Funkcja przyda się więc na przykład podczas podróży pociągiem przez miejsca, gdzie zasięg co chwilę znika, albo w budynkach, w których telefon ma problem z połączeniem się z siecią. W górach i innych odosobnionych miejscach warto jednak zachować ostrożność. Mam tu na myśli sytuacje w których możemy potrzebować pomocy. Gdy łączność komórkowa jest wyłączona, nie odbierzemy zwykłych połączeń ani SMS-ów przez sieć operatora."
       ]
     },
     {
@@ -1565,8 +1656,8 @@
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
       "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
       "title": "Najlepsze oferty na Czarny Piątek, jakie Ars mógł znaleźć",
@@ -1580,22 +1671,90 @@
       "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+        "Może jakiś handel, żeby wszystkie resztki z Dnia Indyka mogły łatwiej zejść?",
         "Ten dzień na zawsze popadł w niesławę i wszyscy znamy tę historię – jak zły Megatron (przeklęty niech będzie przepływ jego energii!) zarekwirował wahadłowiec Autobot, okrutnie zamordował jego załogę i przypuścił tchórzliwy, niespodziewany atak na Autobot City – plan całkowicie pozbawiony honoru, co było tak typowe dla planów Megatrona.",
         "Nawet gdy pojedyncze Autoboty próbowały zabezpieczyć Autobot City – bohaterowie, wszyscy!"
       ],
       "extended_paragraphs": [
-        "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+        "Może jakiś handel, żeby wszystkie resztki z Dnia Indyka mogły łatwiej zejść?",
         "Ten dzień na zawsze popadł w niesławę i wszyscy znamy tę historię – jak zły Megatron (przeklęty niech będzie przepływ jego energii!) zarekwirował wahadłowiec Autobot, okrutnie zamordował jego załogę i przypuścił tchórzliwy, niespodziewany atak na Autobot City – plan całkowicie pozbawiony honoru, co było tak typowe dla planów Megatrona. Nawet gdy pojedyncze Autoboty próbowały zabezpieczyć Autobot City – bohaterowie, wszyscy! – nadzieja zaczęła słabnąć pod wpływem ataku, który obejmował atak przerażającego Devastatora, przed którym wydawało się, że nie ma obrony.",
-        "A potem, u progu katastrofy, Optimus Prime złożył fatalną deklarację, której słowa wciąż brzmią: „Megatron musi zostać zatrzymany bez względu na cenę”. The fearless Autobot transformed, rolled out, and got the job done—even though that cost was high. Many brave Autobots besides Optimus Prime lost their lives during the fighting. To był naprawdę mroczny dzień, czarny dzień – dlatego co roku w piątek po Święcie Dziękczynienia zatrzymujemy się, aby pamiętać o szlachetnych poświęceniach dokonanych przez Prime i tak wielu innych osób. Dlatego dzisiejszy dzień nazywany jest Czarnym Piątkiem.",
-        "And how do we remember those Autobots who joined the Allspark so that we could live in freedom? Why, we celebrate Black Friday through commerce and buying things—just like Optimus Prime would have wanted! Below is a list of the finest deals we could locate, in a broad range of categories. The pricing is current as of (checks watch) right now, where “right now” equals the timestamp on this story’s publication. Przejrzyj listę i zobacz, czy coś Cię zainteresuje — postaramy się ją odświeżyć przynajmniej raz w ciągu dnia, podając aktualne ceny i inne elementy.",
-        "If the darkness of the Black Friday story threatens to overwhelm your soul, fear not. Optimus Prime was succeeded by Rodimus Prime, who defeated the darkness and brought hope back to all Cybertron. (Nie mówimy o krótkim okresie międzykrólewskim dowodzonym przez Ultra Magnusa.) Nawet sam Optimus Prime nie pozostałby martwy na zbyt długo – jego własne chwalebne i być może narracyjnie nieuniknione zmartwychwstanie miało nastąpić niedługo potem. Rzeczywiście, już za kilka dni będziemy świętować te wielkie wydarzenia, w Cybertronowy Poniedziałek (lub w skrócie „Cyberponiedziałek”), częstszymi zakupami!"
+        "A potem, u progu katastrofy, Optimus Prime złożył fatalną deklarację, której słowa wciąż brzmią: „Megatron musi zostać zatrzymany bez względu na cenę”. Nieustraszony Autobot przekształcił się, wdrożył i wykonał zadanie – mimo że koszt był wysoki. Wiele odważnych Autobotów oprócz Optimusa Prime straciło życie podczas walk. To był naprawdę mroczny dzień, czarny dzień – dlatego co roku w piątek po Święcie Dziękczynienia zatrzymujemy się, aby pamiętać o szlachetnych poświęceniach dokonanych przez Prime i tak wielu innych osób. Dlatego dzisiejszy dzień nazywany jest Czarnym Piątkiem.",
+        "A jak pamiętamy te Autoboty, które dołączyły do ​​Allspark, abyśmy mogli żyć w wolności? Cóż, świętujemy Czarny Piątek poprzez handel i kupowanie rzeczy – tak jak chciałby Optimus Prime! Poniżej znajduje się lista najlepszych ofert, jakie znaleźliśmy, w szerokim zakresie kategorii. Ceny są aktualne na chwilę obecną (sprawdza zegarek), gdzie „w tej chwili” oznacza znacznik czasu publikacji tej historii. Przejrzyj listę i zobacz, czy coś Cię zainteresuje — postaramy się ją odświeżyć przynajmniej raz w ciągu dnia, podając aktualne ceny i inne elementy.",
+        "Jeśli ciemność historii Czarnego Piątku grozi przytłoczeniem twojej duszy, nie obawiaj się. Następcą Optimusa Prime został Rodimus Prime, który pokonał ciemność i przywrócił nadzieję całemu Cybertronowi. (Nie mówimy o krótkim okresie międzykrólewskim dowodzonym przez Ultra Magnusa.) Nawet sam Optimus Prime nie pozostałby martwy na zbyt długo – jego własne chwalebne i być może narracyjnie nieuniknione zmartwychwstanie miało nastąpić niedługo potem. Rzeczywiście, już za kilka dni będziemy świętować te wielkie wydarzenia, w Cybertronowy Poniedziałek (lub w skrócie „Cyberponiedziałek”), częstszymi zakupami!"
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-3-23cea6",
+      "id": "swiat-1-52d8d1",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "HIGH",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) (kluczowe liczby: 360 tys., 4 tys., 900 tys.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [
+        "360 tys.",
+        "4 tys.",
+        "900 tys."
+      ],
+      "title": "Mieszkańcy bez prądu, chaos na lotniskach. USA walczą ze skutkami żywiołu",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "08:03",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-28/mieszkancy-bez-pradu-chaos-na-lotniskach-usa-walcza-ze-skutkami-zywiolu/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/a4/a4tppao54gnogbfdqjohyiy3d4mwb5zp.jpg",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": true,
+      "summary_points": [
+        "W następstwie gwałtownych burz Stany Zjednoczone zmagają się z setkami tysięcy awarii prądu oraz poważnymi utrudnieniami w ruchu lotniczym.",
+        "Najwięcej szkód odnotowano w Pensylwanii.",
+        "Prezydent Donald Trump rozważa wysłanie pomocy federalnej do części kraju najbardziej dotkniętych skutkami nawałnic."
+      ],
+      "extended_paragraphs": [
+        "W następstwie gwałtownych burz Stany Zjednoczone zmagają się z setkami tysięcy awarii prądu oraz poważnymi utrudnieniami w ruchu lotniczym. Najwięcej szkód odnotowano w Pensylwanii. Prezydent Donald Trump rozważa wysłanie pomocy federalnej do części kraju najbardziej dotkniętych skutkami nawałnic.",
+        "W piątek wieczorem, dzień po Święcie Dziękczynienia, po burzach, które przeszły przez wschodnie wybrzeże Ameryki, odnotowano wciąż 360 tys. przerw w dostawie prądu – poinformował monitorujący awarie energetyczne portal poweroutage.us. Opóźnionych lub odwołanych było ponad 4 tys. lotów .",
+        "W Święto Dziękczynienia liczba przerw w dostawach energii elektrycznej osiągnęła poziom ponad 900 tys. Według agencji AP w niektórych częściach USA trwa usuwanie szkód i przywracanie zasilania. Najwięcej awarii odnotowano w Pensylwanii oraz w Missouri , gdzie utrudnienia spowodowały opady śniegu .",
+        "W Hampton w Wirginii burza przewróciła popularny punkt orientacyjny na plaży Grandview - zwietrzałe, bezlistne drzewo znane jako \"Drzewo Żalu\" lub \"Drzewo Muszli\" . Odwiedzający regularnie dekorowali jego gałęzie muszelkami, co stanowiło popularny motyw dla fotografów.",
+        "W czwartek wschodnie regiony kraju nawiedziła potężna burza, przynosząc silny wiatr, ulewne deszcze i podtopienia na wybrzeżach. Według portalu poweroutage.us Pensylwania pozostaje stanem najbardziej dotkniętym przerwami w dostawie prądu, do których doszło w piątek wcześnie rano."
+      ]
+    },
+    {
+      "id": "swiat-3-337fcd",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "HIGH",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Słowa Wołodymyra Zełenskiego wywołały oburzenie. Doszło do pilnej rozmowy",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "23:07",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/premier-meloni-i-prezydent-zelenski-wyjasnili-sobie-kwestie-ukrainskiej-operacji-w-libii/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/3a/3aaqhg41hz55wt5bqhyxum7gbpio1i29.png",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Premier Włoch Giorgia Meloni i prezydent Ukrainy Wołodymyr Zełenski wyjaśnili sobie kwestię operacji ukraińskich sił przeciwko rosyjskim okrętom w Libii.",
+        "Wcześniej Włochy ogłosiły, że wbrew zapewnieniom Kijowa o koordynacji działań z partnerami nie zostały poinformowane o operacji.",
+        "Przedmiotem sporu między Rzymem a Kijowem był atak ukraińskich dronów morskich, które zatopiły w nocy z soboty na niedzielę rosyjską korwetę rakietową Merkury , zacumowaną w porcie w Bengazi w Libii ."
+      ],
+      "extended_paragraphs": [
+        "Premier Włoch Giorgia Meloni i prezydent Ukrainy Wołodymyr Zełenski wyjaśnili sobie kwestię operacji ukraińskich sił przeciwko rosyjskim okrętom w Libii. Wcześniej Włochy ogłosiły, że wbrew zapewnieniom Kijowa o koordynacji działań z partnerami nie zostały poinformowane o operacji.",
+        "Przedmiotem sporu między Rzymem a Kijowem był atak ukraińskich dronów morskich, które zatopiły w nocy z soboty na niedzielę rosyjską korwetę rakietową Merkury , zacumowaną w porcie w Bengazi w Libii . Prezydent Zełenski potwierdził, że była to operacja ukraińskich sił zbrojnych.",
+        "W czwartkowym wywiadzie dla BBC Zełenski oświadczył, że Ukraina zawsze koordynuje ataki na rosyjskie statki i okręty z państwami , na których wodach lub w pobliżu których infrastruktury działają ukraińskie siły.",
+        "- Nasi dyplomaci współpracują z dyplomatami każdego państwa, jeśli działamy na określonych wodach, na wodach międzynarodowych lub w pobliżu infrastruktury innego kraju (...). Wiemy więc, że dany statek jest objęty sankcjami, albo - w najgorszym przypadku - nie tylko jest objęty sankcjami, ale także przewozi rosyjską broń i pływa pod rosyjską banderą. Jest to zatem jasne dla naszych sił, służb specjalnych i wywiadu. Tak, one działają, dlatego też zajmujemy bardzo jasne i otwarte stanowisko - powiedział Zełenski.",
+        "Prezydent stwierdził, że Ukraina nie może pozwolić rosyjskim statkom i okrętom na atakowanie kraju czy przewożenie broni."
+      ]
+    },
+    {
+      "id": "swiat-4-035fd7",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "MEDIUM",
@@ -1603,31 +1762,63 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Zmęczony wojną, ale bez oznak wycofania się, Kijów stoi w obliczu kolejnej mroźnej zimy",
-      "original_title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "title": "Właściciel mówi BBC, że tureccy urzędnicy „zniszczyli” proopozycyjny kanał telewizyjny",
+      "original_title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:42",
+      "time": "04:13",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
       "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": true,
+      "lead_story": false,
       "summary_points": [
-        "Ukraina przygotowuje się do kolejnej niszczycielskiej zimy, a wciąż pojawia się pytanie: jak to się wszystko skończy?",
-        "Coś dziwnego dzieje się, gdy po ośmiu godzinach jazdy od polskiej granicy dojeżdżasz do Kijowa: zegar w Twojej komórce wskazuje północ.",
-        "To raczej nie dotyczy telefonów – wydaje się być częścią szerszej strategii dezorientacji rakiet i dronów wysyłanych przez Rosjan."
+        "W zeszłym miesiącu doszło do nalotu na siedzibę Halk TV i był to najnowszy z serii ataków na źródła wiadomości uznane za krytyczne wobec rządu.",
+        "Władze tureckie „zniszczyły” jeden z najchętniej oglądanych kanałów informacyjnych w kraju, powiedział BBC jego londyński właściciel.",
+        "W rozmowie z BBC Newshour Cafer Mahiroğlu powiedział, że w tym tygodniu aresztowano dziewięć osób związanych z Halk TV pod zarzutami, w tym prania pieniędzy, przekupstwa i rozpowszechniania wprowadzających w błąd informacji."
       ],
       "extended_paragraphs": [
-        "Ukraina przygotowuje się do kolejnej niszczycielskiej zimy, a wciąż pojawia się pytanie: jak to się wszystko skończy?",
-        "Coś dziwnego dzieje się, gdy po ośmiu godzinach jazdy od polskiej granicy dojeżdżasz do Kijowa: zegar w Twojej komórce wskazuje północ. To raczej nie dotyczy telefonów – wydaje się być częścią szerszej strategii dezorientacji rakiet i dronów wysyłanych przez Rosjan.",
-        "Pomijając jednak takie drobnostki, Kijów na pierwszy rzut oka wydaje się całkiem normalny. Zdajesz sobie sprawę, że trwa wojna, kiedy syreny zaczynają wyć, a ludzie sprawdzają, czy w telefonach nie ma powiadomień informujących o czerwonym alarmie i nadlatujących rakietach. Możesz nawet kupić gadżety, które pokażą Ci, z jakiego kierunku nadlatują drony i jakiego są rodzaju.",
-        "W ciągu ostatnich kilku tygodni drony i rakiety balistyczne uderzały w znacznych ilościach. Rankiem w poniedziałek 16 listopada rozpoczęła się bitwa o mosty. Ukraina uderzyła w most Kerczeński łączący Rosję z nielegalnie okupowanym Krymem. Następnie wystrzelił większą falę rakiet i dronów, uszkadzając centralny łuk mostu drogowego. Kilka godzin później, prawdopodobnie w odwecie, Rosja wystrzeliła w kierunku Kijowa siedem rakiet balistycznych, niszcząc dwa z dziewięciu mostów przecinających rzekę Dniepr.",
-        "Wojna ciągnie się od ponad czterech i pół roku, w jej wyniku zginęło – według niektórych szacunków ONZ – 100 000 żołnierzy ukraińskich i 18 000 ukraińskich cywilów, a prawdopodobnie więcej. Jego infrastruktura również została nadszarpnięta, podobnie jak jego morale. Podczas gdy w nocy temperatury spadają do zera, a Ukraińcy regularnie cierpią z powodu braku światła, ciepła i wody z powodu rosyjskich strajków, czy kraj ten przetrwa kolejną trudną zimę pod bombardowaniami? A jak wyglądałoby porozumienie pokojowe, gdyby można było je zawrzeć?"
+        "W zeszłym miesiącu doszło do nalotu na siedzibę Halk TV i był to najnowszy z serii ataków na źródła wiadomości uznane za krytyczne wobec rządu.",
+        "Władze tureckie „zniszczyły” jeden z najchętniej oglądanych kanałów informacyjnych w kraju, powiedział BBC jego londyński właściciel.",
+        "W rozmowie z BBC Newshour Cafer Mahiroğlu powiedział, że w tym tygodniu aresztowano dziewięć osób związanych z Halk TV pod zarzutami, w tym prania pieniędzy, przekupstwa i rozpowszechniania wprowadzających w błąd informacji.",
+        "Mahiroğlu powiedział, że kilku członków jego rodziny znalazło się wśród aresztowanych w zeszłym miesiącu, gdy proopozycyjny kanał został przejęty przez rząd, i dodał, że zarzuty stawiane jemu i Halk TV są „całkowicie błędne”.",
+        "Prokuratura Generalna w Stambule podała, że ​​wśród ostatniej grupy zatrzymanych osób znalazły się dwie byłe prezenterki programów informacyjnych tego kanału."
       ]
     },
     {
-      "id": "swiat-1-67323a",
+      "id": "swiat-5-62d240",
+      "entity_tag": "Wydarzenia Globalne",
+      "sector": "Geopolityka & Świat",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Rosja grozi kolejnemu sąsiadowi. \"Prowokowanie otwartego konfliktu\"",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:10",
+      "source": "PolsatNews Świat",
+      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/rosja-grozi-kolejnemu-sasiadowi-prowokowanie-otwartego-konfliktu/",
+      "image_url": "https://ipla.pluscdn.pl/dituel/cp/u4/u4xxz7ccdmdnj9ugquwazrapkeguoru4.png",
+      "image_source": "Fot. / Źródło: PolsatNews Świat",
+      "lead_story": false,
+      "summary_points": [
+        "Władze Łotwy próbują sprowokować otwarty konflikt z Rosją - stwierdziła rzeczniczka rosyjskiej dyplomacji Marija Zacharowa, cytowana przez TASS.",
+        "Jednocześnie zapowiedziała, że w takich okolicznościach Moskwa nie może ignorować tych gróźb i zastrzega sobie prawo do podjęcia zdecydowanych działań odwetowych o charakterze politycznym i dyplomatycznym.",
+        "Rzeczniczka rosyjskiego resortu spraw zagranicznych Marija Zacharowa zakomunikowała w piątek, że \" władze Łotwy nie mają zamiaru normalizować stosunków z Rosją, a zamiast tego próbują sprowokować otwarty konflikt\"."
+      ],
+      "extended_paragraphs": [
+        "Władze Łotwy próbują sprowokować otwarty konflikt z Rosją - stwierdziła rzeczniczka rosyjskiej dyplomacji Marija Zacharowa, cytowana przez TASS. Jednocześnie zapowiedziała, że w takich okolicznościach Moskwa nie może ignorować tych gróźb i zastrzega sobie prawo do podjęcia zdecydowanych działań odwetowych o charakterze politycznym i dyplomatycznym.",
+        "Rzeczniczka rosyjskiego resortu spraw zagranicznych Marija Zacharowa zakomunikowała w piątek, że \" władze Łotwy nie mają zamiaru normalizować stosunków z Rosją, a zamiast tego próbują sprowokować otwarty konflikt\".",
+        "Jej stanowisko jest reakcją na plany rządu w Rydze dotyczące przyjęcia \" deklaracji o derusyfikacji \". Według doniesień medialnych projekt ma wesprzeć umacnianie pozycji języka łotewskiego jako państwowego.",
+        "Taki obrót spraw nie podoba się Kremlowi, który wykorzystuje plany władz w Rydze do wspierania swojej narracji. W ocenie Zacharowej Łotwa \"obecnie nie ma interesu w normalizacji stosunków z Rosją\".",
+        "- Wręcz przeciwnie, konsekwentnie podążają ścieżką coraz większej eskalacji , posuwając się aż do prowokowania otwartego konfliktu. Ten błędny kurs jest sprzeczny z prawdziwymi interesami i aspiracjami mieszkańców kraju - choć niestety głosy te od dawna pozostają w Rydze bez echa - stwierdziła Zacharowa."
+      ]
+    },
+    {
+      "id": "swiat-2-67323a",
       "entity_tag": "Rynek Długu / MF",
       "sector": "Obligacje & Budżet",
       "market_impact": "LOW",
@@ -1659,7 +1850,7 @@
       ]
     },
     {
-      "id": "swiat-2-164b06",
+      "id": "swiat-6-65234d",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1667,31 +1858,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Zełenski w wywiadzie dla BBC krytykuje „dziwną” przyjaźń Trumpa i Putina",
-      "original_title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "title": "Osiem osób zginęło w katastrofie helikoptera wojskowego w Peru",
+      "original_title": "Eight killed in Peruvian military helicopter crash",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:00",
+      "time": "04:19",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Prezydent Ukrainy wyraża frustrację wobec Stanów Zjednoczonych i twierdzi, że nie naciskają one na Rosję w rozmowach pokojowych wystarczająco mocno, aby zakończyć wojnę.",
-        "Podpis pod rysunkiem, Obejrzyj: Zełenski kwestionuje „dziwną” przyjaźń Trumpa-Putina w wywiadzie dla BBC Wołodymyr Zełenski wyraził głęboką frustrację w stosunku do Stanów Zjednoczonych, krytykując Donalda Trumpa za nazwanie Władimira Putina „moim przyjacielem” i stwierdzenie, że opóźnienia w dostawie kluczowych rakiet antybalistycznych kosztują życie Ukraińców.",
-        "W wywiadzie dla BBC w swoim biurze w Kijowie prezydent Ukrainy skarżył się, że Stany Zjednoczone nie naciskają na Rosję wystarczająco mocno w rozmowach pokojowych i nazwał „dziwnym” fakt, że Trump opublikował zdjęcie, na którym obejmuje Putina."
+        "Pilot jako jedyny przeżył katastrofę podczas misji ratunkowej na odludziu znanym z handlu narkotykami.",
+        "Ośmiu żołnierzy zginęło w katastrofie helikoptera w odległym rejonie Peru, znanym z uprawy narkotyków i handlu nimi.",
+        "Władze twierdzą, że samolot rozbił się w pobliżu miasta Sanabamba podczas misji ewakuacji patrolu wojskowego w dolinie rzek Apurimac, Ene i Mantaro, znanej pod hiszpańskim akronimem VRAEM."
       ],
       "extended_paragraphs": [
-        "Prezydent Ukrainy wyraża frustrację wobec Stanów Zjednoczonych i twierdzi, że nie naciskają one na Rosję w rozmowach pokojowych wystarczająco mocno, aby zakończyć wojnę.",
-        "Podpis pod rysunkiem, Obejrzyj: Zełenski kwestionuje „dziwną” przyjaźń Trumpa-Putina w wywiadzie dla BBC",
-        "Wołodymyr Zełenski wyraził głęboką frustrację w stosunku do Stanów Zjednoczonych, krytykując Donalda Trumpa za nazwanie Władimira Putina „moim przyjacielem” i stwierdzenie, że opóźnienia w dostawie kluczowych rakiet antybalistycznych kosztują życie Ukraińców.",
-        "W wywiadzie dla BBC w swoim biurze w Kijowie prezydent Ukrainy skarżył się, że Stany Zjednoczone nie naciskają na Rosję wystarczająco mocno w rozmowach pokojowych i nazwał „dziwnym” fakt, że Trump opublikował zdjęcie, na którym obejmuje Putina.",
-        "„Oczywiście to zależy od prezydenta Stanów Zjednoczonych, ale… to dziwne” – powiedział Zełenski po angielsku."
+        "Pilot jako jedyny przeżył katastrofę podczas misji ratunkowej na odludziu znanym z handlu narkotykami.",
+        "Ośmiu żołnierzy zginęło w katastrofie helikoptera w odległym rejonie Peru, znanym z uprawy narkotyków i handlu nimi.",
+        "Władze twierdzą, że samolot rozbił się w pobliżu miasta Sanabamba podczas misji ewakuacji patrolu wojskowego w dolinie rzek Apurimac, Ene i Mantaro, znanej pod hiszpańskim akronimem VRAEM.",
+        "Obszar ten, często nazywany „Doliną Kokainy”, jest największą w Peru doliną uprawy koki, w której działają gangi i pozostałości dawnej grupy rebeliantów Świetlistego Szlaku.",
+        "Ministerstwo obrony Peru poinformowało, że pilot jako jedyny przeżył katastrofę, której przyczyny nadal nie są znane."
       ]
     },
     {
-      "id": "swiat-4-c430bc",
+      "id": "swiat-7-b49a81",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1699,227 +1890,97 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "„Nie mogliśmy tak łatwo się poddać”: orkiestry marszowe starają się pokryć koszty po zmianie organizacji parady z okazji Święta Dziękczynienia",
-      "original_title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "title": "„Sprzedawca trucizn” Kenneth Law przeprasza w sądzie rodziny swoich ofiar",
+      "original_title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
       "is_foreign": true,
       "lang": "EN",
-      "time": "20:06",
+      "time": "00:56",
       "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
       "image_source": "Fot. / Źródło: BBC World",
       "lead_story": false,
       "summary_points": [
-        "Burzowa pogoda w Nowym Jorku zmusiła organizatorów do przesunięcia parady Macy's o dwa dni, przez co niektórzy muzycy utknęli.",
-        "Ponieważ władze Nowego Jorku przełożyły paradę z okazji Święta Dziękczynienia Macy's, aby zapobiec burzy, która sprowadziła ulewne deszcze, wiatr i powodzie, setki artystów koncertujących, którzy podróżowali z całych Stanów Zjednoczonych, aby wystąpić, pogrążyło się w chaosie.",
-        "„To było wstrząsające” – powiedział Ryan Demkovich, dyrektor orkiestry marszowej w liceum w Teksasie."
+        "Kanadyjczyk, który na początku tego roku przyznał się do 14 zarzutów pomocnictwa i podżegania do samobójstwa, wyraził skruchę z powodu swoich czynów.",
+        "Źródło zdjęcia, PA Media Autor: Brandon Drenon Opublikowano 27 listopada 2026 r. Zaktualizowano 8 godzin temu Kanadyjczyk, który sprzedawał toksyczne chemikalia za pośrednictwem internetowych forów samobójczych w 40 krajach, przeprosił w sądzie rodziny ofiar, mówiąc, że głęboko żałuje swoich czynów i nigdy ich nie powtórzy.",
+        "Kenneth Law przedstawił te uwagi w piątek podczas rozprawy, podczas której prokuratorzy zwrócili się do sędziego o skazanie go na 25 lat więzienia."
       ],
       "extended_paragraphs": [
-        "Burzowa pogoda w Nowym Jorku zmusiła organizatorów do przesunięcia parady Macy's o dwa dni, przez co niektórzy muzycy utknęli.",
-        "Ponieważ władze Nowego Jorku przełożyły paradę z okazji Święta Dziękczynienia Macy's, aby zapobiec burzy, która sprowadziła ulewne deszcze, wiatr i powodzie, setki artystów koncertujących, którzy podróżowali z całych Stanów Zjednoczonych, aby wystąpić, pogrążyło się w chaosie.",
-        "„To było wstrząsające” – powiedział Ryan Demkovich, dyrektor orkiestry marszowej w liceum w Teksasie. Dowiedziawszy się o tej wiadomości, musiał podjąć wysiłki, aby przygotować nowe aranżacje dla ponad 500 osób.",
-        "Demkovich i jego zespół z Pearland High School podjęli szybką decyzję o rozpoczęciu zbiórki pieniędzy, która w ciągu zaledwie kilku godzin zebrała 350 000 dolarów (267 000 funtów).",
-        "Mimo to według doniesień niektórzy wykonawcy musieli opuścić paradę – transmitowane w telewizji tradycyjne wydarzenie z okazji Święta Dziękczynienia – obecnie przełożone na sobotę."
+        "Kanadyjczyk, który na początku tego roku przyznał się do 14 zarzutów pomocnictwa i podżegania do samobójstwa, wyraził skruchę z powodu swoich czynów.",
+        "Źródło zdjęcia, PA Media Autor: Brandon Drenon Opublikowano 27 listopada 2026 r. Zaktualizowano 8 godzin temu Kanadyjczyk, który sprzedawał toksyczne chemikalia za pośrednictwem internetowych forów samobójczych w 40 krajach, przeprosił w sądzie rodziny ofiar, mówiąc, że głęboko żałuje swoich czynów i nigdy ich nie powtórzy.",
+        "Kenneth Law przedstawił te uwagi w piątek podczas rozprawy, podczas której prokuratorzy zwrócili się do sędziego o skazanie go na 25 lat więzienia.",
+        "61-latek przyznał się w maju do 14 zarzutów pomocnictwa w samobójczej śmierci 14 osób w Ontario w Kanadzie, choć przyznał się do spowodowania śmierci kilkudziesięciu ofiar w Anglii i Walii.",
+        "Nie zostaną mu postawione zarzuty w Wielkiej Brytanii ani w związku ze śmiercią Brytyjczyków w ramach ugody, na mocy której władze kanadyjskie wycofały poważniejsze zarzuty o morderstwo."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-1-261bd8",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
+      "id": "sport-1-e045c6",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
+      "market_impact": "MEDIUM",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 34 pkt) o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [
-        "34 pkt"
-      ],
-      "title": "PKO Ekstraklasa: Górnik Zabrze goni lidera, zobacz tabelę",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako MEDIUM.",
+      "key_metrics": [],
+      "title": "Królewscy kontynuują zwycięską passę | Real – Alaves: typy, kursy, składy",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "23:56",
+      "time": "09:20",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284504/pko-ekstraklasa-gornik-zabrze-goni-lidera-zobacz-tabele",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a5a3dbc140741_40815417.jpg",
+      "source_url": "https://sportowefakty.wp.pl/bukmacherzy/1286512/krolewscy-kontynuuja-zwycieska-passe-real-alaves-typy-kursy-sklady",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/671b949277a035_80211740.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Górnik Zabrze nie rezygnuje z walki o mistrzostwo Polski.",
-        "W piątek drużyna Michala Gasparika odniosła bardzo ważne zwycięstwo.",
-        "Skomentuj Górnik Zabrze nie rezygnuje z walki o mistrzostwo Polski."
+        "Real Madryt walczy o jedenaste zwycięstwo z rzędu we wszystkich rozgrywkach.",
+        "Na Santiago Bernabeu przyjedzie Alaves, które wciąż czeka na pierwszą wyjazdową wygraną w tym sezonie.",
+        "Czy gospodarze ponownie potwierdzą swoją dominację?"
       ],
       "extended_paragraphs": [
-        "Górnik Zabrze nie rezygnuje z walki o mistrzostwo Polski. W piątek drużyna Michala Gasparika odniosła bardzo ważne zwycięstwo.",
-        "Skomentuj Górnik Zabrze nie rezygnuje z walki o mistrzostwo Polski. W piątek drużyna Michala Gasparika odniosła bardzo ważne zwycięstwo.",
-        "Piłkarze z Górnego Śląska pokonali na własnym stadionie Wisłę Płock (3:2) i mają teraz 34 pkt. - tylko o 1 mniej niż liderujący Lech Poznań.",
-        "Czołówkę atakuje Piast Gliwice, który awansował na 3. miejsce dzięki wyjazdowej wygranej nad Rakowem Częstochowa (2:1).",
-        "Raków Częstochowa - Piast Gliwice 1:2 (0:2) 0:1 - Leandro Sanca 22' 0:2 - Quentin Boisgard 38' 1:2 - Mahir Emreli 59'"
+        "Real Madryt walczy o jedenaste zwycięstwo z rzędu we wszystkich rozgrywkach. Na Santiago Bernabeu przyjedzie Alaves, które wciąż czeka na pierwszą wyjazdową wygraną w tym sezonie. Czy gospodarze ponownie potwierdzą swoją dominację?",
+        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów",
+        "Real Madryt przystępuje do sobotniego spotkania w znakomitej dyspozycji. Królewscy wygrali dziesięć kolejnych meczów we wszystkich rozgrywkach, a ostatnio rozbili PSV Eindhoven 5:1 w Lidze Mistrzów. Zespół Jose Mourinho zajmuje drugie miejsce w tabeli La Liga i traci zaledwie trzy punkty do Barcelony.",
+        "Alaves prezentuje się znacznie mniej przekonująco, szczególnie podczas spotkań wyjazdowych. Goście zajmują dziewiątą pozycję w tabeli i nie odnieśli jeszcze zwycięstwa na obcym stadionie. Dodatkowo Real wygrał dziewięć ostatnich bezpośrednich spotkań z tym rywalem. Wszystkie argumenty przemawiają więc za kolejnym triumfem gospodarzy.",
+        "Podopieczni Jose Mourinho znajdują się w świetnej formie. Dziesięć kolejnych zwycięstw we wszystkich rozgrywkach, w tym sześć ligowych, pokazuje, jak dobrze funkcjonuje obecnie drużyna ze stolicy Hiszpanii. W ostatnim spotkaniu Królewscy pokonali PSV Eindhoven aż 5:1, potwierdzając swoją ofensywną siłę."
       ]
     },
     {
-      "id": "sport-2-da0416",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Irlandia w pięciu próbach pokonała Australię w jesiennym finale",
-      "original_title": "Five-try Ireland beat Australia in autumn finale",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "22:17",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fad8/live/3e7ca7a0-eaab-11f1-9d2d-dd9286f639a6.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Irlandia zapewniła sobie piąte miejsce w inauguracyjnych Mistrzostwach Narodów dzięki zwycięstwu 38-14 nad Australią w Londynie.",
-        "Podczas gdy zeszłotygodniowe zwycięstwo 20-17 nad Republiką Południowej Afryki było niewątpliwym punktem kulminacyjnym ich kampanii, piątkowe zwycięstwo zapewniło Irlandii zwycięstwo we wszystkich czterech meczach rozegranych w listopadzie.",
-        "Po tym, jak Włochy o włos pokonały Fidżi w pierwszym meczu dnia, Irlandia powoli rozpoczęła mecz na słabo zaludnionym stadionie Allianz, a drużyna Wallabies objęła zasłużone prowadzenie po próbie Jeremy’ego Williamsa."
-      ],
-      "extended_paragraphs": [
-        "Irlandia zapewniła sobie piąte miejsce w inauguracyjnych Mistrzostwach Narodów dzięki zwycięstwu 38-14 nad Australią w Londynie.",
-        "Podczas gdy zeszłotygodniowe zwycięstwo 20-17 nad Republiką Południowej Afryki było niewątpliwym punktem kulminacyjnym ich kampanii, piątkowe zwycięstwo zapewniło Irlandii zwycięstwo we wszystkich czterech meczach rozegranych w listopadzie.",
-        "Po tym, jak Włochy o włos pokonały Fidżi w pierwszym meczu dnia, Irlandia powoli rozpoczęła mecz na słabo zaludnionym stadionie Allianz, a drużyna Wallabies objęła zasłużone prowadzenie po próbie Jeremy’ego Williamsa.",
-        "Podopieczni Andy'ego Farrella przejęli kontrolę nad meczem po 24 punktach bez straty po obu stronach do przerwy. Robbie Henshaw, Nick Timoney i Robert Baloucoune strzelali, a Sam Prendergast wykorzystał wszystkie trzy punkty i dodał rzut karny.",
-        "Kalani Thomas na krótko zahamował dynamikę Irlandii, ale zmiennik James McNabney zaliczył swój drugi występ w ciągu ostatnich siedmiu minut dwoma próbami i zapewnił drużynie numer dwa na świecie wygodne, choć nie zawsze przekonujące zwycięstwo."
-      ]
-    },
-    {
-      "id": "sport-3-97bb04",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Kompromitacja Chelsea! Nottingham rzucił londyńskiego giganta na kolana",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:54",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286523/kompromitacja-chelsea-nottingham-rzucil-londynskiego-giganta-na-kolana",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0a09fe5d0d37_20687179.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Nottingham Forest pokonał Chelsea 3:2 w emocjonującym spotkaniu na City Ground.",
-        "Bohaterem gospodarzy został Morgan Gibbs-White, który zdobył dwie bramki.",
-        "Londyńczycy walczyli do samego końca, ale nie zdołali uratować punktów."
-      ],
-      "extended_paragraphs": [
-        "Nottingham Forest pokonał Chelsea 3:2 w emocjonującym spotkaniu na City Ground. Bohaterem gospodarzy został Morgan Gibbs-White, który zdobył dwie bramki. Londyńczycy walczyli do samego końca, ale nie zdołali uratować punktów. Kryzys gości trwa.",
-        "Skomentuj Nottingham Forest pokonał Chelsea 3:2 w emocjonującym spotkaniu na City Ground. Bohaterem gospodarzy został Morgan Gibbs-White, który zdobył dwie bramki. Londyńczycy walczyli do samego końca, ale nie zdołali uratować punktów. Kryzys gości trwa.",
-        "Nottingham Forest przed meczem z Chelsea FC znajdował się w trudnym położeniu. Seria słabych wyników i problemy ze skutecznością sprawiły, że gospodarze znaleźli się tuż nad strefą spadkową.",
-        "Londyńczycy również nie zachwycali formą. Przegrali trzy z czterech ostatnich spotkań ligowych, a ich największym problemem była słaba gra w obronie.",
-        "Dodatkowego smaczku rywalizacji dodawała historia bezpośrednich pojedynków. Po majowym zwycięstwie 3:1 Forest stanął przed szansą na drugie z rzędu ligowe zwycięstwo nad Chelsea. Byłaby to pierwsza taka seria od 1979 roku. Gospodarze chcieli również przerwać dobrą serię londyńczyków na City Ground, gdzie Chelsea nie przegrała od 1997 r."
-      ]
-    },
-    {
-      "id": "sport-4-b02795",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Upadek bóstw – długa gra, na którą All Blacks nie mogą sobie pozwolić",
-      "original_title": "Decline of deities - the long game the All Blacks cannot afford to lose",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "18:42",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a029/live/a52b97c0-ea8a-11f1-a739-457c2295eaba.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Statystycznie to pokolenie All Blacks jest najsłabsze od dziesięcioleci.",
-        "Jak daleko zaszedł sportowy skrót oznaczający sukces?",
-        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 7 godzin temu Przez dziesięciolecia drużyna All Blacks przeciwstawiała się grawitacji."
-      ],
-      "extended_paragraphs": [
-        "Statystycznie to pokolenie All Blacks jest najsłabsze od dziesięcioleci. Jak daleko zaszedł sportowy skrót oznaczający sukces?",
-        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 7 godzin temu Przez dziesięciolecia drużyna All Blacks przeciwstawiała się grawitacji.",
-        "Pomimo mniejszej populacji, puli zawodników i salda bankowego niż u większości rywali, nowozelandzka drużyna rugby stała się sportowym skrótem oznaczającym sukces.",
-        "Anglia pokonała All Blacks w tym i ostatnim roku. W sobotę zagrają z nimi ponownie z zamiarem zdobycia hat-tricka.",
-        "Jednak Anglii potrzebna byłaby dobra passa do około 2050 r., aby wyrównać historyczny wynik bezpośrednich spotkań."
-      ]
-    },
-    {
-      "id": "sport-5-5fd758",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Nieprawdopodobne emocje i wielka radość. Włochy w czwartym finale z rzędu!",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "22:36",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1286522/nieprawdopodobne-emocje-i-wielka-radosc-wlochy-w-czwartym-finale-z-rzedu",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0a0546e73e19_84310220.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Reprezentacja Włoch zagra o czwarty z rzędu triumf w Pucharze Davisa.",
-        "W piątkowym półfinale gospodarze rozgrywanego na korcie twardym w hali turnieju w Bolonii po dramatycznym meczu pokonali 2:1 drużynę Czech.",
-        "Skomentuj Reprezentacja Włoch zagra o czwarty z rzędu triumf w Pucharze Davisa."
-      ],
-      "extended_paragraphs": [
-        "Reprezentacja Włoch zagra o czwarty z rzędu triumf w Pucharze Davisa. W piątkowym półfinale gospodarze rozgrywanego na korcie twardym w hali turnieju w Bolonii po dramatycznym meczu pokonali 2:1 drużynę Czech.",
-        "Skomentuj Reprezentacja Włoch zagra o czwarty z rzędu triumf w Pucharze Davisa. W piątkowym półfinale gospodarze rozgrywanego na korcie twardym w hali turnieju w Bolonii po dramatycznym meczu pokonali 2:1 drużynę Czech.",
-        "Coś, co wydawało się niemożliwe, staje się coraz bliższe. Reprezentacja Włoch jest o krok, by zostać pierwszą drużyną, która cztery raz z rzędu wygra Puchar Davisa, od czasu USA z sezonów 1968-72. W piątkowym półfinale gospodarze turnieju w Bolonii w niezwykle dramatycznych okolicznościach pokonali 2:1 Czechów.",
-        "Piątkowe zmagania rozpoczęły się po myśli miejscowych. Lorenzo Musetti zaserwował cztery asy, posłał 13 zagrań kończących, ani razu nie dał się przełamać, sam wykorzystał dwa z trzech break pointów i pokonał 6:3, 6:4 wyżej notowanego Jakuba Mensika .",
-        "Druga gra także zakończyła się zwycięstwem niżej klasyfikowanego tenisisty. Ale tym razem był to reprezentant Czech. Jiri Lehecka po pełnym zwrotów sytuacji spotkaniu ograł 6:2, 1:6, 6:3 Flavio Cobollego i doprowadził do remisu w całej rywalizacji."
-      ]
-    },
-    {
-      "id": "sport-6-e0f108",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
+      "id": "sport-2-2213ea",
+      "entity_tag": "Piłka Nożna",
+      "sector": "Sport Międzynarodowy",
       "market_impact": "LOW",
       "sentiment": "negative",
       "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Gwiazdy Gibbs-White, zmagania Fofany – oceny zawodników w meczu Forest v Chelsea",
-      "original_title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+      "title": "„Nie jesteś tu mile widziany” – kibice zwracają się przeciwko Fofanie, gdy Chelsea ponownie przegrywa",
+      "original_title": "'You're not welcome here' - fans turn on Fofana as Chelsea lose again",
       "is_foreign": true,
       "lang": "EN",
-      "time": "21:59",
+      "time": "21:31",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1da8/live/2c6e0460-eaaf-11f1-bf81-6f3b4557bf15.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Morgan Gibbs-White strzelił dwa gole, gdy Nottingham Forest pokonało Chelsea 3:2 na City Ground po raz pierwszy od 1997 roku.",
-        "Reporter piłkarski Opublikowano 3 godziny temu Morgan Gibbs-White strzelił dwa gole, gdy Nottingham Forest pokonało Chelsea na City Ground po raz pierwszy od 1997 roku.",
-        "Genialny wolej Igora Jesusa otworzył wynik już po pięciu minutach, po czym w drugiej połowie Gibbs-White strzelił dwa gole, a Chelsea była skazana na czwartą porażkę w pięciu meczach."
+        "Po kontrowersyjnym wywiadzie obrońca Chelsea Wesley Fofana zostaje wygwizdany przez własnych fanów podczas porażki Premier League z Nottingham Forest.",
+        "Reporter piłkarski Opublikowano 27 listopada 2026 r. Podczas piątkowej porażki w Premier League z Nottingham Forest obrońca Chelsea Wesley Fofana został wielokrotnie wygwizdany i usłyszał od swoich fanów słowa „nie jesteś tu mile widziany”.",
+        "Szyderstwa skierowane pod adresem 25-latka słychać było za każdym razem, gdy dotknął piłki, a także po opublikowaniu nieautoryzowanego wywiadu z francuskim YouTuberem Zachem Nanim."
       ],
       "extended_paragraphs": [
-        "Morgan Gibbs-White strzelił dwa gole, gdy Nottingham Forest pokonało Chelsea 3:2 na City Ground po raz pierwszy od 1997 roku.",
-        "Reporter piłkarski Opublikowano 3 godziny temu Morgan Gibbs-White strzelił dwa gole, gdy Nottingham Forest pokonało Chelsea na City Ground po raz pierwszy od 1997 roku.",
-        "Genialny wolej Igora Jesusa otworzył wynik już po pięciu minutach, po czym w drugiej połowie Gibbs-White strzelił dwa gole, a Chelsea była skazana na czwartą porażkę w pięciu meczach.",
-        "Opublikowano 21 sierpnia Nottingham Forest Matz Sels: Belgijski bramkarz niewiele mógł zrobić przy bramkach Emeghy, ale nie musiał zbyt wiele bronić. 6",
-        "Jair Cunha : Cunha wykonał jeden genialny wślizg w ostatniej akcji w drugiej połowie, gdy Chelsea próbowała wyrównać. 7"
+        "Po kontrowersyjnym wywiadzie obrońca Chelsea Wesley Fofana zostaje wygwizdany przez własnych fanów podczas porażki Premier League z Nottingham Forest.",
+        "Reporter piłkarski Opublikowano 27 listopada 2026 r. Podczas piątkowej porażki w Premier League z Nottingham Forest obrońca Chelsea Wesley Fofana został wielokrotnie wygwizdany i usłyszał od swoich fanów słowa „nie jesteś tu mile widziany”.",
+        "Szyderstwa skierowane pod adresem 25-latka słychać było za każdym razem, gdy dotknął piłki, a także po opublikowaniu nieautoryzowanego wywiadu z francuskim YouTuberem Zachem Nanim.",
+        "W tej kontrowersyjnej dwugodzinnej rozmowie Fofana zdawał się także żartować, że nie wykorzystał rzutu karnego podczas zeszłomiesięcznej porażki z Liverpoolem w rzutach karnych Carabao Cup.",
+        "Menedżer Xabi Alonso powiedział, że francuski środkowy obrońca przeprosił i „nie powtórzy się”."
       ]
     },
     {
-      "id": "sport-7-4f5b1d",
+      "id": "sport-3-8f8068",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -1927,97 +1988,221 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Sędzia wstrzymał mecz Ekstraklasy. Oto powód",
+      "title": "Odmówił gry dla Białorusi. Media: Stara się o polski paszport",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "21:56",
+      "time": "09:12",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286507/sedzia-wstrzymal-mecz-ekstraklasy-oto-powod",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b09f60589aa42_27776566.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286547/media-bialorusin-stara-sie-o-polski-paszport-ma-wazny-powod",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0a9615ac61c6_42138498.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Arbiter Sebastian Krasny był zmuszony przerwać rywalizację Górnika Zabrze z Wisłą Płock.",
-        "Powodem był pokaz pirotechniczny zorganizowany przez ultrasów gospodarzy, którzy świętowali w ten sposób swoje 20-lecie.",
-        "Skomentuj Arbiter Sebastian Krasny był zmuszony przerwać rywalizację Górnika Zabrze z Wisłą Płock."
+        "Ilja Szkuryn ubiega się o polskie obywatelstwo - informuje \"Przegląd Sportowy Onet\".",
+        "Białoruski napastnik GKS-u Katowice przed laty odmówił gry dla swojego kraju.",
+        "Czy w przyszłości będzie mógł występować z orzełkiem na piersi?"
       ],
       "extended_paragraphs": [
-        "Arbiter Sebastian Krasny był zmuszony przerwać rywalizację Górnika Zabrze z Wisłą Płock. Powodem był pokaz pirotechniczny zorganizowany przez ultrasów gospodarzy, którzy świętowali w ten sposób swoje 20-lecie.",
-        "Skomentuj Arbiter Sebastian Krasny był zmuszony przerwać rywalizację Górnika Zabrze z Wisłą Płock. Powodem był pokaz pirotechniczny zorganizowany przez ultrasów gospodarzy, którzy świętowali w ten sposób swoje 20-lecie.",
-        "Do nieplanowanej przerwy w grze doszło w 33. minucie spotkania rozgrywanego przy ulicy Roosevelta pomiędzy Górnikiem Zabrze a Wisłą Płock (3:2 - relacja TUTAJ>> ).",
-        "Fani z grupy Ultras Górnik Zabrze przygotowali z tej okazji efektowną, jubileuszową oprawę. Na trybunach pojawił się ogromny sektorowy transparent z wymownym hasłem: \"Wtedy zobaczyłem ich pierwszy raz... i powiedziałem sobie, że kiedyś będę jednym z nich\".",
-        "Prezentacji baneru z okazji 20-lecia istnienia towarzyszył zmasowany pokaz pirotechniczny - na trybunach odpalono dziesiątki rac, a nad stadionem rozbłysły fajerwerki. Gęsty dym szybko spowił murawę, drastycznie ograniczając widoczność zawodnikom oraz sędziemu."
+        "Ilja Szkuryn ubiega się o polskie obywatelstwo - informuje \"Przegląd Sportowy Onet\". Białoruski napastnik GKS-u Katowice przed laty odmówił gry dla swojego kraju. Czy w przyszłości będzie mógł występować z orzełkiem na piersi?",
+        "Skomentuj Ilja Szkuryn ubiega się o polskie obywatelstwo - informuje \"Przegląd Sportowy Onet\". Białoruski napastnik GKS-u Katowice przed laty odmówił gry dla swojego kraju. Czy w przyszłości będzie mógł występować z orzełkiem na piersi?",
+        "W sierpniu 2020 roku Ilja Szkuryn podjął decyzję, która miała znaczący wpływ na jego dalsze życie. Piłkarz publicznie sprzeciwił się reżimowi Aleksandra Łukaszenki i zadeklarował, że dopóki ten będzie sprawował władzę na Białorusi, nie zamierza występować w reprezentacji swojego kraju.",
+        "Od tamtej pory sporo się zmieniło. Urodzony w Witebsku zawodnik zadomowił się w Polsce, gdzie z powodzeniem kontynuuje karierę. W lipcu 2023 roku dołączył do Stali Mielec, a już w pierwszym sezonie zdobył dla niej 16 bramek w PKO Ekstraklasie.",
+        "Później występował w Legii Warszawa, z którą sięgnął po Puchar i Superpuchar Polski. Obecnie reprezentuje barwy GKS-u Katowice i należy do najskuteczniejszych piłkarzy naszej ligi. W trwającym sezonie ma na koncie osiem trafień w Ekstraklasie."
       ]
     },
     {
-      "id": "sport-8-ef68b9",
-      "entity_tag": "Formuła 1",
-      "sector": "Motorsport",
+      "id": "sport-4-785e90",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Mercedes nadał tempo podczas pełnego wydarzeń drugiego treningu w Katarze",
-      "original_title": "Mercedes set pace in eventful Qatar second practice",
+      "title": "Jak odbudowała się drużyna piłkarska po śmierci 19 zawodników w katastrofie lotniczej",
+      "original_title": "How a football team rebuilt after 19 players died in plane crash",
       "is_foreign": true,
       "lang": "EN",
-      "time": "19:50",
+      "time": "06:30",
       "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30ee/live/355b1d70-ea90-11f1-a739-457c2295eaba.jpg",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5321/live/168241f0-e98a-11f1-9d1c-4dcc8fcde666.jpg",
       "image_source": "Fot. / Źródło: BBC Sport",
       "lead_story": false,
       "summary_points": [
-        "Mistrz świata Kimi Antonelli nadaje tempo przed kolegą z zespołu Mercedesa, Georgem Russellem, podczas przerwanego drugiego treningu przed Grand Prix Kataru.",
-        "Mistrz świata Kimi Antonelli nadał tempo przed kolegą z zespołu Mercedesa, Georgem Russellem, podczas przerwanego drugiego treningu przed Grand Prix Kataru.",
-        "Włoch Antonelli był o 0,127 sekundy szybszy od Russella na średniej oponie, ponieważ żaden z kierowców nie uzyskał czasu na miękkiej mieszance z powodu dwóch czerwonych flag, które przerywały sesję."
+        "Jak brazylijska drużyna piłkarska odrodziła się na nowo po katastrofie lotniczej, w której zginęła większość jej zawodników i personelu w drodze na najważniejszy mecz w jej życiu.",
+        "Była druga w nocy, kiedy Ivan Tozzo podniósł słuchawkę telefonu komórkowego i usłyszał, jak sekretarz klubu piłkarskiego krzyczy jego imię.",
+        "Nie żyje 71 osób, w tym 19 z 22 zawodników brazylijskiego klubu, którzy byli w drodze na najważniejszy mecz w swojej historii."
       ],
       "extended_paragraphs": [
-        "Mistrz świata Kimi Antonelli nadaje tempo przed kolegą z zespołu Mercedesa, Georgem Russellem, podczas przerwanego drugiego treningu przed Grand Prix Kataru.",
-        "Mistrz świata Kimi Antonelli nadał tempo przed kolegą z zespołu Mercedesa, Georgem Russellem, podczas przerwanego drugiego treningu przed Grand Prix Kataru.",
-        "Włoch Antonelli był o 0,127 sekundy szybszy od Russella na średniej oponie, ponieważ żaden z kierowców nie uzyskał czasu na miękkiej mieszance z powodu dwóch czerwonych flag, które przerywały sesję.",
-        "Lewis Hamilton również zatrzymał się po tym, jak jego Ferrari straciło moc i uruchomiono wirtualny samochód bezpieczeństwa, aby sędziowie mogli przyjść z pomocą siedmiokrotnemu mistrzowi świata.",
-        "McLareny Lando Norrisa i Oscara Piastriego oraz Max Verstappen z Red Bulla zamknęli pierwszą piątkę na torze Lusail International Circuit, a cała trójka uzyskała czasy na miękkich oponach gorsze o ponad cztery dziesiąte od dwóch Mercedesów."
+        "Jak brazylijska drużyna piłkarska odrodziła się na nowo po katastrofie lotniczej, w której zginęła większość jej zawodników i personelu w drodze na najważniejszy mecz w jej życiu.",
+        "Była druga w nocy, kiedy Ivan Tozzo podniósł słuchawkę telefonu komórkowego i usłyszał, jak sekretarz klubu piłkarskiego krzyczy jego imię.",
+        "Nie żyje 71 osób, w tym 19 z 22 zawodników brazylijskiego klubu, którzy byli w drodze na najważniejszy mecz w swojej historii.",
+        "Później okazało się, że w samolocie skończyło się paliwo, a śledczy ustalili, że winę ponoszą linie lotnicze i pilot, ponieważ ilość paliwa była niewystarczająca na lot w dniu 28 listopada 2016 r.",
+        "Jednak we wczesnych godzinach porannych, gdy Tozzo oglądał wiadomości telewizyjne w szatni na stadionie klubu, myślał tylko o zawodnikach, którzy nie wrócą do tej sali."
+      ]
+    },
+    {
+      "id": "sport-5-da902e",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Mega okazja! Postaw 2 zł i zgarniaj 300 + 660 zł od STS | Real Madryt – Alaves",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "09:10",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/bukmacherzy/1286513/mega-okazja-postaw-2-zl-i-zgarniaj-300-660-zl-od-sts-real-madryt-alaves",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/66e8b0935e46a2_44938920.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Real Madryt podejmie Alaves w sobotę 28 listopada o godzinie 21:00.",
+        "Z tej okazji przygotowano specjalną promocję STS.",
+        "Nowi gracze mogą otrzymać 300 zł bonusu za poprawne wytypowanie zwycięzcy spotkania + 660 zł w promocji powitalnej."
+      ],
+      "extended_paragraphs": [
+        "Real Madryt podejmie Alaves w sobotę 28 listopada o godzinie 21:00. Z tej okazji przygotowano specjalną promocję STS. Nowi gracze mogą otrzymać 300 zł bonusu za poprawne wytypowanie zwycięzcy spotkania + 660 zł w promocji powitalnej.",
+        "Skomentuj TOP RANKING BUKMACHERÓW 760 zł Sprawdź Bonus 255 zł Sprawdź Bonus 100 zł Sprawdź 950 zł Sprawdź 300 zł Sprawdź Sprawdź ranking Ranking przygotowany przez Betliga, w oparciu o analizę ofert bukmacherskich wybranych podmiotów",
+        "Królewscy przystępują do rywalizacji w znakomitej formie. Mają za sobą dziesięć kolejnych zwycięstw, a w ostatnim występie rozbili PSV Eindhoven 5:1. Świetnie spisuje się również Kylian Mbappe, który ma już 19 trafień w 18 spotkaniach.",
+        "STS oferuje dodatkową nagrodę dla nowych użytkowników. Wystarczy wskazać drużynę, która wygra mecz, i spełnić warunki akcji. Jeśli typ okaże się prawidłowy, na konto gracza trafi 300 zł bonusu.",
+        "1. Załóż nowe konto w STS i podczas rejestracji wpisz kod promocyjny SFPROMO . Pamiętaj o zaznaczeniu wymaganych zgód marketingowych."
+      ]
+    },
+    {
+      "id": "sport-6-f6d6e1",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Czy ci trzej bracia to kolejna rodzinna dynastia brytyjskiego narciarstwa?",
+      "original_title": "Are these three brothers British skiing's next family dynasty?",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "06:17",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe03/live/9d76d680-e278-11f1-b4f7-1f4d673c7508.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Freddy, Zak i Luca Carrick-Smith, których trenerami są mama, olimpijka i tata instruktor narciarstwa, są typowani na następną wielką gwiazdę brytyjskiego narciarstwa.",
+        "Źródło zdjęcia, Racer Ready Tytuł zdjęcia, Zak (po lewej), Luca (w środku) i Freddy (po prawej) Carrick-Smith na podium w Nowej Zelandii Trzej Brytyjczycy na podium narciarskim, z flagą unijną widniejącą na numerach startowych, gdy celebrują podniesienie nart.",
+        "Podczas wrześniowego slalomu w Nowej Zelandii Luca, Freddy i Zak Carrick-Smith bez problemu zdobyli medale, czego, jak się uważa, nie udało się nigdy wcześniej żadnemu trzemu braciom w historii narciarstwa alpejskiego FIS."
+      ],
+      "extended_paragraphs": [
+        "Freddy, Zak i Luca Carrick-Smith, których trenerami są mama, olimpijka i tata instruktor narciarstwa, są typowani na następną wielką gwiazdę brytyjskiego narciarstwa.",
+        "Źródło zdjęcia, Racer Ready Tytuł zdjęcia, Zak (po lewej), Luca (w środku) i Freddy (po prawej) Carrick-Smith na podium w Nowej Zelandii",
+        "Trzej Brytyjczycy na podium narciarskim, z flagą unijną widniejącą na numerach startowych, gdy celebrują podniesienie nart.",
+        "Podczas wrześniowego slalomu w Nowej Zelandii Luca, Freddy i Zak Carrick-Smith bez problemu zdobyli medale, czego, jak się uważa, nie udało się nigdy wcześniej żadnemu trzemu braciom w historii narciarstwa alpejskiego FIS.",
+        "„To było wyjątkowe” – Freddy mówi BBC Sport. „Celem jest teraz zrobienie tego samego na mistrzostwach świata lub igrzyskach olimpijskich”."
+      ]
+    },
+    {
+      "id": "sport-7-9e8dd0",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Przed Polkami ostatnia próba przed Euro. Zabraknie ważnej zawodniczki",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "09:00",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-reczna/1286543/przed-polkami-ostatnia-proba-przed-euro-zabraknie-waznej-zawodniczki",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/674df8b18935f6_48471546.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Reprezentacja Polski piłkarek ręcznych rozegra w weekend dwa mecze z Rumunią.",
+        "Będą to ostatnie sprawdziany przed Euro 2026.",
+        "Arne Senstad musi radzić sobie bez kontuzjowanej Aleksandry Rosiak."
+      ],
+      "extended_paragraphs": [
+        "Reprezentacja Polski piłkarek ręcznych rozegra w weekend dwa mecze z Rumunią. Będą to ostatnie sprawdziany przed Euro 2026. Arne Senstad musi radzić sobie bez kontuzjowanej Aleksandry Rosiak.",
+        "Skomentuj Reprezentacja Polski piłkarek ręcznych rozegra w weekend dwa mecze z Rumunią. Będą to ostatnie sprawdziany przed Euro 2026. Arne Senstad musi radzić sobie bez kontuzjowanej Aleksandry Rosiak.",
+        "Mistrzostwa Europy piłkarek ręcznych zbliżają się wielkimi krokami. Biało-Czerwone rozpoczną udział w turnieju 5 grudnia, ale wcześniej czeka je jeszcze wymagający dwumecz towarzyski. W sobotę i niedzielę podopieczne Arne Senstada zmierzą się z Rumunkami w Kluż-Napoce.",
+        "Polki od 22 listopada przygotowywały się do turnieju na zgrupowaniu w Katowicach. Sztab szkoleniowy położył duży nacisk na organizację gry w obronie. W piątek reprezentacja udała się do Rumunii, gdzie będzie mogła sprawdzić wypracowane rozwiązania w warunkach meczowych.",
+        "ZOBACZ WIDEO: Widział blamaż Polaków na własne oczy. \"To pokazuje, w jakim miejscu jesteśmy\""
+      ]
+    },
+    {
+      "id": "sport-8-ebc929",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "„Próbowałem być kimś, kim nie byłem” – strzelił steward w All Blacks",
+      "original_title": "'I was trying to be someone I wasn't' – Steward on All Blacks shot",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "09:11",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c67420k9jyxgo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b392/live/8b7dcfe0-eb08-11f1-a1b8-23a74ada3757.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Freddie Steward twierdzi, że wcześniej rozpraszały go porównania z różnymi zawodnikami podczas poprzednich meczów w Anglii.",
+        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 19 minut temu Freddie Steward z Anglii mówi, że jest zdeterminowany rozegrać swój własny mecz, rozpoczynając w sobotę przeciwko Nowej Zelandii, przed bocznym obrońcą Georgem Furbankiem.",
+        "Furbank zaliczył imponującą skuteczność w zwycięstwie nad All Blacks i Australią tej jesieni, wchodząc na pozycję pierwszego odbierającego i łącząc grę szeroko."
+      ],
+      "extended_paragraphs": [
+        "Freddie Steward twierdzi, że wcześniej rozpraszały go porównania z różnymi zawodnikami podczas poprzednich meczów w Anglii.",
+        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 19 minut temu Freddie Steward z Anglii mówi, że jest zdeterminowany rozegrać swój własny mecz, rozpoczynając w sobotę przeciwko Nowej Zelandii, przed bocznym obrońcą Georgem Furbankiem.",
+        "Furbank zaliczył imponującą skuteczność w zwycięstwie nad All Blacks i Australią tej jesieni, wchodząc na pozycję pierwszego odbierającego i łącząc grę szeroko.",
+        "Steward ma różne mocne strony. Zawodnik z Leicester wyróżnia się dużą umiejętnością powietrzną pod wysoką piłką i silnym, dystansowym biegaczem.",
+        "Podczas gdy 25-latek rozwinął także inne obszary swojej gry, wyraźnie próbując Willa Josepha znakomicie wyważonym kopnięciem karczownika przeciwko Japonii, Steward nauczył się wierzyć we własne umiejętności, zamiast przejmować się porównaniami."
       ]
     }
   ],
   "gielda": [
     {
-      "id": "rynki-1-379446",
-      "entity_tag": "KGHM (GPW: KGH)",
-      "sector": "Surowce & Górnictwo",
+      "id": "rynki-1-d60379",
+      "entity_tag": "GUS / Makro Polska",
+      "sector": "Makroekonomia",
       "market_impact": "HIGH",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,36 mld zł, 1,88 mld zł, 1,15 proc.) — wspiera sentyment popytowy w sektorze.",
-      "key_metrics": [
-        "2,36 mld zł",
-        "1,88 mld zł",
-        "1,15 proc."
-      ],
-      "title": "Rajd miedzi i powrót Wall Street. KGHM i Modivo na czele wzrostów, małe spółki zaskoczyły siłą",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla GUS / Makro Polska (Makroekonomia) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [],
+      "title": "Dolar znów po 4 zł, pensje w górę i giełdowy rollercoaster. 14 wykresów, które musisz zobaczyć",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "17:10",
+      "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Rajd-miedzi-i-powrot-Wall-Street-KGHM-i-Modivo-na-czele-wzrostow-male-spolki-zaskoczyly-sila-9236553.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/d/7/ea2109d57bf31d-948-568-144-188-4293-2576.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Dolar-znow-po-4-zl-pensje-w-gore-i-gieldowy-rollercoaster-14-wykresow-ktore-musisz-zobaczyc-9236086.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/e/8/03aec78eb5128d-948-568-512-10-3584-2150.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": true,
       "summary_points": [
-        "Globalna poprawa nastrojów nie ustała po powrocie amerykańskich inwestorów ze świątecznej przerwy.",
-        "Główny indeks na GPW zaliczył drugą z rzędu wzrostową sesję, umacniając się powyżej poziomu 4000 pkt, którego utrzymanie w tym tygodniu stało pod znakiem zapytania.",
-        "Branżowo błysnął sektor surowców, a furorę w WIG20 zrobiły też notowania Modivo."
+        "Gospodarka wysyła sprzeczne sygnały, a rynki fundują inwestorom prawdziwy rollercoaster.",
+        "Realne wynagrodzenia odbijają, przemysł hamuje, a różnice między cenami mieszkań na rynku pierwotnym i wtórnym ponownie się pogłębiają.",
+        "W tym samym czasie dolar wraca powyżej 4 zł, a giełdowe indeksy notują spektakularne odbicie."
       ],
       "extended_paragraphs": [
-        "Globalna poprawa nastrojów nie ustała po powrocie amerykańskich inwestorów ze świątecznej przerwy. Główny indeks na GPW zaliczył drugą z rzędu wzrostową sesję, umacniając się powyżej poziomu 4000 pkt, którego utrzymanie w tym tygodniu stało pod znakiem zapytania. Branżowo błysnął sektor surowców, a furorę w WIG20 zrobiły też notowania Modivo. Kilka raportów wynikowych podbiło zmienność na mniejszych spółkach.",
-        "fot. BRENDAN MCDERMID / / Reuters / Forum Piątkowe notowania przyniosły kontynuację odbicie na krajowym rynku akcji. Indeks WIG20 wzrósł o 1,15 proc. Szeroki rynek podążał w tym samym kierunku – WIG zwyżkował o 1,08 proc. Indeks średnich spółek mWIG40 poszedł w górę o 0,82 proc. , podczas gdy indeks małych, sWIG80, zyskał 1,26 proc. , stając się najmocniejszym segmentem warszawskiego parkietu. Obroty na szerokim rynku wyniosły 2,36 mld zł, z czego 1,88 mld zł dotyczyło WIG20.",
-        "W momencie zamknięcia handlu w Warszawie brytyjski indeks FTSE 100 rósł o 0,85 proc., niemiecki DAX zyskiwał 0,8 proc., a francuski CAC 40 zwyżkował o 0,6 proc. Jeszcze lepsze nastroje panowały na Wall Street, gdzie inwestorzy wrócili do gry po czwartkowym Święcie Dziękczynienia. Amerykański S&P 500 szedł w górę o 1,1 proc., natomiast technologiczny Nasdaq Composite zwyżkował o 1,6 proc. , odrabiając część strat z ostatnich tygodni. Piątkowa sesja na Wall Street jednak skrócona.",
-        "Powrót apetytu na ryzyko na rynkach bazowych, napędzany odbiciem notowań spółek związanych ze sztuczną inteligencją . Podmioty z sektora AI znajdowały się w ostatnich tygodniach pod silną presją. Jednocześnie osłabienie awersji do ryzyka wywołało gwałtowny rajd na rynku surowców . Ceny miedzi rosły najmocniej od marca – na Londyńskiej Giełdzie Metali (LME) notowania czerwonego metalu chwilami zwyżkowały o 6,5 proc., równolegle srebro drożało momentami o około 10 proc.",
-        "Eksperci zwracają jednak uwagę na szerszy kontekst rynkowy. Sobiesław Kozłowski z Ipopema Private Investments, goszcząc w piątkowym programie „Bankier Weekly” , uważa, że rynki znajdują się obecnie w późnej fazie cyklu surowcowego, po której historycznie następuje okres preferujący utrzymywanie większego udziału gotówki w portfelu . Z kolei Arkadiusz Banaś, ekspert ds. analiz w Zespole Analiz i Doradztwa Alior Banku, zwrócił uwagę na korelację giełdy w Warszawie z nastrojami zagranicznych inwestorów wobec branży AI."
+        "Gospodarka wysyła sprzeczne sygnały, a rynki fundują inwestorom prawdziwy rollercoaster. Realne wynagrodzenia odbijają, przemysł hamuje, a różnice między cenami mieszkań na rynku pierwotnym i wtórnym ponownie się pogłębiają. W tym samym czasie dolar wraca powyżej 4 zł, a giełdowe indeksy notują spektakularne odbicie. W „Wykresach tygodnia” przyglądam się liczbom, które najlepiej pokazują, w jakim miejscu znalazły się dziś gospodarka i rynki.",
+        "fot. vectorfusionart / / Shutterstock 1. Urząd pokazał, gdzie etatowcy zarabiali najwięcej. Wzrost realnych płac odbił z wieloletniego dołka Dzięki wyższej dynamice płac oraz niższej inflacji z najniższego poziomu od 2023 r. odbił realny wzrost płac. W październiku wzrosło też przeciętne zatrudnienie w dużych firmach niefinansowych. Dane GUS okazały się nieco lepsze od oczekiwań i pokazały, które branże płaciły najwięcej etatowym pracownikom.",
+        "2. 99/100 od krytyków i zaledwie 5,7 od graczy. Dwie twarze głośnej premiery GTA VI Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej. Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent. Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu. Czy inwestorzy powinni się przejmować rozjazdem recenzji graczy oraz krytyków, skoro dane sprzedażowe z pierwszych dni wyglądają świetnie?",
+        "Metacritic 3. Ceny nowych mieszkań spadają, na rynek wtórny wróciły wzrosty Trzeci kwartał 2026 r. przyniósł spadki średnich cen transakcyjnych nowych mieszkań w największych polskich miastach – wynika z danych Narodowego Banku Polskiego. Tam, gdzie podwyżek nie zanotowano, pocieszeniem dla kupujących było wyhamowanie niedawnych wzrostów. Nie da się tego powiedzieć jednak o rynkach wtórnych.",
+        "Październikowe statystyki produkcji przemysłowej srodze rozczarowały ekonomistów. Zamiast spowolnienia mieliśmy ostre hamowanie, które może kończyć i tak bardzo rachityczny cykl koniunkturalny w polskim sektorze wytwórczym."
       ]
     },
     {
@@ -2057,7 +2242,43 @@
       ]
     },
     {
-      "id": "rynki-5-b70836",
+      "id": "rynki-3-379446",
+      "entity_tag": "KGHM (GPW: KGH)",
+      "sector": "Surowce & Górnictwo",
+      "market_impact": "HIGH",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla KGHM (GPW: KGH) (Surowce & Górnictwo) (kluczowe liczby: 2,36 mld zł, 1,88 mld zł, 1,15 proc.) — wspiera sentyment popytowy w sektorze.",
+      "key_metrics": [
+        "2,36 mld zł",
+        "1,88 mld zł",
+        "1,15 proc."
+      ],
+      "title": "Rajd miedzi i powrót Wall Street. KGHM i Modivo na czele wzrostów, małe spółki zaskoczyły siłą",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "17:10",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Rajd-miedzi-i-powrot-Wall-Street-KGHM-i-Modivo-na-czele-wzrostow-male-spolki-zaskoczyly-sila-9236553.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/d/7/ea2109d57bf31d-948-568-144-188-4293-2576.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Globalna poprawa nastrojów nie ustała po powrocie amerykańskich inwestorów ze świątecznej przerwy.",
+        "Główny indeks na GPW zaliczył drugą z rzędu wzrostową sesję, umacniając się powyżej poziomu 4000 pkt, którego utrzymanie w tym tygodniu stało pod znakiem zapytania.",
+        "Branżowo błysnął sektor surowców, a furorę w WIG20 zrobiły też notowania Modivo."
+      ],
+      "extended_paragraphs": [
+        "Globalna poprawa nastrojów nie ustała po powrocie amerykańskich inwestorów ze świątecznej przerwy. Główny indeks na GPW zaliczył drugą z rzędu wzrostową sesję, umacniając się powyżej poziomu 4000 pkt, którego utrzymanie w tym tygodniu stało pod znakiem zapytania. Branżowo błysnął sektor surowców, a furorę w WIG20 zrobiły też notowania Modivo. Kilka raportów wynikowych podbiło zmienność na mniejszych spółkach.",
+        "fot. BRENDAN MCDERMID / / Reuters / Forum Piątkowe notowania przyniosły kontynuację odbicie na krajowym rynku akcji. Indeks WIG20 wzrósł o 1,15 proc. Szeroki rynek podążał w tym samym kierunku – WIG zwyżkował o 1,08 proc. Indeks średnich spółek mWIG40 poszedł w górę o 0,82 proc. , podczas gdy indeks małych, sWIG80, zyskał 1,26 proc. , stając się najmocniejszym segmentem warszawskiego parkietu. Obroty na szerokim rynku wyniosły 2,36 mld zł, z czego 1,88 mld zł dotyczyło WIG20.",
+        "W momencie zamknięcia handlu w Warszawie brytyjski indeks FTSE 100 rósł o 0,85 proc., niemiecki DAX zyskiwał 0,8 proc., a francuski CAC 40 zwyżkował o 0,6 proc. Jeszcze lepsze nastroje panowały na Wall Street, gdzie inwestorzy wrócili do gry po czwartkowym Święcie Dziękczynienia. Amerykański S&P 500 szedł w górę o 1,1 proc., natomiast technologiczny Nasdaq Composite zwyżkował o 1,6 proc. , odrabiając część strat z ostatnich tygodni. Piątkowa sesja na Wall Street jednak skrócona.",
+        "Powrót apetytu na ryzyko na rynkach bazowych, napędzany odbiciem notowań spółek związanych ze sztuczną inteligencją . Podmioty z sektora AI znajdowały się w ostatnich tygodniach pod silną presją. Jednocześnie osłabienie awersji do ryzyka wywołało gwałtowny rajd na rynku surowców . Ceny miedzi rosły najmocniej od marca – na Londyńskiej Giełdzie Metali (LME) notowania czerwonego metalu chwilami zwyżkowały o 6,5 proc., równolegle srebro drożało momentami o około 10 proc.",
+        "Eksperci zwracają jednak uwagę na szerszy kontekst rynkowy. Sobiesław Kozłowski z Ipopema Private Investments, goszcząc w piątkowym programie „Bankier Weekly” , uważa, że rynki znajdują się obecnie w późnej fazie cyklu surowcowego, po której historycznie następuje okres preferujący utrzymywanie większego udziału gotówki w portfelu . Z kolei Arkadiusz Banaś, ekspert ds. analiz w Zespole Analiz i Doradztwa Alior Banku, zwrócił uwagę na korelację giełdy w Warszawie z nastrojami zagranicznych inwestorów wobec branży AI."
+      ]
+    },
+    {
+      "id": "rynki-7-b70836",
       "entity_tag": "GUS / Makro Polska",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -2089,42 +2310,6 @@
         "Odbędzie się też referendum w Szwajcarii, w ramach którego Helweci będą decydować o tymczasowej podwyżce stawki VAT (wynoszącej 8,1% - to stawka główna, a nie obniżona), zakazem używania fajerwerków oraz zmianom w opodatkowaniu małżeństw.",
         "W nocy (2:30) pojawią się listopadowe „państwowe” (tj. liczone przez tamtejszy urząd statystyczny) indeksy PMI dla Chin. Druga gospodarka świata od kilku lat pogrążona jest w realnej stagnacji i na takim właśnie stagnacyjnym poziomie (tj. okolice 50 pkt.) od miesięcy plasują się chińskie „piemaje”.",
         "My jednak bardziej będziemy się przejmować kluczowymi statystykami z polskiej gospodarki. O 9:30 GUS przedstawi finalny wynik produktu krajowego brutto zawierający szczegółową kompozycję tego wskaźnika. Równolegle pojawi się szybki szacunek listopadowej inflacji konsumenckiej."
-      ]
-    },
-    {
-      "id": "rynki-7-76f26f",
-      "entity_tag": "Rynek Krypto",
-      "sector": "Aktywa Cyfrowe",
-      "market_impact": "HIGH",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Krypto (Aktywa Cyfrowe) (kluczowe liczby: 13 mln, 1,6 mld, 8,8 mld) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "13 mln",
-        "1,6 mld",
-        "8,8 mld"
-      ],
-      "title": "Bitcoinowy gigant wypada z kluczowych indeksów. Akcje Strategy pod presją",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "06:00",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Bitcoinowy-gigant-wypada-z-kluczowych-indeksow-Akcje-Strategy-pod-presja-9235989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/4/c/9202baa1668332-948-568-0-20-4000-2399.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World.",
-        "Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
-        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake."
-      ],
-      "extended_paragraphs": [
-        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World. Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
-        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake. Na nową listę obserwacyjną trafiła z kolei gromadząca ethereum spółka SharpLink, co oznacza dla niej ostrzeżenie i ryzyko wykluczenia przy kolejnej rewizji indeksów.",
-        "Wykluczenie z indeksów MSCI oznacza, że fundusze pasywne oraz ETF-y odwzorowujące te wskaźniki będą musiały automatycznie pozbyć się walorów Strategy po zamknięciu sesji 30 listopada (zmiany wejdą w życie 1 grudnia).",
-        "Jak wynika z szacunków samej spółki Strategy, przymusowa podaż ze strony funduszy śledzących MSCI może objąć około 13 mln akcji o wartości rzędu 1,6 mld dol. Większe ryzyko wiąże się z efektem domina - analitycy JPMorgan oceniali wcześniej, że gdyby śladem MSCI poszli kolejni dostawcy indeksów, odpływ kapitału ze Strategy mógłby sięgnąć nawet 8,8 mld dol.",
-        "Sama spółka już wcześniej próbowała zablokować te zmiany, nazywając w formalnym piśmie kryteria MSCI \"pretekstem\" i wskazując, że odpowiada za około 87% kapitalizacji wszystkich sześciu wykluczanych podmiotów."
       ]
     },
     {
@@ -2164,42 +2349,6 @@
       ]
     },
     {
-      "id": "rynki-3-19e158",
-      "entity_tag": "GPW w Warszawie",
-      "sector": "Rynek Kapitałowy",
-      "market_impact": "MEDIUM",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 18%, 20%, 5%) — wymaga obserwacji marż i wsparć cenowych.",
-      "key_metrics": [
-        "18%",
-        "20%",
-        "5%"
-      ],
-      "title": "Rok 2027 może być czasem mniejszych spółek. W AI to na razie tylko korekta",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "14:50",
-      "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/Rok-2027-moze-byc-czasem-mniejszych-spolek-W-AI-to-na-razie-tylko-korekta-9236427.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/2/0/5d9148d40ba935-948-568-38-0-1200-720.jpg",
-      "image_source": "Fot. / Źródło: Bankier Giełda",
-      "lead_story": false,
-      "summary_points": [
-        "Czy listopadowe spadki na Nasdaqu były zaczątkiem końca hossy w sektorze AI?",
-        "Kiedy mniejsze spółki z GPW znów zaczną przynosić dodatnie stopy zwrotu dla inwestorów?",
-        "I wreszcie czym różni się obecna sytuacja od tej z lat 2006-07."
-      ],
-      "extended_paragraphs": [
-        "Czy listopadowe spadki na Nasdaqu były zaczątkiem końca hossy w sektorze AI? Kiedy mniejsze spółki z GPW znów zaczną przynosić dodatnie stopy zwrotu dla inwestorów? I wreszcie czym różni się obecna sytuacja od tej z lat 2006-07. Na te i wiele innych pytań odpowiedzi w najnowszym odcinku „Bankier Weekly” poszukiwaliśmy wraz z Sobiesławem Kozłowskim, z Ipopema Private Investments.",
-        "/ Bankier.pl Od październikowego szczytu do zeszłotygodniowego dołka Nasdaq Composite spadł o ponad 18%. Używając amerykańskiej nomenklatury jest to korekta, na granicy regularnej bessy rozumianej jako regres o przynajmniej 20% od ostatniego maksimum.",
-        "- Wydaje mi się, że mamy silną korektę. Jeżeli chodzi o AI i patrząc na przykład na Nasdaq, pod kątem technicznym jesteśmy blisko dolnego ograniczenia trendu formowanego przez ostatnie dwa-trzy lata. Czysto technicznie jest to moment, w którym – jeżeli to jest korekta – powinno nastąpić odbicie lub możemy na nie liczyć – tak sprawę widzi Sobiesław Kozłowski dyrektor departamentu doradztwa inwestycyjnego w obszarze klientów prywatnych Ipopema Private Investments.",
-        "- Kontynuacja przeceny w poniedziałek i przełamanie wsparcia technicznego sygnalizowałyby większą rotację aktywów i potrzebę odbudowy płynności. Według ostatnich badań wśród zarządzających poziom gotówki był bardzo niski, co stanowiło alokacyjny sygnał sprzedaży. Z drugiej strony, poza samą odbudową płynności, nie widać jednoznacznego zwrotu ku bezpieczeństwu – gdyby tak było, rentowności amerykańskich obligacji spadłyby wyraźnie poniżej 5%, a one ledwo drgnęły. To wskazuje na odbudowę poziomu gotówki – wyjaśnia analityk.",
-        "Według Sobiesława Kozłowskiego jesteśmy teraz w późnej fazie cyklu surowcowego, po której zwykle przychodzi okres preferujący posiadanie w portfelu gotówki. Niedawno widzieliśmy przecież potężną przecenę na miedzi, srebrze i złocie. - Fazę gotówki w tym cyklu mógłby skrócić wyraźniejszy spadek cen ropy naftowej, która po byciu outsiderem w latach 2025–2026 mocno podrożała i stała się sporym zaskoczeniem kończącego się roku – uważa Kozłowski."
-      ]
-    },
-    {
       "id": "rynki-4-fe1f6f",
       "entity_tag": "Rynek Kapitałowy",
       "sector": "Giełda & Inwestycje",
@@ -2233,6 +2382,42 @@
         "Wśród najbardziej dotkniętych: GraniteShares 2x Short NVDA Daily ETF (NVD). W poniedziałek fundusz spadł o 63% po przywróceniu Jensena Huanga na stanowisko dyrektora generalnego chipowego giganta. Tymczasem fundusz ETF 2x Long NVDA (NVDL) tej firmy wzrósł tego samego dnia o prawie 62%.",
         "Założyciel ETF Action, Mike Akins, dołączył do „ETF Edge”, gdy akcje Nvidii wzrosły podczas poniedziałkowej sesji o 31%, odrabiając dużą część strat z dni następujących po rezygnacji Huanga. Akcje spadły jednak we wtorek i środę.",
         "„Historycznie rzecz biorąc, na zdrowym rynku nie obserwujemy tego typu dużych spadków, po których następowałyby ogromne wzrosty” – powiedział w poniedziałek Akins. „Zazwyczaj dzieje się tak, gdy znajdujesz się w recesji lub na terytorium bessy, co technicznie nie jest możliwe w przypadku szerszego rynku, ale interesuje nas handel sztuczną inteligencją”."
+      ]
+    },
+    {
+      "id": "rynki-5-19e158",
+      "entity_tag": "GPW w Warszawie",
+      "sector": "Rynek Kapitałowy",
+      "market_impact": "MEDIUM",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół GPW w Warszawie (Rynek Kapitałowy) (kluczowe liczby: 18%, 20%, 5%) — wymaga obserwacji marż i wsparć cenowych.",
+      "key_metrics": [
+        "18%",
+        "20%",
+        "5%"
+      ],
+      "title": "Rok 2027 może być czasem mniejszych spółek. W AI to na razie tylko korekta",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "14:50",
+      "source": "Bankier Giełda",
+      "source_url": "https://www.bankier.pl/wiadomosc/Rok-2027-moze-byc-czasem-mniejszych-spolek-W-AI-to-na-razie-tylko-korekta-9236427.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/2/0/5d9148d40ba935-948-568-38-0-1200-720.jpg",
+      "image_source": "Fot. / Źródło: Bankier Giełda",
+      "lead_story": false,
+      "summary_points": [
+        "Czy listopadowe spadki na Nasdaqu były zaczątkiem końca hossy w sektorze AI?",
+        "Kiedy mniejsze spółki z GPW znów zaczną przynosić dodatnie stopy zwrotu dla inwestorów?",
+        "I wreszcie czym różni się obecna sytuacja od tej z lat 2006-07."
+      ],
+      "extended_paragraphs": [
+        "Czy listopadowe spadki na Nasdaqu były zaczątkiem końca hossy w sektorze AI? Kiedy mniejsze spółki z GPW znów zaczną przynosić dodatnie stopy zwrotu dla inwestorów? I wreszcie czym różni się obecna sytuacja od tej z lat 2006-07. Na te i wiele innych pytań odpowiedzi w najnowszym odcinku „Bankier Weekly” poszukiwaliśmy wraz z Sobiesławem Kozłowskim, z Ipopema Private Investments.",
+        "/ Bankier.pl Od październikowego szczytu do zeszłotygodniowego dołka Nasdaq Composite spadł o ponad 18%. Używając amerykańskiej nomenklatury jest to korekta, na granicy regularnej bessy rozumianej jako regres o przynajmniej 20% od ostatniego maksimum.",
+        "- Wydaje mi się, że mamy silną korektę. Jeżeli chodzi o AI i patrząc na przykład na Nasdaq, pod kątem technicznym jesteśmy blisko dolnego ograniczenia trendu formowanego przez ostatnie dwa-trzy lata. Czysto technicznie jest to moment, w którym – jeżeli to jest korekta – powinno nastąpić odbicie lub możemy na nie liczyć – tak sprawę widzi Sobiesław Kozłowski dyrektor departamentu doradztwa inwestycyjnego w obszarze klientów prywatnych Ipopema Private Investments.",
+        "- Kontynuacja przeceny w poniedziałek i przełamanie wsparcia technicznego sygnalizowałyby większą rotację aktywów i potrzebę odbudowy płynności. Według ostatnich badań wśród zarządzających poziom gotówki był bardzo niski, co stanowiło alokacyjny sygnał sprzedaży. Z drugiej strony, poza samą odbudową płynności, nie widać jednoznacznego zwrotu ku bezpieczeństwu – gdyby tak było, rentowności amerykańskich obligacji spadłyby wyraźnie poniżej 5%, a one ledwo drgnęły. To wskazuje na odbudowę poziomu gotówki – wyjaśnia analityk.",
+        "Według Sobiesława Kozłowskiego jesteśmy teraz w późnej fazie cyklu surowcowego, po której zwykle przychodzi okres preferujący posiadanie w portfelu gotówki. Niedawno widzieliśmy przecież potężną przecenę na miedzi, srebrze i złocie. - Fazę gotówki w tym cyklu mógłby skrócić wyraźniejszy spadek cen ropy naftowej, która po byciu outsiderem w latach 2025–2026 mocno podrożała i stała się sporym zaskoczeniem kończącego się roku – uważa Kozłowski."
       ]
     },
     {

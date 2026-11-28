@@ -2,10 +2,10 @@
   "metadata": {
     "title": "compound.pl — Rynki, Gospodarka, Technologia i Świat",
     "domain": "compound.pl",
-    "edition": "#2026.331",
-    "last_updated": "2026-11-27 18:34",
+    "edition": "#2026.332",
+    "last_updated": "2026-11-28 01:44",
     "ai_status": "Silnik Faktograficzny Zero-Hallucination + Neural Translator EN→PL",
-    "polish_articles_count": 18,
+    "polish_articles_count": 12,
     "foreign_translated_count": 20,
     "breaking_banner": {
       "enabled": false,
@@ -81,8 +81,8 @@
       "symbol": "BTC/USD",
       "name": "Bitcoin",
       "group": "crypto",
-      "price": "$59,830",
-      "change": "-1.25%",
+      "price": "$60,150",
+      "change": "-0.80%",
       "is_positive": false
     },
     {
@@ -90,7 +90,7 @@
       "name": "Ethereum",
       "group": "crypto",
       "price": "$1,668",
-      "change": "-1.84%",
+      "change": "-1.80%",
       "is_positive": false
     },
     {
@@ -1017,39 +1017,39 @@
       ]
     },
     {
-      "id": "rynki-7-a8d158",
-      "entity_tag": "XTB (GPW: XTB)",
-      "sector": "Fintech & Brokerzy",
+      "id": "rynki-7-76f26f",
+      "entity_tag": "Rynek Krypto",
+      "sector": "Aktywa Cyfrowe",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla XTB (GPW: XTB) (Fintech & Brokerzy) (kluczowe liczby: 3,79 mld dolarów, 32,5 mln, 44,9 mln) — wspiera sentyment popytowy w sektorze.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Krypto (Aktywa Cyfrowe) (kluczowe liczby: 13 mln, 1,6 mld, 8,8 mld) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [
-        "3,79 mld dolarów",
-        "32,5 mln",
-        "44,9 mln"
+        "13 mln",
+        "1,6 mld",
+        "8,8 mld"
       ],
-      "title": "99/100 od krytyków i zaledwie 5,7 od graczy. Dwie twarze głośnej premiery GTA VI",
+      "title": "Bitcoinowy gigant wypada z kluczowych indeksów. Akcje Strategy pod presją",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
       "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/99-100-od-krytykow-i-zaledwie-5-7-od-graczy-Dwie-twarze-glosnej-premiery-GTA-VI-9235992.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/1/9/1f2c69b1bb9f41-948-568-18-92-3681-2208.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Bitcoinowy-gigant-wypada-z-kluczowych-indeksow-Akcje-Strategy-pod-presja-9235989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/4/c/9202baa1668332-948-568-0-20-4000-2399.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej.",
-        "Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent.",
-        "Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu."
+        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World.",
+        "Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
+        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake."
       ],
       "extended_paragraphs": [
-        "Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej. Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent. Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu. Czy inwestorzy powinni się przejmować rozjazdem recenzji graczy oraz krytyków, skoro dane sprzedażowe z pierwszych dni wyglądają świetnie?",
-        "fot. Mateusz Slodkowski / / FORUM Z perspektywy liczb debiut GTA VI to wydarzenie bez precedensu w historii popkultury. Według szacunków Take-Two produkcja wygenerowała 3,79 mld dolarów sprzedaży detalicznej brutto w przedsprzedaży oraz w samym dniu premiery, rozchodząc się w nakładzie 32,5 mln egzemplarzy jeszcze przed oficjalnym otwarciem serwerów.",
-        "W ciągu pierwszych czterech dni od premiery (wraz z weekendem otwarcia) sprzedaż sięgnęła około 44,9 mln kopii , a samo Sony poinformowało, że w tym czasie grę na konsolach PlayStation 5 uruchomiło ponad 39 mln unikalnych użytkowników , wliczając w to dostęp w ramach abonamentów i promocji. Gra zarobiła w pierwszej dobie 3,2 razy więcej niż GTA V i ponad trzykrotnie przebiła kinowy weekend otwarcia superprodukcji „Avengers: Endgame” , który przyniósł 1,22 mld dolarów . Oficjalne statystyki bez trudu zmiażdżyły zarówno wcześniejsze szacunki analityczne Sensor Tower na poziomie 2,36 mld dolarów , jak i bardzo ambitne prognozy domu maklerskiego Wedbush, zakładające 3 mld dolarów do końca roku, porównuje Mateusz Czyżkowski z XTB.",
-        "XTB, Take-Two Już pierwszy dzień pokrył 57 procent najbardziej optymistycznego scenariusza Bloomberga na całe dwanaście miesięcy, zakładającego 6,7 mld dolarów przy 60 mln sprzedanych kopii . Przy utrzymaniu świątecznego impetu całoroczne przychody kontraktowe mogą sięgnąć nawet 8,7 mld dolarów . Wcześniejsze zapowiedzi prezesa Take-Two Straussa Zelnicka, mówiące o 3,35–3,50 mld dolarów przychodów kontraktowych w całym kwartale świątecznym oraz 8,0–8,2 mld dolarów w roku obrotowym 2027, wyglądają dziś na klasyczne, celowe zaniżanie oczekiwań rynku.",
-        "Wszystko wygląda świetnie i tak, jak można było się spodziewać po recenzjach branży, opublikowanych tuż przed premierą gry . Na podstawie recenzji profesjonalnych krytyków gra uzyskała zawrotną średnią 99 na 100 punktów , co oficjalnie czyni ją najwyżej ocenianą produkcją w historii branży gier wideo ."
+        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World. Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
+        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake. Na nową listę obserwacyjną trafiła z kolei gromadząca ethereum spółka SharpLink, co oznacza dla niej ostrzeżenie i ryzyko wykluczenia przy kolejnej rewizji indeksów.",
+        "Wykluczenie z indeksów MSCI oznacza, że fundusze pasywne oraz ETF-y odwzorowujące te wskaźniki będą musiały automatycznie pozbyć się walorów Strategy po zamknięciu sesji 30 listopada (zmiany wejdą w życie 1 grudnia).",
+        "Jak wynika z szacunków samej spółki Strategy, przymusowa podaż ze strony funduszy śledzących MSCI może objąć około 13 mln akcji o wartości rzędu 1,6 mld dol. Większe ryzyko wiąże się z efektem domina - analitycy JPMorgan oceniali wcześniej, że gdyby śladem MSCI poszli kolejni dostawcy indeksów, odpływ kapitału ze Strategy mógłby sięgnąć nawet 8,8 mld dol.",
+        "Sama spółka już wcześniej próbowała zablokować te zmiany, nazywając w formalnym piśmie kryteria MSCI \"pretekstem\" i wskazując, że odpowiada za około 87% kapitalizacji wszystkich sześciu wykluczanych podmiotów."
       ]
     },
     {
@@ -1069,10 +1069,10 @@
       "original_title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
       "is_foreign": true,
       "lang": "EN",
-      "time": "11:00",
+      "time": "22:00",
       "source": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108548604-1794349959300-gettyimages-2304504774-anotherday36809902_nb5fdvlx.jpeg?v=1795623957&amp;w=1920&amp;h=1080",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108560334-1795816810559-gettyimages-2248285067-emaz-1_em27443.jpeg?v=1795816828&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
@@ -1199,43 +1199,7 @@
   ],
   "makro": [
     {
-      "id": "makro-1-d2ce33",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” (kluczowe liczby: 17 mln, 299 tys., 36 proc.) wspierający aktywność gospodarczą i siłę nabywczą.",
-      "key_metrics": [
-        "17 mln",
-        "299 tys.",
-        "36 proc."
-      ],
-      "title": "Znaczący ruch na giełdzie. Nowa oferta ws. akcji ZE PAK i duży wzrost",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "07:30",
-      "source": "PolsatNews Biznes",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-26/znaczacy-ruch-na-gieldzie-nowa-oferta-ws-akcji-ze-pak-i-duzy-wzrost/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/xw/xwt5q27d9j9kpnok9nhrr59t82wuz33h.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Biznes",
-      "lead_story": true,
-      "summary_points": [
-        "Cena oferowana inwestorom w wezwaniu na akcje ZE PAK została podniesiona z 18 zł do 24,50 zł.",
-        "To wzrost o ponad 36 proc., co przełożyło się na notowania giełdowe - cena akcji ZE PAK wystrzeliła.",
-        "Przyjmowanie zapisów w ramach wezwania potrwa do 2 grudnia."
-      ],
-      "extended_paragraphs": [
-        "Cena oferowana inwestorom w wezwaniu na akcje ZE PAK została podniesiona z 18 zł do 24,50 zł. To wzrost o ponad 36 proc., co przełożyło się na notowania giełdowe - cena akcji ZE PAK wystrzeliła. Przyjmowanie zapisów w ramach wezwania potrwa do 2 grudnia.",
-        "Cypryjska spółka Argumenol Investment Company Limited , poprzez którą rodzinna fundacja Solorzów kontroluje Zespół Elektrowni Pątnów-Adamów-Konin, podjęła decyzję o poprawieniu warunków ogłoszonego pod koniec października wezwania.",
-        "Cena zakupu pojedynczej akcji została podniesiona z 18 zł do 24,50 zł. Nowa stawka obowiązuje od 20 listopada. Należy podkreślić, że nowa cena dotyczyć będzie również tych inwestorów, którzy zgłosili się na wezwanie jeszcze przed jej podwyższeniem.",
-        "Informacja ta pozytywnie wpłynęła na notowania giełdowe ZE PAK. Do piątku kurs akcji wahał się w okolicy 18-19 zł. W poniedziałek 23 listopada, po rozpoczęciu handlu, notowania wzrosły do poziomu 24 zł. W środę po południu cena utrzymywała się na podobnym poziomie.",
-        "Argumenol chce kupić 17 mln 299 tys. 636 akcji ZE PAK. Akcje reprezentują łącznie około 34,04 proc. kapitału zakładowego Spółki oraz uprawniają do wykonywania około 34,04 proc. głosów na walnym zgromadzeniu Spółki."
-      ]
-    },
-    {
-      "id": "makro-2-28b750",
+      "id": "makro-1-28b750",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1252,7 +1216,7 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
       "image_source": "Fot. / Źródło: BBC Business",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
         "Inne kraje przekierowały handel w odpowiedzi na jego pierwszą salwę celną i teraz patrzą poza kadencję Trumpa.",
         "Zamiast tego w tym ostatnim ćwiczeniu jest coś raczej niepewnego i mowa o dalszych negocjacjach.",
@@ -1267,7 +1231,7 @@
       ]
     },
     {
-      "id": "makro-6-141833",
+      "id": "makro-3-141833",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "HIGH",
@@ -1275,7 +1239,7 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Pozytywny sygnał z obszaru „Makroekonomia” wspierający aktywność gospodarczą i siłę nabywczą.",
       "key_metrics": [],
-      "title": "Wielka Brytania zapłaci opłatę za uczestnictwo w realizacji umów UE",
+      "title": "Wielka Brytania zapłaci opłatę za „uczestnictwo” w celu realizacji umów UE",
       "original_title": "UK to pay 'participation' fee to deliver EU deals",
       "is_foreign": true,
       "lang": "EN",
@@ -1286,12 +1250,12 @@
       "image_source": "Fot. / Źródło: BBC Business",
       "lead_story": false,
       "summary_points": [
-        "Szczegóły dotyczące wkładu w koszty bieżące UE zostały ujawnione w nowych dokumentach prawnych.",
+        "Szczegóły udziału w kosztach bieżących UE ujawniono w nowych dokumentach prawnych.",
         "Z dokumentów prawnych wynika, że ​​Wielka Brytania zapłaci UE „opłatę za uczestnictwo” w ramach umów uzgodnionych przez Andy’ego Burnhama.",
         "Dodatkowa opłata zostanie przeznaczona na pokrycie kosztów bieżących agencji i systemów UE niezbędnych do realizacji dwóch z porozumień zaprezentowanych przez premiera w zeszłym tygodniu."
       ],
       "extended_paragraphs": [
-        "Szczegóły dotyczące wkładu w koszty bieżące UE zostały ujawnione w nowych dokumentach prawnych.",
+        "Szczegóły udziału w kosztach bieżących UE ujawniono w nowych dokumentach prawnych.",
         "Z dokumentów prawnych wynika, że ​​Wielka Brytania zapłaci UE „opłatę za uczestnictwo” w ramach umów uzgodnionych przez Andy’ego Burnhama.",
         "Dodatkowa opłata zostanie przeznaczona na pokrycie kosztów bieżących agencji i systemów UE niezbędnych do realizacji dwóch z porozumień zaprezentowanych przez premiera w zeszłym tygodniu.",
         "Z dokumentów wynika, że ​​zostanie ono wypłacone jako dodatek do wkładu w koszty, który zasadniczo odzwierciedla wkład członków UE we wspólny budżet bloku.",
@@ -1299,77 +1263,7 @@
       ]
     },
     {
-      "id": "makro-3-670a0e",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 1 mln zł) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "1 mln zł"
-      ],
-      "title": "Ceny paliw w czwartek. Ministerstwo podało maksymalne stawki",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "14:22",
-      "source": "PolsatNews Biznes",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/ceny-paliw-w-czwartek-ministerstwo-podalo-maksymalne-stawki/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/33/336t5ecphtxz9oqj7n155185hfx7ewch.jpeg",
-      "image_source": "Fot. / Źródło: PolsatNews Biznes",
-      "lead_story": false,
-      "summary_points": [
-        "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 5,82 zł, benzyny 98 - 6,48 zł, a diesla - 7,15 zł - wynika z obwieszczenia ministra energii.",
-        "Ceny maksymalne będą zatem niższe od obowiązujących w środę.",
-        "We środę litr benzyny 95 kosztuje nie więcej niż 5,84 zł, benzyny 98 – 6,51 zł, a diesla - 7,23 zł."
-      ],
-      "extended_paragraphs": [
-        "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 5,82 zł, benzyny 98 - 6,48 zł, a diesla - 7,15 zł - wynika z obwieszczenia ministra energii. Ceny maksymalne będą zatem niższe od obowiązujących w środę.",
-        "We środę litr benzyny 95 kosztuje nie więcej niż 5,84 zł, benzyny 98 – 6,51 zł, a diesla - 7,23 zł.",
-        "Następne obwieszczenie ministra energii ws. maksymalnych cen paliw zostanie opublikowane w czwartek, 26 listopada i określi ceny na piątek .",
-        "Obwieszczenie o maksymalnych cenach paliw stanowi jeden z elementów kolejnej, trzeciej już odsłony pakietu Ceny Paliwa Niżej (CPN) , którego celem jest ograniczenie wzrostu cen na stacjach i obniżenie kosztów tankowania dla kierowców.",
-        "Mechanizm został uruchomiony po wejściu w życie części przepisów ustawy o podatku od nadzwyczajnych zysków przedsiębiorstw paliwowych . Prezydent ustawę podpisał i jednocześnie skierował ją do Trybunału Konstytucyjnego w trybie kontroli następczej. Kara za stosowanie cen paliw wyższych od maksymalnych może wynieść nawet 1 mln zł ."
-      ]
-    },
-    {
-      "id": "makro-5-7b7e03",
-      "entity_tag": "Gospodarka & Makro",
-      "sector": "Makroekonomia",
-      "market_impact": "MEDIUM",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) (kluczowe liczby: 10 mln, 6,7 tys., 46 proc.) przy planowaniu budżetu i inwestycji.",
-      "key_metrics": [
-        "10 mln",
-        "6,7 tys.",
-        "46 proc."
-      ],
-      "title": "Ile emerytury potrzeba, by godnie żyć? Seniorzy wskazali kwotę",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "11:15",
-      "source": "PolsatNews Biznes",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/ile-emerytury-potrzeba-by-godnie-zyc-seniorzy-wskazali-kwote/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/tw/tw7ycrxbd5or172o4wo5256iqmnrrdbz.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Biznes",
-      "lead_story": false,
-      "summary_points": [
-        "Najniższa emerytura po marcowej waloryzacji wynosi 1978,49 zł brutto, czyli ok. 1800 zł na rękę.",
-        "Tymczasem seniorzy wskazują, że na pokrycie miesięcznych kosztów utrzymania potrzeba zdecydowanie więcej.",
-        "W Polsce mieszka już ponad 10 mln osób w wieku 60 lat i więcej."
-      ],
-      "extended_paragraphs": [
-        "Najniższa emerytura po marcowej waloryzacji wynosi 1978,49 zł brutto, czyli ok. 1800 zł na rękę. Tymczasem seniorzy wskazują, że na pokrycie miesięcznych kosztów utrzymania potrzeba zdecydowanie więcej.",
-        "W Polsce mieszka już ponad 10 mln osób w wieku 60 lat i więcej. O jakość ich życia dziennik Fakt pyta w ankiecie od 2019 r. W najnowszym badaniu sprawdzającym m.in. sytuację finansową, zdrowotną i społeczną wzięło udział ok. 6,7 tys. seniorów.",
-        "Ponad 4000 zł na rękę miesięcznie potrzebuje na pełne utrzymanie, z rachunkami włącznie, 46 proc. uczestników badania. To o ponad 2200 zł więcej niż na rękę daje minimalna emerytura. 23 proc. ankietowanych wskazało przedział od 3201 do 4000 zł, a 12 proc. od 2801 do 3200 zł . Tylko 3 proc. uważa, że minimalne świadczenie wystarcza na życie. Znacznie bliżej oczekiwań seniorów jest przeciętna emerytura, która we wrześniu 2026 r. wyniosła 4525,41 zł brutto, czyli ok. 3875 zł na rękę.",
-        "Seniorów zapytano też, jaka emerytura pozwoliłaby im na godne życie. Co najmniej 4000 zł netto miesięcznie wskazało 84 proc. ankietowanych, w tym 47 proc. oczekiwałoby ponad 5000 zł.",
-        "Wielu uczestników badania ma jednak znacznie skromniejsze możliwości finansowe. Z raportu wynika, że ponad połowie z nich (57 proc.) po opłaceniu rachunków i wykupieniu leków zostaje nie więcej niż 900 zł miesięcznie."
-      ]
-    },
-    {
-      "id": "makro-7-16f40f",
+      "id": "makro-4-16f40f",
       "entity_tag": "Sektor AI",
       "sector": "Sztuczna Inteligencja",
       "market_impact": "MEDIUM",
@@ -1401,7 +1295,7 @@
       ]
     },
     {
-      "id": "makro-4-80a107",
+      "id": "makro-2-80a107",
       "entity_tag": "Gospodarka & Makro",
       "sector": "Makroekonomia",
       "market_impact": "LOW",
@@ -1409,7 +1303,7 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Dla przedsiębiorców i oszczędzających: Istotny punkt odniesienia w segmencie „Makroekonomia” (Gospodarka & Makro) przy planowaniu budżetu i inwestycji.",
       "key_metrics": [],
-      "title": "Od 250 funtów pracy do 9000 funtów rachunku: w sieciach nieuczciwych handlowców oszukujących klientów na dużą skalę",
+      "title": "Od 250 funtów pracy do 9000 funtów rachunku: wewnątrz sieci nieuczciwych handlowców oszukujących klientów na dużą skalę",
       "original_title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
       "is_foreign": true,
       "lang": "EN",
@@ -1435,35 +1329,39 @@
   ],
   "tech": [
     {
-      "id": "tech-3-284529",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
+      "id": "tech-1-c7ab99",
+      "entity_tag": "Złoto (XAU/USD)",
+      "sector": "Surowce Szlachetne",
       "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Powerbank jest w torbie, a kabel został na biurku? Hama Roll Up kończy z tym problemem",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Złoto (XAU/USD) (Surowce Szlachetne) (kluczowe liczby: 300 miliardów dolarów, 165 miliardów dolarów, 115 miliardów dolarów) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [
+        "300 miliardów dolarów",
+        "165 miliardów dolarów",
+        "115 miliardów dolarów"
+      ],
+      "title": "Tysiące ton złota czekają na wydobycie. Chińczycy pobili rekord z 1949 roku",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "16:31",
+      "time": "19:53",
       "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/powerbank-jest-w-torbie-a-kabel-zostal-na-biurku-hama-roll-up-konczy-z-tym-problemem",
-      "image_url": "https://konto.chip.pl/uploads/2026/11/Idealny-sprzet-do-wielokrotnego-naladowania-smartfona-1600x1600.jpg",
+      "source_url": "https://www.chip.pl/2026/11/chiny-najwieksze-odkrycie-zlota-od-1949-roku",
+      "image_url": "https://konto.chip.pl/uploads/2024/04/zloto.jpg",
       "image_source": "Fot. / Źródło: Chip.pl Tech",
       "lead_story": true,
       "summary_points": [
-        "Powerbank w torbie to wygoda i pewność, że w każdej chwili będziemy mogli podładować nasz sprzęt.",
-        "Oczywiście, o ile mamy przy sobie kabel.",
-        "To właśnie ten detal potrafi nam się czasem zapodziać lub pozostać zapomniany, w efekcie zmieniając powerbank w bezużyteczny gadżet."
+        "Chińscy naukowcy zidentyfikowali zasoby złota, których łączna wielkość może przekraczać 2000 ton.",
+        "Przy obecnych cenach rynkowych mogłoby się to przełożyć na nawet 300 miliardów dolarów wartości.",
+        "Chodzi o dwa rozległe obszary położone w prowincjach Liaoning i Hunan."
       ],
       "extended_paragraphs": [
-        "Powerbank w torbie to wygoda i pewność, że w każdej chwili będziemy mogli podładować nasz sprzęt. Oczywiście, o ile mamy przy sobie kabel. To właśnie ten detal potrafi nam się czasem zapodziać lub pozostać zapomniany, w efekcie zmieniając powerbank w bezużyteczny gadżet. Z drugiej strony, plątanina kabli w torbie też nie jest idealnym rozwiązaniem. Czy […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Powerbank jest w torbie, a kabel został na biurku? Hama Roll Up kończy z tym problemem \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Ich najnowszy model Roll Up 20000 mAh, to większy wariant wydane w październiku modelu. Tym razem producent postawił na praktyczność i zamiast zmuszać nas do noszenia dodatkowego przewodu, zintegrował go z korpusem urządzenia. Kabel USB-C jest automatycznie zwijany, więc nie ma tu mowy o plątaniu kabli czy zapominaniu o nim w domu.",
-        "Niemiecki producent postawił na klasyczny, podłużny pudełkowaty kształt w szaro-grafitowym odcieniu. Przy wymiarach 15,28 × 5,21 × 3,4 centymetra i wadze 425,8 grama bez problemu mieści się w bocznej kieszeni plecaka, torebce czy głębszej kieszeni kurtki, a niewielka pętelka przy obudowie pozwala zawiesić sprzęt na nadgarstku lub przypiąć go do uchwytu torby, gdy obie ręce są zajęte.",
-        "Najlepszy trik pozostaje jednak niewidoczny aż do momentu, gdy na ekranie telefonu pojawi się czerwona ikona baterii. Najważniejszy jest jednak płaski przewód USB-C o długości do 30 centymetrów, który wysuwa się jednym ruchem na potrzebną odległość, a po skończonym ładowaniu błyskawicznie chowa się z powrotem do środka bez ręcznego nawijania i załamywania wtyczki.",
-        "Czytaj też: Pionowy pasek zamiast szukania przycisków w prawym górnym rogu. Android Auto 18.2 wreszcie naprawia irytujący błąd"
+        "Chińscy naukowcy zidentyfikowali zasoby złota, których łączna wielkość może przekraczać 2000 ton. Przy obecnych cenach rynkowych mogłoby się to przełożyć na nawet 300 miliardów dolarów wartości. Chodzi o dwa rozległe obszary położone w prowincjach Liaoning i Hunan. Największym z nich jest złoże Dadonggou, w którym według oficjalnych szacunków znajduje się ponad 1400 ton złota. To […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Tysiące ton złota czekają na wydobycie. Chińczycy pobili rekord z 1949 roku \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Chodzi o dwa rozległe obszary położone w prowincjach Liaoning i Hunan. Największym z nich jest złoże Dadonggou, w którym według oficjalnych szacunków znajduje się ponad 1400 ton złota. To największe pojedyncze złoże tego metalu odkryte w Chinach od 1949 roku. I choć w teorii mogłoby się to przełożyć na zyski sięgające nawet 165 miliardów dolarów, to rzeczywisty zarobek będzie zależny od wielu różnych czynników. Chodzi między innymi o koszty wydobycia, przetwarzania surowca oraz ilości metalu, którą uda się faktycznie odzyskać.",
+        "Czytaj też: Wielka eksplozja w USA zaangażowała nawet NASA. Takiego zagrożenia nie widać gołym okiem",
+        "Drugim ważnym obszarem jest Wangu, położone w prowincji Hunan. Odkrycie miało tam miejsce już dwa lata temu, kiedy to geolodzy poinformowali o zidentyfikowaniu ponad 40 żył złota, zawierających około 300 ton kruszcu na głębokości do 2000 metrów. Dzięki dalszym analizom i modelowaniu geologicznemu oszacowali, iż zasoby mogą przekraczać 1000 ton, jeśli uwzględnić głębsze partie terenu.",
+        "W tym przypadku teoretyczna wartość mogłaby wynosić niemal 115 miliardów dolarów. W połączeniu z Dadonggou daje to kwotę zbliżoną do 300 miliardów dolarów. A gdyby odsunąć na bok debatowanie o aspekcie finansowym, to ciekawa okazuje się również sama budowa geologiczna złoża. Badając Dadonggou, naukowcy przeanalizowali dane z ponad 200 odwiertów, a także próbki skał oraz mikroskopową strukturę kryształów kwarcu. Okazało się, że złoto występuje tam przede wszystkim w stosunkowo płaskich, łagodnie nachylonych strefach skał metamorficznych, zamiast charakterystycznych, stromych żył kwarcowych."
       ]
     },
     {
@@ -1528,11 +1426,43 @@
         "Czy Alice Huang jest szpiegiem, czy nie? Lucas Ropek 12:00 PST · 26 listopada 2026 r. Głównym, wciąż niepotwierdzonym twierdzeniem w skandalu Nvidii jest to, że Alice Huang, była dyrektor firmy Megaspeed zajmującej się centrami danych, jest chińskim szpiegiem. Miała romans z dyrektorem generalnym Nvidii, Jensenem Huangiem, który 12 listopada nagle złożył rezygnację po przyjęciu do wiadomości wiadomości i równie nagle została przywrócona na stanowisko w poniedziałek tego tygodnia.",
         "To, co jest publicznie znane, jest bardziej mroczne, niż sugerują nagłówki. Według doniesień wywiad amerykański śledził kontakt Alice Huang z funkcjonariuszem chińskiej agencji szpiegowskiej, ale urzędnicy nie przedstawili publicznych dowodów na to, że zlecono jej zaatakowanie szefa Nvidii. W zeszłym tygodniu, po tym jak prezydent Trump skutecznie nalegał na sprowadzenie Jensena Huanga z powrotem, administracja bagatelizowała zarzuty, które kiedyś krążyły wewnętrznie. Pytanie, czy odzwierciedla to nowe informacje wywiadowcze, czy presję polityczną.",
         "Bezsporne doniesienia pokazują, że twierdzenie to wyszło z samego Białego Domu. Po raz pierwszy pojawiła się w ściśle tajnej notatce napisanej w marcu pod nadzorem Sekretarza Stanu Marco Rubio i rozesłanej urzędnikom Białego Domu przed podróżą Trumpa do Chin w maju. Notatka ta stała się częściową podstawą wstępnego doniesienia „New York Timesa” na temat skandalu, opublikowanego 29 października, a o jej istnieniu po raz pierwszy poinformowano 8 listopada.",
-        "Według „Wall Street Journal” z notatki nie wynikało ostatecznie, że Alice Huang była chińskim szpiegiem. CNN natomiast podała, że ​​w notatce stwierdzono, że była ona pracownikiem chińskiego wywiadu."
+        "Według „Wall Street Journal” w notatce nie wskazano ostatecznie, że Alice Huang była chińskim szpiegiem. CNN natomiast podała, że ​​w notatce stwierdzono, że była ona pracownikiem chińskiego wywiadu."
       ]
     },
     {
-      "id": "tech-1-1cd7b8",
+      "id": "tech-3-bdca78",
+      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
+      "sector": "Big Tech",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
+      "key_metrics": [],
+      "title": "Zbroja Dooma i świecący młot Thora na nadgarstku. Nowe zegarki Fossila z „Avengers: Doomsday” naprawdę dają radę",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "19:00",
+      "source": "Chip.pl Tech",
+      "source_url": "https://www.chip.pl/2026/11/nowe-zegarki-fossila-z-avengers-doomsday-naprawde-daja-rade",
+      "image_url": "https://konto.chip.pl/uploads/2026/11/fossil-kolekcja-avengers-doomsday-1.jpeg",
+      "image_source": "Fot. / Źródło: Chip.pl Tech",
+      "lead_story": false,
+      "summary_points": [
+        "Większość gadżetów wypuszczanych przy okazji premier wielkich filmów superbohaterskich to pójście na łatwiznę.",
+        "Zwykle dostajemy zwykły, nudny zegarek, na którego tarczy ktoś po prostu nadrukował logo kinowego hitu i uznał robotę za skończoną.",
+        "Fossil jednak nigdy nie lubił takich rozwiązań i po raz kolejny udowadnia nam, że popkulturowe gadżety mogą być stylowe."
+      ],
+      "extended_paragraphs": [
+        "Większość gadżetów wypuszczanych przy okazji premier wielkich filmów superbohaterskich to pójście na łatwiznę. Zwykle dostajemy zwykły, nudny zegarek, na którego tarczy ktoś po prostu nadrukował logo kinowego hitu i uznał robotę za skończoną. Fossil jednak nigdy nie lubił takich rozwiązań i po raz kolejny udowadnia nam, że popkulturowe gadżety mogą być stylowe. Przed zaplanowaną na […]",
+        "powrót Tech Testy Moto Nauka Publicystyka Chcesz czytać więcej treści jak „ Zbroja Dooma i świecący młot Thora na nadgarstku. Nowe zegarki Fossila z „Avengers: Doomsday” naprawdę dają radę \" ? Dodaj CHIP.pl do preferowanych źródeł w Google Przed zaplanowaną na 18 grudnia premierą filmu „Avengers: Doomsday” marka wypuściła kolekcję czterech limitowanych zegarków poświęconych Doktorowi Doomowi, Thorowi, Gambitowi oraz Panu Fantastycznemu. I co najciekawsze, tutaj nikt nie próbował robić skoku na kasę przez sztuczne dzielenie bohaterów na lepszych i gorszych. Każdy z modeli kosztuje dokładnie 325 dolarów (około 1300 złotych), a za cały zestaw czterech sztuk trzeba zapłacić równe 1300 dolarów, bez żadnych kodów rabatowych czy promocji.",
+        "Mimo że każdy zegarek ma zupełnie inny charakter i własną sztuczkę ukrytą w obudowie, wszystkie łączą te same, całkiem solidne podstawy użytkowe. Każdy egzemplarz dostał numerowany dekiel z wygrawerowanym logo filmu oraz grafiką postaci, szkło mineralne, standardową szerokość paska 22 mm, wodoszczelność na poziomie 5 ATM (bez problemu przeżyją ulewę czy wypad na basen) oraz dwuletnią gwarancję. Trzy z nich napędzają klasyczne, trzywskazówkowe mechanizmy kwarcowe, dzięki czemu są gotowe do działania w sekundę po zdjęciu z półki. Czwarty natomiast dostał do kompletu cyfrowy wyświetlacz.",
+        "Gdybym miała wskazać mojego faworyta pod kątem czystego wyglądu, bez wahania postawiłabym na Doktora Dooma (LE1256SET). Stalową kopertę o średnicy 44 mm otoczono pierścieniem przypominającym ogniwa łańcucha i nitowanymi detalami, a pod spodem osadzono zieloną tarczę stylizowaną na płyty pancerza. Całość pokrywają runy i symbole Latverii, a herb na godzinie szóstej sprytnie maskuje sekundnik w samym projekcie cyferblatu. Zielony, skórzany pasek przedłuża ten kolor poza kopertę i sprawia, że w zestawieniu z ciemną kurtką zegarek od razu gra pierwsze skrzypce.",
+        "Również 44-milimetrowy model Thora (LE1257SET) stawia na mocną fakturę, ale tutaj niczego nie próbowano wygładzać na błysk. Postarzana stal nierdzewna, pierścień z nordyckim węzłem oraz pęknięcia na bokach koperty bezpośrednio nawiązują do na nowo wykutego młota Mjolnira, którego runiczna inskrypcja biegnie wokół tarczy."
+      ]
+    },
+    {
+      "id": "tech-5-1cd7b8",
       "entity_tag": "Alphabet (NASDAQ: GOOGL)",
       "sector": "Big Tech",
       "market_impact": "LOW",
@@ -1564,38 +1494,6 @@
       ]
     },
     {
-      "id": "tech-5-300d6b",
-      "entity_tag": "Alphabet (NASDAQ: GOOGL)",
-      "sector": "Big Tech",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Alphabet (NASDAQ: GOOGL) (Big Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
-      "key_metrics": [],
-      "title": "Pionowy pasek zamiast szukania przycisków w prawym górnym rogu. Android Auto 18.2 wreszcie naprawia irytujący błąd",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "16:00",
-      "source": "Chip.pl Tech",
-      "source_url": "https://www.chip.pl/2026/11/android-auto-18-2-wreszcie-naprawia-irytujacy-blad",
-      "image_url": "https://konto.chip.pl/uploads/2026/03/android-auto-youtube-1.jpg",
-      "image_source": "Fot. / Źródło: Chip.pl Tech",
-      "lead_story": false,
-      "summary_points": [
-        "Producenci samochodów od kilku lat ścigają się na przekątne wyświetlaczy, stawiając na panoramiczne tablety, które mają uzasadniać coraz wyższe ceny aut w salonach.",
-        "Nie byłoby może w tym niczego złego, gdyby nie fakt, że oprogramowanie nie zawsze nadąża za fantazją projektantów.",
-        "Wraz z wdrażaniem aktualizacji Android Auto 18.2.664604-release – będącej elementem stopniowego przechodzenia na język projektowania Material 3 – interfejs na szerokich, poziomych ekranach doczekał się praktycznej przebudowy."
-      ],
-      "extended_paragraphs": [
-        "Producenci samochodów od kilku lat ścigają się na przekątne wyświetlaczy, stawiając na panoramiczne tablety, które mają uzasadniać coraz wyższe ceny aut w salonach. Nie byłoby może w tym niczego złego, gdyby nie fakt, że oprogramowanie nie zawsze nadąża za fantazją projektantów. W efekcie wyświetlacz może i jest duży, ale interfejs niekoniecznie jest do niego dostosowany […]",
-        "powrót Tech Testy Moto Nauka Publicystyka Dodaj CHIP.pl jako preferowane źródło Częściej pojawimy się w Twoich wynikach wyszukiwania Google Wygląda jednak na to, że Google wreszcie wysłuchało kierowców. Wraz z wdrażaniem aktualizacji Android Auto 18.2.664604-release – będącej elementem stopniowego przechodzenia na język projektowania Material 3 – interfejs na szerokich, poziomych ekranach doczekał się praktycznej przebudowy. Zamiast niewygodnego, górnego paska nawigacyjnego, najważniejsze opcje przeniesiono do pionowej kolumny umieszczonej przy bocznej krawędzi ekranu, znacznie bliżej ręki i naturalnej linii wzroku kierowcy.",
-        "Zmiana od razu rzuca się w oczy w popularnych aplikacjach multimedialnych, takich jak Spotify, YouTube Music, Amazon Music, a także w wbudowanym dialerze do połączeń telefonicznych. Do tej pory przyciski przyciski pokroju „Biblioteki” czy „Przeglądaj” uciekały bliżej prawej krawędzi, przez co kierowca musiał oderwać wzrok od jezdni i wyciągnąć rękę, by do nich dotrzeć. Ani to wygodne, ani tym bardziej bezpieczne. Na szczęście po aktualizacji układają się one w przejrzystą, pionową listę z lewej strony ekranu.",
-        "Aktualizacja likwiduje też bezużyteczne, puste strefy między okładką albumu a ramką wyświetlacza, więc w zamian dostajemy duży, czytelny panel aktualnie odtwarzanego utworu z wyraźną okładką i przyciskami sterowania dokładnie tam, gdzie odruchowo wędruje dłoń.",
-        "Czytaj też: Galaxy S27 Ultra odchudzi wyspę aparatów. Zniknie nie jeden, a aż dwa kluczowe elementy"
-      ]
-    },
-    {
       "id": "tech-6-7c4e92",
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
@@ -1622,7 +1520,7 @@
       "extended_paragraphs": [
         "Sieć społecznościowa X Elona Muska w końcu dodała kontrolę rodzicielską dla nastolatków, dając rodzicom i opiekunom możliwość zarządzania tym, co ich dzieci widzą na platformie.",
         "X w końcu uzyskuje kontrolę rodzicielską po 20 latach Ram Iyer 11:31 PST · 26 listopada 2026 Po 20 latach istnienia X, sieć społecznościowa znana wcześniej jako Twitter, w końcu dodała kontrolę rodzicielską dla nastolatków, dając rodzicom i opiekunom możliwość zarządzania tym, co ich dzieci widzą i z czym wchodzą w interakcję na platformie. Jednak w przeciwieństwie do implementacji takich kontroli na większości platform, X nadaje systemowi własny charakter, dając nastolatkom coś do powiedzenia w tej sprawie.",
-        "Firma twierdzi, że konta należące do osób w wieku od 13 do 17 lat zostaną domyślnie ustawione w „trybie chronionym”, co oznacza, że ​​nie będą one mogły zobaczyć poufnych treści i nie będą im wyświetlane ukierunkowane reklamy. Jednakże X pozwala nastolatkom zachować pewną kontrolę nad swoimi kontami, pozwalając im zobaczyć, jakie ograniczenia nałożono na ich konta. Rodzice i opiekunowie nie będą też mogli czytać prywatnych wiadomości swoich nastolatków, przeglądać historii wyszukiwania i przeglądania ani publikować postów jako nastolatki.",
+        "Firma twierdzi, że konta należące do osób w wieku od 13 do 17 lat zostaną domyślnie ustawione w „trybie chronionym”, co oznacza, że ​​nie będą one mogły zobaczyć poufnych treści i nie będą im wyświetlane ukierunkowane reklamy. Jednakże X pozwala nastolatkom zachować pewną kontrolę nad swoimi kontami, pozwalając im zobaczyć, jakie ograniczenia nałożono na ich konta. Rodzice i opiekunowie nie będą także mogli czytać prywatnych wiadomości swoich nastolatków, przeglądać historii wyszukiwania i przeglądania ani publikować postów jako nastolatki.",
         "Elementy sterujące pozwalają rodzicom zobaczyć, ile czasu ich nastolatek spędza w X w tygodniu, ustawić dzienne limity, wymagać od nich zgody na nowych obserwujących, ograniczyć rekomendacje i filmy z kanału do już obserwowanych kont, filtrować określone słowa, wyłączać wrażliwe media, określać, kto może wysyłać wiadomości prywatne dla nastolatków i sprawdzać, do kogo wysyłają wiadomości.",
         "Kontrole pojawiają się kilka miesięcy po tym, jak X znalazł się w ogniu krytyki z powodu braku kontroli uniemożliwiających wykorzystywanie chatbota AI platformy do generowania zseksualizowanych obrazów dzieci i kobiet. Sieć społecznościowa od dawna obfituje w materiały przedstawiające wykorzystywanie seksualne dzieci, dezinformację, boty AI i pozwala użytkownikom otwarcie publikować pornografię."
       ]
@@ -1667,8 +1565,8 @@
       "entity_tag": "Technologia & Innowacje",
       "sector": "Sektor Tech",
       "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "sentiment": "neutral",
+      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Perspektywa Tech & AI: Wydarzenie wokół Technologia & Innowacje (Sektor Tech) kształtuje przewagi konkurencyjne oraz alokację kapitału w spółki technologiczne.",
       "key_metrics": [],
       "title": "Najlepsze oferty na Czarny Piątek, jakie Ars mógł znaleźć",
@@ -1682,57 +1580,22 @@
       "image_source": "Fot. / Źródło: Ars Technica",
       "lead_story": false,
       "summary_points": [
-        "Może jakiś handel, żeby wszystkie resztki z Dnia Indyka mogły łatwiej zejść?",
+        "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
         "Ten dzień na zawsze popadł w niesławę i wszyscy znamy tę historię – jak zły Megatron (przeklęty niech będzie przepływ jego energii!) zarekwirował wahadłowiec Autobot, okrutnie zamordował jego załogę i przypuścił tchórzliwy, niespodziewany atak na Autobot City – plan całkowicie pozbawiony honoru, co było tak typowe dla planów Megatrona.",
         "Nawet gdy pojedyncze Autoboty próbowały zabezpieczyć Autobot City – bohaterowie, wszyscy!"
       ],
       "extended_paragraphs": [
-        "Może jakiś handel, żeby wszystkie resztki z Dnia Indyka mogły łatwiej zejść?",
+        "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
         "Ten dzień na zawsze popadł w niesławę i wszyscy znamy tę historię – jak zły Megatron (przeklęty niech będzie przepływ jego energii!) zarekwirował wahadłowiec Autobot, okrutnie zamordował jego załogę i przypuścił tchórzliwy, niespodziewany atak na Autobot City – plan całkowicie pozbawiony honoru, co było tak typowe dla planów Megatrona. Nawet gdy pojedyncze Autoboty próbowały zabezpieczyć Autobot City – bohaterowie, wszyscy! – nadzieja zaczęła słabnąć pod wpływem ataku, który obejmował atak przerażającego Devastatora, przed którym wydawało się, że nie ma obrony.",
-        "A potem, u progu katastrofy, Optimus Prime złożył fatalną deklarację, której słowa wciąż brzmią: „Megatron musi zostać zatrzymany bez względu na cenę”. Nieustraszony Autobot przekształcił się, wdrożył i wykonał zadanie – mimo że koszt był wysoki. Wiele odważnych Autobotów oprócz Optimusa Prime straciło życie podczas walk. To był naprawdę mroczny dzień, czarny dzień – dlatego co roku w piątek po Święcie Dziękczynienia zatrzymujemy się, aby pamiętać o szlachetnych poświęceniach dokonanych przez Prime i tak wielu innych osób. Dlatego dzisiejszy dzień nazywany jest Czarnym Piątkiem.",
-        "A jak pamiętamy te Autoboty, które dołączyły do ​​Allspark, abyśmy mogli żyć w wolności? Cóż, świętujemy Czarny Piątek poprzez handel i kupowanie rzeczy – tak jak chciałby Optimus Prime! Poniżej znajduje się lista najlepszych ofert, jakie znaleźliśmy, w szerokim zakresie kategorii. Ceny są aktualne na chwilę obecną (sprawdza zegarek), gdzie „w tej chwili” oznacza znacznik czasu publikacji tej historii. Przejrzyj listę i zobacz, czy coś Cię zainteresuje — postaramy się ją odświeżyć przynajmniej raz w ciągu dnia, podając aktualne ceny i inne elementy.",
-        "Jeśli ciemność historii Czarnego Piątku grozi przytłoczeniem twojej duszy, nie obawiaj się. Następcą Optimusa Prime został Rodimus Prime, który pokonał ciemność i przywrócił nadzieję całemu Cybertronowi. (Nie mówimy o krótkim okresie międzykrólewskim dowodzonym przez Ultra Magnusa.) Nawet sam Optimus Prime nie pozostałby martwy na zbyt długo – jego własne chwalebne i być może narracyjnie nieuniknione zmartwychwstanie miało nastąpić niedługo potem. Rzeczywiście, już za kilka dni będziemy świętować te wielkie wydarzenia, w Cybertronowy Poniedziałek (lub w skrócie „Cyberponiedziałek”), częstszymi zakupami!"
+        "A potem, u progu katastrofy, Optimus Prime złożył fatalną deklarację, której słowa wciąż brzmią: „Megatron musi zostać zatrzymany bez względu na cenę”. The fearless Autobot transformed, rolled out, and got the job done—even though that cost was high. Many brave Autobots besides Optimus Prime lost their lives during the fighting. To był naprawdę mroczny dzień, czarny dzień – dlatego co roku w piątek po Święcie Dziękczynienia zatrzymujemy się, aby pamiętać o szlachetnych poświęceniach dokonanych przez Prime i tak wielu innych osób. Dlatego dzisiejszy dzień nazywany jest Czarnym Piątkiem.",
+        "And how do we remember those Autobots who joined the Allspark so that we could live in freedom? Why, we celebrate Black Friday through commerce and buying things—just like Optimus Prime would have wanted! Below is a list of the finest deals we could locate, in a broad range of categories. The pricing is current as of (checks watch) right now, where “right now” equals the timestamp on this story’s publication. Przejrzyj listę i zobacz, czy coś Cię zainteresuje — postaramy się ją odświeżyć przynajmniej raz w ciągu dnia, podając aktualne ceny i inne elementy.",
+        "If the darkness of the Black Friday story threatens to overwhelm your soul, fear not. Optimus Prime was succeeded by Rodimus Prime, who defeated the darkness and brought hope back to all Cybertron. (Nie mówimy o krótkim okresie międzykrólewskim dowodzonym przez Ultra Magnusa.) Nawet sam Optimus Prime nie pozostałby martwy na zbyt długo – jego własne chwalebne i być może narracyjnie nieuniknione zmartwychwstanie miało nastąpić niedługo potem. Rzeczywiście, już za kilka dni będziemy świętować te wielkie wydarzenia, w Cybertronowy Poniedziałek (lub w skrócie „Cyberponiedziałek”), częstszymi zakupami!"
       ]
     }
   ],
   "swiat": [
     {
-      "id": "swiat-1-6aa323",
-      "entity_tag": "USA & Bezpieczeństwo",
-      "sector": "Geopolityka",
-      "market_impact": "HIGH",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka” (USA & Bezpieczeństwo) (kluczowe liczby: 2,5 tys., 7 tys.) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [
-        "2,5 tys.",
-        "7 tys."
-      ],
-      "title": "Tajne siły Władimira Putina. Rosja traci elitarnych żołnierzy",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:35",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/tajne-sily-wladimira-putina-rosja-traci-elitarnych-zolnierzy/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/av/avnqxie8gbet25cxkab2pwst18tjzhqs.png",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": true,
-      "summary_points": [
-        "Co najmniej 87 żołnierzy elitarnej formacji Sił Operacji Specjalnych Federacji Rosyjskiej miało ponieść śmierć od czasu rozpoczęcia pełnoskalowej inwazji na Ukrainę - wynika z ustaleń rosyjskich niezależnych mediów.",
-        "Według wcześniejszych doniesień część tej jednostki weszła w skład nowej struktury wywiadu wojskowego, która ma zajmować się sabotażem w krajach NATO.",
-        "Niezależny rosyjski serwis Ważnyje Istorii, zajmujący się dziennikarstwem śledczym, ustalił na podstawie wycieku danych Rosstatu , obejmujących rejestr zgonów, straty po stronie Sił Operacji Specjalnych Federacji Rosyjskiej, przeznaczonych do realizacji najbardziej wrażliwych misji."
-      ],
-      "extended_paragraphs": [
-        "Co najmniej 87 żołnierzy elitarnej formacji Sił Operacji Specjalnych Federacji Rosyjskiej miało ponieść śmierć od czasu rozpoczęcia pełnoskalowej inwazji na Ukrainę - wynika z ustaleń rosyjskich niezależnych mediów. Według wcześniejszych doniesień część tej jednostki weszła w skład nowej struktury wywiadu wojskowego, która ma zajmować się sabotażem w krajach NATO.",
-        "Niezależny rosyjski serwis Ważnyje Istorii, zajmujący się dziennikarstwem śledczym, ustalił na podstawie wycieku danych Rosstatu , obejmujących rejestr zgonów, straty po stronie Sił Operacji Specjalnych Federacji Rosyjskiej, przeznaczonych do realizacji najbardziej wrażliwych misji. Jednostka powstała w 2009 roku i podlega sztabowi generalnemu rosyjskiej armii.",
-        "Z wyliczeń dziennikarzy Ważnyje Istorii wynika, że na przestrzeni ostatnich niemal pięciu lat w sumie zginęło 87 żołnierzy tej formacji . Z danych Rosstatu wynika, że 54 miało polec na Ukrainie, trzech umrzeć w szpitalach w wyniku odniesionych ran postrzałowych, pięciu zginąć w Syrii, pięciu - prawdopodobnie - paść ofiarą ukraińskich działań sabotażowych, a w pozostałych przypadkach zgony miały następować w sytuacjach niezwiązanych z walką, albo w niewyjaśnionych okolicznościach.",
-        "Meduza, niezależny rosyjski portal informacyjny zaznacza, że \" Siły Operacji Specjalnych są uważane za najbardziej tajną jednostkę bojową armii rosyjskiej \". Formacja ma się składać się z najlepszych żołnierzy Specnazu , wojskowych sił specjalnych, które są podległe wywiadowi wojskowemu (GRU). Według różnych szacunków liczy od 2,5 tys. do 7 tys. żołnierzy.",
-        "To właśnie tej formacji miał użyć Kreml instalując 27 lutego 2014 roku na Krymie \" zielone ludziki \". Rok później Władimir Putin ustanowił tę datę jako Dzień Sił Operacji Specjalnych . Meduza wskazała, że ta sama jednostka miała przeprowadzić ewakuację Wiktora Janukowycza do Rosji oraz brać udział w operacjach na terytorium Syrii."
-      ]
-    },
-    {
-      "id": "swiat-4-a78f61",
+      "id": "swiat-3-23cea6",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "MEDIUM",
@@ -1740,16 +1603,16 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "John Simpson: Ukraina jest pochylona, ale wciąż nieprzerwana, gdy nadchodzą mroźne dni",
-      "original_title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "title": "Zmęczony wojną, ale bez oznak wycofania się, Kijów stoi w obliczu kolejnej mroźnej zimy",
+      "original_title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
       "is_foreign": true,
       "lang": "EN",
-      "time": "15:18",
+      "time": "18:42",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
       "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
+      "lead_story": true,
       "summary_points": [
         "Ukraina przygotowuje się do kolejnej niszczycielskiej zimy, a wciąż pojawia się pytanie: jak to się wszystko skończy?",
         "Coś dziwnego dzieje się, gdy po ośmiu godzinach jazdy od polskiej granicy dojeżdżasz do Kijowa: zegar w Twojej komórce wskazuje północ.",
@@ -1761,6 +1624,38 @@
         "Pomijając jednak takie drobnostki, Kijów na pierwszy rzut oka wydaje się całkiem normalny. Zdajesz sobie sprawę, że trwa wojna, kiedy syreny zaczynają wyć, a ludzie sprawdzają, czy w telefonach nie ma powiadomień informujących o czerwonym alarmie i nadlatujących rakietach. Możesz nawet kupić gadżety, które pokażą Ci, z jakiego kierunku nadlatują drony i jakiego są rodzaju.",
         "W ciągu ostatnich kilku tygodni drony i rakiety balistyczne uderzały w znacznych ilościach. Rankiem w poniedziałek 16 listopada rozpoczęła się bitwa o mosty. Ukraina uderzyła w most Kerczeński łączący Rosję z nielegalnie okupowanym Krymem. Następnie wystrzelił większą falę rakiet i dronów, uszkadzając centralny łuk mostu drogowego. Kilka godzin później, prawdopodobnie w odwecie, Rosja wystrzeliła w kierunku Kijowa siedem rakiet balistycznych, niszcząc dwa z dziewięciu mostów przecinających rzekę Dniepr.",
         "Wojna ciągnie się od ponad czterech i pół roku, w jej wyniku zginęło – według niektórych szacunków ONZ – 100 000 żołnierzy ukraińskich i 18 000 ukraińskich cywilów, a prawdopodobnie więcej. Jego infrastruktura również została nadszarpnięta, podobnie jak jego morale. Podczas gdy w nocy temperatury spadają do zera, a Ukraińcy regularnie cierpią z powodu braku światła, ciepła i wody z powodu rosyjskich strajków, czy kraj ten przetrwa kolejną trudną zimę pod bombardowaniami? A jak wyglądałoby porozumienie pokojowe, gdyby można było je zawrzeć?"
+      ]
+    },
+    {
+      "id": "swiat-1-67323a",
+      "entity_tag": "Rynek Długu / MF",
+      "sector": "Obligacje & Budżet",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Obligacje & Budżet” (Rynek Długu / MF) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
+      "key_metrics": [],
+      "title": "Premier Hiszpanii i jego rywale gromadzą zwolenników w końcowym apelu w celu uzyskania głosów",
+      "original_title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:55",
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+      "image_source": "Fot. / Źródło: BBC World",
+      "lead_story": false,
+      "summary_points": [
+        "Premier Pedro Sánchez chce przeciwstawić się sondażom, a główni rywale zarzucają mu niemówienie prawdy i „zdradę”.",
+        "Źródło zdjęcia, Reuters Tytuł zdjęcia Pedro Sánchez oskarżył swoich przeciwników o rzucanie obelgami i kłamstwami, ale jego konserwatywny rywal obiecał nową erę w polityce Liderzy głównych partii w Hiszpanii zorganizowali ostatnie wiece przed niedzielnymi wyborami, a socjalistyczny premier Pedro Sánchez wyraził pewność, że przeciwstawi się sondażom.",
+        "„Nie wyobrażam sobie, żebyśmy przegrali” – powiedział, pozując do selfie z kibicami w czerwonych koszulkach i oskarżając konserwatywnego rywala Alberto Núñeza Feijóo o planowanie koalicji ze skrajną prawicą."
+      ],
+      "extended_paragraphs": [
+        "Premier Pedro Sánchez chce przeciwstawić się sondażom, a główni rywale zarzucają mu niemówienie prawdy i „zdradę”.",
+        "Źródło zdjęcia, Reuters Tytuł zdjęcia Pedro Sánchez oskarżył swoich przeciwników o rzucanie obelgami i kłamstwami, ale jego konserwatywny rywal obiecał nową erę w polityce",
+        "Liderzy głównych partii w Hiszpanii zorganizowali ostatnie wiece przed niedzielnymi wyborami, a socjalistyczny premier Pedro Sánchez wyraził pewność, że przeciwstawi się sondażom.",
+        "„Nie wyobrażam sobie, żebyśmy przegrali” – powiedział, pozując do selfie z kibicami w czerwonych koszulkach i oskarżając konserwatywnego rywala Alberto Núñeza Feijóo o planowanie koalicji ze skrajną prawicą.",
+        "Partia Ludowa (PP) Feijóo ma w sondażach niewielką przewagę, a w ostatnich godzinach kampanii udał się najpierw do Barcelony, a następnie do Sewilli, obiecując wyborcom nową erę polityczną „prawdy, przyzwoitości i dobrych rządów”."
       ]
     },
     {
@@ -1796,7 +1691,7 @@
       ]
     },
     {
-      "id": "swiat-3-54b651",
+      "id": "swiat-4-c430bc",
       "entity_tag": "Wydarzenia Globalne",
       "sector": "Geopolityka & Świat",
       "market_impact": "LOW",
@@ -1804,75 +1699,11 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
       "key_metrics": [],
-      "title": "Rosja buduje własnego Starlinka. \"Zagrożenie dla całego świata\"",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "13:16",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/rosja-buduje-wlasnego-starlinka-zagrozenie-dla-calego-swiata/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/qv/qv1ad2d654yku91o74kaop3kfjv5bx48.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Opracowywany przez Rosję system satelitarny, odpowiednik Starlinka, byłby zagrożeniem dla całego świata - ostrzegł w rozmowie z dziennikiem Times gen. Wadym Skibicki, zastępca szefa ukraińskiego wywiadu wojskowego (HUR).",
-        "Chodzi o system Rasswiet, mający stanowić alternatywę dla rozwiązania oferowanego przez Elona Muska.",
-        "Chodzi o system \"Rasswiet\", mający stanowić alternatywę dla rozwiązania oferowanego przez Elona Muska."
-      ],
-      "extended_paragraphs": [
-        "Opracowywany przez Rosję system satelitarny, odpowiednik Starlinka, byłby zagrożeniem dla całego świata - ostrzegł w rozmowie z dziennikiem Times gen. Wadym Skibicki, zastępca szefa ukraińskiego wywiadu wojskowego (HUR). Chodzi o system Rasswiet, mający stanowić alternatywę dla rozwiązania oferowanego przez Elona Muska.",
-        "Według Wadyma Skibickieg o system \"Rasswiet\" - odpowiedź Kremla na system Starlink Elona Muska - dałby Władimirowi Putinowi nowe, niebezpieczne możliwości.",
-        "- Rosja mogłaby wyposażyć różne rodzaje broni w odbiorniki tej sieci i wykorzystywać je na całym świecie . Pozwoliłoby to Moskwie operować dronami morskimi lub bezzałogowymi statkami powietrznymi w regionach daleko poza Morzem Czarnym: w Europie, Afryce, na Bliskim lub Dalekim Wschodzie - stwierdził zastępca szefa ukraińskiego wywiadu wojskowego (HUR).",
-        "\"Teoretycznie taka sieć pozwoliłaby operatorowi w Petersburgu uruchomić drona, dostarczonego do Londynu przez nieświadomego niczego kuriera i przelecieć nim nad lotniskiem Heathrow , korzystając z krystalicznie czystego obrazu przesyłanego za pośrednictwem łącza satelitarnego, które byłoby niemal zupełnie odporne na konwencjonalne środki walki radioelektronicznej\"- pisze gazeta.",
-        "Według generała Rosjanie równolegle pracują nad projektem InnoSat , zakładającym stworzenie do 2036 roku kolejnej sieci, składającej się z 240 satelitów ."
-      ]
-    },
-    {
-      "id": "swiat-5-314812",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "\"Mógłbym powiedzieć: 'Nie lubię cię'\". Donald Trump wyjaśnił ws. Putina",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "14:46",
-      "source": "PolsatNews Świat",
-      "source_url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/moglbym-przyjsc-i-powiedziec-nie-lubie-cie-trump-tlumaczy-sie-z-glosnych-slow/",
-      "image_url": "https://ipla.pluscdn.pl/dituel/cp/dv/dvxoyi1prjwfwayhg2xe41wd429h2zsy.jpg",
-      "image_source": "Fot. / Źródło: PolsatNews Świat",
-      "lead_story": false,
-      "summary_points": [
-        "Donald Trump odniósł się do światowej krytyki za nazwanie Władimira Putina swoim przyjacielem.",
-        "- Mógłbym przyjść i powiedzieć: Nie lubię cię - stwierdził i dodał, że jedynie utrudniłoby to negocjacje.",
-        "- Chcemy zawrzeć porozumienie, chcemy powstrzymać Kreml - podkreślił prezydent USA."
-      ],
-      "extended_paragraphs": [
-        "Donald Trump odniósł się do światowej krytyki za nazwanie Władimira Putina swoim przyjacielem. - Mógłbym przyjść i powiedzieć: Nie lubię cię - stwierdził i dodał, że jedynie utrudniłoby to negocjacje. - Chcemy zawrzeć porozumienie, chcemy powstrzymać Kreml - podkreślił prezydent USA.",
-        "- Mógłbym przyjść i powiedzieć: \"Nie lubię cię\". I wtedy mielibyśmy ten sam problem, co między (Wołodymyrem - red.) Zełenskim i (Władimirem - red.) Putinem - mówił podczas konferencji prasowej w Święto Dziękczynienia w Mar-a-Lago Donald Trump.",
-        "Prezydent USA odniósł się do swojego przywitania z przywódcą Rosji w chińskim Shenzen. Wchodząc do sali, w której stał już Putin, Trump powiedział: - Kim on jest? Jest moim przyjacielem\" Słowa te następnie były szeroko komentowane na świecie i spotkały się z krytyką m.in. w Ukrainie i w Polsce.",
-        "- Wiecie, największym problemem jest to, że mamy dwóch przywódców, którzy naprawdę się nienawidzą - zauważył Trump. Zdaniem prezydenta USA utrzymywanie pozytywnych relacji z Putinem zdecydowanie ułatwia prowadzenie negocjacji pokojowych. Dodał, że okazanie przez niego wrogości jedynie pozbawiłoby szansy na uzyskanie porozumienia.",
-        "Trump odniósł się również do swojego czwartkowego wpisu na platformie społcznościowej Truth Social. Przekazał wówczas, że w Chinach poświęcił sporo czasu na rozmowę z Putinem w sprawie jego działań w Europie. Prezydent USA zaznaczył, że chce, aby przywódca Rosji wycofał wszelką agresję wojskową skierowaną przeciwko Zachodowi ."
-      ]
-    },
-    {
-      "id": "swiat-6-de8372",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Po zmianie organizacji parady z okazji Święta Dziękczynienia maszerujące zespoły starają się pokryć koszty",
-      "original_title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "title": "„Nie mogliśmy tak łatwo się poddać”: orkiestry marszowe starają się pokryć koszty po zmianie organizacji parady z okazji Święta Dziękczynienia",
+      "original_title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "is_foreign": true,
       "lang": "EN",
-      "time": "15:15",
+      "time": "20:06",
       "source": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
@@ -1880,87 +1711,87 @@
       "lead_story": false,
       "summary_points": [
         "Burzowa pogoda w Nowym Jorku zmusiła organizatorów do przesunięcia parady Macy's o dwa dni, przez co niektórzy muzycy utknęli.",
-        "Muzycy występujący w trasie z całych Stanów Zjednoczonych, którzy przybyli do Nowego Jorku, aby wystąpić na paradzie z okazji Święta Dziękczynienia w Macy's, zaczęli zbierać fundusze na pokrycie swoich kosztów po tym, jak utknęli, gdy wydarzenie zostało przełożone z powodu burzy.",
-        "Zespół z Teksasu powiedział amerykańskiemu partnerowi BBC, CBS News, że zebrał około 350 000 dolarów (267 000 funtów) na opłacenie przedłużonego pobytu swoich 500 członków."
+        "Ponieważ władze Nowego Jorku przełożyły paradę z okazji Święta Dziękczynienia Macy's, aby zapobiec burzy, która sprowadziła ulewne deszcze, wiatr i powodzie, setki artystów koncertujących, którzy podróżowali z całych Stanów Zjednoczonych, aby wystąpić, pogrążyło się w chaosie.",
+        "„To było wstrząsające” – powiedział Ryan Demkovich, dyrektor orkiestry marszowej w liceum w Teksasie."
       ],
       "extended_paragraphs": [
         "Burzowa pogoda w Nowym Jorku zmusiła organizatorów do przesunięcia parady Macy's o dwa dni, przez co niektórzy muzycy utknęli.",
-        "Muzycy występujący w trasie z całych Stanów Zjednoczonych, którzy przybyli do Nowego Jorku, aby wystąpić na paradzie z okazji Święta Dziękczynienia w Macy's, zaczęli zbierać fundusze na pokrycie swoich kosztów po tym, jak utknęli, gdy wydarzenie zostało przełożone z powodu burzy.",
-        "Zespół z Teksasu powiedział amerykańskiemu partnerowi BBC, CBS News, że zebrał około 350 000 dolarów (267 000 funtów) na opłacenie przedłużonego pobytu swoich 500 członków. Podziękował za życzliwość swoich zwolenników.",
-        "Tymczasem grupa studentów-muzyków z Hawajów wyraziła swoją ulgę, gdy przyjaciele i rodzina zebrali się, aby pokryć dodatkowe koszty hotelu, autokaru i posiłku.",
-        "Na początku tygodnia organizatorzy oświadczyli, że przesuną wydarzenie o dwa dni, częściowo ze względu na obawy związane z lataniem gigantycznych pontonów przy silnym wietrze."
-      ]
-    },
-    {
-      "id": "swiat-7-d9a2e2",
-      "entity_tag": "Wydarzenia Globalne",
-      "sector": "Geopolityka & Świat",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst geopolityczny: Czynnik z kategorii „Geopolityka & Świat” (Wydarzenia Globalne) wpływający na globalny apetyt na ryzyko (Risk-On / Risk-Off), surowce i łańcuchy dostaw.",
-      "key_metrics": [],
-      "title": "Przywódca sekty zagłady w Kenii skazany za kolejne 123 ofiary śmiertelne",
-      "original_title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "17:19",
-      "source": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
-      "image_source": "Fot. / Źródło: BBC World",
-      "lead_story": false,
-      "summary_points": [
-        "Kilka tygodni po tym, jak Paul Mackenzie trafił do więzienia za masowe mordy na dzieciach, zostaje uznany za winnego zabicia swoich zwolenników.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia: Samozwańczy pastor został aresztowany w 2023 r. po odkryciu ponad 400 ciał w płytkich grobach Sąd w Kenii skazał przywódcę chrześcijańskiego kultu zagłady za nieumyślne spowodowanie śmierci 123 jego wyznawców.",
-        "Paul Mackenzie został uznany w Mombasie za winnego nakazania swoim wyznawcom, wszyscy dorosłym, postu na śmierć w lesie Shakahola w pobliżu wybrzeża w okresie od stycznia 2021 r. do września 2023 r. Na początku tego miesiąca Mackenzie został skazany na 200 lat więzienia za zamordowanie 191 osób, w tym wszystkich dzieci oprócz jednego, w tym samym masowym morderstwie."
-      ],
-      "extended_paragraphs": [
-        "Kilka tygodni po tym, jak Paul Mackenzie trafił do więzienia za masowe mordy na dzieciach, zostaje uznany za winnego zabicia swoich zwolenników.",
-        "Źródło zdjęcia, Reuters Tytuł zdjęcia: Samozwańczy pastor został aresztowany w 2023 r. po odkryciu ponad 400 ciał w płytkich grobach",
-        "Sąd w Kenii skazał przywódcę chrześcijańskiego kultu zagłady za nieumyślne spowodowanie śmierci 123 jego wyznawców.",
-        "Paul Mackenzie został uznany w Mombasie za winnego nakazania swoim wyznawcom, wszyscy dorosłym, postu na śmierć w lesie Shakahola w pobliżu wybrzeża w okresie od stycznia 2021 r. do września 2023 r.",
-        "Na początku tego miesiąca Mackenzie został skazany na 200 lat więzienia za zamordowanie 191 osób, w tym wszystkich dzieci oprócz jednego, w tym samym masowym morderstwie."
+        "Ponieważ władze Nowego Jorku przełożyły paradę z okazji Święta Dziękczynienia Macy's, aby zapobiec burzy, która sprowadziła ulewne deszcze, wiatr i powodzie, setki artystów koncertujących, którzy podróżowali z całych Stanów Zjednoczonych, aby wystąpić, pogrążyło się w chaosie.",
+        "„To było wstrząsające” – powiedział Ryan Demkovich, dyrektor orkiestry marszowej w liceum w Teksasie. Dowiedziawszy się o tej wiadomości, musiał podjąć wysiłki, aby przygotować nowe aranżacje dla ponad 500 osób.",
+        "Demkovich i jego zespół z Pearland High School podjęli szybką decyzję o rozpoczęciu zbiórki pieniędzy, która w ciągu zaledwie kilku godzin zebrała 350 000 dolarów (267 000 funtów).",
+        "Mimo to według doniesień niektórzy wykonawcy musieli opuścić paradę – transmitowane w telewizji tradycyjne wydarzenie z okazji Święta Dziękczynienia – obecnie przełożone na sobotę."
       ]
     }
   ],
   "sport": [
     {
-      "id": "sport-2-d06752",
+      "id": "sport-1-261bd8",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
-      "market_impact": "HIGH",
+      "market_impact": "LOW",
       "sentiment": "positive",
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 47 milionów funtów) o wpływie sklasyfikowanym jako HIGH.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 34 pkt) o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [
-        "47 milionów funtów"
+        "34 pkt"
       ],
-      "title": "Man Utd przedłużył kontrakt Fernandesa o rok",
-      "original_title": "Man Utd trigger Fernandes' one-year contract extension",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "15:08",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
+      "title": "PKO Ekstraklasa: Górnik Zabrze goni lidera, zobacz tabelę",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "23:56",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1284504/pko-ekstraklasa-gornik-zabrze-goni-lidera-zobacz-tabele",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6a5a3dbc140741_40815417.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": true,
       "summary_points": [
-        "Manchester United aktywował opcję kontraktu kapitana Bruno Fernandesa, przedłużając go do 2028 roku.",
-        "Reporter Manchesteru United Opublikowano 27 listopada 2026, 14:22 GMT Zaktualizowano 3 godziny temu Manchester United uruchomił roczną opcję kontraktu kapitana Bruno Fernandesa.",
-        "Umowa 32-latka miała wygasać latem przyszłego roku, ale źródła podają, że obie strony zdecydowały, że w ich najlepszym interesie leży aktywowanie opcji do 2028 roku."
+        "Górnik Zabrze nie rezygnuje z walki o mistrzostwo Polski.",
+        "W piątek drużyna Michala Gasparika odniosła bardzo ważne zwycięstwo.",
+        "Skomentuj Górnik Zabrze nie rezygnuje z walki o mistrzostwo Polski."
       ],
       "extended_paragraphs": [
-        "Manchester United aktywował opcję kontraktu kapitana Bruno Fernandesa, przedłużając go do 2028 roku.",
-        "Reporter Manchesteru United Opublikowano 27 listopada 2026, 14:22 GMT Zaktualizowano 3 godziny temu Manchester United uruchomił roczną opcję kontraktu kapitana Bruno Fernandesa.",
-        "Umowa 32-latka miała wygasać latem przyszłego roku, ale źródła podają, że obie strony zdecydowały, że w ich najlepszym interesie leży aktywowanie opcji do 2028 roku.",
-        "Oznacza to, że zagraniczne kluby nie będą mogły skontaktować się z Fernandesem, gdy okno transferowe zostanie otwarte 1 stycznia.",
-        "Reprezentant Portugalii potwierdził we wtorek, że rozmowy na temat nowego kontraktu zostały wstrzymane. Źródła podają, że wznowią grę, gdy poprawi się pozycja United w lidze."
+        "Górnik Zabrze nie rezygnuje z walki o mistrzostwo Polski. W piątek drużyna Michala Gasparika odniosła bardzo ważne zwycięstwo.",
+        "Skomentuj Górnik Zabrze nie rezygnuje z walki o mistrzostwo Polski. W piątek drużyna Michala Gasparika odniosła bardzo ważne zwycięstwo.",
+        "Piłkarze z Górnego Śląska pokonali na własnym stadionie Wisłę Płock (3:2) i mają teraz 34 pkt. - tylko o 1 mniej niż liderujący Lech Poznań.",
+        "Czołówkę atakuje Piast Gliwice, który awansował na 3. miejsce dzięki wyjazdowej wygranej nad Rakowem Częstochowa (2:1).",
+        "Raków Częstochowa - Piast Gliwice 1:2 (0:2) 0:1 - Leandro Sanca 22' 0:2 - Quentin Boisgard 38' 1:2 - Mahir Emreli 59'"
       ]
     },
     {
-      "id": "sport-1-ca35ad",
+      "id": "sport-2-da0416",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Irlandia w pięciu próbach pokonała Australię w jesiennym finale",
+      "original_title": "Five-try Ireland beat Australia in autumn finale",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "22:17",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fad8/live/3e7ca7a0-eaab-11f1-9d2d-dd9286f639a6.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Irlandia zapewniła sobie piąte miejsce w inauguracyjnych Mistrzostwach Narodów dzięki zwycięstwu 38-14 nad Australią w Londynie.",
+        "Podczas gdy zeszłotygodniowe zwycięstwo 20-17 nad Republiką Południowej Afryki było niewątpliwym punktem kulminacyjnym ich kampanii, piątkowe zwycięstwo zapewniło Irlandii zwycięstwo we wszystkich czterech meczach rozegranych w listopadzie.",
+        "Po tym, jak Włochy o włos pokonały Fidżi w pierwszym meczu dnia, Irlandia powoli rozpoczęła mecz na słabo zaludnionym stadionie Allianz, a drużyna Wallabies objęła zasłużone prowadzenie po próbie Jeremy’ego Williamsa."
+      ],
+      "extended_paragraphs": [
+        "Irlandia zapewniła sobie piąte miejsce w inauguracyjnych Mistrzostwach Narodów dzięki zwycięstwu 38-14 nad Australią w Londynie.",
+        "Podczas gdy zeszłotygodniowe zwycięstwo 20-17 nad Republiką Południowej Afryki było niewątpliwym punktem kulminacyjnym ich kampanii, piątkowe zwycięstwo zapewniło Irlandii zwycięstwo we wszystkich czterech meczach rozegranych w listopadzie.",
+        "Po tym, jak Włochy o włos pokonały Fidżi w pierwszym meczu dnia, Irlandia powoli rozpoczęła mecz na słabo zaludnionym stadionie Allianz, a drużyna Wallabies objęła zasłużone prowadzenie po próbie Jeremy’ego Williamsa.",
+        "Podopieczni Andy'ego Farrella przejęli kontrolę nad meczem po 24 punktach bez straty po obu stronach do przerwy. Robbie Henshaw, Nick Timoney i Robert Baloucoune strzelali, a Sam Prendergast wykorzystał wszystkie trzy punkty i dodał rzut karny.",
+        "Kalani Thomas na krótko zahamował dynamikę Irlandii, ale zmiennik James McNabney zaliczył swój drugi występ w ciągu ostatnich siedmiu minut dwoma próbami i zapewnił drużynie numer dwa na świecie wygodne, choć nie zawsze przekonujące zwycięstwo."
+      ]
+    },
+    {
+      "id": "sport-3-97bb04",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -1968,31 +1799,127 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Szpilka wypalił. \"Nienawidzę boksu\"",
+      "title": "Kompromitacja Chelsea! Nottingham rzucił londyńskiego giganta na kolana",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:30",
+      "time": "22:54",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/mma/1286461/szpilka-wypalil-nienawidze-boksu",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b09c1e8293502_59793837.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286523/kompromitacja-chelsea-nottingham-rzucil-londynskiego-giganta-na-kolana",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0a09fe5d0d37_20687179.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "Artur Szpilka przed walką o pas tymczasowego mistrza KSW w rozmowie z talkSPORT.com ostro podsumował pięściarskie środowisko.",
-        "Choć bił się o tytuł z Deontayem Wilderem, dziś wprost przyznaje, że...",
-        "Skomentuj Artur Szpilka przed walką o pas tymczasowego mistrza KSW w rozmowie z talkSPORT.com ostro podsumował pięściarskie środowisko."
+        "Nottingham Forest pokonał Chelsea 3:2 w emocjonującym spotkaniu na City Ground.",
+        "Bohaterem gospodarzy został Morgan Gibbs-White, który zdobył dwie bramki.",
+        "Londyńczycy walczyli do samego końca, ale nie zdołali uratować punktów."
       ],
       "extended_paragraphs": [
-        "Artur Szpilka przed walką o pas tymczasowego mistrza KSW w rozmowie z talkSPORT.com ostro podsumował pięściarskie środowisko. Choć bił się o tytuł z Deontayem Wilderem, dziś wprost przyznaje, że... nienawidzi boksu.",
-        "Skomentuj Artur Szpilka przed walką o pas tymczasowego mistrza KSW w rozmowie z talkSPORT.com ostro podsumował pięściarskie środowisko. Choć bił się o tytuł z Deontayem Wilderem, dziś wprost przyznaje, że... nienawidzi boksu.",
-        "Były pretendent do mistrzostwa świata wagi ciężkiej całkowicie odciął się od dyscypliny, która dała mu rozpoznawalność.",
-        "Po zawieszeniu bokserskich rękawic w 2021 r. Artur Szpilka skupił się wyłącznie na mieszanych sztukach walki ( MMA ), a dawne środowisko wspomina z dystansem.",
-        "- Nienawidzę boksu i nienawidzę ludzi, którzy w nim pracują. Jestem dumny, że walczyłem o mistrzostwo świata, ale brałem zbyt wiele walk za wcześnie. Odkąd przeszedłem na emeryturę, w ogóle nie zwracam uwagi na boks. Cała moja uwaga jest skupiona na MMA - wypalił Szpilka w rozmowie z brytyjskim serwisem talkSPORT.com."
+        "Nottingham Forest pokonał Chelsea 3:2 w emocjonującym spotkaniu na City Ground. Bohaterem gospodarzy został Morgan Gibbs-White, który zdobył dwie bramki. Londyńczycy walczyli do samego końca, ale nie zdołali uratować punktów. Kryzys gości trwa.",
+        "Skomentuj Nottingham Forest pokonał Chelsea 3:2 w emocjonującym spotkaniu na City Ground. Bohaterem gospodarzy został Morgan Gibbs-White, który zdobył dwie bramki. Londyńczycy walczyli do samego końca, ale nie zdołali uratować punktów. Kryzys gości trwa.",
+        "Nottingham Forest przed meczem z Chelsea FC znajdował się w trudnym położeniu. Seria słabych wyników i problemy ze skutecznością sprawiły, że gospodarze znaleźli się tuż nad strefą spadkową.",
+        "Londyńczycy również nie zachwycali formą. Przegrali trzy z czterech ostatnich spotkań ligowych, a ich największym problemem była słaba gra w obronie.",
+        "Dodatkowego smaczku rywalizacji dodawała historia bezpośrednich pojedynków. Po majowym zwycięstwie 3:1 Forest stanął przed szansą na drugie z rzędu ligowe zwycięstwo nad Chelsea. Byłaby to pierwsza taka seria od 1979 roku. Gospodarze chcieli również przerwać dobrą serię londyńczyków na City Ground, gdzie Chelsea nie przegrała od 1997 r."
       ]
     },
     {
-      "id": "sport-3-e6bbc5",
+      "id": "sport-4-b02795",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Upadek bóstw – długa gra, na którą All Blacks nie mogą sobie pozwolić",
+      "original_title": "Decline of deities - the long game the All Blacks cannot afford to lose",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "18:42",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a029/live/a52b97c0-ea8a-11f1-a739-457c2295eaba.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Statystycznie to pokolenie All Blacks jest najsłabsze od dziesięcioleci.",
+        "Jak daleko zaszedł sportowy skrót oznaczający sukces?",
+        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 7 godzin temu Przez dziesięciolecia drużyna All Blacks przeciwstawiała się grawitacji."
+      ],
+      "extended_paragraphs": [
+        "Statystycznie to pokolenie All Blacks jest najsłabsze od dziesięcioleci. Jak daleko zaszedł sportowy skrót oznaczający sukces?",
+        "Reporter wiadomości o związku rugby BBC Sport Opublikowano 7 godzin temu Przez dziesięciolecia drużyna All Blacks przeciwstawiała się grawitacji.",
+        "Pomimo mniejszej populacji, puli zawodników i salda bankowego niż u większości rywali, nowozelandzka drużyna rugby stała się sportowym skrótem oznaczającym sukces.",
+        "Anglia pokonała All Blacks w tym i ostatnim roku. W sobotę zagrają z nimi ponownie z zamiarem zdobycia hat-tricka.",
+        "Jednak Anglii potrzebna byłaby dobra passa do około 2050 r., aby wyrównać historyczny wynik bezpośrednich spotkań."
+      ]
+    },
+    {
+      "id": "sport-5-5fd758",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "positive",
+      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Nieprawdopodobne emocje i wielka radość. Włochy w czwartym finale z rzędu!",
+      "original_title": "",
+      "is_foreign": false,
+      "lang": "PL",
+      "time": "22:36",
+      "source": "SportoweFakty",
+      "source_url": "https://sportowefakty.wp.pl/tenis/1286522/nieprawdopodobne-emocje-i-wielka-radosc-wlochy-w-czwartym-finale-z-rzedu",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b0a0546e73e19_84310220.jpg",
+      "image_source": "Fot. / Źródło: SportoweFakty",
+      "lead_story": false,
+      "summary_points": [
+        "Reprezentacja Włoch zagra o czwarty z rzędu triumf w Pucharze Davisa.",
+        "W piątkowym półfinale gospodarze rozgrywanego na korcie twardym w hali turnieju w Bolonii po dramatycznym meczu pokonali 2:1 drużynę Czech.",
+        "Skomentuj Reprezentacja Włoch zagra o czwarty z rzędu triumf w Pucharze Davisa."
+      ],
+      "extended_paragraphs": [
+        "Reprezentacja Włoch zagra o czwarty z rzędu triumf w Pucharze Davisa. W piątkowym półfinale gospodarze rozgrywanego na korcie twardym w hali turnieju w Bolonii po dramatycznym meczu pokonali 2:1 drużynę Czech.",
+        "Skomentuj Reprezentacja Włoch zagra o czwarty z rzędu triumf w Pucharze Davisa. W piątkowym półfinale gospodarze rozgrywanego na korcie twardym w hali turnieju w Bolonii po dramatycznym meczu pokonali 2:1 drużynę Czech.",
+        "Coś, co wydawało się niemożliwe, staje się coraz bliższe. Reprezentacja Włoch jest o krok, by zostać pierwszą drużyną, która cztery raz z rzędu wygra Puchar Davisa, od czasu USA z sezonów 1968-72. W piątkowym półfinale gospodarze turnieju w Bolonii w niezwykle dramatycznych okolicznościach pokonali 2:1 Czechów.",
+        "Piątkowe zmagania rozpoczęły się po myśli miejscowych. Lorenzo Musetti zaserwował cztery asy, posłał 13 zagrań kończących, ani razu nie dał się przełamać, sam wykorzystał dwa z trzech break pointów i pokonał 6:3, 6:4 wyżej notowanego Jakuba Mensika .",
+        "Druga gra także zakończyła się zwycięstwem niżej klasyfikowanego tenisisty. Ale tym razem był to reprezentant Czech. Jiri Lehecka po pełnym zwrotów sytuacji spotkaniu ograł 6:2, 1:6, 6:3 Flavio Cobollego i doprowadził do remisu w całej rywalizacji."
+      ]
+    },
+    {
+      "id": "sport-6-e0f108",
+      "entity_tag": "Sport & Biznes",
+      "sector": "Wydarzenia Sportowe",
+      "market_impact": "LOW",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
+      "key_metrics": [],
+      "title": "Gwiazdy Gibbs-White, zmagania Fofany – oceny zawodników w meczu Forest v Chelsea",
+      "original_title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+      "is_foreign": true,
+      "lang": "EN",
+      "time": "21:59",
+      "source": "BBC Sport",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1da8/live/2c6e0460-eaaf-11f1-bf81-6f3b4557bf15.jpg",
+      "image_source": "Fot. / Źródło: BBC Sport",
+      "lead_story": false,
+      "summary_points": [
+        "Morgan Gibbs-White strzelił dwa gole, gdy Nottingham Forest pokonało Chelsea 3:2 na City Ground po raz pierwszy od 1997 roku.",
+        "Reporter piłkarski Opublikowano 3 godziny temu Morgan Gibbs-White strzelił dwa gole, gdy Nottingham Forest pokonało Chelsea na City Ground po raz pierwszy od 1997 roku.",
+        "Genialny wolej Igora Jesusa otworzył wynik już po pięciu minutach, po czym w drugiej połowie Gibbs-White strzelił dwa gole, a Chelsea była skazana na czwartą porażkę w pięciu meczach."
+      ],
+      "extended_paragraphs": [
+        "Morgan Gibbs-White strzelił dwa gole, gdy Nottingham Forest pokonało Chelsea 3:2 na City Ground po raz pierwszy od 1997 roku.",
+        "Reporter piłkarski Opublikowano 3 godziny temu Morgan Gibbs-White strzelił dwa gole, gdy Nottingham Forest pokonało Chelsea na City Ground po raz pierwszy od 1997 roku.",
+        "Genialny wolej Igora Jesusa otworzył wynik już po pięciu minutach, po czym w drugiej połowie Gibbs-White strzelił dwa gole, a Chelsea była skazana na czwartą porażkę w pięciu meczach.",
+        "Opublikowano 21 sierpnia Nottingham Forest Matz Sels: Belgijski bramkarz niewiele mógł zrobić przy bramkach Emeghy, ale nie musiał zbyt wiele bronić. 6",
+        "Jair Cunha : Cunha wykonał jeden genialny wślizg w ostatniej akcji w drugiej połowie, gdy Chelsea próbowała wyrównać. 7"
+      ]
+    },
+    {
+      "id": "sport-7-4f5b1d",
       "entity_tag": "Sport & Biznes",
       "sector": "Wydarzenia Sportowe",
       "market_impact": "LOW",
@@ -2000,31 +1927,31 @@
       "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
       "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Z Czech do Polski. Media: może zostać asystentem Urbana",
+      "title": "Sędzia wstrzymał mecz Ekstraklasy. Oto powód",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
-      "time": "18:25",
+      "time": "21:56",
       "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286462/z-czech-do-polski-media-moze-zostac-asystentem-urbana",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6914f947ee6056_31970569.jpg",
+      "source_url": "https://sportowefakty.wp.pl/pilka-nozna/1286507/sedzia-wstrzymal-mecz-ekstraklasy-oto-powod",
+      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b09f60589aa42_27776566.jpg",
       "image_source": "Fot. / Źródło: SportoweFakty",
       "lead_story": false,
       "summary_points": [
-        "W sztabie reprezentacji Polski szykują się gruntowne zmiany.",
-        "Jednym z kandydatów do współpracy z Janem Urbanem jest Radosław Bella - informuje \"Piłka Nożna\".",
-        "Skomentuj W sztabie reprezentacji Polski szykują się gruntowne zmiany."
+        "Arbiter Sebastian Krasny był zmuszony przerwać rywalizację Górnika Zabrze z Wisłą Płock.",
+        "Powodem był pokaz pirotechniczny zorganizowany przez ultrasów gospodarzy, którzy świętowali w ten sposób swoje 20-lecie.",
+        "Skomentuj Arbiter Sebastian Krasny był zmuszony przerwać rywalizację Górnika Zabrze z Wisłą Płock."
       ],
       "extended_paragraphs": [
-        "W sztabie reprezentacji Polski szykują się gruntowne zmiany. Jednym z kandydatów do współpracy z Janem Urbanem jest Radosław Bella - informuje \"Piłka Nożna\".",
-        "Skomentuj W sztabie reprezentacji Polski szykują się gruntowne zmiany. Jednym z kandydatów do współpracy z Janem Urbanem jest Radosław Bella - informuje \"Piłka Nożna\".",
-        "Radosław Bella jest Polakiem , ale obecnie pracuje w czeskiej Sigmie Ołomuniec , gdzie pełni funkcję asystenta trenera.",
-        "Wcześniej szkoleniowiec był związany z polskimi klubami. Pracował w sztabie Lechii Gdańsk , a następnie samodzielnie prowadził Miedź Legnica . Do Sigmy Ołomuniec trafił w 2026 roku. Jego ewentualne przejście do reprezentacji oznaczałoby powrót do pracy w polskiej piłce.",
-        "Wśród stanowisk, których przyszłość jest niepewna, wymieniano między innymi funkcje drugiego trenera, trenera bramkarzy i dyrektora reprezentacji. Szczególnie zależy Urbanowi na dalszej współpracy z Marcinem Prasołem i Kibu Vicuną . Z kolei Andrzej Dawidziuk jest wskazywany jako jeden z najbardziej zagrożonych odejściem. O założeniach zmian informował nasz portal."
+        "Arbiter Sebastian Krasny był zmuszony przerwać rywalizację Górnika Zabrze z Wisłą Płock. Powodem był pokaz pirotechniczny zorganizowany przez ultrasów gospodarzy, którzy świętowali w ten sposób swoje 20-lecie.",
+        "Skomentuj Arbiter Sebastian Krasny był zmuszony przerwać rywalizację Górnika Zabrze z Wisłą Płock. Powodem był pokaz pirotechniczny zorganizowany przez ultrasów gospodarzy, którzy świętowali w ten sposób swoje 20-lecie.",
+        "Do nieplanowanej przerwy w grze doszło w 33. minucie spotkania rozgrywanego przy ulicy Roosevelta pomiędzy Górnikiem Zabrze a Wisłą Płock (3:2 - relacja TUTAJ>> ).",
+        "Fani z grupy Ultras Górnik Zabrze przygotowali z tej okazji efektowną, jubileuszową oprawę. Na trybunach pojawił się ogromny sektorowy transparent z wymownym hasłem: \"Wtedy zobaczyłem ich pierwszy raz... i powiedziałem sobie, że kiedyś będę jednym z nich\".",
+        "Prezentacji baneru z okazji 20-lecia istnienia towarzyszył zmasowany pokaz pirotechniczny - na trybunach odpalono dziesiątki rac, a nad stadionem rozbłysły fajerwerki. Gęsty dym szybko spowił murawę, drastycznie ograniczając widoczność zawodnikom oraz sędziemu."
       ]
     },
     {
-      "id": "sport-4-b6e920",
+      "id": "sport-8-ef68b9",
       "entity_tag": "Formuła 1",
       "sector": "Motorsport",
       "market_impact": "LOW",
@@ -2032,11 +1959,11 @@
       "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
       "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
       "key_metrics": [],
-      "title": "Mercedes nadał tempo po zakłóconym drugim treningu w Katarze",
-      "original_title": "Mercedes set pace in disrupted second practice in Qatar",
+      "title": "Mercedes nadał tempo podczas pełnego wydarzeń drugiego treningu w Katarze",
+      "original_title": "Mercedes set pace in eventful Qatar second practice",
       "is_foreign": true,
       "lang": "EN",
-      "time": "18:28",
+      "time": "19:50",
       "source": "BBC Sport",
       "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30ee/live/355b1d70-ea90-11f1-a739-457c2295eaba.jpg",
@@ -2053,137 +1980,6 @@
         "Włoch Antonelli był o 0,127 sekundy szybszy od Russella na średniej oponie, ponieważ żaden z kierowców nie uzyskał czasu na miękkiej mieszance z powodu dwóch czerwonych flag, które przerywały sesję.",
         "Lewis Hamilton również zatrzymał się po tym, jak jego Ferrari straciło moc i uruchomiono wirtualny samochód bezpieczeństwa, aby sędziowie mogli przyjść z pomocą siedmiokrotnemu mistrzowi świata.",
         "McLareny Lando Norrisa i Oscara Piastriego oraz Max Verstappen z Red Bulla zamknęli pierwszą piątkę na torze Lusail International Circuit, a cała trójka uzyskała czasy na miękkich oponach gorsze o ponad cztery dziesiąte od dwóch Mercedesów."
-      ]
-    },
-    {
-      "id": "sport-5-2aaf4e",
-      "entity_tag": "Formuła 1",
-      "sector": "Motorsport",
-      "market_impact": "LOW",
-      "sentiment": "negative",
-      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Motorsport): Kluczowa informacja z obszaru Formuła 1 o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Dwie czerwone flagi w Katarze. Mercedes znów na czele",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:20",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/formula-1/1286463/dwie-czerwone-flagi-w-katarze-mercedes-znow-na-czele",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b09c4ad022f50_01341455.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Dwie czerwone flagi, koniec jazdy dla Pierre’a Gasly’ego i kłopoty Lewisa Hamiltona w samej końcówce.",
-        "Drugi trening przed GP Kataru przedłużono o 13 minut, ale najlepszy czas Kimi Antonelli wykręcił już w pierwszym kwadransie.",
-        "Skomentuj Dwie czerwone flagi, koniec jazdy dla Pierre’a Gasly’ego i kłopoty Lewisa Hamiltona w samej końcówce."
-      ],
-      "extended_paragraphs": [
-        "Dwie czerwone flagi, koniec jazdy dla Pierre’a Gasly’ego i kłopoty Lewisa Hamiltona w samej końcówce. Drugi trening przed GP Kataru przedłużono o 13 minut, ale najlepszy czas Kimi Antonelli wykręcił już w pierwszym kwadransie.",
-        "Skomentuj Dwie czerwone flagi, koniec jazdy dla Pierre’a Gasly’ego i kłopoty Lewisa Hamiltona w samej końcówce. Drugi trening przed GP Kataru przedłużono o 13 minut, ale najlepszy czas Kimi Antonelli wykręcił już w pierwszym kwadransie.",
-        "George Russell jako pierwszy zszedł w piątek wieczorem poniżej 1:24, ale długo nie nacieszył się prowadzeniem. Andrea Kimi Antonelli odpowiedział czasem 1:23.077 i już nikt go nie przebił. Russell stracił do kolegi z Mercedesa 0,127 s. Reszta stawki nie była w stanie zbliżyć się do najlepszej ekipy tego sezonu.",
-        "Najbliżej Mercedesów znalazł się Lando Norris . Brytyjczyk stracił do Antonellego 0,445 s, a od czwartego Oscar Piastri był szybszy o zaledwie 0,027 s. Max Verstappen zajął piąte miejsce, 0,007 s przed drugim kierowcą Red Bulla , Isackiem Hadjarem .",
-        "W końcowej fazie sesji kierowcy Mercedesa jeździli na pośredniej mieszance, podczas gdy pozostali zawodnicy z czołówki mieli założone miękkie opony. Charles Leclerc był siódmy ze stratą ponad sekundy do Antonellego. Kierowca Ferrari już na początku treningu obrócił się i wypadł poza tor, a w trakcie sesji mechanicy wymienili podłogę w jego bolidzie."
-      ]
-    },
-    {
-      "id": "sport-6-bb3cf4",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "neutral",
-      "sentiment_rationale": "Informacja o charakterze równoważnym lub sprawozdawczym.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Cricket Australia może nie lubić ustaleń z forum dotyczącego papieru ściernego – Vaughan",
-      "original_title": "Cricket Australia may not like sandpaper forum findings - Vaughan",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "14:05",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c5pv903jvy2po?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/abf3/live/e7861ae0-ea68-11f1-a828-d384c0290f6b.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Zdaniem byłego kapitana reprezentacji Anglii Michaela Vaughana, drużynie Cricket Australia nie spodoba się to, co znajdzie na forum dotyczącym skandalu związanego z papierem ściernym.",
-        "Według byłego kapitana reprezentacji Anglii Michaela Vaughana, krykietowi korespondentowi Opublikowano 4 godziny temu Cricket Australia (Kalifornia) nie spodoba się to, co znajdzie na forum dotyczącym skandalu związanego z papierem ściernym.",
-        "Władze CA poprosiły o dowody w związku z kontrowersją związaną z manipulowaniem piłką, jaka miała miejsce podczas meczu Australii przeciwko Republice Południowej Afryki w Cape Town w 2018 r., po tygodniach spekulacji na temat tego, którzy gracze i trenerzy byli w to zaangażowani."
-      ],
-      "extended_paragraphs": [
-        "Zdaniem byłego kapitana reprezentacji Anglii Michaela Vaughana, drużynie Cricket Australia nie spodoba się to, co znajdzie na forum dotyczącym skandalu związanego z papierem ściernym.",
-        "Według byłego kapitana reprezentacji Anglii Michaela Vaughana, krykietowi korespondentowi Opublikowano 4 godziny temu Cricket Australia (Kalifornia) nie spodoba się to, co znajdzie na forum dotyczącym skandalu związanego z papierem ściernym.",
-        "Władze CA poprosiły o dowody w związku z kontrowersją związaną z manipulowaniem piłką, jaka miała miejsce podczas meczu Australii przeciwko Republice Południowej Afryki w Cape Town w 2018 r., po tygodniach spekulacji na temat tego, którzy gracze i trenerzy byli w to zaangażowani.",
-        "„Jest dla mnie jasne, że Cricket Australia dowie się pewnych rzeczy, o których prawdopodobnie nie będzie chciał się dowiedzieć” – Vaughan powiedział podcastowi Test Match Special.",
-        "„Jeśli nie ujawnią opinii publicznej prawdy o tym, co znaleźli na tym forum, wrócimy do sedna sprawy”."
-      ]
-    },
-    {
-      "id": "sport-7-ffb833",
-      "entity_tag": "Sport & Biznes",
-      "sector": "Wydarzenia Sportowe",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Wydarzenia Sportowe): Kluczowa informacja z obszaru Sport & Biznes (kluczowe liczby: 40 tys. dolarów, 30 tys. dolarów) o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [
-        "40 tys. dolarów",
-        "30 tys. dolarów"
-      ],
-      "title": "Potrzebowała zaledwie 59 minut. Polka zagra o największy tytuł",
-      "original_title": "",
-      "is_foreign": false,
-      "lang": "PL",
-      "time": "18:15",
-      "source": "SportoweFakty",
-      "source_url": "https://sportowefakty.wp.pl/tenis/1286446/potrzebowala-zaledwie-59-minut-polka-zagra-o-najwiekszy-tytul",
-      "image_url": "https://i.wpimg.pl/1280x/sf-administracja.wphcdn.cloud/storage2/featured_original/6b09bc5f651e23_21960183.jpg",
-      "image_source": "Fot. / Źródło: SportoweFakty",
-      "lead_story": false,
-      "summary_points": [
-        "Weronika Ewald wystąpi w finale halowych zawodów ITF World Tennis Tour W50 o puli nagród 40 tys. dolarów na kortach twardych w Ortisei.",
-        "W piątek polska tenisistka pewnie wygrała z Niemką Tessą Johanną Brockmann 6:3, 6:1.",
-        "Skomentuj Weronika Ewald wystąpi w finale halowych zawodów ITF World Tennis Tour W50 o puli nagród 40 tys. dolarów na kortach twardych w Ortisei."
-      ],
-      "extended_paragraphs": [
-        "Weronika Ewald wystąpi w finale halowych zawodów ITF World Tennis Tour W50 o puli nagród 40 tys. dolarów na kortach twardych w Ortisei. W piątek polska tenisistka pewnie wygrała z Niemką Tessą Johanną Brockmann 6:3, 6:1.",
-        "Skomentuj Weronika Ewald wystąpi w finale halowych zawodów ITF World Tennis Tour W50 o puli nagród 40 tys. dolarów na kortach twardych w Ortisei. W piątek polska tenisistka pewnie wygrała z Niemką Tessą Johanną Brockmann 6:3, 6:1.",
-        "20-letnia Weronika Ewald wyraźnie się rozkręca w halowej imprezie we Włoszech. W piątek tenisistka z Trójmiasta zwyciężyła oznaczoną szóstym numerem Niemkę Tessę Johannę Brockmann 6:3, 6:1 i awansowała do finału.",
-        "Pojedynek Polki i Niemki trwał zaledwie 59 minut. Nasza reprezentantka szybko zdobyła przewagę przełamania i pozwoliła zbliżyć się rywalce tylko na gema (4:3). W końcowej fazie premierowej odsłony nie tylko utrzymała prowadzenie, ale i dołożyła jeszcze breaka w dziewiątym gemie.",
-        "Natomiast w drugim secie Ewald nie dała już Brockmann żadnych szans. Na początku partii Niemka była jeszcze w stanie utrzymać podanie. Potem jednak do głosu doszła Polka. To ona postarała się o dwa przełamania i zdobyła pięć gemów z rzędu."
-      ]
-    },
-    {
-      "id": "sport-8-f5a6a8",
-      "entity_tag": "Piłka Nożna",
-      "sector": "Sport Międzynarodowy",
-      "market_impact": "LOW",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Kontekst rynkowy (Sport Międzynarodowy): Kluczowa informacja z obszaru Piłka Nożna o wpływie sklasyfikowanym jako LOW.",
-      "key_metrics": [],
-      "title": "Główny trener Slegers opuszcza Arsenal 18 miesięcy po zwycięstwie w Lidze Mistrzów",
-      "original_title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
-      "is_foreign": true,
-      "lang": "EN",
-      "time": "16:14",
-      "source": "BBC Sport",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg",
-      "image_source": "Fot. / Źródło: BBC Sport",
-      "lead_story": false,
-      "summary_points": [
-        "Arsenal rozstaje się z główną trenerką Renee Slegers za obopólną zgodą po rozczarowującym początku sezonu.",
-        "Arsenal rozstał się z główną trenerką Renee Slegers za obopólną zgodą po rozczarowującym początku sezonu.",
-        "Slegers (37 l.) został początkowo mianowany tymczasowo w październiku 2024 r., a trzy miesiące później otrzymał to stanowisko na stałe."
-      ],
-      "extended_paragraphs": [
-        "Arsenal rozstaje się z główną trenerką Renee Slegers za obopólną zgodą po rozczarowującym początku sezonu.",
-        "Arsenal rozstał się z główną trenerką Renee Slegers za obopólną zgodą po rozczarowującym początku sezonu.",
-        "Slegers (37 l.) został początkowo mianowany tymczasowo w październiku 2024 r., a trzy miesiące później otrzymał to stanowisko na stałe.",
-        "Holenderka poprowadziła Arsenal do drugiego tytułu w Lidze Mistrzów Kobiet w maju 2025 r. i inauguracyjnego Pucharu Mistrzów FIFA Kobiet w lutym 2026 r.",
-        "Jednak po 11 meczach odchodzi z szóstą drużyną w Superlidze Kobiet – 12 punktów za liderującą Chelsea."
       ]
     }
   ],
@@ -2296,39 +2092,39 @@
       ]
     },
     {
-      "id": "rynki-7-a8d158",
-      "entity_tag": "XTB (GPW: XTB)",
-      "sector": "Fintech & Brokerzy",
+      "id": "rynki-7-76f26f",
+      "entity_tag": "Rynek Krypto",
+      "sector": "Aktywa Cyfrowe",
       "market_impact": "HIGH",
-      "sentiment": "positive",
-      "sentiment_rationale": "Przewaga czynników wzrostowych i pozytywnych danych w komunikacie.",
-      "investor_takeaway": "Znaczenie dla portfela: Pozytywny impuls fundamentalny dla XTB (GPW: XTB) (Fintech & Brokerzy) (kluczowe liczby: 3,79 mld dolarów, 32,5 mln, 44,9 mln) — wspiera sentyment popytowy w sektorze.",
+      "sentiment": "negative",
+      "sentiment_rationale": "Czynniki ryzyka, presja podażowa lub słabsze odczyty w komunikacie.",
+      "investor_takeaway": "Znaczenie dla portfela: Czynnik ryzyka podażowego wokół Rynek Krypto (Aktywa Cyfrowe) (kluczowe liczby: 13 mln, 1,6 mld, 8,8 mld) — wymaga obserwacji marż i wsparć cenowych.",
       "key_metrics": [
-        "3,79 mld dolarów",
-        "32,5 mln",
-        "44,9 mln"
+        "13 mln",
+        "1,6 mld",
+        "8,8 mld"
       ],
-      "title": "99/100 od krytyków i zaledwie 5,7 od graczy. Dwie twarze głośnej premiery GTA VI",
+      "title": "Bitcoinowy gigant wypada z kluczowych indeksów. Akcje Strategy pod presją",
       "original_title": "",
       "is_foreign": false,
       "lang": "PL",
       "time": "06:00",
       "source": "Bankier Giełda",
-      "source_url": "https://www.bankier.pl/wiadomosc/99-100-od-krytykow-i-zaledwie-5-7-od-graczy-Dwie-twarze-glosnej-premiery-GTA-VI-9235992.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
-      "image_url": "https://galeria.bankier.pl/p/1/9/1f2c69b1bb9f41-948-568-18-92-3681-2208.jpg",
+      "source_url": "https://www.bankier.pl/wiadomosc/Bitcoinowy-gigant-wypada-z-kluczowych-indeksow-Akcje-Strategy-pod-presja-9235989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Gielda",
+      "image_url": "https://galeria.bankier.pl/p/4/c/9202baa1668332-948-568-0-20-4000-2399.jpg",
       "image_source": "Fot. / Źródło: Bankier Giełda",
       "lead_story": false,
       "summary_points": [
-        "Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej.",
-        "Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent.",
-        "Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu."
+        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World.",
+        "Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
+        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake."
       ],
       "extended_paragraphs": [
-        "Premiera Grand Theft Auto VI pobiła wszelkie rekordy branży rozrywkowej. Mimo to notowania wydawcy – spółki Take-Two Interactive – wzrosły po tygodniu o niespełna 5 procent. Krytycy ogłosili grę arcydziełem, ale opinie graczy na razie składają się na przeciętną ocenę tytułu. Czy inwestorzy powinni się przejmować rozjazdem recenzji graczy oraz krytyków, skoro dane sprzedażowe z pierwszych dni wyglądają świetnie?",
-        "fot. Mateusz Slodkowski / / FORUM Z perspektywy liczb debiut GTA VI to wydarzenie bez precedensu w historii popkultury. Według szacunków Take-Two produkcja wygenerowała 3,79 mld dolarów sprzedaży detalicznej brutto w przedsprzedaży oraz w samym dniu premiery, rozchodząc się w nakładzie 32,5 mln egzemplarzy jeszcze przed oficjalnym otwarciem serwerów.",
-        "W ciągu pierwszych czterech dni od premiery (wraz z weekendem otwarcia) sprzedaż sięgnęła około 44,9 mln kopii , a samo Sony poinformowało, że w tym czasie grę na konsolach PlayStation 5 uruchomiło ponad 39 mln unikalnych użytkowników , wliczając w to dostęp w ramach abonamentów i promocji. Gra zarobiła w pierwszej dobie 3,2 razy więcej niż GTA V i ponad trzykrotnie przebiła kinowy weekend otwarcia superprodukcji „Avengers: Endgame” , który przyniósł 1,22 mld dolarów . Oficjalne statystyki bez trudu zmiażdżyły zarówno wcześniejsze szacunki analityczne Sensor Tower na poziomie 2,36 mld dolarów , jak i bardzo ambitne prognozy domu maklerskiego Wedbush, zakładające 3 mld dolarów do końca roku, porównuje Mateusz Czyżkowski z XTB.",
-        "XTB, Take-Two Już pierwszy dzień pokrył 57 procent najbardziej optymistycznego scenariusza Bloomberga na całe dwanaście miesięcy, zakładającego 6,7 mld dolarów przy 60 mln sprzedanych kopii . Przy utrzymaniu świątecznego impetu całoroczne przychody kontraktowe mogą sięgnąć nawet 8,7 mld dolarów . Wcześniejsze zapowiedzi prezesa Take-Two Straussa Zelnicka, mówiące o 3,35–3,50 mld dolarów przychodów kontraktowych w całym kwartale świątecznym oraz 8,0–8,2 mld dolarów w roku obrotowym 2027, wyglądają dziś na klasyczne, celowe zaniżanie oczekiwań rynku.",
-        "Wszystko wygląda świetnie i tak, jak można było się spodziewać po recenzjach branży, opublikowanych tuż przed premierą gry . Na podstawie recenzji profesjonalnych krytyków gra uzyskała zawrotną średnią 99 na 100 punktów , co oficjalnie czyni ją najwyżej ocenianą produkcją w historii branży gier wideo ."
+        "Po zakończeniu sesji 30 listopada akcje Strategy (dawniej MicroStrategy) zostaną usunięte z prestiżowych indeksów giełdowych MSCI, w tym MSCI USA oraz MSCI World. Decyzja operatora wymusi na funduszach pasywnych przymusową wyprzedaż milionów akcji spółki Michaela Saylora, której kurs spadł od początku roku o blisko połowę.",
+        "fot. Joy Malone / / Reuters / Forum Wraz ze Strategy z indeksów zniknie m.in. japoński naśladowca modelu Saylora - spółka Metaplanet - oraz brytyjski wehikuł inwestujący w uran Yellow Cake. Na nową listę obserwacyjną trafiła z kolei gromadząca ethereum spółka SharpLink, co oznacza dla niej ostrzeżenie i ryzyko wykluczenia przy kolejnej rewizji indeksów.",
+        "Wykluczenie z indeksów MSCI oznacza, że fundusze pasywne oraz ETF-y odwzorowujące te wskaźniki będą musiały automatycznie pozbyć się walorów Strategy po zamknięciu sesji 30 listopada (zmiany wejdą w życie 1 grudnia).",
+        "Jak wynika z szacunków samej spółki Strategy, przymusowa podaż ze strony funduszy śledzących MSCI może objąć około 13 mln akcji o wartości rzędu 1,6 mld dol. Większe ryzyko wiąże się z efektem domina - analitycy JPMorgan oceniali wcześniej, że gdyby śladem MSCI poszli kolejni dostawcy indeksów, odpływ kapitału ze Strategy mógłby sięgnąć nawet 8,8 mld dol.",
+        "Sama spółka już wcześniej próbowała zablokować te zmiany, nazywając w formalnym piśmie kryteria MSCI \"pretekstem\" i wskazując, że odpowiada za około 87% kapitalizacji wszystkich sześciu wykluczanych podmiotów."
       ]
     },
     {
@@ -2348,10 +2144,10 @@
       "original_title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
       "is_foreign": true,
       "lang": "EN",
-      "time": "11:00",
+      "time": "22:00",
       "source": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108548604-1794349959300-gettyimages-2304504774-anotherday36809902_nb5fdvlx.jpeg?v=1795623957&amp;w=1920&amp;h=1080",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108560334-1795816810559-gettyimages-2248285067-emaz-1_em27443.jpeg?v=1795816828&amp;w=1920&amp;h=1080",
       "image_source": "Fot. / Źródło: CNBC Finance",
       "lead_story": false,
       "summary_points": [
